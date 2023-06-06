@@ -9,10 +9,10 @@ import random
 
 def sample_question(oracle_start_state, oracle, agent1, agent2, obj, question):
     idx_dummy = [0]
-    questions = [Question(idx_dummy, SearchedAction(oracle, agent1, obj)),
-                 Question(idx_dummy, SearchedAction(oracle, agent2, obj)),
-                 Question(idx_dummy, BeliefSearchAction(oracle, agent1, agent2, obj)), 
-                 Question(idx_dummy, RealityAction(oracle, obj)),
+    questions = [Question(idx_dummy, FirstQ(oracle, agent1, obj)),
+                 Question(idx_dummy, FirstQ(oracle, agent2, obj)),
+                 Question(idx_dummy, SecondQ(oracle, agent1, agent2, obj)), 
+                 Question(idx_dummy, ZeroQ(oracle, obj)),
                  Question(idx_dummy, MemoryAction(oracle_start_state, obj))
                 ]
     if question:

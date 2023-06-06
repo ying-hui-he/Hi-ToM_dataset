@@ -168,7 +168,7 @@ class InformLocationAction(Action):
 #######  Deterministic Actions for New Task  #######
 ####################################################
 
-class SearchedAction(Action):
+class FirstQ(Action):
 
     def __init__(self):
         templates = {
@@ -178,7 +178,7 @@ class SearchedAction(Action):
         }
         super().__init__(templates)
         
-class BeliefSearchAction(Action):
+class SecondQ(Action):
 
     def __init__(self):
         templates = {
@@ -188,7 +188,7 @@ class BeliefSearchAction(Action):
         }
         super().__init__(templates)
 
-class RealityAction(Action):
+class ZeroQ(Action):
 
     def __init__(self):
         templates = {

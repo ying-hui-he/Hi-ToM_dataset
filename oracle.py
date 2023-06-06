@@ -23,24 +23,29 @@ class LocationMap(object):
         
         # Maps objects to their containers
         self.obj_containers = {obj : None for obj in objects}
-
+        
 class MemoryMap(object):
     
     def __init__(self, agents, objects):
         
-        obj_dict = {obj : None for obj in objects}
-        mem_dict = {agent : copy.deepcopy(obj_dict) for agent in agents}
+        zero_dict = {obj : None for obj in objects}
+        first_dict = {agent : copy.deepcopy(zero_dict) for agent in agents}
+        second_dict = {agent : copy.deepcopy(first_dict) for agent in agents}
+        third_dict = {agent : copy.deepcopy(second_dict) for agent in agents}
+        fourth_dict = {agent : copy.deepcopy(third_dict) for agent in agents}
         
         # Dictionary of dictionaries mapping
         # agents to objects to containers. Represents
         # agents' belief about location of containers.
-        self.direct_beliefs = copy.deepcopy(mem_dict)
+        self.first_belief = copy.deepcopy(first_dict)
         
         # Dictionary of dictionaries of dictionaries
         # mapping agents to direct belief dictionaries.
         # Represents agents' belief about other agents'
         # beliefs about location of containers.
-        self.indirect_beliefs = {agent : copy.deepcopy(mem_dict) for agent in agents}
+        self.second_belief = copy.deepcopy(second_dict)
+        self.third_belief = copy.deepcopy(third_dict)
+        self.fourth_belief = copy.deepcopy(fourth_dict)
 
 class Oracle(object):
 
@@ -52,21 +57,37 @@ class Oracle(object):
     ################ Beliefs ################
     #########################################
     
-    def get_direct_belief(self, agent, obj):
-        beliefs = self.memory_map.direct_beliefs
+    def get_first_belief(self, agent, obj):
+        beliefs = self.memory_map.first_belief
         return beliefs[agent][obj]
     
-    def set_direct_belief(self, agent, obj, container):
-        beliefs = self.memory_map.direct_beliefs
+    def set_first_belief(self, agent, obj, container):
+        beliefs = self.memory_map.first_belief
         beliefs[agent][obj] = container
     
-    def get_indirect_belief(self, a1, a2, obj):
-        indirect_beliefs = self.memory_map.indirect_beliefs
-        return indirect_beliefs[a1][a2][obj]
+    def get_second_belief(self, a1, a2, obj):
+        second_belief = self.memory_map.second_belief
+        return second_belief[a1][a2][obj]
             
-    def set_indirect_belief(self, a1, a2, obj, container):
-        indirect_beliefs = self.memory_map.indirect_beliefs
-        indirect_beliefs[a1][a2][obj] = container
+    def set_second_belief(self, a1, a2, obj, container):
+        second_belief = self.memory_map.second_belief
+        second_belief[a1][a2][obj] = container
+
+    def get_third_belief(self, a1, a2, a3, obj):
+        third_belief = self.memory_map.third_belief
+        return third_belief[a1][a2][a3][obj]
+            
+    def set_third_belief(self, a1, a2, a3, obj, container):
+        third_belief = self.memory_map.third_belief
+        third_belief[a1][a2][a3][obj] = container
+    
+    def get_fourth_belief(self, a1, a2, a3, a4, obj):
+        fourth_belief = self.memory_map.fourth_belief
+        return fourth_belief[a1][a2][a3][a4][obj]
+            
+    def set_fourth_belief(self, a1, a2, a3, a4, obj, container):
+        fourth_belief = self.memory_map.fourth_belief
+        fourth_belief[a1][a2][a3][a4][obj] = container
     
     #########################################
     ############### Locations ###############
@@ -95,7 +116,7 @@ class Oracle(object):
             objects.extend(self.get_container_obj(container))
         return objects
        
-    def get_container_location(self, containers):
+    def get_container_location(self, container):
         return self.locations.container_locations[container]
     
     def _set_container_location(self, container, location):
