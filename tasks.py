@@ -28,6 +28,33 @@ def sample_question(oracle_start_state, oracle, agent1, agent2, obj, question):
 
 # -------------------------------- Chapters ---------------------------------- #
 
+def write_A2_chapter(
+        start_state, oracle, location, agent_ids, all_agents, questions=None
+        ):
+    a1, a2 = all_agents[agent_ids[0]], all_agents[agent_ids[1]]
+    agent_ids = [aid+1 for aid in agent_ids]
+
+    # Pick random object at location
+    obj = np.random.choice(oracle.get_objects_at_location(location))
+    container_current = oracle.get_object_container(obj)
+    
+    # Pick random container in locations
+    container_candidates = oracle.get_containers(location)[:]
+    container_candidates.remove(container_current)
+
+    chapter = []
+
+    # All selected agents enter the room
+    chapter.extend([
+            Clause(EnterAction(oracle, (a1, a2, location)))
+        ])
+    
+    chapter.extend([ 
+        Clause(ObjectLocAction(oracle, obj, [a1, a2])),
+        
+    ])
+    
+
 def write_true_belief_chapter(
     start_state, oracle, location, agent_ids, all_agents, questions=None
 ):
@@ -60,6 +87,7 @@ def write_true_belief_chapter(
     container_2 = np.random.choice(container_candidates) 
     
     chapter = []
+
     
     # Move agents into location
     if oracle.get_location(a1) == location:
