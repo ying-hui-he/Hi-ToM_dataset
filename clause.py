@@ -3,7 +3,7 @@ import numpy as np
 
 class Clause(object):
 
-    def __init__(self, observers, action):
+    def __init__(self, action, observers=None):
 
         if observers is not None:
             assert 0 not in observers, "Observer IDs must be 1-indexed"
