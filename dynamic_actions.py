@@ -180,37 +180,45 @@ class ExitedAction(Action):
 
 class MoveAction(Action):
 
-    def __init__(self, oracle, args, observers=None):
-        templates = {
-            'declarative': [
-                '%s moved the %s to the %s.' % args,
-            ]
-        }
+    def __init__(self, oracle, args, observers=None, move=True):
+        if not move:
+            templates = {
+                'declarative': [
+                    '%s made no movements and stayed for 10 minutes.' % args[0],
+                ]
+            }
 
-        agent, obj, container = args
-        oracle.set_object_container(obj, container)
+        else:
+            templates = {
+                'declarative': [
+                    '%s moved the %s to the %s.' % args,
+                ]
+            }
 
-        if not observers:
-            observers = []
-        observers.append(agent)
+            agent, obj, container = args
+            oracle.set_object_container(obj, container)
 
-        # set first beliefs
-        for observer in observers:
-            oracle.set_first_belief(observer, obj, container)
+            if not observers:
+                observers = []
+            observers.append(agent)
 
-        # set second beliefs
-        for observer1, observer2 in combinations(observers, 2):
-            oracle.set_second_belief(observer1, observer2, obj, container)
+            # set first beliefs
+            for observer in observers:
+                oracle.set_first_belief(observer, obj, container)
 
-        # set third beliefs
-        for observer1, observer2, observer3 in combinations(observers, 3):
-            oracle.set_third_belief(
-                observer1, observer2, observer3, obj, container)
+            # set second beliefs
+            for observer1, observer2 in combinations(observers, 2):
+                oracle.set_second_belief(observer1, observer2, obj, container)
 
-        # set fourth beliefs
-        for observer1, observer2, observer3, observer4 in combinations(observers, 4):
-            oracle.set_fourth_belief(
-                observer1, observer2, observer3, observer4, obj, container)
+            # set third beliefs
+            for observer1, observer2, observer3 in combinations(observers, 3):
+                oracle.set_third_belief(
+                    observer1, observer2, observer3, obj, container)
+
+            # set fourth beliefs
+            for observer1, observer2, observer3, observer4 in combinations(observers, 4):
+                oracle.set_fourth_belief(
+                    observer1, observer2, observer3, observer4, obj, container)
 
         super().__init__(templates)
 
