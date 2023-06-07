@@ -171,7 +171,7 @@ class ExitedAction(Action):
 
         templates = {
             'declarative': [
-                '%s exited the %s and stayed in the waiting room.' % fill,
+                '%s exited the %s and stayed in the waiting_room.' % fill,
             ]
         }
         oracle.set_location(agent, None)
