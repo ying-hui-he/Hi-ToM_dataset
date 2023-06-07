@@ -34,6 +34,7 @@ def write_A2_chapter(
         start_state, oracle, location, agent_ids, all_agents, movements=None, exist_tell=False, questions=None
 ):
     a1, a2 = all_agents[agent_ids[0]], all_agents[agent_ids[1]]
+    outsiders = [agent for agent in all_agents if agent not in [a1, a2, a3]]
     agent_ids = [aid+1 for aid in agent_ids]
 
     # Pick random object at location
@@ -73,28 +74,220 @@ def write_A2_chapter(
     # tell actions has 3 different forms
     if exist_tell:
         tell_containers = random.sample(oracle.get_containers(location)[:], 2)
-        tell_form = random.choice(range(3))
+        tell_form = random.choice(
+            range(3)) if outsiders else random.choice(range(2))
         match tell_form:
             case 0:
                 chapter.extend([
-                    Clause(PublicTellAction(oracle, a1, obj, tell_containers[0], listeners=all_agents, belivers=list(
-                        set(all_agents)-set([a1, a2])))),
+                    Clause(PublicTellAction(
+                        oracle, a1, obj, tell_containers[0], listeners=all_agents, belivers=outsiders)),
                     Clause(PrivateTellAction(oracle, a2, a1,
                            obj, tell_containers[1], trust=True)),
                 ])
             case 1:
                 chapter.extend([
-                    Clause(PublicTellAction(oracle, a2, obj, tell_containers[0], listeners=all_agents, belivers=list(
-                        set(all_agents)-set([a2])))),
+                    Clause(PublicTellAction(
+                        oracle, a2, obj, tell_containers[0], listeners=all_agents, belivers=[a1] + outsiders)),
                     Clause(PrivateTellAction(oracle, a1, a2, obj,
                            tell_containers[1], trust=False)),
                 ])
             case 2:
-                outside_agent = random.choice(
-                    list(set(all_agents)-set([a1, a2])))
                 chapter.extend([
-                    Clause(PrivateTellAction(oracle, a1, outside_agent,
-                           obj, tell_containers[0], trust=True))
+                    Clause(PrivateTellAction(oracle, a1, random.choice(outsiders),
+                                             obj, tell_containers[0], trust=True))
+                ])
+
+
+def write_A3_chapter(
+        start_state, oracle, location, agent_ids, all_agents, movements=None, exist_tell=False, questions=None
+):
+    a1, a2, a3 = all_agents[agent_ids[0]
+                            ], all_agents[agent_ids[1]], all_agents[agent_ids[2]]
+    outsiders = [agent for agent in all_agents if agent not in [a1, a2, a3]]
+    agent_ids = [aid+1 for aid in agent_ids]
+
+    # Pick random object at location
+    obj = np.random.choice(oracle.get_objects_at_location(location))
+
+    # Pick containers. The first element is the initial container of obj
+    containers = [oracle.get_object_container(obj)]
+    container_candidates = oracle.get_containers(
+        location)[:].remove(containers[0])
+    containers += random.sample(container_candidates, 3)
+
+    # Fill in the chapter
+    chapter = []
+
+    # All selected agents enter the room and see the object
+    chapter.extend([
+        Clause(EnterAction(oracle, (a1, a2, a3, location))),
+        Clause(ObjectLocAction(oracle, obj, [a1, a2, a3])),
+    ])
+
+    if movements[0]:
+        chapter.extend([
+            Clause(MoveAction(oracle, (a1, obj, containers[1]), [a2, a3]))
+        ])
+    chapter.extend([
+        Clause(ExitedAction(oracle, (a1)))
+    ])
+
+    if movements[1]:
+        chapter.extend([
+            Clause(MoveAction(oracle, (a2, obj, containers[2]), [a3]))
+        ])
+    chapter.extend([
+        Clause(ExitedAction(oracle, (a2)))
+    ])
+
+    if movements[2]:
+        chapter.extend([
+            Clause(MoveAction(oracle, (a3, obj, containers[3]), None))
+        ])
+    chapter.extend([
+        Clause(ExitedAction(oracle, (a3)))
+    ])
+
+    # tell actions has 4 different forms
+    if exist_tell:
+        tell_containers = random.sample(oracle.get_containers(location)[:], 2)
+        tell_form = random.choice(
+            range(4)) if outsiders else random.choice(range(2))
+        match tell_form:
+            case 0:
+                # a2 lies to all, and a3 lies to a2
+                chapter.extend([
+                    Clause(PublicTellAction(
+                        oracle, a2, obj, tell_containers[0], listeners=all_agents, belivers=[a1] + outsiders)),
+                    Clause(PrivateTellAction(oracle, a3, a2,
+                           obj, tell_containers[1], trust=True)),
+                ])
+            case 1:
+                # a3 lies to all, and a1 lies to a3
+                chapter.extend([
+                    Clause(PublicTellAction(
+                        oracle, a3, obj, tell_containers[0], listeners=all_agents, belivers=[a1, a2] + outsiders)),
+                    Clause(PrivateTellAction(oracle, a1, a3, obj,
+                           tell_containers[1], trust=False)),
+                ])
+            case 2:
+                outsider = random.choice(outsiders)
+                # a1 lies to all, but a3 tells the true location to an outside agent
+                chapter.extend([
+                    Clause(PublicTellAction(
+                        oracle, a1, obj, tell_containers[0], listeners=all_agents, belivers=outsiders)),
+                    Clause(PrivateTellAction(oracle, a3, outsider,
+                           obj, oracle.get_object_container(obj), trust=True))
+                ])
+            case 3:
+                outsider = random.choice(outsiders)
+                # a2 lies to a3, but a3 tells the true location to an outside agent
+                chapter.extend([
+                    Clause(PrivateTellAction(oracle, a2, a3,
+                           obj, tell_containers[0], trust=False)),
+                    Clause(PrivateTellAction(oracle, a3, outsider,
+                           obj, oracle.get_object_container(obj), trust=True))
+                ])
+
+
+def write_A4_chapter(
+        start_state, oracle, location, agent_ids, all_agents, movements=None, exist_tell=False, questions=None
+):
+    a1, a2, a3, a4 = all_agents[agent_ids[0]
+                                ], all_agents[agent_ids[1]], all_agents[agent_ids[2]], all_agents[agent_ids[3]]
+    outsiders = [
+        agent for agent in all_agents if agent not in [a1, a2, a3, a4]]
+    agent_ids = [aid+1 for aid in agent_ids]
+
+    # Pick random object at location
+    obj = np.random.choice(oracle.get_objects_at_location(location))
+
+    # Pick containers. The first element is the initial container of obj
+    containers = [oracle.get_object_container(obj)]
+    container_candidates = oracle.get_containers(
+        location)[:].remove(containers[0])
+    containers += random.sample(container_candidates, 4)
+
+    # Fill in the chapter
+    chapter = []
+
+    # All selected agents enter the room and see the object
+    chapter.extend([
+        Clause(EnterAction(oracle, (a1, a2, a3, a4, location))),
+        Clause(ObjectLocAction(oracle, obj, [a1, a2, a3, a4])),
+    ])
+
+    if movements[0]:
+        chapter.extend([
+            Clause(MoveAction(oracle, (a1, obj, containers[1]), [a2, a3, a4]))
+        ])
+    chapter.extend([
+        Clause(ExitedAction(oracle, (a1)))
+    ])
+
+    if movements[1]:
+        chapter.extend([
+            Clause(MoveAction(oracle, (a2, obj, containers[2]), [a3, a4]))
+        ])
+    chapter.extend([
+        Clause(ExitedAction(oracle, (a2)))
+    ])
+
+    if movements[2]:
+        chapter.extend([
+            Clause(MoveAction(oracle, (a3, obj, containers[3]), [a4]))
+        ])
+    chapter.extend([
+        Clause(ExitedAction(oracle, (a3)))
+    ])
+
+    if movements[3]:
+        chapter.extend([
+            Clause(MoveAction(oracle, (a4, obj, containers[4]), None))
+        ])
+    chapter.extend([
+        Clause(ExitedAction(oracle, (a4)))
+    ])
+
+    # tell actions has 4 different forms
+    if exist_tell:
+        tell_containers = random.sample(oracle.get_containers(location)[:], 2)
+        tell_form = random.choice(
+            range(4)) if outsiders else random.choice(range(2))
+        match tell_form:
+            case 0:
+                # a2 lies to all, and a3 lies to a2
+                chapter.extend([
+                    Clause(PublicTellAction(
+                        oracle, a2, obj, tell_containers[0], listeners=all_agents, belivers=[a1] + outsiders)),
+                    Clause(PrivateTellAction(oracle, a4, a3,
+                           obj, tell_containers[1], trust=True)),
+                ])
+            case 1:
+                # a3 lies to all, and a1 lies to a4
+                chapter.extend([
+                    Clause(PublicTellAction(
+                        oracle, a3, obj, tell_containers[0], listeners=all_agents, belivers=[a1, a2] + outsiders)),
+                    Clause(PrivateTellAction(oracle, a1, a4, obj,
+                           tell_containers[1], trust=False)),
+                ])
+            case 2:
+                outsider = random.choice(outsiders)
+                # a1 lies to all, but a4 tells the true location to an outside agent
+                chapter.extend([
+                    Clause(PublicTellAction(
+                        oracle, a1, obj, tell_containers[0], listeners=all_agents, belivers=outsiders)),
+                    Clause(PrivateTellAction(oracle, a4, outsider,
+                           obj, oracle.get_object_container(obj), trust=True))
+                ])
+            case 3:
+                outsider = random.choice(outsiders)
+                # a2 lies to a3, but a4 tells the true location to an outside agent
+                chapter.extend([
+                    Clause(PrivateTellAction(oracle, a2, a3,
+                           obj, tell_containers[0], trust=False)),
+                    Clause(PrivateTellAction(oracle, a4, outsider,
+                           obj, oracle.get_object_container(obj), trust=True))
                 ])
 
 
