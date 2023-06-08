@@ -1,44 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jack, Evelyn, Logan, Emma and Noah entered the workshop.
-2 The potato is in the red_basket.
-3 Jack made no movements and stayed in the workshop for 10 minutes.
-4 Jack exited the workshop and stayed in the waiting_room.
-5 Evelyn moved the potato to the green_bottle.
-6 Evelyn exited the workshop and stayed in the waiting_room.
-7 Logan moved the potato to the green_container.
-8 Logan exited the workshop and stayed in the waiting_room.
-9 Emma made no movements and stayed in the workshop for 10 minutes.
-10 Emma exited the workshop and stayed in the waiting_room.
-11 Noah made no movements and stayed in the workshop for 10 minutes.
-12 Noah exited the workshop and stayed in the waiting_room.
-13 Noah, Evelyn and Emma entered the kitchen.
-14 The asparagus is in the blue_bottle.
-15 Noah moved the asparagus to the green_cupboard.
-16 Noah exited the kitchen and stayed in the waiting_room.
-17 Evelyn moved the asparagus to the blue_bathtub.
-18 Evelyn exited the kitchen and stayed in the waiting_room.
-19 Emma made no movements and stayed in the kitchen for 10 minutes.
-20 Emma exited the kitchen and stayed in the waiting_room.
-21 Noah publicly claimed that asparagus is in the red_bathtub.
-22 Emma privately told Jack that the asparagus is actually in the blue_bathtub.
-23 Logan, Emma, Noah and Evelyn entered the hallway.
-24 The pineapple is in the red_suitcase.
-25 Logan moved the pineapple to the green_bathtub.
-26 Logan exited the hallway and stayed in the waiting_room.
-27 Emma moved the pineapple to the red_drawer.
-28 Emma exited the hallway and stayed in the waiting_room.
-29 Noah made no movements and stayed in the hallway for 10 minutes.
-30 Noah exited the hallway and stayed in the waiting_room.
-31 Evelyn moved the pineapple to the blue_treasure_chest.
-32 Evelyn exited the hallway and stayed in the waiting_room.
-33 Evelyn and Logan entered the kitchen.
-34 The tomato is in the green_cupboard.
-35 Evelyn made no movements and stayed in the kitchen for 10 minutes.
-36 Evelyn exited the kitchen and stayed in the waiting_room.
-37 Logan moved the tomato to the blue_suitcase.
-38 Logan exited the kitchen and stayed in the waiting_room.
-39 Evelyn privately told Emma that the tomato is actually in the green_cupboard.
-Question: Where does Noah think Evelyn thinks Emma thinks the potato is?
-Choices: A. green_bottle, B. red_basket, C. green_container, D. green_treasure_chest, E. blue_basket, F. red_suitcase, G. green_bathtub, H. red_container, I. red_drawer, J. blue_treasure_chest, K. blue_bottle, L. green_cupboard, M. red_bathtub, N. blue_bathtub, O. blue_suitcase
+1 Owen, Ava, Charlotte, Hannah and Isla entered the playroom.
+2 The apple is in the green_basket.
+3 Owen made no movements and stayed in the playroom for 10 minutes.
+4 Owen exited the playroom and stayed in the waiting_room.
+5 Ava moved the apple to the blue_suitcase.
+6 Ava exited the playroom and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the playroom for 10 minutes.
+8 Charlotte exited the playroom and stayed in the waiting_room.
+9 Hannah made no movements and stayed in the playroom for 10 minutes.
+10 Hannah exited the playroom and stayed in the waiting_room.
+11 Isla moved the apple to the green_basket.
+12 Isla exited the playroom and stayed in the waiting_room.
+13 Owen, Ava and Isla entered the office.
+14 The green_pepper is in the green_envelope.
+15 Owen made no movements and stayed in the office for 10 minutes.
+16 Owen exited the office and stayed in the waiting_room.
+17 Ava moved the green_pepper to the green_bottle.
+18 Ava exited the office and stayed in the waiting_room.
+19 Isla made no movements and stayed in the office for 10 minutes.
+20 Isla exited the office and stayed in the waiting_room.
+21 Isla publicly claimed that green_pepper is in the blue_envelope.
+22 Owen privately told Isla that the green_pepper is actually in the red_box.
+23 Charlotte, Ava, Hannah and Isla entered the playroom.
+24 Ava dislikes the melon.
+25 The apple is in the green_basket.
+26 Charlotte moved the apple to the blue_suitcase.
+27 Charlotte exited the playroom and stayed in the waiting_room.
+28 Ava moved the apple to the green_suitcase.
+29 Ava exited the playroom and stayed in the waiting_room.
+30 Hannah moved the apple to the green_box.
+31 Hannah exited the playroom and stayed in the waiting_room.
+32 Isla moved the apple to the green_pantry.
+33 Isla exited the playroom and stayed in the waiting_room.
+34 Charlotte and Ava entered the TV_room.
+35 The lemon is in the red_bathtub.
+36 Charlotte moved the lemon to the blue_crate.
+37 Charlotte exited the TV_room and stayed in the waiting_room.
+38 Ava moved the lemon to the blue_bathtub.
+39 Ava exited the TV_room and stayed in the waiting_room.
+40 Charlotte privately told Owen that the lemon is actually in the blue_crate.
+Question: Where does Ava think Charlotte thinks Owen thinks the apple is?
+Choices: A. green_bucket, B. green_envelope, C. green_bottle, D. blue_envelope, E. red_box, F. blue_suitcase, G. green_basket, H. green_box, I. green_pantry, J. green_suitcase, K. red_bathtub, L. blue_crate, M. green_cupboard, N. blue_bathtub, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

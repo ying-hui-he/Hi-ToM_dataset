@@ -1,41 +1,47 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 William, Aria, Amelia, Noah and Carter entered the basement.
-2 The corn is in the green_bottle.
-3 William moved the corn to the blue_crate.
-4 William exited the basement and stayed in the waiting_room.
-5 Aria moved the corn to the red_treasure_chest.
-6 Aria exited the basement and stayed in the waiting_room.
-7 Amelia moved the corn to the red_envelope.
-8 Amelia exited the basement and stayed in the waiting_room.
-9 Noah made no movements and stayed in the basement for 10 minutes.
-10 Noah exited the basement and stayed in the waiting_room.
-11 Carter made no movements and stayed in the basement for 10 minutes.
-12 Carter exited the basement and stayed in the waiting_room.
-13 Aria, Noah and Carter entered the bedroom.
-14 The radish is in the red_suitcase.
-15 Aria made no movements and stayed in the bedroom for 10 minutes.
-16 Aria exited the bedroom and stayed in the waiting_room.
-17 Noah made no movements and stayed in the bedroom for 10 minutes.
-18 Noah exited the bedroom and stayed in the waiting_room.
-19 Carter moved the radish to the green_treasure_chest.
-20 Carter exited the bedroom and stayed in the waiting_room.
-21 Aria, Amelia, Noah and Carter entered the bedroom.
-22 The radish is in the green_treasure_chest.
-23 Aria moved the radish to the red_suitcase.
-24 Aria exited the bedroom and stayed in the waiting_room.
-25 Amelia moved the radish to the red_basket.
-26 Amelia exited the bedroom and stayed in the waiting_room.
-27 Noah made no movements and stayed in the bedroom for 10 minutes.
-28 Noah exited the bedroom and stayed in the waiting_room.
-29 Carter moved the radish to the red_container.
-30 Carter exited the bedroom and stayed in the waiting_room.
-31 Noah and Carter entered the bedroom.
-32 The tangerine is in the red_container.
-33 Noah made no movements and stayed in the bedroom for 10 minutes.
-34 Noah exited the bedroom and stayed in the waiting_room.
-35 Carter made no movements and stayed in the bedroom for 10 minutes.
-36 Carter exited the bedroom and stayed in the waiting_room.
-Question: Where does Amelia think Noah thinks Carter thinks William thinks the corn is?
-Choices: A. red_envelope, B. green_bottle, C. red_bucket, D. blue_crate, E. red_treasure_chest, F. red_suitcase, G. red_container, H. green_treasure_chest, I. red_basket, J. blue_suitcase, K. blue_box, L. blue_envelope, M. green_crate, N. green_envelope, O. blue_pantry
+1 Hannah dislikes the green_pepper.
+2 Hannah, Isabella, Mila, Emma and Jackson entered the basement.
+3 The onion is in the blue_suitcase.
+4 Mila likes the green_treasure_chest.
+5 Hannah made no movements and stayed in the basement for 10 minutes.
+6 Hannah exited the basement and stayed in the waiting_room.
+7 Isabella made no movements and stayed in the basement for 10 minutes.
+8 Isabella exited the basement and stayed in the waiting_room.
+9 Mila moved the onion to the blue_bottle.
+10 Mila exited the basement and stayed in the waiting_room.
+11 Emma made no movements and stayed in the basement for 10 minutes.
+12 Emma exited the basement and stayed in the waiting_room.
+13 Jackson moved the onion to the blue_suitcase.
+14 Jackson exited the basement and stayed in the waiting_room.
+15 Emma, Hannah and Mila entered the basement.
+16 Jackson saw a cat.
+17 The eggplant is in the red_pantry.
+18 Emma moved the eggplant to the blue_bottle.
+19 Emma exited the basement and stayed in the waiting_room.
+20 Hannah saw a monkey.
+21 Hannah moved the eggplant to the blue_suitcase.
+22 Hannah exited the basement and stayed in the waiting_room.
+23 Isabella lost his watch.
+24 Mila moved the eggplant to the green_treasure_chest.
+25 Mila exited the basement and stayed in the waiting_room.
+26 Hannah, Emma, Isabella and Mila entered the porch.
+27 The tomato is in the red_basket.
+28 Hannah made no movements and stayed in the porch for 10 minutes.
+29 Hannah exited the porch and stayed in the waiting_room.
+30 Emma made no movements and stayed in the porch for 10 minutes.
+31 Emma exited the porch and stayed in the waiting_room.
+32 Isabella made no movements and stayed in the porch for 10 minutes.
+33 Isabella exited the porch and stayed in the waiting_room.
+34 Mila moved the tomato to the red_treasure_chest.
+35 Mila exited the porch and stayed in the waiting_room.
+36 Hannah and Isabella entered the crawlspace.
+37 The asparagus is in the blue_envelope.
+38 Hannah made no movements and stayed in the crawlspace for 10 minutes.
+39 Hannah exited the crawlspace and stayed in the waiting_room.
+40 Isabella made no movements and stayed in the crawlspace for 10 minutes.
+41 Emma likes the red_envelope.
+42 Isabella exited the crawlspace and stayed in the waiting_room.
+Question: Where does Jackson think Isabella thinks Mila thinks Hannah thinks the onion is?
+Choices: A. red_pantry, B. blue_suitcase, C. blue_treasure_chest, D. green_treasure_chest, E. blue_bottle, F. blue_envelope, G. red_bottle, H. red_envelope, I. red_container, J. green_box, K. red_basket, L. green_cupboard, M. red_treasure_chest, N. blue_drawer, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

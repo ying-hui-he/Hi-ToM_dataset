@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Isla, Jackson, Olivia and Mia entered the dining_room.
-2 The peach is in the red_crate.
-3 Jacob moved the peach to the red_bathtub.
-4 Jacob exited the dining_room and stayed in the waiting_room.
-5 Isla made no movements and stayed in the dining_room for 10 minutes.
-6 Isla exited the dining_room and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the dining_room for 10 minutes.
-8 Jackson exited the dining_room and stayed in the waiting_room.
-9 Olivia made no movements and stayed in the dining_room for 10 minutes.
-10 Olivia exited the dining_room and stayed in the waiting_room.
-11 Mia moved the peach to the red_crate.
-12 Mia exited the dining_room and stayed in the waiting_room.
-13 Isla, Jacob and Olivia entered the hallway.
-14 The lemon is in the blue_crate.
-15 Isla made no movements and stayed in the hallway for 10 minutes.
-16 Isla exited the hallway and stayed in the waiting_room.
-17 Jacob made no movements and stayed in the hallway for 10 minutes.
-18 Jacob exited the hallway and stayed in the waiting_room.
-19 Olivia made no movements and stayed in the hallway for 10 minutes.
-20 Olivia exited the hallway and stayed in the waiting_room.
-21 Jacob publicly claimed that lemon is in the blue_bathtub.
-22 Olivia privately told Jacob that the lemon is actually in the green_crate.
-Question: Where does Mia think Jacob thinks Olivia thinks Isla thinks the peach is?
+1 Nathan, Emma, Liam, Jacob and Chloe entered the den.
+2 The lettuce is in the red_bathtub.
+3 Nathan moved the lettuce to the blue_bucket.
+4 Nathan exited the den and stayed in the waiting_room.
+5 Emma moved the lettuce to the red_bucket.
+6 Emma exited the den and stayed in the waiting_room.
+7 Nathan dislikes the green_pepper.
+8 Liam moved the lettuce to the red_pantry.
+9 Liam exited the den and stayed in the waiting_room.
+10 Jacob moved the lettuce to the blue_bathtub.
+11 Jacob exited the den and stayed in the waiting_room.
+12 Chloe moved the lettuce to the red_bathtub.
+13 Chloe exited the den and stayed in the waiting_room.
+14 Nathan, Liam and Jacob entered the den.
+15 The green_pepper is in the red_pantry.
+16 Nathan made no movements and stayed in the den for 10 minutes.
+17 Nathan exited the den and stayed in the waiting_room.
+18 Liam made no movements and stayed in the den for 10 minutes.
+19 Liam exited the den and stayed in the waiting_room.
+20 Emma saw a monkey.
+21 Jacob moved the green_pepper to the red_bucket.
+22 Jacob exited the den and stayed in the waiting_room.
+23 Liam privately told Jacob that the green_pepper is actually in the blue_bathtub.
+24 Jacob privately told Chloe that the green_pepper is actually in the red_bucket.
+Question: Where does Emma think Jacob thinks Liam thinks Chloe thinks the lettuce is?
 Answer: None
-Choices: A. red_crate, B. blue_treasure_chest, C. red_bathtub, D. green_cupboard, E. red_basket, F. blue_crate, G. blue_suitcase, H. red_bottle, I. blue_bathtub, J. green_crate, K. red_suitcase, L. blue_box, M. blue_pantry, N. red_drawer, O. red_envelope
+Choices: A. green_basket, B. red_crate, C. green_pantry, D. green_bucket, E. blue_cupboard, F. red_bathtub, G. red_pantry, H. blue_bucket, I. red_bucket, J. blue_bathtub, K. blue_suitcase, L. red_cupboard, M. blue_bottle, N. red_basket, O. green_treasure_chest

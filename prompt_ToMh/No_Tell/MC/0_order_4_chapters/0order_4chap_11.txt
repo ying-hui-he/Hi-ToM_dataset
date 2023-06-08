@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Avery, Ethan, Oliver, Charlotte and Gracie entered the hallway.
-2 The spinach is in the blue_pantry.
-3 Avery made no movements and stayed in the hallway for 10 minutes.
-4 Avery exited the hallway and stayed in the waiting_room.
-5 Ethan made no movements and stayed in the hallway for 10 minutes.
-6 Ethan exited the hallway and stayed in the waiting_room.
-7 Oliver made no movements and stayed in the hallway for 10 minutes.
-8 Oliver exited the hallway and stayed in the waiting_room.
-9 Charlotte made no movements and stayed in the hallway for 10 minutes.
-10 Charlotte exited the hallway and stayed in the waiting_room.
-11 Gracie moved the spinach to the blue_pantry.
-12 Gracie exited the hallway and stayed in the waiting_room.
-13 Avery, Oliver and Gracie entered the hallway.
-14 The cherry is in the blue_basket.
-15 Avery made no movements and stayed in the hallway for 10 minutes.
-16 Avery exited the hallway and stayed in the waiting_room.
-17 Oliver moved the cherry to the blue_bottle.
-18 Oliver exited the hallway and stayed in the waiting_room.
-19 Gracie moved the cherry to the blue_envelope.
-20 Gracie exited the hallway and stayed in the waiting_room.
-21 Oliver, Avery, Ethan and Gracie entered the hallway.
-22 The spinach is in the blue_pantry.
-23 Oliver made no movements and stayed in the hallway for 10 minutes.
-24 Oliver exited the hallway and stayed in the waiting_room.
-25 Avery made no movements and stayed in the hallway for 10 minutes.
-26 Avery exited the hallway and stayed in the waiting_room.
-27 Ethan made no movements and stayed in the hallway for 10 minutes.
-28 Ethan exited the hallway and stayed in the waiting_room.
-29 Gracie made no movements and stayed in the hallway for 10 minutes.
-30 Gracie exited the hallway and stayed in the waiting_room.
-31 Charlotte and Ethan entered the hallway.
-32 The cherry is in the blue_envelope.
-33 Charlotte made no movements and stayed in the hallway for 10 minutes.
-34 Charlotte exited the hallway and stayed in the waiting_room.
-35 Ethan moved the cherry to the blue_basket.
-36 Ethan exited the hallway and stayed in the waiting_room.
-Question: Where is the spinach really?
-Choices: A. blue_pantry, B. blue_basket, C. blue_envelope, D. blue_drawer, E. blue_bottle, F. red_treasure_chest, G. blue_container, H. red_suitcase, I. green_container, J. blue_box, K. red_crate, L. blue_crate, M. blue_suitcase, N. green_suitcase, O. red_basket
+1 Ella, Liam, Aiden, Owen and Hannah entered the front_yard.
+2 The grapes is in the green_suitcase.
+3 Ella made no movements and stayed in the front_yard for 10 minutes.
+4 Ella exited the front_yard and stayed in the waiting_room.
+5 Ella saw a cat.
+6 Liam moved the grapes to the red_bucket.
+7 Liam exited the front_yard and stayed in the waiting_room.
+8 Aiden made no movements and stayed in the front_yard for 10 minutes.
+9 Aiden exited the front_yard and stayed in the waiting_room.
+10 Owen moved the grapes to the green_basket.
+11 Owen exited the front_yard and stayed in the waiting_room.
+12 Hannah made no movements and stayed in the front_yard for 10 minutes.
+13 Hannah exited the front_yard and stayed in the waiting_room.
+14 Hannah, Aiden and Ella entered the laundry.
+15 The green_pepper is in the red_box.
+16 Hannah moved the green_pepper to the green_pantry.
+17 Hannah exited the laundry and stayed in the waiting_room.
+18 Aiden moved the green_pepper to the blue_treasure_chest.
+19 Aiden exited the laundry and stayed in the waiting_room.
+20 Ella moved the green_pepper to the red_crate.
+21 Ella exited the laundry and stayed in the waiting_room.
+22 Aiden, Owen, Liam and Ella entered the laundry.
+23 The green_pepper is in the red_crate.
+24 Aiden made no movements and stayed in the laundry for 10 minutes.
+25 Aiden exited the laundry and stayed in the waiting_room.
+26 Owen moved the green_pepper to the red_box.
+27 Owen exited the laundry and stayed in the waiting_room.
+28 Liam made no movements and stayed in the laundry for 10 minutes.
+29 Liam exited the laundry and stayed in the waiting_room.
+30 Ella moved the green_pepper to the green_pantry.
+31 Ella exited the laundry and stayed in the waiting_room.
+32 Aiden and Ella entered the laundry.
+33 The green_pepper is in the green_pantry.
+34 Aiden moved the green_pepper to the green_bucket.
+35 Ella dislikes the pineapple.
+36 Aiden exited the laundry and stayed in the waiting_room.
+37 Ella made no movements and stayed in the laundry for 10 minutes.
+38 Ella exited the laundry and stayed in the waiting_room.
+Question: Where is the grapes really?
+Choices: A. red_box, B. green_pantry, C. red_crate, D. blue_treasure_chest, E. green_bucket, F. red_bottle, G. red_pantry, H. red_cupboard, I. green_bottle, J. blue_bottle, K. green_suitcase, L. blue_bathtub, M. green_basket, N. red_bucket, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

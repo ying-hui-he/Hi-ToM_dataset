@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Abigail, James, Emily, Oliver and Jack entered the pantry.
-2 The radish is in the red_basket.
-3 Abigail made no movements and stayed in the pantry for 10 minutes.
-4 Abigail exited the pantry and stayed in the waiting_room.
-5 James moved the radish to the red_container.
-6 James exited the pantry and stayed in the waiting_room.
-7 Emily made no movements and stayed in the pantry for 10 minutes.
-8 Emily exited the pantry and stayed in the waiting_room.
-9 Oliver moved the radish to the red_suitcase.
-10 Oliver exited the pantry and stayed in the waiting_room.
-11 Jack moved the radish to the red_basket.
-12 Jack exited the pantry and stayed in the waiting_room.
-13 Emily publicly claimed that radish is in the red_basket.
-14 Jack privately told Emily that the radish is actually in the blue_envelope.
-Question: Where does James think Abigail thinks Emily thinks Jack thinks the radish is?
-Choices: A. green_envelope, B. blue_drawer, C. red_drawer, D. blue_box, E. red_bucket, F. red_bathtub, G. red_crate, H. blue_bottle, I. green_cupboard, J. red_envelope, K. blue_suitcase, L. red_basket, M. blue_envelope, N. red_suitcase, O. red_container
+1 Emma, Logan, Lucas, Sophia and Carter entered the bedroom.
+2 The banana is in the blue_crate.
+3 Emma lost his watch.
+4 Emma made no movements and stayed in the bedroom for 10 minutes.
+5 Emma exited the bedroom and stayed in the waiting_room.
+6 Logan made no movements and stayed in the bedroom for 10 minutes.
+7 Logan exited the bedroom and stayed in the waiting_room.
+8 Lucas moved the banana to the blue_bathtub.
+9 Lucas exited the bedroom and stayed in the waiting_room.
+10 Sophia moved the banana to the red_bathtub.
+11 Sophia exited the bedroom and stayed in the waiting_room.
+12 Carter moved the banana to the blue_crate.
+13 Carter exited the bedroom and stayed in the waiting_room.
+14 Sophia publicly claimed that banana is in the green_treasure_chest.
+15 Carter privately told Emma that the banana is actually in the blue_crate.
+Question: Where does Carter think Emma thinks Logan thinks Sophia thinks the banana is?
+Choices: A. red_treasure_chest, B. red_crate, C. blue_drawer, D. red_container, E. red_bottle, F. blue_bottle, G. blue_suitcase, H. red_basket, I. red_envelope, J. green_bottle, K. blue_crate, L. green_treasure_chest, M. green_bathtub, N. red_bathtub, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

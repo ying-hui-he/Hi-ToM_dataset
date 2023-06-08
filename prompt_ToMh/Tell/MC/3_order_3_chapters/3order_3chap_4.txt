@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Mila, Aria, Hannah and Isla entered the den.
-2 The persimmon is in the blue_pantry.
-3 Gracie moved the persimmon to the blue_crate.
-4 Gracie exited the den and stayed in the waiting_room.
-5 Mila moved the persimmon to the blue_bottle.
-6 Mila exited the den and stayed in the waiting_room.
-7 Aria made no movements and stayed in the den for 10 minutes.
-8 Aria exited the den and stayed in the waiting_room.
-9 Hannah made no movements and stayed in the den for 10 minutes.
-10 Hannah exited the den and stayed in the waiting_room.
-11 Isla made no movements and stayed in the den for 10 minutes.
-12 Isla exited the den and stayed in the waiting_room.
-13 Hannah publicly claimed that persimmon is in the green_suitcase.
-14 Isla privately told Gracie that the persimmon is actually in the blue_bottle.
-15 Hannah, Gracie and Aria entered the den.
-16 The cucumber is in the blue_bottle.
-17 Hannah moved the cucumber to the blue_container.
-18 Hannah exited the den and stayed in the waiting_room.
-19 Gracie made no movements and stayed in the den for 10 minutes.
-20 Gracie exited the den and stayed in the waiting_room.
-21 Aria made no movements and stayed in the den for 10 minutes.
-22 Aria exited the den and stayed in the waiting_room.
-23 Mila, Aria, Gracie and Isla entered the basement.
-24 The carrot is in the red_crate.
-25 Mila made no movements and stayed in the basement for 10 minutes.
-26 Mila exited the basement and stayed in the waiting_room.
-27 Aria made no movements and stayed in the basement for 10 minutes.
-28 Aria exited the basement and stayed in the waiting_room.
-29 Gracie made no movements and stayed in the basement for 10 minutes.
-30 Gracie exited the basement and stayed in the waiting_room.
-31 Isla moved the carrot to the blue_box.
-32 Isla exited the basement and stayed in the waiting_room.
-33 Mila publicly claimed that carrot is in the red_crate.
-34 Isla privately told Hannah that the carrot is actually in the blue_box.
-Question: Where does Hannah think Mila thinks Gracie thinks the persimmon is?
-Choices: A. blue_bottle, B. blue_pantry, C. blue_container, D. blue_crate, E. green_suitcase, F. blue_basket, G. red_crate, H. blue_box, I. blue_bucket, J. green_crate, K. red_envelope, L. red_container, M. blue_suitcase, N. blue_bathtub, O. red_bathtub
+1 Mia, Sophia, Ethan, Hannah and Ella entered the kitchen.
+2 The tomato is in the blue_crate.
+3 Mia moved the tomato to the green_bathtub.
+4 Mia exited the kitchen and stayed in the waiting_room.
+5 Sophia made no movements and stayed in the kitchen for 10 minutes.
+6 Mia lost his bottle.
+7 Sophia exited the kitchen and stayed in the waiting_room.
+8 Ethan made no movements and stayed in the kitchen for 10 minutes.
+9 Ethan exited the kitchen and stayed in the waiting_room.
+10 Hannah made no movements and stayed in the kitchen for 10 minutes.
+11 Ethan saw a cat.
+12 Hannah exited the kitchen and stayed in the waiting_room.
+13 Ella made no movements and stayed in the kitchen for 10 minutes.
+14 Ella exited the kitchen and stayed in the waiting_room.
+15 Hannah publicly claimed that tomato is in the blue_crate.
+16 Ella privately told Mia that the tomato is actually in the green_bathtub.
+17 Sophia, Hannah and Ethan entered the lounge.
+18 The onion is in the red_bucket.
+19 Sophia made no movements and stayed in the lounge for 10 minutes.
+20 Sophia exited the lounge and stayed in the waiting_room.
+21 Hannah made no movements and stayed in the lounge for 10 minutes.
+22 Hannah exited the lounge and stayed in the waiting_room.
+23 Ethan made no movements and stayed in the lounge for 10 minutes.
+24 Ethan exited the lounge and stayed in the waiting_room.
+25 Ella, Mia, Ethan and Sophia entered the kitchen.
+26 The tomato is in the green_bathtub.
+27 Ella lost his bottle.
+28 Ella moved the tomato to the green_bottle.
+29 Ella exited the kitchen and stayed in the waiting_room.
+30 Mia made no movements and stayed in the kitchen for 10 minutes.
+31 Mia exited the kitchen and stayed in the waiting_room.
+32 Ethan moved the tomato to the blue_crate.
+33 Ethan exited the kitchen and stayed in the waiting_room.
+34 Sophia moved the tomato to the green_suitcase.
+35 Sophia exited the kitchen and stayed in the waiting_room.
+36 Ethan publicly claimed that tomato is in the green_suitcase.
+37 Ella privately told Sophia that the tomato is actually in the green_bathtub.
+Question: Where does Sophia think Ella thinks Mia thinks the tomato is?
+Choices: A. blue_bucket, B. red_bucket, C. blue_bathtub, D. green_cupboard, E. green_basket, F. green_envelope, G. blue_bottle, H. blue_cupboard, I. red_pantry, J. blue_treasure_chest, K. blue_crate, L. red_cupboard, M. green_bottle, N. green_suitcase, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

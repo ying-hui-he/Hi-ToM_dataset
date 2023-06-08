@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, William, Ava, Benjamin and Carter entered the porch.
-2 The plum is in the blue_container.
-3 Avery moved the plum to the red_suitcase.
-4 Avery exited the porch and stayed in the waiting_room.
-5 William made no movements and stayed in the porch for 10 minutes.
-6 William exited the porch and stayed in the waiting_room.
-7 Ava moved the plum to the green_suitcase.
-8 Ava exited the porch and stayed in the waiting_room.
-9 Benjamin made no movements and stayed in the porch for 10 minutes.
-10 Benjamin exited the porch and stayed in the waiting_room.
-11 Carter made no movements and stayed in the porch for 10 minutes.
-12 Carter exited the porch and stayed in the waiting_room.
-13 Ava, Carter and Benjamin entered the closet.
-14 The onion is in the red_crate.
-15 Ava made no movements and stayed in the closet for 10 minutes.
-16 Ava exited the closet and stayed in the waiting_room.
-17 Carter moved the onion to the red_treasure_chest.
-18 Carter exited the closet and stayed in the waiting_room.
-19 Benjamin moved the onion to the red_envelope.
-20 Benjamin exited the closet and stayed in the waiting_room.
-21 Ava, Carter, William and Avery entered the bathroom.
-22 The beans is in the green_container.
-23 Ava moved the beans to the green_envelope.
-24 Ava exited the bathroom and stayed in the waiting_room.
-25 Carter made no movements and stayed in the bathroom for 10 minutes.
-26 Carter exited the bathroom and stayed in the waiting_room.
-27 William moved the beans to the blue_box.
-28 William exited the bathroom and stayed in the waiting_room.
-29 Avery made no movements and stayed in the bathroom for 10 minutes.
-30 Avery exited the bathroom and stayed in the waiting_room.
-31 Benjamin and William entered the bathroom.
-32 The turnip is in the blue_bathtub.
-33 Benjamin moved the turnip to the green_container.
-34 Benjamin exited the bathroom and stayed in the waiting_room.
-35 William moved the turnip to the blue_box.
-36 William exited the bathroom and stayed in the waiting_room.
-Question: Where does William think Carter thinks Benjamin thinks the plum is?
+1 Mason, Owen, Nathan, Logan and Charlotte entered the pantry.
+2 The grapefruit is in the blue_crate.
+3 Mason made no movements and stayed in the pantry for 10 minutes.
+4 Mason exited the pantry and stayed in the waiting_room.
+5 Owen moved the grapefruit to the red_container.
+6 Owen exited the pantry and stayed in the waiting_room.
+7 Nathan moved the grapefruit to the red_treasure_chest.
+8 Nathan exited the pantry and stayed in the waiting_room.
+9 Logan made no movements and stayed in the pantry for 10 minutes.
+10 Logan exited the pantry and stayed in the waiting_room.
+11 Charlotte moved the grapefruit to the blue_crate.
+12 Charlotte exited the pantry and stayed in the waiting_room.
+13 Owen, Charlotte and Logan entered the pantry.
+14 The lemon is in the green_pantry.
+15 Owen moved the lemon to the blue_crate.
+16 Owen exited the pantry and stayed in the waiting_room.
+17 Charlotte moved the lemon to the green_box.
+18 Charlotte exited the pantry and stayed in the waiting_room.
+19 Logan likes the red_basket.
+20 Logan moved the lemon to the red_container.
+21 Logan exited the pantry and stayed in the waiting_room.
+22 Logan, Owen, Mason and Nathan entered the attic.
+23 The persimmon is in the blue_drawer.
+24 Logan likes the blue_bucket.
+25 Logan moved the persimmon to the blue_bucket.
+26 Logan exited the attic and stayed in the waiting_room.
+27 Owen made no movements and stayed in the attic for 10 minutes.
+28 Owen exited the attic and stayed in the waiting_room.
+29 Mason moved the persimmon to the red_box.
+30 Mason exited the attic and stayed in the waiting_room.
+31 Nathan moved the persimmon to the red_crate.
+32 Nathan exited the attic and stayed in the waiting_room.
+33 Charlotte and Mason entered the living_room.
+34 The broccoli is in the red_envelope.
+35 Charlotte moved the broccoli to the red_bucket.
+36 Charlotte exited the living_room and stayed in the waiting_room.
+37 Mason made no movements and stayed in the living_room for 10 minutes.
+38 Mason exited the living_room and stayed in the waiting_room.
+Question: Where does Owen think Nathan thinks Mason thinks the grapefruit is?
 Answer: None
-Choices: A. blue_bathtub, B. green_container, C. blue_box, D. blue_crate, E. green_envelope, F. red_envelope, G. red_crate, H. blue_treasure_chest, I. red_treasure_chest, J. blue_envelope, K. blue_container, L. red_suitcase, M. red_drawer, N. green_suitcase, O. blue_drawer
+Choices: A. blue_crate, B. green_pantry, C. red_treasure_chest, D. green_box, E. red_container, F. blue_bathtub, G. red_envelope, H. red_bucket, I. red_basket, J. green_basket, K. blue_drawer, L. red_crate, M. blue_bucket, N. blue_envelope, O. red_box

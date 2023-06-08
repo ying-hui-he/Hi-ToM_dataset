@@ -1,35 +1,40 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Owen, Jack, Carter and Isla entered the crawlspace.
-2 The melon is in the blue_bottle.
-3 Emily made no movements and stayed in the crawlspace for 10 minutes.
-4 Emily exited the crawlspace and stayed in the waiting_room.
-5 Owen moved the melon to the blue_bucket.
-6 Owen exited the crawlspace and stayed in the waiting_room.
-7 Jack moved the melon to the green_treasure_chest.
-8 Jack exited the crawlspace and stayed in the waiting_room.
-9 Carter made no movements and stayed in the crawlspace for 10 minutes.
-10 Carter exited the crawlspace and stayed in the waiting_room.
-11 Isla made no movements and stayed in the crawlspace for 10 minutes.
-12 Isla exited the crawlspace and stayed in the waiting_room.
-13 Carter, Emily and Jack entered the staircase.
-14 The radish is in the blue_box.
-15 Carter made no movements and stayed in the staircase for 10 minutes.
-16 Carter exited the staircase and stayed in the waiting_room.
-17 Emily moved the radish to the blue_basket.
-18 Emily exited the staircase and stayed in the waiting_room.
-19 Jack made no movements and stayed in the staircase for 10 minutes.
-20 Jack exited the staircase and stayed in the waiting_room.
-21 Isla, Jack, Carter and Owen entered the staircase.
-22 The pumpkin is in the red_container.
-23 Isla moved the pumpkin to the blue_basket.
-24 Isla exited the staircase and stayed in the waiting_room.
-25 Jack moved the pumpkin to the blue_bathtub.
-26 Jack exited the staircase and stayed in the waiting_room.
-27 Carter moved the pumpkin to the red_drawer.
-28 Carter exited the staircase and stayed in the waiting_room.
-29 Owen moved the pumpkin to the blue_box.
-30 Owen exited the staircase and stayed in the waiting_room.
-Question: Where does Jack think Emily thinks Carter thinks Isla thinks the melon is?
-Choices: A. blue_bottle, B. green_crate, C. blue_bucket, D. red_bucket, E. green_treasure_chest, F. red_container, G. blue_box, H. blue_basket, I. red_drawer, J. blue_bathtub, K. green_envelope, L. green_suitcase, M. green_cupboard, N. red_envelope, O. red_bottle
+1 Mia, Mila, Jacob, Gracie and Emily entered the garden.
+2 The lemon is in the green_bottle.
+3 Mia moved the lemon to the green_treasure_chest.
+4 Mia exited the garden and stayed in the waiting_room.
+5 Mila moved the lemon to the green_cupboard.
+6 Mila exited the garden and stayed in the waiting_room.
+7 Jacob moved the lemon to the green_envelope.
+8 Jacob exited the garden and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the garden for 10 minutes.
+10 Gracie exited the garden and stayed in the waiting_room.
+11 Emily made no movements and stayed in the garden for 10 minutes.
+12 Emily exited the garden and stayed in the waiting_room.
+13 Gracie, Mia and Emily entered the bedroom.
+14 Gracie saw a monkey.
+15 The pineapple is in the green_pantry.
+16 Gracie made no movements and stayed in the bedroom for 10 minutes.
+17 Gracie exited the bedroom and stayed in the waiting_room.
+18 Mia moved the pineapple to the blue_envelope.
+19 Mia exited the bedroom and stayed in the waiting_room.
+20 Mia likes the red_basket.
+21 Emily moved the pineapple to the red_bucket.
+22 Emily exited the bedroom and stayed in the waiting_room.
+23 Emily likes the green_envelope.
+24 Emily, Mia, Jacob and Mila entered the bedroom.
+25 Mia dislikes the pineapple.
+26 The pineapple is in the red_bucket.
+27 Emily made no movements and stayed in the bedroom for 10 minutes.
+28 Emily exited the bedroom and stayed in the waiting_room.
+29 Mia likes the green_bottle.
+30 Mia moved the pineapple to the blue_bottle.
+31 Mia exited the bedroom and stayed in the waiting_room.
+32 Jacob made no movements and stayed in the bedroom for 10 minutes.
+33 Jacob exited the bedroom and stayed in the waiting_room.
+34 Mila moved the pineapple to the blue_crate.
+35 Mila exited the bedroom and stayed in the waiting_room.
+Question: Where does Jacob think Gracie thinks Mila thinks Mia thinks the lemon is?
+Choices: A. green_pantry, B. red_bucket, C. blue_envelope, D. blue_bottle, E. blue_crate, F. green_bottle, G. green_basket, H. green_envelope, I. green_cupboard, J. green_treasure_chest, K. red_crate, L. red_treasure_chest, M. red_basket, N. blue_bathtub, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

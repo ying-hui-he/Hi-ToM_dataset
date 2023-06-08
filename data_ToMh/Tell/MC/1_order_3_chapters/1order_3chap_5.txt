@@ -1,39 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Charlotte, Ava, William and Benjamin entered the lounge.
-2 The apple is in the red_container.
-3 Ethan moved the apple to the green_container.
-4 Ethan exited the lounge and stayed in the waiting_room.
-5 Charlotte moved the apple to the green_bathtub.
-6 Charlotte exited the lounge and stayed in the waiting_room.
-7 Ava moved the apple to the blue_box.
-8 Ava exited the lounge and stayed in the waiting_room.
-9 William moved the apple to the red_bottle.
-10 William exited the lounge and stayed in the waiting_room.
-11 Benjamin made no movements and stayed in the lounge for 10 minutes.
-12 Benjamin exited the lounge and stayed in the waiting_room.
-13 Ava privately told Ethan that the apple is actually in the red_bottle.
-14 Charlotte privately told William that the apple is actually in the green_container.
-15 Benjamin, William and Charlotte entered the lounge.
-16 The radish is in the red_bottle.
-17 Benjamin made no movements and stayed in the lounge for 10 minutes.
-18 Benjamin exited the lounge and stayed in the waiting_room.
-19 William moved the radish to the blue_box.
-20 William exited the lounge and stayed in the waiting_room.
-21 Charlotte made no movements and stayed in the lounge for 10 minutes.
-22 Charlotte exited the lounge and stayed in the waiting_room.
-23 Ethan, Benjamin, Ava and Charlotte entered the study.
-24 The banana is in the blue_pantry.
-25 Ethan moved the banana to the red_basket.
-26 Ethan exited the study and stayed in the waiting_room.
-27 Benjamin moved the banana to the green_crate.
-28 Benjamin exited the study and stayed in the waiting_room.
-29 Ava moved the banana to the red_envelope.
-30 Ava exited the study and stayed in the waiting_room.
-31 Charlotte moved the banana to the red_treasure_chest.
-32 Charlotte exited the study and stayed in the waiting_room.
-33 Ethan publicly claimed that banana is in the red_basket.
-34 Charlotte privately told William that the banana is actually in the red_treasure_chest.
-Question: Where does Ethan think the apple is?
-Answer: red_bottle
-Choices: A. blue_envelope, B. red_bucket, C. red_bathtub, D. blue_bucket, E. blue_container, F. red_bottle, G. red_container, H. blue_box, I. green_container, J. green_bathtub, K. green_crate, L. blue_pantry, M. red_basket, N. red_envelope, O. red_treasure_chest
+1 Isabella lost his bottle.
+2 Aria, Isabella, Aiden, Liam and Gracie entered the hallway.
+3 The turnip is in the green_bathtub.
+4 Aria made no movements and stayed in the hallway for 10 minutes.
+5 Aria exited the hallway and stayed in the waiting_room.
+6 Isabella made no movements and stayed in the hallway for 10 minutes.
+7 Isabella exited the hallway and stayed in the waiting_room.
+8 Aiden moved the turnip to the green_envelope.
+9 Aiden exited the hallway and stayed in the waiting_room.
+10 Aiden dislikes the grapefruit.
+11 Liam made no movements and stayed in the hallway for 10 minutes.
+12 Liam exited the hallway and stayed in the waiting_room.
+13 Gracie moved the turnip to the green_bathtub.
+14 Gracie exited the hallway and stayed in the waiting_room.
+15 Aiden privately told Aria that the turnip is actually in the red_crate.
+16 Isabella privately told Liam that the turnip is actually in the green_cupboard.
+17 Isabella, Liam and Aiden entered the attic.
+18 Isabella lost his phone.
+19 The carrot is in the blue_envelope.
+20 Isabella moved the carrot to the red_bathtub.
+21 Isabella exited the attic and stayed in the waiting_room.
+22 Liam made no movements and stayed in the attic for 10 minutes.
+23 Liam exited the attic and stayed in the waiting_room.
+24 Aiden moved the carrot to the blue_treasure_chest.
+25 Aiden exited the attic and stayed in the waiting_room.
+26 Liam, Gracie, Aiden and Aria entered the hallway.
+27 The peach is in the green_envelope.
+28 Liam made no movements and stayed in the hallway for 10 minutes.
+29 Aria likes the blue_bathtub.
+30 Liam exited the hallway and stayed in the waiting_room.
+31 Gracie made no movements and stayed in the hallway for 10 minutes.
+32 Gracie exited the hallway and stayed in the waiting_room.
+33 Aiden made no movements and stayed in the hallway for 10 minutes.
+34 Aiden exited the hallway and stayed in the waiting_room.
+35 Aria moved the peach to the blue_drawer.
+36 Liam dislikes the turnip.
+37 Aria exited the hallway and stayed in the waiting_room.
+38 Gracie privately told Aiden that the peach is actually in the green_envelope.
+39 Aria privately told Isabella that the peach is actually in the blue_drawer.
+Question: Where does Liam think the turnip is?
+Answer: green_bathtub
+Choices: A. blue_envelope, B. red_envelope, C. red_bathtub, D. blue_treasure_chest, E. red_cupboard, F. green_bathtub, G. green_envelope, H. red_crate, I. green_cupboard, J. blue_drawer, K. blue_bathtub, L. red_basket, M. green_bucket, N. red_container, O. red_treasure_chest

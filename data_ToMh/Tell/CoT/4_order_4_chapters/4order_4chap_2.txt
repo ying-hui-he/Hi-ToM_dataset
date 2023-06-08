@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 William, Jayden, Evelyn, Charlotte and James entered the attic.
-2 The orange is in the red_bucket.
-3 William made no movements and stayed in the attic for 10 minutes.
-4 William exited the attic and stayed in the waiting_room.
-5 Jayden moved the orange to the red_container.
-6 Jayden exited the attic and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the attic for 10 minutes.
-8 Evelyn exited the attic and stayed in the waiting_room.
-9 Charlotte made no movements and stayed in the attic for 10 minutes.
-10 Charlotte exited the attic and stayed in the waiting_room.
-11 James made no movements and stayed in the attic for 10 minutes.
-12 James exited the attic and stayed in the waiting_room.
-13 Jayden, Evelyn and William entered the attic.
-14 The potato is in the blue_bucket.
-15 Jayden moved the potato to the red_container.
-16 Jayden exited the attic and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the attic for 10 minutes.
-18 Evelyn exited the attic and stayed in the waiting_room.
-19 William made no movements and stayed in the attic for 10 minutes.
-20 William exited the attic and stayed in the waiting_room.
-21 Evelyn publicly claimed that potato is in the red_suitcase.
-22 William privately told Evelyn that the potato is actually in the red_treasure_chest.
-23 Charlotte, James, Jayden and William entered the bedroom.
-24 The tangerine is in the blue_bottle.
-25 Charlotte made no movements and stayed in the bedroom for 10 minutes.
-26 Charlotte exited the bedroom and stayed in the waiting_room.
-27 James moved the tangerine to the green_crate.
-28 James exited the bedroom and stayed in the waiting_room.
-29 Jayden made no movements and stayed in the bedroom for 10 minutes.
-30 Jayden exited the bedroom and stayed in the waiting_room.
-31 William moved the tangerine to the blue_drawer.
-32 William exited the bedroom and stayed in the waiting_room.
-33 Jayden and James entered the staircase.
-34 The banana is in the blue_envelope.
-35 Jayden moved the banana to the blue_pantry.
-36 Jayden exited the staircase and stayed in the waiting_room.
-37 James made no movements and stayed in the staircase for 10 minutes.
-38 James exited the staircase and stayed in the waiting_room.
-39 James publicly claimed that banana is in the blue_envelope.
-40 Jayden privately told James that the banana is actually in the blue_pantry.
-Question: Where does Jayden think Charlotte thinks James thinks William thinks the orange is?
+1 Jacob, Isla, Carter, Emily and Chloe entered the workshop.
+2 The beans is in the green_basket.
+3 Jacob moved the beans to the blue_treasure_chest.
+4 Jacob exited the workshop and stayed in the waiting_room.
+5 Isla moved the beans to the green_bathtub.
+6 Isla exited the workshop and stayed in the waiting_room.
+7 Carter made no movements and stayed in the workshop for 10 minutes.
+8 Carter exited the workshop and stayed in the waiting_room.
+9 Emily made no movements and stayed in the workshop for 10 minutes.
+10 Emily exited the workshop and stayed in the waiting_room.
+11 Chloe moved the beans to the green_basket.
+12 Chloe exited the workshop and stayed in the waiting_room.
+13 Chloe, Isla and Jacob entered the kitchen.
+14 The green_pepper is in the green_suitcase.
+15 Chloe made no movements and stayed in the kitchen for 10 minutes.
+16 Chloe exited the kitchen and stayed in the waiting_room.
+17 Isla made no movements and stayed in the kitchen for 10 minutes.
+18 Isla exited the kitchen and stayed in the waiting_room.
+19 Jacob moved the green_pepper to the green_cupboard.
+20 Jacob exited the kitchen and stayed in the waiting_room.
+21 Emily dislikes the beans.
+22 Jacob publicly claimed that green_pepper is in the red_pantry.
+23 Isla saw a cat.
+24 Chloe privately told Jacob that the green_pepper is actually in the green_suitcase.
+25 Jacob likes the green_basket.
+26 Carter, Chloe, Isla and Emily entered the crawlspace.
+27 The cabbage is in the blue_suitcase.
+28 Carter made no movements and stayed in the crawlspace for 10 minutes.
+29 Isla saw a dog.
+30 Carter exited the crawlspace and stayed in the waiting_room.
+31 Chloe made no movements and stayed in the crawlspace for 10 minutes.
+32 Chloe exited the crawlspace and stayed in the waiting_room.
+33 Isla made no movements and stayed in the crawlspace for 10 minutes.
+34 Isla exited the crawlspace and stayed in the waiting_room.
+35 Emily moved the cabbage to the red_envelope.
+36 Emily exited the crawlspace and stayed in the waiting_room.
+37 Chloe likes the green_envelope.
+38 Emily and Isla entered the crawlspace.
+39 The cabbage is in the red_envelope.
+40 Emily moved the cabbage to the blue_suitcase.
+41 Emily exited the crawlspace and stayed in the waiting_room.
+42 Isla moved the cabbage to the blue_crate.
+43 Isla exited the crawlspace and stayed in the waiting_room.
+44 Emily privately told Carter that the cabbage is actually in the red_treasure_chest.
+Question: Where does Emily think Carter thinks Chloe thinks Jacob thinks the beans is?
 Answer: None
-Choices: A. blue_bucket, B. red_bucket, C. red_suitcase, D. red_container, E. red_treasure_chest, F. blue_drawer, G. blue_bottle, H. red_crate, I. red_drawer, J. green_crate, K. blue_suitcase, L. blue_envelope, M. blue_box, N. red_bottle, O. blue_pantry
+Choices: A. red_bottle, B. green_basket, C. green_bathtub, D. blue_treasure_chest, E. green_envelope, F. blue_cupboard, G. blue_suitcase, H. red_envelope, I. red_treasure_chest, J. blue_crate, K. green_cupboard, L. green_suitcase, M. red_pantry, N. red_container, O. blue_bathtub

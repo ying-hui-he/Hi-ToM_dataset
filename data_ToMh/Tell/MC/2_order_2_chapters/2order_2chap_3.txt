@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Jacob, Emily, Carter and Logan entered the kitchen.
-2 The persimmon is in the blue_container.
-3 Owen made no movements and stayed in the kitchen for 10 minutes.
-4 Owen exited the kitchen and stayed in the waiting_room.
-5 Jacob moved the persimmon to the blue_suitcase.
-6 Jacob exited the kitchen and stayed in the waiting_room.
-7 Emily moved the persimmon to the blue_envelope.
-8 Emily exited the kitchen and stayed in the waiting_room.
-9 Carter moved the persimmon to the red_drawer.
-10 Carter exited the kitchen and stayed in the waiting_room.
-11 Logan moved the persimmon to the blue_container.
-12 Logan exited the kitchen and stayed in the waiting_room.
-13 Owen, Carter and Logan entered the bedroom.
-14 The melon is in the red_crate.
-15 Owen moved the melon to the red_bucket.
-16 Owen exited the bedroom and stayed in the waiting_room.
-17 Carter moved the melon to the green_crate.
-18 Carter exited the bedroom and stayed in the waiting_room.
-19 Logan moved the melon to the blue_treasure_chest.
-20 Logan exited the bedroom and stayed in the waiting_room.
-21 Carter privately told Logan that the melon is actually in the blue_treasure_chest.
-22 Logan privately told Jacob that the melon is actually in the blue_treasure_chest.
-Question: Where does Owen think Carter thinks the persimmon is?
-Answer: blue_container
-Choices: A. blue_bucket, B. blue_container, C. blue_suitcase, D. blue_envelope, E. red_drawer, F. red_crate, G. blue_treasure_chest, H. green_crate, I. blue_drawer, J. red_bucket, K. red_envelope, L. blue_basket, M. green_container, N. green_bottle, O. red_container
+1 Hannah, Emma, Lucas, Mila and Jayden entered the laundry.
+2 The celery is in the green_bathtub.
+3 Hannah moved the celery to the blue_bottle.
+4 Hannah exited the laundry and stayed in the waiting_room.
+5 Emma made no movements and stayed in the laundry for 10 minutes.
+6 Emma exited the laundry and stayed in the waiting_room.
+7 Lucas made no movements and stayed in the laundry for 10 minutes.
+8 Lucas exited the laundry and stayed in the waiting_room.
+9 Lucas saw a dog.
+10 Mila moved the celery to the blue_suitcase.
+11 Mila exited the laundry and stayed in the waiting_room.
+12 Jayden made no movements and stayed in the laundry for 10 minutes.
+13 Jayden exited the laundry and stayed in the waiting_room.
+14 Jayden, Mila and Lucas entered the pantry.
+15 The beans is in the green_treasure_chest.
+16 Jayden made no movements and stayed in the pantry for 10 minutes.
+17 Jayden exited the pantry and stayed in the waiting_room.
+18 Mila moved the beans to the red_bucket.
+19 Mila exited the pantry and stayed in the waiting_room.
+20 Lucas moved the beans to the blue_drawer.
+21 Lucas exited the pantry and stayed in the waiting_room.
+22 Jayden likes the green_suitcase.
+23 Mila privately told Lucas that the beans is actually in the blue_drawer.
+24 Lucas privately told Hannah that the beans is actually in the blue_drawer.
+Question: Where does Hannah think Lucas thinks the celery is?
+Answer: green_bathtub
+Choices: A. green_bathtub, B. blue_suitcase, C. red_treasure_chest, D. blue_bottle, E. green_suitcase, F. green_treasure_chest, G. red_bucket, H. blue_drawer, I. blue_treasure_chest, J. red_basket, K. green_box, L. green_bottle, M. red_box, N. blue_crate, O. green_basket

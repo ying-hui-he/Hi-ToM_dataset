@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Carter, Abigail, Olivia and Jack entered the bedroom.
-2 The plum is in the red_bathtub.
-3 Oliver made no movements and stayed in the bedroom for 10 minutes.
-4 Oliver exited the bedroom and stayed in the waiting_room.
-5 Carter made no movements and stayed in the bedroom for 10 minutes.
-6 Carter exited the bedroom and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the bedroom for 10 minutes.
-8 Abigail exited the bedroom and stayed in the waiting_room.
-9 Olivia moved the plum to the blue_bucket.
-10 Olivia exited the bedroom and stayed in the waiting_room.
-11 Jack moved the plum to the red_bathtub.
-12 Jack exited the bedroom and stayed in the waiting_room.
-13 Jack, Oliver and Abigail entered the bedroom.
-14 The plum is in the red_bathtub.
-15 Jack moved the plum to the green_bottle.
-16 Jack exited the bedroom and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the bedroom for 10 minutes.
-18 Oliver exited the bedroom and stayed in the waiting_room.
-19 Abigail moved the plum to the blue_bucket.
-20 Abigail exited the bedroom and stayed in the waiting_room.
-21 Abigail publicly claimed that plum is in the blue_bottle.
-22 Jack privately told Abigail that the plum is actually in the green_cupboard.
-Question: Where does Abigail think Carter thinks the plum is?
-Choices: A. red_basket, B. blue_bathtub, C. green_crate, D. blue_drawer, E. red_bottle, F. green_bathtub, G. blue_treasure_chest, H. green_container, I. red_envelope, J. green_treasure_chest, K. red_bathtub, L. green_bottle, M. blue_bucket, N. green_cupboard, O. blue_bottle
+1 Ethan, Ella, Nathan, Aria and Mason entered the kitchen.
+2 The cabbage is in the red_bathtub.
+3 Ethan made no movements and stayed in the kitchen for 10 minutes.
+4 Ethan exited the kitchen and stayed in the waiting_room.
+5 Ella moved the cabbage to the red_crate.
+6 Nathan lost his phone.
+7 Ella exited the kitchen and stayed in the waiting_room.
+8 Nathan made no movements and stayed in the kitchen for 10 minutes.
+9 Nathan exited the kitchen and stayed in the waiting_room.
+10 Aria moved the cabbage to the red_container.
+11 Aria exited the kitchen and stayed in the waiting_room.
+12 Ethan dislikes the corn.
+13 Mason made no movements and stayed in the kitchen for 10 minutes.
+14 Mason exited the kitchen and stayed in the waiting_room.
+15 Aria, Ethan and Mason entered the garage.
+16 The cucumber is in the red_pantry.
+17 Aria moved the cucumber to the green_treasure_chest.
+18 Aria exited the garage and stayed in the waiting_room.
+19 Ethan moved the cucumber to the green_suitcase.
+20 Ethan exited the garage and stayed in the waiting_room.
+21 Mason made no movements and stayed in the garage for 10 minutes.
+22 Mason exited the garage and stayed in the waiting_room.
+23 Ethan privately told Mason that the cucumber is actually in the green_suitcase.
+24 Mason privately told Ella that the cucumber is actually in the green_suitcase.
+Question: Where does Nathan think Ethan thinks the cabbage is?
+Choices: A. green_cupboard, B. green_pantry, C. red_bottle, D. blue_suitcase, E. blue_envelope, F. green_bucket, G. red_pantry, H. green_treasure_chest, I. blue_bathtub, J. green_suitcase, K. red_crate, L. red_bathtub, M. red_container, N. red_envelope, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

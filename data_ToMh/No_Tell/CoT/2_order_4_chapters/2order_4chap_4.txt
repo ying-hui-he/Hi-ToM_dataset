@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Ethan, Noah, James and Mila entered the garden.
-2 The peach is in the blue_container.
-3 Jackson made no movements and stayed in the garden for 10 minutes.
-4 Jackson exited the garden and stayed in the waiting_room.
-5 Ethan moved the peach to the blue_bucket.
-6 Ethan exited the garden and stayed in the waiting_room.
-7 Noah made no movements and stayed in the garden for 10 minutes.
-8 Noah exited the garden and stayed in the waiting_room.
-9 James made no movements and stayed in the garden for 10 minutes.
-10 James exited the garden and stayed in the waiting_room.
-11 Mila made no movements and stayed in the garden for 10 minutes.
-12 Mila exited the garden and stayed in the waiting_room.
-13 Jackson, Noah and Mila entered the study.
-14 The tangerine is in the green_bottle.
-15 Jackson moved the tangerine to the red_basket.
-16 Jackson exited the study and stayed in the waiting_room.
-17 Noah made no movements and stayed in the study for 10 minutes.
-18 Noah exited the study and stayed in the waiting_room.
-19 Mila made no movements and stayed in the study for 10 minutes.
-20 Mila exited the study and stayed in the waiting_room.
-21 Noah, James, Jackson and Ethan entered the study.
-22 The tangerine is in the red_basket.
-23 Noah made no movements and stayed in the study for 10 minutes.
-24 Noah exited the study and stayed in the waiting_room.
-25 James moved the tangerine to the red_container.
-26 James exited the study and stayed in the waiting_room.
-27 Jackson moved the tangerine to the blue_bottle.
-28 Jackson exited the study and stayed in the waiting_room.
-29 Ethan moved the tangerine to the green_bottle.
-30 Ethan exited the study and stayed in the waiting_room.
-31 Mila and Jackson entered the garden.
-32 The orange is in the blue_treasure_chest.
-33 Mila made no movements and stayed in the garden for 10 minutes.
-34 Mila exited the garden and stayed in the waiting_room.
-35 Jackson made no movements and stayed in the garden for 10 minutes.
-36 Jackson exited the garden and stayed in the waiting_room.
-Question: Where does Jackson think Noah thinks the peach is?
-Answer: blue_container
-Choices: A. blue_treasure_chest, B. blue_container, C. red_suitcase, D. green_envelope, E. blue_bucket, F. green_crate, G. green_bottle, H. red_container, I. blue_bottle, J. red_basket, K. red_bathtub, L. blue_crate, M. red_envelope, N. green_cupboard, O. blue_bathtub
+1 Hannah, Chloe, Lucas, Jack and Owen entered the attic.
+2 The pineapple is in the green_envelope.
+3 Hannah dislikes the onion.
+4 Hannah moved the pineapple to the red_envelope.
+5 Hannah exited the attic and stayed in the waiting_room.
+6 Chloe moved the pineapple to the blue_bottle.
+7 Chloe exited the attic and stayed in the waiting_room.
+8 Lucas made no movements and stayed in the attic for 10 minutes.
+9 Lucas exited the attic and stayed in the waiting_room.
+10 Jack moved the pineapple to the red_pantry.
+11 Jack exited the attic and stayed in the waiting_room.
+12 Owen moved the pineapple to the green_envelope.
+13 Owen exited the attic and stayed in the waiting_room.
+14 Jack dislikes the peas.
+15 Owen, Hannah and Chloe entered the staircase.
+16 The cabbage is in the blue_envelope.
+17 Lucas lost his phone.
+18 Owen made no movements and stayed in the staircase for 10 minutes.
+19 Owen exited the staircase and stayed in the waiting_room.
+20 Hannah lost his watch.
+21 Hannah made no movements and stayed in the staircase for 10 minutes.
+22 Hannah exited the staircase and stayed in the waiting_room.
+23 Chloe moved the cabbage to the green_bucket.
+24 Jack likes the green_envelope.
+25 Chloe exited the staircase and stayed in the waiting_room.
+26 Owen, Chloe, Hannah and Lucas entered the attic.
+27 The turnip is in the red_envelope.
+28 Owen moved the turnip to the green_envelope.
+29 Owen exited the attic and stayed in the waiting_room.
+30 Chloe made no movements and stayed in the attic for 10 minutes.
+31 Chloe exited the attic and stayed in the waiting_room.
+32 Hannah made no movements and stayed in the attic for 10 minutes.
+33 Hannah exited the attic and stayed in the waiting_room.
+34 Lucas made no movements and stayed in the attic for 10 minutes.
+35 Lucas exited the attic and stayed in the waiting_room.
+36 Chloe and Lucas entered the staircase.
+37 The onion is in the green_treasure_chest.
+38 Chloe moved the onion to the green_bucket.
+39 Chloe exited the staircase and stayed in the waiting_room.
+40 Lucas moved the onion to the blue_envelope.
+41 Lucas exited the staircase and stayed in the waiting_room.
+Question: Where does Jack think Hannah thinks the pineapple is?
+Answer: red_envelope
+Choices: A. green_box, B. red_basket, C. green_pantry, D. green_bottle, E. red_bottle, F. red_envelope, G. green_envelope, H. blue_bottle, I. red_pantry, J. blue_bucket, K. green_treasure_chest, L. blue_envelope, M. green_cupboard, N. green_bucket, O. red_bathtub

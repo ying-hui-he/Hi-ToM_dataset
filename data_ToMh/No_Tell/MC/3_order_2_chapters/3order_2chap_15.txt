@@ -1,25 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Ethan, Jack, Abigail and Jayden entered the playroom.
-2 The pear is in the green_treasure_chest.
-3 Jacob moved the pear to the green_container.
-4 Jacob exited the playroom and stayed in the waiting_room.
-5 Ethan moved the pear to the green_crate.
-6 Ethan exited the playroom and stayed in the waiting_room.
-7 Jack made no movements and stayed in the playroom for 10 minutes.
-8 Jack exited the playroom and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the playroom for 10 minutes.
-10 Abigail exited the playroom and stayed in the waiting_room.
-11 Jayden made no movements and stayed in the playroom for 10 minutes.
-12 Jayden exited the playroom and stayed in the waiting_room.
-13 Ethan, Jack and Jacob entered the TV_room.
-14 The cucumber is in the blue_suitcase.
-15 Ethan made no movements and stayed in the TV_room for 10 minutes.
-16 Ethan exited the TV_room and stayed in the waiting_room.
-17 Jack made no movements and stayed in the TV_room for 10 minutes.
-18 Jack exited the TV_room and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the TV_room for 10 minutes.
-20 Jacob exited the TV_room and stayed in the waiting_room.
-Question: Where does Ethan think Jacob thinks Abigail thinks the pear is?
-Answer: None
-Choices: A. green_treasure_chest, B. green_crate, C. green_container, D. red_bucket, E. red_bathtub, F. blue_suitcase, G. blue_pantry, H. red_bottle, I. blue_container, J. blue_envelope, K. blue_box, L. green_suitcase, M. blue_basket, N. blue_bucket, O. red_suitcase
+1 Isabella, Mason, Mila, Carter and Nathan entered the kitchen.
+2 The lemon is in the green_bottle.
+3 Isabella moved the lemon to the green_bathtub.
+4 Isabella exited the kitchen and stayed in the waiting_room.
+5 Mason made no movements and stayed in the kitchen for 10 minutes.
+6 Mason exited the kitchen and stayed in the waiting_room.
+7 Mila moved the lemon to the red_bottle.
+8 Mila exited the kitchen and stayed in the waiting_room.
+9 Carter made no movements and stayed in the kitchen for 10 minutes.
+10 Carter exited the kitchen and stayed in the waiting_room.
+11 Nathan made no movements and stayed in the kitchen for 10 minutes.
+12 Nathan exited the kitchen and stayed in the waiting_room.
+13 Nathan, Mason and Carter entered the patio.
+14 The celery is in the red_bucket.
+15 Nathan made no movements and stayed in the patio for 10 minutes.
+16 Nathan dislikes the strawberry.
+17 Nathan exited the patio and stayed in the waiting_room.
+18 Mason made no movements and stayed in the patio for 10 minutes.
+19 Mason exited the patio and stayed in the waiting_room.
+20 Carter moved the celery to the red_cupboard.
+21 Carter exited the patio and stayed in the waiting_room.
+Question: Where does Mila think Carter thinks Nathan thinks the lemon is?
+Answer: green_bathtub
+23 Isabella likes the red_bottle.
+Choices: A. green_bottle, B. green_treasure_chest, C. red_bottle, D. green_bathtub, E. green_suitcase, F. red_bucket, G. blue_bucket, H. red_basket, I. green_box, J. red_cupboard, K. green_pantry, L. blue_suitcase, M. red_bathtub, N. blue_treasure_chest, O. red_box

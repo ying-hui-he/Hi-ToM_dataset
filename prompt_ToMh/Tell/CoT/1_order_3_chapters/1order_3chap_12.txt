@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mila, Ava, Aria, Isla and Gracie entered the front_yard.
-2 The potato is in the green_treasure_chest.
-3 Mila made no movements and stayed in the front_yard for 10 minutes.
-4 Mila exited the front_yard and stayed in the waiting_room.
-5 Ava made no movements and stayed in the front_yard for 10 minutes.
-6 Ava exited the front_yard and stayed in the waiting_room.
-7 Aria moved the potato to the green_crate.
-8 Aria exited the front_yard and stayed in the waiting_room.
-9 Isla made no movements and stayed in the front_yard for 10 minutes.
-10 Isla exited the front_yard and stayed in the waiting_room.
-11 Gracie made no movements and stayed in the front_yard for 10 minutes.
-12 Gracie exited the front_yard and stayed in the waiting_room.
-13 Aria publicly claimed that potato is in the green_crate.
-14 Gracie privately told Aria that the potato is actually in the red_crate.
-15 Isla, Mila and Ava entered the den.
-16 The beans is in the red_container.
-17 Isla made no movements and stayed in the den for 10 minutes.
-18 Isla exited the den and stayed in the waiting_room.
-19 Mila moved the beans to the blue_pantry.
-20 Mila exited the den and stayed in the waiting_room.
-21 Ava made no movements and stayed in the den for 10 minutes.
-22 Ava exited the den and stayed in the waiting_room.
-23 Ava, Mila, Isla and Gracie entered the crawlspace.
-24 The cherry is in the green_bathtub.
-25 Ava made no movements and stayed in the crawlspace for 10 minutes.
-26 Ava exited the crawlspace and stayed in the waiting_room.
-27 Mila made no movements and stayed in the crawlspace for 10 minutes.
-28 Mila exited the crawlspace and stayed in the waiting_room.
-29 Isla made no movements and stayed in the crawlspace for 10 minutes.
-30 Isla exited the crawlspace and stayed in the waiting_room.
-31 Gracie made no movements and stayed in the crawlspace for 10 minutes.
-32 Gracie exited the crawlspace and stayed in the waiting_room.
-33 Mila privately told Isla that the cherry is actually in the green_bathtub.
-34 Gracie privately told Aria that the cherry is actually in the green_bathtub.
-Question: Where does Aria think the potato is?
-Choices: A. red_container, B. blue_pantry, C. blue_box, D. blue_envelope, E. red_envelope, F. blue_bathtub, G. green_bathtub, H. blue_suitcase, I. red_bottle, J. green_container, K. red_crate, L. green_treasure_chest, M. green_crate, N. green_envelope, O. red_treasure_chest
+1 Jayden, Ella, Emily, Ava and Aiden entered the laundry.
+2 The potato is in the red_treasure_chest.
+3 Jayden made no movements and stayed in the laundry for 10 minutes.
+4 Jayden exited the laundry and stayed in the waiting_room.
+5 Ella moved the potato to the blue_bathtub.
+6 Ella exited the laundry and stayed in the waiting_room.
+7 Emily made no movements and stayed in the laundry for 10 minutes.
+8 Emily exited the laundry and stayed in the waiting_room.
+9 Emily likes the blue_treasure_chest.
+10 Ava made no movements and stayed in the laundry for 10 minutes.
+11 Jayden saw a monkey.
+12 Ava exited the laundry and stayed in the waiting_room.
+13 Aiden moved the potato to the red_treasure_chest.
+14 Aiden exited the laundry and stayed in the waiting_room.
+15 Ava publicly claimed that potato is in the blue_suitcase.
+16 Aiden privately told Jayden that the potato is actually in the red_treasure_chest.
+17 Aiden, Ava and Emily entered the workshop.
+18 The broccoli is in the blue_treasure_chest.
+19 Aiden moved the broccoli to the green_bathtub.
+20 Aiden exited the workshop and stayed in the waiting_room.
+21 Ava made no movements and stayed in the workshop for 10 minutes.
+22 Ava exited the workshop and stayed in the waiting_room.
+23 Emily made no movements and stayed in the workshop for 10 minutes.
+24 Emily exited the workshop and stayed in the waiting_room.
+25 Jayden, Emily, Ella and Aiden entered the laundry.
+26 The potato is in the red_treasure_chest.
+27 Jayden moved the potato to the blue_suitcase.
+28 Jayden exited the laundry and stayed in the waiting_room.
+29 Ella dislikes the potato.
+30 Emily made no movements and stayed in the laundry for 10 minutes.
+31 Emily exited the laundry and stayed in the waiting_room.
+32 Ella moved the potato to the green_envelope.
+33 Ella exited the laundry and stayed in the waiting_room.
+34 Aiden moved the potato to the blue_bucket.
+35 Aiden exited the laundry and stayed in the waiting_room.
+36 Emily publicly claimed that potato is in the blue_suitcase.
+37 Aiden privately told Ella that the potato is actually in the blue_bathtub.
+Question: Where does Aiden think the potato is?
+Choices: A. green_pantry, B. red_bucket, C. green_basket, D. red_envelope, E. red_box, F. blue_bathtub, G. red_treasure_chest, H. green_envelope, I. blue_suitcase, J. blue_bucket, K. blue_treasure_chest, L. green_suitcase, M. green_box, N. green_bathtub, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

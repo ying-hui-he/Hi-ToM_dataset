@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Avery, Mila, Ella and Hannah entered the study.
-2 The lime is in the red_crate.
-3 Carter moved the lime to the red_suitcase.
-4 Carter exited the study and stayed in the waiting_room.
-5 Avery moved the lime to the red_treasure_chest.
-6 Avery exited the study and stayed in the waiting_room.
-7 Mila made no movements and stayed in the study for 10 minutes.
-8 Mila exited the study and stayed in the waiting_room.
-9 Ella moved the lime to the blue_basket.
-10 Ella exited the study and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the study for 10 minutes.
-12 Hannah exited the study and stayed in the waiting_room.
-13 Ella publicly claimed that lime is in the red_suitcase.
-14 Hannah privately told Carter that the lime is actually in the blue_basket.
-15 Carter, Mila and Avery entered the study.
-16 The lime is in the blue_basket.
-17 Carter moved the lime to the blue_treasure_chest.
-18 Carter exited the study and stayed in the waiting_room.
-19 Mila moved the lime to the red_crate.
-20 Mila exited the study and stayed in the waiting_room.
-21 Avery moved the lime to the red_suitcase.
-22 Avery exited the study and stayed in the waiting_room.
-23 Mila, Hannah, Carter and Ella entered the study.
-24 The lime is in the red_suitcase.
-25 Mila moved the lime to the red_crate.
-26 Mila exited the study and stayed in the waiting_room.
-27 Hannah made no movements and stayed in the study for 10 minutes.
-28 Hannah exited the study and stayed in the waiting_room.
-29 Carter moved the lime to the blue_treasure_chest.
-30 Carter exited the study and stayed in the waiting_room.
-31 Ella made no movements and stayed in the study for 10 minutes.
-32 Ella exited the study and stayed in the waiting_room.
-33 Carter publicly claimed that lime is in the red_crate.
-34 Mila privately told Ella that the lime is actually in the blue_treasure_chest.
-Question: Where does Mila think the lime is?
-Choices: A. blue_basket, B. red_crate, C. red_treasure_chest, D. red_suitcase, E. blue_treasure_chest, F. green_envelope, G. red_drawer, H. blue_suitcase, I. blue_drawer, J. red_envelope, K. blue_container, L. red_bucket, M. blue_box, N. green_treasure_chest, O. blue_bathtub
+1 Liam lost his bottle.
+2 Aiden, Logan, Liam, Jayden and Lucas entered the closet.
+3 The asparagus is in the red_crate.
+4 Aiden made no movements and stayed in the closet for 10 minutes.
+5 Aiden lost his watch.
+6 Aiden exited the closet and stayed in the waiting_room.
+7 Logan moved the asparagus to the red_pantry.
+8 Logan exited the closet and stayed in the waiting_room.
+9 Aiden saw a monkey.
+10 Liam moved the asparagus to the green_bathtub.
+11 Liam exited the closet and stayed in the waiting_room.
+12 Jayden made no movements and stayed in the closet for 10 minutes.
+13 Jayden exited the closet and stayed in the waiting_room.
+14 Lucas made no movements and stayed in the closet for 10 minutes.
+15 Lucas exited the closet and stayed in the waiting_room.
+16 Jayden publicly claimed that asparagus is in the red_crate.
+17 Lucas privately told Aiden that the asparagus is actually in the green_bathtub.
+18 Liam, Logan and Lucas entered the closet.
+19 The asparagus is in the green_bathtub.
+20 Liam made no movements and stayed in the closet for 10 minutes.
+21 Liam exited the closet and stayed in the waiting_room.
+22 Logan moved the asparagus to the red_basket.
+23 Logan exited the closet and stayed in the waiting_room.
+24 Lucas made no movements and stayed in the closet for 10 minutes.
+25 Lucas exited the closet and stayed in the waiting_room.
+26 Lucas, Jayden, Aiden and Logan entered the garage.
+27 The cabbage is in the blue_treasure_chest.
+28 Lucas made no movements and stayed in the garage for 10 minutes.
+29 Lucas exited the garage and stayed in the waiting_room.
+30 Jayden made no movements and stayed in the garage for 10 minutes.
+31 Jayden exited the garage and stayed in the waiting_room.
+32 Aiden moved the cabbage to the red_bucket.
+33 Aiden exited the garage and stayed in the waiting_room.
+34 Logan made no movements and stayed in the garage for 10 minutes.
+35 Logan exited the garage and stayed in the waiting_room.
+36 Jayden privately told Aiden that the cabbage is actually in the red_bucket.
+37 Logan privately told Liam that the cabbage is actually in the red_bucket.
+Question: Where does Lucas think the asparagus is?
+Choices: A. red_container, B. green_suitcase, C. green_basket, D. green_box, E. green_bottle, F. blue_treasure_chest, G. red_box, H. red_bucket, I. blue_envelope, J. blue_bucket, K. red_crate, L. red_pantry, M. green_bathtub, N. green_cupboard, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

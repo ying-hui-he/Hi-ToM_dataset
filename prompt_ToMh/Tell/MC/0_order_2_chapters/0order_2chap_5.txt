@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Jack, Mila, Avery and Mia entered the hallway.
-2 The cherry is in the blue_basket.
-3 Benjamin made no movements and stayed in the hallway for 10 minutes.
-4 Benjamin exited the hallway and stayed in the waiting_room.
-5 Jack moved the cherry to the red_suitcase.
-6 Jack exited the hallway and stayed in the waiting_room.
-7 Mila made no movements and stayed in the hallway for 10 minutes.
-8 Mila exited the hallway and stayed in the waiting_room.
-9 Avery moved the cherry to the red_treasure_chest.
-10 Avery exited the hallway and stayed in the waiting_room.
-11 Mia moved the cherry to the blue_basket.
-12 Mia exited the hallway and stayed in the waiting_room.
-13 Jack, Mila and Avery entered the garden.
-14 The turnip is in the red_bathtub.
-15 Jack moved the turnip to the green_cupboard.
-16 Jack exited the garden and stayed in the waiting_room.
-17 Mila moved the turnip to the green_suitcase.
-18 Mila exited the garden and stayed in the waiting_room.
-19 Avery moved the turnip to the blue_bottle.
-20 Avery exited the garden and stayed in the waiting_room.
-21 Jack publicly claimed that turnip is in the green_suitcase.
-22 Avery privately told Mia that the turnip is actually in the blue_bottle.
-Question: Where is the cherry really?
-Choices: A. red_suitcase, B. blue_basket, C. green_bottle, D. green_crate, E. red_treasure_chest, F. blue_treasure_chest, G. red_bathtub, H. green_cupboard, I. green_suitcase, J. blue_bottle, K. red_bottle, L. red_drawer, M. green_container, N. blue_envelope, O. green_treasure_chest
+1 Alexander, Isabella, Carter, Owen and Chloe entered the attic.
+2 The tomato is in the blue_treasure_chest.
+3 Alexander moved the tomato to the red_container.
+4 Alexander exited the attic and stayed in the waiting_room.
+5 Isabella moved the tomato to the red_box.
+6 Isabella exited the attic and stayed in the waiting_room.
+7 Carter made no movements and stayed in the attic for 10 minutes.
+8 Carter exited the attic and stayed in the waiting_room.
+9 Owen made no movements and stayed in the attic for 10 minutes.
+10 Owen exited the attic and stayed in the waiting_room.
+11 Chloe made no movements and stayed in the attic for 10 minutes.
+12 Chloe exited the attic and stayed in the waiting_room.
+13 Owen, Chloe and Alexander entered the lounge.
+14 The broccoli is in the blue_suitcase.
+15 Owen made no movements and stayed in the lounge for 10 minutes.
+16 Owen exited the lounge and stayed in the waiting_room.
+17 Chloe moved the broccoli to the green_treasure_chest.
+18 Chloe exited the lounge and stayed in the waiting_room.
+19 Alexander dislikes the broccoli.
+20 Alexander moved the broccoli to the red_bathtub.
+21 Alexander exited the lounge and stayed in the waiting_room.
+22 Owen publicly claimed that broccoli is in the red_envelope.
+23 Alexander privately told Isabella that the broccoli is actually in the red_bathtub.
+Question: Where is the tomato really?
+Choices: A. red_bathtub, B. blue_suitcase, C. green_bucket, D. red_envelope, E. green_treasure_chest, F. blue_bucket, G. blue_bottle, H. blue_drawer, I. red_treasure_chest, J. blue_envelope, K. red_bottle, L. blue_treasure_chest, M. green_suitcase, N. red_box, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,25 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Carter, Aiden, Gracie and Emma entered the sunroom.
-2 The green_pepper is in the blue_crate.
-3 Evelyn made no movements and stayed in the sunroom for 10 minutes.
-4 Evelyn exited the sunroom and stayed in the waiting_room.
-5 Carter made no movements and stayed in the sunroom for 10 minutes.
-6 Carter exited the sunroom and stayed in the waiting_room.
-7 Aiden moved the green_pepper to the green_bottle.
-8 Aiden exited the sunroom and stayed in the waiting_room.
-9 Gracie moved the green_pepper to the red_container.
-10 Gracie exited the sunroom and stayed in the waiting_room.
-11 Emma moved the green_pepper to the blue_crate.
-12 Emma exited the sunroom and stayed in the waiting_room.
-13 Gracie, Evelyn and Aiden entered the lounge.
-14 The plum is in the red_bathtub.
-15 Gracie made no movements and stayed in the lounge for 10 minutes.
-16 Gracie exited the lounge and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the lounge for 10 minutes.
-18 Evelyn exited the lounge and stayed in the waiting_room.
-19 Aiden moved the plum to the blue_envelope.
-20 Aiden exited the lounge and stayed in the waiting_room.
-Question: Where does Emma think Aiden thinks Gracie thinks Evelyn thinks the green_pepper is?
-Choices: A. red_envelope, B. blue_crate, C. red_container, D. red_bucket, E. green_bottle, F. green_crate, G. blue_bucket, H. blue_bathtub, I. green_envelope, J. green_bathtub, K. red_bathtub, L. blue_envelope, M. blue_container, N. red_suitcase, O. red_basket
+1 Carter, Mia, Isabella, Ethan and Mila entered the study.
+2 The grapefruit is in the blue_envelope.
+3 Carter made no movements and stayed in the study for 10 minutes.
+4 Carter exited the study and stayed in the waiting_room.
+5 Mia made no movements and stayed in the study for 10 minutes.
+6 Isabella likes the red_crate.
+7 Mia exited the study and stayed in the waiting_room.
+8 Isabella moved the grapefruit to the green_bucket.
+9 Isabella exited the study and stayed in the waiting_room.
+10 Ethan made no movements and stayed in the study for 10 minutes.
+11 Ethan exited the study and stayed in the waiting_room.
+12 Mila made no movements and stayed in the study for 10 minutes.
+13 Mila exited the study and stayed in the waiting_room.
+14 Mila, Carter and Isabella entered the hallway.
+15 The turnip is in the green_cupboard.
+16 Mila moved the turnip to the green_suitcase.
+17 Mila exited the hallway and stayed in the waiting_room.
+18 Carter moved the turnip to the red_envelope.
+19 Carter exited the hallway and stayed in the waiting_room.
+20 Isabella saw a mouse.
+21 Isabella moved the turnip to the red_basket.
+22 Isabella exited the hallway and stayed in the waiting_room.
+Question: Where does Mia think Isabella thinks Ethan thinks Carter thinks the grapefruit is?
+Choices: A. red_crate, B. green_basket, C. red_bucket, D. blue_bucket, E. blue_crate, F. blue_bottle, G. blue_envelope, H. green_treasure_chest, I. red_cupboard, J. green_bucket, K. green_cupboard, L. green_suitcase, M. green_bathtub, N. red_envelope, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

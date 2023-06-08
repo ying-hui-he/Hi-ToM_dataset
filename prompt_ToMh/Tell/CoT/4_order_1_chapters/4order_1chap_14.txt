@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Hannah, Emma, Abigail and Oliver entered the lounge.
-2 The carrot is in the green_envelope.
-3 Aria moved the carrot to the red_treasure_chest.
-4 Aria exited the lounge and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the lounge for 10 minutes.
-6 Hannah exited the lounge and stayed in the waiting_room.
-7 Emma moved the carrot to the blue_crate.
-8 Emma exited the lounge and stayed in the waiting_room.
-9 Abigail moved the carrot to the red_suitcase.
-10 Abigail exited the lounge and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the lounge for 10 minutes.
-12 Oliver exited the lounge and stayed in the waiting_room.
-13 Abigail publicly claimed that carrot is in the green_envelope.
-14 Oliver privately told Aria that the carrot is actually in the red_suitcase.
-Question: Where does Abigail think Emma thinks Oliver thinks Hannah thinks the carrot is?
-Choices: A. green_envelope, B. blue_crate, C. red_suitcase, D. blue_envelope, E. red_treasure_chest, F. green_bathtub, G. green_suitcase, H. blue_bathtub, I. blue_suitcase, J. red_bottle, K. red_bucket, L. blue_drawer, M. red_container, N. red_drawer, O. blue_bottle
+1 Owen, Nathan, Mia, Jacob and Logan entered the office.
+2 The turnip is in the blue_suitcase.
+3 Owen made no movements and stayed in the office for 10 minutes.
+4 Owen exited the office and stayed in the waiting_room.
+5 Nathan made no movements and stayed in the office for 10 minutes.
+6 Jacob dislikes the turnip.
+7 Nathan exited the office and stayed in the waiting_room.
+8 Mia made no movements and stayed in the office for 10 minutes.
+9 Mia exited the office and stayed in the waiting_room.
+10 Jacob made no movements and stayed in the office for 10 minutes.
+11 Jacob exited the office and stayed in the waiting_room.
+12 Logan moved the turnip to the blue_suitcase.
+13 Logan exited the office and stayed in the waiting_room.
+14 Jacob publicly claimed that turnip is in the blue_cupboard.
+15 Logan privately told Owen that the turnip is actually in the blue_suitcase.
+Question: Where does Jacob think Owen thinks Mia thinks Logan thinks the turnip is?
+17 Logan saw a dog.
+Choices: A. green_envelope, B. green_treasure_chest, C. red_bucket, D. blue_envelope, E. green_pantry, F. blue_treasure_chest, G. green_bucket, H. red_envelope, I. green_cupboard, J. red_container, K. blue_suitcase, L. red_treasure_chest, M. red_pantry, N. blue_bottle, O. blue_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

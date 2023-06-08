@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Olivia, Abigail, Emma and Jackson entered the hallway.
-2 The melon is in the red_container.
-3 Evelyn made no movements and stayed in the hallway for 10 minutes.
-4 Evelyn exited the hallway and stayed in the waiting_room.
-5 Olivia moved the melon to the red_bathtub.
-6 Olivia exited the hallway and stayed in the waiting_room.
-7 Abigail moved the melon to the red_treasure_chest.
-8 Abigail exited the hallway and stayed in the waiting_room.
-9 Emma moved the melon to the blue_basket.
-10 Emma exited the hallway and stayed in the waiting_room.
-11 Jackson moved the melon to the red_container.
-12 Jackson exited the hallway and stayed in the waiting_room.
-13 Jackson, Abigail and Evelyn entered the front_yard.
-14 The spinach is in the blue_pantry.
-15 Jackson made no movements and stayed in the front_yard for 10 minutes.
-16 Jackson exited the front_yard and stayed in the waiting_room.
-17 Abigail made no movements and stayed in the front_yard for 10 minutes.
-18 Abigail exited the front_yard and stayed in the waiting_room.
-19 Evelyn moved the spinach to the blue_container.
-20 Evelyn exited the front_yard and stayed in the waiting_room.
-21 Jackson, Emma, Olivia and Evelyn entered the study.
-22 The pineapple is in the green_envelope.
-23 Jackson made no movements and stayed in the study for 10 minutes.
-24 Jackson exited the study and stayed in the waiting_room.
-25 Emma made no movements and stayed in the study for 10 minutes.
-26 Emma exited the study and stayed in the waiting_room.
-27 Olivia made no movements and stayed in the study for 10 minutes.
-28 Olivia exited the study and stayed in the waiting_room.
-29 Evelyn moved the pineapple to the blue_bathtub.
-30 Evelyn exited the study and stayed in the waiting_room.
-Question: Where does Abigail think Olivia thinks Evelyn thinks the melon is?
-Choices: A. blue_pantry, B. blue_treasure_chest, C. blue_envelope, D. blue_container, E. red_crate, F. blue_suitcase, G. green_envelope, H. blue_bathtub, I. blue_box, J. blue_drawer, K. red_bathtub, L. red_container, M. red_treasure_chest, N. red_bucket, O. blue_basket
+1 Hannah, Charlotte, Liam, Gracie and Jackson entered the garage.
+2 The lettuce is in the blue_bucket.
+3 Hannah made no movements and stayed in the garage for 10 minutes.
+4 Hannah exited the garage and stayed in the waiting_room.
+5 Charlotte made no movements and stayed in the garage for 10 minutes.
+6 Charlotte exited the garage and stayed in the waiting_room.
+7 Liam moved the lettuce to the blue_bottle.
+8 Liam exited the garage and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the garage for 10 minutes.
+10 Gracie exited the garage and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the garage for 10 minutes.
+12 Jackson exited the garage and stayed in the waiting_room.
+13 Gracie, Liam and Charlotte entered the garage.
+14 Gracie saw a cat.
+15 The lettuce is in the blue_bottle.
+16 Gracie moved the lettuce to the red_box.
+17 Gracie exited the garage and stayed in the waiting_room.
+18 Liam moved the lettuce to the blue_bucket.
+19 Liam exited the garage and stayed in the waiting_room.
+20 Charlotte moved the lettuce to the blue_drawer.
+21 Charlotte exited the garage and stayed in the waiting_room.
+22 Charlotte, Liam, Hannah and Gracie entered the garage.
+23 The lettuce is in the blue_drawer.
+24 Charlotte made no movements and stayed in the garage for 10 minutes.
+25 Hannah dislikes the onion.
+26 Charlotte exited the garage and stayed in the waiting_room.
+27 Liam moved the lettuce to the blue_bottle.
+28 Liam likes the blue_bathtub.
+29 Liam exited the garage and stayed in the waiting_room.
+30 Hannah moved the lettuce to the red_container.
+31 Hannah exited the garage and stayed in the waiting_room.
+32 Gracie moved the lettuce to the blue_bucket.
+33 Gracie exited the garage and stayed in the waiting_room.
+Question: Where does Gracie think Hannah thinks Jackson thinks the lettuce is?
+Choices: A. red_crate, B. red_bathtub, C. red_envelope, D. blue_bathtub, E. red_basket, F. red_bucket, G. red_pantry, H. blue_envelope, I. blue_treasure_chest, J. red_bottle, K. blue_bucket, L. red_box, M. blue_drawer, N. blue_bottle, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

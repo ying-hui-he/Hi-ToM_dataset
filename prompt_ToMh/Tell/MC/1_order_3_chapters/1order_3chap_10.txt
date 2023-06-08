@@ -1,39 +1,40 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, Jacob, Emma, Gracie and Charlotte entered the study.
-2 The lettuce is in the blue_drawer.
-3 Jayden made no movements and stayed in the study for 10 minutes.
-4 Jayden exited the study and stayed in the waiting_room.
-5 Jacob made no movements and stayed in the study for 10 minutes.
-6 Jacob exited the study and stayed in the waiting_room.
-7 Emma moved the lettuce to the blue_basket.
-8 Emma exited the study and stayed in the waiting_room.
-9 Gracie moved the lettuce to the red_suitcase.
-10 Gracie exited the study and stayed in the waiting_room.
-11 Charlotte moved the lettuce to the blue_drawer.
-12 Charlotte exited the study and stayed in the waiting_room.
-13 Gracie publicly claimed that lettuce is in the red_suitcase.
-14 Charlotte privately told Jayden that the lettuce is actually in the blue_drawer.
-15 Jacob, Charlotte and Jayden entered the study.
-16 The pumpkin is in the red_suitcase.
-17 Jacob made no movements and stayed in the study for 10 minutes.
-18 Jacob exited the study and stayed in the waiting_room.
-19 Charlotte moved the pumpkin to the blue_suitcase.
-20 Charlotte exited the study and stayed in the waiting_room.
-21 Jayden made no movements and stayed in the study for 10 minutes.
-22 Jayden exited the study and stayed in the waiting_room.
-23 Jacob, Jayden, Charlotte and Gracie entered the study.
-24 The lettuce is in the blue_drawer.
-25 Jacob moved the lettuce to the blue_suitcase.
-26 Jacob exited the study and stayed in the waiting_room.
-27 Jayden moved the lettuce to the red_suitcase.
-28 Jayden exited the study and stayed in the waiting_room.
-29 Charlotte moved the lettuce to the blue_crate.
-30 Charlotte exited the study and stayed in the waiting_room.
-31 Gracie moved the lettuce to the blue_basket.
-32 Gracie exited the study and stayed in the waiting_room.
-33 Jacob publicly claimed that lettuce is in the red_suitcase.
-34 Gracie privately told Emma that the lettuce is actually in the blue_basket.
-Question: Where does Jayden think the lettuce is?
-Choices: A. blue_envelope, B. blue_pantry, C. green_cupboard, D. green_bathtub, E. green_bottle, F. red_container, G. blue_box, H. red_treasure_chest, I. red_crate, J. red_bathtub, K. red_suitcase, L. blue_drawer, M. blue_basket, N. blue_crate, O. blue_suitcase
+1 Aria, Ava, Lucas, Isabella and Alexander entered the attic.
+2 The cabbage is in the red_basket.
+3 Aria moved the cabbage to the red_bathtub.
+4 Aria exited the attic and stayed in the waiting_room.
+5 Ava made no movements and stayed in the attic for 10 minutes.
+6 Ava exited the attic and stayed in the waiting_room.
+7 Lucas made no movements and stayed in the attic for 10 minutes.
+8 Lucas exited the attic and stayed in the waiting_room.
+9 Isabella made no movements and stayed in the attic for 10 minutes.
+10 Isabella exited the attic and stayed in the waiting_room.
+11 Alexander moved the cabbage to the red_basket.
+12 Alexander exited the attic and stayed in the waiting_room.
+13 Lucas publicly claimed that cabbage is in the green_bathtub.
+14 Alexander privately told Lucas that the cabbage is actually in the red_basket.
+15 Isabella, Lucas and Ava entered the attic.
+16 Aria likes the green_basket.
+17 The cabbage is in the red_basket.
+18 Isabella made no movements and stayed in the attic for 10 minutes.
+19 Isabella exited the attic and stayed in the waiting_room.
+20 Lucas moved the cabbage to the green_bathtub.
+21 Lucas exited the attic and stayed in the waiting_room.
+22 Ava moved the cabbage to the blue_cupboard.
+23 Ava exited the attic and stayed in the waiting_room.
+24 Lucas, Alexander, Isabella and Ava entered the back_yard.
+25 The grapes is in the blue_bathtub.
+26 Lucas made no movements and stayed in the back_yard for 10 minutes.
+27 Lucas exited the back_yard and stayed in the waiting_room.
+28 Alexander moved the grapes to the green_box.
+29 Alexander exited the back_yard and stayed in the waiting_room.
+30 Isabella made no movements and stayed in the back_yard for 10 minutes.
+31 Isabella exited the back_yard and stayed in the waiting_room.
+32 Ava made no movements and stayed in the back_yard for 10 minutes.
+33 Ava exited the back_yard and stayed in the waiting_room.
+34 Alexander privately told Isabella that the grapes is actually in the red_container.
+35 Ava privately told Aria that the grapes is actually in the green_box.
+Question: Where does Aria think the cabbage is?
+Choices: A. red_basket, B. green_bottle, C. green_bathtub, D. red_bathtub, E. blue_cupboard, F. blue_bathtub, G. green_bucket, H. red_container, I. blue_suitcase, J. green_box, K. green_treasure_chest, L. blue_drawer, M. red_crate, N. green_basket, O. green_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

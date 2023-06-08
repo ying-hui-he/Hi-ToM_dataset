@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Mila, Abigail, Ava and Jayden entered the TV_room.
-2 The turnip is in the blue_pantry.
-3 Benjamin moved the turnip to the blue_envelope.
-4 Benjamin exited the TV_room and stayed in the waiting_room.
-5 Mila made no movements and stayed in the TV_room for 10 minutes.
-6 Mila exited the TV_room and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the TV_room for 10 minutes.
-8 Abigail exited the TV_room and stayed in the waiting_room.
-9 Ava made no movements and stayed in the TV_room for 10 minutes.
-10 Ava exited the TV_room and stayed in the waiting_room.
-11 Jayden made no movements and stayed in the TV_room for 10 minutes.
-12 Jayden exited the TV_room and stayed in the waiting_room.
-13 Ava publicly claimed that turnip is in the blue_pantry.
-14 Jayden privately told Benjamin that the turnip is actually in the blue_envelope.
-15 Benjamin, Jayden and Abigail entered the patio.
-16 The celery is in the red_suitcase.
-17 Benjamin moved the celery to the green_bottle.
-18 Benjamin exited the patio and stayed in the waiting_room.
-19 Jayden made no movements and stayed in the patio for 10 minutes.
-20 Jayden exited the patio and stayed in the waiting_room.
-21 Abigail made no movements and stayed in the patio for 10 minutes.
-22 Abigail exited the patio and stayed in the waiting_room.
-23 Benjamin, Jayden, Abigail and Mila entered the master_bedroom.
-24 The radish is in the green_crate.
-25 Benjamin made no movements and stayed in the master_bedroom for 10 minutes.
-26 Benjamin exited the master_bedroom and stayed in the waiting_room.
-27 Jayden moved the radish to the blue_bottle.
-28 Jayden exited the master_bedroom and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
-30 Abigail exited the master_bedroom and stayed in the waiting_room.
-31 Mila made no movements and stayed in the master_bedroom for 10 minutes.
-32 Mila exited the master_bedroom and stayed in the waiting_room.
-33 Abigail publicly claimed that radish is in the green_crate.
-34 Benjamin privately told Mila that the radish is actually in the blue_bottle.
-Question: Where does Jayden think Ava thinks the turnip is?
-Choices: A. green_crate, B. red_bottle, C. blue_container, D. red_basket, E. blue_bottle, F. red_suitcase, G. blue_suitcase, H. blue_bathtub, I. green_bottle, J. blue_bucket, K. red_drawer, L. blue_pantry, M. red_bathtub, N. red_bucket, O. blue_envelope
+1 Ella, Jackson, Charlotte, Chloe and Hannah entered the dining_room.
+2 The strawberry is in the blue_cupboard.
+3 Chloe lost his phone.
+4 Ella moved the strawberry to the red_basket.
+5 Ella exited the dining_room and stayed in the waiting_room.
+6 Jackson moved the strawberry to the blue_bathtub.
+7 Jackson exited the dining_room and stayed in the waiting_room.
+8 Charlotte moved the strawberry to the green_box.
+9 Charlotte exited the dining_room and stayed in the waiting_room.
+10 Chloe made no movements and stayed in the dining_room for 10 minutes.
+11 Chloe exited the dining_room and stayed in the waiting_room.
+12 Hannah moved the strawberry to the blue_cupboard.
+13 Hannah exited the dining_room and stayed in the waiting_room.
+14 Charlotte publicly claimed that strawberry is in the blue_bathtub.
+15 Hannah privately told Charlotte that the strawberry is actually in the red_treasure_chest.
+16 Charlotte lost his bottle.
+17 Ella, Chloe and Jackson entered the cellar.
+18 The asparagus is in the red_bucket.
+19 Ella made no movements and stayed in the cellar for 10 minutes.
+20 Ella exited the cellar and stayed in the waiting_room.
+21 Chloe moved the asparagus to the blue_drawer.
+22 Chloe exited the cellar and stayed in the waiting_room.
+23 Jackson made no movements and stayed in the cellar for 10 minutes.
+24 Jackson exited the cellar and stayed in the waiting_room.
+25 Ella, Chloe, Charlotte and Jackson entered the attic.
+26 The turnip is in the blue_treasure_chest.
+27 Ella moved the turnip to the red_box.
+28 Ella exited the attic and stayed in the waiting_room.
+29 Chloe likes the green_box.
+30 Chloe moved the turnip to the green_bathtub.
+31 Chloe exited the attic and stayed in the waiting_room.
+32 Charlotte made no movements and stayed in the attic for 10 minutes.
+33 Charlotte exited the attic and stayed in the waiting_room.
+34 Jackson moved the turnip to the green_basket.
+35 Jackson exited the attic and stayed in the waiting_room.
+36 Ella publicly claimed that turnip is in the red_box.
+37 Jackson privately told Hannah that the turnip is actually in the green_basket.
+Question: Where does Jackson think Chloe thinks the strawberry is?
+Choices: A. blue_treasure_chest, B. blue_bottle, C. red_box, D. green_bathtub, E. green_basket, F. blue_drawer, G. red_bucket, H. red_pantry, I. green_pantry, J. blue_suitcase, K. red_basket, L. blue_cupboard, M. blue_bathtub, N. green_box, O. red_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

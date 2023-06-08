@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 William, Abigail, Aiden, Jacob and Amelia entered the front_yard.
-2 The persimmon is in the blue_crate.
-3 William moved the persimmon to the green_container.
-4 William exited the front_yard and stayed in the waiting_room.
-5 Abigail moved the persimmon to the blue_container.
-6 Abigail exited the front_yard and stayed in the waiting_room.
-7 Aiden moved the persimmon to the red_bathtub.
-8 Aiden exited the front_yard and stayed in the waiting_room.
-9 Jacob moved the persimmon to the red_bucket.
-10 Jacob exited the front_yard and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the front_yard for 10 minutes.
-12 Amelia exited the front_yard and stayed in the waiting_room.
-Question: Where does Jacob think the persimmon is?
-Choices: A. blue_bathtub, B. blue_bottle, C. red_container, D. blue_basket, E. red_bottle, F. green_bottle, G. green_envelope, H. green_cupboard, I. blue_treasure_chest, J. blue_envelope, K. green_container, L. blue_crate, M. blue_container, N. red_bucket, O. red_bathtub
+1 Gracie, Alexander, Sophia, Owen and Mason entered the bathroom.
+2 The melon is in the blue_crate.
+3 Gracie moved the melon to the blue_bottle.
+4 Gracie exited the bathroom and stayed in the waiting_room.
+5 Alexander moved the melon to the red_pantry.
+6 Alexander exited the bathroom and stayed in the waiting_room.
+7 Sophia moved the melon to the red_crate.
+8 Sophia exited the bathroom and stayed in the waiting_room.
+9 Owen made no movements and stayed in the bathroom for 10 minutes.
+10 Owen exited the bathroom and stayed in the waiting_room.
+11 Mason moved the melon to the blue_crate.
+12 Gracie likes the blue_crate.
+13 Mason exited the bathroom and stayed in the waiting_room.
+Question: Where does Gracie think the melon is?
+Choices: A. green_treasure_chest, B. blue_cupboard, C. green_bathtub, D. green_bottle, E. red_bottle, F. green_suitcase, G. red_bucket, H. green_cupboard, I. red_cupboard, J. red_bathtub, K. green_envelope, L. blue_crate, M. red_crate, N. blue_bottle, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

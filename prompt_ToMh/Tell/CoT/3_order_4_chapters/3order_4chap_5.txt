@@ -1,45 +1,51 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Emma, Charlotte, Hannah and Mila entered the porch.
-2 The carrot is in the blue_treasure_chest.
-3 Ella made no movements and stayed in the porch for 10 minutes.
-4 Ella exited the porch and stayed in the waiting_room.
-5 Emma moved the carrot to the blue_bucket.
-6 Emma exited the porch and stayed in the waiting_room.
-7 Charlotte moved the carrot to the red_crate.
-8 Charlotte exited the porch and stayed in the waiting_room.
-9 Hannah made no movements and stayed in the porch for 10 minutes.
-10 Hannah exited the porch and stayed in the waiting_room.
-11 Mila made no movements and stayed in the porch for 10 minutes.
-12 Mila exited the porch and stayed in the waiting_room.
-13 Hannah, Emma and Ella entered the study.
-14 The pumpkin is in the blue_suitcase.
-15 Hannah made no movements and stayed in the study for 10 minutes.
-16 Hannah exited the study and stayed in the waiting_room.
-17 Emma made no movements and stayed in the study for 10 minutes.
-18 Emma exited the study and stayed in the waiting_room.
-19 Ella moved the pumpkin to the green_bathtub.
-20 Ella exited the study and stayed in the waiting_room.
-21 Emma privately told Ella that the pumpkin is actually in the blue_suitcase.
-22 Ella privately told Mila that the pumpkin is actually in the green_bathtub.
-23 Ella, Emma, Mila and Charlotte entered the study.
-24 The cherry is in the green_bathtub.
-25 Ella made no movements and stayed in the study for 10 minutes.
-26 Ella exited the study and stayed in the waiting_room.
-27 Emma made no movements and stayed in the study for 10 minutes.
-28 Emma exited the study and stayed in the waiting_room.
-29 Mila made no movements and stayed in the study for 10 minutes.
-30 Mila exited the study and stayed in the waiting_room.
-31 Charlotte moved the cherry to the red_bottle.
-32 Charlotte exited the study and stayed in the waiting_room.
-33 Hannah and Ella entered the pantry.
-34 The pear is in the red_suitcase.
-35 Hannah moved the pear to the green_envelope.
-36 Hannah exited the pantry and stayed in the waiting_room.
-37 Ella made no movements and stayed in the pantry for 10 minutes.
-38 Ella exited the pantry and stayed in the waiting_room.
-39 Hannah publicly claimed that pear is in the red_treasure_chest.
-40 Ella privately told Hannah that the pear is actually in the red_drawer.
-Question: Where does Ella think Emma thinks Hannah thinks the carrot is?
-Choices: A. green_bathtub, B. blue_suitcase, C. blue_container, D. red_bottle, E. green_container, F. blue_drawer, G. red_suitcase, H. green_envelope, I. red_treasure_chest, J. red_drawer, K. green_suitcase, L. blue_treasure_chest, M. red_crate, N. red_envelope, O. blue_bucket
+1 Liam, Owen, Alexander, Chloe and Emily entered the TV_room.
+2 The peas is in the blue_bucket.
+3 Liam made no movements and stayed in the TV_room for 10 minutes.
+4 Emily likes the blue_crate.
+5 Liam exited the TV_room and stayed in the waiting_room.
+6 Owen moved the peas to the blue_crate.
+7 Emily likes the red_bucket.
+8 Owen exited the TV_room and stayed in the waiting_room.
+9 Alexander moved the peas to the red_bottle.
+10 Alexander saw a monkey.
+11 Alexander exited the TV_room and stayed in the waiting_room.
+12 Chloe made no movements and stayed in the TV_room for 10 minutes.
+13 Chloe exited the TV_room and stayed in the waiting_room.
+14 Emily made no movements and stayed in the TV_room for 10 minutes.
+15 Emily exited the TV_room and stayed in the waiting_room.
+16 Liam, Alexander and Emily entered the TV_room.
+17 The peas is in the red_bottle.
+18 Liam moved the peas to the red_treasure_chest.
+19 Liam exited the TV_room and stayed in the waiting_room.
+20 Alexander moved the peas to the blue_crate.
+21 Alexander exited the TV_room and stayed in the waiting_room.
+22 Emily moved the peas to the green_bucket.
+23 Emily exited the TV_room and stayed in the waiting_room.
+24 Emily publicly claimed that peas is in the red_treasure_chest.
+25 Owen dislikes the watermelon.
+26 Liam privately told Emily that the peas is actually in the blue_bucket.
+27 Emily, Liam, Chloe and Alexander entered the garden.
+28 The broccoli is in the green_bathtub.
+29 Emily made no movements and stayed in the garden for 10 minutes.
+30 Emily exited the garden and stayed in the waiting_room.
+31 Liam moved the broccoli to the red_bucket.
+32 Liam exited the garden and stayed in the waiting_room.
+33 Chloe likes the red_basket.
+34 Chloe moved the broccoli to the green_box.
+35 Chloe exited the garden and stayed in the waiting_room.
+36 Alexander lost his watch.
+37 Alexander moved the broccoli to the green_suitcase.
+38 Alexander exited the garden and stayed in the waiting_room.
+39 Emily and Owen entered the TV_room.
+40 The peas is in the green_bucket.
+41 Emily made no movements and stayed in the TV_room for 10 minutes.
+42 Emily exited the TV_room and stayed in the waiting_room.
+43 Owen moved the peas to the red_treasure_chest.
+44 Owen exited the TV_room and stayed in the waiting_room.
+45 Owen publicly claimed that peas is in the red_bottle.
+46 Emily privately told Owen that the peas is actually in the red_treasure_chest.
+Question: Where does Alexander think Owen thinks Liam thinks the peas is?
+Choices: A. blue_bottle, B. red_bathtub, C. red_basket, D. green_treasure_chest, E. blue_drawer, F. blue_crate, G. blue_bucket, H. red_treasure_chest, I. red_bottle, J. green_bucket, K. green_box, L. green_bathtub, M. blue_envelope, N. green_suitcase, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Ethan, Emily, Benjamin and Logan entered the living_room.
-2 The spinach is in the green_bathtub.
-3 James made no movements and stayed in the living_room for 10 minutes.
-4 James exited the living_room and stayed in the waiting_room.
-5 Ethan moved the spinach to the blue_bathtub.
-6 Ethan exited the living_room and stayed in the waiting_room.
-7 Emily made no movements and stayed in the living_room for 10 minutes.
-8 Emily exited the living_room and stayed in the waiting_room.
-9 Benjamin made no movements and stayed in the living_room for 10 minutes.
-10 Benjamin exited the living_room and stayed in the waiting_room.
-11 Logan made no movements and stayed in the living_room for 10 minutes.
-12 Logan exited the living_room and stayed in the waiting_room.
-13 James, Benjamin and Ethan entered the front_yard.
-14 The pear is in the green_treasure_chest.
-15 James made no movements and stayed in the front_yard for 10 minutes.
-16 James exited the front_yard and stayed in the waiting_room.
-17 Benjamin made no movements and stayed in the front_yard for 10 minutes.
-18 Benjamin exited the front_yard and stayed in the waiting_room.
-19 Ethan moved the pear to the green_cupboard.
-20 Ethan exited the front_yard and stayed in the waiting_room.
-21 Benjamin, Emily, Logan and James entered the front_yard.
-22 The asparagus is in the green_cupboard.
-23 Benjamin moved the asparagus to the green_treasure_chest.
-24 Benjamin exited the front_yard and stayed in the waiting_room.
-25 Emily moved the asparagus to the green_bottle.
-26 Emily exited the front_yard and stayed in the waiting_room.
-27 Logan made no movements and stayed in the front_yard for 10 minutes.
-28 Logan exited the front_yard and stayed in the waiting_room.
-29 James made no movements and stayed in the front_yard for 10 minutes.
-30 James exited the front_yard and stayed in the waiting_room.
-31 James and Benjamin entered the closet.
-32 The tomato is in the red_basket.
-33 James moved the tomato to the blue_envelope.
-34 James exited the closet and stayed in the waiting_room.
-35 Benjamin made no movements and stayed in the closet for 10 minutes.
-36 Benjamin exited the closet and stayed in the waiting_room.
-Question: Where does Emily think the spinach is?
-Choices: A. green_crate, B. red_basket, C. blue_envelope, D. green_container, E. blue_drawer, F. green_bathtub, G. blue_container, H. red_envelope, I. blue_bottle, J. blue_bathtub, K. green_treasure_chest, L. green_cupboard, M. red_drawer, N. blue_bucket, O. green_bottle
+1 Emma, Emily, Ethan, Mia and Isabella entered the workshop.
+2 The cucumber is in the green_pantry.
+3 Emma made no movements and stayed in the workshop for 10 minutes.
+4 Emma exited the workshop and stayed in the waiting_room.
+5 Emily made no movements and stayed in the workshop for 10 minutes.
+6 Emily exited the workshop and stayed in the waiting_room.
+7 Ethan made no movements and stayed in the workshop for 10 minutes.
+8 Ethan exited the workshop and stayed in the waiting_room.
+9 Mia moved the cucumber to the green_bucket.
+10 Mia exited the workshop and stayed in the waiting_room.
+11 Isabella moved the cucumber to the green_pantry.
+12 Isabella exited the workshop and stayed in the waiting_room.
+13 Emily dislikes the tangerine.
+14 Isabella, Ethan and Emma entered the workshop.
+15 The cucumber is in the green_pantry.
+16 Isabella moved the cucumber to the green_suitcase.
+17 Isabella exited the workshop and stayed in the waiting_room.
+18 Ethan moved the cucumber to the red_box.
+19 Ethan exited the workshop and stayed in the waiting_room.
+20 Emma made no movements and stayed in the workshop for 10 minutes.
+21 Emma exited the workshop and stayed in the waiting_room.
+22 Isabella, Emily, Ethan and Emma entered the TV_room.
+23 The eggplant is in the blue_crate.
+24 Isabella moved the eggplant to the red_treasure_chest.
+25 Isabella exited the TV_room and stayed in the waiting_room.
+26 Emily made no movements and stayed in the TV_room for 10 minutes.
+27 Emily exited the TV_room and stayed in the waiting_room.
+28 Ethan made no movements and stayed in the TV_room for 10 minutes.
+29 Ethan exited the TV_room and stayed in the waiting_room.
+30 Emma made no movements and stayed in the TV_room for 10 minutes.
+31 Emma exited the TV_room and stayed in the waiting_room.
+32 Isabella and Emma entered the workshop.
+33 The cucumber is in the red_box.
+34 Isabella moved the cucumber to the red_bucket.
+35 Isabella exited the workshop and stayed in the waiting_room.
+36 Emma moved the cucumber to the green_bucket.
+37 Ethan lost his bottle.
+38 Emma exited the workshop and stayed in the waiting_room.
+Question: Where does Mia think the cucumber is?
+Choices: A. green_pantry, B. red_bucket, C. green_bucket, D. red_box, E. green_suitcase, F. blue_crate, G. red_pantry, H. red_cupboard, I. red_treasure_chest, J. red_container, K. red_bathtub, L. blue_envelope, M. blue_drawer, N. blue_cupboard, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

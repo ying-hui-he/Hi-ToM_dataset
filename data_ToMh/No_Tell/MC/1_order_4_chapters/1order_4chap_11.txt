@@ -1,41 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Olivia, Hannah, Charlotte and Mia entered the pantry.
-2 The pumpkin is in the red_container.
-3 Abigail moved the pumpkin to the red_envelope.
-4 Abigail exited the pantry and stayed in the waiting_room.
-5 Olivia moved the pumpkin to the blue_crate.
-6 Olivia exited the pantry and stayed in the waiting_room.
-7 Hannah moved the pumpkin to the blue_bottle.
-8 Hannah exited the pantry and stayed in the waiting_room.
-9 Charlotte moved the pumpkin to the green_suitcase.
-10 Charlotte exited the pantry and stayed in the waiting_room.
-11 Mia moved the pumpkin to the red_container.
-12 Mia exited the pantry and stayed in the waiting_room.
-13 Hannah, Charlotte and Mia entered the pantry.
-14 The pumpkin is in the red_container.
-15 Hannah moved the pumpkin to the green_suitcase.
-16 Hannah exited the pantry and stayed in the waiting_room.
-17 Charlotte moved the pumpkin to the blue_bottle.
-18 Charlotte exited the pantry and stayed in the waiting_room.
-19 Mia moved the pumpkin to the red_envelope.
-20 Mia exited the pantry and stayed in the waiting_room.
-21 Charlotte, Abigail, Hannah and Olivia entered the playroom.
-22 The peach is in the red_drawer.
-23 Charlotte moved the peach to the red_basket.
-24 Charlotte exited the playroom and stayed in the waiting_room.
-25 Abigail moved the peach to the red_bucket.
-26 Abigail exited the playroom and stayed in the waiting_room.
-27 Hannah moved the peach to the blue_envelope.
-28 Hannah exited the playroom and stayed in the waiting_room.
-29 Olivia made no movements and stayed in the playroom for 10 minutes.
-30 Olivia exited the playroom and stayed in the waiting_room.
-31 Abigail and Hannah entered the playroom.
-32 The carrot is in the red_basket.
-33 Abigail made no movements and stayed in the playroom for 10 minutes.
-34 Abigail exited the playroom and stayed in the waiting_room.
-35 Hannah moved the carrot to the red_drawer.
-36 Hannah exited the playroom and stayed in the waiting_room.
-Question: Where does Mia think the pumpkin is?
-Answer: red_envelope
-Choices: A. green_suitcase, B. red_container, C. blue_bottle, D. red_envelope, E. blue_crate, F. green_cupboard, G. red_bottle, H. red_suitcase, I. red_treasure_chest, J. blue_box, K. red_basket, L. red_drawer, M. blue_envelope, N. red_bucket, O. blue_drawer
+1 Mila, Amelia, Jackson, Gracie and Jack entered the study.
+2 The persimmon is in the red_cupboard.
+3 Mila made no movements and stayed in the study for 10 minutes.
+4 Mila exited the study and stayed in the waiting_room.
+5 Amelia moved the persimmon to the green_suitcase.
+6 Amelia exited the study and stayed in the waiting_room.
+7 Jackson moved the persimmon to the blue_crate.
+8 Jackson exited the study and stayed in the waiting_room.
+9 Gracie moved the persimmon to the red_treasure_chest.
+10 Gracie exited the study and stayed in the waiting_room.
+11 Jack moved the persimmon to the red_cupboard.
+12 Jack exited the study and stayed in the waiting_room.
+13 Jackson, Jack and Amelia entered the dining_room.
+14 The beans is in the blue_bathtub.
+15 Jackson moved the beans to the green_cupboard.
+16 Jackson exited the dining_room and stayed in the waiting_room.
+17 Jack made no movements and stayed in the dining_room for 10 minutes.
+18 Jack exited the dining_room and stayed in the waiting_room.
+19 Amelia moved the beans to the red_pantry.
+20 Amelia exited the dining_room and stayed in the waiting_room.
+21 Mila, Amelia, Jackson and Jack entered the sunroom.
+22 The tangerine is in the blue_drawer.
+23 Mila moved the tangerine to the green_box.
+24 Mila exited the sunroom and stayed in the waiting_room.
+25 Amelia moved the tangerine to the blue_envelope.
+26 Amelia exited the sunroom and stayed in the waiting_room.
+27 Jackson made no movements and stayed in the sunroom for 10 minutes.
+28 Jackson exited the sunroom and stayed in the waiting_room.
+29 Jack made no movements and stayed in the sunroom for 10 minutes.
+30 Jack exited the sunroom and stayed in the waiting_room.
+31 Amelia and Jack entered the sunroom.
+32 The tangerine is in the blue_envelope.
+33 Amelia moved the tangerine to the blue_drawer.
+34 Amelia exited the sunroom and stayed in the waiting_room.
+35 Jack moved the tangerine to the red_container.
+36 Jack exited the sunroom and stayed in the waiting_room.
+37 Amelia lost his watch.
+Question: Where does Jackson think the persimmon is?
+Answer: blue_crate
+Choices: A. blue_crate, B. red_cupboard, C. red_treasure_chest, D. green_suitcase, E. green_treasure_chest, F. blue_bathtub, G. green_bathtub, H. green_cupboard, I. red_basket, J. red_pantry, K. blue_drawer, L. green_box, M. blue_envelope, N. red_container, O. red_crate

@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Hannah, Gracie, Oliver and William entered the study.
-2 The apple is in the red_container.
-3 Mila moved the apple to the blue_box.
-4 Mila exited the study and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the study for 10 minutes.
-6 Hannah exited the study and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the study for 10 minutes.
-8 Gracie exited the study and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the study for 10 minutes.
-10 Oliver exited the study and stayed in the waiting_room.
-11 William moved the apple to the red_container.
-12 William exited the study and stayed in the waiting_room.
-13 Hannah, Oliver and Mila entered the living_room.
-14 The melon is in the blue_bottle.
-15 Hannah moved the melon to the blue_treasure_chest.
-16 Hannah exited the living_room and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the living_room for 10 minutes.
-18 Oliver exited the living_room and stayed in the waiting_room.
-19 Mila moved the melon to the red_treasure_chest.
-20 Mila exited the living_room and stayed in the waiting_room.
-21 Hannah publicly claimed that melon is in the red_treasure_chest.
-22 Mila privately told William that the melon is actually in the red_treasure_chest.
-23 Oliver, Hannah, Mila and Gracie entered the study.
-24 The apple is in the red_container.
-25 Oliver moved the apple to the blue_envelope.
-26 Oliver exited the study and stayed in the waiting_room.
-27 Hannah moved the apple to the green_cupboard.
-28 Hannah exited the study and stayed in the waiting_room.
-29 Mila made no movements and stayed in the study for 10 minutes.
-30 Mila exited the study and stayed in the waiting_room.
-31 Gracie moved the apple to the blue_box.
-32 Gracie exited the study and stayed in the waiting_room.
-33 Mila and Gracie entered the study.
-34 The apple is in the blue_box.
-35 Mila made no movements and stayed in the study for 10 minutes.
-36 Mila exited the study and stayed in the waiting_room.
-37 Gracie moved the apple to the green_cupboard.
-38 Gracie exited the study and stayed in the waiting_room.
-39 Gracie publicly claimed that apple is in the blue_box.
-40 Mila privately told Gracie that the apple is actually in the red_container.
-Question: Where does William think Oliver thinks Gracie thinks Mila thinks the apple is?
-Choices: A. red_container, B. blue_envelope, C. green_cupboard, D. blue_box, E. red_drawer, F. blue_treasure_chest, G. blue_bottle, H. red_treasure_chest, I. blue_container, J. red_bucket, K. green_container, L. green_crate, M. green_treasure_chest, N. blue_suitcase, O. blue_crate
+1 Ethan, Aiden, Jacob, Amelia and Isabella entered the closet.
+2 The beans is in the red_bucket.
+3 Isabella lost his bottle.
+4 Ethan made no movements and stayed in the closet for 10 minutes.
+5 Ethan exited the closet and stayed in the waiting_room.
+6 Aiden moved the beans to the green_bathtub.
+7 Aiden exited the closet and stayed in the waiting_room.
+8 Jacob moved the beans to the green_cupboard.
+9 Jacob exited the closet and stayed in the waiting_room.
+10 Amelia moved the beans to the red_treasure_chest.
+11 Amelia exited the closet and stayed in the waiting_room.
+12 Isabella made no movements and stayed in the closet for 10 minutes.
+13 Isabella exited the closet and stayed in the waiting_room.
+14 Isabella, Aiden and Amelia entered the dining_room.
+15 The strawberry is in the red_bottle.
+16 Isabella moved the strawberry to the red_container.
+17 Isabella exited the dining_room and stayed in the waiting_room.
+18 Aiden moved the strawberry to the red_crate.
+19 Aiden exited the dining_room and stayed in the waiting_room.
+20 Amelia made no movements and stayed in the dining_room for 10 minutes.
+21 Amelia exited the dining_room and stayed in the waiting_room.
+22 Aiden publicly claimed that strawberry is in the blue_crate.
+23 Amelia privately told Aiden that the strawberry is actually in the green_suitcase.
+24 Aiden, Jacob, Isabella and Ethan entered the dining_room.
+25 The strawberry is in the red_crate.
+26 Aiden moved the strawberry to the green_suitcase.
+27 Aiden exited the dining_room and stayed in the waiting_room.
+28 Jacob moved the strawberry to the red_container.
+29 Jacob exited the dining_room and stayed in the waiting_room.
+30 Aiden likes the red_treasure_chest.
+31 Isabella made no movements and stayed in the dining_room for 10 minutes.
+32 Isabella exited the dining_room and stayed in the waiting_room.
+33 Ethan moved the strawberry to the blue_crate.
+34 Jacob saw a mouse.
+35 Ethan exited the dining_room and stayed in the waiting_room.
+36 Ethan and Jacob entered the closet.
+37 The asparagus is in the green_cupboard.
+38 Ethan moved the asparagus to the green_bathtub.
+39 Ethan exited the closet and stayed in the waiting_room.
+40 Aiden likes the blue_bathtub.
+41 Jacob made no movements and stayed in the closet for 10 minutes.
+42 Jacob exited the closet and stayed in the waiting_room.
+43 Jacob publicly claimed that asparagus is in the blue_bathtub.
+44 Ethan privately told Jacob that the asparagus is actually in the red_bucket.
+Question: Where does Aiden think Amelia thinks Isabella thinks Ethan thinks the beans is?
+Choices: A. red_pantry, B. green_pantry, C. red_cupboard, D. red_box, E. blue_suitcase, F. red_bottle, G. blue_crate, H. green_suitcase, I. red_container, J. red_crate, K. green_cupboard, L. red_bucket, M. green_bathtub, N. red_treasure_chest, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

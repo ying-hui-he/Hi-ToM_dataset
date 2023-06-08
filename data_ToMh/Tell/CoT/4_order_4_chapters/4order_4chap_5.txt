@@ -1,44 +1,49 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mia, Jackson, Emma, Jacob and James entered the office.
-2 The spinach is in the blue_bucket.
-3 Mia made no movements and stayed in the office for 10 minutes.
-4 Mia exited the office and stayed in the waiting_room.
-5 Jackson moved the spinach to the blue_box.
-6 Jackson exited the office and stayed in the waiting_room.
-7 Emma made no movements and stayed in the office for 10 minutes.
-8 Emma exited the office and stayed in the waiting_room.
-9 Jacob moved the spinach to the red_bucket.
-10 Jacob exited the office and stayed in the waiting_room.
-11 James moved the spinach to the blue_bucket.
-12 James exited the office and stayed in the waiting_room.
-13 Emma, Jacob and Mia entered the kitchen.
-14 The grapefruit is in the green_bottle.
-15 Emma made no movements and stayed in the kitchen for 10 minutes.
-16 Emma exited the kitchen and stayed in the waiting_room.
-17 Jacob moved the grapefruit to the blue_drawer.
-18 Jacob exited the kitchen and stayed in the waiting_room.
-19 Mia made no movements and stayed in the kitchen for 10 minutes.
-20 Mia exited the kitchen and stayed in the waiting_room.
-21 Mia publicly claimed that grapefruit is in the red_suitcase.
-22 Emma privately told Mia that the grapefruit is actually in the blue_treasure_chest.
-23 Mia, Emma, Jacob and James entered the kitchen.
-24 The grapefruit is in the blue_drawer.
-25 Mia made no movements and stayed in the kitchen for 10 minutes.
-26 Mia exited the kitchen and stayed in the waiting_room.
-27 Emma moved the grapefruit to the red_suitcase.
-28 Emma exited the kitchen and stayed in the waiting_room.
-29 Jacob made no movements and stayed in the kitchen for 10 minutes.
-30 Jacob exited the kitchen and stayed in the waiting_room.
-31 James moved the grapefruit to the blue_treasure_chest.
-32 James exited the kitchen and stayed in the waiting_room.
-33 James and Mia entered the kitchen.
-34 The grapefruit is in the blue_treasure_chest.
-35 James made no movements and stayed in the kitchen for 10 minutes.
-36 James exited the kitchen and stayed in the waiting_room.
-37 Mia made no movements and stayed in the kitchen for 10 minutes.
-38 Mia exited the kitchen and stayed in the waiting_room.
-39 James privately told Emma that the grapefruit is actually in the blue_pantry.
-Question: Where does Jacob think James thinks Mia thinks Emma thinks the spinach is?
+1 Jackson, Mia, Jacob, Aiden and Isabella entered the bedroom.
+2 The corn is in the red_pantry.
+3 Jacob dislikes the grapes.
+4 Jackson made no movements and stayed in the bedroom for 10 minutes.
+5 Jackson exited the bedroom and stayed in the waiting_room.
+6 Mia moved the corn to the red_bottle.
+7 Mia exited the bedroom and stayed in the waiting_room.
+8 Jacob saw a monkey.
+9 Jacob made no movements and stayed in the bedroom for 10 minutes.
+10 Jacob exited the bedroom and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the bedroom for 10 minutes.
+12 Aiden exited the bedroom and stayed in the waiting_room.
+13 Isabella moved the corn to the red_pantry.
+14 Isabella exited the bedroom and stayed in the waiting_room.
+15 Aiden, Mia and Jackson entered the basement.
+16 The grapes is in the blue_envelope.
+17 Mia lost his bottle.
+18 Aiden made no movements and stayed in the basement for 10 minutes.
+19 Aiden exited the basement and stayed in the waiting_room.
+20 Mia moved the grapes to the red_basket.
+21 Mia exited the basement and stayed in the waiting_room.
+22 Jackson moved the grapes to the blue_bucket.
+23 Jackson exited the basement and stayed in the waiting_room.
+24 Mia publicly claimed that grapes is in the green_bucket.
+25 Jackson privately told Mia that the grapes is actually in the red_basket.
+26 Jackson, Aiden, Jacob and Isabella entered the hall.
+27 The lettuce is in the green_cupboard.
+28 Jackson moved the lettuce to the green_box.
+29 Aiden likes the blue_envelope.
+30 Jackson exited the hall and stayed in the waiting_room.
+31 Aiden made no movements and stayed in the hall for 10 minutes.
+32 Aiden exited the hall and stayed in the waiting_room.
+33 Jacob moved the lettuce to the green_treasure_chest.
+34 Jacob exited the hall and stayed in the waiting_room.
+35 Isabella made no movements and stayed in the hall for 10 minutes.
+36 Isabella exited the hall and stayed in the waiting_room.
+37 Isabella and Aiden entered the bedroom.
+38 The corn is in the red_pantry.
+39 Isabella made no movements and stayed in the bedroom for 10 minutes.
+40 Isabella exited the bedroom and stayed in the waiting_room.
+41 Aiden moved the corn to the red_box.
+42 Aiden exited the bedroom and stayed in the waiting_room.
+43 Aiden publicly claimed that corn is in the blue_suitcase.
+44 Isabella privately told Aiden that the corn is actually in the red_pantry.
+Question: Where does Jackson think Jacob thinks Mia thinks Aiden thinks the corn is?
 Answer: None
-Choices: A. green_bottle, B. blue_treasure_chest, C. red_suitcase, D. blue_drawer, E. blue_pantry, F. green_suitcase, G. blue_bathtub, H. blue_suitcase, I. red_crate, J. green_container, K. blue_bucket, L. blue_crate, M. blue_envelope, N. blue_box, O. red_bucket
+Choices: A. blue_crate, B. blue_envelope, C. blue_bucket, D. green_bucket, E. red_basket, F. red_pantry, G. red_bottle, H. red_box, I. blue_suitcase, J. red_crate, K. green_basket, L. green_cupboard, M. green_box, N. green_treasure_chest, O. blue_bathtub

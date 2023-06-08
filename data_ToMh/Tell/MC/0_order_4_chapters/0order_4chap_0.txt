@@ -1,44 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Hannah, Olivia, Jackson and Ava entered the bathroom.
-2 The celery is in the green_treasure_chest.
-3 Abigail made no movements and stayed in the bathroom for 10 minutes.
-4 Abigail exited the bathroom and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the bathroom for 10 minutes.
-6 Hannah exited the bathroom and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the bathroom for 10 minutes.
-8 Olivia exited the bathroom and stayed in the waiting_room.
-9 Jackson moved the celery to the red_suitcase.
-10 Jackson exited the bathroom and stayed in the waiting_room.
-11 Ava moved the celery to the green_treasure_chest.
-12 Ava exited the bathroom and stayed in the waiting_room.
-13 Abigail, Ava and Hannah entered the bathroom.
-14 The potato is in the green_crate.
-15 Abigail moved the potato to the red_suitcase.
-16 Abigail exited the bathroom and stayed in the waiting_room.
-17 Ava made no movements and stayed in the bathroom for 10 minutes.
-18 Ava exited the bathroom and stayed in the waiting_room.
-19 Hannah moved the potato to the green_treasure_chest.
-20 Hannah exited the bathroom and stayed in the waiting_room.
-21 Ava publicly claimed that potato is in the red_envelope.
-22 Hannah privately told Ava that the potato is actually in the blue_bucket.
-23 Hannah, Ava, Abigail and Jackson entered the lounge.
-24 The orange is in the blue_envelope.
-25 Hannah moved the orange to the blue_drawer.
-26 Hannah exited the lounge and stayed in the waiting_room.
-27 Ava made no movements and stayed in the lounge for 10 minutes.
-28 Ava exited the lounge and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the lounge for 10 minutes.
-30 Abigail exited the lounge and stayed in the waiting_room.
-31 Jackson made no movements and stayed in the lounge for 10 minutes.
-32 Jackson exited the lounge and stayed in the waiting_room.
-33 Hannah and Ava entered the closet.
-34 The cucumber is in the green_bottle.
-35 Hannah moved the cucumber to the blue_bathtub.
-36 Hannah exited the closet and stayed in the waiting_room.
-37 Ava made no movements and stayed in the closet for 10 minutes.
-38 Ava exited the closet and stayed in the waiting_room.
-39 Hannah privately told Jackson that the cucumber is actually in the blue_bathtub.
-Question: Where is the celery really?
-Answer: green_treasure_chest
-Choices: A. green_envelope, B. green_bottle, C. blue_crate, D. blue_box, E. blue_bathtub, F. blue_treasure_chest, G. blue_envelope, H. blue_drawer, I. red_basket, J. red_bottle, K. green_crate, L. green_treasure_chest, M. blue_bucket, N. red_envelope, O. red_suitcase
+1 Jackson, Gracie, Emily, Ella and Liam entered the study.
+2 The onion is in the red_box.
+3 Jackson moved the onion to the green_envelope.
+4 Jackson exited the study and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the study for 10 minutes.
+6 Gracie exited the study and stayed in the waiting_room.
+7 Emily made no movements and stayed in the study for 10 minutes.
+8 Emily exited the study and stayed in the waiting_room.
+9 Ella moved the onion to the blue_drawer.
+10 Ella exited the study and stayed in the waiting_room.
+11 Liam made no movements and stayed in the study for 10 minutes.
+12 Liam exited the study and stayed in the waiting_room.
+13 Liam, Ella and Gracie entered the office.
+14 The eggplant is in the red_container.
+15 Liam made no movements and stayed in the office for 10 minutes.
+16 Liam exited the office and stayed in the waiting_room.
+17 Ella moved the eggplant to the green_suitcase.
+18 Ella exited the office and stayed in the waiting_room.
+19 Gracie moved the eggplant to the red_crate.
+20 Gracie exited the office and stayed in the waiting_room.
+21 Gracie dislikes the peas.
+22 Ella publicly claimed that eggplant is in the red_bottle.
+23 Gracie privately told Ella that the eggplant is actually in the red_container.
+24 Jackson, Emily, Liam and Ella entered the study.
+25 The peas is in the green_envelope.
+26 Jackson moved the peas to the red_box.
+27 Jackson exited the study and stayed in the waiting_room.
+28 Emily made no movements and stayed in the study for 10 minutes.
+29 Emily exited the study and stayed in the waiting_room.
+30 Liam moved the peas to the blue_drawer.
+31 Liam exited the study and stayed in the waiting_room.
+32 Ella moved the peas to the green_basket.
+33 Ella exited the study and stayed in the waiting_room.
+34 Jackson and Emily entered the master_bedroom.
+35 Jackson likes the red_crate.
+36 The pineapple is in the green_bathtub.
+37 Jackson made no movements and stayed in the master_bedroom for 10 minutes.
+38 Jackson exited the master_bedroom and stayed in the waiting_room.
+39 Emily made no movements and stayed in the master_bedroom for 10 minutes.
+40 Emily exited the master_bedroom and stayed in the waiting_room.
+41 Emily publicly claimed that pineapple is in the green_box.
+42 Jackson privately told Emily that the pineapple is actually in the green_bottle.
+Question: Where is the onion really?
+Answer: blue_drawer
+Choices: A. red_box, B. green_envelope, C. blue_cupboard, D. green_basket, E. blue_drawer, F. green_suitcase, G. red_container, H. red_bottle, I. blue_envelope, J. red_crate, K. green_box, L. green_bathtub, M. green_bottle, N. blue_suitcase, O. red_envelope

@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Benjamin, Charlotte, Ella and Jack entered the lounge.
-2 The green_pepper is in the green_envelope.
-3 Gracie made no movements and stayed in the lounge for 10 minutes.
-4 Gracie exited the lounge and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the lounge for 10 minutes.
-6 Benjamin exited the lounge and stayed in the waiting_room.
-7 Charlotte made no movements and stayed in the lounge for 10 minutes.
-8 Charlotte exited the lounge and stayed in the waiting_room.
-9 Ella moved the green_pepper to the green_bottle.
-10 Ella exited the lounge and stayed in the waiting_room.
-11 Jack moved the green_pepper to the green_envelope.
-12 Jack exited the lounge and stayed in the waiting_room.
-13 Gracie, Charlotte and Jack entered the lounge.
-14 The strawberry is in the blue_suitcase.
-15 Gracie made no movements and stayed in the lounge for 10 minutes.
-16 Gracie exited the lounge and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the lounge for 10 minutes.
-18 Charlotte exited the lounge and stayed in the waiting_room.
-19 Jack moved the strawberry to the green_envelope.
-20 Jack exited the lounge and stayed in the waiting_room.
-21 Charlotte privately told Jack that the strawberry is actually in the blue_suitcase.
-22 Jack privately told Ella that the strawberry is actually in the green_envelope.
-Question: Where does Benjamin think Jack thinks the green_pepper is?
-Choices: A. red_crate, B. green_cupboard, C. red_bottle, D. green_container, E. green_suitcase, F. blue_container, G. green_treasure_chest, H. blue_crate, I. red_bucket, J. red_suitcase, K. green_envelope, L. blue_suitcase, M. blue_bathtub, N. blue_treasure_chest, O. green_bottle
+1 Jackson, Charlotte, Jacob, Liam and Alexander entered the master_bedroom.
+2 Jacob saw a monkey.
+3 The radish is in the green_pantry.
+4 Jackson moved the radish to the green_cupboard.
+5 Jackson exited the master_bedroom and stayed in the waiting_room.
+6 Charlotte made no movements and stayed in the master_bedroom for 10 minutes.
+7 Liam likes the green_cupboard.
+8 Charlotte exited the master_bedroom and stayed in the waiting_room.
+9 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
+10 Jacob exited the master_bedroom and stayed in the waiting_room.
+11 Liam moved the radish to the blue_suitcase.
+12 Liam exited the master_bedroom and stayed in the waiting_room.
+13 Alexander made no movements and stayed in the master_bedroom for 10 minutes.
+14 Alexander exited the master_bedroom and stayed in the waiting_room.
+15 Jackson, Alexander and Charlotte entered the master_bedroom.
+16 The green_pepper is in the blue_drawer.
+17 Jackson made no movements and stayed in the master_bedroom for 10 minutes.
+18 Jackson exited the master_bedroom and stayed in the waiting_room.
+19 Alexander made no movements and stayed in the master_bedroom for 10 minutes.
+20 Alexander exited the master_bedroom and stayed in the waiting_room.
+21 Charlotte made no movements and stayed in the master_bedroom for 10 minutes.
+22 Charlotte exited the master_bedroom and stayed in the waiting_room.
+23 Jackson publicly claimed that green_pepper is in the blue_drawer.
+24 Charlotte privately told Jacob that the green_pepper is actually in the blue_drawer.
+Question: Where does Alexander think Jacob thinks the radish is?
+26 Alexander dislikes the melon.
+Choices: A. red_pantry, B. red_container, C. blue_bottle, D. green_box, E. red_box, F. red_basket, G. green_suitcase, H. red_cupboard, I. red_bottle, J. red_bathtub, K. blue_drawer, L. green_pantry, M. blue_envelope, N. green_cupboard, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

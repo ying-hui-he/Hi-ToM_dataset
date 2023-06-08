@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Oliver, Logan, Ethan and Amelia entered the kitchen.
-2 The plum is in the red_bathtub.
-3 Gracie made no movements and stayed in the kitchen for 10 minutes.
-4 Gracie exited the kitchen and stayed in the waiting_room.
-5 Oliver made no movements and stayed in the kitchen for 10 minutes.
-6 Oliver exited the kitchen and stayed in the waiting_room.
-7 Logan moved the plum to the green_suitcase.
-8 Logan exited the kitchen and stayed in the waiting_room.
-9 Ethan moved the plum to the blue_drawer.
-10 Ethan exited the kitchen and stayed in the waiting_room.
-11 Amelia moved the plum to the red_bathtub.
-12 Amelia exited the kitchen and stayed in the waiting_room.
-13 Gracie, Logan and Ethan entered the kitchen.
-14 The plum is in the red_bathtub.
-15 Gracie moved the plum to the blue_drawer.
-16 Gracie exited the kitchen and stayed in the waiting_room.
-17 Logan moved the plum to the green_suitcase.
-18 Logan exited the kitchen and stayed in the waiting_room.
-19 Ethan moved the plum to the red_crate.
-20 Ethan exited the kitchen and stayed in the waiting_room.
-21 Gracie publicly claimed that plum is in the green_suitcase.
-22 Ethan privately told Amelia that the plum is actually in the red_crate.
-23 Oliver, Ethan, Amelia and Gracie entered the kitchen.
-24 The plum is in the red_crate.
-25 Oliver moved the plum to the green_suitcase.
-26 Oliver exited the kitchen and stayed in the waiting_room.
-27 Ethan made no movements and stayed in the kitchen for 10 minutes.
-28 Ethan exited the kitchen and stayed in the waiting_room.
-29 Amelia made no movements and stayed in the kitchen for 10 minutes.
-30 Amelia exited the kitchen and stayed in the waiting_room.
-31 Gracie moved the plum to the blue_pantry.
-32 Gracie exited the kitchen and stayed in the waiting_room.
-33 Gracie and Ethan entered the closet.
-34 The apple is in the green_bathtub.
-35 Gracie moved the apple to the blue_basket.
-36 Gracie exited the closet and stayed in the waiting_room.
-37 Ethan made no movements and stayed in the closet for 10 minutes.
-38 Ethan exited the closet and stayed in the waiting_room.
-39 Gracie publicly claimed that apple is in the blue_container.
-40 Ethan privately told Gracie that the apple is actually in the green_bathtub.
-Question: Where is the plum really?
-Answer: blue_pantry
-Choices: A. red_drawer, B. red_basket, C. blue_bottle, D. red_container, E. blue_crate, F. blue_drawer, G. red_bathtub, H. blue_pantry, I. green_suitcase, J. red_crate, K. green_bathtub, L. blue_envelope, M. blue_container, N. green_envelope, O. blue_basket
+1 Jackson, Jacob, Gracie, Ava and Charlotte entered the master_bedroom.
+2 The pineapple is in the green_basket.
+3 Jackson made no movements and stayed in the master_bedroom for 10 minutes.
+4 Jackson exited the master_bedroom and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
+6 Jacob exited the master_bedroom and stayed in the waiting_room.
+7 Gracie moved the pineapple to the blue_envelope.
+8 Jacob saw a monkey.
+9 Gracie exited the master_bedroom and stayed in the waiting_room.
+10 Ava moved the pineapple to the red_container.
+11 Ava exited the master_bedroom and stayed in the waiting_room.
+12 Charlotte moved the pineapple to the green_basket.
+13 Charlotte exited the master_bedroom and stayed in the waiting_room.
+14 Charlotte lost his phone.
+15 Jackson, Jacob and Ava entered the master_bedroom.
+16 The pineapple is in the green_basket.
+17 Jackson moved the pineapple to the blue_envelope.
+18 Jackson exited the master_bedroom and stayed in the waiting_room.
+19 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
+20 Jacob exited the master_bedroom and stayed in the waiting_room.
+21 Ava moved the pineapple to the blue_cupboard.
+22 Ava exited the master_bedroom and stayed in the waiting_room.
+23 Jackson publicly claimed that pineapple is in the green_basket.
+24 Ava privately told Gracie that the pineapple is actually in the blue_cupboard.
+25 Ava, Jacob, Gracie and Jackson entered the front_yard.
+26 The eggplant is in the green_suitcase.
+27 Ava made no movements and stayed in the front_yard for 10 minutes.
+28 Jackson lost his watch.
+29 Ava exited the front_yard and stayed in the waiting_room.
+30 Jacob made no movements and stayed in the front_yard for 10 minutes.
+31 Jacob exited the front_yard and stayed in the waiting_room.
+32 Gracie moved the eggplant to the red_pantry.
+33 Jackson dislikes the eggplant.
+34 Gracie exited the front_yard and stayed in the waiting_room.
+35 Charlotte lost his phone.
+36 Jackson moved the eggplant to the blue_bathtub.
+37 Jackson exited the front_yard and stayed in the waiting_room.
+38 Jackson and Jacob entered the master_bedroom.
+39 The pineapple is in the blue_cupboard.
+40 Jackson made no movements and stayed in the master_bedroom for 10 minutes.
+41 Jackson exited the master_bedroom and stayed in the waiting_room.
+42 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
+43 Jacob exited the master_bedroom and stayed in the waiting_room.
+44 Jacob publicly claimed that pineapple is in the blue_cupboard.
+45 Jackson privately told Jacob that the pineapple is actually in the green_bucket.
+Question: Where is the pineapple really?
+Answer: blue_cupboard
+Choices: A. green_basket, B. green_bucket, C. blue_cupboard, D. blue_envelope, E. red_container, F. green_pantry, G. green_treasure_chest, H. red_envelope, I. blue_drawer, J. red_treasure_chest, K. red_pantry, L. green_suitcase, M. blue_bottle, N. green_bathtub, O. blue_bathtub

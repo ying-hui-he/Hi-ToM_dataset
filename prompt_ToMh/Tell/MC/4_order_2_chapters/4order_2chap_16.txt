@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Aiden, Charlotte, Hannah and Owen entered the patio.
-2 The orange is in the green_suitcase.
-3 Oliver made no movements and stayed in the patio for 10 minutes.
-4 Oliver exited the patio and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the patio for 10 minutes.
-6 Aiden exited the patio and stayed in the waiting_room.
-7 Charlotte moved the orange to the green_treasure_chest.
-8 Charlotte exited the patio and stayed in the waiting_room.
-9 Hannah made no movements and stayed in the patio for 10 minutes.
-10 Hannah exited the patio and stayed in the waiting_room.
-11 Owen moved the orange to the green_suitcase.
-12 Owen exited the patio and stayed in the waiting_room.
-13 Oliver, Aiden and Owen entered the front_yard.
-14 The tangerine is in the red_crate.
-15 Oliver made no movements and stayed in the front_yard for 10 minutes.
-16 Oliver exited the front_yard and stayed in the waiting_room.
-17 Aiden made no movements and stayed in the front_yard for 10 minutes.
-18 Aiden exited the front_yard and stayed in the waiting_room.
-19 Owen made no movements and stayed in the front_yard for 10 minutes.
-20 Owen exited the front_yard and stayed in the waiting_room.
-21 Oliver publicly claimed that tangerine is in the red_drawer.
-22 Owen privately told Charlotte that the tangerine is actually in the red_crate.
-Question: Where does Owen think Hannah thinks Oliver thinks Charlotte thinks the orange is?
-Choices: A. green_container, B. green_suitcase, C. red_basket, D. green_treasure_chest, E. green_bathtub, F. blue_envelope, G. blue_bathtub, H. red_treasure_chest, I. blue_container, J. red_bucket, K. red_drawer, L. red_crate, M. blue_treasure_chest, N. blue_crate, O. red_envelope
+1 Carter, Abigail, Liam, Aria and Jackson entered the bathroom.
+2 The lemon is in the blue_crate.
+3 Carter made no movements and stayed in the bathroom for 10 minutes.
+4 Carter exited the bathroom and stayed in the waiting_room.
+5 Abigail moved the lemon to the blue_treasure_chest.
+6 Abigail exited the bathroom and stayed in the waiting_room.
+7 Liam moved the lemon to the red_pantry.
+8 Liam exited the bathroom and stayed in the waiting_room.
+9 Aria made no movements and stayed in the bathroom for 10 minutes.
+10 Aria exited the bathroom and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the bathroom for 10 minutes.
+12 Jackson exited the bathroom and stayed in the waiting_room.
+13 Abigail, Jackson and Carter entered the crawlspace.
+14 The watermelon is in the red_bathtub.
+15 Abigail moved the watermelon to the blue_bottle.
+16 Abigail exited the crawlspace and stayed in the waiting_room.
+17 Jackson moved the watermelon to the blue_drawer.
+18 Jackson exited the crawlspace and stayed in the waiting_room.
+19 Carter made no movements and stayed in the crawlspace for 10 minutes.
+20 Carter exited the crawlspace and stayed in the waiting_room.
+21 Jackson publicly claimed that watermelon is in the red_bottle.
+22 Carter privately told Jackson that the watermelon is actually in the blue_drawer.
+Question: Where does Carter think Abigail thinks Jackson thinks Aria thinks the lemon is?
+Choices: A. blue_crate, B. blue_bucket, C. red_pantry, D. red_envelope, E. blue_treasure_chest, F. red_treasure_chest, G. blue_cupboard, H. green_envelope, I. green_bottle, J. green_suitcase, K. red_bathtub, L. blue_drawer, M. red_container, N. red_bottle, O. blue_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

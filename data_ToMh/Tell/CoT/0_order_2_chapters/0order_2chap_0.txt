@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Olivia, Logan, Gracie and Benjamin entered the garden.
-2 The tomato is in the green_crate.
-3 Emma moved the tomato to the red_bathtub.
-4 Emma exited the garden and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the garden for 10 minutes.
-6 Olivia exited the garden and stayed in the waiting_room.
-7 Logan moved the tomato to the red_drawer.
-8 Logan exited the garden and stayed in the waiting_room.
-9 Gracie made no movements and stayed in the garden for 10 minutes.
-10 Gracie exited the garden and stayed in the waiting_room.
-11 Benjamin made no movements and stayed in the garden for 10 minutes.
-12 Benjamin exited the garden and stayed in the waiting_room.
-13 Gracie, Emma and Logan entered the lounge.
-14 The beans is in the green_cupboard.
-15 Gracie moved the beans to the green_treasure_chest.
-16 Gracie exited the lounge and stayed in the waiting_room.
-17 Emma moved the beans to the red_crate.
-18 Emma exited the lounge and stayed in the waiting_room.
-19 Logan moved the beans to the blue_bucket.
-20 Logan exited the lounge and stayed in the waiting_room.
-21 Logan publicly claimed that beans is in the green_treasure_chest.
-22 Gracie privately told Logan that the beans is actually in the red_crate.
-Question: Where is the tomato really?
-Answer: red_drawer
-Choices: A. red_bathtub, B. green_crate, C. blue_pantry, D. blue_container, E. red_drawer, F. green_cupboard, G. blue_bucket, H. green_bathtub, I. green_treasure_chest, J. red_crate, K. blue_box, L. red_treasure_chest, M. blue_basket, N. blue_drawer, O. red_bucket
+1 Isla, Emma, Hannah, Jackson and Ava entered the cellar.
+2 Ava dislikes the melon.
+3 The lettuce is in the blue_drawer.
+4 Isla moved the lettuce to the green_bottle.
+5 Isla exited the cellar and stayed in the waiting_room.
+6 Emma moved the lettuce to the red_container.
+7 Emma exited the cellar and stayed in the waiting_room.
+8 Hannah made no movements and stayed in the cellar for 10 minutes.
+9 Hannah exited the cellar and stayed in the waiting_room.
+10 Jackson moved the lettuce to the green_suitcase.
+11 Jackson exited the cellar and stayed in the waiting_room.
+12 Hannah saw a monkey.
+13 Ava made no movements and stayed in the cellar for 10 minutes.
+14 Ava exited the cellar and stayed in the waiting_room.
+15 Jackson, Emma and Hannah entered the dining_room.
+16 The turnip is in the blue_bucket.
+17 Jackson moved the turnip to the blue_crate.
+18 Jackson exited the dining_room and stayed in the waiting_room.
+19 Emma made no movements and stayed in the dining_room for 10 minutes.
+20 Emma exited the dining_room and stayed in the waiting_room.
+21 Hannah moved the turnip to the red_bottle.
+22 Hannah exited the dining_room and stayed in the waiting_room.
+23 Jackson publicly claimed that turnip is in the blue_suitcase.
+24 Hannah privately told Isla that the turnip is actually in the red_bottle.
+Question: Where is the lettuce really?
+Answer: green_suitcase
+Choices: A. red_bathtub, B. blue_envelope, C. red_treasure_chest, D. green_envelope, E. red_basket, F. blue_drawer, G. green_suitcase, H. red_container, I. red_crate, J. green_bottle, K. blue_crate, L. blue_bucket, M. red_bottle, N. red_cupboard, O. blue_suitcase

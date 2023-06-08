@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ethan, James, Emma, Aria and Benjamin entered the office.
-2 The banana is in the green_bathtub.
-3 Ethan made no movements and stayed in the office for 10 minutes.
-4 Ethan exited the office and stayed in the waiting_room.
-5 James moved the banana to the blue_envelope.
-6 James exited the office and stayed in the waiting_room.
-7 Emma moved the banana to the blue_basket.
-8 Emma exited the office and stayed in the waiting_room.
-9 Aria made no movements and stayed in the office for 10 minutes.
-10 Aria exited the office and stayed in the waiting_room.
-11 Benjamin moved the banana to the green_bathtub.
-12 Benjamin exited the office and stayed in the waiting_room.
-13 James, Emma and Benjamin entered the master_bedroom.
-14 The lettuce is in the blue_bathtub.
-15 James made no movements and stayed in the master_bedroom for 10 minutes.
-16 James exited the master_bedroom and stayed in the waiting_room.
-17 Emma made no movements and stayed in the master_bedroom for 10 minutes.
-18 Emma exited the master_bedroom and stayed in the waiting_room.
-19 Benjamin moved the lettuce to the red_envelope.
-20 Benjamin exited the master_bedroom and stayed in the waiting_room.
-Question: Where does Ethan think Benjamin thinks James thinks the banana is?
-Choices: A. blue_bathtub, B. red_basket, C. blue_treasure_chest, D. red_envelope, E. blue_pantry, F. red_crate, G. red_bathtub, H. red_bottle, I. blue_container, J. green_bottle, K. green_bathtub, L. green_suitcase, M. red_bucket, N. blue_envelope, O. blue_basket
+1 Amelia, Ella, Carter, Liam and Chloe entered the lounge.
+2 Amelia saw a dog.
+3 The beans is in the green_box.
+4 Amelia made no movements and stayed in the lounge for 10 minutes.
+5 Amelia exited the lounge and stayed in the waiting_room.
+6 Ella moved the beans to the blue_bucket.
+7 Ella exited the lounge and stayed in the waiting_room.
+8 Carter made no movements and stayed in the lounge for 10 minutes.
+9 Carter exited the lounge and stayed in the waiting_room.
+10 Liam moved the beans to the blue_envelope.
+11 Liam exited the lounge and stayed in the waiting_room.
+12 Chloe made no movements and stayed in the lounge for 10 minutes.
+13 Chloe exited the lounge and stayed in the waiting_room.
+14 Liam, Carter and Amelia entered the lounge.
+15 The beans is in the blue_envelope.
+16 Liam moved the beans to the blue_bucket.
+17 Liam exited the lounge and stayed in the waiting_room.
+18 Carter moved the beans to the green_envelope.
+19 Carter exited the lounge and stayed in the waiting_room.
+20 Ella lost his phone.
+21 Amelia moved the beans to the red_crate.
+22 Amelia exited the lounge and stayed in the waiting_room.
+Question: Where does Liam think Chloe thinks Ella thinks the beans is?
+24 Ella saw a cat.
+Choices: A. red_basket, B. red_bathtub, C. red_box, D. green_treasure_chest, E. green_basket, F. red_container, G. green_pantry, H. red_envelope, I. green_bucket, J. blue_cupboard, K. green_box, L. blue_envelope, M. green_envelope, N. blue_bucket, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

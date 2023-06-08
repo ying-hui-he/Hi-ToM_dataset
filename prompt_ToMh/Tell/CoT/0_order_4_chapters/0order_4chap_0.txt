@@ -1,44 +1,48 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Carter, Hannah, Amelia, Avery and Mia entered the laundry.
-2 The pineapple is in the red_crate.
-3 Carter moved the pineapple to the green_bathtub.
-4 Carter exited the laundry and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the laundry for 10 minutes.
-6 Hannah exited the laundry and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the laundry for 10 minutes.
-8 Amelia exited the laundry and stayed in the waiting_room.
-9 Avery moved the pineapple to the red_container.
-10 Avery exited the laundry and stayed in the waiting_room.
-11 Mia moved the pineapple to the red_crate.
-12 Mia exited the laundry and stayed in the waiting_room.
-13 Amelia, Carter and Mia entered the study.
-14 The pear is in the green_bottle.
-15 Amelia made no movements and stayed in the study for 10 minutes.
-16 Amelia exited the study and stayed in the waiting_room.
-17 Carter made no movements and stayed in the study for 10 minutes.
-18 Carter exited the study and stayed in the waiting_room.
-19 Mia moved the pear to the blue_drawer.
-20 Mia exited the study and stayed in the waiting_room.
-21 Carter publicly claimed that pear is in the blue_envelope.
-22 Mia privately told Carter that the pear is actually in the green_suitcase.
-23 Avery, Mia, Carter and Amelia entered the study.
-24 The pear is in the blue_drawer.
-25 Avery made no movements and stayed in the study for 10 minutes.
-26 Avery exited the study and stayed in the waiting_room.
-27 Mia moved the pear to the green_bottle.
-28 Mia exited the study and stayed in the waiting_room.
-29 Carter moved the pear to the blue_envelope.
-30 Carter exited the study and stayed in the waiting_room.
-31 Amelia moved the pear to the blue_basket.
-32 Amelia exited the study and stayed in the waiting_room.
-33 Amelia and Avery entered the garden.
-34 The cherry is in the blue_bathtub.
-35 Amelia made no movements and stayed in the garden for 10 minutes.
-36 Amelia exited the garden and stayed in the waiting_room.
-37 Avery moved the cherry to the red_basket.
-38 Avery exited the garden and stayed in the waiting_room.
-39 Amelia privately told Carter that the cherry is actually in the red_bathtub.
+1 Isabella, Abigail, Liam, Ethan and Jayden entered the master_bedroom.
+2 The pineapple is in the red_envelope.
+3 Isabella made no movements and stayed in the master_bedroom for 10 minutes.
+4 Isabella exited the master_bedroom and stayed in the waiting_room.
+5 Abigail moved the pineapple to the blue_bathtub.
+6 Abigail exited the master_bedroom and stayed in the waiting_room.
+7 Liam made no movements and stayed in the master_bedroom for 10 minutes.
+8 Liam exited the master_bedroom and stayed in the waiting_room.
+9 Ethan moved the pineapple to the red_cupboard.
+10 Ethan exited the master_bedroom and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the master_bedroom for 10 minutes.
+12 Jayden lost his phone.
+13 Jayden exited the master_bedroom and stayed in the waiting_room.
+14 Isabella, Jayden and Abigail entered the master_bedroom.
+15 The pineapple is in the red_cupboard.
+16 Isabella made no movements and stayed in the master_bedroom for 10 minutes.
+17 Isabella exited the master_bedroom and stayed in the waiting_room.
+18 Jayden made no movements and stayed in the master_bedroom for 10 minutes.
+19 Jayden exited the master_bedroom and stayed in the waiting_room.
+20 Jayden likes the green_bathtub.
+21 Abigail moved the pineapple to the blue_bathtub.
+22 Abigail exited the master_bedroom and stayed in the waiting_room.
+23 Jayden publicly claimed that pineapple is in the green_box.
+24 Abigail privately told Jayden that the pineapple is actually in the red_cupboard.
+25 Jayden, Liam, Abigail and Ethan entered the master_bedroom.
+26 The pineapple is in the blue_bathtub.
+27 Jayden made no movements and stayed in the master_bedroom for 10 minutes.
+28 Jayden exited the master_bedroom and stayed in the waiting_room.
+29 Liam made no movements and stayed in the master_bedroom for 10 minutes.
+30 Liam exited the master_bedroom and stayed in the waiting_room.
+31 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
+32 Abigail exited the master_bedroom and stayed in the waiting_room.
+33 Ethan moved the pineapple to the blue_bottle.
+34 Ethan exited the master_bedroom and stayed in the waiting_room.
+35 Ethan and Jayden entered the master_bedroom.
+36 The corn is in the blue_bottle.
+37 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
+38 Ethan exited the master_bedroom and stayed in the waiting_room.
+39 Jayden moved the corn to the red_envelope.
+40 Abigail dislikes the pineapple.
+41 Jayden exited the master_bedroom and stayed in the waiting_room.
+42 Ethan publicly claimed that corn is in the red_cupboard.
+43 Jayden privately told Ethan that the corn is actually in the red_envelope.
 Question: Where is the pineapple really?
-Choices: A. blue_bathtub, B. red_bathtub, C. red_bucket, D. red_basket, E. green_container, F. blue_envelope, G. green_bottle, H. blue_drawer, I. green_suitcase, J. blue_basket, K. red_crate, L. blue_crate, M. red_container, N. blue_bucket, O. green_bathtub
+Choices: A. red_envelope, B. blue_bottle, C. blue_bathtub, D. green_box, E. red_cupboard, F. green_suitcase, G. green_cupboard, H. red_crate, I. red_pantry, J. blue_bucket, K. green_bathtub, L. green_envelope, M. blue_envelope, N. green_basket, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

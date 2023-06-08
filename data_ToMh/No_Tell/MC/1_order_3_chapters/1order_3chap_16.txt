@@ -1,35 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Logan, Isla, Benjamin and Charlotte entered the basement.
-2 The peach is in the green_container.
-3 Emma moved the peach to the blue_pantry.
-4 Emma exited the basement and stayed in the waiting_room.
-5 Logan made no movements and stayed in the basement for 10 minutes.
-6 Logan exited the basement and stayed in the waiting_room.
-7 Isla moved the peach to the red_bottle.
-8 Isla exited the basement and stayed in the waiting_room.
-9 Benjamin moved the peach to the blue_suitcase.
-10 Benjamin exited the basement and stayed in the waiting_room.
-11 Charlotte moved the peach to the green_container.
-12 Charlotte exited the basement and stayed in the waiting_room.
-13 Isla, Charlotte and Benjamin entered the basement.
-14 The pumpkin is in the blue_suitcase.
-15 Isla moved the pumpkin to the red_bottle.
-16 Isla exited the basement and stayed in the waiting_room.
-17 Charlotte moved the pumpkin to the red_envelope.
-18 Charlotte exited the basement and stayed in the waiting_room.
-19 Benjamin made no movements and stayed in the basement for 10 minutes.
-20 Benjamin exited the basement and stayed in the waiting_room.
-21 Isla, Benjamin, Logan and Charlotte entered the porch.
-22 The spinach is in the blue_box.
-23 Isla made no movements and stayed in the porch for 10 minutes.
-24 Isla exited the porch and stayed in the waiting_room.
-25 Benjamin moved the spinach to the green_bottle.
-26 Benjamin exited the porch and stayed in the waiting_room.
-27 Logan moved the spinach to the blue_envelope.
-28 Logan exited the porch and stayed in the waiting_room.
-29 Charlotte moved the spinach to the red_crate.
-30 Charlotte exited the porch and stayed in the waiting_room.
-Question: Where does Logan think the peach is?
-Answer: blue_pantry
-Choices: A. green_bottle, B. blue_box, C. red_bucket, D. blue_envelope, E. red_crate, F. green_container, G. blue_suitcase, H. blue_pantry, I. red_bottle, J. red_envelope, K. green_crate, L. blue_container, M. blue_drawer, N. blue_basket, O. green_treasure_chest
+1 Owen, Lucas, Jayden, Ella and Jacob entered the laundry.
+2 The potato is in the red_container.
+3 Owen made no movements and stayed in the laundry for 10 minutes.
+4 Owen exited the laundry and stayed in the waiting_room.
+5 Lucas made no movements and stayed in the laundry for 10 minutes.
+6 Lucas exited the laundry and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the laundry for 10 minutes.
+8 Jayden exited the laundry and stayed in the waiting_room.
+9 Ella saw a cat.
+10 Ella made no movements and stayed in the laundry for 10 minutes.
+11 Ella exited the laundry and stayed in the waiting_room.
+12 Lucas lost his phone.
+13 Jacob moved the potato to the red_container.
+14 Jacob exited the laundry and stayed in the waiting_room.
+15 Jayden, Ella and Jacob entered the laundry.
+16 The broccoli is in the red_pantry.
+17 Jayden moved the broccoli to the green_cupboard.
+18 Jayden exited the laundry and stayed in the waiting_room.
+19 Ella made no movements and stayed in the laundry for 10 minutes.
+20 Ella dislikes the peach.
+21 Ella exited the laundry and stayed in the waiting_room.
+22 Jacob moved the broccoli to the green_suitcase.
+23 Jacob exited the laundry and stayed in the waiting_room.
+24 Owen, Jacob, Jayden and Ella entered the garden.
+25 The peach is in the red_crate.
+26 Jayden saw a mouse.
+27 Owen moved the peach to the blue_envelope.
+28 Owen exited the garden and stayed in the waiting_room.
+29 Ella lost his watch.
+30 Jacob moved the peach to the green_treasure_chest.
+31 Jacob exited the garden and stayed in the waiting_room.
+32 Jayden moved the peach to the red_bottle.
+33 Jayden exited the garden and stayed in the waiting_room.
+34 Ella moved the peach to the blue_bucket.
+35 Ella exited the garden and stayed in the waiting_room.
+36 Jayden saw a dog.
+Question: Where does Jayden think the potato is?
+Answer: red_container
+38 Ella lost his phone.
+Choices: A. red_container, B. red_pantry, C. green_cupboard, D. blue_crate, E. green_suitcase, F. green_pantry, G. blue_treasure_chest, H. green_box, I. blue_cupboard, J. green_bucket, K. blue_envelope, L. red_crate, M. green_treasure_chest, N. blue_bucket, O. red_bottle

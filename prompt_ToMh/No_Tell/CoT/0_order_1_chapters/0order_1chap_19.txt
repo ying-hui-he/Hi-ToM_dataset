@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Gracie, Olivia, Abigail, Oliver and Aiden entered the study.
-2 The celery is in the red_drawer.
-3 Gracie made no movements and stayed in the study for 10 minutes.
-4 Gracie exited the study and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the study for 10 minutes.
-6 Olivia exited the study and stayed in the waiting_room.
-7 Abigail moved the celery to the red_envelope.
-8 Abigail exited the study and stayed in the waiting_room.
-9 Oliver moved the celery to the red_basket.
-10 Oliver exited the study and stayed in the waiting_room.
-11 Aiden moved the celery to the red_drawer.
-12 Aiden exited the study and stayed in the waiting_room.
-Question: Where is the celery really?
-Choices: A. blue_envelope, B. red_bottle, C. green_crate, D. blue_container, E. blue_bathtub, F. blue_suitcase, G. blue_pantry, H. red_bucket, I. blue_bottle, J. green_container, K. red_basket, L. red_drawer, M. red_treasure_chest, N. green_bathtub, O. red_envelope
+1 Ethan, Isabella, Gracie, Abigail and Nathan entered the crawlspace.
+2 The green_pepper is in the red_bathtub.
+3 Ethan made no movements and stayed in the crawlspace for 10 minutes.
+4 Ethan exited the crawlspace and stayed in the waiting_room.
+5 Isabella made no movements and stayed in the crawlspace for 10 minutes.
+6 Isabella exited the crawlspace and stayed in the waiting_room.
+7 Gracie moved the green_pepper to the blue_bathtub.
+8 Gracie exited the crawlspace and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the crawlspace for 10 minutes.
+10 Abigail exited the crawlspace and stayed in the waiting_room.
+11 Nathan moved the green_pepper to the red_bathtub.
+12 Nathan saw a monkey.
+13 Nathan exited the crawlspace and stayed in the waiting_room.
+Question: Where is the green_pepper really?
+Choices: A. red_envelope, B. red_box, C. green_treasure_chest, D. green_envelope, E. blue_suitcase, F. red_bucket, G. green_bucket, H. blue_bottle, I. green_box, J. green_cupboard, K. red_bathtub, L. blue_bucket, M. blue_bathtub, N. green_bathtub, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

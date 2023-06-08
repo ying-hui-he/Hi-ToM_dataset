@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, William, Hannah, Aiden and Ethan entered the sunroom.
-2 The persimmon is in the green_suitcase.
-3 James made no movements and stayed in the sunroom for 10 minutes.
-4 James exited the sunroom and stayed in the waiting_room.
-5 William made no movements and stayed in the sunroom for 10 minutes.
-6 William exited the sunroom and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the sunroom for 10 minutes.
-8 Hannah exited the sunroom and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the sunroom for 10 minutes.
-10 Aiden exited the sunroom and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the sunroom for 10 minutes.
-12 Ethan exited the sunroom and stayed in the waiting_room.
-13 Aiden, James and Ethan entered the sunroom.
-14 The plum is in the red_treasure_chest.
-15 Aiden made no movements and stayed in the sunroom for 10 minutes.
-16 Aiden exited the sunroom and stayed in the waiting_room.
-17 James moved the plum to the green_suitcase.
-18 James exited the sunroom and stayed in the waiting_room.
-19 Ethan moved the plum to the blue_crate.
-20 Ethan exited the sunroom and stayed in the waiting_room.
-21 James privately told Ethan that the plum is actually in the red_treasure_chest.
-22 Ethan privately told Hannah that the plum is actually in the blue_crate.
-Question: Where does Hannah think William thinks the persimmon is?
-Choices: A. green_container, B. red_bottle, C. blue_box, D. red_suitcase, E. green_bathtub, F. blue_envelope, G. red_container, H. red_envelope, I. blue_basket, J. blue_container, K. red_treasure_chest, L. green_suitcase, M. blue_crate, N. green_treasure_chest, O. red_crate
+1 Mia, Aria, Carter, Lucas and Gracie entered the garage.
+2 The persimmon is in the red_container.
+3 Mia moved the persimmon to the blue_suitcase.
+4 Mia exited the garage and stayed in the waiting_room.
+5 Aria made no movements and stayed in the garage for 10 minutes.
+6 Aria exited the garage and stayed in the waiting_room.
+7 Carter made no movements and stayed in the garage for 10 minutes.
+8 Carter exited the garage and stayed in the waiting_room.
+9 Lucas moved the persimmon to the red_pantry.
+10 Lucas exited the garage and stayed in the waiting_room.
+11 Gracie moved the persimmon to the red_container.
+12 Gracie exited the garage and stayed in the waiting_room.
+13 Lucas, Gracie and Carter entered the living_room.
+14 The carrot is in the green_pantry.
+15 Lucas made no movements and stayed in the living_room for 10 minutes.
+16 Lucas exited the living_room and stayed in the waiting_room.
+17 Gracie moved the carrot to the blue_drawer.
+18 Gracie exited the living_room and stayed in the waiting_room.
+19 Carter moved the carrot to the green_basket.
+20 Carter exited the living_room and stayed in the waiting_room.
+21 Mia likes the blue_envelope.
+22 Gracie publicly claimed that carrot is in the green_bucket.
+23 Carter privately told Gracie that the carrot is actually in the green_pantry.
+Question: Where does Mia think Carter thinks the persimmon is?
+Choices: A. red_container, B. red_pantry, C. blue_bathtub, D. red_basket, E. blue_suitcase, F. blue_bottle, G. green_cupboard, H. red_box, I. blue_envelope, J. green_envelope, K. red_treasure_chest, L. green_pantry, M. green_bucket, N. green_basket, O. blue_drawer
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

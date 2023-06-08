@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, William, Hannah, Gracie and Amelia entered the den.
-2 The green_pepper is in the red_bathtub.
-3 Aria made no movements and stayed in the den for 10 minutes.
-4 Aria exited the den and stayed in the waiting_room.
-5 William moved the green_pepper to the blue_bathtub.
-6 William exited the den and stayed in the waiting_room.
-7 Hannah moved the green_pepper to the blue_envelope.
-8 Hannah exited the den and stayed in the waiting_room.
-9 Gracie made no movements and stayed in the den for 10 minutes.
-10 Gracie exited the den and stayed in the waiting_room.
-11 Amelia moved the green_pepper to the red_bathtub.
-12 Amelia exited the den and stayed in the waiting_room.
-13 William, Aria and Hannah entered the bedroom.
-14 The pineapple is in the red_bottle.
-15 William moved the pineapple to the blue_basket.
-16 William exited the bedroom and stayed in the waiting_room.
-17 Aria moved the pineapple to the red_crate.
-18 Aria exited the bedroom and stayed in the waiting_room.
-19 Hannah moved the pineapple to the green_suitcase.
-20 Hannah exited the bedroom and stayed in the waiting_room.
-21 William, Aria, Gracie and Amelia entered the den.
-22 The green_pepper is in the red_bathtub.
-23 William made no movements and stayed in the den for 10 minutes.
-24 William exited the den and stayed in the waiting_room.
-25 Aria made no movements and stayed in the den for 10 minutes.
-26 Aria exited the den and stayed in the waiting_room.
-27 Gracie made no movements and stayed in the den for 10 minutes.
-28 Gracie exited the den and stayed in the waiting_room.
-29 Amelia moved the green_pepper to the green_bathtub.
-30 Amelia exited the den and stayed in the waiting_room.
-31 Aria and Amelia entered the bedroom.
-32 The pineapple is in the green_suitcase.
-33 Aria made no movements and stayed in the bedroom for 10 minutes.
-34 Aria exited the bedroom and stayed in the waiting_room.
-35 Amelia moved the pineapple to the red_crate.
-36 Amelia exited the bedroom and stayed in the waiting_room.
-Question: Where does William think the green_pepper is?
-Choices: A. red_bathtub, B. red_treasure_chest, C. blue_bathtub, D. blue_envelope, E. green_bathtub, F. red_envelope, G. red_basket, H. blue_bucket, I. red_container, J. blue_drawer, K. red_crate, L. red_bottle, M. blue_basket, N. blue_pantry, O. green_suitcase
+1 Carter, Amelia, Abigail, Ella and Owen entered the cellar.
+2 The onion is in the green_suitcase.
+3 Carter made no movements and stayed in the cellar for 10 minutes.
+4 Carter exited the cellar and stayed in the waiting_room.
+5 Amelia moved the onion to the red_envelope.
+6 Amelia exited the cellar and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the cellar for 10 minutes.
+8 Abigail exited the cellar and stayed in the waiting_room.
+9 Ella moved the onion to the green_cupboard.
+10 Ella exited the cellar and stayed in the waiting_room.
+11 Owen moved the onion to the green_suitcase.
+12 Owen exited the cellar and stayed in the waiting_room.
+13 Ella dislikes the banana.
+14 Ella, Owen and Carter entered the bathroom.
+15 The tangerine is in the red_basket.
+16 Ella moved the tangerine to the blue_bucket.
+17 Ella exited the bathroom and stayed in the waiting_room.
+18 Owen dislikes the tangerine.
+19 Owen moved the tangerine to the green_treasure_chest.
+20 Owen exited the bathroom and stayed in the waiting_room.
+21 Carter made no movements and stayed in the bathroom for 10 minutes.
+22 Carter exited the bathroom and stayed in the waiting_room.
+23 Ella, Abigail, Amelia and Carter entered the cellar.
+24 Ella dislikes the asparagus.
+25 The onion is in the green_suitcase.
+26 Ella made no movements and stayed in the cellar for 10 minutes.
+27 Ella exited the cellar and stayed in the waiting_room.
+28 Abigail made no movements and stayed in the cellar for 10 minutes.
+29 Abigail exited the cellar and stayed in the waiting_room.
+30 Amelia made no movements and stayed in the cellar for 10 minutes.
+31 Amelia exited the cellar and stayed in the waiting_room.
+32 Carter dislikes the grapes.
+33 Carter moved the onion to the blue_suitcase.
+34 Carter exited the cellar and stayed in the waiting_room.
+35 Amelia and Owen entered the bathroom.
+36 The tangerine is in the green_treasure_chest.
+37 Amelia moved the tangerine to the green_bucket.
+38 Amelia exited the bathroom and stayed in the waiting_room.
+39 Owen moved the tangerine to the red_basket.
+40 Owen exited the bathroom and stayed in the waiting_room.
+Question: Where does Owen think the onion is?
+Choices: A. green_bathtub, B. green_suitcase, C. red_envelope, D. blue_suitcase, E. green_cupboard, F. blue_bucket, G. red_basket, H. red_box, I. green_treasure_chest, J. green_bucket, K. red_bottle, L. green_envelope, M. red_bathtub, N. green_bottle, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

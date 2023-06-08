@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Emily, Avery, Emma and Amelia entered the bathroom.
-2 The persimmon is in the blue_drawer.
-3 Benjamin made no movements and stayed in the bathroom for 10 minutes.
-4 Benjamin exited the bathroom and stayed in the waiting_room.
-5 Emily made no movements and stayed in the bathroom for 10 minutes.
-6 Emily exited the bathroom and stayed in the waiting_room.
-7 Avery made no movements and stayed in the bathroom for 10 minutes.
-8 Avery exited the bathroom and stayed in the waiting_room.
-9 Emma made no movements and stayed in the bathroom for 10 minutes.
-10 Emma exited the bathroom and stayed in the waiting_room.
-11 Amelia moved the persimmon to the blue_drawer.
-12 Amelia exited the bathroom and stayed in the waiting_room.
-13 Emily, Amelia and Emma entered the bathroom.
-14 The green_pepper is in the green_cupboard.
-15 Emily moved the green_pepper to the blue_drawer.
-16 Emily exited the bathroom and stayed in the waiting_room.
-17 Amelia made no movements and stayed in the bathroom for 10 minutes.
-18 Amelia exited the bathroom and stayed in the waiting_room.
-19 Emma made no movements and stayed in the bathroom for 10 minutes.
-20 Emma exited the bathroom and stayed in the waiting_room.
-21 Amelia privately told Emma that the green_pepper is actually in the blue_drawer.
-22 Emma privately told Benjamin that the green_pepper is actually in the blue_drawer.
-Question: Where is the persimmon really?
-Choices: A. red_bucket, B. blue_suitcase, C. green_treasure_chest, D. blue_pantry, E. red_basket, F. green_cupboard, G. blue_drawer, H. red_crate, I. blue_bottle, J. red_drawer, K. red_bathtub, L. blue_treasure_chest, M. green_bottle, N. blue_envelope, O. blue_bathtub
+1 Ethan, Lucas, Emily, Hannah and Owen entered the sunroom.
+2 The eggplant is in the red_box.
+3 Ethan moved the eggplant to the green_treasure_chest.
+4 Ethan exited the sunroom and stayed in the waiting_room.
+5 Lucas made no movements and stayed in the sunroom for 10 minutes.
+6 Lucas exited the sunroom and stayed in the waiting_room.
+7 Emily moved the eggplant to the red_container.
+8 Emily exited the sunroom and stayed in the waiting_room.
+9 Emily lost his phone.
+10 Hannah made no movements and stayed in the sunroom for 10 minutes.
+11 Hannah exited the sunroom and stayed in the waiting_room.
+12 Owen moved the eggplant to the red_box.
+13 Owen exited the sunroom and stayed in the waiting_room.
+14 Owen, Ethan and Lucas entered the sunroom.
+15 The eggplant is in the red_box.
+16 Owen made no movements and stayed in the sunroom for 10 minutes.
+17 Owen exited the sunroom and stayed in the waiting_room.
+18 Ethan made no movements and stayed in the sunroom for 10 minutes.
+19 Ethan exited the sunroom and stayed in the waiting_room.
+20 Lucas made no movements and stayed in the sunroom for 10 minutes.
+21 Lucas exited the sunroom and stayed in the waiting_room.
+22 Lucas publicly claimed that eggplant is in the green_treasure_chest.
+23 Owen privately told Lucas that the eggplant is actually in the red_container.
+Question: Where is the eggplant really?
+Choices: A. blue_cupboard, B. red_treasure_chest, C. green_bathtub, D. blue_drawer, E. red_bottle, F. green_box, G. red_box, H. red_container, I. green_treasure_chest, J. red_crate, K. green_basket, L. blue_envelope, M. blue_bathtub, N. blue_treasure_chest, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

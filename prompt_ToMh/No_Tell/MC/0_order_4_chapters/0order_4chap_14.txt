@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Owen, Hannah, Olivia and Abigail entered the porch.
-2 The lemon is in the blue_bathtub.
-3 Ethan moved the lemon to the red_envelope.
-4 Ethan exited the porch and stayed in the waiting_room.
-5 Owen made no movements and stayed in the porch for 10 minutes.
-6 Owen exited the porch and stayed in the waiting_room.
-7 Hannah moved the lemon to the green_bottle.
-8 Hannah exited the porch and stayed in the waiting_room.
-9 Olivia moved the lemon to the blue_suitcase.
-10 Olivia exited the porch and stayed in the waiting_room.
-11 Abigail moved the lemon to the blue_bathtub.
-12 Abigail exited the porch and stayed in the waiting_room.
-13 Owen, Hannah and Olivia entered the porch.
-14 The lemon is in the blue_bathtub.
-15 Owen made no movements and stayed in the porch for 10 minutes.
-16 Owen exited the porch and stayed in the waiting_room.
-17 Hannah made no movements and stayed in the porch for 10 minutes.
-18 Hannah exited the porch and stayed in the waiting_room.
-19 Olivia made no movements and stayed in the porch for 10 minutes.
-20 Olivia exited the porch and stayed in the waiting_room.
-21 Hannah, Owen, Abigail and Ethan entered the pantry.
-22 The radish is in the red_treasure_chest.
-23 Hannah made no movements and stayed in the pantry for 10 minutes.
-24 Hannah exited the pantry and stayed in the waiting_room.
-25 Owen made no movements and stayed in the pantry for 10 minutes.
-26 Owen exited the pantry and stayed in the waiting_room.
-27 Abigail moved the radish to the red_bathtub.
-28 Abigail exited the pantry and stayed in the waiting_room.
-29 Ethan moved the radish to the red_container.
-30 Ethan exited the pantry and stayed in the waiting_room.
-31 Hannah and Ethan entered the lounge.
-32 The turnip is in the red_suitcase.
-33 Hannah made no movements and stayed in the lounge for 10 minutes.
-34 Hannah exited the lounge and stayed in the waiting_room.
-35 Ethan moved the turnip to the blue_treasure_chest.
-36 Ethan exited the lounge and stayed in the waiting_room.
-Question: Where is the lemon really?
-Choices: A. green_bathtub, B. red_suitcase, C. blue_pantry, D. blue_treasure_chest, E. green_cupboard, F. blue_bathtub, G. blue_suitcase, H. red_basket, I. red_envelope, J. green_bottle, K. red_bottle, L. red_treasure_chest, M. red_bathtub, N. green_suitcase, O. red_container
+1 Jayden, Ava, Charlotte, Isabella and Mia entered the garden.
+2 The tomato is in the blue_envelope.
+3 Jayden made no movements and stayed in the garden for 10 minutes.
+4 Jayden exited the garden and stayed in the waiting_room.
+5 Ava made no movements and stayed in the garden for 10 minutes.
+6 Ava exited the garden and stayed in the waiting_room.
+7 Charlotte moved the tomato to the blue_bathtub.
+8 Charlotte exited the garden and stayed in the waiting_room.
+9 Isabella moved the tomato to the red_cupboard.
+10 Isabella exited the garden and stayed in the waiting_room.
+11 Mia moved the tomato to the blue_envelope.
+12 Mia exited the garden and stayed in the waiting_room.
+13 Charlotte saw a mouse.
+14 Jayden, Charlotte and Ava entered the garden.
+15 The tomato is in the blue_envelope.
+16 Jayden moved the tomato to the red_cupboard.
+17 Jayden exited the garden and stayed in the waiting_room.
+18 Charlotte moved the tomato to the red_bathtub.
+19 Charlotte exited the garden and stayed in the waiting_room.
+20 Ava made no movements and stayed in the garden for 10 minutes.
+21 Ava exited the garden and stayed in the waiting_room.
+22 Isabella, Jayden, Mia and Ava entered the porch.
+23 The celery is in the red_bottle.
+24 Ava likes the blue_treasure_chest.
+25 Isabella moved the celery to the red_pantry.
+26 Isabella exited the porch and stayed in the waiting_room.
+27 Jayden moved the celery to the blue_crate.
+28 Jayden exited the porch and stayed in the waiting_room.
+29 Mia moved the celery to the green_treasure_chest.
+30 Mia exited the porch and stayed in the waiting_room.
+31 Ava made no movements and stayed in the porch for 10 minutes.
+32 Ava exited the porch and stayed in the waiting_room.
+33 Charlotte and Isabella entered the bathroom.
+34 The melon is in the green_bathtub.
+35 Charlotte moved the melon to the green_bottle.
+36 Charlotte exited the bathroom and stayed in the waiting_room.
+37 Isabella moved the melon to the green_envelope.
+38 Isabella exited the bathroom and stayed in the waiting_room.
+Question: Where is the tomato really?
+Choices: A. red_bottle, B. blue_crate, C. green_treasure_chest, D. red_pantry, E. blue_drawer, F. blue_envelope, G. red_bathtub, H. blue_bathtub, I. red_cupboard, J. blue_bottle, K. green_bathtub, L. green_envelope, M. blue_treasure_chest, N. red_basket, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

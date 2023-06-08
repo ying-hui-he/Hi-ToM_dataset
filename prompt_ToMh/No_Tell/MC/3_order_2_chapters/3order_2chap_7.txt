@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Benjamin, Amelia, Abigail and Mia entered the crawlspace.
-2 The tangerine is in the green_treasure_chest.
-3 Carter made no movements and stayed in the crawlspace for 10 minutes.
-4 Carter exited the crawlspace and stayed in the waiting_room.
-5 Benjamin moved the tangerine to the red_bucket.
-6 Benjamin exited the crawlspace and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the crawlspace for 10 minutes.
-8 Amelia exited the crawlspace and stayed in the waiting_room.
-9 Abigail moved the tangerine to the green_envelope.
-10 Abigail exited the crawlspace and stayed in the waiting_room.
-11 Mia moved the tangerine to the green_treasure_chest.
-12 Mia exited the crawlspace and stayed in the waiting_room.
-13 Carter, Abigail and Amelia entered the crawlspace.
-14 The tangerine is in the green_treasure_chest.
-15 Carter moved the tangerine to the red_crate.
-16 Carter exited the crawlspace and stayed in the waiting_room.
-17 Abigail made no movements and stayed in the crawlspace for 10 minutes.
-18 Abigail exited the crawlspace and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the crawlspace for 10 minutes.
-20 Amelia exited the crawlspace and stayed in the waiting_room.
-Question: Where does Mia think Amelia thinks Benjamin thinks the tangerine is?
-Choices: A. red_drawer, B. blue_basket, C. red_suitcase, D. red_container, E. red_bathtub, F. red_crate, G. green_treasure_chest, H. green_envelope, I. red_bucket, J. green_crate, K. green_cupboard, L. blue_bucket, M. blue_box, N. green_suitcase, O. blue_suitcase
+1 Mila, Isabella, Abigail, Logan and Gracie entered the cellar.
+2 The grapes is in the red_basket.
+3 Mila made no movements and stayed in the cellar for 10 minutes.
+4 Mila exited the cellar and stayed in the waiting_room.
+5 Isabella made no movements and stayed in the cellar for 10 minutes.
+6 Isabella exited the cellar and stayed in the waiting_room.
+7 Abigail moved the grapes to the red_envelope.
+8 Isabella lost his bottle.
+9 Abigail exited the cellar and stayed in the waiting_room.
+10 Logan made no movements and stayed in the cellar for 10 minutes.
+11 Logan exited the cellar and stayed in the waiting_room.
+12 Gracie moved the grapes to the red_basket.
+13 Gracie exited the cellar and stayed in the waiting_room.
+14 Logan, Abigail and Mila entered the lounge.
+15 The pineapple is in the red_box.
+16 Logan made no movements and stayed in the lounge for 10 minutes.
+17 Logan exited the lounge and stayed in the waiting_room.
+18 Abigail moved the pineapple to the blue_drawer.
+19 Abigail exited the lounge and stayed in the waiting_room.
+20 Mila moved the pineapple to the green_suitcase.
+21 Mila exited the lounge and stayed in the waiting_room.
+Question: Where does Abigail think Isabella thinks Mila thinks the grapes is?
+Choices: A. red_bucket, B. blue_crate, C. blue_bucket, D. red_pantry, E. green_cupboard, F. red_basket, G. blue_suitcase, H. red_cupboard, I. green_bottle, J. red_envelope, K. green_bathtub, L. red_box, M. green_suitcase, N. blue_drawer, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

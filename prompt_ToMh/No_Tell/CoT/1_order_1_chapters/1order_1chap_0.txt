@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Charlotte, James, William, Jacob and Jackson entered the office.
-2 The potato is in the blue_crate.
-3 Charlotte moved the potato to the red_suitcase.
-4 Charlotte exited the office and stayed in the waiting_room.
-5 James moved the potato to the red_bottle.
-6 James exited the office and stayed in the waiting_room.
-7 William made no movements and stayed in the office for 10 minutes.
-8 William exited the office and stayed in the waiting_room.
-9 Jacob moved the potato to the blue_pantry.
-10 Jacob exited the office and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the office for 10 minutes.
-12 Jackson exited the office and stayed in the waiting_room.
-Question: Where does Charlotte think the potato is?
-Choices: A. blue_bathtub, B. blue_bottle, C. red_envelope, D. red_container, E. blue_suitcase, F. blue_treasure_chest, G. green_suitcase, H. green_envelope, I. blue_drawer, J. red_treasure_chest, K. blue_crate, L. red_suitcase, M. red_bottle, N. blue_pantry, O. red_basket
+1 Jack, Amelia, Abigail, Mila and Carter entered the living_room.
+2 The turnip is in the red_container.
+3 Jack moved the turnip to the red_bucket.
+4 Jack exited the living_room and stayed in the waiting_room.
+5 Amelia moved the turnip to the green_bottle.
+6 Amelia exited the living_room and stayed in the waiting_room.
+7 Jack lost his phone.
+8 Abigail moved the turnip to the blue_bottle.
+9 Abigail exited the living_room and stayed in the waiting_room.
+10 Mila moved the turnip to the green_envelope.
+11 Mila exited the living_room and stayed in the waiting_room.
+12 Carter made no movements and stayed in the living_room for 10 minutes.
+13 Carter exited the living_room and stayed in the waiting_room.
+14 Abigail lost his watch.
+Question: Where does Abigail think the turnip is?
+Choices: A. red_crate, B. red_treasure_chest, C. blue_bucket, D. red_bottle, E. green_pantry, F. green_box, G. green_bathtub, H. red_bathtub, I. green_suitcase, J. blue_suitcase, K. green_bottle, L. red_container, M. red_bucket, N. blue_bottle, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

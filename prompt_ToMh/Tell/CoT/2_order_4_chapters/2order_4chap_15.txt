@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Mila, Aria, Amelia and Owen entered the hallway.
-2 The turnip is in the red_treasure_chest.
-3 Ella made no movements and stayed in the hallway for 10 minutes.
-4 Ella exited the hallway and stayed in the waiting_room.
-5 Mila moved the turnip to the blue_drawer.
-6 Mila exited the hallway and stayed in the waiting_room.
-7 Aria made no movements and stayed in the hallway for 10 minutes.
-8 Aria exited the hallway and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the hallway for 10 minutes.
-10 Amelia exited the hallway and stayed in the waiting_room.
-11 Owen made no movements and stayed in the hallway for 10 minutes.
-12 Owen exited the hallway and stayed in the waiting_room.
-13 Amelia, Owen and Mila entered the kitchen.
-14 The banana is in the green_container.
-15 Amelia moved the banana to the red_suitcase.
-16 Amelia exited the kitchen and stayed in the waiting_room.
-17 Owen moved the banana to the red_bottle.
-18 Owen exited the kitchen and stayed in the waiting_room.
-19 Mila made no movements and stayed in the kitchen for 10 minutes.
-20 Mila exited the kitchen and stayed in the waiting_room.
-21 Owen privately told Mila that the banana is actually in the green_container.
-22 Mila privately told Aria that the banana is actually in the red_bottle.
-23 Owen, Amelia, Ella and Aria entered the living_room.
-24 The onion is in the blue_envelope.
-25 Owen made no movements and stayed in the living_room for 10 minutes.
-26 Owen exited the living_room and stayed in the waiting_room.
-27 Amelia made no movements and stayed in the living_room for 10 minutes.
-28 Amelia exited the living_room and stayed in the waiting_room.
-29 Ella made no movements and stayed in the living_room for 10 minutes.
-30 Ella exited the living_room and stayed in the waiting_room.
-31 Aria made no movements and stayed in the living_room for 10 minutes.
-32 Aria exited the living_room and stayed in the waiting_room.
-33 Amelia and Ella entered the hallway.
-34 The orange is in the blue_drawer.
-35 Amelia made no movements and stayed in the hallway for 10 minutes.
-36 Amelia exited the hallway and stayed in the waiting_room.
-37 Ella moved the orange to the green_treasure_chest.
-38 Ella exited the hallway and stayed in the waiting_room.
-39 Amelia publicly claimed that orange is in the green_cupboard.
-40 Ella privately told Amelia that the orange is actually in the blue_treasure_chest.
-Question: Where does Ella think Amelia thinks the turnip is?
-Choices: A. red_basket, B. blue_envelope, C. red_crate, D. blue_bathtub, E. red_envelope, F. blue_drawer, G. red_treasure_chest, H. green_treasure_chest, I. green_cupboard, J. blue_treasure_chest, K. green_container, L. green_suitcase, M. green_crate, N. red_bottle, O. red_suitcase
+1 Charlotte, Jacob, Jackson, Hannah and Emma entered the crawlspace.
+2 The turnip is in the blue_suitcase.
+3 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
+4 Charlotte exited the crawlspace and stayed in the waiting_room.
+5 Jacob moved the turnip to the green_bathtub.
+6 Jacob exited the crawlspace and stayed in the waiting_room.
+7 Jackson moved the turnip to the red_box.
+8 Jackson exited the crawlspace and stayed in the waiting_room.
+9 Hannah moved the turnip to the blue_bucket.
+10 Hannah exited the crawlspace and stayed in the waiting_room.
+11 Emma made no movements and stayed in the crawlspace for 10 minutes.
+12 Emma exited the crawlspace and stayed in the waiting_room.
+13 Jackson saw a monkey.
+14 Charlotte, Hannah and Jackson entered the crawlspace.
+15 The onion is in the blue_bathtub.
+16 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
+17 Charlotte exited the crawlspace and stayed in the waiting_room.
+18 Hannah made no movements and stayed in the crawlspace for 10 minutes.
+19 Emma lost his watch.
+20 Hannah exited the crawlspace and stayed in the waiting_room.
+21 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+22 Jacob dislikes the grapes.
+23 Jackson exited the crawlspace and stayed in the waiting_room.
+24 Charlotte publicly claimed that onion is in the red_box.
+25 Jackson privately told Jacob that the onion is actually in the blue_bathtub.
+26 Hannah, Charlotte, Jacob and Jackson entered the playroom.
+27 The grapes is in the blue_envelope.
+28 Hannah moved the grapes to the red_basket.
+29 Hannah exited the playroom and stayed in the waiting_room.
+30 Charlotte made no movements and stayed in the playroom for 10 minutes.
+31 Charlotte exited the playroom and stayed in the waiting_room.
+32 Jacob made no movements and stayed in the playroom for 10 minutes.
+33 Jacob exited the playroom and stayed in the waiting_room.
+34 Jackson made no movements and stayed in the playroom for 10 minutes.
+35 Jackson exited the playroom and stayed in the waiting_room.
+36 Emma and Jacob entered the playroom.
+37 The melon is in the red_pantry.
+38 Emma moved the melon to the red_bathtub.
+39 Emma exited the playroom and stayed in the waiting_room.
+40 Jacob made no movements and stayed in the playroom for 10 minutes.
+41 Jacob exited the playroom and stayed in the waiting_room.
+42 Emma privately told Charlotte that the melon is actually in the red_container.
+Question: Where does Charlotte think Emma thinks the turnip is?
+Choices: A. green_envelope, B. red_crate, C. red_envelope, D. green_suitcase, E. red_bucket, F. blue_bathtub, G. blue_suitcase, H. red_box, I. green_bathtub, J. blue_bucket, K. red_pantry, L. blue_envelope, M. red_basket, N. red_bathtub, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

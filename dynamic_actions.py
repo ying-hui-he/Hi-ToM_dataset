@@ -1,4 +1,5 @@
 import numpy as np
+import random
 from itertools import combinations
 
 
@@ -345,10 +346,18 @@ class EnterAction(Action):
 
 class NoiseAction(Action):
 
-    def __init__(self):
+    def __init__(self, agents, containers, objects):
+        animals = ['cat', 'dog', 'monkey', 'mouse']
+        personal_items = ['watch', 'gloves', 'phone']
+        distractors = [
+            f'{random.choice(agents)} saw a {random.choice(animals)}.',
+            f'{random.choice(agents)} lost his {random.choice(personal_items)}.',
+            f'{random.choice(agents)} likes the {random.choice(containers)}.',
+            f'{random.choice(agents)} dislikes the {random.choice(objects)}.',
+        ]
         templates = {
             'declarative': [
-                'Phone rang.',
+                random.choice(distractors)
             ]
         }
         super().__init__(templates)

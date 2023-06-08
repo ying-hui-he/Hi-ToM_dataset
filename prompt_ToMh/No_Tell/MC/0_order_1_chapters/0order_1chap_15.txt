@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, James, Carter, Jack and Benjamin entered the playroom.
-2 The pineapple is in the green_envelope.
-3 Ella made no movements and stayed in the playroom for 10 minutes.
-4 Ella exited the playroom and stayed in the waiting_room.
-5 James moved the pineapple to the red_suitcase.
-6 James exited the playroom and stayed in the waiting_room.
-7 Carter made no movements and stayed in the playroom for 10 minutes.
-8 Carter exited the playroom and stayed in the waiting_room.
-9 Jack made no movements and stayed in the playroom for 10 minutes.
-10 Jack exited the playroom and stayed in the waiting_room.
-11 Benjamin made no movements and stayed in the playroom for 10 minutes.
-12 Benjamin exited the playroom and stayed in the waiting_room.
-Question: Where is the pineapple really?
-Choices: A. red_suitcase, B. green_envelope, C. red_crate, D. green_suitcase, E. blue_envelope, F. blue_bottle, G. red_bucket, H. green_container, I. blue_treasure_chest, J. blue_drawer, K. green_treasure_chest, L. red_envelope, M. red_bathtub, N. green_bottle, O. blue_container
+1 Abigail, Charlotte, Lucas, Aiden and Mila entered the living_room.
+2 The cabbage is in the blue_bottle.
+3 Abigail moved the cabbage to the red_crate.
+4 Abigail exited the living_room and stayed in the waiting_room.
+5 Charlotte moved the cabbage to the red_bathtub.
+6 Charlotte exited the living_room and stayed in the waiting_room.
+7 Lucas made no movements and stayed in the living_room for 10 minutes.
+8 Lucas exited the living_room and stayed in the waiting_room.
+9 Aiden moved the cabbage to the blue_envelope.
+10 Aiden exited the living_room and stayed in the waiting_room.
+11 Mila made no movements and stayed in the living_room for 10 minutes.
+12 Mila exited the living_room and stayed in the waiting_room.
+Question: Where is the cabbage really?
+Choices: A. blue_drawer, B. red_basket, C. red_cupboard, D. red_bucket, E. blue_cupboard, F. blue_bathtub, G. green_box, H. green_envelope, I. red_pantry, J. green_basket, K. blue_bottle, L. red_bathtub, M. blue_suitcase, N. blue_envelope, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

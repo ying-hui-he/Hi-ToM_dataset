@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Noah, Charlotte, Emily, Abigail and Mila entered the bedroom.
-2 The cherry is in the green_container.
-3 Noah made no movements and stayed in the bedroom for 10 minutes.
-4 Noah exited the bedroom and stayed in the waiting_room.
-5 Charlotte moved the cherry to the blue_box.
-6 Charlotte exited the bedroom and stayed in the waiting_room.
-7 Emily made no movements and stayed in the bedroom for 10 minutes.
-8 Emily exited the bedroom and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the bedroom for 10 minutes.
-10 Abigail exited the bedroom and stayed in the waiting_room.
-11 Mila made no movements and stayed in the bedroom for 10 minutes.
-12 Mila exited the bedroom and stayed in the waiting_room.
-13 Emily, Charlotte and Noah entered the staircase.
-14 The persimmon is in the blue_bottle.
-15 Emily made no movements and stayed in the staircase for 10 minutes.
-16 Emily exited the staircase and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the staircase for 10 minutes.
-18 Charlotte exited the staircase and stayed in the waiting_room.
-19 Noah made no movements and stayed in the staircase for 10 minutes.
-20 Noah exited the staircase and stayed in the waiting_room.
-21 Emily publicly claimed that persimmon is in the green_cupboard.
-22 Noah privately told Mila that the persimmon is actually in the blue_bottle.
-Question: Where is the cherry really?
-Answer: blue_box
-Choices: A. green_crate, B. blue_treasure_chest, C. blue_container, D. red_bathtub, E. red_envelope, F. red_container, G. blue_bottle, H. green_cupboard, I. blue_bathtub, J. red_basket, K. red_crate, L. green_container, M. red_bottle, N. green_bathtub, O. blue_box
+1 Amelia likes the blue_bathtub.
+2 Amelia, Aria, Abigail, Aiden and Ethan entered the laundry.
+3 The strawberry is in the blue_crate.
+4 Amelia made no movements and stayed in the laundry for 10 minutes.
+5 Abigail saw a mouse.
+6 Amelia exited the laundry and stayed in the waiting_room.
+7 Aria made no movements and stayed in the laundry for 10 minutes.
+8 Abigail likes the red_bucket.
+9 Aria exited the laundry and stayed in the waiting_room.
+10 Abigail made no movements and stayed in the laundry for 10 minutes.
+11 Abigail exited the laundry and stayed in the waiting_room.
+12 Aiden made no movements and stayed in the laundry for 10 minutes.
+13 Aiden exited the laundry and stayed in the waiting_room.
+14 Ethan moved the strawberry to the blue_crate.
+15 Ethan exited the laundry and stayed in the waiting_room.
+16 Ethan, Amelia and Aiden entered the kitchen.
+17 The tangerine is in the blue_cupboard.
+18 Ethan made no movements and stayed in the kitchen for 10 minutes.
+19 Ethan exited the kitchen and stayed in the waiting_room.
+20 Amelia moved the tangerine to the red_bucket.
+21 Amelia exited the kitchen and stayed in the waiting_room.
+22 Aiden moved the tangerine to the blue_drawer.
+23 Aiden exited the kitchen and stayed in the waiting_room.
+24 Amelia privately told Aiden that the tangerine is actually in the red_basket.
+25 Aiden privately told Aria that the tangerine is actually in the blue_drawer.
+Question: Where is the strawberry really?
+Answer: blue_crate
+Choices: A. blue_cupboard, B. red_basket, C. green_basket, D. red_bucket, E. blue_drawer, F. blue_crate, G. red_box, H. blue_envelope, I. blue_bucket, J. blue_bathtub, K. green_bathtub, L. green_suitcase, M. green_pantry, N. red_container, O. red_pantry

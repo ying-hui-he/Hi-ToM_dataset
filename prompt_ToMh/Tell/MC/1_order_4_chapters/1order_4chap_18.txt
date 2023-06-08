@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Jackson, Ella, Mila and Avery entered the laundry.
-2 The beans is in the red_crate.
-3 James made no movements and stayed in the laundry for 10 minutes.
-4 James exited the laundry and stayed in the waiting_room.
-5 Jackson made no movements and stayed in the laundry for 10 minutes.
-6 Jackson exited the laundry and stayed in the waiting_room.
-7 Ella moved the beans to the red_basket.
-8 Ella exited the laundry and stayed in the waiting_room.
-9 Mila made no movements and stayed in the laundry for 10 minutes.
-10 Mila exited the laundry and stayed in the waiting_room.
-11 Avery made no movements and stayed in the laundry for 10 minutes.
-12 Avery exited the laundry and stayed in the waiting_room.
-13 Ella, James and Mila entered the garden.
-14 The peach is in the red_treasure_chest.
-15 Ella made no movements and stayed in the garden for 10 minutes.
-16 Ella exited the garden and stayed in the waiting_room.
-17 James made no movements and stayed in the garden for 10 minutes.
-18 James exited the garden and stayed in the waiting_room.
-19 Mila moved the peach to the blue_bathtub.
-20 Mila exited the garden and stayed in the waiting_room.
-21 Mila publicly claimed that peach is in the blue_bathtub.
-22 Ella privately told Mila that the peach is actually in the red_treasure_chest.
-23 Avery, Ella, Mila and Jackson entered the office.
-24 The spinach is in the green_envelope.
-25 Avery made no movements and stayed in the office for 10 minutes.
-26 Avery exited the office and stayed in the waiting_room.
-27 Ella moved the spinach to the red_bucket.
-28 Ella exited the office and stayed in the waiting_room.
-29 Mila moved the spinach to the blue_basket.
-30 Mila exited the office and stayed in the waiting_room.
-31 Jackson made no movements and stayed in the office for 10 minutes.
-32 Jackson exited the office and stayed in the waiting_room.
-33 Mila and Avery entered the garden.
-34 The peach is in the blue_bathtub.
-35 Mila moved the peach to the green_treasure_chest.
-36 Mila exited the garden and stayed in the waiting_room.
-37 Avery made no movements and stayed in the garden for 10 minutes.
-38 Avery exited the garden and stayed in the waiting_room.
-39 Avery publicly claimed that peach is in the green_container.
-40 Mila privately told Avery that the peach is actually in the red_treasure_chest.
-Question: Where does James think the beans is?
-Choices: A. red_crate, B. red_basket, C. red_bottle, D. red_bathtub, E. blue_drawer, F. green_treasure_chest, G. red_treasure_chest, H. blue_container, I. green_container, J. blue_bathtub, K. green_envelope, L. blue_basket, M. green_suitcase, N. red_container, O. red_bucket
+1 Nathan, Owen, Jack, Liam and Emily entered the bathroom.
+2 The celery is in the green_treasure_chest.
+3 Nathan made no movements and stayed in the bathroom for 10 minutes.
+4 Nathan exited the bathroom and stayed in the waiting_room.
+5 Owen made no movements and stayed in the bathroom for 10 minutes.
+6 Owen exited the bathroom and stayed in the waiting_room.
+7 Jack made no movements and stayed in the bathroom for 10 minutes.
+8 Jack exited the bathroom and stayed in the waiting_room.
+9 Liam made no movements and stayed in the bathroom for 10 minutes.
+10 Liam dislikes the radish.
+11 Liam exited the bathroom and stayed in the waiting_room.
+12 Emily moved the celery to the green_treasure_chest.
+13 Emily exited the bathroom and stayed in the waiting_room.
+14 Owen, Emily and Jack entered the living_room.
+15 The radish is in the blue_envelope.
+16 Owen made no movements and stayed in the living_room for 10 minutes.
+17 Owen exited the living_room and stayed in the waiting_room.
+18 Emily moved the radish to the blue_crate.
+19 Emily exited the living_room and stayed in the waiting_room.
+20 Jack made no movements and stayed in the living_room for 10 minutes.
+21 Jack exited the living_room and stayed in the waiting_room.
+22 Owen publicly claimed that radish is in the red_bottle.
+23 Jack privately told Liam that the radish is actually in the blue_crate.
+24 Owen, Emily, Nathan and Liam entered the living_room.
+25 The corn is in the red_bottle.
+26 Owen made no movements and stayed in the living_room for 10 minutes.
+27 Owen exited the living_room and stayed in the waiting_room.
+28 Emily moved the corn to the red_treasure_chest.
+29 Emily exited the living_room and stayed in the waiting_room.
+30 Nathan moved the corn to the blue_crate.
+31 Nathan exited the living_room and stayed in the waiting_room.
+32 Nathan saw a mouse.
+33 Liam moved the corn to the blue_envelope.
+34 Liam exited the living_room and stayed in the waiting_room.
+35 Liam and Emily entered the bathroom.
+36 The celery is in the green_treasure_chest.
+37 Liam moved the celery to the red_envelope.
+38 Liam exited the bathroom and stayed in the waiting_room.
+39 Emily made no movements and stayed in the bathroom for 10 minutes.
+40 Emily exited the bathroom and stayed in the waiting_room.
+41 Emily publicly claimed that celery is in the green_suitcase.
+42 Liam privately told Emily that the celery is actually in the green_cupboard.
+Question: Where does Emily think the celery is?
+Choices: A. red_bottle, B. blue_envelope, C. red_treasure_chest, D. green_basket, E. blue_crate, F. green_cupboard, G. green_treasure_chest, H. red_envelope, I. blue_bottle, J. green_suitcase, K. red_pantry, L. green_bucket, M. green_box, N. red_basket, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

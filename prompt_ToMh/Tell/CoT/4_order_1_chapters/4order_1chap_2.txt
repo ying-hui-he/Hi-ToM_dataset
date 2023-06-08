@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Benjamin, Noah, Jacob, Evelyn and Jackson entered the garden.
-2 The tomato is in the green_envelope.
-3 Benjamin made no movements and stayed in the garden for 10 minutes.
-4 Benjamin exited the garden and stayed in the waiting_room.
-5 Noah made no movements and stayed in the garden for 10 minutes.
-6 Noah exited the garden and stayed in the waiting_room.
-7 Jacob made no movements and stayed in the garden for 10 minutes.
-8 Jacob exited the garden and stayed in the waiting_room.
-9 Evelyn moved the tomato to the green_suitcase.
-10 Evelyn exited the garden and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the garden for 10 minutes.
-12 Jackson exited the garden and stayed in the waiting_room.
-13 Evelyn publicly claimed that tomato is in the green_suitcase.
-14 Jackson privately told Benjamin that the tomato is actually in the green_suitcase.
-Question: Where does Noah think Evelyn thinks Jacob thinks Jackson thinks the tomato is?
-Choices: A. green_suitcase, B. green_envelope, C. red_crate, D. blue_treasure_chest, E. green_container, F. red_basket, G. red_drawer, H. blue_envelope, I. red_bottle, J. red_envelope, K. blue_container, L. red_bathtub, M. blue_crate, N. red_suitcase, O. green_treasure_chest
+1 Ava, Jacob, Jack, Jackson and Sophia entered the back_yard.
+2 The celery is in the red_crate.
+3 Ava made no movements and stayed in the back_yard for 10 minutes.
+4 Ava exited the back_yard and stayed in the waiting_room.
+5 Jacob moved the celery to the green_treasure_chest.
+6 Jacob exited the back_yard and stayed in the waiting_room.
+7 Jack moved the celery to the red_bucket.
+8 Jack exited the back_yard and stayed in the waiting_room.
+9 Jackson moved the celery to the red_cupboard.
+10 Jackson exited the back_yard and stayed in the waiting_room.
+11 Sophia moved the celery to the red_crate.
+12 Sophia exited the back_yard and stayed in the waiting_room.
+13 Jack publicly claimed that celery is in the red_cupboard.
+14 Jack dislikes the celery.
+15 Sophia privately told Jack that the celery is actually in the red_bucket.
+Question: Where does Sophia think Jack thinks Ava thinks Jacob thinks the celery is?
+17 Jackson dislikes the onion.
+Choices: A. red_bottle, B. blue_bucket, C. blue_suitcase, D. red_pantry, E. blue_envelope, F. blue_bathtub, G. red_basket, H. red_container, I. red_box, J. green_bathtub, K. green_treasure_chest, L. red_crate, M. green_bucket, N. red_bucket, O. red_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

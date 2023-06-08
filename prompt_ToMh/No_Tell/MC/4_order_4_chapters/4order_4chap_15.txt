@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Ella, Ethan, Jackson and William entered the TV_room.
-2 The melon is in the blue_treasure_chest.
-3 Abigail moved the melon to the blue_pantry.
-4 Abigail exited the TV_room and stayed in the waiting_room.
-5 Ella made no movements and stayed in the TV_room for 10 minutes.
-6 Ella exited the TV_room and stayed in the waiting_room.
-7 Ethan moved the melon to the blue_bucket.
-8 Ethan exited the TV_room and stayed in the waiting_room.
-9 Jackson moved the melon to the blue_drawer.
-10 Jackson exited the TV_room and stayed in the waiting_room.
-11 William made no movements and stayed in the TV_room for 10 minutes.
-12 William exited the TV_room and stayed in the waiting_room.
-13 William, Ethan and Abigail entered the porch.
-14 The green_pepper is in the red_container.
-15 William made no movements and stayed in the porch for 10 minutes.
-16 William exited the porch and stayed in the waiting_room.
-17 Ethan made no movements and stayed in the porch for 10 minutes.
-18 Ethan exited the porch and stayed in the waiting_room.
-19 Abigail moved the green_pepper to the red_treasure_chest.
-20 Abigail exited the porch and stayed in the waiting_room.
-21 Jackson, Ella, Ethan and William entered the laundry.
-22 The spinach is in the green_treasure_chest.
-23 Jackson moved the spinach to the green_envelope.
-24 Jackson exited the laundry and stayed in the waiting_room.
-25 Ella moved the spinach to the red_envelope.
-26 Ella exited the laundry and stayed in the waiting_room.
-27 Ethan made no movements and stayed in the laundry for 10 minutes.
-28 Ethan exited the laundry and stayed in the waiting_room.
-29 William moved the spinach to the blue_bathtub.
-30 William exited the laundry and stayed in the waiting_room.
-31 Jackson and Abigail entered the porch.
-32 The green_pepper is in the red_treasure_chest.
-33 Jackson made no movements and stayed in the porch for 10 minutes.
-34 Jackson exited the porch and stayed in the waiting_room.
-35 Abigail made no movements and stayed in the porch for 10 minutes.
-36 Abigail exited the porch and stayed in the waiting_room.
-Question: Where does Jackson think Ethan thinks William thinks Abigail thinks the melon is?
-Choices: A. green_treasure_chest, B. green_envelope, C. red_envelope, D. blue_bathtub, E. green_cupboard, F. blue_basket, G. red_container, H. red_treasure_chest, I. blue_box, J. red_bathtub, K. blue_treasure_chest, L. red_basket, M. blue_drawer, N. blue_bucket, O. blue_pantry
+1 Alexander, Ava, Carter, Ethan and Mason entered the closet.
+2 The lemon is in the red_bathtub.
+3 Ethan dislikes the lemon.
+4 Alexander made no movements and stayed in the closet for 10 minutes.
+5 Alexander exited the closet and stayed in the waiting_room.
+6 Ava made no movements and stayed in the closet for 10 minutes.
+7 Ava exited the closet and stayed in the waiting_room.
+8 Carter made no movements and stayed in the closet for 10 minutes.
+9 Carter saw a monkey.
+10 Carter exited the closet and stayed in the waiting_room.
+11 Ethan moved the lemon to the blue_bottle.
+12 Ethan exited the closet and stayed in the waiting_room.
+13 Mason moved the lemon to the red_bathtub.
+14 Mason exited the closet and stayed in the waiting_room.
+15 Carter, Mason and Ava entered the garden.
+16 The tangerine is in the blue_suitcase.
+17 Carter made no movements and stayed in the garden for 10 minutes.
+18 Alexander saw a dog.
+19 Carter exited the garden and stayed in the waiting_room.
+20 Mason moved the tangerine to the green_pantry.
+21 Mason exited the garden and stayed in the waiting_room.
+22 Ava made no movements and stayed in the garden for 10 minutes.
+23 Ethan dislikes the lemon.
+24 Ava exited the garden and stayed in the waiting_room.
+25 Alexander, Mason, Carter and Ethan entered the closet.
+26 The strawberry is in the blue_drawer.
+27 Alexander moved the strawberry to the green_bathtub.
+28 Alexander exited the closet and stayed in the waiting_room.
+29 Mason moved the strawberry to the blue_bottle.
+30 Mason exited the closet and stayed in the waiting_room.
+31 Carter made no movements and stayed in the closet for 10 minutes.
+32 Carter exited the closet and stayed in the waiting_room.
+33 Ethan made no movements and stayed in the closet for 10 minutes.
+34 Ethan exited the closet and stayed in the waiting_room.
+35 Alexander and Carter entered the basement.
+36 The melon is in the blue_bucket.
+37 Alexander made no movements and stayed in the basement for 10 minutes.
+38 Alexander exited the basement and stayed in the waiting_room.
+39 Alexander likes the red_bathtub.
+40 Carter made no movements and stayed in the basement for 10 minutes.
+41 Carter exited the basement and stayed in the waiting_room.
+Question: Where does Mason think Ethan thinks Carter thinks Alexander thinks the lemon is?
+Choices: A. red_bathtub, B. blue_drawer, C. green_bathtub, D. blue_bottle, E. green_bucket, F. blue_bucket, G. green_suitcase, H. green_box, I. red_crate, J. red_treasure_chest, K. blue_suitcase, L. red_bucket, M. green_cupboard, N. blue_cupboard, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

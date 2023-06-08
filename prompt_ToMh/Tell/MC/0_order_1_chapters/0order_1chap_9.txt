@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Evelyn, Noah, Isla and Ava entered the closet.
-2 The cherry is in the green_container.
-3 Abigail made no movements and stayed in the closet for 10 minutes.
-4 Abigail exited the closet and stayed in the waiting_room.
-5 Evelyn moved the cherry to the red_bathtub.
-6 Evelyn exited the closet and stayed in the waiting_room.
-7 Noah made no movements and stayed in the closet for 10 minutes.
-8 Noah exited the closet and stayed in the waiting_room.
-9 Isla made no movements and stayed in the closet for 10 minutes.
-10 Isla exited the closet and stayed in the waiting_room.
-11 Ava made no movements and stayed in the closet for 10 minutes.
-12 Ava exited the closet and stayed in the waiting_room.
-13 Noah publicly claimed that cherry is in the red_bathtub.
-14 Ava privately told Noah that the cherry is actually in the blue_container.
-Question: Where is the cherry really?
-Choices: A. green_bottle, B. red_basket, C. red_drawer, D. red_crate, E. blue_envelope, F. green_suitcase, G. blue_treasure_chest, H. green_envelope, I. red_container, J. blue_pantry, K. blue_bathtub, L. green_container, M. blue_crate, N. blue_container, O. red_bathtub
+1 Sophia, Nathan, Jack, Jackson and Gracie entered the pantry.
+2 The persimmon is in the green_box.
+3 Sophia made no movements and stayed in the pantry for 10 minutes.
+4 Sophia exited the pantry and stayed in the waiting_room.
+5 Nathan made no movements and stayed in the pantry for 10 minutes.
+6 Nathan exited the pantry and stayed in the waiting_room.
+7 Jack made no movements and stayed in the pantry for 10 minutes.
+8 Jack exited the pantry and stayed in the waiting_room.
+9 Sophia likes the blue_suitcase.
+10 Jackson moved the persimmon to the green_treasure_chest.
+11 Jackson exited the pantry and stayed in the waiting_room.
+12 Gracie moved the persimmon to the green_box.
+13 Gracie exited the pantry and stayed in the waiting_room.
+14 Jack privately told Sophia that the persimmon is actually in the green_envelope.
+15 Nathan privately told Jackson that the persimmon is actually in the blue_suitcase.
+Question: Where is the persimmon really?
+Choices: A. red_cupboard, B. red_bottle, C. blue_drawer, D. blue_bottle, E. red_crate, F. green_box, G. red_bucket, H. blue_suitcase, I. green_treasure_chest, J. green_envelope, K. red_treasure_chest, L. blue_bucket, M. blue_bathtub, N. green_pantry, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

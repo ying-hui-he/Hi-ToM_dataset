@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Avery, Hannah, Jayden and Aria entered the TV_room.
-2 The celery is in the green_crate.
-3 Olivia made no movements and stayed in the TV_room for 10 minutes.
-4 Olivia exited the TV_room and stayed in the waiting_room.
-5 Avery moved the celery to the red_suitcase.
-6 Avery exited the TV_room and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the TV_room for 10 minutes.
-8 Hannah exited the TV_room and stayed in the waiting_room.
-9 Jayden made no movements and stayed in the TV_room for 10 minutes.
-10 Jayden exited the TV_room and stayed in the waiting_room.
-11 Aria moved the celery to the green_crate.
-12 Aria exited the TV_room and stayed in the waiting_room.
-13 Jayden, Avery and Olivia entered the playroom.
-14 The banana is in the blue_bucket.
-15 Jayden made no movements and stayed in the playroom for 10 minutes.
-16 Jayden exited the playroom and stayed in the waiting_room.
-17 Avery made no movements and stayed in the playroom for 10 minutes.
-18 Avery exited the playroom and stayed in the waiting_room.
-19 Olivia moved the banana to the red_envelope.
-20 Olivia exited the playroom and stayed in the waiting_room.
-21 Jayden publicly claimed that banana is in the green_bottle.
-22 Olivia privately told Aria that the banana is actually in the red_envelope.
-23 Avery, Hannah, Aria and Olivia entered the playroom.
-24 The banana is in the red_envelope.
-25 Avery moved the banana to the blue_bucket.
-26 Avery exited the playroom and stayed in the waiting_room.
-27 Hannah moved the banana to the blue_bathtub.
-28 Hannah exited the playroom and stayed in the waiting_room.
-29 Aria made no movements and stayed in the playroom for 10 minutes.
-30 Aria exited the playroom and stayed in the waiting_room.
-31 Olivia moved the banana to the red_container.
-32 Olivia exited the playroom and stayed in the waiting_room.
-33 Aria and Hannah entered the playroom.
-34 The cucumber is in the green_bottle.
-35 Aria moved the cucumber to the blue_bathtub.
-36 Aria exited the playroom and stayed in the waiting_room.
-37 Hannah moved the cucumber to the red_envelope.
-38 Hannah exited the playroom and stayed in the waiting_room.
-39 Aria publicly claimed that cucumber is in the green_bottle.
-40 Hannah privately told Aria that the cucumber is actually in the blue_bucket.
-Question: Where does Hannah think the celery is?
-Answer: red_suitcase
-Choices: A. green_crate, B. green_bathtub, C. green_suitcase, D. green_envelope, E. red_suitcase, F. blue_container, G. red_drawer, H. blue_drawer, I. blue_pantry, J. red_basket, K. green_bottle, L. blue_bucket, M. red_envelope, N. red_container, O. blue_bathtub
+1 Isla, Ava, Lucas, Abigail and Sophia entered the basement.
+2 The grapes is in the green_bathtub.
+3 Isla moved the grapes to the blue_treasure_chest.
+4 Isla exited the basement and stayed in the waiting_room.
+5 Ava moved the grapes to the blue_bottle.
+6 Ava exited the basement and stayed in the waiting_room.
+7 Lucas made no movements and stayed in the basement for 10 minutes.
+8 Lucas exited the basement and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the basement for 10 minutes.
+10 Abigail exited the basement and stayed in the waiting_room.
+11 Sophia moved the grapes to the green_bathtub.
+12 Sophia exited the basement and stayed in the waiting_room.
+13 Abigail, Lucas and Isla entered the study.
+14 The pumpkin is in the green_treasure_chest.
+15 Abigail moved the pumpkin to the red_container.
+16 Abigail exited the study and stayed in the waiting_room.
+17 Lucas moved the pumpkin to the blue_crate.
+18 Lucas exited the study and stayed in the waiting_room.
+19 Isla made no movements and stayed in the study for 10 minutes.
+20 Isla exited the study and stayed in the waiting_room.
+21 Isla publicly claimed that pumpkin is in the blue_envelope.
+22 Abigail privately told Isla that the pumpkin is actually in the red_container.
+23 Lucas, Abigail, Isla and Sophia entered the basement.
+24 The grapes is in the green_bathtub.
+25 Lucas made no movements and stayed in the basement for 10 minutes.
+26 Lucas exited the basement and stayed in the waiting_room.
+27 Abigail moved the grapes to the blue_bottle.
+28 Abigail exited the basement and stayed in the waiting_room.
+29 Isla made no movements and stayed in the basement for 10 minutes.
+30 Isla exited the basement and stayed in the waiting_room.
+31 Sophia moved the grapes to the blue_treasure_chest.
+32 Sophia exited the basement and stayed in the waiting_room.
+33 Ava and Sophia entered the basement.
+34 The grapes is in the blue_treasure_chest.
+35 Ava moved the grapes to the green_bathtub.
+36 Ava exited the basement and stayed in the waiting_room.
+37 Sophia moved the grapes to the red_box.
+38 Sophia exited the basement and stayed in the waiting_room.
+39 Ava publicly claimed that grapes is in the green_bathtub.
+40 Sophia privately told Ava that the grapes is actually in the blue_drawer.
+41 Abigail dislikes the pumpkin.
+Question: Where does Lucas think the grapes is?
+Answer: green_bathtub
+43 Ava dislikes the pumpkin.
+Choices: A. green_envelope, B. green_treasure_chest, C. blue_crate, D. blue_envelope, E. red_container, F. red_crate, G. red_bathtub, H. red_envelope, I. red_bottle, J. blue_bathtub, K. blue_drawer, L. green_bathtub, M. blue_bottle, N. red_box, O. blue_treasure_chest

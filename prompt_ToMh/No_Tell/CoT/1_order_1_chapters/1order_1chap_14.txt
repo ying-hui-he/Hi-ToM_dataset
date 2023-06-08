@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Hannah, James, Benjamin and Carter entered the lounge.
-2 The lemon is in the green_envelope.
-3 Evelyn moved the lemon to the blue_envelope.
-4 Evelyn exited the lounge and stayed in the waiting_room.
-5 Hannah moved the lemon to the green_treasure_chest.
-6 Hannah exited the lounge and stayed in the waiting_room.
-7 James moved the lemon to the red_suitcase.
-8 James exited the lounge and stayed in the waiting_room.
-9 Benjamin moved the lemon to the red_bucket.
-10 Benjamin exited the lounge and stayed in the waiting_room.
-11 Carter moved the lemon to the green_envelope.
-12 Carter exited the lounge and stayed in the waiting_room.
-Question: Where does Benjamin think the lemon is?
-Choices: A. green_envelope, B. blue_envelope, C. red_bucket, D. green_treasure_chest, E. red_suitcase, F. red_envelope, G. blue_basket, H. green_cupboard, I. red_container, J. blue_treasure_chest, K. red_treasure_chest, L. green_crate, M. blue_crate, N. red_crate, O. blue_bucket
+1 Isabella, Mila, Jack, Charlotte and Carter entered the attic.
+2 Jack saw a mouse.
+3 The persimmon is in the red_basket.
+4 Isabella made no movements and stayed in the attic for 10 minutes.
+5 Isabella exited the attic and stayed in the waiting_room.
+6 Mila made no movements and stayed in the attic for 10 minutes.
+7 Mila exited the attic and stayed in the waiting_room.
+8 Jack made no movements and stayed in the attic for 10 minutes.
+9 Jack exited the attic and stayed in the waiting_room.
+10 Charlotte moved the persimmon to the red_box.
+11 Charlotte exited the attic and stayed in the waiting_room.
+12 Charlotte lost his phone.
+13 Carter moved the persimmon to the red_basket.
+14 Carter exited the attic and stayed in the waiting_room.
+Question: Where does Carter think the persimmon is?
+Choices: A. blue_drawer, B. red_treasure_chest, C. red_cupboard, D. green_bottle, E. red_pantry, F. blue_envelope, G. red_basket, H. red_box, I. blue_suitcase, J. green_suitcase, K. blue_bottle, L. blue_crate, M. green_box, N. blue_cupboard, O. green_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

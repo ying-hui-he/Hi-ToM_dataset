@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jacob, Abigail, Ella, Jackson and Gracie entered the front_yard.
-2 The tangerine is in the green_container.
-3 Jacob moved the tangerine to the blue_envelope.
-4 Jacob exited the front_yard and stayed in the waiting_room.
-5 Abigail moved the tangerine to the blue_pantry.
-6 Abigail exited the front_yard and stayed in the waiting_room.
-7 Ella moved the tangerine to the red_drawer.
-8 Ella exited the front_yard and stayed in the waiting_room.
-9 Jackson made no movements and stayed in the front_yard for 10 minutes.
-10 Jackson exited the front_yard and stayed in the waiting_room.
-11 Gracie moved the tangerine to the green_container.
-12 Gracie exited the front_yard and stayed in the waiting_room.
-13 Abigail, Jacob and Ella entered the front_yard.
-14 The lime is in the blue_envelope.
-15 Abigail moved the lime to the green_bathtub.
-16 Abigail exited the front_yard and stayed in the waiting_room.
-17 Jacob made no movements and stayed in the front_yard for 10 minutes.
-18 Jacob exited the front_yard and stayed in the waiting_room.
-19 Ella made no movements and stayed in the front_yard for 10 minutes.
-20 Ella exited the front_yard and stayed in the waiting_room.
-Question: Where does Abigail think Gracie thinks Ella thinks the tangerine is?
-Choices: A. blue_treasure_chest, B. blue_container, C. blue_basket, D. green_bottle, E. red_suitcase, F. blue_envelope, G. green_container, H. red_drawer, I. blue_pantry, J. green_bathtub, K. green_treasure_chest, L. blue_bucket, M. blue_suitcase, N. green_cupboard, O. blue_crate
+1 Charlotte, Mila, Liam, Gracie and Logan entered the attic.
+2 The potato is in the blue_cupboard.
+3 Charlotte moved the potato to the red_envelope.
+4 Charlotte exited the attic and stayed in the waiting_room.
+5 Mila made no movements and stayed in the attic for 10 minutes.
+6 Mila exited the attic and stayed in the waiting_room.
+7 Liam made no movements and stayed in the attic for 10 minutes.
+8 Liam exited the attic and stayed in the waiting_room.
+9 Gracie moved the potato to the blue_suitcase.
+10 Gracie exited the attic and stayed in the waiting_room.
+11 Logan moved the potato to the blue_cupboard.
+12 Logan exited the attic and stayed in the waiting_room.
+13 Charlotte, Logan and Gracie entered the attic.
+14 The banana is in the blue_suitcase.
+15 Charlotte moved the banana to the red_envelope.
+16 Charlotte exited the attic and stayed in the waiting_room.
+17 Charlotte saw a cat.
+18 Logan moved the banana to the blue_treasure_chest.
+19 Logan exited the attic and stayed in the waiting_room.
+20 Gracie made no movements and stayed in the attic for 10 minutes.
+21 Gracie exited the attic and stayed in the waiting_room.
+Question: Where does Logan think Mila thinks Liam thinks the potato is?
+Choices: A. red_pantry, B. red_box, C. blue_bathtub, D. green_treasure_chest, E. blue_drawer, F. green_basket, G. blue_envelope, H. red_bathtub, I. red_crate, J. green_cupboard, K. blue_cupboard, L. blue_suitcase, M. red_envelope, N. blue_treasure_chest, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

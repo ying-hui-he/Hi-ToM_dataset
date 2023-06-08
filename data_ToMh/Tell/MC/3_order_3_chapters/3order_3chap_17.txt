@@ -1,39 +1,40 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 William, Aiden, Gracie, Ava and Mia entered the crawlspace.
-2 The orange is in the red_suitcase.
-3 William made no movements and stayed in the crawlspace for 10 minutes.
-4 William exited the crawlspace and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the crawlspace for 10 minutes.
-6 Aiden exited the crawlspace and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the crawlspace for 10 minutes.
-8 Gracie exited the crawlspace and stayed in the waiting_room.
-9 Ava moved the orange to the blue_envelope.
-10 Ava exited the crawlspace and stayed in the waiting_room.
-11 Mia made no movements and stayed in the crawlspace for 10 minutes.
-12 Mia exited the crawlspace and stayed in the waiting_room.
-13 Gracie privately told William that the orange is actually in the green_bathtub.
-14 Aiden privately told Ava that the orange is actually in the blue_envelope.
-15 Ava, Gracie and William entered the hallway.
-16 The cucumber is in the green_suitcase.
-17 Ava moved the cucumber to the blue_container.
-18 Ava exited the hallway and stayed in the waiting_room.
-19 Gracie moved the cucumber to the red_bucket.
-20 Gracie exited the hallway and stayed in the waiting_room.
-21 William made no movements and stayed in the hallway for 10 minutes.
-22 William exited the hallway and stayed in the waiting_room.
-23 William, Gracie, Mia and Aiden entered the crawlspace.
-24 The carrot is in the green_crate.
-25 William moved the carrot to the red_suitcase.
-26 William exited the crawlspace and stayed in the waiting_room.
-27 Gracie moved the carrot to the green_bathtub.
-28 Gracie exited the crawlspace and stayed in the waiting_room.
-29 Mia made no movements and stayed in the crawlspace for 10 minutes.
-30 Mia exited the crawlspace and stayed in the waiting_room.
-31 Aiden moved the carrot to the blue_envelope.
-32 Aiden exited the crawlspace and stayed in the waiting_room.
-33 Mia publicly claimed that carrot is in the green_crate.
-34 William privately told Aiden that the carrot is actually in the red_suitcase.
-Question: Where does Ava think Mia thinks Gracie thinks the orange is?
-Answer: None
-Choices: A. green_suitcase, B. green_cupboard, C. red_bucket, D. red_drawer, E. blue_container, F. green_crate, G. red_suitcase, H. green_bathtub, I. blue_envelope, J. red_crate, K. blue_suitcase, L. blue_basket, M. blue_drawer, N. blue_box, O. red_basket
+1 Jayden, Logan, Abigail, Chloe and Aiden entered the playroom.
+2 The tomato is in the red_box.
+3 Jayden made no movements and stayed in the playroom for 10 minutes.
+4 Jayden exited the playroom and stayed in the waiting_room.
+5 Logan made no movements and stayed in the playroom for 10 minutes.
+6 Logan exited the playroom and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the playroom for 10 minutes.
+8 Abigail exited the playroom and stayed in the waiting_room.
+9 Chloe made no movements and stayed in the playroom for 10 minutes.
+10 Chloe exited the playroom and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the playroom for 10 minutes.
+12 Aiden exited the playroom and stayed in the waiting_room.
+13 Abigail privately told Jayden that the tomato is actually in the red_bathtub.
+14 Jayden likes the blue_crate.
+15 Logan privately told Chloe that the tomato is actually in the red_box.
+16 Abigail, Jayden and Logan entered the playroom.
+17 The tomato is in the red_box.
+18 Abigail made no movements and stayed in the playroom for 10 minutes.
+19 Abigail exited the playroom and stayed in the waiting_room.
+20 Jayden moved the tomato to the green_bathtub.
+21 Jayden exited the playroom and stayed in the waiting_room.
+22 Logan moved the tomato to the red_bathtub.
+23 Logan exited the playroom and stayed in the waiting_room.
+24 Abigail, Jayden, Aiden and Logan entered the playroom.
+25 The tomato is in the red_bathtub.
+26 Abigail moved the tomato to the red_box.
+27 Abigail exited the playroom and stayed in the waiting_room.
+28 Jayden moved the tomato to the green_bathtub.
+29 Jayden exited the playroom and stayed in the waiting_room.
+30 Aiden made no movements and stayed in the playroom for 10 minutes.
+31 Aiden exited the playroom and stayed in the waiting_room.
+32 Logan made no movements and stayed in the playroom for 10 minutes.
+33 Logan exited the playroom and stayed in the waiting_room.
+34 Jayden publicly claimed that tomato is in the blue_bucket.
+35 Logan privately told Aiden that the tomato is actually in the green_envelope.
+Question: Where does Abigail think Chloe thinks Aiden thinks the tomato is?
+Answer: red_box
+Choices: A. blue_bathtub, B. red_bottle, C. blue_crate, D. green_bucket, E. green_box, F. red_bathtub, G. red_box, H. blue_bucket, I. green_bathtub, J. green_envelope, K. red_basket, L. green_pantry, M. red_cupboard, N. blue_envelope, O. red_container

@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Emma, Emily, Noah and Abigail entered the TV_room.
-2 The lettuce is in the red_bucket.
-3 Olivia moved the lettuce to the green_envelope.
-4 Olivia exited the TV_room and stayed in the waiting_room.
-5 Emma made no movements and stayed in the TV_room for 10 minutes.
-6 Emma exited the TV_room and stayed in the waiting_room.
-7 Emily moved the lettuce to the blue_bottle.
-8 Emily exited the TV_room and stayed in the waiting_room.
-9 Noah moved the lettuce to the blue_envelope.
-10 Noah exited the TV_room and stayed in the waiting_room.
-11 Abigail made no movements and stayed in the TV_room for 10 minutes.
-12 Abigail exited the TV_room and stayed in the waiting_room.
-13 Abigail, Noah and Olivia entered the workshop.
-14 The orange is in the red_bottle.
-15 Abigail made no movements and stayed in the workshop for 10 minutes.
-16 Abigail exited the workshop and stayed in the waiting_room.
-17 Noah made no movements and stayed in the workshop for 10 minutes.
-18 Noah exited the workshop and stayed in the waiting_room.
-19 Olivia moved the orange to the green_suitcase.
-20 Olivia exited the workshop and stayed in the waiting_room.
-21 Olivia, Emily, Noah and Emma entered the workshop.
-22 The tomato is in the green_suitcase.
-23 Olivia moved the tomato to the red_bottle.
-24 Olivia exited the workshop and stayed in the waiting_room.
-25 Emily made no movements and stayed in the workshop for 10 minutes.
-26 Emily exited the workshop and stayed in the waiting_room.
-27 Noah moved the tomato to the red_envelope.
-28 Noah exited the workshop and stayed in the waiting_room.
-29 Emma made no movements and stayed in the workshop for 10 minutes.
-30 Emma exited the workshop and stayed in the waiting_room.
-Question: Where does Emily think Emma thinks the lettuce is?
-Answer: None
-Choices: A. red_treasure_chest, B. blue_container, C. blue_crate, D. green_bathtub, E. blue_pantry, F. green_suitcase, G. red_bottle, H. green_container, I. red_envelope, J. blue_drawer, K. green_envelope, L. red_bucket, M. blue_basket, N. blue_envelope, O. blue_bottle
+1 Nathan, Ava, Mia, Lucas and Isla entered the living_room.
+2 The grapefruit is in the red_treasure_chest.
+3 Nathan moved the grapefruit to the red_pantry.
+4 Nathan exited the living_room and stayed in the waiting_room.
+5 Ava made no movements and stayed in the living_room for 10 minutes.
+6 Ava exited the living_room and stayed in the waiting_room.
+7 Mia moved the grapefruit to the blue_bathtub.
+8 Isla dislikes the grapefruit.
+9 Mia exited the living_room and stayed in the waiting_room.
+10 Nathan dislikes the peas.
+11 Lucas moved the grapefruit to the green_pantry.
+12 Lucas exited the living_room and stayed in the waiting_room.
+13 Isla moved the grapefruit to the red_treasure_chest.
+14 Mia saw a cat.
+15 Isla exited the living_room and stayed in the waiting_room.
+16 Nathan, Isla and Lucas entered the pantry.
+17 The cabbage is in the blue_crate.
+18 Nathan made no movements and stayed in the pantry for 10 minutes.
+19 Nathan exited the pantry and stayed in the waiting_room.
+20 Isla moved the cabbage to the green_basket.
+21 Isla exited the pantry and stayed in the waiting_room.
+22 Lucas made no movements and stayed in the pantry for 10 minutes.
+23 Lucas exited the pantry and stayed in the waiting_room.
+24 Ava, Mia, Nathan and Lucas entered the living_room.
+25 The grapefruit is in the red_treasure_chest.
+26 Ava moved the grapefruit to the green_pantry.
+27 Ava exited the living_room and stayed in the waiting_room.
+28 Mia moved the grapefruit to the red_pantry.
+29 Mia exited the living_room and stayed in the waiting_room.
+30 Nathan made no movements and stayed in the living_room for 10 minutes.
+31 Nathan exited the living_room and stayed in the waiting_room.
+32 Lucas moved the grapefruit to the blue_bathtub.
+33 Lucas exited the living_room and stayed in the waiting_room.
+Question: Where does Mia think Ava thinks the grapefruit is?
+Answer: green_pantry
+Choices: A. red_bottle, B. blue_cupboard, C. blue_bucket, D. red_envelope, E. blue_bottle, F. blue_crate, G. green_envelope, H. green_cupboard, I. green_basket, J. red_container, K. blue_bathtub, L. red_treasure_chest, M. green_suitcase, N. red_pantry, O. green_pantry

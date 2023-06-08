@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, William, Ethan, Aiden and Olivia entered the lounge.
-2 The spinach is in the blue_bathtub.
-3 Jackson made no movements and stayed in the lounge for 10 minutes.
-4 Jackson exited the lounge and stayed in the waiting_room.
-5 William made no movements and stayed in the lounge for 10 minutes.
-6 William exited the lounge and stayed in the waiting_room.
-7 Ethan made no movements and stayed in the lounge for 10 minutes.
-8 Ethan exited the lounge and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the lounge for 10 minutes.
-10 Aiden exited the lounge and stayed in the waiting_room.
-11 Olivia moved the spinach to the blue_bathtub.
-12 Olivia exited the lounge and stayed in the waiting_room.
-13 William, Olivia and Ethan entered the lounge.
-14 The persimmon is in the blue_envelope.
-15 William made no movements and stayed in the lounge for 10 minutes.
-16 William exited the lounge and stayed in the waiting_room.
-17 Olivia made no movements and stayed in the lounge for 10 minutes.
-18 Olivia exited the lounge and stayed in the waiting_room.
-19 Ethan moved the persimmon to the green_treasure_chest.
-20 Ethan exited the lounge and stayed in the waiting_room.
-21 Ethan publicly claimed that persimmon is in the green_treasure_chest.
-22 William privately told Ethan that the persimmon is actually in the green_bathtub.
-Question: Where does Aiden think Ethan thinks Olivia thinks Jackson thinks the spinach is?
-Choices: A. blue_bathtub, B. blue_envelope, C. green_bathtub, D. blue_crate, E. green_treasure_chest, F. blue_treasure_chest, G. red_suitcase, H. blue_basket, I. red_basket, J. green_container, K. blue_bucket, L. blue_box, M. green_suitcase, N. green_envelope, O. blue_container
+1 Jacob, Abigail, Mason, Emma and Aria entered the playroom.
+2 The grapes is in the blue_bucket.
+3 Aria saw a monkey.
+4 Jacob made no movements and stayed in the playroom for 10 minutes.
+5 Jacob exited the playroom and stayed in the waiting_room.
+6 Abigail moved the grapes to the blue_bottle.
+7 Abigail exited the playroom and stayed in the waiting_room.
+8 Mason moved the grapes to the green_basket.
+9 Mason exited the playroom and stayed in the waiting_room.
+10 Emma made no movements and stayed in the playroom for 10 minutes.
+11 Emma exited the playroom and stayed in the waiting_room.
+12 Aria moved the grapes to the blue_bucket.
+13 Aria exited the playroom and stayed in the waiting_room.
+14 Aria, Mason and Emma entered the playroom.
+15 The lettuce is in the green_box.
+16 Aria made no movements and stayed in the playroom for 10 minutes.
+17 Aria exited the playroom and stayed in the waiting_room.
+18 Mason moved the lettuce to the blue_bathtub.
+19 Mason exited the playroom and stayed in the waiting_room.
+20 Emma made no movements and stayed in the playroom for 10 minutes.
+21 Emma exited the playroom and stayed in the waiting_room.
+22 Mason privately told Emma that the lettuce is actually in the green_box.
+23 Emma privately told Jacob that the lettuce is actually in the blue_bathtub.
+Question: Where does Mason think Aria thinks Jacob thinks Abigail thinks the grapes is?
+Choices: A. green_box, B. blue_bucket, C. blue_bottle, D. green_basket, E. blue_bathtub, F. red_bottle, G. red_treasure_chest, H. green_suitcase, I. red_cupboard, J. green_bucket, K. blue_drawer, L. red_pantry, M. red_bucket, N. red_crate, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

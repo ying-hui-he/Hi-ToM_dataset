@@ -1,25 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Oliver, Owen, Amelia and Ava entered the back_yard.
-2 The turnip is in the blue_basket.
-3 Jack moved the turnip to the blue_bucket.
-4 Jack exited the back_yard and stayed in the waiting_room.
-5 Oliver made no movements and stayed in the back_yard for 10 minutes.
-6 Oliver exited the back_yard and stayed in the waiting_room.
-7 Owen moved the turnip to the green_bathtub.
-8 Owen exited the back_yard and stayed in the waiting_room.
-9 Amelia moved the turnip to the blue_container.
-10 Amelia exited the back_yard and stayed in the waiting_room.
-11 Ava moved the turnip to the blue_basket.
-12 Ava exited the back_yard and stayed in the waiting_room.
-13 Oliver, Jack and Ava entered the back_yard.
-14 The cherry is in the blue_container.
-15 Oliver made no movements and stayed in the back_yard for 10 minutes.
-16 Oliver exited the back_yard and stayed in the waiting_room.
-17 Jack made no movements and stayed in the back_yard for 10 minutes.
-18 Jack exited the back_yard and stayed in the waiting_room.
-19 Ava moved the cherry to the red_container.
-20 Ava exited the back_yard and stayed in the waiting_room.
-Question: Where does Oliver think Ava thinks Jack thinks the turnip is?
-Choices: A. blue_basket, B. blue_container, C. blue_bucket, D. green_bathtub, E. red_container, F. green_container, G. green_treasure_chest, H. blue_crate, I. blue_bathtub, J. red_drawer, K. blue_envelope, L. red_bucket, M. blue_bottle, N. blue_box, O. blue_suitcase
+1 Owen, Ava, Emily, Chloe and Jacob entered the laundry.
+2 The turnip is in the green_bottle.
+3 Owen moved the turnip to the blue_bucket.
+4 Owen exited the laundry and stayed in the waiting_room.
+5 Ava made no movements and stayed in the laundry for 10 minutes.
+6 Ava exited the laundry and stayed in the waiting_room.
+7 Emily moved the turnip to the blue_crate.
+8 Emily exited the laundry and stayed in the waiting_room.
+9 Chloe moved the turnip to the green_pantry.
+10 Chloe exited the laundry and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the laundry for 10 minutes.
+12 Jacob exited the laundry and stayed in the waiting_room.
+13 Owen, Jacob and Ava entered the dining_room.
+14 The pumpkin is in the red_container.
+15 Owen made no movements and stayed in the dining_room for 10 minutes.
+16 Owen exited the dining_room and stayed in the waiting_room.
+17 Jacob made no movements and stayed in the dining_room for 10 minutes.
+18 Owen saw a dog.
+19 Jacob exited the dining_room and stayed in the waiting_room.
+20 Owen lost his bottle.
+21 Ava moved the pumpkin to the green_treasure_chest.
+22 Ava exited the dining_room and stayed in the waiting_room.
+Question: Where does Owen think Chloe thinks Jacob thinks the turnip is?
+Choices: A. blue_suitcase, B. green_bathtub, C. blue_drawer, D. red_bucket, E. green_box, F. red_container, G. red_basket, H. green_bucket, I. blue_bottle, J. green_treasure_chest, K. blue_bucket, L. green_bottle, M. blue_crate, N. red_treasure_chest, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

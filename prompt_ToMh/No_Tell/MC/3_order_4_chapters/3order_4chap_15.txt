@@ -1,41 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Mia, Ethan, Hannah and Carter entered the back_yard.
-2 The pumpkin is in the blue_crate.
-3 James moved the pumpkin to the red_bathtub.
-4 James exited the back_yard and stayed in the waiting_room.
-5 Mia moved the pumpkin to the red_treasure_chest.
-6 Mia exited the back_yard and stayed in the waiting_room.
-7 Ethan made no movements and stayed in the back_yard for 10 minutes.
-8 Ethan exited the back_yard and stayed in the waiting_room.
-9 Hannah moved the pumpkin to the blue_bucket.
-10 Hannah exited the back_yard and stayed in the waiting_room.
-11 Carter made no movements and stayed in the back_yard for 10 minutes.
-12 Carter exited the back_yard and stayed in the waiting_room.
-13 Mia, Ethan and Hannah entered the bedroom.
-14 The potato is in the red_envelope.
-15 Mia made no movements and stayed in the bedroom for 10 minutes.
-16 Mia exited the bedroom and stayed in the waiting_room.
-17 Ethan moved the potato to the blue_treasure_chest.
-18 Ethan exited the bedroom and stayed in the waiting_room.
-19 Hannah moved the potato to the blue_pantry.
-20 Hannah exited the bedroom and stayed in the waiting_room.
-21 Hannah, Ethan, Mia and Carter entered the bedroom.
-22 The strawberry is in the blue_treasure_chest.
-23 Hannah made no movements and stayed in the bedroom for 10 minutes.
-24 Hannah exited the bedroom and stayed in the waiting_room.
-25 Ethan made no movements and stayed in the bedroom for 10 minutes.
-26 Ethan exited the bedroom and stayed in the waiting_room.
-27 Mia made no movements and stayed in the bedroom for 10 minutes.
-28 Mia exited the bedroom and stayed in the waiting_room.
-29 Carter made no movements and stayed in the bedroom for 10 minutes.
-30 Carter exited the bedroom and stayed in the waiting_room.
-31 James and Mia entered the hallway.
-32 The asparagus is in the blue_container.
-33 James moved the asparagus to the green_bathtub.
-34 James exited the hallway and stayed in the waiting_room.
-35 Mia moved the asparagus to the blue_bathtub.
-36 Mia exited the hallway and stayed in the waiting_room.
-Question: Where does Ethan think Carter thinks Mia thinks the pumpkin is?
-Choices: A. blue_bathtub, B. blue_container, C. green_bathtub, D. red_basket, E. red_suitcase, F. blue_bucket, G. blue_crate, H. red_bathtub, I. blue_box, J. red_treasure_chest, K. blue_treasure_chest, L. red_envelope, M. blue_pantry, N. green_suitcase, O. green_bottle
+1 Abigail, Emma, Aria, Gracie and Sophia entered the TV_room.
+2 The watermelon is in the green_box.
+3 Abigail made no movements and stayed in the TV_room for 10 minutes.
+4 Abigail exited the TV_room and stayed in the waiting_room.
+5 Emma moved the watermelon to the green_bottle.
+6 Emma exited the TV_room and stayed in the waiting_room.
+7 Aria moved the watermelon to the red_basket.
+8 Aria exited the TV_room and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the TV_room for 10 minutes.
+10 Gracie exited the TV_room and stayed in the waiting_room.
+11 Sophia moved the watermelon to the green_box.
+12 Sophia exited the TV_room and stayed in the waiting_room.
+13 Sophia, Emma and Abigail entered the attic.
+14 The broccoli is in the green_basket.
+15 Sophia moved the broccoli to the green_bathtub.
+16 Sophia exited the attic and stayed in the waiting_room.
+17 Emma moved the broccoli to the blue_bottle.
+18 Emma exited the attic and stayed in the waiting_room.
+19 Abigail moved the broccoli to the green_treasure_chest.
+20 Abigail exited the attic and stayed in the waiting_room.
+21 Emma, Gracie, Aria and Sophia entered the attic.
+22 The broccoli is in the green_treasure_chest.
+23 Emma moved the broccoli to the blue_bottle.
+24 Emma exited the attic and stayed in the waiting_room.
+25 Gracie made no movements and stayed in the attic for 10 minutes.
+26 Gracie exited the attic and stayed in the waiting_room.
+27 Aria made no movements and stayed in the attic for 10 minutes.
+28 Aria exited the attic and stayed in the waiting_room.
+29 Sophia made no movements and stayed in the attic for 10 minutes.
+30 Sophia exited the attic and stayed in the waiting_room.
+31 Gracie and Sophia entered the garden.
+32 The persimmon is in the green_bucket.
+33 Aria lost his bottle.
+34 Gracie made no movements and stayed in the garden for 10 minutes.
+35 Gracie exited the garden and stayed in the waiting_room.
+36 Sophia moved the persimmon to the green_pantry.
+37 Sophia exited the garden and stayed in the waiting_room.
+Question: Where does Gracie think Sophia thinks Abigail thinks the watermelon is?
+Choices: A. green_basket, B. green_bathtub, C. blue_bottle, D. blue_bucket, E. green_treasure_chest, F. red_cupboard, G. green_bucket, H. green_pantry, I. red_container, J. red_bathtub, K. red_crate, L. green_box, M. blue_bathtub, N. green_bottle, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

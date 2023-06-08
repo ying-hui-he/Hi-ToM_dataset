@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Ella, Mila, Noah and Ethan entered the bedroom.
-2 The beans is in the red_bucket.
-3 Evelyn made no movements and stayed in the bedroom for 10 minutes.
-4 Evelyn exited the bedroom and stayed in the waiting_room.
-5 Ella moved the beans to the blue_crate.
-6 Ella exited the bedroom and stayed in the waiting_room.
-7 Mila moved the beans to the green_suitcase.
-8 Mila exited the bedroom and stayed in the waiting_room.
-9 Noah made no movements and stayed in the bedroom for 10 minutes.
-10 Noah exited the bedroom and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the bedroom for 10 minutes.
-12 Ethan exited the bedroom and stayed in the waiting_room.
-13 Ethan, Ella and Mila entered the master_bedroom.
-14 The pumpkin is in the red_treasure_chest.
-15 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
-16 Ethan exited the master_bedroom and stayed in the waiting_room.
-17 Ella made no movements and stayed in the master_bedroom for 10 minutes.
-18 Ella exited the master_bedroom and stayed in the waiting_room.
-19 Mila moved the pumpkin to the blue_bucket.
-20 Mila exited the master_bedroom and stayed in the waiting_room.
-21 Ethan publicly claimed that pumpkin is in the red_treasure_chest.
-22 Mila privately told Evelyn that the pumpkin is actually in the blue_bucket.
-Question: Where is the beans really?
-Choices: A. red_treasure_chest, B. red_suitcase, C. blue_pantry, D. blue_suitcase, E. blue_bucket, F. red_bathtub, G. green_cupboard, H. blue_box, I. green_treasure_chest, J. red_drawer, K. green_envelope, L. red_bucket, M. green_bathtub, N. blue_crate, O. green_suitcase
+1 Mia, Amelia, Aiden, Nathan and Jack entered the dining_room.
+2 The carrot is in the green_bottle.
+3 Mia made no movements and stayed in the dining_room for 10 minutes.
+4 Mia exited the dining_room and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the dining_room for 10 minutes.
+6 Amelia exited the dining_room and stayed in the waiting_room.
+7 Aiden moved the carrot to the red_bottle.
+8 Aiden exited the dining_room and stayed in the waiting_room.
+9 Nathan moved the carrot to the blue_treasure_chest.
+10 Nathan exited the dining_room and stayed in the waiting_room.
+11 Jack made no movements and stayed in the dining_room for 10 minutes.
+12 Nathan likes the red_treasure_chest.
+13 Jack exited the dining_room and stayed in the waiting_room.
+14 Aiden, Nathan and Jack entered the den.
+15 The asparagus is in the red_cupboard.
+16 Aiden made no movements and stayed in the den for 10 minutes.
+17 Aiden exited the den and stayed in the waiting_room.
+18 Nathan moved the asparagus to the red_treasure_chest.
+19 Nathan exited the den and stayed in the waiting_room.
+20 Jack moved the asparagus to the red_basket.
+21 Jack exited the den and stayed in the waiting_room.
+22 Nathan privately told Jack that the asparagus is actually in the red_cupboard.
+23 Jack privately told Amelia that the asparagus is actually in the red_basket.
+Question: Where is the carrot really?
+Choices: A. red_cupboard, B. red_basket, C. blue_bathtub, D. red_treasure_chest, E. red_envelope, F. red_bathtub, G. blue_suitcase, H. green_pantry, I. green_box, J. red_box, K. red_bottle, L. green_bottle, M. blue_treasure_chest, N. red_bucket, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

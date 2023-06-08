@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Logan, Ella, Emma and Benjamin entered the hallway.
-2 The onion is in the blue_box.
-3 Jackson moved the onion to the red_envelope.
-4 Jackson exited the hallway and stayed in the waiting_room.
-5 Logan moved the onion to the red_basket.
-6 Logan exited the hallway and stayed in the waiting_room.
-7 Ella made no movements and stayed in the hallway for 10 minutes.
-8 Ella exited the hallway and stayed in the waiting_room.
-9 Emma made no movements and stayed in the hallway for 10 minutes.
-10 Emma exited the hallway and stayed in the waiting_room.
-11 Benjamin moved the onion to the blue_box.
-12 Benjamin exited the hallway and stayed in the waiting_room.
-13 Emma, Benjamin and Ella entered the hallway.
-14 The onion is in the blue_box.
-15 Emma made no movements and stayed in the hallway for 10 minutes.
-16 Emma exited the hallway and stayed in the waiting_room.
-17 Benjamin moved the onion to the red_bottle.
-18 Benjamin exited the hallway and stayed in the waiting_room.
-19 Ella made no movements and stayed in the hallway for 10 minutes.
-20 Ella exited the hallway and stayed in the waiting_room.
-Question: Where does Emma think Logan thinks Benjamin thinks Ella thinks the onion is?
-Choices: A. red_container, B. blue_drawer, C. blue_basket, D. green_bottle, E. green_envelope, F. green_cupboard, G. green_treasure_chest, H. red_crate, I. blue_treasure_chest, J. red_treasure_chest, K. blue_box, L. blue_bottle, M. red_basket, N. red_bottle, O. red_envelope
+1 Owen, Nathan, Ella, Isabella and Logan entered the basement.
+2 The persimmon is in the green_bucket.
+3 Logan dislikes the persimmon.
+4 Owen moved the persimmon to the green_bathtub.
+5 Owen exited the basement and stayed in the waiting_room.
+6 Nathan moved the persimmon to the green_cupboard.
+7 Nathan exited the basement and stayed in the waiting_room.
+8 Nathan likes the red_cupboard.
+9 Ella moved the persimmon to the red_cupboard.
+10 Ella exited the basement and stayed in the waiting_room.
+11 Isabella made no movements and stayed in the basement for 10 minutes.
+12 Isabella exited the basement and stayed in the waiting_room.
+13 Logan made no movements and stayed in the basement for 10 minutes.
+14 Logan exited the basement and stayed in the waiting_room.
+15 Isabella, Ella and Logan entered the porch.
+16 The celery is in the green_box.
+17 Isabella moved the celery to the green_envelope.
+18 Isabella exited the porch and stayed in the waiting_room.
+19 Ella moved the celery to the blue_bottle.
+20 Ella exited the porch and stayed in the waiting_room.
+21 Logan moved the celery to the red_envelope.
+22 Logan exited the porch and stayed in the waiting_room.
+Question: Where does Nathan think Owen thinks Logan thinks Ella thinks the persimmon is?
+24 Logan likes the green_bathtub.
+Choices: A. blue_suitcase, B. green_treasure_chest, C. green_suitcase, D. green_pantry, E. green_bottle, F. green_box, G. green_envelope, H. red_envelope, I. blue_treasure_chest, J. blue_bottle, K. green_bucket, L. green_bathtub, M. red_cupboard, N. red_bucket, O. green_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

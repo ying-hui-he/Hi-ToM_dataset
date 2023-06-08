@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Owen, Carter, Jacob and Noah entered the staircase.
-2 The onion is in the green_treasure_chest.
-3 Ethan moved the onion to the blue_bathtub.
-4 Ethan exited the staircase and stayed in the waiting_room.
-5 Owen moved the onion to the red_bucket.
-6 Owen exited the staircase and stayed in the waiting_room.
-7 Carter moved the onion to the blue_bottle.
-8 Carter exited the staircase and stayed in the waiting_room.
-9 Jacob moved the onion to the blue_suitcase.
-10 Jacob exited the staircase and stayed in the waiting_room.
-11 Noah moved the onion to the green_treasure_chest.
-12 Noah exited the staircase and stayed in the waiting_room.
-13 Carter publicly claimed that onion is in the blue_bottle.
-14 Noah privately told Carter that the onion is actually in the blue_bathtub.
-Question: Where does Noah think Ethan thinks Carter thinks the onion is?
-Choices: A. red_suitcase, B. blue_treasure_chest, C. red_bathtub, D. blue_drawer, E. red_bottle, F. red_bucket, G. green_treasure_chest, H. blue_suitcase, I. blue_bathtub, J. blue_bottle, K. blue_box, L. red_envelope, M. blue_container, N. red_drawer, O. blue_crate
+1 Mia, Ella, Mason, Isabella and Emily entered the living_room.
+2 The asparagus is in the blue_treasure_chest.
+3 Ella lost his bottle.
+4 Mia made no movements and stayed in the living_room for 10 minutes.
+5 Mia exited the living_room and stayed in the waiting_room.
+6 Ella moved the asparagus to the blue_suitcase.
+7 Ella exited the living_room and stayed in the waiting_room.
+8 Mason moved the asparagus to the green_suitcase.
+9 Mason exited the living_room and stayed in the waiting_room.
+10 Isabella made no movements and stayed in the living_room for 10 minutes.
+11 Isabella exited the living_room and stayed in the waiting_room.
+12 Emily made no movements and stayed in the living_room for 10 minutes.
+13 Emily exited the living_room and stayed in the waiting_room.
+14 Mia saw a cat.
+15 Mason publicly claimed that asparagus is in the green_suitcase.
+16 Emily privately told Mason that the asparagus is actually in the red_envelope.
+Question: Where does Ella think Emily thinks Mason thinks the asparagus is?
+Choices: A. red_cupboard, B. blue_bottle, C. red_bucket, D. green_cupboard, E. red_basket, F. green_envelope, G. red_crate, H. red_pantry, I. blue_crate, J. blue_drawer, K. blue_treasure_chest, L. green_suitcase, M. red_envelope, N. green_treasure_chest, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

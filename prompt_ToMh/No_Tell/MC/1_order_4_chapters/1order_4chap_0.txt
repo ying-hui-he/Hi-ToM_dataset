@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Isla, Jayden, Aiden and Charlotte entered the closet.
-2 The onion is in the red_bottle.
-3 Aria made no movements and stayed in the closet for 10 minutes.
-4 Aria exited the closet and stayed in the waiting_room.
-5 Isla moved the onion to the red_bathtub.
-6 Isla exited the closet and stayed in the waiting_room.
-7 Jayden made no movements and stayed in the closet for 10 minutes.
-8 Jayden exited the closet and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the closet for 10 minutes.
-10 Aiden exited the closet and stayed in the waiting_room.
-11 Charlotte made no movements and stayed in the closet for 10 minutes.
-12 Charlotte exited the closet and stayed in the waiting_room.
-13 Aria, Isla and Charlotte entered the front_yard.
-14 The beans is in the blue_bottle.
-15 Aria moved the beans to the red_treasure_chest.
-16 Aria exited the front_yard and stayed in the waiting_room.
-17 Isla made no movements and stayed in the front_yard for 10 minutes.
-18 Isla exited the front_yard and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the front_yard for 10 minutes.
-20 Charlotte exited the front_yard and stayed in the waiting_room.
-21 Jayden, Aria, Charlotte and Isla entered the front_yard.
-22 The persimmon is in the red_treasure_chest.
-23 Jayden moved the persimmon to the green_bottle.
-24 Jayden exited the front_yard and stayed in the waiting_room.
-25 Aria moved the persimmon to the blue_pantry.
-26 Aria exited the front_yard and stayed in the waiting_room.
-27 Charlotte moved the persimmon to the blue_bathtub.
-28 Charlotte exited the front_yard and stayed in the waiting_room.
-29 Isla moved the persimmon to the blue_bottle.
-30 Isla exited the front_yard and stayed in the waiting_room.
-31 Jayden and Aiden entered the patio.
-32 The potato is in the green_container.
-33 Jayden moved the potato to the blue_treasure_chest.
-34 Jayden exited the patio and stayed in the waiting_room.
-35 Aiden moved the potato to the red_envelope.
-36 Aiden exited the patio and stayed in the waiting_room.
-Question: Where does Aiden think the onion is?
-Choices: A. green_container, B. red_envelope, C. blue_envelope, D. blue_box, E. blue_treasure_chest, F. blue_bottle, G. red_treasure_chest, H. green_bottle, I. blue_pantry, J. blue_bathtub, K. red_drawer, L. red_bottle, M. red_bathtub, N. red_basket, O. green_crate
+1 Abigail, Jacob, Mia, Logan and Lucas entered the lounge.
+2 The pineapple is in the green_suitcase.
+3 Abigail moved the pineapple to the green_treasure_chest.
+4 Abigail exited the lounge and stayed in the waiting_room.
+5 Jacob moved the pineapple to the red_cupboard.
+6 Jacob exited the lounge and stayed in the waiting_room.
+7 Mia made no movements and stayed in the lounge for 10 minutes.
+8 Mia exited the lounge and stayed in the waiting_room.
+9 Logan made no movements and stayed in the lounge for 10 minutes.
+10 Logan exited the lounge and stayed in the waiting_room.
+11 Mia likes the green_cupboard.
+12 Lucas made no movements and stayed in the lounge for 10 minutes.
+13 Lucas exited the lounge and stayed in the waiting_room.
+14 Lucas, Logan and Jacob entered the lounge.
+15 Jacob dislikes the pineapple.
+16 The pineapple is in the red_cupboard.
+17 Lucas moved the pineapple to the green_treasure_chest.
+18 Lucas exited the lounge and stayed in the waiting_room.
+19 Logan made no movements and stayed in the lounge for 10 minutes.
+20 Logan exited the lounge and stayed in the waiting_room.
+21 Jacob made no movements and stayed in the lounge for 10 minutes.
+22 Jacob exited the lounge and stayed in the waiting_room.
+23 Abigail, Jacob, Lucas and Logan entered the lounge.
+24 The lemon is in the blue_envelope.
+25 Abigail moved the lemon to the blue_bathtub.
+26 Abigail exited the lounge and stayed in the waiting_room.
+27 Jacob moved the lemon to the green_suitcase.
+28 Jacob exited the lounge and stayed in the waiting_room.
+29 Lucas made no movements and stayed in the lounge for 10 minutes.
+30 Lucas exited the lounge and stayed in the waiting_room.
+31 Logan moved the lemon to the green_treasure_chest.
+32 Logan exited the lounge and stayed in the waiting_room.
+33 Lucas and Jacob entered the TV_room.
+34 The turnip is in the green_bucket.
+35 Lucas moved the turnip to the red_bottle.
+36 Abigail saw a mouse.
+37 Lucas exited the TV_room and stayed in the waiting_room.
+38 Jacob moved the turnip to the red_bucket.
+39 Jacob exited the TV_room and stayed in the waiting_room.
+Question: Where does Mia think the pineapple is?
+Choices: A. blue_envelope, B. green_suitcase, C. blue_bathtub, D. red_cupboard, E. green_treasure_chest, F. green_box, G. red_treasure_chest, H. green_cupboard, I. blue_crate, J. green_pantry, K. red_envelope, L. green_bucket, M. green_bathtub, N. red_bucket, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

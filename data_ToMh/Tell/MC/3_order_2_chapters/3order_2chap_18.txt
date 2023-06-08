@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Mia, Evelyn, Isla and Amelia entered the den.
-2 The apple is in the red_crate.
-3 Emily moved the apple to the blue_crate.
-4 Emily exited the den and stayed in the waiting_room.
-5 Mia made no movements and stayed in the den for 10 minutes.
-6 Mia exited the den and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the den for 10 minutes.
-8 Evelyn exited the den and stayed in the waiting_room.
-9 Isla made no movements and stayed in the den for 10 minutes.
-10 Isla exited the den and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the den for 10 minutes.
-12 Amelia exited the den and stayed in the waiting_room.
-13 Amelia, Evelyn and Isla entered the den.
-14 The apple is in the blue_crate.
-15 Amelia made no movements and stayed in the den for 10 minutes.
-16 Amelia exited the den and stayed in the waiting_room.
-17 Evelyn moved the apple to the blue_box.
-18 Evelyn exited the den and stayed in the waiting_room.
-19 Isla moved the apple to the green_envelope.
-20 Isla exited the den and stayed in the waiting_room.
-21 Evelyn publicly claimed that apple is in the blue_bottle.
-22 Isla privately told Evelyn that the apple is actually in the blue_crate.
-Question: Where does Amelia think Evelyn thinks Mia thinks the apple is?
+1 Emma, Amelia, Owen, Alexander and Gracie entered the playroom.
+2 Amelia likes the green_box.
+3 The peach is in the red_bucket.
+4 Emma made no movements and stayed in the playroom for 10 minutes.
+5 Emma exited the playroom and stayed in the waiting_room.
+6 Amelia made no movements and stayed in the playroom for 10 minutes.
+7 Amelia exited the playroom and stayed in the waiting_room.
+8 Owen moved the peach to the green_box.
+9 Owen exited the playroom and stayed in the waiting_room.
+10 Alexander moved the peach to the blue_cupboard.
+11 Alexander exited the playroom and stayed in the waiting_room.
+12 Gracie moved the peach to the red_bucket.
+13 Gracie exited the playroom and stayed in the waiting_room.
+14 Emma, Amelia and Alexander entered the study.
+15 Emma likes the red_bucket.
+16 The asparagus is in the red_container.
+17 Emma moved the asparagus to the green_pantry.
+18 Emma exited the study and stayed in the waiting_room.
+19 Amelia moved the asparagus to the red_crate.
+20 Gracie saw a dog.
+21 Amelia exited the study and stayed in the waiting_room.
+22 Alexander moved the asparagus to the red_bathtub.
+23 Alexander exited the study and stayed in the waiting_room.
+24 Alexander publicly claimed that asparagus is in the red_bathtub.
+25 Emma privately told Alexander that the asparagus is actually in the green_pantry.
+Question: Where does Emma think Alexander thinks Amelia thinks the peach is?
 Answer: None
-Choices: A. green_bottle, B. red_suitcase, C. green_cupboard, D. blue_bucket, E. blue_drawer, F. blue_envelope, G. red_treasure_chest, H. green_crate, I. red_bottle, J. red_envelope, K. red_crate, L. green_envelope, M. blue_crate, N. blue_bottle, O. blue_box
+Choices: A. green_cupboard, B. green_envelope, C. green_bottle, D. red_envelope, E. blue_bathtub, F. red_bucket, G. green_box, H. green_bathtub, I. blue_cupboard, J. green_bucket, K. red_crate, L. red_container, M. red_bathtub, N. blue_envelope, O. green_pantry

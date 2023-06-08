@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Noah, Charlotte, Aiden and Emily entered the study.
-2 The cherry is in the red_crate.
-3 Ethan moved the cherry to the blue_suitcase.
-4 Ethan exited the study and stayed in the waiting_room.
-5 Noah made no movements and stayed in the study for 10 minutes.
-6 Noah exited the study and stayed in the waiting_room.
-7 Charlotte made no movements and stayed in the study for 10 minutes.
-8 Charlotte exited the study and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the study for 10 minutes.
-10 Aiden exited the study and stayed in the waiting_room.
-11 Emily moved the cherry to the red_crate.
-12 Emily exited the study and stayed in the waiting_room.
-13 Aiden, Emily and Charlotte entered the hallway.
-14 The onion is in the red_treasure_chest.
-15 Aiden made no movements and stayed in the hallway for 10 minutes.
-16 Aiden exited the hallway and stayed in the waiting_room.
-17 Emily made no movements and stayed in the hallway for 10 minutes.
-18 Emily exited the hallway and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the hallway for 10 minutes.
-20 Charlotte exited the hallway and stayed in the waiting_room.
-21 Emily privately told Charlotte that the onion is actually in the blue_crate.
-22 Charlotte privately told Ethan that the onion is actually in the red_treasure_chest.
-Question: Where does Aiden think Noah thinks Charlotte thinks Emily thinks the cherry is?
-Choices: A. red_treasure_chest, B. green_suitcase, C. red_container, D. red_bottle, E. blue_crate, F. red_crate, G. blue_suitcase, H. blue_bottle, I. red_suitcase, J. red_envelope, K. red_bucket, L. blue_basket, M. blue_drawer, N. blue_container, O. red_drawer
+1 Gracie, Ella, Jacob, Isla and Nathan entered the master_bedroom.
+2 The apple is in the red_crate.
+3 Gracie moved the apple to the blue_envelope.
+4 Gracie exited the master_bedroom and stayed in the waiting_room.
+5 Ella moved the apple to the green_cupboard.
+6 Ella exited the master_bedroom and stayed in the waiting_room.
+7 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
+8 Jacob exited the master_bedroom and stayed in the waiting_room.
+9 Isla made no movements and stayed in the master_bedroom for 10 minutes.
+10 Isla exited the master_bedroom and stayed in the waiting_room.
+11 Nathan moved the apple to the red_crate.
+12 Nathan exited the master_bedroom and stayed in the waiting_room.
+13 Nathan, Isla and Gracie entered the hall.
+14 The grapefruit is in the green_box.
+15 Nathan moved the grapefruit to the red_pantry.
+16 Nathan exited the hall and stayed in the waiting_room.
+17 Isla made no movements and stayed in the hall for 10 minutes.
+18 Isla exited the hall and stayed in the waiting_room.
+19 Gracie moved the grapefruit to the red_bucket.
+20 Gracie exited the hall and stayed in the waiting_room.
+21 Isla privately told Gracie that the grapefruit is actually in the red_pantry.
+22 Gracie privately told Ella that the grapefruit is actually in the red_bucket.
+Question: Where does Ella think Isla thinks Jacob thinks Gracie thinks the apple is?
+Choices: A. blue_envelope, B. red_crate, C. blue_drawer, D. green_bucket, E. green_cupboard, F. blue_cupboard, G. red_basket, H. green_pantry, I. red_bottle, J. blue_suitcase, K. blue_crate, L. green_box, M. red_bucket, N. green_suitcase, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

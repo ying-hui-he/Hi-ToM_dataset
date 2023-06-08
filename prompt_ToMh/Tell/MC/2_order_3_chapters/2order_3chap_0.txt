@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Evelyn, Ethan, Gracie and Charlotte entered the attic.
-2 The lemon is in the red_suitcase.
-3 Emily made no movements and stayed in the attic for 10 minutes.
-4 Emily exited the attic and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the attic for 10 minutes.
-6 Evelyn exited the attic and stayed in the waiting_room.
-7 Ethan moved the lemon to the green_bottle.
-8 Ethan exited the attic and stayed in the waiting_room.
-9 Gracie moved the lemon to the green_cupboard.
-10 Gracie exited the attic and stayed in the waiting_room.
-11 Charlotte moved the lemon to the red_suitcase.
-12 Charlotte exited the attic and stayed in the waiting_room.
-13 Ethan privately told Emily that the lemon is actually in the green_cupboard.
-14 Evelyn privately told Gracie that the lemon is actually in the blue_crate.
-15 Charlotte, Ethan and Gracie entered the garden.
-16 The turnip is in the green_container.
-17 Charlotte made no movements and stayed in the garden for 10 minutes.
-18 Charlotte exited the garden and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the garden for 10 minutes.
-20 Ethan exited the garden and stayed in the waiting_room.
-21 Gracie moved the turnip to the green_crate.
-22 Gracie exited the garden and stayed in the waiting_room.
-23 Emily, Evelyn, Ethan and Gracie entered the attic.
-24 The lemon is in the red_suitcase.
-25 Emily made no movements and stayed in the attic for 10 minutes.
-26 Emily exited the attic and stayed in the waiting_room.
-27 Evelyn made no movements and stayed in the attic for 10 minutes.
-28 Evelyn exited the attic and stayed in the waiting_room.
-29 Ethan moved the lemon to the blue_crate.
-30 Ethan exited the attic and stayed in the waiting_room.
-31 Gracie made no movements and stayed in the attic for 10 minutes.
-32 Gracie exited the attic and stayed in the waiting_room.
-33 Ethan publicly claimed that lemon is in the red_suitcase.
-34 Emily privately told Gracie that the lemon is actually in the red_bottle.
-Question: Where does Ethan think Gracie thinks the lemon is?
-Choices: A. red_suitcase, B. blue_crate, C. red_bottle, D. green_bottle, E. green_cupboard, F. green_container, G. green_crate, H. blue_bathtub, I. red_bucket, J. green_suitcase, K. blue_bottle, L. blue_pantry, M. blue_drawer, N. blue_container, O. blue_suitcase
+1 Jacob, Gracie, Isabella, Mason and Jackson entered the den.
+2 The broccoli is in the red_crate.
+3 Jacob moved the broccoli to the green_bathtub.
+4 Jacob exited the den and stayed in the waiting_room.
+5 Isabella lost his watch.
+6 Gracie made no movements and stayed in the den for 10 minutes.
+7 Gracie exited the den and stayed in the waiting_room.
+8 Isabella moved the broccoli to the red_box.
+9 Isabella exited the den and stayed in the waiting_room.
+10 Mason moved the broccoli to the green_basket.
+11 Mason exited the den and stayed in the waiting_room.
+12 Jackson moved the broccoli to the red_crate.
+13 Jackson exited the den and stayed in the waiting_room.
+14 Isabella privately told Jacob that the broccoli is actually in the green_bucket.
+15 Gracie privately told Mason that the broccoli is actually in the red_box.
+16 Mason, Jacob and Isabella entered the den.
+17 The broccoli is in the red_crate.
+18 Mason made no movements and stayed in the den for 10 minutes.
+19 Mason exited the den and stayed in the waiting_room.
+20 Jackson saw a mouse.
+21 Jacob made no movements and stayed in the den for 10 minutes.
+22 Isabella saw a mouse.
+23 Jacob exited the den and stayed in the waiting_room.
+24 Isabella made no movements and stayed in the den for 10 minutes.
+25 Isabella exited the den and stayed in the waiting_room.
+26 Isabella, Gracie, Mason and Jackson entered the bathroom.
+27 The onion is in the red_basket.
+28 Isabella moved the onion to the blue_suitcase.
+29 Isabella exited the bathroom and stayed in the waiting_room.
+30 Gracie made no movements and stayed in the bathroom for 10 minutes.
+31 Gracie exited the bathroom and stayed in the waiting_room.
+32 Mason moved the onion to the red_envelope.
+33 Mason exited the bathroom and stayed in the waiting_room.
+34 Jackson made no movements and stayed in the bathroom for 10 minutes.
+35 Jackson exited the bathroom and stayed in the waiting_room.
+36 Mason publicly claimed that onion is in the blue_suitcase.
+37 Isabella privately told Jackson that the onion is actually in the blue_bathtub.
+Question: Where does Gracie think Jacob thinks the broccoli is?
+Choices: A. red_cupboard, B. blue_drawer, C. red_bathtub, D. red_pantry, E. green_suitcase, F. green_bucket, G. red_crate, H. green_bathtub, I. green_basket, J. red_box, K. red_basket, L. blue_bottle, M. blue_bathtub, N. red_envelope, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

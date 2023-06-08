@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Noah, Benjamin, Jackson, Jacob and James entered the study.
-2 The green_pepper is in the red_envelope.
-3 Noah made no movements and stayed in the study for 10 minutes.
-4 Noah exited the study and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the study for 10 minutes.
-6 Benjamin exited the study and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the study for 10 minutes.
-8 Jackson exited the study and stayed in the waiting_room.
-9 Jacob moved the green_pepper to the blue_bottle.
-10 Jacob exited the study and stayed in the waiting_room.
-11 James made no movements and stayed in the study for 10 minutes.
-12 James exited the study and stayed in the waiting_room.
-13 James, Jackson and Noah entered the crawlspace.
-14 The apple is in the green_suitcase.
-15 James moved the apple to the blue_treasure_chest.
-16 James exited the crawlspace and stayed in the waiting_room.
-17 Jackson made no movements and stayed in the crawlspace for 10 minutes.
-18 Jackson exited the crawlspace and stayed in the waiting_room.
-19 Noah made no movements and stayed in the crawlspace for 10 minutes.
-20 Noah exited the crawlspace and stayed in the waiting_room.
-21 Jackson privately told Noah that the apple is actually in the blue_box.
-22 Noah privately told Jacob that the apple is actually in the blue_treasure_chest.
-23 Benjamin, Jackson, Jacob and James entered the workshop.
-24 The radish is in the green_bottle.
-25 Benjamin moved the radish to the green_crate.
-26 Benjamin exited the workshop and stayed in the waiting_room.
-27 Jackson moved the radish to the red_crate.
-28 Jackson exited the workshop and stayed in the waiting_room.
-29 Jacob made no movements and stayed in the workshop for 10 minutes.
-30 Jacob exited the workshop and stayed in the waiting_room.
-31 James moved the radish to the red_container.
-32 James exited the workshop and stayed in the waiting_room.
-33 James and Noah entered the workshop.
-34 The radish is in the red_container.
-35 James made no movements and stayed in the workshop for 10 minutes.
-36 James exited the workshop and stayed in the waiting_room.
-37 Noah made no movements and stayed in the workshop for 10 minutes.
-38 Noah exited the workshop and stayed in the waiting_room.
-39 Noah publicly claimed that radish is in the red_container.
-40 James privately told Noah that the radish is actually in the green_crate.
-Question: Where does Jacob think Jackson thinks Benjamin thinks the green_pepper is?
-Choices: A. red_treasure_chest, B. red_envelope, C. red_drawer, D. blue_bottle, E. green_cupboard, F. green_bottle, G. red_container, H. red_crate, I. green_crate, J. blue_pantry, K. blue_box, L. green_suitcase, M. blue_crate, N. blue_envelope, O. blue_treasure_chest
+1 Ella, Jacob, Mia, Aria and Owen entered the cellar.
+2 The lemon is in the green_pantry.
+3 Ella made no movements and stayed in the cellar for 10 minutes.
+4 Ella exited the cellar and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the cellar for 10 minutes.
+6 Jacob exited the cellar and stayed in the waiting_room.
+7 Mia made no movements and stayed in the cellar for 10 minutes.
+8 Mia exited the cellar and stayed in the waiting_room.
+9 Aria made no movements and stayed in the cellar for 10 minutes.
+10 Aria exited the cellar and stayed in the waiting_room.
+11 Owen moved the lemon to the green_pantry.
+12 Owen dislikes the lemon.
+13 Owen exited the cellar and stayed in the waiting_room.
+14 Aria, Mia and Ella entered the master_bedroom.
+15 The turnip is in the red_box.
+16 Aria made no movements and stayed in the master_bedroom for 10 minutes.
+17 Aria exited the master_bedroom and stayed in the waiting_room.
+18 Mia made no movements and stayed in the master_bedroom for 10 minutes.
+19 Mia exited the master_bedroom and stayed in the waiting_room.
+20 Ella moved the turnip to the green_treasure_chest.
+21 Ella exited the master_bedroom and stayed in the waiting_room.
+22 Mia privately told Ella that the turnip is actually in the blue_suitcase.
+23 Ella privately told Jacob that the turnip is actually in the green_treasure_chest.
+24 Aria, Owen, Ella and Mia entered the pantry.
+25 The celery is in the blue_drawer.
+26 Aria moved the celery to the red_bottle.
+27 Aria exited the pantry and stayed in the waiting_room.
+28 Jacob dislikes the grapes.
+29 Owen moved the celery to the red_pantry.
+30 Owen exited the pantry and stayed in the waiting_room.
+31 Ella moved the celery to the green_cupboard.
+32 Ella exited the pantry and stayed in the waiting_room.
+33 Mia moved the celery to the green_bottle.
+34 Mia exited the pantry and stayed in the waiting_room.
+35 Owen likes the red_pantry.
+36 Aria and Jacob entered the cellar.
+37 The lemon is in the green_pantry.
+38 Aria moved the lemon to the green_box.
+39 Aria exited the cellar and stayed in the waiting_room.
+40 Ella dislikes the melon.
+41 Jacob made no movements and stayed in the cellar for 10 minutes.
+42 Mia dislikes the grapes.
+43 Jacob exited the cellar and stayed in the waiting_room.
+44 Aria publicly claimed that lemon is in the red_cupboard.
+45 Jacob privately told Aria that the lemon is actually in the blue_bathtub.
+Question: Where does Jacob think Mia thinks Aria thinks the lemon is?
+Choices: A. green_cupboard, B. blue_drawer, C. red_pantry, D. red_bottle, E. green_bottle, F. red_cupboard, G. green_pantry, H. blue_bathtub, I. green_box, J. red_bathtub, K. blue_suitcase, L. red_box, M. blue_treasure_chest, N. red_crate, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

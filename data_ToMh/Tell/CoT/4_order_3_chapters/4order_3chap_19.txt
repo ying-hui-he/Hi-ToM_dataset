@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Olivia, Jacob, Charlotte, James and Aria entered the garden.
-2 The corn is in the blue_crate.
-3 Olivia moved the corn to the blue_container.
-4 Olivia exited the garden and stayed in the waiting_room.
-5 Jacob moved the corn to the red_crate.
-6 Jacob exited the garden and stayed in the waiting_room.
-7 Charlotte moved the corn to the red_basket.
-8 Charlotte exited the garden and stayed in the waiting_room.
-9 James moved the corn to the blue_box.
-10 James exited the garden and stayed in the waiting_room.
-11 Aria moved the corn to the blue_crate.
-12 Aria exited the garden and stayed in the waiting_room.
-13 Charlotte privately told Olivia that the corn is actually in the red_basket.
-14 Jacob privately told James that the corn is actually in the blue_crate.
-15 Olivia, James and Jacob entered the garden.
-16 The carrot is in the red_crate.
-17 Olivia moved the carrot to the red_basket.
-18 Olivia exited the garden and stayed in the waiting_room.
-19 James made no movements and stayed in the garden for 10 minutes.
-20 James exited the garden and stayed in the waiting_room.
-21 Jacob moved the carrot to the blue_box.
-22 Jacob exited the garden and stayed in the waiting_room.
-23 Olivia, Charlotte, Aria and Jacob entered the back_yard.
-24 The persimmon is in the red_bucket.
-25 Olivia moved the persimmon to the red_container.
-26 Olivia exited the back_yard and stayed in the waiting_room.
-27 Charlotte moved the persimmon to the red_bottle.
-28 Charlotte exited the back_yard and stayed in the waiting_room.
-29 Aria moved the persimmon to the red_bathtub.
-30 Aria exited the back_yard and stayed in the waiting_room.
-31 Jacob made no movements and stayed in the back_yard for 10 minutes.
-32 Jacob exited the back_yard and stayed in the waiting_room.
-33 Charlotte privately told Aria that the persimmon is actually in the green_bathtub.
-34 Jacob privately told James that the persimmon is actually in the red_bathtub.
-Question: Where does Jacob think Charlotte thinks Olivia thinks James thinks the corn is?
+1 Liam, Ethan, Abigail, Mason and Charlotte entered the lounge.
+2 The pineapple is in the green_pantry.
+3 Liam made no movements and stayed in the lounge for 10 minutes.
+4 Liam exited the lounge and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the lounge for 10 minutes.
+6 Ethan exited the lounge and stayed in the waiting_room.
+7 Charlotte dislikes the peach.
+8 Abigail made no movements and stayed in the lounge for 10 minutes.
+9 Abigail exited the lounge and stayed in the waiting_room.
+10 Mason made no movements and stayed in the lounge for 10 minutes.
+11 Mason exited the lounge and stayed in the waiting_room.
+12 Charlotte made no movements and stayed in the lounge for 10 minutes.
+13 Charlotte exited the lounge and stayed in the waiting_room.
+14 Ethan lost his watch.
+15 Mason publicly claimed that pineapple is in the green_cupboard.
+16 Charlotte privately told Liam that the pineapple is actually in the green_pantry.
+17 Charlotte, Liam and Mason entered the bathroom.
+18 The peach is in the green_box.
+19 Charlotte moved the peach to the blue_bottle.
+20 Charlotte exited the bathroom and stayed in the waiting_room.
+21 Liam moved the peach to the green_bucket.
+22 Liam exited the bathroom and stayed in the waiting_room.
+23 Mason moved the peach to the red_cupboard.
+24 Mason exited the bathroom and stayed in the waiting_room.
+25 Abigail, Liam, Ethan and Mason entered the bathroom.
+26 The potato is in the blue_bottle.
+27 Abigail moved the potato to the green_box.
+28 Abigail exited the bathroom and stayed in the waiting_room.
+29 Liam made no movements and stayed in the bathroom for 10 minutes.
+30 Liam exited the bathroom and stayed in the waiting_room.
+31 Ethan made no movements and stayed in the bathroom for 10 minutes.
+32 Ethan exited the bathroom and stayed in the waiting_room.
+33 Mason moved the potato to the green_bucket.
+34 Mason exited the bathroom and stayed in the waiting_room.
+35 Liam publicly claimed that potato is in the green_bucket.
+36 Mason privately told Ethan that the potato is actually in the red_cupboard.
+Question: Where does Ethan think Charlotte thinks Liam thinks Mason thinks the pineapple is?
 Answer: None
-Choices: A. red_crate, B. blue_crate, C. red_basket, D. blue_container, E. blue_box, F. red_suitcase, G. blue_basket, H. blue_bathtub, I. green_cupboard, J. blue_bucket, K. red_container, L. red_bucket, M. red_bathtub, N. green_bathtub, O. red_bottle
+Choices: A. green_pantry, B. red_bottle, C. green_basket, D. green_cupboard, E. red_container, F. green_box, G. blue_bottle, H. blue_treasure_chest, I. red_cupboard, J. green_bucket, K. red_box, L. blue_suitcase, M. green_bathtub, N. blue_drawer, O. red_basket

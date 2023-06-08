@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Avery, James, Amelia, Evelyn and Aiden entered the TV_room.
-2 The apple is in the blue_treasure_chest.
-3 Avery made no movements and stayed in the TV_room for 10 minutes.
-4 Avery exited the TV_room and stayed in the waiting_room.
-5 James made no movements and stayed in the TV_room for 10 minutes.
-6 James exited the TV_room and stayed in the waiting_room.
-7 Amelia moved the apple to the green_crate.
-8 Amelia exited the TV_room and stayed in the waiting_room.
-9 Evelyn made no movements and stayed in the TV_room for 10 minutes.
-10 Evelyn exited the TV_room and stayed in the waiting_room.
-11 Aiden moved the apple to the blue_treasure_chest.
-12 Aiden exited the TV_room and stayed in the waiting_room.
-13 Evelyn, James and Aiden entered the TV_room.
-14 The apple is in the blue_treasure_chest.
-15 Evelyn made no movements and stayed in the TV_room for 10 minutes.
-16 Evelyn exited the TV_room and stayed in the waiting_room.
-17 James made no movements and stayed in the TV_room for 10 minutes.
-18 James exited the TV_room and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the TV_room for 10 minutes.
-20 Aiden exited the TV_room and stayed in the waiting_room.
-21 Evelyn publicly claimed that apple is in the red_treasure_chest.
-22 Aiden privately told Amelia that the apple is actually in the blue_treasure_chest.
-Question: Where does Amelia think James thinks the apple is?
-Choices: A. blue_basket, B. red_bathtub, C. green_suitcase, D. red_bottle, E. blue_envelope, F. blue_treasure_chest, G. blue_box, H. blue_drawer, I. red_treasure_chest, J. green_crate, K. red_crate, L. blue_pantry, M. blue_container, N. blue_bottle, O. green_bathtub
+1 Mia, Amelia, Emma, Mason and Sophia entered the crawlspace.
+2 The cucumber is in the blue_bottle.
+3 Mia made no movements and stayed in the crawlspace for 10 minutes.
+4 Mia exited the crawlspace and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the crawlspace for 10 minutes.
+6 Emma lost his watch.
+7 Amelia exited the crawlspace and stayed in the waiting_room.
+8 Emma moved the cucumber to the red_treasure_chest.
+9 Emma exited the crawlspace and stayed in the waiting_room.
+10 Mason moved the cucumber to the green_pantry.
+11 Mason exited the crawlspace and stayed in the waiting_room.
+12 Sophia made no movements and stayed in the crawlspace for 10 minutes.
+13 Sophia exited the crawlspace and stayed in the waiting_room.
+14 Emma, Mason and Amelia entered the closet.
+15 The corn is in the blue_bathtub.
+16 Emma moved the corn to the red_envelope.
+17 Emma exited the closet and stayed in the waiting_room.
+18 Mason made no movements and stayed in the closet for 10 minutes.
+19 Mason exited the closet and stayed in the waiting_room.
+20 Amelia moved the corn to the blue_envelope.
+21 Amelia exited the closet and stayed in the waiting_room.
+22 Mason privately told Amelia that the corn is actually in the red_envelope.
+23 Mia likes the red_cupboard.
+24 Amelia privately told Mia that the corn is actually in the blue_envelope.
+Question: Where does Mason think Amelia thinks the cucumber is?
+26 Sophia likes the blue_crate.
+Choices: A. green_bucket, B. blue_crate, C. red_bottle, D. red_box, E. green_basket, F. blue_bathtub, G. red_envelope, H. green_treasure_chest, I. red_crate, J. blue_envelope, K. green_box, L. blue_bottle, M. red_treasure_chest, N. red_cupboard, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

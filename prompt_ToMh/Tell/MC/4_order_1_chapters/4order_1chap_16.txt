@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aiden, Avery, Gracie, Amelia and Isla entered the playroom.
-2 The asparagus is in the blue_drawer.
-3 Aiden made no movements and stayed in the playroom for 10 minutes.
-4 Aiden exited the playroom and stayed in the waiting_room.
-5 Avery moved the asparagus to the blue_box.
-6 Avery exited the playroom and stayed in the waiting_room.
-7 Gracie moved the asparagus to the red_container.
-8 Gracie exited the playroom and stayed in the waiting_room.
-9 Amelia moved the asparagus to the green_container.
-10 Amelia exited the playroom and stayed in the waiting_room.
-11 Isla made no movements and stayed in the playroom for 10 minutes.
-12 Isla exited the playroom and stayed in the waiting_room.
-13 Gracie privately told Aiden that the asparagus is actually in the blue_drawer.
-14 Avery privately told Amelia that the asparagus is actually in the red_container.
-Question: Where does Gracie think Avery thinks Isla thinks Amelia thinks the asparagus is?
-Choices: A. red_bucket, B. blue_bottle, C. red_bathtub, D. green_treasure_chest, E. blue_container, F. blue_bathtub, G. blue_crate, H. blue_basket, I. red_basket, J. red_drawer, K. red_container, L. blue_drawer, M. green_container, N. blue_box, O. blue_suitcase
+1 Sophia, Liam, Mason, Isla and Logan entered the laundry.
+2 The tomato is in the green_bucket.
+3 Sophia moved the tomato to the blue_envelope.
+4 Sophia exited the laundry and stayed in the waiting_room.
+5 Liam made no movements and stayed in the laundry for 10 minutes.
+6 Liam exited the laundry and stayed in the waiting_room.
+7 Mason moved the tomato to the red_envelope.
+8 Mason exited the laundry and stayed in the waiting_room.
+9 Isla moved the tomato to the red_cupboard.
+10 Isla exited the laundry and stayed in the waiting_room.
+11 Logan moved the tomato to the green_bucket.
+12 Logan exited the laundry and stayed in the waiting_room.
+13 Mason publicly claimed that tomato is in the red_crate.
+14 Logan privately told Mason that the tomato is actually in the red_cupboard.
+Question: Where does Logan think Liam thinks Mason thinks Isla thinks the tomato is?
+Choices: A. blue_treasure_chest, B. green_envelope, C. red_bathtub, D. green_bottle, E. red_pantry, F. red_container, G. red_basket, H. red_box, I. blue_bathtub, J. blue_bucket, K. green_bucket, L. red_crate, M. red_cupboard, N. blue_envelope, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

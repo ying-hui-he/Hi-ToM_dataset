@@ -1,39 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Evelyn, Ava, Jack and Amelia entered the staircase.
-2 The cherry is in the blue_envelope.
-3 Owen made no movements and stayed in the staircase for 10 minutes.
-4 Owen exited the staircase and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the staircase for 10 minutes.
-6 Evelyn exited the staircase and stayed in the waiting_room.
-7 Ava moved the cherry to the red_bucket.
-8 Ava exited the staircase and stayed in the waiting_room.
-9 Jack moved the cherry to the green_envelope.
-10 Jack exited the staircase and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the staircase for 10 minutes.
-12 Amelia exited the staircase and stayed in the waiting_room.
-13 Ava privately told Owen that the cherry is actually in the green_envelope.
-14 Evelyn privately told Jack that the cherry is actually in the red_drawer.
-15 Evelyn, Ava and Jack entered the attic.
-16 The pear is in the blue_bucket.
-17 Evelyn moved the pear to the blue_basket.
-18 Evelyn exited the attic and stayed in the waiting_room.
-19 Ava made no movements and stayed in the attic for 10 minutes.
-20 Ava exited the attic and stayed in the waiting_room.
-21 Jack made no movements and stayed in the attic for 10 minutes.
-22 Jack exited the attic and stayed in the waiting_room.
-23 Amelia, Ava, Jack and Evelyn entered the staircase.
-24 The persimmon is in the red_bucket.
-25 Amelia moved the persimmon to the green_container.
-26 Amelia exited the staircase and stayed in the waiting_room.
-27 Ava made no movements and stayed in the staircase for 10 minutes.
-28 Ava exited the staircase and stayed in the waiting_room.
-29 Jack made no movements and stayed in the staircase for 10 minutes.
-30 Jack exited the staircase and stayed in the waiting_room.
-31 Evelyn made no movements and stayed in the staircase for 10 minutes.
-32 Evelyn exited the staircase and stayed in the waiting_room.
-33 Jack publicly claimed that persimmon is in the green_container.
-34 Amelia privately told Evelyn that the persimmon is actually in the red_bucket.
-Question: Where does Jack think Owen thinks Ava thinks Amelia thinks the cherry is?
-Choices: A. blue_drawer, B. green_suitcase, C. green_bathtub, D. blue_pantry, E. red_bottle, F. blue_envelope, G. red_bucket, H. red_drawer, I. green_container, J. green_envelope, K. blue_bucket, L. red_suitcase, M. blue_container, N. blue_crate, O. blue_basket
+1 Aiden, Owen, Mila, Ava and Alexander entered the hallway.
+2 The apple is in the red_envelope.
+3 Aiden moved the apple to the blue_treasure_chest.
+4 Aiden exited the hallway and stayed in the waiting_room.
+5 Owen made no movements and stayed in the hallway for 10 minutes.
+6 Owen exited the hallway and stayed in the waiting_room.
+7 Mila made no movements and stayed in the hallway for 10 minutes.
+8 Mila exited the hallway and stayed in the waiting_room.
+9 Ava made no movements and stayed in the hallway for 10 minutes.
+10 Ava exited the hallway and stayed in the waiting_room.
+11 Alexander moved the apple to the red_envelope.
+12 Mila saw a monkey.
+13 Alexander exited the hallway and stayed in the waiting_room.
+14 Alexander likes the blue_cupboard.
+15 Ava publicly claimed that apple is in the blue_treasure_chest.
+16 Alexander privately told Aiden that the apple is actually in the red_envelope.
+17 Owen, Alexander and Aiden entered the study.
+18 The tomato is in the red_basket.
+19 Owen moved the tomato to the blue_cupboard.
+20 Mila lost his phone.
+21 Owen exited the study and stayed in the waiting_room.
+22 Alexander made no movements and stayed in the study for 10 minutes.
+23 Ava likes the red_bottle.
+24 Alexander exited the study and stayed in the waiting_room.
+25 Aiden moved the tomato to the blue_crate.
+26 Aiden exited the study and stayed in the waiting_room.
+27 Mila, Owen, Ava and Alexander entered the hallway.
+28 The lemon is in the red_bottle.
+29 Mila made no movements and stayed in the hallway for 10 minutes.
+30 Alexander likes the red_container.
+31 Mila exited the hallway and stayed in the waiting_room.
+32 Owen moved the lemon to the red_envelope.
+33 Owen exited the hallway and stayed in the waiting_room.
+34 Ava made no movements and stayed in the hallway for 10 minutes.
+35 Ava exited the hallway and stayed in the waiting_room.
+36 Alexander made no movements and stayed in the hallway for 10 minutes.
+37 Alexander exited the hallway and stayed in the waiting_room.
+38 Owen publicly claimed that lemon is in the red_envelope.
+39 Alexander privately told Ava that the lemon is actually in the blue_bucket.
+Question: Where does Mila think Owen thinks Aiden thinks Ava thinks the apple is?
+Choices: A. red_container, B. red_basket, C. green_treasure_chest, D. blue_cupboard, E. blue_crate, F. red_bottle, G. red_envelope, H. blue_treasure_chest, I. blue_suitcase, J. blue_bucket, K. red_cupboard, L. green_cupboard, M. red_pantry, N. green_basket, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

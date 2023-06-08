@@ -1,45 +1,52 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, Benjamin, Ethan, Aiden and William entered the dining_room.
-2 The spinach is in the green_container.
-3 Ella made no movements and stayed in the dining_room for 10 minutes.
-4 Ella exited the dining_room and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the dining_room for 10 minutes.
-6 Benjamin exited the dining_room and stayed in the waiting_room.
-7 Ethan moved the spinach to the blue_crate.
-8 Ethan exited the dining_room and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the dining_room for 10 minutes.
-10 Aiden exited the dining_room and stayed in the waiting_room.
-11 William moved the spinach to the green_container.
-12 William exited the dining_room and stayed in the waiting_room.
-13 Benjamin, William and Ella entered the pantry.
-14 The celery is in the green_suitcase.
-15 Benjamin moved the celery to the green_cupboard.
-16 Benjamin exited the pantry and stayed in the waiting_room.
-17 William made no movements and stayed in the pantry for 10 minutes.
-18 William exited the pantry and stayed in the waiting_room.
-19 Ella made no movements and stayed in the pantry for 10 minutes.
-20 Ella exited the pantry and stayed in the waiting_room.
-21 Benjamin publicly claimed that celery is in the blue_bottle.
-22 Ella privately told Ethan that the celery is actually in the green_cupboard.
-23 Ella, Benjamin, William and Ethan entered the pantry.
-24 The pineapple is in the green_envelope.
-25 Ella made no movements and stayed in the pantry for 10 minutes.
-26 Ella exited the pantry and stayed in the waiting_room.
-27 Benjamin moved the pineapple to the blue_box.
-28 Benjamin exited the pantry and stayed in the waiting_room.
-29 William made no movements and stayed in the pantry for 10 minutes.
-30 William exited the pantry and stayed in the waiting_room.
-31 Ethan made no movements and stayed in the pantry for 10 minutes.
-32 Ethan exited the pantry and stayed in the waiting_room.
-33 William and Aiden entered the dining_room.
-34 The turnip is in the blue_bucket.
-35 William made no movements and stayed in the dining_room for 10 minutes.
-36 William exited the dining_room and stayed in the waiting_room.
-37 Aiden made no movements and stayed in the dining_room for 10 minutes.
-38 Aiden exited the dining_room and stayed in the waiting_room.
-39 Aiden publicly claimed that turnip is in the blue_bathtub.
-40 William privately told Aiden that the turnip is actually in the green_container.
-Question: Where does Aiden think William thinks Ethan thinks the spinach is?
-Answer: blue_crate
-Choices: A. red_crate, B. green_crate, C. red_container, D. red_envelope, E. red_treasure_chest, F. green_envelope, G. green_suitcase, H. blue_box, I. blue_bottle, J. green_cupboard, K. green_container, L. blue_bucket, M. red_bathtub, N. blue_bathtub, O. blue_crate
+1 Jackson, Owen, Abigail, Mason and Gracie entered the bathroom.
+2 The green_pepper is in the red_envelope.
+3 Jackson made no movements and stayed in the bathroom for 10 minutes.
+4 Jackson exited the bathroom and stayed in the waiting_room.
+5 Owen made no movements and stayed in the bathroom for 10 minutes.
+6 Owen exited the bathroom and stayed in the waiting_room.
+7 Abigail moved the green_pepper to the red_pantry.
+8 Abigail exited the bathroom and stayed in the waiting_room.
+9 Mason made no movements and stayed in the bathroom for 10 minutes.
+10 Mason exited the bathroom and stayed in the waiting_room.
+11 Gracie moved the green_pepper to the red_envelope.
+12 Gracie exited the bathroom and stayed in the waiting_room.
+13 Jackson, Gracie and Owen entered the bathroom.
+14 The green_pepper is in the red_envelope.
+15 Jackson moved the green_pepper to the green_box.
+16 Owen dislikes the pineapple.
+17 Jackson exited the bathroom and stayed in the waiting_room.
+18 Gracie made no movements and stayed in the bathroom for 10 minutes.
+19 Mason likes the blue_cupboard.
+20 Gracie exited the bathroom and stayed in the waiting_room.
+21 Owen made no movements and stayed in the bathroom for 10 minutes.
+22 Owen exited the bathroom and stayed in the waiting_room.
+23 Owen publicly claimed that green_pepper is in the red_envelope.
+24 Mason saw a monkey.
+25 Jackson privately told Owen that the green_pepper is actually in the red_pantry.
+26 Mason lost his phone.
+27 Mason, Gracie, Jackson and Abigail entered the garage.
+28 The turnip is in the blue_bottle.
+29 Mason moved the turnip to the blue_crate.
+30 Mason exited the garage and stayed in the waiting_room.
+31 Gracie moved the turnip to the red_bottle.
+32 Gracie exited the garage and stayed in the waiting_room.
+33 Mason likes the red_bottle.
+34 Jackson made no movements and stayed in the garage for 10 minutes.
+35 Jackson exited the garage and stayed in the waiting_room.
+36 Abigail moved the turnip to the green_bottle.
+37 Abigail exited the garage and stayed in the waiting_room.
+38 Gracie and Mason entered the bathroom.
+39 The potato is in the blue_treasure_chest.
+40 Jackson dislikes the strawberry.
+41 Gracie moved the potato to the green_box.
+42 Gracie exited the bathroom and stayed in the waiting_room.
+43 Mason moved the potato to the green_bathtub.
+44 Mason exited the bathroom and stayed in the waiting_room.
+45 Jackson dislikes the strawberry.
+46 Mason publicly claimed that potato is in the blue_treasure_chest.
+47 Gracie privately told Mason that the potato is actually in the red_envelope.
+Question: Where does Abigail think Owen thinks Mason thinks the green_pepper is?
+Answer: None
+Choices: A. blue_drawer, B. red_bathtub, C. green_basket, D. blue_cupboard, E. blue_suitcase, F. blue_treasure_chest, G. red_envelope, H. green_box, I. red_pantry, J. green_bathtub, K. blue_bottle, L. green_bottle, M. red_cupboard, N. blue_crate, O. red_bottle

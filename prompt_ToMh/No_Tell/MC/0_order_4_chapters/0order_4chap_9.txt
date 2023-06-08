@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, James, Owen, Olivia and Ethan entered the attic.
-2 The orange is in the blue_pantry.
-3 Gracie made no movements and stayed in the attic for 10 minutes.
-4 Gracie exited the attic and stayed in the waiting_room.
-5 James moved the orange to the red_container.
-6 James exited the attic and stayed in the waiting_room.
-7 Owen made no movements and stayed in the attic for 10 minutes.
-8 Owen exited the attic and stayed in the waiting_room.
-9 Olivia made no movements and stayed in the attic for 10 minutes.
-10 Olivia exited the attic and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the attic for 10 minutes.
-12 Ethan exited the attic and stayed in the waiting_room.
-13 Ethan, Olivia and James entered the attic.
-14 The asparagus is in the red_container.
-15 Ethan moved the asparagus to the blue_pantry.
-16 Ethan exited the attic and stayed in the waiting_room.
-17 Olivia made no movements and stayed in the attic for 10 minutes.
-18 Olivia exited the attic and stayed in the waiting_room.
-19 James moved the asparagus to the red_crate.
-20 James exited the attic and stayed in the waiting_room.
-21 Olivia, Owen, Gracie and James entered the attic.
-22 The orange is in the red_container.
-23 Olivia made no movements and stayed in the attic for 10 minutes.
-24 Olivia exited the attic and stayed in the waiting_room.
-25 Owen made no movements and stayed in the attic for 10 minutes.
-26 Owen exited the attic and stayed in the waiting_room.
-27 Gracie made no movements and stayed in the attic for 10 minutes.
-28 Gracie exited the attic and stayed in the waiting_room.
-29 James moved the orange to the red_crate.
-30 James exited the attic and stayed in the waiting_room.
-31 Ethan and Olivia entered the master_bedroom.
-32 The pumpkin is in the blue_bucket.
-33 Ethan moved the pumpkin to the red_basket.
-34 Ethan exited the master_bedroom and stayed in the waiting_room.
-35 Olivia moved the pumpkin to the green_cupboard.
-36 Olivia exited the master_bedroom and stayed in the waiting_room.
-Question: Where is the orange really?
-Choices: A. blue_pantry, B. red_container, C. red_crate, D. red_bottle, E. red_treasure_chest, F. green_suitcase, G. green_bathtub, H. blue_bottle, I. red_suitcase, J. green_envelope, K. blue_bucket, L. red_bucket, M. red_basket, N. blue_drawer, O. green_cupboard
+1 Mila, Aria, Lucas, Emma and Ethan entered the hall.
+2 The cabbage is in the green_suitcase.
+3 Ethan saw a cat.
+4 Mila made no movements and stayed in the hall for 10 minutes.
+5 Mila exited the hall and stayed in the waiting_room.
+6 Aria made no movements and stayed in the hall for 10 minutes.
+7 Aria exited the hall and stayed in the waiting_room.
+8 Lucas made no movements and stayed in the hall for 10 minutes.
+9 Lucas exited the hall and stayed in the waiting_room.
+10 Emma moved the cabbage to the green_treasure_chest.
+11 Emma exited the hall and stayed in the waiting_room.
+12 Ethan moved the cabbage to the green_suitcase.
+13 Ethan exited the hall and stayed in the waiting_room.
+14 Aria, Mila and Ethan entered the living_room.
+15 The green_pepper is in the green_box.
+16 Ethan dislikes the eggplant.
+17 Aria moved the green_pepper to the blue_suitcase.
+18 Aria exited the living_room and stayed in the waiting_room.
+19 Mila moved the green_pepper to the green_envelope.
+20 Mila exited the living_room and stayed in the waiting_room.
+21 Ethan moved the green_pepper to the red_cupboard.
+22 Ethan exited the living_room and stayed in the waiting_room.
+23 Ethan, Aria, Emma and Lucas entered the living_room.
+24 The green_pepper is in the red_cupboard.
+25 Ethan moved the green_pepper to the green_box.
+26 Ethan exited the living_room and stayed in the waiting_room.
+27 Aria made no movements and stayed in the living_room for 10 minutes.
+28 Aria exited the living_room and stayed in the waiting_room.
+29 Emma made no movements and stayed in the living_room for 10 minutes.
+30 Emma exited the living_room and stayed in the waiting_room.
+31 Lucas moved the green_pepper to the red_pantry.
+32 Aria lost his watch.
+33 Lucas exited the living_room and stayed in the waiting_room.
+34 Mila and Ethan entered the basement.
+35 The cucumber is in the red_bottle.
+36 Mila moved the cucumber to the red_envelope.
+37 Mila exited the basement and stayed in the waiting_room.
+38 Ethan made no movements and stayed in the basement for 10 minutes.
+39 Ethan exited the basement and stayed in the waiting_room.
+Question: Where is the cabbage really?
+Choices: A. red_bottle, B. blue_bathtub, C. red_envelope, D. red_box, E. red_bucket, F. red_pantry, G. green_box, H. green_envelope, I. blue_suitcase, J. red_cupboard, K. green_suitcase, L. red_treasure_chest, M. green_treasure_chest, N. blue_treasure_chest, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

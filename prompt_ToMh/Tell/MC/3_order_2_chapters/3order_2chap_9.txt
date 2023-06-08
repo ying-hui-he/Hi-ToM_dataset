@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Aria, Amelia, Noah and James entered the back_yard.
-2 The turnip is in the green_envelope.
-3 Carter moved the turnip to the green_bottle.
-4 Carter exited the back_yard and stayed in the waiting_room.
-5 Aria made no movements and stayed in the back_yard for 10 minutes.
-6 Aria exited the back_yard and stayed in the waiting_room.
-7 Amelia moved the turnip to the green_suitcase.
-8 Amelia exited the back_yard and stayed in the waiting_room.
-9 Noah moved the turnip to the red_bucket.
-10 Noah exited the back_yard and stayed in the waiting_room.
-11 James made no movements and stayed in the back_yard for 10 minutes.
-12 James exited the back_yard and stayed in the waiting_room.
-13 Amelia, Noah and Aria entered the crawlspace.
-14 The tangerine is in the red_suitcase.
-15 Amelia moved the tangerine to the red_crate.
-16 Amelia exited the crawlspace and stayed in the waiting_room.
-17 Noah made no movements and stayed in the crawlspace for 10 minutes.
-18 Noah exited the crawlspace and stayed in the waiting_room.
-19 Aria made no movements and stayed in the crawlspace for 10 minutes.
-20 Aria exited the crawlspace and stayed in the waiting_room.
-21 Amelia publicly claimed that tangerine is in the red_container.
-22 Aria privately told Carter that the tangerine is actually in the red_crate.
-Question: Where does James think Noah thinks Carter thinks the turnip is?
-Choices: A. red_suitcase, B. red_container, C. red_bathtub, D. red_drawer, E. red_crate, F. green_envelope, G. red_bucket, H. green_bottle, I. green_suitcase, J. green_treasure_chest, K. red_envelope, L. blue_bottle, M. green_container, N. blue_container, O. blue_drawer
+1 Jacob, Amelia, Carter, Owen and Emily entered the closet.
+2 The corn is in the red_cupboard.
+3 Emily lost his bottle.
+4 Jacob moved the corn to the red_box.
+5 Jacob exited the closet and stayed in the waiting_room.
+6 Amelia made no movements and stayed in the closet for 10 minutes.
+7 Amelia exited the closet and stayed in the waiting_room.
+8 Carter made no movements and stayed in the closet for 10 minutes.
+9 Carter exited the closet and stayed in the waiting_room.
+10 Owen moved the corn to the green_suitcase.
+11 Owen exited the closet and stayed in the waiting_room.
+12 Emily moved the corn to the red_cupboard.
+13 Emily exited the closet and stayed in the waiting_room.
+14 Emily, Jacob and Carter entered the living_room.
+15 The broccoli is in the red_bottle.
+16 Emily moved the broccoli to the red_basket.
+17 Emily exited the living_room and stayed in the waiting_room.
+18 Jacob moved the broccoli to the red_envelope.
+19 Jacob exited the living_room and stayed in the waiting_room.
+20 Carter moved the broccoli to the green_cupboard.
+21 Carter exited the living_room and stayed in the waiting_room.
+22 Carter publicly claimed that broccoli is in the red_envelope.
+23 Emily privately told Carter that the broccoli is actually in the green_cupboard.
+Question: Where does Owen think Carter thinks Amelia thinks the corn is?
+25 Jacob saw a dog.
+Choices: A. red_bucket, B. blue_crate, C. green_bucket, D. green_treasure_chest, E. blue_cupboard, F. red_cupboard, G. red_container, H. red_box, I. green_suitcase, J. green_bathtub, K. green_cupboard, L. red_bottle, M. red_basket, N. blue_bottle, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

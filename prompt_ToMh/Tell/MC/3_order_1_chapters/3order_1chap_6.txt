@@ -1,19 +1,22 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Ethan, Mila, Carter and Noah entered the office.
-2 The lime is in the red_suitcase.
-3 Jacob made no movements and stayed in the office for 10 minutes.
-4 Jacob exited the office and stayed in the waiting_room.
-5 Ethan moved the lime to the red_bucket.
-6 Ethan exited the office and stayed in the waiting_room.
-7 Mila made no movements and stayed in the office for 10 minutes.
-8 Mila exited the office and stayed in the waiting_room.
-9 Carter made no movements and stayed in the office for 10 minutes.
-10 Carter exited the office and stayed in the waiting_room.
-11 Noah made no movements and stayed in the office for 10 minutes.
-12 Noah exited the office and stayed in the waiting_room.
-13 Carter publicly claimed that lime is in the red_treasure_chest.
-14 Noah privately told Jacob that the lime is actually in the red_bucket.
-Question: Where does Mila think Noah thinks Jacob thinks the lime is?
-Choices: A. red_suitcase, B. red_bucket, C. green_treasure_chest, D. blue_drawer, E. red_treasure_chest, F. blue_pantry, G. green_bottle, H. blue_bucket, I. red_bottle, J. blue_treasure_chest, K. red_envelope, L. blue_bathtub, M. green_suitcase, N. blue_basket, O. green_container
+1 Emma, Mason, Abigail, Ella and Jackson entered the back_yard.
+2 The turnip is in the red_bathtub.
+3 Emma lost his phone.
+4 Emma made no movements and stayed in the back_yard for 10 minutes.
+5 Emma exited the back_yard and stayed in the waiting_room.
+6 Mason made no movements and stayed in the back_yard for 10 minutes.
+7 Mason exited the back_yard and stayed in the waiting_room.
+8 Abigail made no movements and stayed in the back_yard for 10 minutes.
+9 Abigail exited the back_yard and stayed in the waiting_room.
+10 Ella made no movements and stayed in the back_yard for 10 minutes.
+11 Ella exited the back_yard and stayed in the waiting_room.
+12 Emma saw a mouse.
+13 Jackson moved the turnip to the red_bathtub.
+14 Jackson exited the back_yard and stayed in the waiting_room.
+15 Abigail privately told Emma that the turnip is actually in the red_bottle.
+16 Mason privately told Ella that the turnip is actually in the red_container.
+Question: Where does Ella think Mason thinks Abigail thinks the turnip is?
+18 Mason likes the blue_bathtub.
+Choices: A. red_treasure_chest, B. red_crate, C. blue_crate, D. green_bathtub, E. red_cupboard, F. blue_bucket, G. green_treasure_chest, H. red_envelope, I. blue_drawer, J. blue_suitcase, K. red_bottle, L. red_bathtub, M. red_container, N. green_suitcase, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

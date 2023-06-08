@@ -1,25 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 James, Mila, Emily, Abigail and Isla entered the office.
-2 The melon is in the blue_bucket.
-3 James moved the melon to the red_envelope.
-4 James exited the office and stayed in the waiting_room.
-5 Mila moved the melon to the green_bathtub.
-6 Mila exited the office and stayed in the waiting_room.
-7 Emily moved the melon to the blue_bottle.
-8 Emily exited the office and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the office for 10 minutes.
-10 Abigail exited the office and stayed in the waiting_room.
-11 Isla moved the melon to the blue_bucket.
-12 Isla exited the office and stayed in the waiting_room.
-13 Abigail, Emily and James entered the attic.
-14 The carrot is in the blue_treasure_chest.
-15 Abigail made no movements and stayed in the attic for 10 minutes.
-16 Abigail exited the attic and stayed in the waiting_room.
-17 Emily moved the carrot to the red_bathtub.
-18 Emily exited the attic and stayed in the waiting_room.
-19 James made no movements and stayed in the attic for 10 minutes.
-20 James exited the attic and stayed in the waiting_room.
-Question: Where does Emily think James thinks Isla thinks Mila thinks the melon is?
-Choices: A. green_envelope, B. green_suitcase, C. red_treasure_chest, D. red_container, E. red_basket, F. blue_treasure_chest, G. red_bathtub, H. red_bottle, I. blue_crate, J. blue_suitcase, K. blue_bucket, L. blue_bottle, M. red_envelope, N. red_suitcase, O. green_bathtub
+1 Aiden saw a cat.
+2 Abigail, Lucas, Ella, Aiden and Mia entered the hallway.
+3 The grapes is in the red_cupboard.
+4 Abigail made no movements and stayed in the hallway for 10 minutes.
+5 Abigail exited the hallway and stayed in the waiting_room.
+6 Lucas moved the grapes to the blue_crate.
+7 Lucas exited the hallway and stayed in the waiting_room.
+8 Ella moved the grapes to the red_container.
+9 Ella exited the hallway and stayed in the waiting_room.
+10 Aiden moved the grapes to the red_pantry.
+11 Mia lost his bottle.
+12 Aiden exited the hallway and stayed in the waiting_room.
+13 Mia made no movements and stayed in the hallway for 10 minutes.
+14 Aiden dislikes the radish.
+15 Mia exited the hallway and stayed in the waiting_room.
+16 Aiden, Lucas and Mia entered the hallway.
+17 The grapes is in the red_pantry.
+18 Mia dislikes the grapes.
+19 Aiden made no movements and stayed in the hallway for 10 minutes.
+20 Aiden exited the hallway and stayed in the waiting_room.
+21 Lucas made no movements and stayed in the hallway for 10 minutes.
+22 Lucas exited the hallway and stayed in the waiting_room.
+23 Mia made no movements and stayed in the hallway for 10 minutes.
+24 Mia exited the hallway and stayed in the waiting_room.
+Question: Where does Aiden think Mia thinks Lucas thinks Abigail thinks the grapes is?
+26 Mia dislikes the persimmon.
+Choices: A. red_envelope, B. green_basket, C. red_box, D. green_treasure_chest, E. red_bucket, F. red_container, G. red_cupboard, H. red_pantry, I. blue_crate, J. green_envelope, K. blue_bottle, L. green_box, M. blue_drawer, N. red_bottle, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Logan, Benjamin, Mila and Gracie entered the garage.
-2 The orange is in the red_bucket.
-3 Hannah made no movements and stayed in the garage for 10 minutes.
-4 Hannah exited the garage and stayed in the waiting_room.
-5 Logan made no movements and stayed in the garage for 10 minutes.
-6 Logan exited the garage and stayed in the waiting_room.
-7 Benjamin made no movements and stayed in the garage for 10 minutes.
-8 Benjamin exited the garage and stayed in the waiting_room.
-9 Mila made no movements and stayed in the garage for 10 minutes.
-10 Mila exited the garage and stayed in the waiting_room.
-11 Gracie moved the orange to the red_bucket.
-12 Gracie exited the garage and stayed in the waiting_room.
-13 Gracie, Mila and Hannah entered the porch.
-14 The tomato is in the red_basket.
-15 Gracie made no movements and stayed in the porch for 10 minutes.
-16 Gracie exited the porch and stayed in the waiting_room.
-17 Mila made no movements and stayed in the porch for 10 minutes.
-18 Mila exited the porch and stayed in the waiting_room.
-19 Hannah moved the tomato to the red_bathtub.
-20 Hannah exited the porch and stayed in the waiting_room.
-21 Gracie, Logan, Benjamin and Mila entered the porch.
-22 The tangerine is in the red_bathtub.
-23 Gracie made no movements and stayed in the porch for 10 minutes.
-24 Gracie exited the porch and stayed in the waiting_room.
-25 Logan moved the tangerine to the red_treasure_chest.
-26 Logan exited the porch and stayed in the waiting_room.
-27 Benjamin moved the tangerine to the green_treasure_chest.
-28 Benjamin exited the porch and stayed in the waiting_room.
-29 Mila moved the tangerine to the green_suitcase.
-30 Mila exited the porch and stayed in the waiting_room.
-Question: Where is the orange really?
-Choices: A. blue_suitcase, B. blue_envelope, C. blue_bathtub, D. blue_basket, E. green_crate, F. red_bathtub, G. red_basket, H. green_treasure_chest, I. green_suitcase, J. red_treasure_chest, K. blue_crate, L. red_bucket, M. red_crate, N. green_envelope, O. blue_bottle
+1 Mason, Charlotte, Liam, Ella and Alexander entered the living_room.
+2 The lemon is in the green_pantry.
+3 Alexander lost his phone.
+4 Mason moved the lemon to the red_bucket.
+5 Mason exited the living_room and stayed in the waiting_room.
+6 Charlotte made no movements and stayed in the living_room for 10 minutes.
+7 Charlotte exited the living_room and stayed in the waiting_room.
+8 Liam made no movements and stayed in the living_room for 10 minutes.
+9 Liam exited the living_room and stayed in the waiting_room.
+10 Ella moved the lemon to the green_bucket.
+11 Ella exited the living_room and stayed in the waiting_room.
+12 Charlotte lost his watch.
+13 Alexander made no movements and stayed in the living_room for 10 minutes.
+14 Alexander exited the living_room and stayed in the waiting_room.
+15 Ella dislikes the beans.
+16 Ella, Mason and Liam entered the living_room.
+17 The lemon is in the green_bucket.
+18 Ella moved the lemon to the red_bucket.
+19 Ella exited the living_room and stayed in the waiting_room.
+20 Mason moved the lemon to the green_bottle.
+21 Mason exited the living_room and stayed in the waiting_room.
+22 Liam made no movements and stayed in the living_room for 10 minutes.
+23 Liam exited the living_room and stayed in the waiting_room.
+24 Charlotte, Liam, Mason and Ella entered the living_room.
+25 The beans is in the green_bucket.
+26 Charlotte made no movements and stayed in the living_room for 10 minutes.
+27 Charlotte exited the living_room and stayed in the waiting_room.
+28 Liam moved the beans to the green_bottle.
+29 Liam exited the living_room and stayed in the waiting_room.
+30 Mason moved the beans to the red_bucket.
+31 Mason exited the living_room and stayed in the waiting_room.
+32 Ella moved the beans to the green_pantry.
+33 Charlotte lost his watch.
+34 Ella exited the living_room and stayed in the waiting_room.
+Question: Where is the lemon really?
+Choices: A. green_bucket, B. green_pantry, C. red_basket, D. green_bottle, E. red_bucket, F. red_envelope, G. blue_envelope, H. red_cupboard, I. green_bathtub, J. green_suitcase, K. red_pantry, L. red_container, M. red_bottle, N. blue_drawer, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

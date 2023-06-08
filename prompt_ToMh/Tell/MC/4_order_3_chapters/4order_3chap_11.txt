@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Avery, Mila, Mia and Jackson entered the porch.
-2 The cucumber is in the green_suitcase.
-3 Abigail made no movements and stayed in the porch for 10 minutes.
-4 Abigail exited the porch and stayed in the waiting_room.
-5 Avery made no movements and stayed in the porch for 10 minutes.
-6 Avery exited the porch and stayed in the waiting_room.
-7 Mila moved the cucumber to the blue_crate.
-8 Mila exited the porch and stayed in the waiting_room.
-9 Mia made no movements and stayed in the porch for 10 minutes.
-10 Mia exited the porch and stayed in the waiting_room.
-11 Jackson moved the cucumber to the green_suitcase.
-12 Jackson exited the porch and stayed in the waiting_room.
-13 Mia publicly claimed that cucumber is in the blue_treasure_chest.
-14 Jackson privately told Abigail that the cucumber is actually in the green_suitcase.
-15 Mila, Avery and Abigail entered the cellar.
-16 The cherry is in the red_drawer.
-17 Mila made no movements and stayed in the cellar for 10 minutes.
-18 Mila exited the cellar and stayed in the waiting_room.
-19 Avery made no movements and stayed in the cellar for 10 minutes.
-20 Avery exited the cellar and stayed in the waiting_room.
-21 Abigail moved the cherry to the blue_container.
-22 Abigail exited the cellar and stayed in the waiting_room.
-23 Avery, Mila, Abigail and Jackson entered the porch.
-24 The melon is in the blue_crate.
-25 Avery made no movements and stayed in the porch for 10 minutes.
-26 Avery exited the porch and stayed in the waiting_room.
-27 Mila moved the melon to the green_suitcase.
-28 Mila exited the porch and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the porch for 10 minutes.
-30 Abigail exited the porch and stayed in the waiting_room.
-31 Jackson moved the melon to the green_cupboard.
-32 Jackson exited the porch and stayed in the waiting_room.
-33 Mila publicly claimed that melon is in the blue_crate.
-34 Jackson privately told Abigail that the melon is actually in the green_bathtub.
-Question: Where does Mia think Avery thinks Mila thinks Abigail thinks the cucumber is?
-Choices: A. blue_suitcase, B. red_bathtub, C. blue_bucket, D. green_container, E. green_treasure_chest, F. blue_crate, G. green_suitcase, H. green_cupboard, I. blue_treasure_chest, J. green_bathtub, K. red_drawer, L. blue_basket, M. blue_container, N. green_crate, O. blue_bottle
+1 Nathan, Isla, Jacob, Abigail and Mia entered the bathroom.
+2 The beans is in the red_bathtub.
+3 Nathan moved the beans to the red_bottle.
+4 Nathan exited the bathroom and stayed in the waiting_room.
+5 Abigail dislikes the beans.
+6 Isla made no movements and stayed in the bathroom for 10 minutes.
+7 Isla exited the bathroom and stayed in the waiting_room.
+8 Mia dislikes the lemon.
+9 Jacob made no movements and stayed in the bathroom for 10 minutes.
+10 Jacob exited the bathroom and stayed in the waiting_room.
+11 Abigail made no movements and stayed in the bathroom for 10 minutes.
+12 Abigail exited the bathroom and stayed in the waiting_room.
+13 Mia moved the beans to the red_bathtub.
+14 Mia exited the bathroom and stayed in the waiting_room.
+15 Abigail publicly claimed that beans is in the red_bucket.
+16 Mia privately told Nathan that the beans is actually in the red_bathtub.
+17 Jacob, Mia and Abigail entered the bathroom.
+18 The broccoli is in the red_bucket.
+19 Jacob made no movements and stayed in the bathroom for 10 minutes.
+20 Jacob exited the bathroom and stayed in the waiting_room.
+21 Mia moved the broccoli to the red_bottle.
+22 Mia exited the bathroom and stayed in the waiting_room.
+23 Abigail made no movements and stayed in the bathroom for 10 minutes.
+24 Abigail exited the bathroom and stayed in the waiting_room.
+25 Nathan, Jacob, Mia and Abigail entered the pantry.
+26 The lemon is in the green_bottle.
+27 Nathan made no movements and stayed in the pantry for 10 minutes.
+28 Nathan exited the pantry and stayed in the waiting_room.
+29 Jacob moved the lemon to the green_envelope.
+30 Jacob exited the pantry and stayed in the waiting_room.
+31 Mia made no movements and stayed in the pantry for 10 minutes.
+32 Mia exited the pantry and stayed in the waiting_room.
+33 Abigail made no movements and stayed in the pantry for 10 minutes.
+34 Abigail exited the pantry and stayed in the waiting_room.
+35 Mia publicly claimed that lemon is in the red_crate.
+36 Jacob dislikes the beans.
+37 Nathan privately told Abigail that the lemon is actually in the blue_envelope.
+Question: Where does Mia think Isla thinks Jacob thinks Nathan thinks the beans is?
+Choices: A. green_bottle, B. blue_envelope, C. blue_drawer, D. green_envelope, E. red_crate, F. red_bucket, G. red_bathtub, H. red_basket, I. red_bottle, J. green_box, K. blue_crate, L. blue_treasure_chest, M. red_envelope, N. red_container, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

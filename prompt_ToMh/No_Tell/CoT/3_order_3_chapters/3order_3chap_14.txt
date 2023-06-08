@@ -1,35 +1,40 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Jayden, Evelyn, Charlotte and Oliver entered the playroom.
-2 The pumpkin is in the green_suitcase.
-3 Avery moved the pumpkin to the red_treasure_chest.
-4 Avery exited the playroom and stayed in the waiting_room.
-5 Jayden moved the pumpkin to the red_bottle.
-6 Jayden exited the playroom and stayed in the waiting_room.
-7 Evelyn moved the pumpkin to the blue_bathtub.
-8 Evelyn exited the playroom and stayed in the waiting_room.
-9 Charlotte moved the pumpkin to the blue_drawer.
-10 Charlotte exited the playroom and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the playroom for 10 minutes.
-12 Oliver exited the playroom and stayed in the waiting_room.
-13 Oliver, Charlotte and Evelyn entered the playroom.
-14 The pumpkin is in the blue_drawer.
-15 Oliver made no movements and stayed in the playroom for 10 minutes.
-16 Oliver exited the playroom and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the playroom for 10 minutes.
-18 Charlotte exited the playroom and stayed in the waiting_room.
-19 Evelyn moved the pumpkin to the red_treasure_chest.
-20 Evelyn exited the playroom and stayed in the waiting_room.
-21 Avery, Oliver, Charlotte and Jayden entered the pantry.
-22 The potato is in the red_container.
-23 Avery moved the potato to the blue_container.
-24 Avery exited the pantry and stayed in the waiting_room.
-25 Oliver made no movements and stayed in the pantry for 10 minutes.
-26 Oliver exited the pantry and stayed in the waiting_room.
-27 Charlotte made no movements and stayed in the pantry for 10 minutes.
-28 Charlotte exited the pantry and stayed in the waiting_room.
-29 Jayden made no movements and stayed in the pantry for 10 minutes.
-30 Jayden exited the pantry and stayed in the waiting_room.
-Question: Where does Oliver think Jayden thinks Charlotte thinks the pumpkin is?
-Choices: A. red_container, B. red_envelope, C. blue_container, D. blue_treasure_chest, E. blue_envelope, F. green_suitcase, G. red_treasure_chest, H. blue_drawer, I. blue_bathtub, J. red_bottle, K. green_container, L. green_treasure_chest, M. green_bottle, N. blue_crate, O. blue_pantry
+1 Jackson, Jack, Nathan, Jacob and Gracie entered the study.
+2 The lemon is in the blue_crate.
+3 Jackson made no movements and stayed in the study for 10 minutes.
+4 Jackson exited the study and stayed in the waiting_room.
+5 Jacob lost his watch.
+6 Jack made no movements and stayed in the study for 10 minutes.
+7 Jack exited the study and stayed in the waiting_room.
+8 Jackson lost his bottle.
+9 Nathan moved the lemon to the red_container.
+10 Nathan exited the study and stayed in the waiting_room.
+11 Jacob moved the lemon to the blue_bathtub.
+12 Jacob exited the study and stayed in the waiting_room.
+13 Gracie made no movements and stayed in the study for 10 minutes.
+14 Jack lost his bottle.
+15 Gracie exited the study and stayed in the waiting_room.
+16 Nathan, Jack and Jacob entered the kitchen.
+17 The strawberry is in the red_cupboard.
+18 Nathan made no movements and stayed in the kitchen for 10 minutes.
+19 Nathan exited the kitchen and stayed in the waiting_room.
+20 Jack made no movements and stayed in the kitchen for 10 minutes.
+21 Jacob dislikes the grapes.
+22 Jack exited the kitchen and stayed in the waiting_room.
+23 Jacob made no movements and stayed in the kitchen for 10 minutes.
+24 Jacob exited the kitchen and stayed in the waiting_room.
+25 Jackson, Jack, Gracie and Nathan entered the study.
+26 The lemon is in the blue_bathtub.
+27 Jackson made no movements and stayed in the study for 10 minutes.
+28 Jackson exited the study and stayed in the waiting_room.
+29 Jack made no movements and stayed in the study for 10 minutes.
+30 Jack exited the study and stayed in the waiting_room.
+31 Gracie made no movements and stayed in the study for 10 minutes.
+32 Gracie exited the study and stayed in the waiting_room.
+33 Nathan made no movements and stayed in the study for 10 minutes.
+34 Nathan exited the study and stayed in the waiting_room.
+35 Jack likes the green_box.
+Question: Where does Jacob think Gracie thinks Jack thinks the lemon is?
+Choices: A. blue_bucket, B. red_bucket, C. green_bottle, D. red_box, E. green_box, F. red_cupboard, G. red_treasure_chest, H. blue_treasure_chest, I. blue_suitcase, J. green_suitcase, K. green_basket, L. blue_crate, M. blue_bathtub, N. green_bucket, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,25 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, Benjamin, Jack, Jacob and Ethan entered the master_bedroom.
-2 The plum is in the blue_suitcase.
-3 Jayden moved the plum to the red_suitcase.
-4 Jayden exited the master_bedroom and stayed in the waiting_room.
-5 Benjamin moved the plum to the blue_treasure_chest.
-6 Benjamin exited the master_bedroom and stayed in the waiting_room.
-7 Jack moved the plum to the green_container.
-8 Jack exited the master_bedroom and stayed in the waiting_room.
-9 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
-10 Jacob exited the master_bedroom and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
-12 Ethan exited the master_bedroom and stayed in the waiting_room.
-13 Benjamin, Jacob and Ethan entered the staircase.
-14 The carrot is in the blue_envelope.
-15 Benjamin moved the carrot to the blue_basket.
-16 Benjamin exited the staircase and stayed in the waiting_room.
-17 Jacob moved the carrot to the green_bottle.
-18 Jacob exited the staircase and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the staircase for 10 minutes.
-20 Ethan exited the staircase and stayed in the waiting_room.
-Question: Where does Benjamin think Jack thinks the plum is?
-Choices: A. blue_envelope, B. green_bottle, C. blue_basket, D. red_crate, E. green_bathtub, F. red_bottle, G. blue_container, H. blue_box, I. green_suitcase, J. red_drawer, K. blue_suitcase, L. green_container, M. red_suitcase, N. blue_treasure_chest, O. blue_bucket
+1 Hannah, Emma, Charlotte, Amelia and Abigail entered the sunroom.
+2 The apple is in the green_basket.
+3 Hannah moved the apple to the blue_bucket.
+4 Hannah exited the sunroom and stayed in the waiting_room.
+5 Emma made no movements and stayed in the sunroom for 10 minutes.
+6 Hannah dislikes the turnip.
+7 Emma exited the sunroom and stayed in the waiting_room.
+8 Charlotte made no movements and stayed in the sunroom for 10 minutes.
+9 Hannah lost his bottle.
+10 Charlotte exited the sunroom and stayed in the waiting_room.
+11 Abigail saw a dog.
+12 Amelia moved the apple to the blue_drawer.
+13 Amelia exited the sunroom and stayed in the waiting_room.
+14 Abigail made no movements and stayed in the sunroom for 10 minutes.
+15 Amelia likes the green_suitcase.
+16 Abigail exited the sunroom and stayed in the waiting_room.
+17 Emma, Hannah and Charlotte entered the den.
+18 The grapes is in the green_pantry.
+19 Emma made no movements and stayed in the den for 10 minutes.
+20 Emma exited the den and stayed in the waiting_room.
+21 Hannah moved the grapes to the red_box.
+22 Hannah exited the den and stayed in the waiting_room.
+23 Charlotte moved the grapes to the green_cupboard.
+24 Charlotte exited the den and stayed in the waiting_room.
+25 Hannah likes the blue_suitcase.
+Question: Where does Hannah think Abigail thinks the apple is?
+Choices: A. green_envelope, B. green_pantry, C. blue_suitcase, D. red_box, E. green_cupboard, F. green_suitcase, G. red_cupboard, H. blue_treasure_chest, I. blue_bathtub, J. red_container, K. green_basket, L. blue_bucket, M. blue_envelope, N. blue_drawer, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

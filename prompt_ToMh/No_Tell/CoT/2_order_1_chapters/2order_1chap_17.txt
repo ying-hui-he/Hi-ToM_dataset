@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jayden, Carter, Owen, Olivia and Oliver entered the den.
-2 The cucumber is in the blue_bottle.
-3 Jayden made no movements and stayed in the den for 10 minutes.
-4 Jayden exited the den and stayed in the waiting_room.
-5 Carter made no movements and stayed in the den for 10 minutes.
-6 Carter exited the den and stayed in the waiting_room.
-7 Owen moved the cucumber to the green_envelope.
-8 Owen exited the den and stayed in the waiting_room.
-9 Olivia moved the cucumber to the red_bucket.
-10 Olivia exited the den and stayed in the waiting_room.
-11 Oliver moved the cucumber to the blue_bottle.
-12 Oliver exited the den and stayed in the waiting_room.
-Question: Where does Carter think Olivia thinks the cucumber is?
-Choices: A. blue_bottle, B. red_bucket, C. green_envelope, D. green_bathtub, E. blue_bucket, F. red_bottle, G. green_suitcase, H. blue_suitcase, I. red_envelope, J. red_drawer, K. green_crate, L. green_treasure_chest, M. blue_bathtub, N. blue_treasure_chest, O. red_crate
+1 Emma, Isla, Mason, Owen and Nathan entered the bedroom.
+2 The broccoli is in the red_cupboard.
+3 Emma made no movements and stayed in the bedroom for 10 minutes.
+4 Emma exited the bedroom and stayed in the waiting_room.
+5 Isla moved the broccoli to the blue_cupboard.
+6 Isla exited the bedroom and stayed in the waiting_room.
+7 Owen lost his phone.
+8 Mason moved the broccoli to the red_container.
+9 Mason exited the bedroom and stayed in the waiting_room.
+10 Owen made no movements and stayed in the bedroom for 10 minutes.
+11 Owen exited the bedroom and stayed in the waiting_room.
+12 Nathan made no movements and stayed in the bedroom for 10 minutes.
+13 Nathan exited the bedroom and stayed in the waiting_room.
+14 Nathan likes the blue_cupboard.
+Question: Where does Owen think Mason thinks the broccoli is?
+Choices: A. red_cupboard, B. blue_cupboard, C. red_envelope, D. blue_bucket, E. red_container, F. green_bucket, G. red_bottle, H. blue_drawer, I. blue_crate, J. green_suitcase, K. red_pantry, L. red_basket, M. red_bucket, N. red_bathtub, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,44 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, Logan, Mila, Jack and Hannah entered the kitchen.
-2 The asparagus is in the blue_container.
-3 Ella made no movements and stayed in the kitchen for 10 minutes.
-4 Ella exited the kitchen and stayed in the waiting_room.
-5 Logan moved the asparagus to the blue_suitcase.
-6 Logan exited the kitchen and stayed in the waiting_room.
-7 Mila moved the asparagus to the blue_box.
-8 Mila exited the kitchen and stayed in the waiting_room.
-9 Jack made no movements and stayed in the kitchen for 10 minutes.
-10 Jack exited the kitchen and stayed in the waiting_room.
-11 Hannah moved the asparagus to the blue_container.
-12 Hannah exited the kitchen and stayed in the waiting_room.
-13 Logan, Jack and Hannah entered the kitchen.
-14 The asparagus is in the blue_container.
-15 Logan moved the asparagus to the green_crate.
-16 Logan exited the kitchen and stayed in the waiting_room.
-17 Jack moved the asparagus to the green_suitcase.
-18 Jack exited the kitchen and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the kitchen for 10 minutes.
-20 Hannah exited the kitchen and stayed in the waiting_room.
-21 Hannah publicly claimed that asparagus is in the green_crate.
-22 Logan privately told Hannah that the asparagus is actually in the blue_container.
-23 Jack, Mila, Logan and Hannah entered the bathroom.
-24 The peach is in the red_drawer.
-25 Jack made no movements and stayed in the bathroom for 10 minutes.
-26 Jack exited the bathroom and stayed in the waiting_room.
-27 Mila made no movements and stayed in the bathroom for 10 minutes.
-28 Mila exited the bathroom and stayed in the waiting_room.
-29 Logan made no movements and stayed in the bathroom for 10 minutes.
-30 Logan exited the bathroom and stayed in the waiting_room.
-31 Hannah moved the peach to the red_envelope.
-32 Hannah exited the bathroom and stayed in the waiting_room.
-33 Jack and Logan entered the kitchen.
-34 The asparagus is in the green_suitcase.
-35 Jack made no movements and stayed in the kitchen for 10 minutes.
-36 Jack exited the kitchen and stayed in the waiting_room.
-37 Logan made no movements and stayed in the kitchen for 10 minutes.
-38 Logan exited the kitchen and stayed in the waiting_room.
-39 Jack privately told Hannah that the asparagus is actually in the blue_box.
-Question: Where does Logan think Hannah thinks Mila thinks the asparagus is?
+1 Chloe, Isla, Aria, Ella and Hannah entered the living_room.
+2 The persimmon is in the red_pantry.
+3 Chloe saw a mouse.
+4 Chloe moved the persimmon to the green_bottle.
+5 Chloe exited the living_room and stayed in the waiting_room.
+6 Isla moved the persimmon to the blue_treasure_chest.
+7 Isla exited the living_room and stayed in the waiting_room.
+8 Aria made no movements and stayed in the living_room for 10 minutes.
+9 Aria exited the living_room and stayed in the waiting_room.
+10 Ella moved the persimmon to the green_treasure_chest.
+11 Ella exited the living_room and stayed in the waiting_room.
+12 Hannah moved the persimmon to the red_pantry.
+13 Hannah exited the living_room and stayed in the waiting_room.
+14 Isla, Aria and Hannah entered the patio.
+15 The asparagus is in the red_basket.
+16 Isla made no movements and stayed in the patio for 10 minutes.
+17 Hannah likes the green_bottle.
+18 Isla exited the patio and stayed in the waiting_room.
+19 Aria made no movements and stayed in the patio for 10 minutes.
+20 Aria exited the patio and stayed in the waiting_room.
+21 Hannah moved the asparagus to the blue_drawer.
+22 Hannah exited the patio and stayed in the waiting_room.
+23 Hannah publicly claimed that asparagus is in the green_suitcase.
+24 Isla privately told Hannah that the asparagus is actually in the blue_bucket.
+25 Aria, Ella, Hannah and Chloe entered the hall.
+26 The peach is in the red_bucket.
+27 Aria moved the peach to the red_bathtub.
+28 Aria exited the hall and stayed in the waiting_room.
+29 Ella moved the peach to the green_envelope.
+30 Ella exited the hall and stayed in the waiting_room.
+31 Hannah moved the peach to the red_crate.
+32 Hannah exited the hall and stayed in the waiting_room.
+33 Chloe moved the peach to the blue_envelope.
+34 Chloe exited the hall and stayed in the waiting_room.
+35 Hannah and Chloe entered the patio.
+36 The asparagus is in the blue_drawer.
+37 Hannah made no movements and stayed in the patio for 10 minutes.
+38 Hannah exited the patio and stayed in the waiting_room.
+39 Chloe made no movements and stayed in the patio for 10 minutes.
+40 Chloe exited the patio and stayed in the waiting_room.
+41 Hannah publicly claimed that asparagus is in the red_basket.
+42 Chloe privately told Hannah that the asparagus is actually in the green_suitcase.
+Question: Where does Aria think Isla thinks Ella thinks the persimmon is?
 Answer: None
-Choices: A. blue_container, B. blue_box, C. green_suitcase, D. blue_suitcase, E. green_crate, F. green_envelope, G. blue_basket, H. green_container, I. blue_bucket, J. red_treasure_chest, K. red_drawer, L. red_bathtub, M. red_basket, N. blue_bottle, O. red_envelope
+Choices: A. red_pantry, B. blue_treasure_chest, C. green_bottle, D. green_treasure_chest, E. blue_crate, F. blue_envelope, G. red_bucket, H. red_crate, I. green_envelope, J. red_bathtub, K. green_suitcase, L. red_basket, M. blue_bucket, N. blue_drawer, O. green_cupboard

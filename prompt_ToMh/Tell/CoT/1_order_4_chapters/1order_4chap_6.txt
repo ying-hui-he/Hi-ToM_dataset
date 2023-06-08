@@ -1,45 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jayden, Mila, Carter, Ethan and Gracie entered the porch.
-2 The grapefruit is in the green_suitcase.
-3 Jayden made no movements and stayed in the porch for 10 minutes.
-4 Jayden exited the porch and stayed in the waiting_room.
-5 Mila made no movements and stayed in the porch for 10 minutes.
-6 Mila exited the porch and stayed in the waiting_room.
-7 Carter made no movements and stayed in the porch for 10 minutes.
-8 Carter exited the porch and stayed in the waiting_room.
-9 Ethan moved the grapefruit to the red_envelope.
-10 Ethan exited the porch and stayed in the waiting_room.
-11 Gracie moved the grapefruit to the green_suitcase.
-12 Gracie exited the porch and stayed in the waiting_room.
-13 Ethan, Carter and Gracie entered the attic.
-14 The lime is in the red_suitcase.
-15 Ethan made no movements and stayed in the attic for 10 minutes.
-16 Ethan exited the attic and stayed in the waiting_room.
-17 Carter moved the lime to the red_treasure_chest.
-18 Carter exited the attic and stayed in the waiting_room.
-19 Gracie made no movements and stayed in the attic for 10 minutes.
-20 Gracie exited the attic and stayed in the waiting_room.
-21 Carter privately told Gracie that the lime is actually in the red_suitcase.
-22 Gracie privately told Mila that the lime is actually in the red_treasure_chest.
-23 Ethan, Mila, Carter and Gracie entered the attic.
-24 The carrot is in the red_basket.
-25 Ethan moved the carrot to the red_container.
-26 Ethan exited the attic and stayed in the waiting_room.
-27 Mila made no movements and stayed in the attic for 10 minutes.
-28 Mila exited the attic and stayed in the waiting_room.
-29 Carter moved the carrot to the red_treasure_chest.
-30 Carter exited the attic and stayed in the waiting_room.
-31 Gracie made no movements and stayed in the attic for 10 minutes.
-32 Gracie exited the attic and stayed in the waiting_room.
-33 Ethan and Mila entered the porch.
-34 The celery is in the red_crate.
-35 Ethan made no movements and stayed in the porch for 10 minutes.
-36 Ethan exited the porch and stayed in the waiting_room.
-37 Mila moved the celery to the red_bucket.
-38 Mila exited the porch and stayed in the waiting_room.
-39 Mila publicly claimed that celery is in the green_bottle.
-40 Ethan privately told Mila that the celery is actually in the red_bucket.
-Question: Where does Gracie think the grapefruit is?
-Choices: A. blue_bucket, B. green_crate, C. blue_bathtub, D. blue_treasure_chest, E. blue_suitcase, F. red_basket, G. red_suitcase, H. blue_basket, I. red_container, J. red_treasure_chest, K. green_suitcase, L. red_crate, M. green_bottle, N. red_bucket, O. red_envelope
+1 Jack, Aria, Alexander, Isla and Emily entered the back_yard.
+2 The tomato is in the red_bucket.
+3 Jack made no movements and stayed in the back_yard for 10 minutes.
+4 Jack exited the back_yard and stayed in the waiting_room.
+5 Aria moved the tomato to the green_bathtub.
+6 Aria exited the back_yard and stayed in the waiting_room.
+7 Alexander moved the tomato to the red_pantry.
+8 Alexander exited the back_yard and stayed in the waiting_room.
+9 Isla moved the tomato to the green_cupboard.
+10 Isla exited the back_yard and stayed in the waiting_room.
+11 Emily made no movements and stayed in the back_yard for 10 minutes.
+12 Emily exited the back_yard and stayed in the waiting_room.
+13 Emily, Isla and Aria entered the garden.
+14 The tangerine is in the green_pantry.
+15 Emily made no movements and stayed in the garden for 10 minutes.
+16 Emily exited the garden and stayed in the waiting_room.
+17 Isla made no movements and stayed in the garden for 10 minutes.
+18 Isla exited the garden and stayed in the waiting_room.
+19 Aria moved the tangerine to the blue_cupboard.
+20 Aria exited the garden and stayed in the waiting_room.
+21 Isla publicly claimed that tangerine is in the green_bottle.
+22 Aria privately told Isla that the tangerine is actually in the green_treasure_chest.
+23 Isla, Alexander, Aria and Jack entered the crawlspace.
+24 The peach is in the red_treasure_chest.
+25 Isla moved the peach to the blue_bottle.
+26 Isla exited the crawlspace and stayed in the waiting_room.
+27 Alexander moved the peach to the green_bucket.
+28 Alexander exited the crawlspace and stayed in the waiting_room.
+29 Aria moved the peach to the red_box.
+30 Aria exited the crawlspace and stayed in the waiting_room.
+31 Jack made no movements and stayed in the crawlspace for 10 minutes.
+32 Jack exited the crawlspace and stayed in the waiting_room.
+33 Isla saw a dog.
+34 Jack and Alexander entered the back_yard.
+35 The green_pepper is in the green_bathtub.
+36 Jack moved the green_pepper to the red_pantry.
+37 Jack exited the back_yard and stayed in the waiting_room.
+38 Alexander made no movements and stayed in the back_yard for 10 minutes.
+39 Alexander exited the back_yard and stayed in the waiting_room.
+40 Jack publicly claimed that green_pepper is in the red_basket.
+41 Alexander privately told Jack that the green_pepper is actually in the green_cupboard.
+Question: Where does Jack think the tomato is?
+Choices: A. red_bucket, B. green_bathtub, C. red_basket, D. green_cupboard, E. red_pantry, F. green_bucket, G. red_treasure_chest, H. red_envelope, I. blue_bottle, J. red_box, K. green_pantry, L. blue_cupboard, M. blue_treasure_chest, N. green_bottle, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

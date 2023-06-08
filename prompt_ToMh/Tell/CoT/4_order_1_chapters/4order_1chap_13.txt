@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aiden, Abigail, Noah, William and Evelyn entered the TV_room.
-2 The asparagus is in the blue_treasure_chest.
-3 Aiden moved the asparagus to the blue_container.
-4 Aiden exited the TV_room and stayed in the waiting_room.
-5 Abigail moved the asparagus to the blue_bucket.
-6 Abigail exited the TV_room and stayed in the waiting_room.
-7 Noah made no movements and stayed in the TV_room for 10 minutes.
-8 Noah exited the TV_room and stayed in the waiting_room.
-9 William made no movements and stayed in the TV_room for 10 minutes.
-10 William exited the TV_room and stayed in the waiting_room.
-11 Evelyn made no movements and stayed in the TV_room for 10 minutes.
-12 Evelyn exited the TV_room and stayed in the waiting_room.
-13 Noah privately told Aiden that the asparagus is actually in the red_bucket.
-14 Abigail privately told William that the asparagus is actually in the blue_basket.
-Question: Where does Evelyn think William thinks Noah thinks Aiden thinks the asparagus is?
-Choices: A. red_basket, B. blue_suitcase, C. red_container, D. blue_bottle, E. red_crate, F. red_suitcase, G. green_bathtub, H. green_container, I. blue_envelope, J. blue_bathtub, K. blue_treasure_chest, L. blue_bucket, M. red_bucket, N. blue_basket, O. blue_container
+1 Jackson, Mason, Lucas, Chloe and Liam entered the crawlspace.
+2 The grapefruit is in the red_bottle.
+3 Jackson moved the grapefruit to the green_cupboard.
+4 Jackson exited the crawlspace and stayed in the waiting_room.
+5 Mason moved the grapefruit to the green_envelope.
+6 Mason exited the crawlspace and stayed in the waiting_room.
+7 Lucas moved the grapefruit to the blue_bathtub.
+8 Lucas exited the crawlspace and stayed in the waiting_room.
+9 Chloe moved the grapefruit to the green_treasure_chest.
+10 Chloe exited the crawlspace and stayed in the waiting_room.
+11 Liam made no movements and stayed in the crawlspace for 10 minutes.
+12 Liam exited the crawlspace and stayed in the waiting_room.
+13 Lucas publicly claimed that grapefruit is in the blue_bathtub.
+14 Liam privately told Lucas that the grapefruit is actually in the green_treasure_chest.
+15 Chloe likes the green_bathtub.
+Question: Where does Chloe think Liam thinks Lucas thinks Jackson thinks the grapefruit is?
+Choices: A. green_treasure_chest, B. red_bottle, C. blue_bathtub, D. green_cupboard, E. green_envelope, F. red_treasure_chest, G. red_envelope, H. blue_treasure_chest, I. green_bathtub, J. red_basket, K. red_box, L. green_box, M. red_container, N. blue_cupboard, O. blue_drawer
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

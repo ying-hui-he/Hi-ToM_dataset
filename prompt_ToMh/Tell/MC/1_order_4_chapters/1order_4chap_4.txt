@@ -1,45 +1,52 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Ella, Benjamin, Aiden and Gracie entered the basement.
-2 The lemon is in the green_bottle.
-3 Evelyn moved the lemon to the red_envelope.
-4 Evelyn exited the basement and stayed in the waiting_room.
-5 Ella moved the lemon to the green_cupboard.
-6 Ella exited the basement and stayed in the waiting_room.
-7 Benjamin made no movements and stayed in the basement for 10 minutes.
-8 Benjamin exited the basement and stayed in the waiting_room.
-9 Aiden moved the lemon to the blue_container.
-10 Aiden exited the basement and stayed in the waiting_room.
-11 Gracie made no movements and stayed in the basement for 10 minutes.
-12 Gracie exited the basement and stayed in the waiting_room.
-13 Aiden, Ella and Benjamin entered the office.
-14 The tomato is in the green_container.
-15 Aiden moved the tomato to the red_bathtub.
-16 Aiden exited the office and stayed in the waiting_room.
-17 Ella moved the tomato to the green_treasure_chest.
-18 Ella exited the office and stayed in the waiting_room.
-19 Benjamin made no movements and stayed in the office for 10 minutes.
-20 Benjamin exited the office and stayed in the waiting_room.
-21 Ella privately told Benjamin that the tomato is actually in the red_bathtub.
-22 Benjamin privately told Gracie that the tomato is actually in the green_treasure_chest.
-23 Aiden, Benjamin, Gracie and Ella entered the basement.
-24 The lemon is in the blue_container.
-25 Aiden moved the lemon to the green_bottle.
-26 Aiden exited the basement and stayed in the waiting_room.
-27 Benjamin moved the lemon to the green_cupboard.
-28 Benjamin exited the basement and stayed in the waiting_room.
-29 Gracie moved the lemon to the blue_crate.
-30 Gracie exited the basement and stayed in the waiting_room.
-31 Ella moved the lemon to the red_envelope.
-32 Ella exited the basement and stayed in the waiting_room.
-33 Ella and Aiden entered the garden.
-34 The banana is in the red_drawer.
-35 Ella made no movements and stayed in the garden for 10 minutes.
-36 Ella exited the garden and stayed in the waiting_room.
-37 Aiden made no movements and stayed in the garden for 10 minutes.
-38 Aiden exited the garden and stayed in the waiting_room.
-39 Aiden publicly claimed that banana is in the blue_treasure_chest.
-40 Ella privately told Aiden that the banana is actually in the red_drawer.
-Question: Where does Aiden think the lemon is?
-Choices: A. red_drawer, B. blue_treasure_chest, C. blue_envelope, D. red_bucket, E. blue_suitcase, F. green_container, G. blue_bathtub, H. red_bathtub, I. blue_bucket, J. green_treasure_chest, K. green_bottle, L. green_cupboard, M. blue_crate, N. blue_container, O. red_envelope
+1 Mila, Logan, Nathan, Ethan and Alexander entered the dining_room.
+2 The beans is in the blue_bottle.
+3 Mila moved the beans to the red_treasure_chest.
+4 Mila exited the dining_room and stayed in the waiting_room.
+5 Logan moved the beans to the red_box.
+6 Alexander saw a mouse.
+7 Logan exited the dining_room and stayed in the waiting_room.
+8 Logan lost his watch.
+9 Nathan made no movements and stayed in the dining_room for 10 minutes.
+10 Nathan exited the dining_room and stayed in the waiting_room.
+11 Ethan moved the beans to the red_bottle.
+12 Ethan exited the dining_room and stayed in the waiting_room.
+13 Alexander made no movements and stayed in the dining_room for 10 minutes.
+14 Alexander exited the dining_room and stayed in the waiting_room.
+15 Logan, Mila and Alexander entered the front_yard.
+16 The tangerine is in the blue_bucket.
+17 Ethan dislikes the tangerine.
+18 Logan moved the tangerine to the blue_treasure_chest.
+19 Logan exited the front_yard and stayed in the waiting_room.
+20 Mila moved the tangerine to the red_crate.
+21 Mila exited the front_yard and stayed in the waiting_room.
+22 Alexander moved the tangerine to the blue_cupboard.
+23 Alexander exited the front_yard and stayed in the waiting_room.
+24 Alexander publicly claimed that tangerine is in the blue_treasure_chest.
+25 Nathan dislikes the pineapple.
+26 Logan privately told Alexander that the tangerine is actually in the red_crate.
+27 Alexander, Mila, Nathan and Ethan entered the front_yard.
+28 The tangerine is in the blue_cupboard.
+29 Alexander moved the tangerine to the blue_bucket.
+30 Alexander exited the front_yard and stayed in the waiting_room.
+31 Mila moved the tangerine to the red_crate.
+32 Mila exited the front_yard and stayed in the waiting_room.
+33 Nathan made no movements and stayed in the front_yard for 10 minutes.
+34 Nathan exited the front_yard and stayed in the waiting_room.
+35 Mila lost his watch.
+36 Ethan moved the tangerine to the green_envelope.
+37 Mila likes the red_box.
+38 Ethan exited the front_yard and stayed in the waiting_room.
+39 Logan and Ethan entered the dining_room.
+40 The pineapple is in the red_treasure_chest.
+41 Logan made no movements and stayed in the dining_room for 10 minutes.
+42 Logan exited the dining_room and stayed in the waiting_room.
+43 Ethan made no movements and stayed in the dining_room for 10 minutes.
+44 Ethan exited the dining_room and stayed in the waiting_room.
+45 Logan publicly claimed that pineapple is in the red_treasure_chest.
+46 Logan saw a dog.
+47 Ethan privately told Logan that the pineapple is actually in the blue_bottle.
+Question: Where does Alexander think the beans is?
+Choices: A. blue_bottle, B. red_treasure_chest, C. red_bottle, D. red_box, E. red_pantry, F. green_pantry, G. red_container, H. green_bucket, I. green_treasure_chest, J. red_bucket, K. blue_bucket, L. green_envelope, M. red_crate, N. blue_cupboard, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

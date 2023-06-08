@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Amelia, Oliver, Abigail and Avery entered the den.
-2 The pumpkin is in the blue_treasure_chest.
-3 Emma moved the pumpkin to the red_envelope.
-4 Emma exited the den and stayed in the waiting_room.
-5 Amelia made no movements and stayed in the den for 10 minutes.
-6 Amelia exited the den and stayed in the waiting_room.
-7 Oliver made no movements and stayed in the den for 10 minutes.
-8 Oliver exited the den and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the den for 10 minutes.
-10 Abigail exited the den and stayed in the waiting_room.
-11 Avery moved the pumpkin to the blue_treasure_chest.
-12 Avery exited the den and stayed in the waiting_room.
-13 Oliver privately told Emma that the pumpkin is actually in the red_treasure_chest.
-14 Amelia privately told Abigail that the pumpkin is actually in the red_envelope.
-15 Abigail, Oliver and Avery entered the bathroom.
-16 The corn is in the green_container.
-17 Abigail made no movements and stayed in the bathroom for 10 minutes.
-18 Abigail exited the bathroom and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the bathroom for 10 minutes.
-20 Oliver exited the bathroom and stayed in the waiting_room.
-21 Avery moved the corn to the green_crate.
-22 Avery exited the bathroom and stayed in the waiting_room.
-23 Avery, Abigail, Amelia and Oliver entered the den.
-24 The cherry is in the red_envelope.
-25 Avery made no movements and stayed in the den for 10 minutes.
-26 Avery exited the den and stayed in the waiting_room.
-27 Abigail made no movements and stayed in the den for 10 minutes.
-28 Abigail exited the den and stayed in the waiting_room.
-29 Amelia moved the cherry to the blue_treasure_chest.
-30 Amelia exited the den and stayed in the waiting_room.
-31 Oliver moved the cherry to the red_treasure_chest.
-32 Oliver exited the den and stayed in the waiting_room.
-33 Avery publicly claimed that cherry is in the blue_drawer.
-34 Oliver privately told Emma that the cherry is actually in the red_treasure_chest.
-Question: Where does Avery think Abigail thinks Emma thinks Oliver thinks the pumpkin is?
+1 Ava, Jack, Abigail, Jacob and Jackson entered the attic.
+2 Jacob lost his phone.
+3 The cabbage is in the blue_bathtub.
+4 Ava moved the cabbage to the red_crate.
+5 Ava exited the attic and stayed in the waiting_room.
+6 Jack made no movements and stayed in the attic for 10 minutes.
+7 Jack exited the attic and stayed in the waiting_room.
+8 Abigail moved the cabbage to the blue_envelope.
+9 Abigail exited the attic and stayed in the waiting_room.
+10 Jacob made no movements and stayed in the attic for 10 minutes.
+11 Jacob exited the attic and stayed in the waiting_room.
+12 Jackson moved the cabbage to the blue_bathtub.
+13 Jackson exited the attic and stayed in the waiting_room.
+14 Abigail publicly claimed that cabbage is in the blue_envelope.
+15 Jackson privately told Abigail that the cabbage is actually in the red_crate.
+16 Jack, Abigail and Ava entered the attic.
+17 Abigail likes the blue_bucket.
+18 The cabbage is in the blue_bathtub.
+19 Jack moved the cabbage to the red_bathtub.
+20 Jack exited the attic and stayed in the waiting_room.
+21 Abigail made no movements and stayed in the attic for 10 minutes.
+22 Abigail exited the attic and stayed in the waiting_room.
+23 Ava moved the cabbage to the red_crate.
+24 Ava exited the attic and stayed in the waiting_room.
+25 Abigail, Ava, Jack and Jackson entered the garage.
+26 The green_pepper is in the blue_bottle.
+27 Abigail made no movements and stayed in the garage for 10 minutes.
+28 Abigail exited the garage and stayed in the waiting_room.
+29 Abigail likes the green_pantry.
+30 Ava made no movements and stayed in the garage for 10 minutes.
+31 Jacob likes the red_basket.
+32 Ava exited the garage and stayed in the waiting_room.
+33 Jack moved the green_pepper to the red_basket.
+34 Jack exited the garage and stayed in the waiting_room.
+35 Jackson moved the green_pepper to the green_pantry.
+36 Jackson exited the garage and stayed in the waiting_room.
+37 Abigail publicly claimed that green_pepper is in the blue_bottle.
+38 Jackson privately told Jacob that the green_pepper is actually in the green_pantry.
+Question: Where does Abigail think Ava thinks Jack thinks Jackson thinks the cabbage is?
 Answer: None
-Choices: A. blue_treasure_chest, B. red_envelope, C. blue_drawer, D. red_treasure_chest, E. red_crate, F. green_container, G. green_bathtub, H. red_bucket, I. green_crate, J. blue_bucket, K. blue_pantry, L. blue_box, M. green_suitcase, N. green_cupboard, O. red_drawer
+Choices: A. blue_bottle, B. green_pantry, C. green_basket, D. blue_bucket, E. red_basket, F. blue_bathtub, G. red_bathtub, H. red_crate, I. red_cupboard, J. blue_envelope, K. green_envelope, L. red_bucket, M. red_bottle, N. red_box, O. green_bucket

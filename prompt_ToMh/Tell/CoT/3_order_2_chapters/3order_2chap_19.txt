@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Charlotte, Logan, Ava, Jackson and Gracie entered the patio.
-2 The peach is in the red_drawer.
-3 Charlotte made no movements and stayed in the patio for 10 minutes.
-4 Charlotte exited the patio and stayed in the waiting_room.
-5 Logan moved the peach to the blue_drawer.
-6 Logan exited the patio and stayed in the waiting_room.
-7 Ava moved the peach to the green_envelope.
-8 Ava exited the patio and stayed in the waiting_room.
-9 Jackson moved the peach to the blue_envelope.
-10 Jackson exited the patio and stayed in the waiting_room.
-11 Gracie made no movements and stayed in the patio for 10 minutes.
-12 Gracie exited the patio and stayed in the waiting_room.
-13 Gracie, Logan and Charlotte entered the patio.
-14 The radish is in the red_bottle.
-15 Gracie moved the radish to the red_drawer.
-16 Gracie exited the patio and stayed in the waiting_room.
-17 Logan made no movements and stayed in the patio for 10 minutes.
-18 Logan exited the patio and stayed in the waiting_room.
-19 Charlotte moved the radish to the blue_envelope.
-20 Charlotte exited the patio and stayed in the waiting_room.
-21 Charlotte publicly claimed that radish is in the red_bottle.
-22 Gracie privately told Charlotte that the radish is actually in the red_drawer.
-Question: Where does Jackson think Logan thinks Ava thinks the peach is?
-Choices: A. red_basket, B. blue_treasure_chest, C. green_bathtub, D. blue_container, E. green_bottle, F. red_container, G. green_crate, H. blue_crate, I. green_cupboard, J. blue_bathtub, K. red_drawer, L. red_bottle, M. green_envelope, N. blue_drawer, O. blue_envelope
+1 Ella, Mason, Sophia, Liam and Jacob entered the bedroom.
+2 The potato is in the blue_crate.
+3 Ella moved the potato to the green_cupboard.
+4 Ella exited the bedroom and stayed in the waiting_room.
+5 Mason moved the potato to the red_box.
+6 Mason exited the bedroom and stayed in the waiting_room.
+7 Sophia moved the potato to the red_bucket.
+8 Sophia exited the bedroom and stayed in the waiting_room.
+9 Liam moved the potato to the green_box.
+10 Liam saw a cat.
+11 Liam exited the bedroom and stayed in the waiting_room.
+12 Jacob likes the green_box.
+13 Jacob moved the potato to the blue_crate.
+14 Jacob exited the bedroom and stayed in the waiting_room.
+15 Liam, Sophia and Ella entered the front_yard.
+16 The asparagus is in the green_bucket.
+17 Liam made no movements and stayed in the front_yard for 10 minutes.
+18 Jacob saw a dog.
+19 Liam exited the front_yard and stayed in the waiting_room.
+20 Sophia made no movements and stayed in the front_yard for 10 minutes.
+21 Sophia exited the front_yard and stayed in the waiting_room.
+22 Ella moved the asparagus to the green_pantry.
+23 Ella exited the front_yard and stayed in the waiting_room.
+24 Sophia publicly claimed that asparagus is in the green_bucket.
+25 Ella privately told Sophia that the asparagus is actually in the green_pantry.
+26 Mason likes the green_suitcase.
+Question: Where does Jacob think Mason thinks Liam thinks the potato is?
+Choices: A. green_bucket, B. blue_bottle, C. red_envelope, D. green_bottle, E. green_pantry, F. blue_suitcase, G. red_bathtub, H. green_treasure_chest, I. green_suitcase, J. blue_treasure_chest, K. red_bucket, L. blue_crate, M. green_box, N. green_cupboard, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

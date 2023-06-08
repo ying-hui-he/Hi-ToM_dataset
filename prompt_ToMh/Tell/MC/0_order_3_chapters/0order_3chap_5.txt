@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Benjamin, Mila, Charlotte and Aria entered the crawlspace.
-2 The pear is in the red_bathtub.
-3 James made no movements and stayed in the crawlspace for 10 minutes.
-4 James exited the crawlspace and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the crawlspace for 10 minutes.
-6 Benjamin exited the crawlspace and stayed in the waiting_room.
-7 Mila moved the pear to the red_container.
-8 Mila exited the crawlspace and stayed in the waiting_room.
-9 Charlotte moved the pear to the blue_pantry.
-10 Charlotte exited the crawlspace and stayed in the waiting_room.
-11 Aria moved the pear to the red_bathtub.
-12 Aria exited the crawlspace and stayed in the waiting_room.
-13 Charlotte publicly claimed that pear is in the red_bathtub.
-14 Aria privately told James that the pear is actually in the red_bathtub.
-15 Mila, Benjamin and Aria entered the crawlspace.
-16 The pineapple is in the green_treasure_chest.
-17 Mila moved the pineapple to the blue_pantry.
-18 Mila exited the crawlspace and stayed in the waiting_room.
-19 Benjamin made no movements and stayed in the crawlspace for 10 minutes.
-20 Benjamin exited the crawlspace and stayed in the waiting_room.
-21 Aria moved the pineapple to the red_bottle.
-22 Aria exited the crawlspace and stayed in the waiting_room.
-23 Aria, Charlotte, James and Benjamin entered the playroom.
-24 The melon is in the green_envelope.
-25 Aria moved the melon to the red_suitcase.
-26 Aria exited the playroom and stayed in the waiting_room.
-27 Charlotte made no movements and stayed in the playroom for 10 minutes.
-28 Charlotte exited the playroom and stayed in the waiting_room.
-29 James moved the melon to the red_basket.
-30 James exited the playroom and stayed in the waiting_room.
-31 Benjamin moved the melon to the green_bathtub.
-32 Benjamin exited the playroom and stayed in the waiting_room.
-33 Charlotte privately told James that the melon is actually in the green_cupboard.
-34 Benjamin privately told Mila that the melon is actually in the green_bathtub.
-Question: Where is the pear really?
-Choices: A. blue_bathtub, B. red_envelope, C. blue_bucket, D. green_crate, E. green_suitcase, F. green_treasure_chest, G. red_bathtub, H. red_container, I. red_bottle, J. blue_pantry, K. green_envelope, L. red_basket, M. green_cupboard, N. green_bathtub, O. red_suitcase
+1 Isla dislikes the melon.
+2 Abigail, Ella, Aria, Mila and Isla entered the playroom.
+3 The cabbage is in the blue_cupboard.
+4 Abigail moved the cabbage to the blue_bucket.
+5 Abigail exited the playroom and stayed in the waiting_room.
+6 Ella moved the cabbage to the blue_suitcase.
+7 Ella exited the playroom and stayed in the waiting_room.
+8 Aria made no movements and stayed in the playroom for 10 minutes.
+9 Aria exited the playroom and stayed in the waiting_room.
+10 Mila made no movements and stayed in the playroom for 10 minutes.
+11 Mila exited the playroom and stayed in the waiting_room.
+12 Aria likes the green_box.
+13 Isla made no movements and stayed in the playroom for 10 minutes.
+14 Isla exited the playroom and stayed in the waiting_room.
+15 Aria privately told Abigail that the cabbage is actually in the blue_bucket.
+16 Ella privately told Mila that the cabbage is actually in the blue_treasure_chest.
+17 Aria, Mila and Isla entered the attic.
+18 The melon is in the green_treasure_chest.
+19 Aria moved the melon to the green_cupboard.
+20 Aria exited the attic and stayed in the waiting_room.
+21 Mila moved the melon to the red_bucket.
+22 Mila exited the attic and stayed in the waiting_room.
+23 Isla made no movements and stayed in the attic for 10 minutes.
+24 Isla exited the attic and stayed in the waiting_room.
+25 Mila, Aria, Ella and Isla entered the attic.
+26 The melon is in the red_bucket.
+27 Mila moved the melon to the green_cupboard.
+28 Mila exited the attic and stayed in the waiting_room.
+29 Aria made no movements and stayed in the attic for 10 minutes.
+30 Aria exited the attic and stayed in the waiting_room.
+31 Ella made no movements and stayed in the attic for 10 minutes.
+32 Ella exited the attic and stayed in the waiting_room.
+33 Isla made no movements and stayed in the attic for 10 minutes.
+34 Isla exited the attic and stayed in the waiting_room.
+35 Aria publicly claimed that melon is in the red_bucket.
+36 Isla privately told Ella that the melon is actually in the red_bottle.
+Question: Where is the cabbage really?
+Choices: A. green_box, B. red_basket, C. green_suitcase, D. blue_drawer, E. red_box, F. green_cupboard, G. green_treasure_chest, H. red_bathtub, I. red_bucket, J. red_bottle, K. blue_bucket, L. blue_cupboard, M. red_crate, N. blue_suitcase, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

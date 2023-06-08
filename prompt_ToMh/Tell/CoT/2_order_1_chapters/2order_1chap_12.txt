@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jayden, Logan, Amelia, Evelyn and Oliver entered the TV_room.
-2 The banana is in the red_treasure_chest.
-3 Jayden moved the banana to the blue_crate.
-4 Jayden exited the TV_room and stayed in the waiting_room.
-5 Logan moved the banana to the green_suitcase.
-6 Logan exited the TV_room and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the TV_room for 10 minutes.
-8 Amelia exited the TV_room and stayed in the waiting_room.
-9 Evelyn moved the banana to the red_basket.
-10 Evelyn exited the TV_room and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the TV_room for 10 minutes.
-12 Oliver exited the TV_room and stayed in the waiting_room.
-13 Evelyn publicly claimed that banana is in the blue_crate.
-14 Oliver privately told Jayden that the banana is actually in the red_basket.
-Question: Where does Amelia think Jayden thinks the banana is?
-Choices: A. green_bottle, B. green_crate, C. blue_container, D. blue_pantry, E. blue_box, F. green_bathtub, G. blue_bucket, H. blue_envelope, I. blue_basket, J. red_drawer, K. red_treasure_chest, L. green_suitcase, M. blue_treasure_chest, N. blue_crate, O. red_basket
+1 Nathan, Alexander, Jackson, Mia and Owen entered the crawlspace.
+2 The apple is in the blue_bucket.
+3 Nathan moved the apple to the red_envelope.
+4 Nathan exited the crawlspace and stayed in the waiting_room.
+5 Alexander made no movements and stayed in the crawlspace for 10 minutes.
+6 Alexander exited the crawlspace and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+8 Jackson exited the crawlspace and stayed in the waiting_room.
+9 Alexander likes the red_container.
+10 Mia made no movements and stayed in the crawlspace for 10 minutes.
+11 Mia exited the crawlspace and stayed in the waiting_room.
+12 Owen made no movements and stayed in the crawlspace for 10 minutes.
+13 Owen exited the crawlspace and stayed in the waiting_room.
+14 Jackson publicly claimed that apple is in the blue_cupboard.
+15 Owen privately told Jackson that the apple is actually in the green_envelope.
+Question: Where does Owen think Nathan thinks the apple is?
+Choices: A. red_pantry, B. blue_drawer, C. green_bucket, D. green_cupboard, E. blue_bathtub, F. red_container, G. blue_treasure_chest, H. green_bathtub, I. green_suitcase, J. green_treasure_chest, K. blue_bucket, L. green_envelope, M. blue_suitcase, N. blue_cupboard, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

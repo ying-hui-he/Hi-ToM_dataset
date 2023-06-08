@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jayden, James, Emma, Ethan and Jackson entered the living_room.
-2 The lime is in the blue_crate.
-3 Jayden moved the lime to the red_basket.
-4 Jayden exited the living_room and stayed in the waiting_room.
-5 James made no movements and stayed in the living_room for 10 minutes.
-6 James exited the living_room and stayed in the waiting_room.
-7 Emma moved the lime to the red_suitcase.
-8 Emma exited the living_room and stayed in the waiting_room.
-9 Ethan moved the lime to the blue_container.
-10 Ethan exited the living_room and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the living_room for 10 minutes.
-12 Jackson exited the living_room and stayed in the waiting_room.
-13 Ethan publicly claimed that lime is in the blue_crate.
-14 Jackson privately told Jayden that the lime is actually in the blue_container.
-15 Ethan, Jackson and Jayden entered the living_room.
-16 The cherry is in the blue_container.
-17 Ethan made no movements and stayed in the living_room for 10 minutes.
-18 Ethan exited the living_room and stayed in the waiting_room.
-19 Jackson made no movements and stayed in the living_room for 10 minutes.
-20 Jackson exited the living_room and stayed in the waiting_room.
-21 Jayden made no movements and stayed in the living_room for 10 minutes.
-22 Jayden exited the living_room and stayed in the waiting_room.
-23 Jackson, Jayden, James and Ethan entered the dining_room.
-24 The strawberry is in the red_drawer.
-25 Jackson moved the strawberry to the blue_basket.
-26 Jackson exited the dining_room and stayed in the waiting_room.
-27 Jayden made no movements and stayed in the dining_room for 10 minutes.
-28 Jayden exited the dining_room and stayed in the waiting_room.
-29 James made no movements and stayed in the dining_room for 10 minutes.
-30 James exited the dining_room and stayed in the waiting_room.
-31 Ethan moved the strawberry to the red_treasure_chest.
-32 Ethan exited the dining_room and stayed in the waiting_room.
-33 Jayden privately told James that the strawberry is actually in the red_treasure_chest.
-34 Ethan privately told Emma that the strawberry is actually in the red_treasure_chest.
-Question: Where does James think Ethan thinks Jayden thinks the lime is?
-Choices: A. green_cupboard, B. blue_bucket, C. red_envelope, D. blue_suitcase, E. blue_envelope, F. red_drawer, G. blue_basket, H. blue_drawer, I. red_treasure_chest, J. blue_bottle, K. blue_container, L. blue_crate, M. red_basket, N. red_suitcase, O. green_treasure_chest
+1 Isla, Jack, Ethan, Jackson and Ella entered the bedroom.
+2 The grapes is in the green_bathtub.
+3 Isla moved the grapes to the red_pantry.
+4 Isla exited the bedroom and stayed in the waiting_room.
+5 Jackson likes the green_bathtub.
+6 Jack moved the grapes to the red_box.
+7 Jack exited the bedroom and stayed in the waiting_room.
+8 Ethan moved the grapes to the green_envelope.
+9 Ethan exited the bedroom and stayed in the waiting_room.
+10 Jackson made no movements and stayed in the bedroom for 10 minutes.
+11 Jackson exited the bedroom and stayed in the waiting_room.
+12 Ella made no movements and stayed in the bedroom for 10 minutes.
+13 Ella exited the bedroom and stayed in the waiting_room.
+14 Jackson publicly claimed that grapes is in the green_bathtub.
+15 Ella privately told Isla that the grapes is actually in the green_envelope.
+16 Ethan, Jackson and Isla entered the master_bedroom.
+17 Isla likes the blue_drawer.
+18 The tomato is in the green_treasure_chest.
+19 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
+20 Ethan exited the master_bedroom and stayed in the waiting_room.
+21 Isla saw a dog.
+22 Jackson moved the tomato to the green_cupboard.
+23 Jackson exited the master_bedroom and stayed in the waiting_room.
+24 Isla moved the tomato to the blue_cupboard.
+25 Isla exited the master_bedroom and stayed in the waiting_room.
+26 Ethan, Jack, Jackson and Ella entered the bedroom.
+27 The asparagus is in the red_box.
+28 Ethan moved the asparagus to the green_bathtub.
+29 Ethan exited the bedroom and stayed in the waiting_room.
+30 Jack made no movements and stayed in the bedroom for 10 minutes.
+31 Jack exited the bedroom and stayed in the waiting_room.
+32 Jackson moved the asparagus to the blue_bucket.
+33 Jackson exited the bedroom and stayed in the waiting_room.
+34 Ella made no movements and stayed in the bedroom for 10 minutes.
+35 Ella exited the bedroom and stayed in the waiting_room.
+36 Jackson publicly claimed that asparagus is in the green_bathtub.
+37 Ethan privately told Ella that the asparagus is actually in the blue_bucket.
+Question: Where does Ella think Isla thinks Jack thinks the grapes is?
+Choices: A. red_box, B. green_bathtub, C. red_pantry, D. blue_bucket, E. green_envelope, F. green_treasure_chest, G. red_treasure_chest, H. green_cupboard, I. blue_cupboard, J. blue_suitcase, K. red_basket, L. green_pantry, M. blue_drawer, N. green_box, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

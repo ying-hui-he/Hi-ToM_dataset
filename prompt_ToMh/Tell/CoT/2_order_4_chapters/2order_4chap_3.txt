@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mia, Isla, Evelyn, Logan and Oliver entered the cellar.
-2 The apple is in the blue_basket.
-3 Mia moved the apple to the blue_bathtub.
-4 Mia exited the cellar and stayed in the waiting_room.
-5 Isla moved the apple to the blue_pantry.
-6 Isla exited the cellar and stayed in the waiting_room.
-7 Evelyn moved the apple to the red_suitcase.
-8 Evelyn exited the cellar and stayed in the waiting_room.
-9 Logan made no movements and stayed in the cellar for 10 minutes.
-10 Logan exited the cellar and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the cellar for 10 minutes.
-12 Oliver exited the cellar and stayed in the waiting_room.
-13 Logan, Oliver and Mia entered the playroom.
-14 The tangerine is in the red_drawer.
-15 Logan moved the tangerine to the green_suitcase.
-16 Logan exited the playroom and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the playroom for 10 minutes.
-18 Oliver exited the playroom and stayed in the waiting_room.
-19 Mia moved the tangerine to the green_crate.
-20 Mia exited the playroom and stayed in the waiting_room.
-21 Mia publicly claimed that tangerine is in the green_suitcase.
-22 Logan privately told Mia that the tangerine is actually in the blue_treasure_chest.
-23 Oliver, Logan, Evelyn and Mia entered the dining_room.
-24 The radish is in the green_bottle.
-25 Oliver moved the radish to the green_treasure_chest.
-26 Oliver exited the dining_room and stayed in the waiting_room.
-27 Logan moved the radish to the red_container.
-28 Logan exited the dining_room and stayed in the waiting_room.
-29 Evelyn moved the radish to the blue_container.
-30 Evelyn exited the dining_room and stayed in the waiting_room.
-31 Mia made no movements and stayed in the dining_room for 10 minutes.
-32 Mia exited the dining_room and stayed in the waiting_room.
-33 Oliver and Mia entered the playroom.
-34 The tangerine is in the green_crate.
-35 Oliver made no movements and stayed in the playroom for 10 minutes.
-36 Oliver exited the playroom and stayed in the waiting_room.
-37 Mia made no movements and stayed in the playroom for 10 minutes.
-38 Mia exited the playroom and stayed in the waiting_room.
-39 Mia publicly claimed that tangerine is in the green_envelope.
-40 Oliver privately told Mia that the tangerine is actually in the green_suitcase.
-Question: Where does Oliver think Evelyn thinks the apple is?
-Choices: A. red_drawer, B. green_crate, C. green_envelope, D. blue_treasure_chest, E. green_suitcase, F. blue_basket, G. red_suitcase, H. blue_envelope, I. blue_pantry, J. blue_bathtub, K. red_treasure_chest, L. green_bottle, M. red_container, N. green_treasure_chest, O. blue_container
+1 Amelia, Jacob, Isla, Hannah and Aiden entered the back_yard.
+2 The pineapple is in the blue_drawer.
+3 Amelia made no movements and stayed in the back_yard for 10 minutes.
+4 Amelia exited the back_yard and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the back_yard for 10 minutes.
+6 Jacob exited the back_yard and stayed in the waiting_room.
+7 Isla made no movements and stayed in the back_yard for 10 minutes.
+8 Isla exited the back_yard and stayed in the waiting_room.
+9 Hannah moved the pineapple to the blue_cupboard.
+10 Hannah exited the back_yard and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the back_yard for 10 minutes.
+12 Aiden exited the back_yard and stayed in the waiting_room.
+13 Aiden, Jacob and Hannah entered the back_yard.
+14 Isla saw a mouse.
+15 The pineapple is in the blue_cupboard.
+16 Aiden made no movements and stayed in the back_yard for 10 minutes.
+17 Aiden exited the back_yard and stayed in the waiting_room.
+18 Jacob made no movements and stayed in the back_yard for 10 minutes.
+19 Jacob exited the back_yard and stayed in the waiting_room.
+20 Hannah moved the pineapple to the red_box.
+21 Hannah exited the back_yard and stayed in the waiting_room.
+22 Aiden publicly claimed that pineapple is in the blue_bottle.
+23 Hannah privately told Isla that the pineapple is actually in the red_box.
+24 Hannah, Aiden, Jacob and Isla entered the closet.
+25 The tangerine is in the red_cupboard.
+26 Hannah made no movements and stayed in the closet for 10 minutes.
+27 Jacob saw a mouse.
+28 Hannah exited the closet and stayed in the waiting_room.
+29 Aiden moved the tangerine to the red_bucket.
+30 Aiden exited the closet and stayed in the waiting_room.
+31 Jacob lost his watch.
+32 Jacob made no movements and stayed in the closet for 10 minutes.
+33 Jacob exited the closet and stayed in the waiting_room.
+34 Isla made no movements and stayed in the closet for 10 minutes.
+35 Isla exited the closet and stayed in the waiting_room.
+36 Isla and Amelia entered the garden.
+37 The beans is in the blue_crate.
+38 Isla moved the beans to the blue_treasure_chest.
+39 Isla exited the garden and stayed in the waiting_room.
+40 Amelia made no movements and stayed in the garden for 10 minutes.
+41 Amelia exited the garden and stayed in the waiting_room.
+42 Isla privately told Jacob that the beans is actually in the blue_crate.
+Question: Where does Jacob think Hannah thinks the pineapple is?
+Choices: A. blue_drawer, B. blue_cupboard, C. blue_bottle, D. red_box, E. blue_suitcase, F. green_basket, G. blue_crate, H. green_treasure_chest, I. blue_treasure_chest, J. green_box, K. red_bathtub, L. red_cupboard, M. blue_bucket, N. blue_envelope, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,45 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Ella, Charlotte, Aiden and Jayden entered the patio.
-2 The green_pepper is in the blue_bathtub.
-3 Olivia moved the green_pepper to the green_cupboard.
-4 Olivia exited the patio and stayed in the waiting_room.
-5 Ella moved the green_pepper to the blue_box.
-6 Ella exited the patio and stayed in the waiting_room.
-7 Charlotte moved the green_pepper to the green_envelope.
-8 Charlotte exited the patio and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the patio for 10 minutes.
-10 Aiden exited the patio and stayed in the waiting_room.
-11 Jayden made no movements and stayed in the patio for 10 minutes.
-12 Jayden exited the patio and stayed in the waiting_room.
-13 Aiden, Olivia and Charlotte entered the patio.
-14 The pear is in the green_envelope.
-15 Aiden moved the pear to the blue_bathtub.
-16 Aiden exited the patio and stayed in the waiting_room.
-17 Olivia moved the pear to the blue_basket.
-18 Olivia exited the patio and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the patio for 10 minutes.
-20 Charlotte exited the patio and stayed in the waiting_room.
-21 Charlotte publicly claimed that pear is in the green_envelope.
-22 Aiden privately told Charlotte that the pear is actually in the blue_basket.
-23 Olivia, Aiden, Jayden and Ella entered the cellar.
-24 The onion is in the green_bottle.
-25 Olivia moved the onion to the green_crate.
-26 Olivia exited the cellar and stayed in the waiting_room.
-27 Aiden made no movements and stayed in the cellar for 10 minutes.
-28 Aiden exited the cellar and stayed in the waiting_room.
-29 Jayden made no movements and stayed in the cellar for 10 minutes.
-30 Jayden exited the cellar and stayed in the waiting_room.
-31 Ella moved the onion to the blue_bucket.
-32 Ella exited the cellar and stayed in the waiting_room.
-33 Jayden and Charlotte entered the cellar.
-34 The onion is in the blue_bucket.
-35 Jayden moved the onion to the blue_drawer.
-36 Jayden exited the cellar and stayed in the waiting_room.
-37 Charlotte made no movements and stayed in the cellar for 10 minutes.
-38 Charlotte exited the cellar and stayed in the waiting_room.
-39 Charlotte publicly claimed that onion is in the blue_bucket.
-40 Jayden privately told Charlotte that the onion is actually in the green_crate.
-Question: Where does Aiden think the green_pepper is?
-Choices: A. blue_drawer, B. green_bottle, C. red_bottle, D. blue_bucket, E. green_crate, F. green_suitcase, G. blue_suitcase, H. red_bathtub, I. red_suitcase, J. red_treasure_chest, K. green_envelope, L. blue_bathtub, M. blue_box, N. blue_basket, O. green_cupboard
+1 Ava, Ella, Alexander, Aiden and Jackson entered the master_bedroom.
+2 The carrot is in the red_bucket.
+3 Ava made no movements and stayed in the master_bedroom for 10 minutes.
+4 Ava exited the master_bedroom and stayed in the waiting_room.
+5 Ella made no movements and stayed in the master_bedroom for 10 minutes.
+6 Ella exited the master_bedroom and stayed in the waiting_room.
+7 Alexander moved the carrot to the green_box.
+8 Alexander exited the master_bedroom and stayed in the waiting_room.
+9 Aiden moved the carrot to the blue_suitcase.
+10 Aiden exited the master_bedroom and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the master_bedroom for 10 minutes.
+12 Jackson exited the master_bedroom and stayed in the waiting_room.
+13 Aiden, Jackson and Ava entered the porch.
+14 The cucumber is in the red_pantry.
+15 Aiden moved the cucumber to the red_crate.
+16 Ava lost his watch.
+17 Aiden exited the porch and stayed in the waiting_room.
+18 Jackson made no movements and stayed in the porch for 10 minutes.
+19 Jackson exited the porch and stayed in the waiting_room.
+20 Ava made no movements and stayed in the porch for 10 minutes.
+21 Ava exited the porch and stayed in the waiting_room.
+22 Jackson privately told Ava that the cucumber is actually in the red_basket.
+23 Ava privately told Alexander that the cucumber is actually in the red_crate.
+24 Alexander, Ava, Ella and Jackson entered the master_bedroom.
+25 Ella dislikes the broccoli.
+26 The carrot is in the blue_suitcase.
+27 Alexander moved the carrot to the red_treasure_chest.
+28 Alexander exited the master_bedroom and stayed in the waiting_room.
+29 Ava made no movements and stayed in the master_bedroom for 10 minutes.
+30 Ava exited the master_bedroom and stayed in the waiting_room.
+31 Ella moved the carrot to the red_bucket.
+32 Ella exited the master_bedroom and stayed in the waiting_room.
+33 Jackson moved the carrot to the green_bottle.
+34 Jackson exited the master_bedroom and stayed in the waiting_room.
+35 Ella and Aiden entered the master_bedroom.
+36 The carrot is in the green_bottle.
+37 Ella moved the carrot to the green_box.
+38 Ella exited the master_bedroom and stayed in the waiting_room.
+39 Aiden made no movements and stayed in the master_bedroom for 10 minutes.
+40 Aiden exited the master_bedroom and stayed in the waiting_room.
+41 Ella privately told Alexander that the carrot is actually in the red_treasure_chest.
+Question: Where does Ella think the carrot is?
+Choices: A. green_bathtub, B. red_pantry, C. red_basket, D. red_crate, E. blue_crate, F. red_bucket, G. red_treasure_chest, H. green_box, I. blue_suitcase, J. green_bottle, K. green_cupboard, L. red_envelope, M. blue_bathtub, N. blue_envelope, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

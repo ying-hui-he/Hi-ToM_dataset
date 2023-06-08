@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Noah, Ava, Hannah, Emily and Emma entered the staircase.
-2 The radish is in the green_suitcase.
-3 Noah made no movements and stayed in the staircase for 10 minutes.
-4 Noah exited the staircase and stayed in the waiting_room.
-5 Ava made no movements and stayed in the staircase for 10 minutes.
-6 Ava exited the staircase and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the staircase for 10 minutes.
-8 Hannah exited the staircase and stayed in the waiting_room.
-9 Emily moved the radish to the red_envelope.
-10 Emily exited the staircase and stayed in the waiting_room.
-11 Emma moved the radish to the green_suitcase.
-12 Emma exited the staircase and stayed in the waiting_room.
-13 Noah, Emily and Hannah entered the master_bedroom.
-14 The banana is in the green_container.
-15 Noah moved the banana to the green_crate.
-16 Noah exited the master_bedroom and stayed in the waiting_room.
-17 Emily made no movements and stayed in the master_bedroom for 10 minutes.
-18 Emily exited the master_bedroom and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the master_bedroom for 10 minutes.
-20 Hannah exited the master_bedroom and stayed in the waiting_room.
-21 Hannah, Ava, Noah and Emily entered the den.
-22 The celery is in the blue_crate.
-23 Hannah made no movements and stayed in the den for 10 minutes.
-24 Hannah exited the den and stayed in the waiting_room.
-25 Ava moved the celery to the blue_box.
-26 Ava exited the den and stayed in the waiting_room.
-27 Noah moved the celery to the red_bottle.
-28 Noah exited the den and stayed in the waiting_room.
-29 Emily moved the celery to the blue_bucket.
-30 Emily exited the den and stayed in the waiting_room.
-Question: Where does Emily think Emma thinks the radish is?
-Choices: A. blue_drawer, B. green_container, C. red_bathtub, D. green_treasure_chest, E. green_crate, F. blue_crate, G. blue_bathtub, H. blue_bucket, I. blue_box, J. red_bottle, K. red_treasure_chest, L. green_suitcase, M. red_drawer, N. blue_treasure_chest, O. red_envelope
+1 Jackson, Gracie, Liam, Chloe and Abigail entered the workshop.
+2 The banana is in the red_bottle.
+3 Jackson made no movements and stayed in the workshop for 10 minutes.
+4 Jackson exited the workshop and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the workshop for 10 minutes.
+6 Gracie exited the workshop and stayed in the waiting_room.
+7 Liam moved the banana to the red_basket.
+8 Liam exited the workshop and stayed in the waiting_room.
+9 Chloe made no movements and stayed in the workshop for 10 minutes.
+10 Chloe exited the workshop and stayed in the waiting_room.
+11 Liam lost his watch.
+12 Abigail made no movements and stayed in the workshop for 10 minutes.
+13 Abigail exited the workshop and stayed in the waiting_room.
+14 Liam, Abigail and Jackson entered the living_room.
+15 The cabbage is in the blue_suitcase.
+16 Liam moved the cabbage to the red_treasure_chest.
+17 Liam exited the living_room and stayed in the waiting_room.
+18 Abigail moved the cabbage to the red_container.
+19 Abigail exited the living_room and stayed in the waiting_room.
+20 Jackson moved the cabbage to the green_cupboard.
+21 Jackson exited the living_room and stayed in the waiting_room.
+22 Jackson lost his bottle.
+23 Liam, Chloe, Jackson and Gracie entered the workshop.
+24 The carrot is in the green_envelope.
+25 Liam made no movements and stayed in the workshop for 10 minutes.
+26 Liam exited the workshop and stayed in the waiting_room.
+27 Abigail lost his bottle.
+28 Chloe made no movements and stayed in the workshop for 10 minutes.
+29 Chloe exited the workshop and stayed in the waiting_room.
+30 Jackson moved the carrot to the green_bottle.
+31 Jackson exited the workshop and stayed in the waiting_room.
+32 Gracie moved the carrot to the red_bottle.
+33 Gracie exited the workshop and stayed in the waiting_room.
+34 Gracie likes the green_envelope.
+Question: Where does Abigail think Gracie thinks the banana is?
+Choices: A. red_bottle, B. green_envelope, C. blue_cupboard, D. green_bottle, E. red_basket, F. blue_suitcase, G. red_treasure_chest, H. red_container, I. green_bucket, J. green_cupboard, K. green_box, L. blue_bathtub, M. green_basket, N. blue_envelope, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jack, William, Hannah, Avery and Owen entered the hallway.
-2 The carrot is in the red_basket.
-3 Jack made no movements and stayed in the hallway for 10 minutes.
-4 Jack exited the hallway and stayed in the waiting_room.
-5 William moved the carrot to the blue_box.
-6 William exited the hallway and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the hallway for 10 minutes.
-8 Hannah exited the hallway and stayed in the waiting_room.
-9 Avery moved the carrot to the blue_bucket.
-10 Avery exited the hallway and stayed in the waiting_room.
-11 Owen moved the carrot to the red_basket.
-12 Owen exited the hallway and stayed in the waiting_room.
-13 Hannah, William and Jack entered the study.
-14 The tomato is in the red_crate.
-15 Hannah made no movements and stayed in the study for 10 minutes.
-16 Hannah exited the study and stayed in the waiting_room.
-17 William moved the tomato to the blue_bottle.
-18 William exited the study and stayed in the waiting_room.
-19 Jack made no movements and stayed in the study for 10 minutes.
-20 Jack exited the study and stayed in the waiting_room.
-21 William privately told Jack that the tomato is actually in the red_bathtub.
-22 Jack privately told Owen that the tomato is actually in the blue_bottle.
-23 William, Hannah, Owen and Jack entered the hallway.
-24 The strawberry is in the blue_crate.
-25 William moved the strawberry to the red_basket.
-26 William exited the hallway and stayed in the waiting_room.
-27 Hannah made no movements and stayed in the hallway for 10 minutes.
-28 Hannah exited the hallway and stayed in the waiting_room.
-29 Owen moved the strawberry to the blue_bucket.
-30 Owen exited the hallway and stayed in the waiting_room.
-31 Jack made no movements and stayed in the hallway for 10 minutes.
-32 Jack exited the hallway and stayed in the waiting_room.
-33 William and Hannah entered the study.
-34 The tomato is in the blue_bottle.
-35 William moved the tomato to the red_crate.
-36 William exited the study and stayed in the waiting_room.
-37 Hannah made no movements and stayed in the study for 10 minutes.
-38 Hannah exited the study and stayed in the waiting_room.
-39 William publicly claimed that tomato is in the blue_bottle.
-40 Hannah privately told William that the tomato is actually in the red_crate.
-Question: Where does Avery think Hannah thinks the carrot is?
-Choices: A. green_treasure_chest, B. red_treasure_chest, C. red_envelope, D. red_bucket, E. blue_container, F. blue_crate, G. red_basket, H. blue_box, I. blue_bucket, J. red_suitcase, K. red_crate, L. red_bathtub, M. green_cupboard, N. blue_bottle, O. blue_pantry
+1 Nathan, Jayden, Abigail, Mason and Ava entered the cellar.
+2 The turnip is in the red_cupboard.
+3 Nathan moved the turnip to the green_pantry.
+4 Nathan exited the cellar and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the cellar for 10 minutes.
+6 Jayden exited the cellar and stayed in the waiting_room.
+7 Abigail moved the turnip to the red_bottle.
+8 Abigail exited the cellar and stayed in the waiting_room.
+9 Mason moved the turnip to the red_container.
+10 Mason exited the cellar and stayed in the waiting_room.
+11 Ava moved the turnip to the red_cupboard.
+12 Ava exited the cellar and stayed in the waiting_room.
+13 Nathan, Abigail and Ava entered the TV_room.
+14 Abigail likes the red_container.
+15 The cucumber is in the green_treasure_chest.
+16 Nathan made no movements and stayed in the TV_room for 10 minutes.
+17 Nathan exited the TV_room and stayed in the waiting_room.
+18 Abigail moved the cucumber to the green_bottle.
+19 Abigail exited the TV_room and stayed in the waiting_room.
+20 Jayden saw a dog.
+21 Ava made no movements and stayed in the TV_room for 10 minutes.
+22 Ava exited the TV_room and stayed in the waiting_room.
+23 Abigail privately told Ava that the cucumber is actually in the red_bathtub.
+24 Ava privately told Mason that the cucumber is actually in the green_bottle.
+25 Abigail likes the blue_crate.
+26 Mason, Abigail, Jayden and Nathan entered the crawlspace.
+27 The lemon is in the blue_envelope.
+28 Mason made no movements and stayed in the crawlspace for 10 minutes.
+29 Jayden lost his phone.
+30 Mason exited the crawlspace and stayed in the waiting_room.
+31 Abigail moved the lemon to the red_box.
+32 Abigail exited the crawlspace and stayed in the waiting_room.
+33 Jayden made no movements and stayed in the crawlspace for 10 minutes.
+34 Jayden exited the crawlspace and stayed in the waiting_room.
+35 Nathan moved the lemon to the red_crate.
+36 Nathan exited the crawlspace and stayed in the waiting_room.
+37 Jayden and Nathan entered the TV_room.
+38 Mason dislikes the tomato.
+39 The cucumber is in the green_bottle.
+40 Jayden made no movements and stayed in the TV_room for 10 minutes.
+41 Jayden exited the TV_room and stayed in the waiting_room.
+42 Nathan moved the cucumber to the green_treasure_chest.
+43 Nathan exited the TV_room and stayed in the waiting_room.
+44 Jayden publicly claimed that cucumber is in the blue_treasure_chest.
+45 Nathan privately told Jayden that the cucumber is actually in the green_bottle.
+Question: Where does Ava think Nathan thinks the turnip is?
+Choices: A. blue_treasure_chest, B. green_treasure_chest, C. blue_crate, D. red_bathtub, E. green_bottle, F. red_cupboard, G. red_bottle, H. red_container, I. green_pantry, J. green_bucket, K. green_suitcase, L. blue_envelope, M. red_box, N. red_crate, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

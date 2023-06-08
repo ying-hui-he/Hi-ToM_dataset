@@ -1,45 +1,54 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Ella, Gracie, Emily and Hannah entered the TV_room.
-2 The beans is in the blue_envelope.
-3 Jackson made no movements and stayed in the TV_room for 10 minutes.
-4 Jackson exited the TV_room and stayed in the waiting_room.
-5 Ella moved the beans to the red_drawer.
-6 Ella exited the TV_room and stayed in the waiting_room.
-7 Gracie moved the beans to the red_crate.
-8 Gracie exited the TV_room and stayed in the waiting_room.
-9 Emily made no movements and stayed in the TV_room for 10 minutes.
-10 Emily exited the TV_room and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the TV_room for 10 minutes.
-12 Hannah exited the TV_room and stayed in the waiting_room.
-13 Jackson, Ella and Emily entered the TV_room.
-14 The beans is in the red_crate.
-15 Jackson moved the beans to the red_envelope.
-16 Jackson exited the TV_room and stayed in the waiting_room.
-17 Ella made no movements and stayed in the TV_room for 10 minutes.
-18 Ella exited the TV_room and stayed in the waiting_room.
-19 Emily made no movements and stayed in the TV_room for 10 minutes.
-20 Emily exited the TV_room and stayed in the waiting_room.
-21 Emily publicly claimed that beans is in the red_envelope.
-22 Jackson privately told Emily that the beans is actually in the red_drawer.
-23 Jackson, Hannah, Ella and Gracie entered the front_yard.
-24 The plum is in the blue_bucket.
-25 Jackson moved the plum to the green_crate.
-26 Jackson exited the front_yard and stayed in the waiting_room.
-27 Hannah made no movements and stayed in the front_yard for 10 minutes.
-28 Hannah exited the front_yard and stayed in the waiting_room.
-29 Ella moved the plum to the blue_pantry.
-30 Ella exited the front_yard and stayed in the waiting_room.
-31 Gracie moved the plum to the red_container.
-32 Gracie exited the front_yard and stayed in the waiting_room.
-33 Jackson and Ella entered the TV_room.
-34 The beans is in the red_envelope.
-35 Jackson moved the beans to the red_drawer.
-36 Jackson exited the TV_room and stayed in the waiting_room.
-37 Ella made no movements and stayed in the TV_room for 10 minutes.
-38 Ella exited the TV_room and stayed in the waiting_room.
-39 Ella publicly claimed that beans is in the blue_container.
-40 Jackson privately told Ella that the beans is actually in the red_drawer.
-Question: Where does Emily think Jackson thinks Gracie thinks Hannah thinks the beans is?
+1 Mia, Liam, Jayden, Alexander and Sophia entered the workshop.
+2 The peach is in the red_bucket.
+3 Mia made no movements and stayed in the workshop for 10 minutes.
+4 Mia lost his phone.
+5 Mia exited the workshop and stayed in the waiting_room.
+6 Alexander saw a mouse.
+7 Liam made no movements and stayed in the workshop for 10 minutes.
+8 Liam likes the red_envelope.
+9 Liam exited the workshop and stayed in the waiting_room.
+10 Jayden likes the red_basket.
+11 Jayden made no movements and stayed in the workshop for 10 minutes.
+12 Jayden exited the workshop and stayed in the waiting_room.
+13 Alexander made no movements and stayed in the workshop for 10 minutes.
+14 Alexander exited the workshop and stayed in the waiting_room.
+15 Sophia moved the peach to the red_bucket.
+16 Sophia exited the workshop and stayed in the waiting_room.
+17 Jayden likes the red_bucket.
+18 Alexander, Liam and Sophia entered the workshop.
+19 The pineapple is in the green_box.
+20 Alexander moved the pineapple to the blue_bathtub.
+21 Alexander exited the workshop and stayed in the waiting_room.
+22 Liam made no movements and stayed in the workshop for 10 minutes.
+23 Liam exited the workshop and stayed in the waiting_room.
+24 Sophia moved the pineapple to the red_box.
+25 Sophia exited the workshop and stayed in the waiting_room.
+26 Liam publicly claimed that pineapple is in the blue_bathtub.
+27 Sophia privately told Liam that the pineapple is actually in the red_crate.
+28 Sophia, Jayden, Mia and Alexander entered the sunroom.
+29 The beans is in the red_basket.
+30 Liam saw a dog.
+31 Sophia made no movements and stayed in the sunroom for 10 minutes.
+32 Sophia exited the sunroom and stayed in the waiting_room.
+33 Mia lost his bottle.
+34 Jayden made no movements and stayed in the sunroom for 10 minutes.
+35 Jayden exited the sunroom and stayed in the waiting_room.
+36 Mia made no movements and stayed in the sunroom for 10 minutes.
+37 Mia exited the sunroom and stayed in the waiting_room.
+38 Alexander saw a mouse.
+39 Alexander made no movements and stayed in the sunroom for 10 minutes.
+40 Alexander exited the sunroom and stayed in the waiting_room.
+41 Alexander and Jayden entered the workshop.
+42 Sophia saw a cat.
+43 The pineapple is in the red_box.
+44 Alexander made no movements and stayed in the workshop for 10 minutes.
+45 Alexander exited the workshop and stayed in the waiting_room.
+46 Jayden made no movements and stayed in the workshop for 10 minutes.
+47 Jayden exited the workshop and stayed in the waiting_room.
+48 Alexander publicly claimed that pineapple is in the green_box.
+49 Jayden privately told Alexander that the pineapple is actually in the blue_bathtub.
+Question: Where does Mia think Liam thinks Sophia thinks Alexander thinks the peach is?
 Answer: None
-Choices: A. blue_treasure_chest, B. green_suitcase, C. red_bottle, D. green_bathtub, E. green_cupboard, F. blue_bucket, G. blue_crate, H. red_container, I. blue_pantry, J. green_crate, K. blue_envelope, L. red_envelope, M. red_crate, N. blue_container, O. red_drawer
+Choices: A. red_bucket, B. green_box, C. blue_bathtub, D. red_box, E. red_crate, F. blue_cupboard, G. red_cupboard, H. red_envelope, I. green_bottle, J. red_pantry, K. green_pantry, L. red_basket, M. red_bathtub, N. green_bucket, O. blue_bucket

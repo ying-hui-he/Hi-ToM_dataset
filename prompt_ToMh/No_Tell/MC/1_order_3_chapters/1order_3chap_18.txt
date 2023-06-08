@@ -1,35 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Charlotte, Emma, Jackson, Gracie and Hannah entered the kitchen.
-2 The spinach is in the red_bathtub.
-3 Charlotte made no movements and stayed in the kitchen for 10 minutes.
-4 Charlotte exited the kitchen and stayed in the waiting_room.
-5 Emma made no movements and stayed in the kitchen for 10 minutes.
-6 Emma exited the kitchen and stayed in the waiting_room.
-7 Jackson moved the spinach to the blue_crate.
-8 Jackson exited the kitchen and stayed in the waiting_room.
-9 Gracie made no movements and stayed in the kitchen for 10 minutes.
-10 Gracie exited the kitchen and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the kitchen for 10 minutes.
-12 Hannah exited the kitchen and stayed in the waiting_room.
-13 Emma, Charlotte and Gracie entered the bathroom.
-14 The persimmon is in the red_envelope.
-15 Emma made no movements and stayed in the bathroom for 10 minutes.
-16 Emma exited the bathroom and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the bathroom for 10 minutes.
-18 Charlotte exited the bathroom and stayed in the waiting_room.
-19 Gracie moved the persimmon to the green_treasure_chest.
-20 Gracie exited the bathroom and stayed in the waiting_room.
-21 Jackson, Hannah, Gracie and Emma entered the bathroom.
-22 The cucumber is in the blue_bathtub.
-23 Jackson made no movements and stayed in the bathroom for 10 minutes.
-24 Jackson exited the bathroom and stayed in the waiting_room.
-25 Hannah made no movements and stayed in the bathroom for 10 minutes.
-26 Hannah exited the bathroom and stayed in the waiting_room.
-27 Gracie moved the cucumber to the green_treasure_chest.
-28 Gracie exited the bathroom and stayed in the waiting_room.
-29 Emma made no movements and stayed in the bathroom for 10 minutes.
-30 Emma exited the bathroom and stayed in the waiting_room.
-Question: Where does Hannah think the spinach is?
-Choices: A. blue_envelope, B. blue_container, C. green_crate, D. blue_suitcase, E. blue_treasure_chest, F. blue_bathtub, G. red_envelope, H. green_treasure_chest, I. red_basket, J. red_treasure_chest, K. red_bathtub, L. green_envelope, M. blue_drawer, N. blue_crate, O. red_crate
+1 Jacob, Emma, Gracie, Hannah and Logan entered the basement.
+2 The pumpkin is in the blue_bucket.
+3 Jacob lost his phone.
+4 Jacob moved the pumpkin to the blue_bottle.
+5 Jacob exited the basement and stayed in the waiting_room.
+6 Logan lost his phone.
+7 Emma made no movements and stayed in the basement for 10 minutes.
+8 Emma exited the basement and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the basement for 10 minutes.
+10 Gracie exited the basement and stayed in the waiting_room.
+11 Hannah moved the pumpkin to the green_box.
+12 Logan likes the blue_bucket.
+13 Hannah exited the basement and stayed in the waiting_room.
+14 Logan moved the pumpkin to the blue_bucket.
+15 Logan exited the basement and stayed in the waiting_room.
+16 Emma, Hannah and Gracie entered the kitchen.
+17 Emma dislikes the celery.
+18 The apple is in the green_suitcase.
+19 Emma made no movements and stayed in the kitchen for 10 minutes.
+20 Hannah lost his phone.
+21 Emma exited the kitchen and stayed in the waiting_room.
+22 Hannah moved the apple to the blue_envelope.
+23 Hannah exited the kitchen and stayed in the waiting_room.
+24 Gracie moved the apple to the red_box.
+25 Gracie exited the kitchen and stayed in the waiting_room.
+26 Gracie, Hannah, Emma and Jacob entered the master_bedroom.
+27 The grapefruit is in the red_crate.
+28 Gracie moved the grapefruit to the green_pantry.
+29 Gracie exited the master_bedroom and stayed in the waiting_room.
+30 Hannah moved the grapefruit to the green_basket.
+31 Hannah exited the master_bedroom and stayed in the waiting_room.
+32 Emma moved the grapefruit to the green_cupboard.
+33 Emma exited the master_bedroom and stayed in the waiting_room.
+34 Jacob likes the green_bucket.
+35 Jacob moved the grapefruit to the red_envelope.
+36 Jacob exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Jacob think the pumpkin is?
+Choices: A. red_crate, B. red_envelope, C. green_basket, D. green_cupboard, E. green_pantry, F. blue_envelope, G. green_suitcase, H. green_bucket, I. red_pantry, J. red_box, K. green_box, L. blue_bucket, M. blue_bottle, N. blue_cupboard, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

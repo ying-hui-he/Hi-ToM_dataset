@@ -1,44 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Oliver, Logan, Aiden and Carter entered the TV_room.
-2 The radish is in the blue_box.
-3 Owen made no movements and stayed in the TV_room for 10 minutes.
-4 Owen exited the TV_room and stayed in the waiting_room.
-5 Oliver moved the radish to the blue_pantry.
-6 Oliver exited the TV_room and stayed in the waiting_room.
-7 Logan made no movements and stayed in the TV_room for 10 minutes.
-8 Logan exited the TV_room and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the TV_room for 10 minutes.
-10 Aiden exited the TV_room and stayed in the waiting_room.
-11 Carter made no movements and stayed in the TV_room for 10 minutes.
-12 Carter exited the TV_room and stayed in the waiting_room.
-13 Oliver, Owen and Aiden entered the study.
-14 The spinach is in the blue_drawer.
-15 Oliver made no movements and stayed in the study for 10 minutes.
-16 Oliver exited the study and stayed in the waiting_room.
-17 Owen made no movements and stayed in the study for 10 minutes.
-18 Owen exited the study and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the study for 10 minutes.
-20 Aiden exited the study and stayed in the waiting_room.
-21 Owen privately told Aiden that the spinach is actually in the red_bottle.
-22 Aiden privately told Carter that the spinach is actually in the blue_drawer.
-23 Carter, Aiden, Logan and Oliver entered the TV_room.
-24 The radish is in the blue_pantry.
-25 Carter made no movements and stayed in the TV_room for 10 minutes.
-26 Carter exited the TV_room and stayed in the waiting_room.
-27 Aiden moved the radish to the blue_box.
-28 Aiden exited the TV_room and stayed in the waiting_room.
-29 Logan made no movements and stayed in the TV_room for 10 minutes.
-30 Logan exited the TV_room and stayed in the waiting_room.
-31 Oliver made no movements and stayed in the TV_room for 10 minutes.
-32 Oliver exited the TV_room and stayed in the waiting_room.
-33 Owen and Logan entered the study.
-34 The turnip is in the red_bucket.
-35 Owen moved the turnip to the blue_drawer.
-36 Owen exited the study and stayed in the waiting_room.
-37 Logan moved the turnip to the red_envelope.
-38 Logan exited the study and stayed in the waiting_room.
-39 Owen privately told Carter that the turnip is actually in the red_bottle.
-Question: Where does Oliver think Owen thinks Carter thinks the radish is?
-Answer: None
-Choices: A. red_bathtub, B. blue_box, C. red_container, D. green_crate, E. blue_pantry, F. green_suitcase, G. red_crate, H. blue_bathtub, I. red_drawer, J. blue_treasure_chest, K. blue_drawer, L. red_bucket, M. red_envelope, N. red_bottle, O. green_envelope
+1 Mila, Ava, Charlotte, Isla and Aiden entered the kitchen.
+2 The asparagus is in the blue_bottle.
+3 Mila made no movements and stayed in the kitchen for 10 minutes.
+4 Mila exited the kitchen and stayed in the waiting_room.
+5 Ava made no movements and stayed in the kitchen for 10 minutes.
+6 Ava exited the kitchen and stayed in the waiting_room.
+7 Charlotte moved the asparagus to the green_basket.
+8 Charlotte exited the kitchen and stayed in the waiting_room.
+9 Isla moved the asparagus to the red_envelope.
+10 Isla exited the kitchen and stayed in the waiting_room.
+11 Aiden dislikes the carrot.
+12 Aiden made no movements and stayed in the kitchen for 10 minutes.
+13 Aiden exited the kitchen and stayed in the waiting_room.
+14 Aiden, Charlotte and Ava entered the front_yard.
+15 The grapefruit is in the green_bucket.
+16 Aiden moved the grapefruit to the blue_treasure_chest.
+17 Aiden exited the front_yard and stayed in the waiting_room.
+18 Charlotte moved the grapefruit to the green_suitcase.
+19 Charlotte exited the front_yard and stayed in the waiting_room.
+20 Mila likes the blue_envelope.
+21 Ava made no movements and stayed in the front_yard for 10 minutes.
+22 Ava exited the front_yard and stayed in the waiting_room.
+23 Aiden publicly claimed that grapefruit is in the green_suitcase.
+24 Ava privately told Isla that the grapefruit is actually in the green_suitcase.
+25 Charlotte, Ava, Isla and Mila entered the front_yard.
+26 The grapefruit is in the green_suitcase.
+27 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+28 Charlotte exited the front_yard and stayed in the waiting_room.
+29 Ava made no movements and stayed in the front_yard for 10 minutes.
+30 Ava exited the front_yard and stayed in the waiting_room.
+31 Charlotte dislikes the onion.
+32 Isla made no movements and stayed in the front_yard for 10 minutes.
+33 Isla exited the front_yard and stayed in the waiting_room.
+34 Mila moved the grapefruit to the blue_suitcase.
+35 Mila exited the front_yard and stayed in the waiting_room.
+36 Ava and Mila entered the front_yard.
+37 The banana is in the blue_suitcase.
+38 Ava moved the banana to the green_bucket.
+39 Ava exited the front_yard and stayed in the waiting_room.
+40 Mila moved the banana to the green_suitcase.
+41 Mila exited the front_yard and stayed in the waiting_room.
+42 Ava privately told Charlotte that the banana is actually in the blue_suitcase.
+Question: Where does Ava think Isla thinks Aiden thinks the asparagus is?
+Answer: blue_bottle
+Choices: A. blue_bottle, B. red_crate, C. green_envelope, D. red_envelope, E. green_basket, F. green_bucket, G. blue_suitcase, H. red_cupboard, I. blue_treasure_chest, J. green_suitcase, K. red_basket, L. blue_bathtub, M. green_bathtub, N. red_pantry, O. blue_envelope

@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Charlotte, Ava, Emma, Evelyn and Abigail entered the patio.
-2 The pear is in the blue_suitcase.
-3 Charlotte moved the pear to the blue_basket.
-4 Charlotte exited the patio and stayed in the waiting_room.
-5 Ava made no movements and stayed in the patio for 10 minutes.
-6 Ava exited the patio and stayed in the waiting_room.
-7 Emma made no movements and stayed in the patio for 10 minutes.
-8 Emma exited the patio and stayed in the waiting_room.
-9 Evelyn moved the pear to the red_envelope.
-10 Evelyn exited the patio and stayed in the waiting_room.
-11 Abigail moved the pear to the blue_suitcase.
-12 Abigail exited the patio and stayed in the waiting_room.
-Question: Where does Charlotte think the pear is?
-Choices: A. green_bottle, B. blue_suitcase, C. blue_basket, D. red_suitcase, E. red_envelope, F. blue_bathtub, G. green_crate, H. green_treasure_chest, I. green_cupboard, J. green_suitcase, K. green_envelope, L. red_bathtub, M. blue_container, N. red_drawer, O. green_bathtub
+1 Owen, Ava, Liam, Gracie and Abigail entered the study.
+2 The pumpkin is in the red_bucket.
+3 Owen moved the pumpkin to the green_bottle.
+4 Owen exited the study and stayed in the waiting_room.
+5 Ava moved the pumpkin to the blue_drawer.
+6 Ava exited the study and stayed in the waiting_room.
+7 Liam made no movements and stayed in the study for 10 minutes.
+8 Liam exited the study and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the study for 10 minutes.
+10 Liam saw a mouse.
+11 Gracie exited the study and stayed in the waiting_room.
+12 Abigail made no movements and stayed in the study for 10 minutes.
+13 Abigail exited the study and stayed in the waiting_room.
+14 Owen dislikes the onion.
+Question: Where does Liam think the pumpkin is?
+Choices: A. blue_drawer, B. red_bucket, C. blue_bottle, D. red_basket, E. green_bottle, F. red_cupboard, G. red_bottle, H. green_bathtub, I. blue_crate, J. red_container, K. green_pantry, L. green_suitcase, M. blue_bathtub, N. blue_bucket, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

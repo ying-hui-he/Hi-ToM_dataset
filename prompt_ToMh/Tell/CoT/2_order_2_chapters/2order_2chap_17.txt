@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Logan, Carter, Isla and Noah entered the porch.
-2 The peach is in the green_envelope.
-3 Avery moved the peach to the blue_envelope.
-4 Avery exited the porch and stayed in the waiting_room.
-5 Logan moved the peach to the green_treasure_chest.
-6 Logan exited the porch and stayed in the waiting_room.
-7 Carter made no movements and stayed in the porch for 10 minutes.
-8 Carter exited the porch and stayed in the waiting_room.
-9 Isla made no movements and stayed in the porch for 10 minutes.
-10 Isla exited the porch and stayed in the waiting_room.
-11 Noah moved the peach to the green_envelope.
-12 Noah exited the porch and stayed in the waiting_room.
-13 Avery, Noah and Logan entered the porch.
-14 The peach is in the green_envelope.
-15 Avery made no movements and stayed in the porch for 10 minutes.
-16 Avery exited the porch and stayed in the waiting_room.
-17 Noah made no movements and stayed in the porch for 10 minutes.
-18 Noah exited the porch and stayed in the waiting_room.
-19 Logan made no movements and stayed in the porch for 10 minutes.
-20 Logan exited the porch and stayed in the waiting_room.
-21 Avery publicly claimed that peach is in the red_container.
-22 Logan privately told Isla that the peach is actually in the green_envelope.
-Question: Where does Carter think Isla thinks the peach is?
-Choices: A. blue_drawer, B. green_cupboard, C. blue_bottle, D. red_drawer, E. blue_treasure_chest, F. green_bottle, G. blue_suitcase, H. blue_box, I. red_basket, J. blue_pantry, K. green_envelope, L. blue_envelope, M. green_crate, N. red_container, O. green_treasure_chest
+1 Jayden dislikes the corn.
+2 Chloe, Emma, Jayden, Carter and Mason entered the den.
+3 The lettuce is in the green_basket.
+4 Chloe made no movements and stayed in the den for 10 minutes.
+5 Chloe exited the den and stayed in the waiting_room.
+6 Emma moved the lettuce to the blue_bottle.
+7 Emma exited the den and stayed in the waiting_room.
+8 Jayden moved the lettuce to the red_treasure_chest.
+9 Jayden exited the den and stayed in the waiting_room.
+10 Carter moved the lettuce to the green_suitcase.
+11 Carter exited the den and stayed in the waiting_room.
+12 Mason moved the lettuce to the green_basket.
+13 Mason exited the den and stayed in the waiting_room.
+14 Emma, Mason and Chloe entered the laundry.
+15 Chloe saw a mouse.
+16 The cabbage is in the blue_envelope.
+17 Jayden dislikes the corn.
+18 Emma made no movements and stayed in the laundry for 10 minutes.
+19 Emma exited the laundry and stayed in the waiting_room.
+20 Mason moved the cabbage to the blue_suitcase.
+21 Mason exited the laundry and stayed in the waiting_room.
+22 Chloe moved the cabbage to the red_envelope.
+23 Mason saw a cat.
+24 Chloe exited the laundry and stayed in the waiting_room.
+25 Chloe publicly claimed that cabbage is in the blue_envelope.
+26 Emma privately told Chloe that the cabbage is actually in the blue_suitcase.
+Question: Where does Jayden think Mason thinks the lettuce is?
+Choices: A. blue_envelope, B. red_pantry, C. blue_cupboard, D. blue_suitcase, E. red_envelope, F. blue_treasure_chest, G. blue_bathtub, H. blue_crate, I. red_box, J. green_cupboard, K. green_basket, L. red_treasure_chest, M. blue_bottle, N. green_envelope, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

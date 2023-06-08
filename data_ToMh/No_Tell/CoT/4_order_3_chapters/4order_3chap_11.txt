@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Owen, Isla, Avery, Ethan and Gracie entered the hall.
-2 The onion is in the red_treasure_chest.
-3 Owen moved the onion to the green_bottle.
-4 Owen exited the hall and stayed in the waiting_room.
-5 Isla made no movements and stayed in the hall for 10 minutes.
-6 Isla exited the hall and stayed in the waiting_room.
-7 Avery moved the onion to the green_crate.
-8 Avery exited the hall and stayed in the waiting_room.
-9 Ethan moved the onion to the blue_crate.
-10 Ethan exited the hall and stayed in the waiting_room.
-11 Gracie moved the onion to the red_treasure_chest.
-12 Gracie exited the hall and stayed in the waiting_room.
-13 Owen, Avery and Ethan entered the hall.
-14 The onion is in the red_treasure_chest.
-15 Owen made no movements and stayed in the hall for 10 minutes.
-16 Owen exited the hall and stayed in the waiting_room.
-17 Avery moved the onion to the blue_crate.
-18 Avery exited the hall and stayed in the waiting_room.
-19 Ethan moved the onion to the green_bottle.
-20 Ethan exited the hall and stayed in the waiting_room.
-21 Ethan, Owen, Avery and Isla entered the hall.
-22 The onion is in the green_bottle.
-23 Ethan moved the onion to the green_crate.
-24 Ethan exited the hall and stayed in the waiting_room.
-25 Owen made no movements and stayed in the hall for 10 minutes.
-26 Owen exited the hall and stayed in the waiting_room.
-27 Avery made no movements and stayed in the hall for 10 minutes.
-28 Avery exited the hall and stayed in the waiting_room.
-29 Isla moved the onion to the red_bucket.
-30 Isla exited the hall and stayed in the waiting_room.
-Question: Where does Isla think Ethan thinks Gracie thinks Owen thinks the onion is?
-Answer: green_bottle
-Choices: A. blue_bucket, B. red_suitcase, C. blue_envelope, D. blue_container, E. blue_pantry, F. red_basket, G. green_suitcase, H. blue_treasure_chest, I. blue_bathtub, J. blue_box, K. green_bottle, L. red_treasure_chest, M. blue_crate, N. red_bucket, O. green_crate
+1 Owen, Jack, Alexander, Ava and Gracie entered the lounge.
+2 The lettuce is in the red_container.
+3 Owen made no movements and stayed in the lounge for 10 minutes.
+4 Owen exited the lounge and stayed in the waiting_room.
+5 Jack moved the lettuce to the green_treasure_chest.
+6 Jack exited the lounge and stayed in the waiting_room.
+7 Alexander moved the lettuce to the red_bottle.
+8 Alexander exited the lounge and stayed in the waiting_room.
+9 Ava moved the lettuce to the blue_suitcase.
+10 Ava exited the lounge and stayed in the waiting_room.
+11 Gracie moved the lettuce to the red_container.
+12 Gracie exited the lounge and stayed in the waiting_room.
+13 Ava saw a mouse.
+14 Gracie, Jack and Ava entered the front_yard.
+15 The carrot is in the green_box.
+16 Gracie moved the carrot to the blue_bathtub.
+17 Gracie exited the front_yard and stayed in the waiting_room.
+18 Jack dislikes the peas.
+19 Jack made no movements and stayed in the front_yard for 10 minutes.
+20 Jack exited the front_yard and stayed in the waiting_room.
+21 Ava moved the carrot to the red_treasure_chest.
+22 Ava exited the front_yard and stayed in the waiting_room.
+23 Owen, Ava, Gracie and Jack entered the lounge.
+24 The lettuce is in the red_container.
+25 Ava dislikes the lettuce.
+26 Owen made no movements and stayed in the lounge for 10 minutes.
+27 Owen exited the lounge and stayed in the waiting_room.
+28 Ava moved the lettuce to the green_treasure_chest.
+29 Ava exited the lounge and stayed in the waiting_room.
+30 Gracie made no movements and stayed in the lounge for 10 minutes.
+31 Gracie exited the lounge and stayed in the waiting_room.
+32 Jack moved the lettuce to the blue_envelope.
+33 Jack exited the lounge and stayed in the waiting_room.
+Question: Where does Ava think Jack thinks Gracie thinks Owen thinks the lettuce is?
+Answer: None
+Choices: A. red_container, B. blue_suitcase, C. red_bottle, D. green_treasure_chest, E. blue_envelope, F. green_box, G. red_treasure_chest, H. blue_bathtub, I. green_basket, J. red_pantry, K. green_bucket, L. blue_drawer, M. red_envelope, N. green_bathtub, O. red_bucket

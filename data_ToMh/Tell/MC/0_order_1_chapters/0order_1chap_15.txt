@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 William, Logan, Abigail, Ethan and Charlotte entered the cellar.
-2 The carrot is in the green_container.
-3 William made no movements and stayed in the cellar for 10 minutes.
-4 William exited the cellar and stayed in the waiting_room.
-5 Logan made no movements and stayed in the cellar for 10 minutes.
-6 Logan exited the cellar and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the cellar for 10 minutes.
-8 Abigail exited the cellar and stayed in the waiting_room.
-9 Ethan moved the carrot to the red_envelope.
-10 Ethan exited the cellar and stayed in the waiting_room.
-11 Charlotte made no movements and stayed in the cellar for 10 minutes.
-12 Charlotte exited the cellar and stayed in the waiting_room.
-13 Abigail privately told William that the carrot is actually in the green_suitcase.
-14 Logan privately told Ethan that the carrot is actually in the red_suitcase.
-Question: Where is the carrot really?
-Answer: red_envelope
-Choices: A. blue_container, B. green_treasure_chest, C. green_bottle, D. blue_bottle, E. blue_envelope, F. blue_basket, G. red_container, H. green_bathtub, I. blue_bucket, J. red_basket, K. red_envelope, L. green_container, M. green_suitcase, N. red_suitcase, O. red_bottle
+1 Nathan, Carter, Lucas, Aria and Ava entered the hall.
+2 The pineapple is in the blue_drawer.
+3 Nathan made no movements and stayed in the hall for 10 minutes.
+4 Nathan exited the hall and stayed in the waiting_room.
+5 Carter made no movements and stayed in the hall for 10 minutes.
+6 Carter exited the hall and stayed in the waiting_room.
+7 Lucas moved the pineapple to the green_suitcase.
+8 Lucas exited the hall and stayed in the waiting_room.
+9 Aria moved the pineapple to the red_treasure_chest.
+10 Aria exited the hall and stayed in the waiting_room.
+11 Ava moved the pineapple to the blue_drawer.
+12 Ava exited the hall and stayed in the waiting_room.
+13 Nathan lost his watch.
+14 Aria publicly claimed that pineapple is in the blue_drawer.
+15 Ava privately told Nathan that the pineapple is actually in the blue_drawer.
+Question: Where is the pineapple really?
+Answer: blue_drawer
+Choices: A. blue_drawer, B. green_treasure_chest, C. green_suitcase, D. blue_suitcase, E. red_treasure_chest, F. red_envelope, G. red_container, H. green_bathtub, I. green_basket, J. blue_envelope, K. blue_bathtub, L. green_bottle, M. red_basket, N. blue_bottle, O. red_box

@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Charlotte, Ava, Noah, Benjamin and Mia entered the hall.
-2 The onion is in the green_envelope.
-3 Charlotte moved the onion to the green_crate.
-4 Charlotte exited the hall and stayed in the waiting_room.
-5 Ava moved the onion to the blue_basket.
-6 Ava exited the hall and stayed in the waiting_room.
-7 Noah made no movements and stayed in the hall for 10 minutes.
-8 Noah exited the hall and stayed in the waiting_room.
-9 Benjamin moved the onion to the blue_drawer.
-10 Benjamin exited the hall and stayed in the waiting_room.
-11 Mia moved the onion to the green_envelope.
-12 Mia exited the hall and stayed in the waiting_room.
-13 Benjamin, Mia and Charlotte entered the hall.
-14 The onion is in the green_envelope.
-15 Benjamin made no movements and stayed in the hall for 10 minutes.
-16 Benjamin exited the hall and stayed in the waiting_room.
-17 Mia made no movements and stayed in the hall for 10 minutes.
-18 Mia exited the hall and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the hall for 10 minutes.
-20 Charlotte exited the hall and stayed in the waiting_room.
-21 Benjamin publicly claimed that onion is in the green_crate.
-22 Charlotte privately told Noah that the onion is actually in the green_envelope.
-Question: Where does Charlotte think Noah thinks Mia thinks Benjamin thinks the onion is?
+1 Lucas, Gracie, Ava, Carter and Owen entered the study.
+2 The pumpkin is in the green_suitcase.
+3 Lucas moved the pumpkin to the blue_bathtub.
+4 Lucas exited the study and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the study for 10 minutes.
+6 Gracie exited the study and stayed in the waiting_room.
+7 Ava moved the pumpkin to the red_pantry.
+8 Ava exited the study and stayed in the waiting_room.
+9 Carter made no movements and stayed in the study for 10 minutes.
+10 Carter exited the study and stayed in the waiting_room.
+11 Owen made no movements and stayed in the study for 10 minutes.
+12 Owen exited the study and stayed in the waiting_room.
+13 Gracie, Carter and Lucas entered the sunroom.
+14 The potato is in the blue_suitcase.
+15 Carter likes the red_crate.
+16 Gracie moved the potato to the red_bathtub.
+17 Gracie exited the sunroom and stayed in the waiting_room.
+18 Carter made no movements and stayed in the sunroom for 10 minutes.
+19 Carter exited the sunroom and stayed in the waiting_room.
+20 Lucas made no movements and stayed in the sunroom for 10 minutes.
+21 Lucas exited the sunroom and stayed in the waiting_room.
+22 Carter dislikes the lettuce.
+23 Gracie publicly claimed that potato is in the green_pantry.
+24 Lucas privately told Owen that the potato is actually in the red_bathtub.
+25 Gracie dislikes the lettuce.
+Question: Where does Gracie think Carter thinks Lucas thinks Owen thinks the pumpkin is?
 Answer: None
-Choices: A. blue_pantry, B. blue_bucket, C. red_crate, D. green_bathtub, E. blue_treasure_chest, F. green_envelope, G. blue_basket, H. red_suitcase, I. green_crate, J. blue_drawer, K. red_treasure_chest, L. blue_crate, M. red_envelope, N. blue_box, O. green_suitcase
+Choices: A. red_box, B. blue_bottle, C. blue_cupboard, D. green_bucket, E. green_bathtub, F. red_treasure_chest, G. blue_suitcase, H. blue_bucket, I. green_pantry, J. red_bathtub, K. red_pantry, L. green_suitcase, M. red_crate, N. blue_bathtub, O. green_treasure_chest

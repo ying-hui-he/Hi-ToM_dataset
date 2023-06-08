@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Hannah, Evelyn, Charlotte and Abigail entered the closet.
-2 The peach is in the red_treasure_chest.
-3 Mia moved the peach to the red_envelope.
-4 Mia exited the closet and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the closet for 10 minutes.
-6 Hannah exited the closet and stayed in the waiting_room.
-7 Evelyn moved the peach to the blue_pantry.
-8 Evelyn exited the closet and stayed in the waiting_room.
-9 Charlotte moved the peach to the blue_envelope.
-10 Charlotte exited the closet and stayed in the waiting_room.
-11 Abigail made no movements and stayed in the closet for 10 minutes.
-12 Abigail exited the closet and stayed in the waiting_room.
-13 Evelyn publicly claimed that peach is in the blue_envelope.
-14 Abigail privately told Evelyn that the peach is actually in the red_treasure_chest.
-15 Charlotte, Hannah and Evelyn entered the workshop.
-16 The tomato is in the blue_container.
-17 Charlotte moved the tomato to the green_suitcase.
-18 Charlotte exited the workshop and stayed in the waiting_room.
-19 Hannah moved the tomato to the blue_bottle.
-20 Hannah exited the workshop and stayed in the waiting_room.
-21 Evelyn moved the tomato to the blue_crate.
-22 Evelyn exited the workshop and stayed in the waiting_room.
-23 Hannah, Evelyn, Abigail and Mia entered the closet.
-24 The green_pepper is in the blue_pantry.
-25 Hannah made no movements and stayed in the closet for 10 minutes.
-26 Hannah exited the closet and stayed in the waiting_room.
-27 Evelyn made no movements and stayed in the closet for 10 minutes.
-28 Evelyn exited the closet and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the closet for 10 minutes.
-30 Abigail exited the closet and stayed in the waiting_room.
-31 Mia made no movements and stayed in the closet for 10 minutes.
-32 Mia exited the closet and stayed in the waiting_room.
-33 Evelyn publicly claimed that green_pepper is in the blue_treasure_chest.
-34 Mia privately told Abigail that the green_pepper is actually in the blue_envelope.
-Question: Where does Hannah think Charlotte thinks Mia thinks Abigail thinks the peach is?
+1 Emma, Alexander, Jacob, Liam and Jayden entered the study.
+2 The asparagus is in the blue_cupboard.
+3 Emma made no movements and stayed in the study for 10 minutes.
+4 Emma exited the study and stayed in the waiting_room.
+5 Alexander moved the asparagus to the red_basket.
+6 Alexander exited the study and stayed in the waiting_room.
+7 Jacob made no movements and stayed in the study for 10 minutes.
+8 Jayden likes the blue_envelope.
+9 Jacob exited the study and stayed in the waiting_room.
+10 Liam moved the asparagus to the blue_bottle.
+11 Liam exited the study and stayed in the waiting_room.
+12 Emma dislikes the turnip.
+13 Jayden made no movements and stayed in the study for 10 minutes.
+14 Jayden exited the study and stayed in the waiting_room.
+15 Jacob privately told Emma that the asparagus is actually in the green_basket.
+16 Alexander privately told Liam that the asparagus is actually in the blue_cupboard.
+17 Jayden, Emma and Alexander entered the living_room.
+18 The onion is in the blue_crate.
+19 Jayden moved the onion to the red_cupboard.
+20 Jayden exited the living_room and stayed in the waiting_room.
+21 Emma made no movements and stayed in the living_room for 10 minutes.
+22 Emma exited the living_room and stayed in the waiting_room.
+23 Alexander made no movements and stayed in the living_room for 10 minutes.
+24 Alexander exited the living_room and stayed in the waiting_room.
+25 Alexander, Liam, Jayden and Emma entered the living_room.
+26 The cucumber is in the blue_envelope.
+27 Alexander made no movements and stayed in the living_room for 10 minutes.
+28 Alexander exited the living_room and stayed in the waiting_room.
+29 Liam made no movements and stayed in the living_room for 10 minutes.
+30 Liam exited the living_room and stayed in the waiting_room.
+31 Jayden made no movements and stayed in the living_room for 10 minutes.
+32 Liam lost his bottle.
+33 Jayden exited the living_room and stayed in the waiting_room.
+34 Emma moved the cucumber to the blue_crate.
+35 Liam likes the blue_bottle.
+36 Emma exited the living_room and stayed in the waiting_room.
+37 Alexander publicly claimed that cucumber is in the blue_envelope.
+38 Emma privately told Jacob that the cucumber is actually in the blue_crate.
+Question: Where does Jacob think Jayden thinks Liam thinks Emma thinks the asparagus is?
 Answer: None
-Choices: A. blue_container, B. blue_bottle, C. green_cupboard, D. blue_crate, E. green_suitcase, F. blue_pantry, G. red_treasure_chest, H. red_envelope, I. blue_treasure_chest, J. blue_envelope, K. red_basket, L. red_bottle, M. green_crate, N. blue_basket, O. green_container
+Choices: A. blue_crate, B. blue_envelope, C. red_cupboard, D. green_bucket, E. blue_bathtub, F. red_pantry, G. red_envelope, H. red_treasure_chest, I. red_bucket, J. red_crate, K. blue_bottle, L. blue_cupboard, M. green_basket, N. red_basket, O. green_treasure_chest

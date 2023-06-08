@@ -1,25 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Ava, James, Mila and Ella entered the den.
-2 The apple is in the red_drawer.
-3 Emma made no movements and stayed in the den for 10 minutes.
-4 Emma exited the den and stayed in the waiting_room.
-5 Ava moved the apple to the green_container.
-6 Ava exited the den and stayed in the waiting_room.
-7 James made no movements and stayed in the den for 10 minutes.
-8 James exited the den and stayed in the waiting_room.
-9 Mila moved the apple to the green_bottle.
-10 Mila exited the den and stayed in the waiting_room.
-11 Ella made no movements and stayed in the den for 10 minutes.
-12 Ella exited the den and stayed in the waiting_room.
-13 Ava, Mila and James entered the laundry.
-14 The grapefruit is in the red_suitcase.
-15 Ava made no movements and stayed in the laundry for 10 minutes.
-16 Ava exited the laundry and stayed in the waiting_room.
-17 Mila moved the grapefruit to the blue_bathtub.
-18 Mila exited the laundry and stayed in the waiting_room.
-19 James made no movements and stayed in the laundry for 10 minutes.
-20 James exited the laundry and stayed in the waiting_room.
-Question: Where does Ava think the apple is?
-Choices: A. blue_box, B. blue_bottle, C. blue_basket, D. blue_container, E. blue_crate, F. red_bathtub, G. red_suitcase, H. red_bottle, I. blue_bathtub, J. green_cupboard, K. blue_envelope, L. red_drawer, M. green_bottle, N. green_treasure_chest, O. green_container
+1 Emma, Isabella, Lucas, Charlotte and Nathan entered the office.
+2 Isabella dislikes the watermelon.
+3 The melon is in the red_box.
+4 Emma moved the melon to the blue_crate.
+5 Emma exited the office and stayed in the waiting_room.
+6 Isabella made no movements and stayed in the office for 10 minutes.
+7 Isabella exited the office and stayed in the waiting_room.
+8 Lucas moved the melon to the red_bathtub.
+9 Lucas exited the office and stayed in the waiting_room.
+10 Charlotte moved the melon to the red_bucket.
+11 Nathan likes the blue_crate.
+12 Charlotte exited the office and stayed in the waiting_room.
+13 Nathan moved the melon to the red_box.
+14 Nathan exited the office and stayed in the waiting_room.
+15 Nathan, Lucas and Emma entered the office.
+16 The watermelon is in the blue_crate.
+17 Nathan made no movements and stayed in the office for 10 minutes.
+18 Nathan exited the office and stayed in the waiting_room.
+19 Lucas made no movements and stayed in the office for 10 minutes.
+20 Lucas exited the office and stayed in the waiting_room.
+21 Emma moved the watermelon to the red_bucket.
+22 Emma exited the office and stayed in the waiting_room.
+Question: Where does Isabella think the melon is?
+Choices: A. blue_bathtub, B. green_bathtub, C. green_envelope, D. red_treasure_chest, E. green_bottle, F. red_cupboard, G. blue_cupboard, H. red_pantry, I. blue_treasure_chest, J. green_box, K. blue_crate, L. red_box, M. red_bucket, N. red_bottle, O. red_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

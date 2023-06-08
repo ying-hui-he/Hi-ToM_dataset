@@ -1,41 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 William, Hannah, Charlotte, Jack and Avery entered the pantry.
-2 The spinach is in the blue_box.
-3 William made no movements and stayed in the pantry for 10 minutes.
-4 William exited the pantry and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the pantry for 10 minutes.
-6 Hannah exited the pantry and stayed in the waiting_room.
-7 Charlotte made no movements and stayed in the pantry for 10 minutes.
-8 Charlotte exited the pantry and stayed in the waiting_room.
-9 Jack made no movements and stayed in the pantry for 10 minutes.
-10 Jack exited the pantry and stayed in the waiting_room.
-11 Avery moved the spinach to the blue_box.
-12 Avery exited the pantry and stayed in the waiting_room.
-13 Avery, William and Hannah entered the pantry.
-14 The spinach is in the blue_box.
-15 Avery made no movements and stayed in the pantry for 10 minutes.
-16 Avery exited the pantry and stayed in the waiting_room.
-17 William moved the spinach to the blue_crate.
-18 William exited the pantry and stayed in the waiting_room.
-19 Hannah moved the spinach to the blue_envelope.
-20 Hannah exited the pantry and stayed in the waiting_room.
-21 Jack, Charlotte, William and Hannah entered the sunroom.
-22 The potato is in the blue_bottle.
-23 Jack made no movements and stayed in the sunroom for 10 minutes.
-24 Jack exited the sunroom and stayed in the waiting_room.
-25 Charlotte made no movements and stayed in the sunroom for 10 minutes.
-26 Charlotte exited the sunroom and stayed in the waiting_room.
-27 William made no movements and stayed in the sunroom for 10 minutes.
-28 William exited the sunroom and stayed in the waiting_room.
-29 Hannah moved the potato to the red_envelope.
-30 Hannah exited the sunroom and stayed in the waiting_room.
-31 Avery and Hannah entered the kitchen.
-32 The grapefruit is in the red_bucket.
-33 Avery made no movements and stayed in the kitchen for 10 minutes.
-34 Avery exited the kitchen and stayed in the waiting_room.
-35 Hannah made no movements and stayed in the kitchen for 10 minutes.
-36 Hannah exited the kitchen and stayed in the waiting_room.
-Question: Where does Avery think Jack thinks the spinach is?
-Choices: A. blue_bottle, B. blue_pantry, C. blue_treasure_chest, D. red_envelope, E. blue_container, F. red_bottle, G. red_bucket, H. green_suitcase, I. blue_suitcase, J. green_cupboard, K. blue_basket, L. blue_box, M. blue_crate, N. blue_envelope, O. red_suitcase
+1 Aria, Isla, Alexander, Jackson and Mila entered the garage.
+2 The broccoli is in the green_pantry.
+3 Mila saw a cat.
+4 Aria moved the broccoli to the red_bathtub.
+5 Jackson saw a dog.
+6 Aria exited the garage and stayed in the waiting_room.
+7 Isla made no movements and stayed in the garage for 10 minutes.
+8 Isla exited the garage and stayed in the waiting_room.
+9 Alexander dislikes the apple.
+10 Alexander moved the broccoli to the red_container.
+11 Alexander exited the garage and stayed in the waiting_room.
+12 Isla lost his phone.
+13 Jackson made no movements and stayed in the garage for 10 minutes.
+14 Jackson exited the garage and stayed in the waiting_room.
+15 Mila made no movements and stayed in the garage for 10 minutes.
+16 Mila exited the garage and stayed in the waiting_room.
+17 Isla, Alexander and Mila entered the lounge.
+18 The apple is in the green_treasure_chest.
+19 Isla made no movements and stayed in the lounge for 10 minutes.
+20 Isla saw a dog.
+21 Isla exited the lounge and stayed in the waiting_room.
+22 Alexander moved the apple to the red_treasure_chest.
+23 Alexander exited the lounge and stayed in the waiting_room.
+24 Mila made no movements and stayed in the lounge for 10 minutes.
+25 Mila exited the lounge and stayed in the waiting_room.
+26 Mila, Alexander, Isla and Jackson entered the staircase.
+27 The asparagus is in the green_box.
+28 Aria saw a mouse.
+29 Mila made no movements and stayed in the staircase for 10 minutes.
+30 Mila exited the staircase and stayed in the waiting_room.
+31 Alexander moved the asparagus to the green_suitcase.
+32 Alexander exited the staircase and stayed in the waiting_room.
+33 Isla moved the asparagus to the red_bottle.
+34 Isla exited the staircase and stayed in the waiting_room.
+35 Jackson moved the asparagus to the green_basket.
+36 Jackson exited the staircase and stayed in the waiting_room.
+37 Mila and Jackson entered the staircase.
+38 The asparagus is in the green_basket.
+39 Mila moved the asparagus to the green_bucket.
+40 Mila exited the staircase and stayed in the waiting_room.
+41 Jackson made no movements and stayed in the staircase for 10 minutes.
+42 Jackson exited the staircase and stayed in the waiting_room.
+Question: Where does Mila think Aria thinks the broccoli is?
+Choices: A. green_treasure_chest, B. blue_bottle, C. red_treasure_chest, D. blue_bathtub, E. blue_suitcase, F. green_basket, G. green_box, H. red_bottle, I. green_suitcase, J. green_bucket, K. green_cupboard, L. green_pantry, M. red_bathtub, N. red_crate, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

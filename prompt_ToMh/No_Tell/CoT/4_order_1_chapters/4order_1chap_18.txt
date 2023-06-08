@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aiden, Ava, Abigail, Amelia and Aria entered the master_bedroom.
-2 The spinach is in the red_suitcase.
-3 Aiden made no movements and stayed in the master_bedroom for 10 minutes.
-4 Aiden exited the master_bedroom and stayed in the waiting_room.
-5 Ava moved the spinach to the red_basket.
-6 Ava exited the master_bedroom and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
-8 Abigail exited the master_bedroom and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the master_bedroom for 10 minutes.
-10 Amelia exited the master_bedroom and stayed in the waiting_room.
-11 Aria moved the spinach to the red_suitcase.
-12 Aria exited the master_bedroom and stayed in the waiting_room.
-Question: Where does Aria think Ava thinks Aiden thinks Abigail thinks the spinach is?
-Choices: A. green_crate, B. blue_bottle, C. green_container, D. red_treasure_chest, E. green_suitcase, F. red_suitcase, G. blue_bucket, H. green_treasure_chest, I. blue_crate, J. red_basket, K. blue_container, L. red_drawer, M. blue_pantry, N. red_bucket, O. green_envelope
+1 Mila, Jack, Nathan, Hannah and Sophia entered the office.
+2 The pumpkin is in the green_pantry.
+3 Hannah saw a cat.
+4 Mila moved the pumpkin to the red_bathtub.
+5 Mila exited the office and stayed in the waiting_room.
+6 Jack moved the pumpkin to the red_box.
+7 Jack exited the office and stayed in the waiting_room.
+8 Nathan moved the pumpkin to the green_treasure_chest.
+9 Nathan exited the office and stayed in the waiting_room.
+10 Hannah made no movements and stayed in the office for 10 minutes.
+11 Hannah exited the office and stayed in the waiting_room.
+12 Sophia moved the pumpkin to the green_pantry.
+13 Sophia exited the office and stayed in the waiting_room.
+Question: Where does Hannah think Jack thinks Mila thinks Sophia thinks the pumpkin is?
+Choices: A. green_cupboard, B. red_bucket, C. red_crate, D. red_container, E. green_bottle, F. red_envelope, G. red_treasure_chest, H. green_suitcase, I. blue_drawer, J. green_box, K. red_bathtub, L. green_pantry, M. blue_envelope, N. green_treasure_chest, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

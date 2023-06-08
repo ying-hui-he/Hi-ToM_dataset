@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Noah, Logan, William and Aria entered the patio.
-2 The pineapple is in the red_bottle.
-3 Amelia made no movements and stayed in the patio for 10 minutes.
-4 Amelia exited the patio and stayed in the waiting_room.
-5 Noah made no movements and stayed in the patio for 10 minutes.
-6 Noah exited the patio and stayed in the waiting_room.
-7 Logan made no movements and stayed in the patio for 10 minutes.
-8 Logan exited the patio and stayed in the waiting_room.
-9 William made no movements and stayed in the patio for 10 minutes.
-10 William exited the patio and stayed in the waiting_room.
-11 Aria moved the pineapple to the red_bottle.
-12 Aria exited the patio and stayed in the waiting_room.
-13 William, Amelia and Noah entered the patio.
-14 The spinach is in the blue_suitcase.
-15 William moved the spinach to the red_basket.
-16 William exited the patio and stayed in the waiting_room.
-17 Amelia made no movements and stayed in the patio for 10 minutes.
-18 Amelia exited the patio and stayed in the waiting_room.
-19 Noah made no movements and stayed in the patio for 10 minutes.
-20 Noah exited the patio and stayed in the waiting_room.
-21 Amelia privately told Noah that the spinach is actually in the red_basket.
-22 Noah privately told Logan that the spinach is actually in the red_basket.
-Question: Where does Logan think William thinks Aria thinks Noah thinks the pineapple is?
-Answer: None
-Choices: A. green_crate, B. blue_basket, C. green_envelope, D. blue_drawer, E. blue_crate, F. blue_pantry, G. green_cupboard, H. blue_bathtub, I. red_bucket, J. red_crate, K. red_bottle, L. blue_suitcase, M. red_basket, N. green_suitcase, O. green_container
+1 Lucas, Isabella, Ella, Ethan and Chloe entered the living_room.
+2 The eggplant is in the red_container.
+3 Lucas moved the eggplant to the red_pantry.
+4 Lucas exited the living_room and stayed in the waiting_room.
+5 Isabella moved the eggplant to the green_bathtub.
+6 Isabella exited the living_room and stayed in the waiting_room.
+7 Isabella lost his phone.
+8 Ella made no movements and stayed in the living_room for 10 minutes.
+9 Ella exited the living_room and stayed in the waiting_room.
+10 Ethan moved the eggplant to the red_bucket.
+11 Ethan exited the living_room and stayed in the waiting_room.
+12 Chloe moved the eggplant to the red_container.
+13 Chloe exited the living_room and stayed in the waiting_room.
+14 Chloe dislikes the corn.
+15 Isabella, Chloe and Lucas entered the lounge.
+16 The broccoli is in the green_pantry.
+17 Isabella moved the broccoli to the green_treasure_chest.
+18 Isabella exited the lounge and stayed in the waiting_room.
+19 Chloe moved the broccoli to the green_box.
+20 Ella likes the blue_drawer.
+21 Chloe exited the lounge and stayed in the waiting_room.
+22 Lucas made no movements and stayed in the lounge for 10 minutes.
+23 Lucas exited the lounge and stayed in the waiting_room.
+24 Lucas dislikes the carrot.
+25 Isabella publicly claimed that broccoli is in the green_treasure_chest.
+26 Lucas privately told Ethan that the broccoli is actually in the green_box.
+Question: Where does Ella think Ethan thinks Chloe thinks Lucas thinks the eggplant is?
+Answer: red_pantry
+Choices: A. green_basket, B. green_bottle, C. red_box, D. blue_drawer, E. red_basket, F. green_pantry, G. green_treasure_chest, H. green_envelope, I. blue_suitcase, J. green_box, K. red_pantry, L. red_container, M. red_bottle, N. red_bucket, O. green_bathtub

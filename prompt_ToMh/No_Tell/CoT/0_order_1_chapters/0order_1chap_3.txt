@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Olivia, Ava, Emily and Aiden entered the hall.
-2 The strawberry is in the red_crate.
-3 Jackson moved the strawberry to the green_cupboard.
-4 Jackson exited the hall and stayed in the waiting_room.
-5 Olivia moved the strawberry to the red_envelope.
-6 Olivia exited the hall and stayed in the waiting_room.
-7 Ava made no movements and stayed in the hall for 10 minutes.
-8 Ava exited the hall and stayed in the waiting_room.
-9 Emily moved the strawberry to the red_container.
-10 Emily exited the hall and stayed in the waiting_room.
-11 Aiden moved the strawberry to the red_crate.
-12 Aiden exited the hall and stayed in the waiting_room.
-Question: Where is the strawberry really?
-Choices: A. blue_container, B. red_suitcase, C. blue_bucket, D. blue_crate, E. red_treasure_chest, F. red_crate, G. red_envelope, H. red_container, I. green_crate, J. green_cupboard, K. red_bucket, L. green_bottle, M. red_drawer, N. blue_bottle, O. red_bathtub
+1 Isabella, Ethan, Mila, Liam and Mason entered the sunroom.
+2 The tomato is in the green_basket.
+3 Isabella moved the tomato to the blue_bathtub.
+4 Isabella exited the sunroom and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the sunroom for 10 minutes.
+6 Ethan exited the sunroom and stayed in the waiting_room.
+7 Mila dislikes the green_pepper.
+8 Mila made no movements and stayed in the sunroom for 10 minutes.
+9 Mila exited the sunroom and stayed in the waiting_room.
+10 Liam made no movements and stayed in the sunroom for 10 minutes.
+11 Liam exited the sunroom and stayed in the waiting_room.
+12 Mason moved the tomato to the green_basket.
+13 Liam dislikes the tomato.
+14 Mason exited the sunroom and stayed in the waiting_room.
+Question: Where is the tomato really?
+Choices: A. green_treasure_chest, B. green_bucket, C. green_cupboard, D. green_box, E. blue_cupboard, F. green_basket, G. blue_envelope, H. red_envelope, I. blue_bathtub, J. green_bottle, K. blue_bucket, L. blue_suitcase, M. green_suitcase, N. blue_bottle, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

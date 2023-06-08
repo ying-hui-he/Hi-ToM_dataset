@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Jacob, Hannah, Olivia and Ethan entered the pantry.
-2 The celery is in the blue_suitcase.
-3 Aria made no movements and stayed in the pantry for 10 minutes.
-4 Aria exited the pantry and stayed in the waiting_room.
-5 Jacob moved the celery to the green_crate.
-6 Jacob exited the pantry and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the pantry for 10 minutes.
-8 Hannah exited the pantry and stayed in the waiting_room.
-9 Olivia made no movements and stayed in the pantry for 10 minutes.
-10 Olivia exited the pantry and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the pantry for 10 minutes.
-12 Ethan exited the pantry and stayed in the waiting_room.
-13 Olivia, Hannah and Ethan entered the garage.
-14 The strawberry is in the green_bathtub.
-15 Olivia made no movements and stayed in the garage for 10 minutes.
-16 Olivia exited the garage and stayed in the waiting_room.
-17 Hannah moved the strawberry to the red_envelope.
-18 Hannah exited the garage and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the garage for 10 minutes.
-20 Ethan exited the garage and stayed in the waiting_room.
-21 Olivia publicly claimed that strawberry is in the red_suitcase.
-22 Ethan privately told Aria that the strawberry is actually in the red_envelope.
-23 Olivia, Ethan, Jacob and Aria entered the attic.
-24 The apple is in the red_bottle.
-25 Olivia moved the apple to the red_treasure_chest.
-26 Olivia exited the attic and stayed in the waiting_room.
-27 Ethan made no movements and stayed in the attic for 10 minutes.
-28 Ethan exited the attic and stayed in the waiting_room.
-29 Jacob moved the apple to the green_cupboard.
-30 Jacob exited the attic and stayed in the waiting_room.
-31 Aria made no movements and stayed in the attic for 10 minutes.
-32 Aria exited the attic and stayed in the waiting_room.
-33 Olivia and Jacob entered the attic.
-34 The corn is in the green_suitcase.
-35 Olivia moved the corn to the red_bottle.
-36 Olivia exited the attic and stayed in the waiting_room.
-37 Jacob moved the corn to the red_treasure_chest.
-38 Jacob exited the attic and stayed in the waiting_room.
-39 Jacob publicly claimed that corn is in the green_suitcase.
-40 Olivia privately told Jacob that the corn is actually in the blue_bucket.
-Question: Where is the celery really?
-Choices: A. red_bucket, B. green_bathtub, C. red_envelope, D. red_suitcase, E. blue_envelope, F. green_suitcase, G. red_bottle, H. red_treasure_chest, I. green_cupboard, J. blue_bucket, K. blue_suitcase, L. blue_container, M. green_bottle, N. green_crate, O. blue_basket
+1 Isla, Gracie, Emma, Isabella and Carter entered the staircase.
+2 The persimmon is in the red_envelope.
+3 Isla made no movements and stayed in the staircase for 10 minutes.
+4 Isla exited the staircase and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the staircase for 10 minutes.
+6 Gracie exited the staircase and stayed in the waiting_room.
+7 Isla likes the blue_treasure_chest.
+8 Emma moved the persimmon to the red_crate.
+9 Emma exited the staircase and stayed in the waiting_room.
+10 Isabella made no movements and stayed in the staircase for 10 minutes.
+11 Isabella exited the staircase and stayed in the waiting_room.
+12 Carter moved the persimmon to the red_envelope.
+13 Carter exited the staircase and stayed in the waiting_room.
+14 Carter, Isabella and Isla entered the staircase.
+15 The turnip is in the red_bathtub.
+16 Carter made no movements and stayed in the staircase for 10 minutes.
+17 Carter exited the staircase and stayed in the waiting_room.
+18 Isabella moved the turnip to the red_envelope.
+19 Isabella exited the staircase and stayed in the waiting_room.
+20 Isla moved the turnip to the red_container.
+21 Isla exited the staircase and stayed in the waiting_room.
+22 Carter publicly claimed that turnip is in the red_container.
+23 Isla privately told Emma that the turnip is actually in the red_container.
+24 Carter, Isla, Isabella and Gracie entered the staircase.
+25 The persimmon is in the red_envelope.
+26 Carter moved the persimmon to the red_crate.
+27 Carter exited the staircase and stayed in the waiting_room.
+28 Isla moved the persimmon to the green_pantry.
+29 Isla exited the staircase and stayed in the waiting_room.
+30 Isabella made no movements and stayed in the staircase for 10 minutes.
+31 Isabella exited the staircase and stayed in the waiting_room.
+32 Gracie made no movements and stayed in the staircase for 10 minutes.
+33 Gracie exited the staircase and stayed in the waiting_room.
+34 Isla and Gracie entered the staircase.
+35 The turnip is in the red_container.
+36 Isla made no movements and stayed in the staircase for 10 minutes.
+37 Isla exited the staircase and stayed in the waiting_room.
+38 Gracie moved the turnip to the red_crate.
+39 Gracie exited the staircase and stayed in the waiting_room.
+40 Gracie saw a cat.
+41 Isla privately told Emma that the turnip is actually in the red_bathtub.
+42 Carter dislikes the potato.
+Question: Where is the persimmon really?
+Choices: A. red_bathtub, B. red_envelope, C. red_container, D. green_pantry, E. red_crate, F. red_pantry, G. red_cupboard, H. green_bathtub, I. blue_treasure_chest, J. green_treasure_chest, K. green_box, L. red_bottle, M. green_cupboard, N. blue_cupboard, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

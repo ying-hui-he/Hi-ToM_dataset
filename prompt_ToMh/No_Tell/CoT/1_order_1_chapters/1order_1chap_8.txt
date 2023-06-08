@@ -1,17 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Amelia, Emily, William, Gracie and Isla entered the hallway.
-2 The peach is in the red_suitcase.
-3 Amelia moved the peach to the red_crate.
-4 Amelia exited the hallway and stayed in the waiting_room.
-5 Emily made no movements and stayed in the hallway for 10 minutes.
-6 Emily exited the hallway and stayed in the waiting_room.
-7 William moved the peach to the red_bucket.
-8 William exited the hallway and stayed in the waiting_room.
-9 Gracie moved the peach to the red_drawer.
-10 Gracie exited the hallway and stayed in the waiting_room.
-11 Isla moved the peach to the red_suitcase.
-12 Isla exited the hallway and stayed in the waiting_room.
-Question: Where does Gracie think the peach is?
-Choices: A. blue_bottle, B. blue_treasure_chest, C. green_bathtub, D. red_basket, E. green_container, F. red_bucket, G. red_suitcase, H. red_drawer, I. green_cupboard, J. red_crate, K. blue_suitcase, L. green_bottle, M. blue_envelope, N. red_envelope, O. green_crate
+1 Gracie, Jayden, Owen, Amelia and Aiden entered the dining_room.
+2 The grapefruit is in the blue_crate.
+3 Gracie moved the grapefruit to the red_basket.
+4 Amelia lost his watch.
+5 Gracie exited the dining_room and stayed in the waiting_room.
+6 Jayden made no movements and stayed in the dining_room for 10 minutes.
+7 Jayden exited the dining_room and stayed in the waiting_room.
+8 Jayden saw a dog.
+9 Owen made no movements and stayed in the dining_room for 10 minutes.
+10 Owen exited the dining_room and stayed in the waiting_room.
+11 Owen saw a mouse.
+12 Amelia moved the grapefruit to the blue_bucket.
+13 Amelia exited the dining_room and stayed in the waiting_room.
+14 Aiden moved the grapefruit to the blue_crate.
+15 Aiden exited the dining_room and stayed in the waiting_room.
+Question: Where does Aiden think the grapefruit is?
+Choices: A. blue_cupboard, B. blue_envelope, C. blue_bottle, D. red_box, E. green_pantry, F. blue_crate, G. green_envelope, H. red_pantry, I. red_basket, J. blue_bucket, K. blue_treasure_chest, L. red_bottle, M. red_bucket, N. green_treasure_chest, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

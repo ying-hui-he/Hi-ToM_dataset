@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Charlotte, Aria, Oliver, Jackson and Abigail entered the living_room.
-2 The melon is in the green_cupboard.
-3 Charlotte moved the melon to the green_treasure_chest.
-4 Charlotte exited the living_room and stayed in the waiting_room.
-5 Aria made no movements and stayed in the living_room for 10 minutes.
-6 Aria exited the living_room and stayed in the waiting_room.
-7 Oliver moved the melon to the blue_treasure_chest.
-8 Oliver exited the living_room and stayed in the waiting_room.
-9 Jackson made no movements and stayed in the living_room for 10 minutes.
-10 Jackson exited the living_room and stayed in the waiting_room.
-11 Abigail moved the melon to the green_cupboard.
-12 Abigail exited the living_room and stayed in the waiting_room.
-13 Abigail, Aria and Charlotte entered the pantry.
-14 The pumpkin is in the green_bottle.
-15 Abigail made no movements and stayed in the pantry for 10 minutes.
-16 Abigail exited the pantry and stayed in the waiting_room.
-17 Aria moved the pumpkin to the green_envelope.
-18 Aria exited the pantry and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the pantry for 10 minutes.
-20 Charlotte exited the pantry and stayed in the waiting_room.
-Question: Where is the melon really?
-Choices: A. green_cupboard, B. blue_treasure_chest, C. blue_bucket, D. red_container, E. green_treasure_chest, F. blue_suitcase, G. green_bottle, H. red_bathtub, I. green_envelope, J. green_container, K. blue_crate, L. red_drawer, M. red_crate, N. blue_envelope, O. blue_drawer
+1 Alexander, Isabella, Mila, Chloe and Logan entered the study.
+2 The pumpkin is in the red_basket.
+3 Alexander moved the pumpkin to the red_crate.
+4 Alexander exited the study and stayed in the waiting_room.
+5 Isabella made no movements and stayed in the study for 10 minutes.
+6 Isabella exited the study and stayed in the waiting_room.
+7 Alexander lost his bottle.
+8 Mila moved the pumpkin to the red_envelope.
+9 Mila exited the study and stayed in the waiting_room.
+10 Chloe moved the pumpkin to the red_container.
+11 Chloe exited the study and stayed in the waiting_room.
+12 Logan made no movements and stayed in the study for 10 minutes.
+13 Logan exited the study and stayed in the waiting_room.
+14 Logan, Chloe and Mila entered the hallway.
+15 The beans is in the green_bottle.
+16 Logan made no movements and stayed in the hallway for 10 minutes.
+17 Logan exited the hallway and stayed in the waiting_room.
+18 Chloe moved the beans to the red_pantry.
+19 Chloe exited the hallway and stayed in the waiting_room.
+20 Mila made no movements and stayed in the hallway for 10 minutes.
+21 Mila exited the hallway and stayed in the waiting_room.
+Question: Where is the pumpkin really?
+Choices: A. green_bottle, B. red_pantry, C. blue_bucket, D. green_suitcase, E. blue_treasure_chest, F. red_container, G. red_basket, H. red_envelope, I. red_crate, J. red_bottle, K. blue_envelope, L. blue_suitcase, M. red_cupboard, N. green_basket, O. blue_drawer
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

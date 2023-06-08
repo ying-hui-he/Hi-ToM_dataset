@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Ava, Gracie, Ella and Benjamin entered the hallway.
-2 The potato is in the blue_treasure_chest.
-3 Jacob moved the potato to the red_drawer.
-4 Jacob exited the hallway and stayed in the waiting_room.
-5 Ava moved the potato to the green_cupboard.
-6 Ava exited the hallway and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the hallway for 10 minutes.
-8 Gracie exited the hallway and stayed in the waiting_room.
-9 Ella moved the potato to the red_suitcase.
-10 Ella exited the hallway and stayed in the waiting_room.
-11 Benjamin made no movements and stayed in the hallway for 10 minutes.
-12 Benjamin exited the hallway and stayed in the waiting_room.
-13 Ella, Jacob and Ava entered the sunroom.
-14 The corn is in the blue_bucket.
-15 Ella made no movements and stayed in the sunroom for 10 minutes.
-16 Ella exited the sunroom and stayed in the waiting_room.
-17 Jacob made no movements and stayed in the sunroom for 10 minutes.
-18 Jacob exited the sunroom and stayed in the waiting_room.
-19 Ava moved the corn to the red_treasure_chest.
-20 Ava exited the sunroom and stayed in the waiting_room.
-21 Jacob privately told Ava that the corn is actually in the blue_bucket.
-22 Ava privately told Benjamin that the corn is actually in the red_treasure_chest.
-23 Ella, Jacob, Ava and Gracie entered the hall.
-24 The orange is in the blue_bathtub.
-25 Ella moved the orange to the green_treasure_chest.
-26 Ella exited the hall and stayed in the waiting_room.
-27 Jacob moved the orange to the red_envelope.
-28 Jacob exited the hall and stayed in the waiting_room.
-29 Ava made no movements and stayed in the hall for 10 minutes.
-30 Ava exited the hall and stayed in the waiting_room.
-31 Gracie moved the orange to the green_suitcase.
-32 Gracie exited the hall and stayed in the waiting_room.
-33 Jacob and Ella entered the sunroom.
-34 The lime is in the red_treasure_chest.
-35 Jacob moved the lime to the red_basket.
-36 Jacob exited the sunroom and stayed in the waiting_room.
-37 Ella made no movements and stayed in the sunroom for 10 minutes.
-38 Ella exited the sunroom and stayed in the waiting_room.
-39 Ella publicly claimed that lime is in the red_basket.
-40 Jacob privately told Ella that the lime is actually in the red_treasure_chest.
-Question: Where is the potato really?
-Choices: A. red_drawer, B. blue_treasure_chest, C. green_cupboard, D. red_suitcase, E. green_bottle, F. red_treasure_chest, G. blue_bucket, H. green_crate, I. red_basket, J. green_bathtub, K. green_treasure_chest, L. blue_bathtub, M. red_envelope, N. blue_basket, O. green_suitcase
+1 Mila, Chloe, Aria, Nathan and Liam entered the garden.
+2 The corn is in the red_pantry.
+3 Mila moved the corn to the green_treasure_chest.
+4 Liam saw a mouse.
+5 Mila exited the garden and stayed in the waiting_room.
+6 Chloe made no movements and stayed in the garden for 10 minutes.
+7 Chloe exited the garden and stayed in the waiting_room.
+8 Aria made no movements and stayed in the garden for 10 minutes.
+9 Mila dislikes the corn.
+10 Aria exited the garden and stayed in the waiting_room.
+11 Nathan moved the corn to the green_bottle.
+12 Nathan exited the garden and stayed in the waiting_room.
+13 Liam made no movements and stayed in the garden for 10 minutes.
+14 Liam exited the garden and stayed in the waiting_room.
+15 Nathan saw a cat.
+16 Chloe, Liam and Mila entered the bedroom.
+17 The strawberry is in the red_crate.
+18 Chloe made no movements and stayed in the bedroom for 10 minutes.
+19 Chloe exited the bedroom and stayed in the waiting_room.
+20 Liam moved the strawberry to the green_bathtub.
+21 Liam exited the bedroom and stayed in the waiting_room.
+22 Mila made no movements and stayed in the bedroom for 10 minutes.
+23 Mila exited the bedroom and stayed in the waiting_room.
+24 Liam publicly claimed that strawberry is in the green_bathtub.
+25 Mila privately told Liam that the strawberry is actually in the blue_suitcase.
+26 Chloe, Aria, Liam and Mila entered the bedroom.
+27 The strawberry is in the green_bathtub.
+28 Chloe made no movements and stayed in the bedroom for 10 minutes.
+29 Mila saw a cat.
+30 Chloe exited the bedroom and stayed in the waiting_room.
+31 Aria made no movements and stayed in the bedroom for 10 minutes.
+32 Aria exited the bedroom and stayed in the waiting_room.
+33 Liam made no movements and stayed in the bedroom for 10 minutes.
+34 Liam exited the bedroom and stayed in the waiting_room.
+35 Mila moved the strawberry to the blue_suitcase.
+36 Mila exited the bedroom and stayed in the waiting_room.
+37 Aria and Liam entered the study.
+38 The potato is in the green_bucket.
+39 Aria made no movements and stayed in the study for 10 minutes.
+40 Aria exited the study and stayed in the waiting_room.
+41 Liam made no movements and stayed in the study for 10 minutes.
+42 Liam exited the study and stayed in the waiting_room.
+43 Liam publicly claimed that potato is in the red_basket.
+44 Aria privately told Liam that the potato is actually in the green_cupboard.
+Question: Where is the corn really?
+Choices: A. green_treasure_chest, B. red_pantry, C. green_bottle, D. blue_drawer, E. blue_bottle, F. red_container, G. red_crate, H. blue_suitcase, I. green_pantry, J. green_bathtub, K. green_bucket, L. green_envelope, M. red_box, N. green_cupboard, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Mila, Mia, Amelia and Charlotte entered the lounge.
-2 The pear is in the green_crate.
-3 Oliver moved the pear to the red_bucket.
-4 Oliver exited the lounge and stayed in the waiting_room.
-5 Mila moved the pear to the blue_crate.
-6 Mila exited the lounge and stayed in the waiting_room.
-7 Mia made no movements and stayed in the lounge for 10 minutes.
-8 Mia exited the lounge and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the lounge for 10 minutes.
-10 Amelia exited the lounge and stayed in the waiting_room.
-11 Charlotte moved the pear to the green_crate.
-12 Charlotte exited the lounge and stayed in the waiting_room.
-13 Oliver, Mia and Amelia entered the sunroom.
-14 The apple is in the blue_drawer.
-15 Oliver moved the apple to the green_bottle.
-16 Oliver exited the sunroom and stayed in the waiting_room.
-17 Mia moved the apple to the red_bottle.
-18 Mia exited the sunroom and stayed in the waiting_room.
-19 Amelia moved the apple to the blue_bottle.
-20 Amelia exited the sunroom and stayed in the waiting_room.
-21 Mia publicly claimed that apple is in the blue_drawer.
-22 Amelia privately told Mia that the apple is actually in the green_bottle.
-Question: Where does Mia think Amelia thinks the pear is?
-Choices: A. blue_treasure_chest, B. green_bathtub, C. green_suitcase, D. red_treasure_chest, E. blue_bathtub, F. blue_suitcase, G. blue_drawer, H. blue_bottle, I. green_bottle, J. red_bottle, K. red_bucket, L. green_crate, M. blue_bucket, N. blue_crate, O. green_envelope
+1 Alexander, Liam, Emma, Ethan and Amelia entered the attic.
+2 The lettuce is in the red_envelope.
+3 Alexander made no movements and stayed in the attic for 10 minutes.
+4 Alexander exited the attic and stayed in the waiting_room.
+5 Liam moved the lettuce to the green_basket.
+6 Liam exited the attic and stayed in the waiting_room.
+7 Emma made no movements and stayed in the attic for 10 minutes.
+8 Emma exited the attic and stayed in the waiting_room.
+9 Ethan made no movements and stayed in the attic for 10 minutes.
+10 Ethan exited the attic and stayed in the waiting_room.
+11 Amelia moved the lettuce to the red_envelope.
+12 Amelia exited the attic and stayed in the waiting_room.
+13 Liam, Emma and Alexander entered the cellar.
+14 The tomato is in the red_container.
+15 Liam moved the tomato to the green_cupboard.
+16 Liam exited the cellar and stayed in the waiting_room.
+17 Emma made no movements and stayed in the cellar for 10 minutes.
+18 Emma exited the cellar and stayed in the waiting_room.
+19 Alexander made no movements and stayed in the cellar for 10 minutes.
+20 Alexander exited the cellar and stayed in the waiting_room.
+21 Alexander publicly claimed that tomato is in the green_bucket.
+22 Liam privately told Alexander that the tomato is actually in the green_cupboard.
+Question: Where does Amelia think Emma thinks the lettuce is?
+24 Ethan dislikes the green_pepper.
+Choices: A. blue_suitcase, B. blue_cupboard, C. green_pantry, D. green_treasure_chest, E. green_box, F. green_suitcase, G. red_container, H. blue_bathtub, I. green_bucket, J. green_cupboard, K. green_basket, L. red_envelope, M. red_bathtub, N. blue_treasure_chest, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

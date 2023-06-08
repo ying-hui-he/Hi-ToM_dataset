@@ -1,45 +1,53 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Evelyn, Abigail, Emily and Benjamin entered the basement.
-2 The turnip is in the red_container.
-3 Jackson made no movements and stayed in the basement for 10 minutes.
-4 Jackson exited the basement and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the basement for 10 minutes.
-6 Evelyn exited the basement and stayed in the waiting_room.
-7 Abigail moved the turnip to the red_suitcase.
-8 Abigail exited the basement and stayed in the waiting_room.
-9 Emily made no movements and stayed in the basement for 10 minutes.
-10 Emily exited the basement and stayed in the waiting_room.
-11 Benjamin moved the turnip to the red_container.
-12 Benjamin exited the basement and stayed in the waiting_room.
-13 Jackson, Emily and Evelyn entered the master_bedroom.
-14 The pear is in the red_bucket.
-15 Jackson moved the pear to the green_container.
-16 Jackson exited the master_bedroom and stayed in the waiting_room.
-17 Emily made no movements and stayed in the master_bedroom for 10 minutes.
-18 Emily exited the master_bedroom and stayed in the waiting_room.
-19 Evelyn moved the pear to the green_crate.
-20 Evelyn exited the master_bedroom and stayed in the waiting_room.
-21 Emily privately told Evelyn that the pear is actually in the red_drawer.
-22 Evelyn privately told Benjamin that the pear is actually in the green_crate.
-23 Abigail, Evelyn, Emily and Benjamin entered the master_bedroom.
-24 The melon is in the red_drawer.
-25 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
-26 Abigail exited the master_bedroom and stayed in the waiting_room.
-27 Evelyn made no movements and stayed in the master_bedroom for 10 minutes.
-28 Evelyn exited the master_bedroom and stayed in the waiting_room.
-29 Emily moved the melon to the red_bucket.
-30 Emily exited the master_bedroom and stayed in the waiting_room.
-31 Benjamin made no movements and stayed in the master_bedroom for 10 minutes.
-32 Benjamin exited the master_bedroom and stayed in the waiting_room.
-33 Jackson and Emily entered the master_bedroom.
-34 The pear is in the green_crate.
-35 Jackson moved the pear to the red_envelope.
-36 Jackson exited the master_bedroom and stayed in the waiting_room.
-37 Emily moved the pear to the red_bucket.
-38 Emily exited the master_bedroom and stayed in the waiting_room.
-39 Emily publicly claimed that pear is in the red_bucket.
-40 Jackson privately told Emily that the pear is actually in the red_envelope.
-Question: Where does Evelyn think Benjamin thinks Abigail thinks Emily thinks the turnip is?
+1 Charlotte, Alexander, Lucas, Isabella and Ethan entered the closet.
+2 The watermelon is in the green_suitcase.
+3 Charlotte made no movements and stayed in the closet for 10 minutes.
+4 Charlotte exited the closet and stayed in the waiting_room.
+5 Alexander made no movements and stayed in the closet for 10 minutes.
+6 Alexander exited the closet and stayed in the waiting_room.
+7 Lucas moved the watermelon to the red_envelope.
+8 Lucas exited the closet and stayed in the waiting_room.
+9 Isabella moved the watermelon to the green_treasure_chest.
+10 Isabella exited the closet and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the closet for 10 minutes.
+12 Ethan exited the closet and stayed in the waiting_room.
+13 Lucas, Charlotte and Alexander entered the closet.
+14 Isabella likes the green_cupboard.
+15 The carrot is in the red_envelope.
+16 Lucas moved the carrot to the red_bottle.
+17 Lucas exited the closet and stayed in the waiting_room.
+18 Charlotte moved the carrot to the green_suitcase.
+19 Ethan lost his phone.
+20 Charlotte exited the closet and stayed in the waiting_room.
+21 Alexander moved the carrot to the green_treasure_chest.
+22 Alexander lost his phone.
+23 Alexander exited the closet and stayed in the waiting_room.
+24 Lucas publicly claimed that carrot is in the red_basket.
+25 Alexander privately told Isabella that the carrot is actually in the green_treasure_chest.
+26 Ethan, Charlotte, Lucas and Isabella entered the porch.
+27 The onion is in the green_pantry.
+28 Ethan made no movements and stayed in the porch for 10 minutes.
+29 Ethan exited the porch and stayed in the waiting_room.
+30 Charlotte moved the onion to the red_bucket.
+31 Isabella lost his phone.
+32 Charlotte exited the porch and stayed in the waiting_room.
+33 Lucas moved the onion to the green_basket.
+34 Alexander saw a dog.
+35 Lucas exited the porch and stayed in the waiting_room.
+36 Isabella made no movements and stayed in the porch for 10 minutes.
+37 Isabella exited the porch and stayed in the waiting_room.
+38 Ethan dislikes the melon.
+39 Alexander and Charlotte entered the closet.
+40 Charlotte lost his bottle.
+41 The watermelon is in the green_treasure_chest.
+42 Alexander made no movements and stayed in the closet for 10 minutes.
+43 Alexander exited the closet and stayed in the waiting_room.
+44 Charlotte made no movements and stayed in the closet for 10 minutes.
+45 Charlotte likes the green_suitcase.
+46 Charlotte exited the closet and stayed in the waiting_room.
+47 Charlotte publicly claimed that watermelon is in the red_basket.
+48 Alexander privately told Charlotte that the watermelon is actually in the red_envelope.
+Question: Where does Alexander think Isabella thinks Lucas thinks Ethan thinks the watermelon is?
 Answer: None
-Choices: A. red_bucket, B. red_drawer, C. red_envelope, D. green_crate, E. green_container, F. red_container, G. blue_treasure_chest, H. blue_drawer, I. green_suitcase, J. red_suitcase, K. red_basket, L. blue_box, M. blue_bottle, N. blue_crate, O. blue_suitcase
+Choices: A. green_suitcase, B. red_envelope, C. green_treasure_chest, D. red_basket, E. red_bottle, F. blue_crate, G. green_cupboard, H. green_bucket, I. blue_bottle, J. red_box, K. green_pantry, L. blue_envelope, M. green_bottle, N. red_bucket, O. green_basket

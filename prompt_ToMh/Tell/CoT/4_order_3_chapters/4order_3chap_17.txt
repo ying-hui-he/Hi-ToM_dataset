@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Emma, Olivia, Ava and Isla entered the bedroom.
-2 The potato is in the red_bottle.
-3 Aria moved the potato to the green_bottle.
-4 Aria exited the bedroom and stayed in the waiting_room.
-5 Emma moved the potato to the green_cupboard.
-6 Emma exited the bedroom and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the bedroom for 10 minutes.
-8 Olivia exited the bedroom and stayed in the waiting_room.
-9 Ava moved the potato to the red_drawer.
-10 Ava exited the bedroom and stayed in the waiting_room.
-11 Isla moved the potato to the red_bottle.
-12 Isla exited the bedroom and stayed in the waiting_room.
-13 Olivia publicly claimed that potato is in the red_drawer.
-14 Isla privately told Olivia that the potato is actually in the green_bottle.
-15 Olivia, Emma and Isla entered the sunroom.
-16 The onion is in the blue_basket.
-17 Olivia moved the onion to the green_treasure_chest.
-18 Olivia exited the sunroom and stayed in the waiting_room.
-19 Emma moved the onion to the blue_container.
-20 Emma exited the sunroom and stayed in the waiting_room.
-21 Isla made no movements and stayed in the sunroom for 10 minutes.
-22 Isla exited the sunroom and stayed in the waiting_room.
-23 Aria, Ava, Emma and Isla entered the dining_room.
-24 The tomato is in the blue_bucket.
-25 Aria moved the tomato to the blue_box.
-26 Aria exited the dining_room and stayed in the waiting_room.
-27 Ava made no movements and stayed in the dining_room for 10 minutes.
-28 Ava exited the dining_room and stayed in the waiting_room.
-29 Emma made no movements and stayed in the dining_room for 10 minutes.
-30 Emma exited the dining_room and stayed in the waiting_room.
-31 Isla made no movements and stayed in the dining_room for 10 minutes.
-32 Isla exited the dining_room and stayed in the waiting_room.
-33 Ava privately told Emma that the tomato is actually in the red_container.
-34 Isla privately told Olivia that the tomato is actually in the blue_box.
-Question: Where does Emma think Aria thinks Isla thinks Olivia thinks the potato is?
-Choices: A. blue_bucket, B. red_container, C. blue_box, D. red_bathtub, E. green_suitcase, F. red_bottle, G. green_cupboard, H. green_bottle, I. red_drawer, J. red_suitcase, K. green_treasure_chest, L. blue_basket, M. green_crate, N. blue_bottle, O. blue_container
+1 Charlotte, Sophia, Jack, Logan and Chloe entered the dining_room.
+2 The grapefruit is in the blue_bucket.
+3 Charlotte moved the grapefruit to the red_crate.
+4 Charlotte exited the dining_room and stayed in the waiting_room.
+5 Sophia made no movements and stayed in the dining_room for 10 minutes.
+6 Sophia exited the dining_room and stayed in the waiting_room.
+7 Jack moved the grapefruit to the blue_bathtub.
+8 Jack exited the dining_room and stayed in the waiting_room.
+9 Sophia likes the red_crate.
+10 Logan made no movements and stayed in the dining_room for 10 minutes.
+11 Logan exited the dining_room and stayed in the waiting_room.
+12 Chloe made no movements and stayed in the dining_room for 10 minutes.
+13 Chloe exited the dining_room and stayed in the waiting_room.
+14 Logan publicly claimed that grapefruit is in the red_crate.
+15 Chloe privately told Charlotte that the grapefruit is actually in the blue_bathtub.
+16 Logan lost his bottle.
+17 Chloe, Logan and Sophia entered the back_yard.
+18 The green_pepper is in the green_pantry.
+19 Chloe moved the green_pepper to the red_box.
+20 Charlotte saw a cat.
+21 Chloe exited the back_yard and stayed in the waiting_room.
+22 Logan moved the green_pepper to the green_suitcase.
+23 Logan exited the back_yard and stayed in the waiting_room.
+24 Charlotte saw a cat.
+25 Sophia made no movements and stayed in the back_yard for 10 minutes.
+26 Sophia exited the back_yard and stayed in the waiting_room.
+27 Chloe, Logan, Sophia and Charlotte entered the garage.
+28 The banana is in the green_cupboard.
+29 Chloe made no movements and stayed in the garage for 10 minutes.
+30 Chloe exited the garage and stayed in the waiting_room.
+31 Logan moved the banana to the green_treasure_chest.
+32 Logan exited the garage and stayed in the waiting_room.
+33 Sophia made no movements and stayed in the garage for 10 minutes.
+34 Sophia exited the garage and stayed in the waiting_room.
+35 Charlotte made no movements and stayed in the garage for 10 minutes.
+36 Charlotte exited the garage and stayed in the waiting_room.
+37 Logan privately told Sophia that the banana is actually in the green_treasure_chest.
+38 Charlotte privately told Jack that the banana is actually in the green_treasure_chest.
+Question: Where does Jack think Chloe thinks Charlotte thinks Sophia thinks the grapefruit is?
+Choices: A. green_pantry, B. blue_suitcase, C. red_box, D. red_pantry, E. green_suitcase, F. blue_bucket, G. green_box, H. blue_bathtub, I. red_crate, J. green_bathtub, K. green_cupboard, L. green_envelope, M. blue_crate, N. green_bottle, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

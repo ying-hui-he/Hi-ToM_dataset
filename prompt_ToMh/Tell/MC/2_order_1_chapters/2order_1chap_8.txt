@@ -1,19 +1,22 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Isla, Emma, Amelia and Olivia entered the closet.
-2 The lettuce is in the green_suitcase.
-3 Gracie moved the lettuce to the red_basket.
-4 Gracie exited the closet and stayed in the waiting_room.
-5 Isla moved the lettuce to the red_crate.
-6 Isla exited the closet and stayed in the waiting_room.
-7 Emma made no movements and stayed in the closet for 10 minutes.
-8 Emma exited the closet and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the closet for 10 minutes.
-10 Amelia exited the closet and stayed in the waiting_room.
-11 Olivia made no movements and stayed in the closet for 10 minutes.
-12 Olivia exited the closet and stayed in the waiting_room.
-13 Amelia publicly claimed that lettuce is in the green_bottle.
-14 Olivia privately told Gracie that the lettuce is actually in the red_crate.
-Question: Where does Emma think Gracie thinks the lettuce is?
-Choices: A. blue_crate, B. red_drawer, C. blue_drawer, D. red_treasure_chest, E. blue_basket, F. red_envelope, G. blue_pantry, H. blue_envelope, I. red_bottle, J. green_cupboard, K. blue_suitcase, L. green_suitcase, M. red_basket, N. red_crate, O. green_bottle
+1 Jacob, Alexander, Nathan, Amelia and Hannah entered the bathroom.
+2 The grapes is in the blue_bottle.
+3 Jacob moved the grapes to the green_envelope.
+4 Jacob exited the bathroom and stayed in the waiting_room.
+5 Hannah lost his bottle.
+6 Alexander moved the grapes to the red_bathtub.
+7 Alexander exited the bathroom and stayed in the waiting_room.
+8 Nathan moved the grapes to the green_bucket.
+9 Alexander dislikes the peas.
+10 Nathan exited the bathroom and stayed in the waiting_room.
+11 Amelia moved the grapes to the red_bucket.
+12 Alexander lost his bottle.
+13 Amelia exited the bathroom and stayed in the waiting_room.
+14 Hannah moved the grapes to the blue_bottle.
+15 Hannah exited the bathroom and stayed in the waiting_room.
+16 Nathan publicly claimed that grapes is in the green_bucket.
+17 Hannah privately told Nathan that the grapes is actually in the blue_bottle.
+Question: Where does Jacob think Hannah thinks the grapes is?
+Choices: A. blue_envelope, B. green_suitcase, C. green_pantry, D. red_crate, E. blue_bathtub, F. green_bathtub, G. red_basket, H. blue_suitcase, I. red_container, J. green_cupboard, K. blue_bottle, L. green_envelope, M. red_bathtub, N. green_bucket, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

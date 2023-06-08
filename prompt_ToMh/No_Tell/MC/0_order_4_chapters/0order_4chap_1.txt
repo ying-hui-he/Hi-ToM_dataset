@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Hannah, Isla, Charlotte and Ethan entered the bathroom.
-2 The persimmon is in the red_treasure_chest.
-3 Jackson moved the persimmon to the green_bathtub.
-4 Jackson exited the bathroom and stayed in the waiting_room.
-5 Hannah moved the persimmon to the red_bucket.
-6 Hannah exited the bathroom and stayed in the waiting_room.
-7 Isla moved the persimmon to the blue_basket.
-8 Isla exited the bathroom and stayed in the waiting_room.
-9 Charlotte moved the persimmon to the blue_crate.
-10 Charlotte exited the bathroom and stayed in the waiting_room.
-11 Ethan moved the persimmon to the red_treasure_chest.
-12 Ethan exited the bathroom and stayed in the waiting_room.
-13 Ethan, Hannah and Charlotte entered the bathroom.
-14 The celery is in the blue_crate.
-15 Ethan made no movements and stayed in the bathroom for 10 minutes.
-16 Ethan exited the bathroom and stayed in the waiting_room.
-17 Hannah made no movements and stayed in the bathroom for 10 minutes.
-18 Hannah exited the bathroom and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the bathroom for 10 minutes.
-20 Charlotte exited the bathroom and stayed in the waiting_room.
-21 Charlotte, Jackson, Ethan and Isla entered the closet.
-22 The lime is in the blue_bottle.
-23 Charlotte moved the lime to the blue_drawer.
-24 Charlotte exited the closet and stayed in the waiting_room.
-25 Jackson moved the lime to the red_drawer.
-26 Jackson exited the closet and stayed in the waiting_room.
-27 Ethan moved the lime to the red_suitcase.
-28 Ethan exited the closet and stayed in the waiting_room.
-29 Isla made no movements and stayed in the closet for 10 minutes.
-30 Isla exited the closet and stayed in the waiting_room.
-31 Ethan and Hannah entered the bathroom.
-32 The celery is in the blue_crate.
-33 Ethan moved the celery to the red_treasure_chest.
-34 Ethan exited the bathroom and stayed in the waiting_room.
-35 Hannah moved the celery to the blue_basket.
-36 Hannah exited the bathroom and stayed in the waiting_room.
-Question: Where is the persimmon really?
-Choices: A. blue_bottle, B. blue_drawer, C. red_drawer, D. red_envelope, E. red_suitcase, F. blue_crate, G. red_treasure_chest, H. green_bathtub, I. blue_basket, J. red_bucket, K. blue_envelope, L. green_cupboard, M. green_crate, N. green_envelope, O. red_bottle
+1 Isabella, Aria, Jacob, Owen and Sophia entered the sunroom.
+2 The banana is in the red_container.
+3 Isabella made no movements and stayed in the sunroom for 10 minutes.
+4 Isabella exited the sunroom and stayed in the waiting_room.
+5 Aria made no movements and stayed in the sunroom for 10 minutes.
+6 Aria exited the sunroom and stayed in the waiting_room.
+7 Jacob moved the banana to the red_crate.
+8 Jacob exited the sunroom and stayed in the waiting_room.
+9 Owen moved the banana to the green_box.
+10 Owen exited the sunroom and stayed in the waiting_room.
+11 Sophia made no movements and stayed in the sunroom for 10 minutes.
+12 Sophia exited the sunroom and stayed in the waiting_room.
+13 Aria, Jacob and Owen entered the workshop.
+14 The lemon is in the red_envelope.
+15 Aria moved the lemon to the green_envelope.
+16 Aria exited the workshop and stayed in the waiting_room.
+17 Jacob made no movements and stayed in the workshop for 10 minutes.
+18 Jacob exited the workshop and stayed in the waiting_room.
+19 Owen moved the lemon to the green_cupboard.
+20 Owen exited the workshop and stayed in the waiting_room.
+21 Aria, Jacob, Owen and Isabella entered the hall.
+22 The apple is in the green_suitcase.
+23 Aria moved the apple to the red_cupboard.
+24 Aria exited the hall and stayed in the waiting_room.
+25 Jacob made no movements and stayed in the hall for 10 minutes.
+26 Jacob exited the hall and stayed in the waiting_room.
+27 Owen made no movements and stayed in the hall for 10 minutes.
+28 Owen exited the hall and stayed in the waiting_room.
+29 Isabella moved the apple to the green_bathtub.
+30 Isabella exited the hall and stayed in the waiting_room.
+31 Owen saw a monkey.
+32 Aria and Jacob entered the hall.
+33 The apple is in the green_bathtub.
+34 Aria moved the apple to the red_cupboard.
+35 Aria exited the hall and stayed in the waiting_room.
+36 Jacob made no movements and stayed in the hall for 10 minutes.
+37 Jacob exited the hall and stayed in the waiting_room.
+Question: Where is the banana really?
+39 Owen saw a monkey.
+Choices: A. green_suitcase, B. green_bathtub, C. blue_bucket, D. red_cupboard, E. blue_envelope, F. red_basket, G. red_container, H. green_box, I. red_crate, J. blue_crate, K. red_treasure_chest, L. red_envelope, M. blue_cupboard, N. green_cupboard, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

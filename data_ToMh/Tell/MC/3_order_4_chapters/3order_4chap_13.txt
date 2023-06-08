@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jack, Mila, Emily, Noah and Benjamin entered the office.
-2 The spinach is in the red_bathtub.
-3 Jack moved the spinach to the blue_pantry.
-4 Jack exited the office and stayed in the waiting_room.
-5 Mila made no movements and stayed in the office for 10 minutes.
-6 Mila exited the office and stayed in the waiting_room.
-7 Emily made no movements and stayed in the office for 10 minutes.
-8 Emily exited the office and stayed in the waiting_room.
-9 Noah moved the spinach to the green_treasure_chest.
-10 Noah exited the office and stayed in the waiting_room.
-11 Benjamin made no movements and stayed in the office for 10 minutes.
-12 Benjamin exited the office and stayed in the waiting_room.
-13 Mila, Benjamin and Emily entered the bathroom.
-14 The turnip is in the blue_bucket.
-15 Mila made no movements and stayed in the bathroom for 10 minutes.
-16 Mila exited the bathroom and stayed in the waiting_room.
-17 Benjamin moved the turnip to the red_bucket.
-18 Benjamin exited the bathroom and stayed in the waiting_room.
-19 Emily moved the turnip to the green_cupboard.
-20 Emily exited the bathroom and stayed in the waiting_room.
-21 Benjamin privately told Emily that the turnip is actually in the blue_bathtub.
-22 Emily privately told Jack that the turnip is actually in the green_cupboard.
-23 Benjamin, Noah, Jack and Emily entered the bathroom.
-24 The tangerine is in the green_cupboard.
-25 Benjamin moved the tangerine to the blue_envelope.
-26 Benjamin exited the bathroom and stayed in the waiting_room.
-27 Noah made no movements and stayed in the bathroom for 10 minutes.
-28 Noah exited the bathroom and stayed in the waiting_room.
-29 Jack moved the tangerine to the red_bucket.
-30 Jack exited the bathroom and stayed in the waiting_room.
-31 Emily moved the tangerine to the blue_bucket.
-32 Emily exited the bathroom and stayed in the waiting_room.
-33 Mila and Noah entered the laundry.
-34 The lime is in the red_container.
-35 Mila moved the lime to the green_container.
-36 Mila exited the laundry and stayed in the waiting_room.
-37 Noah moved the lime to the red_treasure_chest.
-38 Noah exited the laundry and stayed in the waiting_room.
-39 Mila publicly claimed that lime is in the green_container.
-40 Noah privately told Mila that the lime is actually in the red_treasure_chest.
-Question: Where does Mila think Emily thinks Benjamin thinks the spinach is?
-Answer: blue_pantry
-Choices: A. green_container, B. red_container, C. red_treasure_chest, D. green_bottle, E. blue_drawer, F. blue_bucket, G. green_cupboard, H. blue_envelope, I. red_bucket, J. blue_bathtub, K. red_bathtub, L. red_crate, M. blue_pantry, N. green_treasure_chest, O. red_bottle
+1 Lucas, Gracie, Mila, Amelia and Jackson entered the sunroom.
+2 The green_pepper is in the red_container.
+3 Lucas moved the green_pepper to the blue_suitcase.
+4 Lucas exited the sunroom and stayed in the waiting_room.
+5 Gracie moved the green_pepper to the blue_envelope.
+6 Gracie exited the sunroom and stayed in the waiting_room.
+7 Gracie saw a dog.
+8 Mila made no movements and stayed in the sunroom for 10 minutes.
+9 Mila exited the sunroom and stayed in the waiting_room.
+10 Amelia made no movements and stayed in the sunroom for 10 minutes.
+11 Amelia exited the sunroom and stayed in the waiting_room.
+12 Jackson moved the green_pepper to the red_container.
+13 Jackson exited the sunroom and stayed in the waiting_room.
+14 Amelia, Gracie and Lucas entered the staircase.
+15 The cucumber is in the blue_bathtub.
+16 Gracie likes the red_basket.
+17 Amelia moved the cucumber to the green_bucket.
+18 Amelia exited the staircase and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the staircase for 10 minutes.
+20 Gracie exited the staircase and stayed in the waiting_room.
+21 Lucas moved the cucumber to the green_envelope.
+22 Lucas exited the staircase and stayed in the waiting_room.
+23 Gracie publicly claimed that cucumber is in the green_bucket.
+24 Lucas privately told Gracie that the cucumber is actually in the green_envelope.
+25 Mila, Gracie, Jackson and Amelia entered the staircase.
+26 The cucumber is in the green_envelope.
+27 Mila lost his watch.
+28 Mila made no movements and stayed in the staircase for 10 minutes.
+29 Mila exited the staircase and stayed in the waiting_room.
+30 Gracie moved the cucumber to the red_bucket.
+31 Gracie exited the staircase and stayed in the waiting_room.
+32 Jackson moved the cucumber to the green_bucket.
+33 Jackson exited the staircase and stayed in the waiting_room.
+34 Amelia made no movements and stayed in the staircase for 10 minutes.
+35 Amelia exited the staircase and stayed in the waiting_room.
+36 Gracie and Lucas entered the basement.
+37 The banana is in the red_envelope.
+38 Gracie moved the banana to the red_basket.
+39 Gracie exited the basement and stayed in the waiting_room.
+40 Lucas made no movements and stayed in the basement for 10 minutes.
+41 Lucas exited the basement and stayed in the waiting_room.
+42 Gracie privately told Mila that the banana is actually in the green_box.
+43 Mila saw a mouse.
+Question: Where does Jackson think Lucas thinks Amelia thinks the green_pepper is?
+Answer: None
+45 Gracie likes the blue_suitcase.
+Choices: A. red_container, B. blue_envelope, C. red_bathtub, D. blue_drawer, E. blue_suitcase, F. blue_bathtub, G. blue_cupboard, H. green_bucket, I. red_bucket, J. green_envelope, K. green_basket, L. red_envelope, M. red_bottle, N. red_basket, O. green_box

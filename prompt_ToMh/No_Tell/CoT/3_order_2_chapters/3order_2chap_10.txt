@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 James, Amelia, Carter, Ethan and Hannah entered the basement.
-2 The green_pepper is in the blue_crate.
-3 James made no movements and stayed in the basement for 10 minutes.
-4 James exited the basement and stayed in the waiting_room.
-5 Amelia moved the green_pepper to the red_drawer.
-6 Amelia exited the basement and stayed in the waiting_room.
-7 Carter made no movements and stayed in the basement for 10 minutes.
-8 Carter exited the basement and stayed in the waiting_room.
-9 Ethan moved the green_pepper to the blue_suitcase.
-10 Ethan exited the basement and stayed in the waiting_room.
-11 Hannah moved the green_pepper to the blue_crate.
-12 Hannah exited the basement and stayed in the waiting_room.
-13 James, Amelia and Hannah entered the dining_room.
-14 The plum is in the blue_treasure_chest.
-15 James made no movements and stayed in the dining_room for 10 minutes.
-16 James exited the dining_room and stayed in the waiting_room.
-17 Amelia made no movements and stayed in the dining_room for 10 minutes.
-18 Amelia exited the dining_room and stayed in the waiting_room.
-19 Hannah moved the plum to the red_envelope.
-20 Hannah exited the dining_room and stayed in the waiting_room.
-Question: Where does Hannah think Amelia thinks Ethan thinks the green_pepper is?
-Choices: A. green_bathtub, B. green_treasure_chest, C. green_bottle, D. green_suitcase, E. green_cupboard, F. blue_basket, G. blue_crate, H. blue_suitcase, I. blue_bathtub, J. red_drawer, K. blue_bottle, L. blue_treasure_chest, M. red_envelope, N. red_bottle, O. red_basket
+1 Hannah, Jack, Amelia, Nathan and Chloe entered the basement.
+2 The strawberry is in the red_crate.
+3 Hannah made no movements and stayed in the basement for 10 minutes.
+4 Hannah exited the basement and stayed in the waiting_room.
+5 Jack made no movements and stayed in the basement for 10 minutes.
+6 Jack exited the basement and stayed in the waiting_room.
+7 Amelia moved the strawberry to the blue_suitcase.
+8 Jack dislikes the melon.
+9 Amelia exited the basement and stayed in the waiting_room.
+10 Nathan made no movements and stayed in the basement for 10 minutes.
+11 Nathan exited the basement and stayed in the waiting_room.
+12 Chloe moved the strawberry to the red_crate.
+13 Chloe exited the basement and stayed in the waiting_room.
+14 Jack, Chloe and Amelia entered the patio.
+15 The persimmon is in the red_container.
+16 Jack made no movements and stayed in the patio for 10 minutes.
+17 Jack exited the patio and stayed in the waiting_room.
+18 Chloe moved the persimmon to the blue_drawer.
+19 Jack dislikes the melon.
+20 Chloe exited the patio and stayed in the waiting_room.
+21 Amelia made no movements and stayed in the patio for 10 minutes.
+22 Nathan likes the red_container.
+23 Amelia exited the patio and stayed in the waiting_room.
+Question: Where does Hannah think Jack thinks Chloe thinks the strawberry is?
+Choices: A. blue_bucket, B. red_crate, C. red_bucket, D. red_basket, E. blue_suitcase, F. red_container, G. green_suitcase, H. blue_drawer, I. red_bottle, J. red_treasure_chest, K. green_box, L. blue_treasure_chest, M. red_box, N. blue_bottle, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jacob, Amelia, William, Emma and Olivia entered the sunroom.
-2 The lemon is in the red_envelope.
-3 Jacob made no movements and stayed in the sunroom for 10 minutes.
-4 Jacob exited the sunroom and stayed in the waiting_room.
-5 Amelia made no movements and stayed in the sunroom for 10 minutes.
-6 Amelia exited the sunroom and stayed in the waiting_room.
-7 William made no movements and stayed in the sunroom for 10 minutes.
-8 William exited the sunroom and stayed in the waiting_room.
-9 Emma made no movements and stayed in the sunroom for 10 minutes.
-10 Emma exited the sunroom and stayed in the waiting_room.
-11 Olivia moved the lemon to the red_envelope.
-12 Olivia exited the sunroom and stayed in the waiting_room.
-13 William privately told Jacob that the lemon is actually in the blue_bathtub.
-14 Amelia privately told Emma that the lemon is actually in the green_container.
-Question: Where does Jacob think Emma thinks the lemon is?
-Choices: A. red_envelope, B. green_container, C. blue_bathtub, D. green_suitcase, E. red_drawer, F. green_envelope, G. blue_bottle, H. red_bathtub, I. blue_box, J. green_treasure_chest, K. red_bottle, L. blue_crate, M. blue_basket, N. red_treasure_chest, O. blue_bucket
+1 Ella, Jacob, Gracie, Liam and Emma entered the laundry.
+2 The pineapple is in the blue_cupboard.
+3 Ella made no movements and stayed in the laundry for 10 minutes.
+4 Ella exited the laundry and stayed in the waiting_room.
+5 Jacob moved the pineapple to the red_bucket.
+6 Jacob exited the laundry and stayed in the waiting_room.
+7 Ella saw a monkey.
+8 Gracie made no movements and stayed in the laundry for 10 minutes.
+9 Gracie exited the laundry and stayed in the waiting_room.
+10 Liam made no movements and stayed in the laundry for 10 minutes.
+11 Liam exited the laundry and stayed in the waiting_room.
+12 Emma made no movements and stayed in the laundry for 10 minutes.
+13 Emma exited the laundry and stayed in the waiting_room.
+14 Gracie publicly claimed that pineapple is in the red_cupboard.
+15 Emma privately told Gracie that the pineapple is actually in the blue_cupboard.
+Question: Where does Ella think Gracie thinks the pineapple is?
+17 Jacob dislikes the pineapple.
+Choices: A. green_bottle, B. green_bathtub, C. red_box, D. green_pantry, E. blue_suitcase, F. blue_cupboard, G. green_bucket, H. green_box, I. red_cupboard, J. red_bucket, K. blue_bathtub, L. blue_drawer, M. blue_crate, N. red_crate, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

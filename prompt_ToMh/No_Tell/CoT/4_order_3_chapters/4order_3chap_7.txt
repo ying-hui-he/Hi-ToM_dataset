@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Ella, Ava, Hannah and James entered the staircase.
-2 The apple is in the red_container.
-3 Jack made no movements and stayed in the staircase for 10 minutes.
-4 Jack exited the staircase and stayed in the waiting_room.
-5 Ella moved the apple to the blue_drawer.
-6 Ella exited the staircase and stayed in the waiting_room.
-7 Ava moved the apple to the green_crate.
-8 Ava exited the staircase and stayed in the waiting_room.
-9 Hannah made no movements and stayed in the staircase for 10 minutes.
-10 Hannah exited the staircase and stayed in the waiting_room.
-11 James moved the apple to the red_container.
-12 James exited the staircase and stayed in the waiting_room.
-13 Hannah, Ava and James entered the staircase.
-14 The apple is in the red_container.
-15 Hannah made no movements and stayed in the staircase for 10 minutes.
-16 Hannah exited the staircase and stayed in the waiting_room.
-17 Ava made no movements and stayed in the staircase for 10 minutes.
-18 Ava exited the staircase and stayed in the waiting_room.
-19 James moved the apple to the blue_drawer.
-20 James exited the staircase and stayed in the waiting_room.
-21 Jack, Hannah, Ella and Ava entered the back_yard.
-22 The peach is in the red_basket.
-23 Jack moved the peach to the blue_pantry.
-24 Jack exited the back_yard and stayed in the waiting_room.
-25 Hannah moved the peach to the red_envelope.
-26 Hannah exited the back_yard and stayed in the waiting_room.
-27 Ella moved the peach to the red_suitcase.
-28 Ella exited the back_yard and stayed in the waiting_room.
-29 Ava moved the peach to the red_bucket.
-30 Ava exited the back_yard and stayed in the waiting_room.
-Question: Where does Hannah think James thinks Ava thinks Ella thinks the apple is?
-Choices: A. red_basket, B. red_suitcase, C. blue_pantry, D. red_bucket, E. red_envelope, F. blue_treasure_chest, G. red_drawer, H. red_treasure_chest, I. green_treasure_chest, J. green_bottle, K. green_crate, L. red_container, M. green_bathtub, N. blue_drawer, O. blue_bucket
+1 Emily dislikes the corn.
+2 Chloe, Emily, Mia, Owen and Isabella entered the attic.
+3 The cabbage is in the blue_envelope.
+4 Owen likes the blue_treasure_chest.
+5 Chloe moved the cabbage to the green_envelope.
+6 Chloe exited the attic and stayed in the waiting_room.
+7 Emily made no movements and stayed in the attic for 10 minutes.
+8 Emily exited the attic and stayed in the waiting_room.
+9 Mia moved the cabbage to the blue_cupboard.
+10 Mia exited the attic and stayed in the waiting_room.
+11 Owen made no movements and stayed in the attic for 10 minutes.
+12 Owen exited the attic and stayed in the waiting_room.
+13 Isabella moved the cabbage to the blue_envelope.
+14 Isabella exited the attic and stayed in the waiting_room.
+15 Chloe, Emily and Owen entered the attic.
+16 The cabbage is in the blue_envelope.
+17 Chloe moved the cabbage to the blue_cupboard.
+18 Chloe exited the attic and stayed in the waiting_room.
+19 Emily made no movements and stayed in the attic for 10 minutes.
+20 Emily exited the attic and stayed in the waiting_room.
+21 Owen moved the cabbage to the green_bucket.
+22 Owen exited the attic and stayed in the waiting_room.
+23 Chloe, Mia, Isabella and Emily entered the basement.
+24 Emily lost his watch.
+25 The pineapple is in the blue_treasure_chest.
+26 Chloe made no movements and stayed in the basement for 10 minutes.
+27 Chloe exited the basement and stayed in the waiting_room.
+28 Mia made no movements and stayed in the basement for 10 minutes.
+29 Mia exited the basement and stayed in the waiting_room.
+30 Chloe dislikes the melon.
+31 Isabella moved the pineapple to the red_crate.
+32 Isabella exited the basement and stayed in the waiting_room.
+33 Emily moved the pineapple to the blue_suitcase.
+34 Emily exited the basement and stayed in the waiting_room.
+Question: Where does Mia think Owen thinks Emily thinks Isabella thinks the cabbage is?
+Choices: A. blue_drawer, B. green_pantry, C. blue_bathtub, D. blue_bucket, E. red_bottle, F. blue_cupboard, G. blue_envelope, H. green_envelope, I. green_bucket, J. red_basket, K. blue_treasure_chest, L. green_suitcase, M. blue_suitcase, N. blue_bottle, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

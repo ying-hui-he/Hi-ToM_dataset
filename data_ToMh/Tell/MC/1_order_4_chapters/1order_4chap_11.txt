@@ -1,44 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, James, Charlotte, Abigail and Logan entered the porch.
-2 The potato is in the blue_bottle.
-3 Jayden moved the potato to the green_container.
-4 Jayden exited the porch and stayed in the waiting_room.
-5 James moved the potato to the blue_envelope.
-6 James exited the porch and stayed in the waiting_room.
-7 Charlotte moved the potato to the red_bathtub.
-8 Charlotte exited the porch and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the porch for 10 minutes.
-10 Abigail exited the porch and stayed in the waiting_room.
-11 Logan moved the potato to the blue_bottle.
-12 Logan exited the porch and stayed in the waiting_room.
-13 Logan, Jayden and Abigail entered the workshop.
-14 The tomato is in the green_suitcase.
-15 Logan moved the tomato to the green_bathtub.
-16 Logan exited the workshop and stayed in the waiting_room.
-17 Jayden made no movements and stayed in the workshop for 10 minutes.
-18 Jayden exited the workshop and stayed in the waiting_room.
-19 Abigail made no movements and stayed in the workshop for 10 minutes.
-20 Abigail exited the workshop and stayed in the waiting_room.
-21 Jayden privately told Abigail that the tomato is actually in the green_bathtub.
-22 Abigail privately told Charlotte that the tomato is actually in the green_bathtub.
-23 Charlotte, Abigail, Logan and James entered the cellar.
-24 The carrot is in the green_cupboard.
-25 Charlotte made no movements and stayed in the cellar for 10 minutes.
-26 Charlotte exited the cellar and stayed in the waiting_room.
-27 Abigail moved the carrot to the red_container.
-28 Abigail exited the cellar and stayed in the waiting_room.
-29 Logan made no movements and stayed in the cellar for 10 minutes.
-30 Logan exited the cellar and stayed in the waiting_room.
-31 James made no movements and stayed in the cellar for 10 minutes.
-32 James exited the cellar and stayed in the waiting_room.
-33 Charlotte and Jayden entered the workshop.
-34 The tomato is in the green_bathtub.
-35 Charlotte made no movements and stayed in the workshop for 10 minutes.
-36 Charlotte exited the workshop and stayed in the waiting_room.
-37 Jayden made no movements and stayed in the workshop for 10 minutes.
-38 Jayden exited the workshop and stayed in the waiting_room.
-39 Charlotte privately told Logan that the tomato is actually in the green_suitcase.
-Question: Where does Abigail think the potato is?
-Answer: red_bathtub
-Choices: A. green_bottle, B. blue_bottle, C. red_bathtub, D. blue_envelope, E. green_container, F. green_suitcase, G. green_bathtub, H. blue_box, I. blue_basket, J. blue_drawer, K. blue_container, L. green_cupboard, M. blue_bathtub, N. red_drawer, O. red_container
+1 Jackson, Ava, Charlotte, Nathan and Ethan entered the sunroom.
+2 The strawberry is in the red_crate.
+3 Jackson made no movements and stayed in the sunroom for 10 minutes.
+4 Nathan saw a mouse.
+5 Jackson exited the sunroom and stayed in the waiting_room.
+6 Ava made no movements and stayed in the sunroom for 10 minutes.
+7 Ava exited the sunroom and stayed in the waiting_room.
+8 Charlotte made no movements and stayed in the sunroom for 10 minutes.
+9 Charlotte exited the sunroom and stayed in the waiting_room.
+10 Nathan made no movements and stayed in the sunroom for 10 minutes.
+11 Nathan exited the sunroom and stayed in the waiting_room.
+12 Ethan made no movements and stayed in the sunroom for 10 minutes.
+13 Ethan exited the sunroom and stayed in the waiting_room.
+14 Ethan likes the blue_crate.
+15 Ava, Jackson and Nathan entered the sunroom.
+16 The turnip is in the blue_envelope.
+17 Ava moved the turnip to the red_basket.
+18 Ava exited the sunroom and stayed in the waiting_room.
+19 Jackson made no movements and stayed in the sunroom for 10 minutes.
+20 Jackson exited the sunroom and stayed in the waiting_room.
+21 Nathan moved the turnip to the blue_crate.
+22 Nathan exited the sunroom and stayed in the waiting_room.
+23 Charlotte saw a cat.
+24 Nathan publicly claimed that turnip is in the blue_envelope.
+25 Ava privately told Nathan that the turnip is actually in the blue_crate.
+26 Nathan, Ethan, Jackson and Charlotte entered the sunroom.
+27 The strawberry is in the red_crate.
+28 Nathan moved the strawberry to the blue_crate.
+29 Nathan exited the sunroom and stayed in the waiting_room.
+30 Ethan moved the strawberry to the blue_envelope.
+31 Ethan exited the sunroom and stayed in the waiting_room.
+32 Jackson moved the strawberry to the red_basket.
+33 Jackson exited the sunroom and stayed in the waiting_room.
+34 Charlotte moved the strawberry to the red_box.
+35 Jackson lost his watch.
+36 Charlotte exited the sunroom and stayed in the waiting_room.
+37 Nathan and Jackson entered the sunroom.
+38 The turnip is in the blue_crate.
+39 Nathan made no movements and stayed in the sunroom for 10 minutes.
+40 Nathan lost his bottle.
+41 Nathan exited the sunroom and stayed in the waiting_room.
+42 Jackson moved the turnip to the blue_envelope.
+43 Jackson exited the sunroom and stayed in the waiting_room.
+44 Jackson publicly claimed that turnip is in the red_box.
+45 Nathan privately told Jackson that the turnip is actually in the blue_envelope.
+Question: Where does Charlotte think the strawberry is?
+Answer: red_box
+Choices: A. green_basket, B. red_envelope, C. red_container, D. green_treasure_chest, E. green_bucket, F. red_bottle, G. blue_bucket, H. green_envelope, I. red_bathtub, J. blue_suitcase, K. red_crate, L. blue_envelope, M. blue_crate, N. red_box, O. red_basket

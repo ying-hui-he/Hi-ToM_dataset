@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Ella, Mia, Abigail and Evelyn entered the patio.
-2 The green_pepper is in the red_bottle.
-3 Logan made no movements and stayed in the patio for 10 minutes.
-4 Logan exited the patio and stayed in the waiting_room.
-5 Ella made no movements and stayed in the patio for 10 minutes.
-6 Ella exited the patio and stayed in the waiting_room.
-7 Mia moved the green_pepper to the green_bathtub.
-8 Mia exited the patio and stayed in the waiting_room.
-9 Abigail moved the green_pepper to the red_treasure_chest.
-10 Abigail exited the patio and stayed in the waiting_room.
-11 Evelyn moved the green_pepper to the red_bottle.
-12 Evelyn exited the patio and stayed in the waiting_room.
-13 Mia, Logan and Abigail entered the patio.
-14 The asparagus is in the red_treasure_chest.
-15 Mia moved the asparagus to the blue_bucket.
-16 Mia exited the patio and stayed in the waiting_room.
-17 Logan moved the asparagus to the blue_bottle.
-18 Logan exited the patio and stayed in the waiting_room.
-19 Abigail made no movements and stayed in the patio for 10 minutes.
-20 Abigail exited the patio and stayed in the waiting_room.
-21 Ella, Mia, Evelyn and Logan entered the basement.
-22 The cucumber is in the red_basket.
-23 Ella made no movements and stayed in the basement for 10 minutes.
-24 Ella exited the basement and stayed in the waiting_room.
-25 Mia made no movements and stayed in the basement for 10 minutes.
-26 Mia exited the basement and stayed in the waiting_room.
-27 Evelyn made no movements and stayed in the basement for 10 minutes.
-28 Evelyn exited the basement and stayed in the waiting_room.
-29 Logan moved the cucumber to the blue_basket.
-30 Logan exited the basement and stayed in the waiting_room.
-31 Mia and Abigail entered the basement.
-32 The cucumber is in the blue_basket.
-33 Mia made no movements and stayed in the basement for 10 minutes.
-34 Mia exited the basement and stayed in the waiting_room.
-35 Abigail moved the cucumber to the red_basket.
-36 Abigail exited the basement and stayed in the waiting_room.
-Question: Where does Logan think Ella thinks Mia thinks Abigail thinks the green_pepper is?
-Choices: A. red_basket, B. blue_container, C. red_bucket, D. blue_basket, E. blue_box, F. red_treasure_chest, G. red_bottle, H. blue_bucket, I. green_bathtub, J. blue_bottle, K. blue_drawer, L. blue_treasure_chest, M. green_cupboard, N. blue_crate, O. blue_suitcase
+1 Emily, Ethan, Jacob, Logan and Gracie entered the sunroom.
+2 Jacob lost his phone.
+3 The onion is in the green_treasure_chest.
+4 Emily made no movements and stayed in the sunroom for 10 minutes.
+5 Emily exited the sunroom and stayed in the waiting_room.
+6 Ethan made no movements and stayed in the sunroom for 10 minutes.
+7 Ethan exited the sunroom and stayed in the waiting_room.
+8 Jacob made no movements and stayed in the sunroom for 10 minutes.
+9 Jacob exited the sunroom and stayed in the waiting_room.
+10 Logan made no movements and stayed in the sunroom for 10 minutes.
+11 Logan exited the sunroom and stayed in the waiting_room.
+12 Gracie moved the onion to the green_treasure_chest.
+13 Gracie exited the sunroom and stayed in the waiting_room.
+14 Jacob, Emily and Gracie entered the attic.
+15 The beans is in the green_box.
+16 Jacob made no movements and stayed in the attic for 10 minutes.
+17 Jacob exited the attic and stayed in the waiting_room.
+18 Emily made no movements and stayed in the attic for 10 minutes.
+19 Logan likes the red_envelope.
+20 Emily exited the attic and stayed in the waiting_room.
+21 Gracie made no movements and stayed in the attic for 10 minutes.
+22 Gracie exited the attic and stayed in the waiting_room.
+23 Jacob, Emily, Ethan and Gracie entered the garden.
+24 The pumpkin is in the green_bucket.
+25 Jacob made no movements and stayed in the garden for 10 minutes.
+26 Jacob exited the garden and stayed in the waiting_room.
+27 Emily moved the pumpkin to the blue_suitcase.
+28 Emily exited the garden and stayed in the waiting_room.
+29 Ethan made no movements and stayed in the garden for 10 minutes.
+30 Ethan exited the garden and stayed in the waiting_room.
+31 Gracie made no movements and stayed in the garden for 10 minutes.
+32 Gracie exited the garden and stayed in the waiting_room.
+33 Emily and Jacob entered the garden.
+34 The green_pepper is in the blue_suitcase.
+35 Emily made no movements and stayed in the garden for 10 minutes.
+36 Emily exited the garden and stayed in the waiting_room.
+37 Jacob made no movements and stayed in the garden for 10 minutes.
+38 Jacob exited the garden and stayed in the waiting_room.
+Question: Where does Ethan think Emily thinks Logan thinks Gracie thinks the onion is?
+40 Gracie dislikes the onion.
+Choices: A. red_basket, B. green_treasure_chest, C. green_bathtub, D. blue_treasure_chest, E. blue_drawer, F. red_pantry, G. green_box, H. red_crate, I. blue_crate, J. red_treasure_chest, K. blue_suitcase, L. green_bucket, M. green_bottle, N. green_suitcase, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

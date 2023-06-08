@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ethan, Jackson, Aiden, Amelia and Abigail entered the dining_room.
-2 The turnip is in the blue_bucket.
-3 Ethan moved the turnip to the red_bucket.
-4 Ethan exited the dining_room and stayed in the waiting_room.
-5 Jackson moved the turnip to the green_cupboard.
-6 Jackson exited the dining_room and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the dining_room for 10 minutes.
-8 Aiden exited the dining_room and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the dining_room for 10 minutes.
-10 Amelia exited the dining_room and stayed in the waiting_room.
-11 Abigail moved the turnip to the blue_bucket.
-12 Abigail exited the dining_room and stayed in the waiting_room.
-13 Jackson, Aiden and Amelia entered the dining_room.
-14 The turnip is in the blue_bucket.
-15 Jackson moved the turnip to the red_bucket.
-16 Jackson exited the dining_room and stayed in the waiting_room.
-17 Aiden made no movements and stayed in the dining_room for 10 minutes.
-18 Aiden exited the dining_room and stayed in the waiting_room.
-19 Amelia moved the turnip to the red_basket.
-20 Amelia exited the dining_room and stayed in the waiting_room.
-21 Aiden privately told Amelia that the turnip is actually in the green_cupboard.
-22 Amelia privately told Abigail that the turnip is actually in the red_basket.
-Question: Where does Abigail think Jackson thinks Ethan thinks the turnip is?
-Choices: A. green_suitcase, B. red_suitcase, C. red_crate, D. green_envelope, E. red_drawer, F. blue_bucket, G. red_bucket, H. blue_bathtub, I. green_cupboard, J. red_basket, K. green_bathtub, L. blue_envelope, M. blue_container, N. red_bottle, O. green_treasure_chest
+1 Amelia, Mila, Ava, Chloe and Sophia entered the bedroom.
+2 The cucumber is in the red_basket.
+3 Amelia made no movements and stayed in the bedroom for 10 minutes.
+4 Amelia exited the bedroom and stayed in the waiting_room.
+5 Mila made no movements and stayed in the bedroom for 10 minutes.
+6 Ava saw a cat.
+7 Mila exited the bedroom and stayed in the waiting_room.
+8 Ava moved the cucumber to the green_envelope.
+9 Ava exited the bedroom and stayed in the waiting_room.
+10 Chloe moved the cucumber to the red_pantry.
+11 Chloe exited the bedroom and stayed in the waiting_room.
+12 Sophia moved the cucumber to the red_basket.
+13 Sophia exited the bedroom and stayed in the waiting_room.
+14 Mila, Ava and Sophia entered the dining_room.
+15 The tomato is in the red_envelope.
+16 Mila moved the tomato to the green_box.
+17 Mila exited the dining_room and stayed in the waiting_room.
+18 Ava moved the tomato to the blue_treasure_chest.
+19 Ava exited the dining_room and stayed in the waiting_room.
+20 Sophia moved the tomato to the red_bucket.
+21 Sophia exited the dining_room and stayed in the waiting_room.
+22 Ava privately told Sophia that the tomato is actually in the red_envelope.
+23 Sophia privately told Chloe that the tomato is actually in the red_bucket.
+24 Chloe likes the blue_bottle.
+Question: Where does Chloe think Sophia thinks Ava thinks the cucumber is?
+Choices: A. green_treasure_chest, B. green_bathtub, C. blue_bathtub, D. blue_bottle, E. green_bottle, F. red_basket, G. red_pantry, H. green_pantry, I. green_envelope, J. red_bottle, K. red_envelope, L. blue_treasure_chest, M. green_box, N. red_bucket, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

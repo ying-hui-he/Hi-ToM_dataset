@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Abigail, Logan, Ella and Jayden entered the office.
-2 The spinach is in the green_envelope.
-3 Mila made no movements and stayed in the office for 10 minutes.
-4 Mila exited the office and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the office for 10 minutes.
-6 Abigail exited the office and stayed in the waiting_room.
-7 Logan made no movements and stayed in the office for 10 minutes.
-8 Logan exited the office and stayed in the waiting_room.
-9 Ella moved the spinach to the red_crate.
-10 Ella exited the office and stayed in the waiting_room.
-11 Jayden moved the spinach to the green_envelope.
-12 Jayden exited the office and stayed in the waiting_room.
-13 Ella, Jayden and Logan entered the cellar.
-14 The potato is in the red_bucket.
-15 Ella moved the potato to the red_drawer.
-16 Ella exited the cellar and stayed in the waiting_room.
-17 Jayden made no movements and stayed in the cellar for 10 minutes.
-18 Jayden exited the cellar and stayed in the waiting_room.
-19 Logan moved the potato to the green_bathtub.
-20 Logan exited the cellar and stayed in the waiting_room.
-21 Abigail, Jayden, Mila and Logan entered the cellar.
-22 The melon is in the green_crate.
-23 Abigail made no movements and stayed in the cellar for 10 minutes.
-24 Abigail exited the cellar and stayed in the waiting_room.
-25 Jayden made no movements and stayed in the cellar for 10 minutes.
-26 Jayden exited the cellar and stayed in the waiting_room.
-27 Mila made no movements and stayed in the cellar for 10 minutes.
-28 Mila exited the cellar and stayed in the waiting_room.
-29 Logan made no movements and stayed in the cellar for 10 minutes.
-30 Logan exited the cellar and stayed in the waiting_room.
-31 Abigail and Mila entered the office.
-32 The spinach is in the green_envelope.
-33 Abigail made no movements and stayed in the office for 10 minutes.
-34 Abigail exited the office and stayed in the waiting_room.
-35 Mila moved the spinach to the red_crate.
-36 Mila exited the office and stayed in the waiting_room.
-Question: Where does Abigail think Jayden thinks Ella thinks the spinach is?
-Choices: A. green_crate, B. red_bucket, C. green_bathtub, D. blue_bucket, E. red_drawer, F. green_envelope, G. blue_bathtub, H. blue_treasure_chest, I. red_crate, J. red_suitcase, K. blue_envelope, L. blue_suitcase, M. green_treasure_chest, N. red_treasure_chest, O. red_basket
+1 Mason, Hannah, Abigail, Jack and Isla entered the sunroom.
+2 The tomato is in the green_bottle.
+3 Mason made no movements and stayed in the sunroom for 10 minutes.
+4 Mason exited the sunroom and stayed in the waiting_room.
+5 Hannah moved the tomato to the red_crate.
+6 Jack dislikes the peas.
+7 Hannah exited the sunroom and stayed in the waiting_room.
+8 Abigail moved the tomato to the red_bathtub.
+9 Abigail exited the sunroom and stayed in the waiting_room.
+10 Jack moved the tomato to the blue_crate.
+11 Jack exited the sunroom and stayed in the waiting_room.
+12 Isla made no movements and stayed in the sunroom for 10 minutes.
+13 Isla exited the sunroom and stayed in the waiting_room.
+14 Abigail, Isla and Hannah entered the bathroom.
+15 The persimmon is in the green_envelope.
+16 Abigail moved the persimmon to the green_basket.
+17 Abigail exited the bathroom and stayed in the waiting_room.
+18 Isla made no movements and stayed in the bathroom for 10 minutes.
+19 Isla exited the bathroom and stayed in the waiting_room.
+20 Hannah moved the persimmon to the blue_bucket.
+21 Hannah exited the bathroom and stayed in the waiting_room.
+22 Hannah, Jack, Mason and Isla entered the garden.
+23 The lemon is in the green_pantry.
+24 Isla saw a mouse.
+25 Hannah moved the lemon to the green_bucket.
+26 Hannah exited the garden and stayed in the waiting_room.
+27 Jack made no movements and stayed in the garden for 10 minutes.
+28 Jack exited the garden and stayed in the waiting_room.
+29 Mason made no movements and stayed in the garden for 10 minutes.
+30 Mason exited the garden and stayed in the waiting_room.
+31 Mason likes the green_basket.
+32 Isla made no movements and stayed in the garden for 10 minutes.
+33 Isla exited the garden and stayed in the waiting_room.
+34 Hannah and Isla entered the garden.
+35 The lemon is in the green_bucket.
+36 Hannah made no movements and stayed in the garden for 10 minutes.
+37 Hannah exited the garden and stayed in the waiting_room.
+38 Isla moved the lemon to the green_pantry.
+39 Isla exited the garden and stayed in the waiting_room.
+Question: Where does Hannah think Mason thinks Isla thinks the tomato is?
+Choices: A. green_bucket, B. green_pantry, C. red_container, D. red_bottle, E. red_basket, F. green_envelope, G. green_treasure_chest, H. blue_bucket, I. red_bucket, J. green_basket, K. green_bottle, L. blue_crate, M. red_bathtub, N. red_crate, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

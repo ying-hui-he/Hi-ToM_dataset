@@ -1,45 +1,52 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 William, Charlotte, Ava, Gracie and Emma entered the bedroom.
-2 The pumpkin is in the red_drawer.
-3 William made no movements and stayed in the bedroom for 10 minutes.
-4 William exited the bedroom and stayed in the waiting_room.
-5 Charlotte made no movements and stayed in the bedroom for 10 minutes.
-6 Charlotte exited the bedroom and stayed in the waiting_room.
-7 Ava moved the pumpkin to the green_treasure_chest.
-8 Ava exited the bedroom and stayed in the waiting_room.
-9 Gracie moved the pumpkin to the blue_envelope.
-10 Gracie exited the bedroom and stayed in the waiting_room.
-11 Emma moved the pumpkin to the red_drawer.
-12 Emma exited the bedroom and stayed in the waiting_room.
-13 Emma, Gracie and William entered the bedroom.
-14 The orange is in the green_container.
-15 Emma moved the orange to the red_drawer.
-16 Emma exited the bedroom and stayed in the waiting_room.
-17 Gracie made no movements and stayed in the bedroom for 10 minutes.
-18 Gracie exited the bedroom and stayed in the waiting_room.
-19 William made no movements and stayed in the bedroom for 10 minutes.
-20 William exited the bedroom and stayed in the waiting_room.
-21 William publicly claimed that orange is in the red_drawer.
-22 Emma privately told William that the orange is actually in the blue_envelope.
-23 Emma, Gracie, Ava and William entered the basement.
-24 The spinach is in the red_container.
-25 Emma made no movements and stayed in the basement for 10 minutes.
-26 Emma exited the basement and stayed in the waiting_room.
-27 Gracie made no movements and stayed in the basement for 10 minutes.
-28 Gracie exited the basement and stayed in the waiting_room.
-29 Ava moved the spinach to the blue_crate.
-30 Ava exited the basement and stayed in the waiting_room.
-31 William made no movements and stayed in the basement for 10 minutes.
-32 William exited the basement and stayed in the waiting_room.
-33 Emma and Charlotte entered the bedroom.
-34 The pumpkin is in the red_drawer.
-35 Emma moved the pumpkin to the red_treasure_chest.
-36 Emma exited the bedroom and stayed in the waiting_room.
-37 Charlotte made no movements and stayed in the bedroom for 10 minutes.
-38 Charlotte exited the bedroom and stayed in the waiting_room.
-39 Charlotte publicly claimed that pumpkin is in the green_treasure_chest.
-40 Emma privately told Charlotte that the pumpkin is actually in the red_drawer.
-Question: Where does Ava think Charlotte thinks Gracie thinks the pumpkin is?
-Choices: A. red_container, B. blue_drawer, C. blue_crate, D. red_basket, E. red_envelope, F. red_drawer, G. green_container, H. blue_envelope, I. red_treasure_chest, J. green_treasure_chest, K. blue_bucket, L. blue_treasure_chest, M. red_bottle, N. blue_pantry, O. blue_box
+1 Isabella, Gracie, Liam, Hannah and Nathan entered the office.
+2 The cucumber is in the red_container.
+3 Isabella made no movements and stayed in the office for 10 minutes.
+4 Isabella exited the office and stayed in the waiting_room.
+5 Gracie moved the cucumber to the blue_envelope.
+6 Gracie exited the office and stayed in the waiting_room.
+7 Liam made no movements and stayed in the office for 10 minutes.
+8 Liam exited the office and stayed in the waiting_room.
+9 Hannah made no movements and stayed in the office for 10 minutes.
+10 Isabella likes the red_envelope.
+11 Hannah exited the office and stayed in the waiting_room.
+12 Nathan made no movements and stayed in the office for 10 minutes.
+13 Isabella saw a mouse.
+14 Nathan exited the office and stayed in the waiting_room.
+15 Isabella, Hannah and Gracie entered the office.
+16 The corn is in the green_cupboard.
+17 Isabella made no movements and stayed in the office for 10 minutes.
+18 Isabella exited the office and stayed in the waiting_room.
+19 Hannah moved the corn to the red_container.
+20 Gracie lost his phone.
+21 Hannah exited the office and stayed in the waiting_room.
+22 Gracie moved the corn to the blue_envelope.
+23 Gracie exited the office and stayed in the waiting_room.
+24 Hannah privately told Gracie that the corn is actually in the green_basket.
+25 Gracie privately told Nathan that the corn is actually in the blue_envelope.
+26 Hannah, Liam, Gracie and Nathan entered the workshop.
+27 The lettuce is in the red_box.
+28 Hannah moved the lettuce to the green_pantry.
+29 Hannah exited the workshop and stayed in the waiting_room.
+30 Liam made no movements and stayed in the workshop for 10 minutes.
+31 Liam exited the workshop and stayed in the waiting_room.
+32 Gracie moved the lettuce to the blue_crate.
+33 Nathan lost his watch.
+34 Gracie exited the workshop and stayed in the waiting_room.
+35 Nathan moved the lettuce to the blue_bucket.
+36 Liam likes the blue_bucket.
+37 Nathan exited the workshop and stayed in the waiting_room.
+38 Liam and Nathan entered the workshop.
+39 The lettuce is in the blue_bucket.
+40 Liam made no movements and stayed in the workshop for 10 minutes.
+41 Hannah lost his bottle.
+42 Liam exited the workshop and stayed in the waiting_room.
+43 Nathan made no movements and stayed in the workshop for 10 minutes.
+44 Hannah lost his phone.
+45 Nathan exited the workshop and stayed in the waiting_room.
+46 Liam publicly claimed that lettuce is in the blue_crate.
+47 Nathan privately told Liam that the lettuce is actually in the red_box.
+Question: Where does Nathan think Gracie thinks Isabella thinks the cucumber is?
+Choices: A. red_cupboard, B. red_bathtub, C. green_bottle, D. green_bucket, E. red_envelope, F. green_cupboard, G. red_container, H. green_basket, I. red_basket, J. blue_envelope, K. blue_crate, L. red_box, M. blue_bucket, N. green_bathtub, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

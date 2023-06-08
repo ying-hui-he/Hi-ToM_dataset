@@ -1,17 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 William, Aiden, Jayden, Avery and Owen entered the pantry.
-2 The green_pepper is in the red_bathtub.
-3 William moved the green_pepper to the green_bathtub.
-4 William exited the pantry and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the pantry for 10 minutes.
-6 Aiden exited the pantry and stayed in the waiting_room.
-7 Jayden made no movements and stayed in the pantry for 10 minutes.
-8 Jayden exited the pantry and stayed in the waiting_room.
-9 Avery made no movements and stayed in the pantry for 10 minutes.
-10 Avery exited the pantry and stayed in the waiting_room.
-11 Owen moved the green_pepper to the red_bathtub.
-12 Owen exited the pantry and stayed in the waiting_room.
-Question: Where does Jayden think Owen thinks William thinks the green_pepper is?
-Choices: A. green_bathtub, B. red_bathtub, C. blue_bottle, D. green_crate, E. red_bottle, F. blue_bucket, G. red_suitcase, H. blue_container, I. red_envelope, J. red_bucket, K. red_drawer, L. green_cupboard, M. green_treasure_chest, N. red_treasure_chest, O. blue_drawer
+1 Owen, Lucas, Mia, Mila and Emma entered the den.
+2 The pumpkin is in the green_cupboard.
+3 Owen moved the pumpkin to the red_crate.
+4 Mia saw a cat.
+5 Owen exited the den and stayed in the waiting_room.
+6 Lucas moved the pumpkin to the blue_drawer.
+7 Lucas exited the den and stayed in the waiting_room.
+8 Mia made no movements and stayed in the den for 10 minutes.
+9 Owen dislikes the tangerine.
+10 Mia exited the den and stayed in the waiting_room.
+11 Mila made no movements and stayed in the den for 10 minutes.
+12 Mila exited the den and stayed in the waiting_room.
+13 Emma made no movements and stayed in the den for 10 minutes.
+14 Mia dislikes the tangerine.
+15 Emma exited the den and stayed in the waiting_room.
+Question: Where does Emma think Mia thinks Owen thinks the pumpkin is?
+Choices: A. green_cupboard, B. blue_drawer, C. red_crate, D. blue_envelope, E. green_envelope, F. red_bucket, G. green_suitcase, H. green_pantry, I. blue_crate, J. red_treasure_chest, K. green_box, L. red_container, M. red_basket, N. blue_bathtub, O. blue_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

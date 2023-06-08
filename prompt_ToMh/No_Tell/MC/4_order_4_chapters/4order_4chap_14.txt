@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Oliver, Mia, Abigail and Ethan entered the master_bedroom.
-2 The green_pepper is in the blue_basket.
-3 Owen made no movements and stayed in the master_bedroom for 10 minutes.
-4 Owen exited the master_bedroom and stayed in the waiting_room.
-5 Oliver made no movements and stayed in the master_bedroom for 10 minutes.
-6 Oliver exited the master_bedroom and stayed in the waiting_room.
-7 Mia made no movements and stayed in the master_bedroom for 10 minutes.
-8 Mia exited the master_bedroom and stayed in the waiting_room.
-9 Abigail moved the green_pepper to the green_crate.
-10 Abigail exited the master_bedroom and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
-12 Ethan exited the master_bedroom and stayed in the waiting_room.
-13 Owen, Ethan and Oliver entered the closet.
-14 The peach is in the blue_drawer.
-15 Owen made no movements and stayed in the closet for 10 minutes.
-16 Owen exited the closet and stayed in the waiting_room.
-17 Ethan made no movements and stayed in the closet for 10 minutes.
-18 Ethan exited the closet and stayed in the waiting_room.
-19 Oliver moved the peach to the red_basket.
-20 Oliver exited the closet and stayed in the waiting_room.
-21 Mia, Abigail, Owen and Oliver entered the closet.
-22 The melon is in the red_treasure_chest.
-23 Mia made no movements and stayed in the closet for 10 minutes.
-24 Mia exited the closet and stayed in the waiting_room.
-25 Abigail moved the melon to the red_basket.
-26 Abigail exited the closet and stayed in the waiting_room.
-27 Owen made no movements and stayed in the closet for 10 minutes.
-28 Owen exited the closet and stayed in the waiting_room.
-29 Oliver made no movements and stayed in the closet for 10 minutes.
-30 Oliver exited the closet and stayed in the waiting_room.
-31 Mia and Ethan entered the front_yard.
-32 The plum is in the green_suitcase.
-33 Mia moved the plum to the green_bottle.
-34 Mia exited the front_yard and stayed in the waiting_room.
-35 Ethan made no movements and stayed in the front_yard for 10 minutes.
-36 Ethan exited the front_yard and stayed in the waiting_room.
-Question: Where does Oliver think Ethan thinks Owen thinks Abigail thinks the green_pepper is?
-Choices: A. red_treasure_chest, B. blue_drawer, C. blue_box, D. red_basket, E. green_bathtub, F. green_suitcase, G. blue_bathtub, H. red_suitcase, I. green_bottle, J. blue_crate, K. blue_basket, L. blue_pantry, M. green_cupboard, N. blue_container, O. green_crate
+1 Emily, Owen, Charlotte, Alexander and Gracie entered the porch.
+2 The grapefruit is in the red_envelope.
+3 Emily moved the grapefruit to the blue_cupboard.
+4 Charlotte lost his bottle.
+5 Emily exited the porch and stayed in the waiting_room.
+6 Owen moved the grapefruit to the green_bottle.
+7 Owen exited the porch and stayed in the waiting_room.
+8 Charlotte made no movements and stayed in the porch for 10 minutes.
+9 Charlotte exited the porch and stayed in the waiting_room.
+10 Alexander moved the grapefruit to the red_pantry.
+11 Emily lost his bottle.
+12 Alexander exited the porch and stayed in the waiting_room.
+13 Gracie made no movements and stayed in the porch for 10 minutes.
+14 Gracie exited the porch and stayed in the waiting_room.
+15 Alexander, Emily and Owen entered the garage.
+16 The beans is in the green_box.
+17 Alexander made no movements and stayed in the garage for 10 minutes.
+18 Alexander exited the garage and stayed in the waiting_room.
+19 Emily made no movements and stayed in the garage for 10 minutes.
+20 Emily exited the garage and stayed in the waiting_room.
+21 Owen moved the beans to the blue_drawer.
+22 Owen exited the garage and stayed in the waiting_room.
+23 Gracie, Owen, Emily and Charlotte entered the TV_room.
+24 The strawberry is in the green_suitcase.
+25 Gracie made no movements and stayed in the TV_room for 10 minutes.
+26 Alexander likes the red_cupboard.
+27 Gracie exited the TV_room and stayed in the waiting_room.
+28 Owen moved the strawberry to the red_box.
+29 Owen exited the TV_room and stayed in the waiting_room.
+30 Emily moved the strawberry to the red_container.
+31 Emily exited the TV_room and stayed in the waiting_room.
+32 Charlotte made no movements and stayed in the TV_room for 10 minutes.
+33 Charlotte exited the TV_room and stayed in the waiting_room.
+34 Emily and Gracie entered the porch.
+35 The grapefruit is in the red_pantry.
+36 Emily moved the grapefruit to the red_envelope.
+37 Emily exited the porch and stayed in the waiting_room.
+38 Gracie made no movements and stayed in the porch for 10 minutes.
+39 Gracie exited the porch and stayed in the waiting_room.
+Question: Where does Emily think Charlotte thinks Owen thinks Alexander thinks the grapefruit is?
+Choices: A. green_suitcase, B. green_treasure_chest, C. red_box, D. red_bathtub, E. red_container, F. red_crate, G. green_box, H. blue_envelope, I. blue_drawer, J. green_cupboard, K. green_bottle, L. red_envelope, M. blue_cupboard, N. red_pantry, O. red_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

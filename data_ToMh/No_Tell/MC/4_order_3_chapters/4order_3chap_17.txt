@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Jayden, Oliver, Evelyn and William entered the garden.
-2 The beans is in the red_basket.
-3 Jacob made no movements and stayed in the garden for 10 minutes.
-4 Jacob exited the garden and stayed in the waiting_room.
-5 Jayden made no movements and stayed in the garden for 10 minutes.
-6 Jayden exited the garden and stayed in the waiting_room.
-7 Oliver moved the beans to the blue_treasure_chest.
-8 Oliver exited the garden and stayed in the waiting_room.
-9 Evelyn moved the beans to the green_crate.
-10 Evelyn exited the garden and stayed in the waiting_room.
-11 William made no movements and stayed in the garden for 10 minutes.
-12 William exited the garden and stayed in the waiting_room.
-13 Jacob, William and Oliver entered the closet.
-14 The melon is in the green_bathtub.
-15 Jacob moved the melon to the blue_bathtub.
-16 Jacob exited the closet and stayed in the waiting_room.
-17 William made no movements and stayed in the closet for 10 minutes.
-18 William exited the closet and stayed in the waiting_room.
-19 Oliver moved the melon to the green_container.
-20 Oliver exited the closet and stayed in the waiting_room.
-21 Jayden, William, Oliver and Jacob entered the staircase.
-22 The tangerine is in the blue_container.
-23 Jayden made no movements and stayed in the staircase for 10 minutes.
-24 Jayden exited the staircase and stayed in the waiting_room.
-25 William moved the tangerine to the red_treasure_chest.
-26 William exited the staircase and stayed in the waiting_room.
-27 Oliver made no movements and stayed in the staircase for 10 minutes.
-28 Oliver exited the staircase and stayed in the waiting_room.
-29 Jacob moved the tangerine to the red_bucket.
-30 Jacob exited the staircase and stayed in the waiting_room.
-Question: Where does Evelyn think Jayden thinks William thinks Oliver thinks the beans is?
+1 Hannah, Ava, Ethan, Lucas and Charlotte entered the bedroom.
+2 The cucumber is in the red_container.
+3 Charlotte lost his watch.
+4 Hannah made no movements and stayed in the bedroom for 10 minutes.
+5 Hannah exited the bedroom and stayed in the waiting_room.
+6 Ava moved the cucumber to the red_cupboard.
+7 Ava exited the bedroom and stayed in the waiting_room.
+8 Ethan made no movements and stayed in the bedroom for 10 minutes.
+9 Ethan exited the bedroom and stayed in the waiting_room.
+10 Lucas moved the cucumber to the green_bucket.
+11 Lucas exited the bedroom and stayed in the waiting_room.
+12 Charlotte moved the cucumber to the red_container.
+13 Charlotte exited the bedroom and stayed in the waiting_room.
+14 Ethan, Charlotte and Lucas entered the pantry.
+15 The corn is in the green_pantry.
+16 Ethan moved the corn to the red_envelope.
+17 Ethan exited the pantry and stayed in the waiting_room.
+18 Charlotte made no movements and stayed in the pantry for 10 minutes.
+19 Charlotte exited the pantry and stayed in the waiting_room.
+20 Lucas moved the corn to the blue_suitcase.
+21 Lucas exited the pantry and stayed in the waiting_room.
+22 Hannah, Charlotte, Ethan and Lucas entered the hallway.
+23 The beans is in the green_suitcase.
+24 Hannah made no movements and stayed in the hallway for 10 minutes.
+25 Ethan dislikes the corn.
+26 Hannah exited the hallway and stayed in the waiting_room.
+27 Charlotte made no movements and stayed in the hallway for 10 minutes.
+28 Charlotte exited the hallway and stayed in the waiting_room.
+29 Ethan made no movements and stayed in the hallway for 10 minutes.
+30 Ethan exited the hallway and stayed in the waiting_room.
+31 Lucas made no movements and stayed in the hallway for 10 minutes.
+32 Charlotte saw a monkey.
+33 Lucas exited the hallway and stayed in the waiting_room.
+Question: Where does Charlotte think Ava thinks Ethan thinks Hannah thinks the cucumber is?
 Answer: None
-Choices: A. green_envelope, B. green_bathtub, C. green_container, D. red_container, E. blue_bathtub, F. blue_container, G. green_bottle, H. green_cupboard, I. red_treasure_chest, J. red_bucket, K. green_crate, L. red_basket, M. blue_drawer, N. blue_basket, O. blue_treasure_chest
+Choices: A. green_bottle, B. green_suitcase, C. blue_bathtub, D. blue_bucket, E. blue_crate, F. red_container, G. green_bucket, H. red_cupboard, I. red_bottle, J. green_box, K. green_pantry, L. blue_suitcase, M. green_treasure_chest, N. red_envelope, O. blue_drawer

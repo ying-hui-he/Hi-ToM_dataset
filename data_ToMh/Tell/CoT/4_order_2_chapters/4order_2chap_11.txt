@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Mia, Ava, Gracie and Jacob entered the laundry.
-2 The melon is in the red_container.
-3 Hannah made no movements and stayed in the laundry for 10 minutes.
-4 Hannah exited the laundry and stayed in the waiting_room.
-5 Mia made no movements and stayed in the laundry for 10 minutes.
-6 Mia exited the laundry and stayed in the waiting_room.
-7 Ava moved the melon to the red_drawer.
-8 Ava exited the laundry and stayed in the waiting_room.
-9 Gracie moved the melon to the green_bottle.
-10 Gracie exited the laundry and stayed in the waiting_room.
-11 Jacob moved the melon to the red_container.
-12 Jacob exited the laundry and stayed in the waiting_room.
-13 Ava, Gracie and Hannah entered the kitchen.
-14 The turnip is in the red_suitcase.
-15 Ava moved the turnip to the green_container.
-16 Ava exited the kitchen and stayed in the waiting_room.
-17 Gracie moved the turnip to the blue_bottle.
-18 Gracie exited the kitchen and stayed in the waiting_room.
-19 Hannah moved the turnip to the red_envelope.
-20 Hannah exited the kitchen and stayed in the waiting_room.
-21 Hannah publicly claimed that turnip is in the red_envelope.
-22 Ava privately told Hannah that the turnip is actually in the green_container.
-Question: Where does Mia think Gracie thinks Jacob thinks Ava thinks the melon is?
+1 Charlotte, Mason, Hannah, Aria and Emily entered the hallway.
+2 Aria saw a cat.
+3 The pumpkin is in the blue_bucket.
+4 Charlotte moved the pumpkin to the red_envelope.
+5 Charlotte exited the hallway and stayed in the waiting_room.
+6 Mason moved the pumpkin to the blue_suitcase.
+7 Mason exited the hallway and stayed in the waiting_room.
+8 Hannah made no movements and stayed in the hallway for 10 minutes.
+9 Hannah exited the hallway and stayed in the waiting_room.
+10 Aria made no movements and stayed in the hallway for 10 minutes.
+11 Aria exited the hallway and stayed in the waiting_room.
+12 Emily moved the pumpkin to the blue_bucket.
+13 Emily exited the hallway and stayed in the waiting_room.
+14 Emily, Aria and Charlotte entered the dining_room.
+15 The persimmon is in the red_cupboard.
+16 Emily moved the persimmon to the green_suitcase.
+17 Emily exited the dining_room and stayed in the waiting_room.
+18 Aria lost his watch.
+19 Aria made no movements and stayed in the dining_room for 10 minutes.
+20 Aria exited the dining_room and stayed in the waiting_room.
+21 Charlotte saw a dog.
+22 Charlotte moved the persimmon to the green_envelope.
+23 Charlotte exited the dining_room and stayed in the waiting_room.
+24 Charlotte publicly claimed that persimmon is in the green_cupboard.
+25 Emily privately told Charlotte that the persimmon is actually in the green_suitcase.
+Question: Where does Aria think Charlotte thinks Hannah thinks Mason thinks the pumpkin is?
 Answer: None
-Choices: A. red_drawer, B. red_container, C. green_bottle, D. blue_bathtub, E. blue_drawer, F. green_container, G. red_suitcase, H. red_envelope, I. blue_envelope, J. blue_bottle, K. red_crate, L. red_basket, M. red_bathtub, N. green_treasure_chest, O. red_treasure_chest
+Choices: A. blue_bucket, B. red_envelope, C. red_bathtub, D. blue_suitcase, E. red_pantry, F. red_treasure_chest, G. green_box, H. red_container, I. red_box, J. red_basket, K. green_envelope, L. red_cupboard, M. green_suitcase, N. red_bottle, O. green_cupboard

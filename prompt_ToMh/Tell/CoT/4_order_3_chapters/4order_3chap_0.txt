@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ethan, Evelyn, Avery, Noah and Jack entered the attic.
-2 The banana is in the red_suitcase.
-3 Ethan made no movements and stayed in the attic for 10 minutes.
-4 Ethan exited the attic and stayed in the waiting_room.
-5 Evelyn moved the banana to the red_envelope.
-6 Evelyn exited the attic and stayed in the waiting_room.
-7 Avery made no movements and stayed in the attic for 10 minutes.
-8 Avery exited the attic and stayed in the waiting_room.
-9 Noah made no movements and stayed in the attic for 10 minutes.
-10 Noah exited the attic and stayed in the waiting_room.
-11 Jack moved the banana to the red_suitcase.
-12 Jack exited the attic and stayed in the waiting_room.
-13 Noah publicly claimed that banana is in the red_suitcase.
-14 Jack privately told Ethan that the banana is actually in the red_suitcase.
-15 Avery, Evelyn and Jack entered the attic.
-16 The asparagus is in the blue_envelope.
-17 Avery moved the asparagus to the red_suitcase.
-18 Avery exited the attic and stayed in the waiting_room.
-19 Evelyn moved the asparagus to the red_envelope.
-20 Evelyn exited the attic and stayed in the waiting_room.
-21 Jack moved the asparagus to the blue_bathtub.
-22 Jack exited the attic and stayed in the waiting_room.
-23 Ethan, Noah, Avery and Jack entered the pantry.
-24 The corn is in the blue_bucket.
-25 Ethan moved the corn to the blue_pantry.
-26 Ethan exited the pantry and stayed in the waiting_room.
-27 Noah moved the corn to the green_cupboard.
-28 Noah exited the pantry and stayed in the waiting_room.
-29 Avery moved the corn to the red_bathtub.
-30 Avery exited the pantry and stayed in the waiting_room.
-31 Jack made no movements and stayed in the pantry for 10 minutes.
-32 Jack exited the pantry and stayed in the waiting_room.
-33 Noah publicly claimed that corn is in the green_cupboard.
-34 Jack privately told Avery that the corn is actually in the blue_pantry.
-Question: Where does Noah think Jack thinks Ethan thinks Avery thinks the banana is?
-Choices: A. blue_envelope, B. red_suitcase, C. blue_bathtub, D. red_envelope, E. green_suitcase, F. blue_pantry, G. blue_bucket, H. red_bathtub, I. red_drawer, J. green_cupboard, K. red_container, L. blue_suitcase, M. blue_treasure_chest, N. blue_crate, O. green_envelope
+1 Jacob, Emma, Chloe, Ella and Emily entered the attic.
+2 The beans is in the red_crate.
+3 Jacob saw a monkey.
+4 Jacob moved the beans to the red_box.
+5 Jacob exited the attic and stayed in the waiting_room.
+6 Emma moved the beans to the green_treasure_chest.
+7 Emma exited the attic and stayed in the waiting_room.
+8 Chloe made no movements and stayed in the attic for 10 minutes.
+9 Chloe exited the attic and stayed in the waiting_room.
+10 Ella made no movements and stayed in the attic for 10 minutes.
+11 Ella exited the attic and stayed in the waiting_room.
+12 Emily made no movements and stayed in the attic for 10 minutes.
+13 Emily exited the attic and stayed in the waiting_room.
+14 Chloe privately told Jacob that the beans is actually in the red_crate.
+15 Emma privately told Ella that the beans is actually in the red_cupboard.
+16 Emma, Chloe and Ella entered the office.
+17 The celery is in the red_treasure_chest.
+18 Emma made no movements and stayed in the office for 10 minutes.
+19 Emma exited the office and stayed in the waiting_room.
+20 Chloe moved the celery to the red_envelope.
+21 Chloe exited the office and stayed in the waiting_room.
+22 Ella made no movements and stayed in the office for 10 minutes.
+23 Ella exited the office and stayed in the waiting_room.
+24 Emma, Jacob, Chloe and Emily entered the attic.
+25 The pumpkin is in the blue_crate.
+26 Emma made no movements and stayed in the attic for 10 minutes.
+27 Emma exited the attic and stayed in the waiting_room.
+28 Jacob moved the pumpkin to the red_box.
+29 Jacob exited the attic and stayed in the waiting_room.
+30 Chloe made no movements and stayed in the attic for 10 minutes.
+31 Jacob lost his phone.
+32 Chloe exited the attic and stayed in the waiting_room.
+33 Emily made no movements and stayed in the attic for 10 minutes.
+34 Emily exited the attic and stayed in the waiting_room.
+35 Chloe publicly claimed that pumpkin is in the green_treasure_chest.
+36 Emma privately told Emily that the pumpkin is actually in the red_box.
+Question: Where does Ella think Emma thinks Emily thinks Chloe thinks the beans is?
+Choices: A. blue_crate, B. red_crate, C. red_box, D. red_cupboard, E. green_treasure_chest, F. red_treasure_chest, G. green_bucket, H. red_envelope, I. green_suitcase, J. blue_suitcase, K. blue_bucket, L. red_basket, M. green_pantry, N. red_container, O. green_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

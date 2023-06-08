@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Amelia, Owen, Hannah, Emma and James entered the living_room.
-2 The potato is in the blue_suitcase.
-3 Amelia moved the potato to the red_bottle.
-4 Amelia exited the living_room and stayed in the waiting_room.
-5 Owen made no movements and stayed in the living_room for 10 minutes.
-6 Owen exited the living_room and stayed in the waiting_room.
-7 Hannah moved the potato to the green_cupboard.
-8 Hannah exited the living_room and stayed in the waiting_room.
-9 Emma made no movements and stayed in the living_room for 10 minutes.
-10 Emma exited the living_room and stayed in the waiting_room.
-11 James moved the potato to the blue_suitcase.
-12 James exited the living_room and stayed in the waiting_room.
-13 Owen, James and Hannah entered the living_room.
-14 The cucumber is in the green_crate.
-15 Owen made no movements and stayed in the living_room for 10 minutes.
-16 Owen exited the living_room and stayed in the waiting_room.
-17 James moved the cucumber to the green_cupboard.
-18 James exited the living_room and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the living_room for 10 minutes.
-20 Hannah exited the living_room and stayed in the waiting_room.
-21 Emma, James, Hannah and Owen entered the study.
-22 The celery is in the red_bathtub.
-23 Emma made no movements and stayed in the study for 10 minutes.
-24 Emma exited the study and stayed in the waiting_room.
-25 James made no movements and stayed in the study for 10 minutes.
-26 James exited the study and stayed in the waiting_room.
-27 Hannah moved the celery to the red_drawer.
-28 Hannah exited the study and stayed in the waiting_room.
-29 Owen made no movements and stayed in the study for 10 minutes.
-30 Owen exited the study and stayed in the waiting_room.
-Question: Where is the potato really?
-Choices: A. red_bathtub, B. blue_container, C. blue_bathtub, D. blue_drawer, E. red_drawer, F. blue_suitcase, G. green_crate, H. green_cupboard, I. red_treasure_chest, J. red_bottle, K. green_bottle, L. blue_basket, M. blue_bottle, N. blue_box, O. green_treasure_chest
+1 Ella, Jack, Liam, Nathan and Mila entered the staircase.
+2 The cucumber is in the red_cupboard.
+3 Jack dislikes the carrot.
+4 Ella moved the cucumber to the green_basket.
+5 Ella exited the staircase and stayed in the waiting_room.
+6 Jack made no movements and stayed in the staircase for 10 minutes.
+7 Jack exited the staircase and stayed in the waiting_room.
+8 Liam made no movements and stayed in the staircase for 10 minutes.
+9 Liam exited the staircase and stayed in the waiting_room.
+10 Nathan made no movements and stayed in the staircase for 10 minutes.
+11 Nathan exited the staircase and stayed in the waiting_room.
+12 Mila made no movements and stayed in the staircase for 10 minutes.
+13 Liam dislikes the banana.
+14 Mila exited the staircase and stayed in the waiting_room.
+15 Liam, Mila and Jack entered the office.
+16 The celery is in the red_container.
+17 Liam made no movements and stayed in the office for 10 minutes.
+18 Liam exited the office and stayed in the waiting_room.
+19 Mila made no movements and stayed in the office for 10 minutes.
+20 Mila exited the office and stayed in the waiting_room.
+21 Jack made no movements and stayed in the office for 10 minutes.
+22 Jack exited the office and stayed in the waiting_room.
+23 Jack, Mila, Liam and Ella entered the sunroom.
+24 The carrot is in the red_crate.
+25 Jack made no movements and stayed in the sunroom for 10 minutes.
+26 Jack exited the sunroom and stayed in the waiting_room.
+27 Mila moved the carrot to the green_pantry.
+28 Mila exited the sunroom and stayed in the waiting_room.
+29 Liam made no movements and stayed in the sunroom for 10 minutes.
+30 Mila lost his watch.
+31 Liam exited the sunroom and stayed in the waiting_room.
+32 Ella moved the carrot to the red_treasure_chest.
+33 Ella exited the sunroom and stayed in the waiting_room.
+Question: Where is the cucumber really?
+Choices: A. red_bottle, B. red_container, C. red_pantry, D. green_suitcase, E. red_bucket, F. blue_bucket, G. red_crate, H. blue_suitcase, I. red_treasure_chest, J. green_pantry, K. blue_bottle, L. red_cupboard, M. green_treasure_chest, N. green_basket, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

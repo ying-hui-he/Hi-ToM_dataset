@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Noah, Jack, Gracie and Aria entered the garage.
-2 The lemon is in the red_bathtub.
-3 Evelyn moved the lemon to the blue_pantry.
-4 Evelyn exited the garage and stayed in the waiting_room.
-5 Noah made no movements and stayed in the garage for 10 minutes.
-6 Noah exited the garage and stayed in the waiting_room.
-7 Jack moved the lemon to the green_bathtub.
-8 Jack exited the garage and stayed in the waiting_room.
-9 Gracie moved the lemon to the green_suitcase.
-10 Gracie exited the garage and stayed in the waiting_room.
-11 Aria made no movements and stayed in the garage for 10 minutes.
-12 Aria exited the garage and stayed in the waiting_room.
-13 Jack, Gracie and Aria entered the hallway.
-14 The tangerine is in the red_bucket.
-15 Jack moved the tangerine to the blue_bottle.
-16 Jack exited the hallway and stayed in the waiting_room.
-17 Gracie made no movements and stayed in the hallway for 10 minutes.
-18 Gracie exited the hallway and stayed in the waiting_room.
-19 Aria made no movements and stayed in the hallway for 10 minutes.
-20 Aria exited the hallway and stayed in the waiting_room.
-21 Gracie privately told Aria that the tangerine is actually in the blue_bottle.
-22 Aria privately told Noah that the tangerine is actually in the blue_bottle.
-Question: Where does Evelyn think the lemon is?
-Choices: A. blue_treasure_chest, B. green_container, C. green_cupboard, D. green_bottle, E. blue_bucket, F. green_bathtub, G. red_bathtub, H. blue_pantry, I. red_envelope, J. green_suitcase, K. blue_bottle, L. red_bucket, M. green_envelope, N. blue_suitcase, O. blue_container
+1 Mason, Carter, Jack, Charlotte and Nathan entered the porch.
+2 The pineapple is in the green_envelope.
+3 Mason made no movements and stayed in the porch for 10 minutes.
+4 Mason exited the porch and stayed in the waiting_room.
+5 Carter moved the pineapple to the green_box.
+6 Carter exited the porch and stayed in the waiting_room.
+7 Jack made no movements and stayed in the porch for 10 minutes.
+8 Jack exited the porch and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the porch for 10 minutes.
+10 Charlotte exited the porch and stayed in the waiting_room.
+11 Nathan moved the pineapple to the green_envelope.
+12 Nathan exited the porch and stayed in the waiting_room.
+13 Carter, Jack and Nathan entered the playroom.
+14 The grapes is in the green_treasure_chest.
+15 Carter moved the grapes to the red_box.
+16 Carter exited the playroom and stayed in the waiting_room.
+17 Jack moved the grapes to the green_pantry.
+18 Jack exited the playroom and stayed in the waiting_room.
+19 Nathan made no movements and stayed in the playroom for 10 minutes.
+20 Nathan exited the playroom and stayed in the waiting_room.
+21 Nathan publicly claimed that grapes is in the red_box.
+22 Carter privately told Nathan that the grapes is actually in the green_bathtub.
+Question: Where does Nathan think the pineapple is?
+Choices: A. green_envelope, B. red_cupboard, C. green_cupboard, D. green_box, E. blue_bottle, F. blue_bathtub, G. blue_treasure_chest, H. blue_bucket, I. red_bucket, J. green_bucket, K. green_treasure_chest, L. blue_drawer, M. red_box, N. green_bathtub, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

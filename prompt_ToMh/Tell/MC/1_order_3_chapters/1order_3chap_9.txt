@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Jayden, Amelia, Gracie and Aiden entered the crawlspace.
-2 The lemon is in the red_container.
-3 Emily made no movements and stayed in the crawlspace for 10 minutes.
-4 Emily exited the crawlspace and stayed in the waiting_room.
-5 Jayden moved the lemon to the green_treasure_chest.
-6 Jayden exited the crawlspace and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the crawlspace for 10 minutes.
-8 Amelia exited the crawlspace and stayed in the waiting_room.
-9 Gracie moved the lemon to the blue_crate.
-10 Gracie exited the crawlspace and stayed in the waiting_room.
-11 Aiden made no movements and stayed in the crawlspace for 10 minutes.
-12 Aiden exited the crawlspace and stayed in the waiting_room.
-13 Gracie publicly claimed that lemon is in the red_container.
-14 Aiden privately told Emily that the lemon is actually in the blue_crate.
-15 Emily, Gracie and Amelia entered the closet.
-16 The pumpkin is in the blue_pantry.
-17 Emily moved the pumpkin to the green_bottle.
-18 Emily exited the closet and stayed in the waiting_room.
-19 Gracie moved the pumpkin to the blue_box.
-20 Gracie exited the closet and stayed in the waiting_room.
-21 Amelia made no movements and stayed in the closet for 10 minutes.
-22 Amelia exited the closet and stayed in the waiting_room.
-23 Gracie, Amelia, Aiden and Emily entered the closet.
-24 The pumpkin is in the blue_box.
-25 Gracie made no movements and stayed in the closet for 10 minutes.
-26 Gracie exited the closet and stayed in the waiting_room.
-27 Amelia made no movements and stayed in the closet for 10 minutes.
-28 Amelia exited the closet and stayed in the waiting_room.
-29 Aiden made no movements and stayed in the closet for 10 minutes.
-30 Aiden exited the closet and stayed in the waiting_room.
-31 Emily moved the pumpkin to the red_bottle.
-32 Emily exited the closet and stayed in the waiting_room.
-33 Aiden publicly claimed that pumpkin is in the green_cupboard.
-34 Gracie privately told Emily that the pumpkin is actually in the blue_box.
-Question: Where does Jayden think the lemon is?
-Choices: A. blue_pantry, B. red_bottle, C. blue_box, D. green_bottle, E. green_cupboard, F. red_basket, G. blue_drawer, H. red_bathtub, I. green_bathtub, J. green_suitcase, K. red_container, L. blue_suitcase, M. blue_bottle, N. blue_crate, O. green_treasure_chest
+1 Mason, Jackson, Abigail, Hannah and Ethan entered the garage.
+2 The onion is in the red_cupboard.
+3 Mason moved the onion to the green_cupboard.
+4 Mason exited the garage and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the garage for 10 minutes.
+6 Jackson exited the garage and stayed in the waiting_room.
+7 Abigail moved the onion to the red_bucket.
+8 Abigail exited the garage and stayed in the waiting_room.
+9 Hannah moved the onion to the red_box.
+10 Mason lost his watch.
+11 Hannah exited the garage and stayed in the waiting_room.
+12 Ethan moved the onion to the red_cupboard.
+13 Ethan exited the garage and stayed in the waiting_room.
+14 Hannah publicly claimed that onion is in the green_cupboard.
+15 Mason likes the green_bathtub.
+16 Ethan privately told Mason that the onion is actually in the red_cupboard.
+17 Mason dislikes the potato.
+18 Mason, Hannah and Jackson entered the attic.
+19 The potato is in the blue_treasure_chest.
+20 Hannah likes the blue_treasure_chest.
+21 Mason made no movements and stayed in the attic for 10 minutes.
+22 Mason exited the attic and stayed in the waiting_room.
+23 Hannah moved the potato to the green_pantry.
+24 Hannah exited the attic and stayed in the waiting_room.
+25 Jackson made no movements and stayed in the attic for 10 minutes.
+26 Jackson exited the attic and stayed in the waiting_room.
+27 Abigail, Jackson, Hannah and Mason entered the attic.
+28 The melon is in the red_crate.
+29 Abigail made no movements and stayed in the attic for 10 minutes.
+30 Abigail exited the attic and stayed in the waiting_room.
+31 Jackson made no movements and stayed in the attic for 10 minutes.
+32 Jackson exited the attic and stayed in the waiting_room.
+33 Hannah moved the melon to the blue_drawer.
+34 Hannah exited the attic and stayed in the waiting_room.
+35 Mason made no movements and stayed in the attic for 10 minutes.
+36 Mason exited the attic and stayed in the waiting_room.
+37 Jackson privately told Hannah that the melon is actually in the red_basket.
+38 Mason privately told Ethan that the melon is actually in the blue_drawer.
+Question: Where does Jackson think the onion is?
+Choices: A. red_box, B. red_cupboard, C. green_cupboard, D. green_box, E. red_bucket, F. red_crate, G. blue_treasure_chest, H. green_pantry, I. blue_drawer, J. red_basket, K. blue_crate, L. blue_bucket, M. blue_cupboard, N. red_bottle, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

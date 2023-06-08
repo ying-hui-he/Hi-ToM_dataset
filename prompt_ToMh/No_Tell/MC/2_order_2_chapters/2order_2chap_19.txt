@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Hannah, Gracie, Jayden and Mila entered the playroom.
-2 The spinach is in the red_crate.
-3 Jackson made no movements and stayed in the playroom for 10 minutes.
-4 Jackson exited the playroom and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the playroom for 10 minutes.
-6 Hannah exited the playroom and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the playroom for 10 minutes.
-8 Gracie exited the playroom and stayed in the waiting_room.
-9 Jayden moved the spinach to the blue_treasure_chest.
-10 Jayden exited the playroom and stayed in the waiting_room.
-11 Mila made no movements and stayed in the playroom for 10 minutes.
-12 Mila exited the playroom and stayed in the waiting_room.
-13 Gracie, Jackson and Hannah entered the playroom.
-14 The spinach is in the blue_treasure_chest.
-15 Gracie moved the spinach to the red_crate.
-16 Gracie exited the playroom and stayed in the waiting_room.
-17 Jackson made no movements and stayed in the playroom for 10 minutes.
-18 Jackson exited the playroom and stayed in the waiting_room.
-19 Hannah moved the spinach to the red_envelope.
-20 Hannah exited the playroom and stayed in the waiting_room.
-Question: Where does Jayden think Gracie thinks the spinach is?
-Choices: A. red_crate, B. red_envelope, C. blue_pantry, D. blue_bottle, E. blue_treasure_chest, F. blue_container, G. red_suitcase, H. blue_drawer, I. blue_box, J. blue_crate, K. blue_suitcase, L. blue_bucket, M. red_basket, N. green_cupboard, O. green_bottle
+1 Charlotte, Ella, Liam, Aiden and Sophia entered the crawlspace.
+2 The grapes is in the red_container.
+3 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
+4 Charlotte exited the crawlspace and stayed in the waiting_room.
+5 Ella moved the grapes to the green_box.
+6 Ella exited the crawlspace and stayed in the waiting_room.
+7 Liam moved the grapes to the blue_bottle.
+8 Liam exited the crawlspace and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the crawlspace for 10 minutes.
+10 Aiden exited the crawlspace and stayed in the waiting_room.
+11 Charlotte lost his bottle.
+12 Sophia moved the grapes to the red_container.
+13 Sophia exited the crawlspace and stayed in the waiting_room.
+14 Ella lost his bottle.
+15 Liam, Charlotte and Sophia entered the crawlspace.
+16 The grapes is in the red_container.
+17 Liam moved the grapes to the blue_treasure_chest.
+18 Liam exited the crawlspace and stayed in the waiting_room.
+19 Liam lost his bottle.
+20 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
+21 Charlotte exited the crawlspace and stayed in the waiting_room.
+22 Sophia made no movements and stayed in the crawlspace for 10 minutes.
+23 Sophia exited the crawlspace and stayed in the waiting_room.
+Question: Where does Aiden think Charlotte thinks the grapes is?
+Choices: A. blue_bottle, B. red_container, C. red_box, D. green_box, E. blue_treasure_chest, F. red_bucket, G. blue_bucket, H. red_envelope, I. blue_bathtub, J. red_bottle, K. red_bathtub, L. green_pantry, M. green_suitcase, N. green_envelope, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

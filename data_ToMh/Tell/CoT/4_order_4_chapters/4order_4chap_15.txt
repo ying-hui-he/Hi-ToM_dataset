@@ -1,45 +1,53 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Isla, Aiden, James, Oliver and Avery entered the hallway.
-2 The cherry is in the blue_box.
-3 Isla moved the cherry to the green_treasure_chest.
-4 Isla exited the hallway and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the hallway for 10 minutes.
-6 Aiden exited the hallway and stayed in the waiting_room.
-7 James moved the cherry to the blue_treasure_chest.
-8 James exited the hallway and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the hallway for 10 minutes.
-10 Oliver exited the hallway and stayed in the waiting_room.
-11 Avery made no movements and stayed in the hallway for 10 minutes.
-12 Avery exited the hallway and stayed in the waiting_room.
-13 Aiden, Oliver and Avery entered the dining_room.
-14 The corn is in the green_bathtub.
-15 Aiden moved the corn to the red_bottle.
-16 Aiden exited the dining_room and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the dining_room for 10 minutes.
-18 Oliver exited the dining_room and stayed in the waiting_room.
-19 Avery moved the corn to the red_crate.
-20 Avery exited the dining_room and stayed in the waiting_room.
-21 Aiden publicly claimed that corn is in the blue_drawer.
-22 Avery privately told Isla that the corn is actually in the red_crate.
-23 James, Oliver, Avery and Aiden entered the dining_room.
-24 The spinach is in the green_suitcase.
-25 James moved the spinach to the green_bathtub.
-26 James exited the dining_room and stayed in the waiting_room.
-27 Oliver made no movements and stayed in the dining_room for 10 minutes.
-28 Oliver exited the dining_room and stayed in the waiting_room.
-29 Avery made no movements and stayed in the dining_room for 10 minutes.
-30 Avery exited the dining_room and stayed in the waiting_room.
-31 Aiden made no movements and stayed in the dining_room for 10 minutes.
-32 Aiden exited the dining_room and stayed in the waiting_room.
-33 Isla and Aiden entered the dining_room.
-34 The corn is in the red_crate.
-35 Isla made no movements and stayed in the dining_room for 10 minutes.
-36 Isla exited the dining_room and stayed in the waiting_room.
-37 Aiden made no movements and stayed in the dining_room for 10 minutes.
-38 Aiden exited the dining_room and stayed in the waiting_room.
-39 Aiden publicly claimed that corn is in the green_suitcase.
-40 Isla privately told Aiden that the corn is actually in the green_bathtub.
-Question: Where does Oliver think Aiden thinks Isla thinks Avery thinks the cherry is?
+1 Aiden, Ella, Mason, Jacob and Jackson entered the sunroom.
+2 The pumpkin is in the blue_treasure_chest.
+3 Aiden moved the pumpkin to the blue_bucket.
+4 Aiden exited the sunroom and stayed in the waiting_room.
+5 Ella moved the pumpkin to the green_bottle.
+6 Ella exited the sunroom and stayed in the waiting_room.
+7 Mason moved the pumpkin to the green_suitcase.
+8 Mason exited the sunroom and stayed in the waiting_room.
+9 Jacob made no movements and stayed in the sunroom for 10 minutes.
+10 Jacob exited the sunroom and stayed in the waiting_room.
+11 Jackson moved the pumpkin to the blue_treasure_chest.
+12 Jackson exited the sunroom and stayed in the waiting_room.
+13 Jacob, Ella and Mason entered the sunroom.
+14 The tomato is in the blue_cupboard.
+15 Mason dislikes the watermelon.
+16 Jacob moved the tomato to the green_bottle.
+17 Jackson lost his bottle.
+18 Jacob exited the sunroom and stayed in the waiting_room.
+19 Ella lost his bottle.
+20 Ella made no movements and stayed in the sunroom for 10 minutes.
+21 Ella exited the sunroom and stayed in the waiting_room.
+22 Aiden likes the blue_cupboard.
+23 Mason made no movements and stayed in the sunroom for 10 minutes.
+24 Mason exited the sunroom and stayed in the waiting_room.
+25 Mason publicly claimed that tomato is in the blue_bucket.
+26 Jacob privately told Mason that the tomato is actually in the green_bottle.
+27 Jacob, Aiden, Mason and Ella entered the sunroom.
+28 The tomato is in the green_bottle.
+29 Jacob moved the tomato to the blue_treasure_chest.
+30 Jackson lost his phone.
+31 Jacob exited the sunroom and stayed in the waiting_room.
+32 Ella likes the green_bucket.
+33 Aiden moved the tomato to the blue_cupboard.
+34 Aiden exited the sunroom and stayed in the waiting_room.
+35 Jacob saw a monkey.
+36 Mason made no movements and stayed in the sunroom for 10 minutes.
+37 Mason exited the sunroom and stayed in the waiting_room.
+38 Ella made no movements and stayed in the sunroom for 10 minutes.
+39 Ella exited the sunroom and stayed in the waiting_room.
+40 Jackson saw a cat.
+41 Jacob and Jackson entered the office.
+42 The turnip is in the green_pantry.
+43 Jacob moved the turnip to the blue_suitcase.
+44 Jacob exited the office and stayed in the waiting_room.
+45 Jackson moved the turnip to the red_crate.
+46 Jackson exited the office and stayed in the waiting_room.
+47 Jackson publicly claimed that turnip is in the blue_suitcase.
+48 Jacob privately told Jackson that the turnip is actually in the blue_bottle.
+Question: Where does Jackson think Ella thinks Aiden thinks Jacob thinks the pumpkin is?
 Answer: None
-Choices: A. red_bathtub, B. blue_bathtub, C. blue_envelope, D. blue_pantry, E. blue_bucket, F. red_envelope, G. blue_box, H. blue_treasure_chest, I. green_treasure_chest, J. red_treasure_chest, K. green_bathtub, L. green_suitcase, M. red_crate, N. red_bottle, O. blue_drawer
+Choices: A. green_pantry, B. blue_suitcase, C. red_crate, D. green_bucket, E. blue_bottle, F. green_treasure_chest, G. red_pantry, H. red_bathtub, I. green_box, J. green_cupboard, K. blue_treasure_chest, L. blue_cupboard, M. green_suitcase, N. green_bottle, O. blue_bucket

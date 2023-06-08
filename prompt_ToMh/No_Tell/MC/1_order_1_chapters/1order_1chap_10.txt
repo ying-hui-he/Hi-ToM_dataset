@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Olivia, Amelia, Aria and Ethan entered the hallway.
-2 The tangerine is in the red_bucket.
-3 Benjamin made no movements and stayed in the hallway for 10 minutes.
-4 Benjamin exited the hallway and stayed in the waiting_room.
-5 Olivia moved the tangerine to the red_bathtub.
-6 Olivia exited the hallway and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the hallway for 10 minutes.
-8 Amelia exited the hallway and stayed in the waiting_room.
-9 Aria moved the tangerine to the red_basket.
-10 Aria exited the hallway and stayed in the waiting_room.
-11 Ethan moved the tangerine to the red_bucket.
-12 Ethan exited the hallway and stayed in the waiting_room.
-Question: Where does Aria think the tangerine is?
-Choices: A. blue_bathtub, B. green_treasure_chest, C. blue_pantry, D. red_suitcase, E. blue_crate, F. red_bottle, G. green_crate, H. red_crate, I. red_treasure_chest, J. red_container, K. red_bucket, L. red_bathtub, M. red_basket, N. green_bathtub, O. green_container
+1 Jackson, Lucas, Jack, Hannah and Isabella entered the hall.
+2 The apple is in the green_pantry.
+3 Jackson made no movements and stayed in the hall for 10 minutes.
+4 Jackson exited the hall and stayed in the waiting_room.
+5 Lucas moved the apple to the blue_bathtub.
+6 Lucas exited the hall and stayed in the waiting_room.
+7 Jack made no movements and stayed in the hall for 10 minutes.
+8 Jack exited the hall and stayed in the waiting_room.
+9 Hannah moved the apple to the red_box.
+10 Lucas likes the blue_cupboard.
+11 Hannah exited the hall and stayed in the waiting_room.
+12 Isabella made no movements and stayed in the hall for 10 minutes.
+13 Isabella exited the hall and stayed in the waiting_room.
+Question: Where does Jack think the apple is?
+Choices: A. green_suitcase, B. red_bucket, C. green_bucket, D. blue_crate, E. red_bathtub, F. green_pantry, G. blue_bathtub, H. green_treasure_chest, I. blue_envelope, J. red_box, K. red_envelope, L. red_crate, M. green_box, N. blue_bucket, O. blue_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

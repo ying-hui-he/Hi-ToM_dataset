@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ava, Ella, Logan, Abigail and Aiden entered the front_yard.
-2 The banana is in the red_bucket.
-3 Ava made no movements and stayed in the front_yard for 10 minutes.
-4 Ava exited the front_yard and stayed in the waiting_room.
-5 Ella moved the banana to the red_envelope.
-6 Ella exited the front_yard and stayed in the waiting_room.
-7 Logan made no movements and stayed in the front_yard for 10 minutes.
-8 Logan exited the front_yard and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the front_yard for 10 minutes.
-10 Abigail exited the front_yard and stayed in the waiting_room.
-11 Aiden moved the banana to the red_bucket.
-12 Aiden exited the front_yard and stayed in the waiting_room.
-13 Logan privately told Ava that the banana is actually in the red_bucket.
-14 Ella privately told Abigail that the banana is actually in the blue_treasure_chest.
-15 Abigail, Ava and Aiden entered the front_yard.
-16 The banana is in the red_bucket.
-17 Abigail made no movements and stayed in the front_yard for 10 minutes.
-18 Abigail exited the front_yard and stayed in the waiting_room.
-19 Ava made no movements and stayed in the front_yard for 10 minutes.
-20 Ava exited the front_yard and stayed in the waiting_room.
-21 Aiden moved the banana to the red_bottle.
-22 Aiden exited the front_yard and stayed in the waiting_room.
-23 Ava, Abigail, Aiden and Ella entered the front_yard.
-24 The beans is in the blue_bathtub.
-25 Ava made no movements and stayed in the front_yard for 10 minutes.
-26 Ava exited the front_yard and stayed in the waiting_room.
-27 Abigail made no movements and stayed in the front_yard for 10 minutes.
-28 Abigail exited the front_yard and stayed in the waiting_room.
-29 Aiden moved the beans to the red_bucket.
-30 Aiden exited the front_yard and stayed in the waiting_room.
-31 Ella moved the beans to the red_bottle.
-32 Ella exited the front_yard and stayed in the waiting_room.
-33 Ava publicly claimed that beans is in the red_envelope.
-34 Ella privately told Logan that the beans is actually in the red_bottle.
-Question: Where does Logan think Ella thinks the banana is?
-Choices: A. green_cupboard, B. blue_basket, C. blue_bucket, D. red_bathtub, E. green_bathtub, F. red_treasure_chest, G. blue_crate, H. blue_box, I. green_suitcase, J. red_drawer, K. blue_bathtub, L. red_bucket, M. red_bottle, N. red_envelope, O. blue_treasure_chest
+1 Nathan, Amelia, Isabella, Jayden and Emma entered the closet.
+2 The peas is in the red_cupboard.
+3 Nathan made no movements and stayed in the closet for 10 minutes.
+4 Nathan exited the closet and stayed in the waiting_room.
+5 Isabella saw a mouse.
+6 Amelia made no movements and stayed in the closet for 10 minutes.
+7 Amelia exited the closet and stayed in the waiting_room.
+8 Isabella moved the peas to the green_pantry.
+9 Isabella exited the closet and stayed in the waiting_room.
+10 Jayden moved the peas to the red_box.
+11 Jayden exited the closet and stayed in the waiting_room.
+12 Emma made no movements and stayed in the closet for 10 minutes.
+13 Emma exited the closet and stayed in the waiting_room.
+14 Isabella publicly claimed that peas is in the red_cupboard.
+15 Emma privately told Isabella that the peas is actually in the red_box.
+16 Nathan, Emma and Amelia entered the crawlspace.
+17 The strawberry is in the red_basket.
+18 Nathan moved the strawberry to the blue_crate.
+19 Nathan exited the crawlspace and stayed in the waiting_room.
+20 Emma made no movements and stayed in the crawlspace for 10 minutes.
+21 Emma exited the crawlspace and stayed in the waiting_room.
+22 Amelia made no movements and stayed in the crawlspace for 10 minutes.
+23 Nathan likes the red_cupboard.
+24 Amelia exited the crawlspace and stayed in the waiting_room.
+25 Jayden, Isabella, Emma and Nathan entered the closet.
+26 The green_pepper is in the red_box.
+27 Jayden moved the green_pepper to the red_treasure_chest.
+28 Jayden exited the closet and stayed in the waiting_room.
+29 Isabella moved the green_pepper to the green_pantry.
+30 Isabella exited the closet and stayed in the waiting_room.
+31 Emma made no movements and stayed in the closet for 10 minutes.
+32 Isabella likes the blue_bathtub.
+33 Emma exited the closet and stayed in the waiting_room.
+34 Nathan made no movements and stayed in the closet for 10 minutes.
+35 Nathan exited the closet and stayed in the waiting_room.
+36 Emma publicly claimed that green_pepper is in the red_treasure_chest.
+37 Jayden privately told Nathan that the green_pepper is actually in the green_pantry.
+Question: Where does Nathan think Jayden thinks the peas is?
+Choices: A. red_box, B. red_cupboard, C. red_treasure_chest, D. blue_bottle, E. green_pantry, F. green_cupboard, G. red_bucket, H. green_basket, I. red_crate, J. blue_cupboard, K. blue_crate, L. red_basket, M. blue_bathtub, N. green_treasure_chest, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

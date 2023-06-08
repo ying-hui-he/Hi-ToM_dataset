@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, Avery, Aiden, Aria and Jack entered the hall.
-2 The orange is in the green_bottle.
-3 Ella moved the orange to the blue_suitcase.
-4 Ella exited the hall and stayed in the waiting_room.
-5 Avery moved the orange to the blue_envelope.
-6 Avery exited the hall and stayed in the waiting_room.
-7 Aiden moved the orange to the red_drawer.
-8 Aiden exited the hall and stayed in the waiting_room.
-9 Aria made no movements and stayed in the hall for 10 minutes.
-10 Aria exited the hall and stayed in the waiting_room.
-11 Jack moved the orange to the green_bottle.
-12 Jack exited the hall and stayed in the waiting_room.
-13 Aiden privately told Ella that the orange is actually in the blue_envelope.
-14 Avery privately told Aria that the orange is actually in the blue_suitcase.
-Question: Where is the orange really?
-Choices: A. blue_treasure_chest, B. blue_bathtub, C. red_bucket, D. blue_drawer, E. blue_bottle, F. green_envelope, G. red_container, H. blue_container, I. green_treasure_chest, J. blue_crate, K. red_drawer, L. green_bottle, M. blue_suitcase, N. blue_box, O. blue_envelope
+1 Carter, Logan, Nathan, Isabella and Ethan entered the TV_room.
+2 The corn is in the blue_bathtub.
+3 Carter moved the corn to the green_bucket.
+4 Carter exited the TV_room and stayed in the waiting_room.
+5 Logan moved the corn to the green_bottle.
+6 Logan exited the TV_room and stayed in the waiting_room.
+7 Nathan dislikes the pineapple.
+8 Nathan moved the corn to the red_pantry.
+9 Nathan exited the TV_room and stayed in the waiting_room.
+10 Isabella dislikes the lettuce.
+11 Isabella made no movements and stayed in the TV_room for 10 minutes.
+12 Isabella exited the TV_room and stayed in the waiting_room.
+13 Ethan moved the corn to the blue_bathtub.
+14 Ethan exited the TV_room and stayed in the waiting_room.
+15 Nathan publicly claimed that corn is in the green_treasure_chest.
+16 Ethan privately told Nathan that the corn is actually in the green_bucket.
+Question: Where is the corn really?
+Choices: A. blue_bathtub, B. green_treasure_chest, C. green_bottle, D. red_pantry, E. green_bucket, F. red_bucket, G. blue_bottle, H. blue_drawer, I. blue_crate, J. green_bathtub, K. red_bottle, L. red_cupboard, M. red_envelope, N. blue_suitcase, O. green_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Logan, Mia, Charlotte, Hannah and Ava entered the porch.
-2 The plum is in the red_bucket.
-3 Logan moved the plum to the red_crate.
-4 Logan exited the porch and stayed in the waiting_room.
-5 Mia moved the plum to the blue_crate.
-6 Mia exited the porch and stayed in the waiting_room.
-7 Charlotte moved the plum to the red_bottle.
-8 Charlotte exited the porch and stayed in the waiting_room.
-9 Hannah moved the plum to the red_drawer.
-10 Hannah exited the porch and stayed in the waiting_room.
-11 Ava moved the plum to the red_bucket.
-12 Ava exited the porch and stayed in the waiting_room.
-13 Mia, Ava and Charlotte entered the patio.
-14 The peach is in the green_bottle.
-15 Mia made no movements and stayed in the patio for 10 minutes.
-16 Mia exited the patio and stayed in the waiting_room.
-17 Ava made no movements and stayed in the patio for 10 minutes.
-18 Ava exited the patio and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the patio for 10 minutes.
-20 Charlotte exited the patio and stayed in the waiting_room.
-21 Charlotte publicly claimed that peach is in the red_container.
-22 Mia privately told Charlotte that the peach is actually in the green_envelope.
-Question: Where does Charlotte think Hannah thinks Mia thinks Logan thinks the plum is?
+1 Carter, Jackson, Charlotte, Abigail and Hannah entered the living_room.
+2 The broccoli is in the red_cupboard.
+3 Carter made no movements and stayed in the living_room for 10 minutes.
+4 Carter exited the living_room and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the living_room for 10 minutes.
+6 Jackson exited the living_room and stayed in the waiting_room.
+7 Charlotte moved the broccoli to the red_bucket.
+8 Charlotte exited the living_room and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the living_room for 10 minutes.
+10 Abigail exited the living_room and stayed in the waiting_room.
+11 Hannah moved the broccoli to the red_cupboard.
+12 Hannah exited the living_room and stayed in the waiting_room.
+13 Hannah, Charlotte and Abigail entered the living_room.
+14 The broccoli is in the red_cupboard.
+15 Jackson saw a mouse.
+16 Hannah moved the broccoli to the green_envelope.
+17 Hannah exited the living_room and stayed in the waiting_room.
+18 Charlotte moved the broccoli to the blue_treasure_chest.
+19 Charlotte exited the living_room and stayed in the waiting_room.
+20 Abigail moved the broccoli to the red_bucket.
+21 Abigail exited the living_room and stayed in the waiting_room.
+22 Hannah publicly claimed that broccoli is in the red_cupboard.
+23 Abigail privately told Carter that the broccoli is actually in the red_bucket.
+Question: Where does Charlotte think Abigail thinks Jackson thinks Carter thinks the broccoli is?
 Answer: None
-Choices: A. red_drawer, B. red_bucket, C. red_crate, D. red_bottle, E. blue_crate, F. blue_basket, G. blue_drawer, H. blue_bucket, I. blue_bottle, J. red_treasure_chest, K. blue_box, L. green_bottle, M. blue_bathtub, N. green_envelope, O. red_container
+Choices: A. red_crate, B. red_container, C. green_basket, D. blue_drawer, E. green_suitcase, F. red_cupboard, G. red_bucket, H. blue_treasure_chest, I. green_box, J. green_envelope, K. red_envelope, L. red_basket, M. blue_bucket, N. green_treasure_chest, O. green_pantry

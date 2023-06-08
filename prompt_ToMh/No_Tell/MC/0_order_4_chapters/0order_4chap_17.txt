@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Isla, Abigail, Gracie and Jacob entered the bathroom.
-2 The radish is in the blue_drawer.
-3 Amelia made no movements and stayed in the bathroom for 10 minutes.
-4 Amelia exited the bathroom and stayed in the waiting_room.
-5 Isla made no movements and stayed in the bathroom for 10 minutes.
-6 Isla exited the bathroom and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the bathroom for 10 minutes.
-8 Abigail exited the bathroom and stayed in the waiting_room.
-9 Gracie made no movements and stayed in the bathroom for 10 minutes.
-10 Gracie exited the bathroom and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the bathroom for 10 minutes.
-12 Jacob exited the bathroom and stayed in the waiting_room.
-13 Jacob, Isla and Gracie entered the bathroom.
-14 The radish is in the blue_drawer.
-15 Jacob made no movements and stayed in the bathroom for 10 minutes.
-16 Jacob exited the bathroom and stayed in the waiting_room.
-17 Isla made no movements and stayed in the bathroom for 10 minutes.
-18 Isla exited the bathroom and stayed in the waiting_room.
-19 Gracie made no movements and stayed in the bathroom for 10 minutes.
-20 Gracie exited the bathroom and stayed in the waiting_room.
-21 Jacob, Abigail, Isla and Gracie entered the bathroom.
-22 The radish is in the blue_drawer.
-23 Jacob made no movements and stayed in the bathroom for 10 minutes.
-24 Jacob exited the bathroom and stayed in the waiting_room.
-25 Abigail made no movements and stayed in the bathroom for 10 minutes.
-26 Abigail exited the bathroom and stayed in the waiting_room.
-27 Isla moved the radish to the red_envelope.
-28 Isla exited the bathroom and stayed in the waiting_room.
-29 Gracie made no movements and stayed in the bathroom for 10 minutes.
-30 Gracie exited the bathroom and stayed in the waiting_room.
-31 Abigail and Amelia entered the bathroom.
-32 The radish is in the red_envelope.
-33 Abigail made no movements and stayed in the bathroom for 10 minutes.
-34 Abigail exited the bathroom and stayed in the waiting_room.
-35 Amelia made no movements and stayed in the bathroom for 10 minutes.
-36 Amelia exited the bathroom and stayed in the waiting_room.
-Question: Where is the radish really?
-Choices: A. red_bottle, B. blue_drawer, C. red_envelope, D. green_treasure_chest, E. blue_treasure_chest, F. red_bathtub, G. red_basket, H. red_treasure_chest, I. blue_crate, J. blue_pantry, K. red_container, L. red_drawer, M. green_suitcase, N. red_bucket, O. green_cupboard
+1 Aiden, Mila, Ava, Isabella and Jack entered the bathroom.
+2 The corn is in the red_treasure_chest.
+3 Aiden moved the corn to the blue_bucket.
+4 Aiden exited the bathroom and stayed in the waiting_room.
+5 Mila moved the corn to the blue_crate.
+6 Mila exited the bathroom and stayed in the waiting_room.
+7 Ava moved the corn to the green_basket.
+8 Isabella lost his phone.
+9 Ava exited the bathroom and stayed in the waiting_room.
+10 Isabella moved the corn to the green_pantry.
+11 Isabella exited the bathroom and stayed in the waiting_room.
+12 Jack made no movements and stayed in the bathroom for 10 minutes.
+13 Ava lost his phone.
+14 Jack exited the bathroom and stayed in the waiting_room.
+15 Aiden, Mila and Ava entered the hall.
+16 The asparagus is in the red_envelope.
+17 Aiden moved the asparagus to the red_cupboard.
+18 Aiden exited the hall and stayed in the waiting_room.
+19 Mila moved the asparagus to the red_box.
+20 Mila exited the hall and stayed in the waiting_room.
+21 Ava moved the asparagus to the red_pantry.
+22 Ava exited the hall and stayed in the waiting_room.
+23 Aiden, Isabella, Mila and Ava entered the hall.
+24 The asparagus is in the red_pantry.
+25 Aiden made no movements and stayed in the hall for 10 minutes.
+26 Aiden exited the hall and stayed in the waiting_room.
+27 Isabella moved the asparagus to the red_envelope.
+28 Isabella exited the hall and stayed in the waiting_room.
+29 Mila made no movements and stayed in the hall for 10 minutes.
+30 Mila exited the hall and stayed in the waiting_room.
+31 Ava made no movements and stayed in the hall for 10 minutes.
+32 Ava exited the hall and stayed in the waiting_room.
+33 Ava and Mila entered the bathroom.
+34 The corn is in the green_pantry.
+35 Ava made no movements and stayed in the bathroom for 10 minutes.
+36 Ava exited the bathroom and stayed in the waiting_room.
+37 Mila made no movements and stayed in the bathroom for 10 minutes.
+38 Mila exited the bathroom and stayed in the waiting_room.
+39 Isabella lost his phone.
+Question: Where is the corn really?
+Choices: A. red_container, B. green_suitcase, C. red_basket, D. blue_drawer, E. green_bucket, F. red_envelope, G. red_box, H. red_pantry, I. blue_bottle, J. red_cupboard, K. red_treasure_chest, L. blue_bucket, M. blue_crate, N. green_basket, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

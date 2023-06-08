@@ -1,19 +1,22 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, William, Benjamin, Amelia and Noah entered the front_yard.
-2 The banana is in the green_envelope.
-3 Oliver moved the banana to the red_drawer.
-4 Oliver exited the front_yard and stayed in the waiting_room.
-5 William made no movements and stayed in the front_yard for 10 minutes.
-6 William exited the front_yard and stayed in the waiting_room.
-7 Benjamin made no movements and stayed in the front_yard for 10 minutes.
-8 Benjamin exited the front_yard and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the front_yard for 10 minutes.
-10 Amelia exited the front_yard and stayed in the waiting_room.
-11 Noah moved the banana to the green_envelope.
-12 Noah exited the front_yard and stayed in the waiting_room.
-13 Benjamin publicly claimed that banana is in the green_envelope.
-14 Noah privately told Benjamin that the banana is actually in the blue_basket.
-Question: Where does Amelia think the banana is?
-Choices: A. blue_crate, B. blue_suitcase, C. green_bottle, D. blue_drawer, E. green_crate, F. blue_basket, G. green_envelope, H. red_drawer, I. red_treasure_chest, J. blue_container, K. green_container, L. green_cupboard, M. red_envelope, N. blue_envelope, O. blue_bottle
+1 Emily, Chloe, Isla, Jayden and Owen entered the attic.
+2 The peach is in the blue_crate.
+3 Emily made no movements and stayed in the attic for 10 minutes.
+4 Chloe saw a mouse.
+5 Emily exited the attic and stayed in the waiting_room.
+6 Chloe made no movements and stayed in the attic for 10 minutes.
+7 Chloe exited the attic and stayed in the waiting_room.
+8 Chloe saw a cat.
+9 Isla made no movements and stayed in the attic for 10 minutes.
+10 Isla exited the attic and stayed in the waiting_room.
+11 Jayden moved the peach to the red_envelope.
+12 Jayden exited the attic and stayed in the waiting_room.
+13 Isla dislikes the lemon.
+14 Owen made no movements and stayed in the attic for 10 minutes.
+15 Owen exited the attic and stayed in the waiting_room.
+16 Isla publicly claimed that peach is in the blue_crate.
+17 Owen privately told Isla that the peach is actually in the red_envelope.
+Question: Where does Isla think the peach is?
+Choices: A. blue_envelope, B. blue_crate, C. red_envelope, D. blue_drawer, E. green_bucket, F. blue_suitcase, G. red_crate, H. green_envelope, I. red_pantry, J. green_treasure_chest, K. blue_cupboard, L. green_suitcase, M. green_pantry, N. green_basket, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Owen, Isla, Aiden and Hannah entered the garden.
-2 The peach is in the blue_box.
-3 Jackson moved the peach to the red_bottle.
-4 Jackson exited the garden and stayed in the waiting_room.
-5 Owen made no movements and stayed in the garden for 10 minutes.
-6 Owen exited the garden and stayed in the waiting_room.
-7 Isla moved the peach to the blue_treasure_chest.
-8 Isla exited the garden and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the garden for 10 minutes.
-10 Aiden exited the garden and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the garden for 10 minutes.
-12 Hannah exited the garden and stayed in the waiting_room.
-13 Jackson, Isla and Owen entered the garden.
-14 The peach is in the blue_treasure_chest.
-15 Jackson moved the peach to the green_suitcase.
-16 Jackson exited the garden and stayed in the waiting_room.
-17 Isla made no movements and stayed in the garden for 10 minutes.
-18 Isla exited the garden and stayed in the waiting_room.
-19 Owen moved the peach to the blue_box.
-20 Owen exited the garden and stayed in the waiting_room.
-21 Hannah, Jackson, Aiden and Owen entered the patio.
-22 The strawberry is in the green_cupboard.
-23 Hannah made no movements and stayed in the patio for 10 minutes.
-24 Hannah exited the patio and stayed in the waiting_room.
-25 Jackson made no movements and stayed in the patio for 10 minutes.
-26 Jackson exited the patio and stayed in the waiting_room.
-27 Aiden moved the strawberry to the red_bucket.
-28 Aiden exited the patio and stayed in the waiting_room.
-29 Owen moved the strawberry to the red_envelope.
-30 Owen exited the patio and stayed in the waiting_room.
-Question: Where does Aiden think Jackson thinks Owen thinks Isla thinks the peach is?
-Choices: A. green_cupboard, B. red_envelope, C. red_crate, D. red_bucket, E. red_bathtub, F. blue_basket, G. red_suitcase, H. blue_drawer, I. green_envelope, J. blue_bathtub, K. red_bottle, L. blue_box, M. red_basket, N. blue_treasure_chest, O. green_suitcase
+1 Ava, Mila, Gracie, Carter and Isla entered the master_bedroom.
+2 The turnip is in the green_bucket.
+3 Ava made no movements and stayed in the master_bedroom for 10 minutes.
+4 Ava exited the master_bedroom and stayed in the waiting_room.
+5 Mila made no movements and stayed in the master_bedroom for 10 minutes.
+6 Isla likes the green_basket.
+7 Mila exited the master_bedroom and stayed in the waiting_room.
+8 Carter dislikes the beans.
+9 Gracie moved the turnip to the green_basket.
+10 Gracie exited the master_bedroom and stayed in the waiting_room.
+11 Carter moved the turnip to the blue_envelope.
+12 Mila saw a mouse.
+13 Carter exited the master_bedroom and stayed in the waiting_room.
+14 Isla moved the turnip to the green_bucket.
+15 Isla exited the master_bedroom and stayed in the waiting_room.
+16 Ava, Gracie and Mila entered the hallway.
+17 The pumpkin is in the green_envelope.
+18 Ava made no movements and stayed in the hallway for 10 minutes.
+19 Ava exited the hallway and stayed in the waiting_room.
+20 Gracie moved the pumpkin to the red_cupboard.
+21 Mila likes the green_bottle.
+22 Gracie exited the hallway and stayed in the waiting_room.
+23 Mila moved the pumpkin to the green_suitcase.
+24 Mila exited the hallway and stayed in the waiting_room.
+25 Isla, Ava, Gracie and Carter entered the front_yard.
+26 The beans is in the blue_suitcase.
+27 Isla made no movements and stayed in the front_yard for 10 minutes.
+28 Isla exited the front_yard and stayed in the waiting_room.
+29 Ava moved the beans to the red_pantry.
+30 Ava exited the front_yard and stayed in the waiting_room.
+31 Gracie moved the beans to the green_bottle.
+32 Gracie exited the front_yard and stayed in the waiting_room.
+33 Carter made no movements and stayed in the front_yard for 10 minutes.
+34 Carter exited the front_yard and stayed in the waiting_room.
+Question: Where does Isla think Carter thinks Mila thinks Ava thinks the turnip is?
+Choices: A. green_bucket, B. green_treasure_chest, C. blue_envelope, D. red_container, E. green_basket, F. blue_bathtub, G. green_envelope, H. green_suitcase, I. red_cupboard, J. red_basket, K. red_pantry, L. blue_suitcase, M. red_bucket, N. blue_treasure_chest, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

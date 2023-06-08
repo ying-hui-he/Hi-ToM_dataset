@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jayden, Olivia, Aiden, Jacob and Owen entered the garage.
-2 The spinach is in the blue_drawer.
-3 Jayden moved the spinach to the blue_basket.
-4 Jayden exited the garage and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the garage for 10 minutes.
-6 Olivia exited the garage and stayed in the waiting_room.
-7 Aiden moved the spinach to the red_bathtub.
-8 Aiden exited the garage and stayed in the waiting_room.
-9 Jacob moved the spinach to the red_crate.
-10 Jacob exited the garage and stayed in the waiting_room.
-11 Owen moved the spinach to the blue_drawer.
-12 Owen exited the garage and stayed in the waiting_room.
-13 Aiden publicly claimed that spinach is in the blue_drawer.
-14 Owen privately told Aiden that the spinach is actually in the green_treasure_chest.
-Question: Where does Jacob think the spinach is?
-Choices: A. red_crate, B. blue_drawer, C. green_treasure_chest, D. blue_basket, E. red_bathtub, F. blue_envelope, G. blue_container, H. red_bottle, I. blue_treasure_chest, J. green_cupboard, K. blue_bottle, L. blue_crate, M. green_crate, N. red_envelope, O. blue_suitcase
+1 Nathan, Lucas, Hannah, Logan and Alexander entered the garage.
+2 The apple is in the red_bathtub.
+3 Nathan made no movements and stayed in the garage for 10 minutes.
+4 Nathan exited the garage and stayed in the waiting_room.
+5 Lucas moved the apple to the blue_treasure_chest.
+6 Lucas exited the garage and stayed in the waiting_room.
+7 Hannah made no movements and stayed in the garage for 10 minutes.
+8 Hannah exited the garage and stayed in the waiting_room.
+9 Logan made no movements and stayed in the garage for 10 minutes.
+10 Logan exited the garage and stayed in the waiting_room.
+11 Nathan lost his bottle.
+12 Alexander moved the apple to the red_bathtub.
+13 Alexander exited the garage and stayed in the waiting_room.
+14 Logan publicly claimed that apple is in the red_bucket.
+15 Alexander privately told Nathan that the apple is actually in the red_bathtub.
+Question: Where does Nathan think the apple is?
+Choices: A. red_treasure_chest, B. green_envelope, C. blue_drawer, D. green_basket, E. green_box, F. blue_cupboard, G. red_bottle, H. green_suitcase, I. green_bottle, J. red_crate, K. red_bathtub, L. red_container, M. red_bucket, N. red_box, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

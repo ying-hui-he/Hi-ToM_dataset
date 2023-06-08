@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Ethan, Amelia, Emma and Avery entered the playroom.
-2 The lime is in the red_treasure_chest.
-3 Abigail made no movements and stayed in the playroom for 10 minutes.
-4 Abigail exited the playroom and stayed in the waiting_room.
-5 Ethan made no movements and stayed in the playroom for 10 minutes.
-6 Ethan exited the playroom and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the playroom for 10 minutes.
-8 Amelia exited the playroom and stayed in the waiting_room.
-9 Emma moved the lime to the blue_basket.
-10 Emma exited the playroom and stayed in the waiting_room.
-11 Avery made no movements and stayed in the playroom for 10 minutes.
-12 Avery exited the playroom and stayed in the waiting_room.
-13 Avery, Ethan and Amelia entered the cellar.
-14 The beans is in the green_container.
-15 Avery made no movements and stayed in the cellar for 10 minutes.
-16 Avery exited the cellar and stayed in the waiting_room.
-17 Ethan moved the beans to the green_crate.
-18 Ethan exited the cellar and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the cellar for 10 minutes.
-20 Amelia exited the cellar and stayed in the waiting_room.
-21 Ethan privately told Amelia that the beans is actually in the green_treasure_chest.
-22 Amelia privately told Abigail that the beans is actually in the green_crate.
-23 Ethan, Abigail, Avery and Emma entered the playroom.
-24 The lime is in the blue_basket.
-25 Ethan made no movements and stayed in the playroom for 10 minutes.
-26 Ethan exited the playroom and stayed in the waiting_room.
-27 Abigail made no movements and stayed in the playroom for 10 minutes.
-28 Abigail exited the playroom and stayed in the waiting_room.
-29 Avery made no movements and stayed in the playroom for 10 minutes.
-30 Avery exited the playroom and stayed in the waiting_room.
-31 Emma made no movements and stayed in the playroom for 10 minutes.
-32 Emma exited the playroom and stayed in the waiting_room.
-33 Abigail and Emma entered the cellar.
-34 The grapefruit is in the red_bucket.
-35 Abigail moved the grapefruit to the green_treasure_chest.
-36 Abigail exited the cellar and stayed in the waiting_room.
-37 Emma moved the grapefruit to the green_container.
-38 Emma exited the cellar and stayed in the waiting_room.
-39 Abigail publicly claimed that grapefruit is in the blue_container.
-40 Emma privately told Abigail that the grapefruit is actually in the green_treasure_chest.
-Question: Where does Avery think Amelia thinks Ethan thinks Abigail thinks the lime is?
+1 Jackson, Emma, Lucas, Mia and Emily entered the TV_room.
+2 The celery is in the red_bucket.
+3 Jackson moved the celery to the green_basket.
+4 Jackson exited the TV_room and stayed in the waiting_room.
+5 Emma moved the celery to the red_treasure_chest.
+6 Emma exited the TV_room and stayed in the waiting_room.
+7 Emily lost his watch.
+8 Lucas made no movements and stayed in the TV_room for 10 minutes.
+9 Lucas exited the TV_room and stayed in the waiting_room.
+10 Mia moved the celery to the green_box.
+11 Mia exited the TV_room and stayed in the waiting_room.
+12 Emily made no movements and stayed in the TV_room for 10 minutes.
+13 Emily exited the TV_room and stayed in the waiting_room.
+14 Mia saw a cat.
+15 Emily, Lucas and Jackson entered the lounge.
+16 The potato is in the red_envelope.
+17 Emily made no movements and stayed in the lounge for 10 minutes.
+18 Emily exited the lounge and stayed in the waiting_room.
+19 Lucas made no movements and stayed in the lounge for 10 minutes.
+20 Lucas exited the lounge and stayed in the waiting_room.
+21 Jackson made no movements and stayed in the lounge for 10 minutes.
+22 Jackson exited the lounge and stayed in the waiting_room.
+23 Emily publicly claimed that potato is in the green_treasure_chest.
+24 Jackson privately told Mia that the potato is actually in the red_envelope.
+25 Jackson, Mia, Lucas and Emma entered the TV_room.
+26 The persimmon is in the green_basket.
+27 Jackson made no movements and stayed in the TV_room for 10 minutes.
+28 Emma lost his bottle.
+29 Jackson exited the TV_room and stayed in the waiting_room.
+30 Mia moved the persimmon to the red_treasure_chest.
+31 Mia exited the TV_room and stayed in the waiting_room.
+32 Lucas moved the persimmon to the green_bottle.
+33 Lucas exited the TV_room and stayed in the waiting_room.
+34 Emma moved the persimmon to the green_box.
+35 Emma exited the TV_room and stayed in the waiting_room.
+36 Mia and Jackson entered the TV_room.
+37 The persimmon is in the green_box.
+38 Mia made no movements and stayed in the TV_room for 10 minutes.
+39 Mia exited the TV_room and stayed in the waiting_room.
+40 Jackson moved the persimmon to the green_bottle.
+41 Mia lost his bottle.
+42 Jackson exited the TV_room and stayed in the waiting_room.
+43 Mia privately told Emily that the persimmon is actually in the green_bottle.
+Question: Where does Mia think Jackson thinks Emma thinks Emily thinks the celery is?
 Answer: None
-Choices: A. green_container, B. red_bucket, C. blue_container, D. green_treasure_chest, E. green_crate, F. green_envelope, G. red_treasure_chest, H. red_envelope, I. blue_basket, J. blue_pantry, K. green_bottle, L. green_bathtub, M. red_basket, N. blue_bucket, O. red_drawer
+Choices: A. red_envelope, B. blue_bathtub, C. green_bucket, D. red_basket, E. green_treasure_chest, F. green_basket, G. red_bucket, H. green_box, I. red_treasure_chest, J. green_bottle, K. blue_cupboard, L. blue_bottle, M. blue_envelope, N. red_bathtub, O. green_envelope

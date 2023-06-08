@@ -1,41 +1,47 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Benjamin, Hannah, Aiden, Oliver and Ethan entered the workshop.
-2 The tomato is in the green_container.
-3 Benjamin made no movements and stayed in the workshop for 10 minutes.
-4 Benjamin exited the workshop and stayed in the waiting_room.
-5 Hannah moved the tomato to the red_envelope.
-6 Hannah exited the workshop and stayed in the waiting_room.
-7 Aiden moved the tomato to the blue_treasure_chest.
-8 Aiden exited the workshop and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the workshop for 10 minutes.
-10 Oliver exited the workshop and stayed in the waiting_room.
-11 Ethan moved the tomato to the green_container.
-12 Ethan exited the workshop and stayed in the waiting_room.
-13 Oliver, Ethan and Benjamin entered the hallway.
-14 The corn is in the blue_drawer.
-15 Oliver made no movements and stayed in the hallway for 10 minutes.
-16 Oliver exited the hallway and stayed in the waiting_room.
-17 Ethan made no movements and stayed in the hallway for 10 minutes.
-18 Ethan exited the hallway and stayed in the waiting_room.
-19 Benjamin moved the corn to the red_treasure_chest.
-20 Benjamin exited the hallway and stayed in the waiting_room.
-21 Benjamin, Hannah, Ethan and Aiden entered the hallway.
-22 The corn is in the red_treasure_chest.
-23 Benjamin moved the corn to the red_crate.
-24 Benjamin exited the hallway and stayed in the waiting_room.
-25 Hannah moved the corn to the blue_drawer.
-26 Hannah exited the hallway and stayed in the waiting_room.
-27 Ethan made no movements and stayed in the hallway for 10 minutes.
-28 Ethan exited the hallway and stayed in the waiting_room.
-29 Aiden moved the corn to the red_bathtub.
-30 Aiden exited the hallway and stayed in the waiting_room.
-31 Benjamin and Hannah entered the living_room.
-32 The radish is in the red_bottle.
-33 Benjamin moved the radish to the blue_suitcase.
-34 Benjamin exited the living_room and stayed in the waiting_room.
-35 Hannah moved the radish to the blue_bathtub.
-36 Hannah exited the living_room and stayed in the waiting_room.
-Question: Where does Aiden think Hannah thinks Oliver thinks Ethan thinks the tomato is?
+1 Mila likes the red_box.
+2 Isla, Mila, Ella, Aria and Jacob entered the crawlspace.
+3 The tangerine is in the red_envelope.
+4 Isla moved the tangerine to the red_bucket.
+5 Isla exited the crawlspace and stayed in the waiting_room.
+6 Mila made no movements and stayed in the crawlspace for 10 minutes.
+7 Mila exited the crawlspace and stayed in the waiting_room.
+8 Ella moved the tangerine to the green_cupboard.
+9 Ella exited the crawlspace and stayed in the waiting_room.
+10 Aria made no movements and stayed in the crawlspace for 10 minutes.
+11 Aria exited the crawlspace and stayed in the waiting_room.
+12 Jacob moved the tangerine to the red_envelope.
+13 Jacob exited the crawlspace and stayed in the waiting_room.
+14 Mila, Isla and Jacob entered the garage.
+15 The tomato is in the green_suitcase.
+16 Isla dislikes the cucumber.
+17 Mila made no movements and stayed in the garage for 10 minutes.
+18 Mila saw a cat.
+19 Mila exited the garage and stayed in the waiting_room.
+20 Isla moved the tomato to the blue_cupboard.
+21 Isla exited the garage and stayed in the waiting_room.
+22 Jacob moved the tomato to the green_bottle.
+23 Jacob exited the garage and stayed in the waiting_room.
+24 Mila, Isla, Ella and Aria entered the hall.
+25 The carrot is in the blue_envelope.
+26 Mila made no movements and stayed in the hall for 10 minutes.
+27 Mila exited the hall and stayed in the waiting_room.
+28 Isla moved the carrot to the green_box.
+29 Isla exited the hall and stayed in the waiting_room.
+30 Ella moved the carrot to the red_cupboard.
+31 Ella exited the hall and stayed in the waiting_room.
+32 Aria lost his watch.
+33 Aria moved the carrot to the blue_bathtub.
+34 Aria exited the hall and stayed in the waiting_room.
+35 Aria and Mila entered the crawlspace.
+36 Ella likes the blue_drawer.
+37 The broccoli is in the blue_treasure_chest.
+38 Aria made no movements and stayed in the crawlspace for 10 minutes.
+39 Aria exited the crawlspace and stayed in the waiting_room.
+40 Mila moved the broccoli to the blue_drawer.
+41 Mila exited the crawlspace and stayed in the waiting_room.
+42 Ella saw a cat.
+Question: Where does Aria think Jacob thinks Ella thinks Isla thinks the tangerine is?
 Answer: None
-Choices: A. green_container, B. blue_container, C. red_envelope, D. red_drawer, E. blue_treasure_chest, F. blue_basket, G. blue_drawer, H. red_crate, I. red_treasure_chest, J. red_bathtub, K. blue_suitcase, L. red_bottle, M. blue_pantry, N. blue_bathtub, O. red_bucket
+Choices: A. blue_treasure_chest, B. red_envelope, C. red_bucket, D. blue_drawer, E. green_cupboard, F. green_suitcase, G. red_box, H. blue_bucket, I. blue_cupboard, J. green_bottle, K. green_box, L. blue_envelope, M. blue_bathtub, N. red_cupboard, O. blue_crate

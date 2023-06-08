@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Ella, Isla, Gracie and Avery entered the porch.
-2 The beans is in the blue_box.
-3 Olivia moved the beans to the red_suitcase.
-4 Olivia exited the porch and stayed in the waiting_room.
-5 Ella moved the beans to the red_envelope.
-6 Ella exited the porch and stayed in the waiting_room.
-7 Isla made no movements and stayed in the porch for 10 minutes.
-8 Isla exited the porch and stayed in the waiting_room.
-9 Gracie made no movements and stayed in the porch for 10 minutes.
-10 Gracie exited the porch and stayed in the waiting_room.
-11 Avery moved the beans to the blue_box.
-12 Avery exited the porch and stayed in the waiting_room.
-13 Isla privately told Olivia that the beans is actually in the red_envelope.
-14 Ella privately told Gracie that the beans is actually in the red_suitcase.
-15 Ella, Olivia and Gracie entered the playroom.
-16 The pineapple is in the red_drawer.
-17 Ella moved the pineapple to the blue_container.
-18 Ella exited the playroom and stayed in the waiting_room.
-19 Olivia moved the pineapple to the green_crate.
-20 Olivia exited the playroom and stayed in the waiting_room.
-21 Gracie made no movements and stayed in the playroom for 10 minutes.
-22 Gracie exited the playroom and stayed in the waiting_room.
-23 Ella, Avery, Olivia and Isla entered the porch.
-24 The beans is in the blue_box.
-25 Ella moved the beans to the blue_drawer.
-26 Ella exited the porch and stayed in the waiting_room.
-27 Avery moved the beans to the red_suitcase.
-28 Avery exited the porch and stayed in the waiting_room.
-29 Olivia moved the beans to the red_envelope.
-30 Olivia exited the porch and stayed in the waiting_room.
-31 Isla moved the beans to the green_suitcase.
-32 Isla exited the porch and stayed in the waiting_room.
-33 Olivia publicly claimed that beans is in the red_suitcase.
-34 Ella privately told Isla that the beans is actually in the blue_drawer.
-Question: Where does Avery think Isla thinks Olivia thinks Ella thinks the beans is?
-Choices: A. green_envelope, B. red_container, C. blue_envelope, D. red_treasure_chest, E. red_bucket, F. blue_box, G. blue_drawer, H. red_suitcase, I. red_envelope, J. green_suitcase, K. red_drawer, L. green_container, M. blue_container, N. green_crate, O. red_bottle
+1 Ava, Emma, Mia, Amelia and Hannah entered the porch.
+2 Emma saw a dog.
+3 The banana is in the red_bathtub.
+4 Ava moved the banana to the green_bottle.
+5 Ava exited the porch and stayed in the waiting_room.
+6 Emma moved the banana to the blue_envelope.
+7 Emma exited the porch and stayed in the waiting_room.
+8 Mia made no movements and stayed in the porch for 10 minutes.
+9 Mia exited the porch and stayed in the waiting_room.
+10 Amelia moved the banana to the red_box.
+11 Amelia exited the porch and stayed in the waiting_room.
+12 Hannah moved the banana to the red_bathtub.
+13 Hannah exited the porch and stayed in the waiting_room.
+14 Mia publicly claimed that banana is in the red_bathtub.
+15 Hannah privately told Mia that the banana is actually in the red_envelope.
+16 Amelia, Ava and Emma entered the porch.
+17 The broccoli is in the red_box.
+18 Amelia made no movements and stayed in the porch for 10 minutes.
+19 Amelia exited the porch and stayed in the waiting_room.
+20 Ava moved the broccoli to the green_bottle.
+21 Ava exited the porch and stayed in the waiting_room.
+22 Emma moved the broccoli to the blue_envelope.
+23 Emma exited the porch and stayed in the waiting_room.
+24 Ava, Hannah, Emma and Mia entered the porch.
+25 The banana is in the red_bathtub.
+26 Ava moved the banana to the red_envelope.
+27 Ava exited the porch and stayed in the waiting_room.
+28 Hannah made no movements and stayed in the porch for 10 minutes.
+29 Hannah exited the porch and stayed in the waiting_room.
+30 Emma moved the banana to the blue_envelope.
+31 Emma exited the porch and stayed in the waiting_room.
+32 Mia made no movements and stayed in the porch for 10 minutes.
+33 Mia exited the porch and stayed in the waiting_room.
+34 Hannah privately told Emma that the banana is actually in the red_box.
+35 Emma lost his bottle.
+36 Mia privately told Amelia that the banana is actually in the blue_envelope.
+Question: Where does Amelia think Hannah thinks Emma thinks Ava thinks the banana is?
+Choices: A. green_cupboard, B. blue_suitcase, C. green_suitcase, D. green_bathtub, E. blue_bucket, F. green_envelope, G. green_pantry, H. blue_crate, I. red_bucket, J. blue_drawer, K. red_bathtub, L. red_box, M. green_bottle, N. blue_envelope, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

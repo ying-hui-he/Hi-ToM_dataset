@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Logan, Abigail, Noah, Avery and Jayden entered the attic.
-2 The asparagus is in the red_treasure_chest.
-3 Logan made no movements and stayed in the attic for 10 minutes.
-4 Logan exited the attic and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the attic for 10 minutes.
-6 Abigail exited the attic and stayed in the waiting_room.
-7 Noah made no movements and stayed in the attic for 10 minutes.
-8 Noah exited the attic and stayed in the waiting_room.
-9 Avery made no movements and stayed in the attic for 10 minutes.
-10 Avery exited the attic and stayed in the waiting_room.
-11 Jayden moved the asparagus to the red_treasure_chest.
-12 Jayden exited the attic and stayed in the waiting_room.
-13 Avery, Abigail and Jayden entered the back_yard.
-14 The lemon is in the red_suitcase.
-15 Avery moved the lemon to the red_bucket.
-16 Avery exited the back_yard and stayed in the waiting_room.
-17 Abigail moved the lemon to the green_treasure_chest.
-18 Abigail exited the back_yard and stayed in the waiting_room.
-19 Jayden made no movements and stayed in the back_yard for 10 minutes.
-20 Jayden exited the back_yard and stayed in the waiting_room.
-21 Avery, Jayden, Abigail and Logan entered the attic.
-22 The asparagus is in the red_treasure_chest.
-23 Avery moved the asparagus to the red_container.
-24 Avery exited the attic and stayed in the waiting_room.
-25 Jayden made no movements and stayed in the attic for 10 minutes.
-26 Jayden exited the attic and stayed in the waiting_room.
-27 Abigail moved the asparagus to the blue_crate.
-28 Abigail exited the attic and stayed in the waiting_room.
-29 Logan moved the asparagus to the blue_treasure_chest.
-30 Logan exited the attic and stayed in the waiting_room.
-Question: Where does Logan think Jayden thinks the asparagus is?
-Choices: A. red_envelope, B. blue_container, C. red_crate, D. green_suitcase, E. blue_bathtub, F. red_treasure_chest, G. blue_suitcase, H. blue_crate, I. red_container, J. blue_treasure_chest, K. red_bottle, L. red_suitcase, M. red_bucket, N. green_treasure_chest, O. red_basket
+1 Emily, Gracie, Logan, Abigail and Isla entered the dining_room.
+2 The persimmon is in the green_cupboard.
+3 Emily moved the persimmon to the blue_crate.
+4 Emily exited the dining_room and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the dining_room for 10 minutes.
+6 Gracie exited the dining_room and stayed in the waiting_room.
+7 Logan moved the persimmon to the green_bottle.
+8 Logan exited the dining_room and stayed in the waiting_room.
+9 Abigail moved the persimmon to the red_box.
+10 Abigail exited the dining_room and stayed in the waiting_room.
+11 Isla moved the persimmon to the green_cupboard.
+12 Isla exited the dining_room and stayed in the waiting_room.
+13 Gracie, Isla and Emily entered the living_room.
+14 The apple is in the green_pantry.
+15 Gracie made no movements and stayed in the living_room for 10 minutes.
+16 Gracie exited the living_room and stayed in the waiting_room.
+17 Isla moved the apple to the red_cupboard.
+18 Isla exited the living_room and stayed in the waiting_room.
+19 Emily moved the apple to the red_pantry.
+20 Emily exited the living_room and stayed in the waiting_room.
+21 Gracie, Emily, Isla and Logan entered the hallway.
+22 Logan dislikes the onion.
+23 The beans is in the green_bathtub.
+24 Logan saw a mouse.
+25 Gracie moved the beans to the blue_treasure_chest.
+26 Gracie exited the hallway and stayed in the waiting_room.
+27 Emily moved the beans to the green_bucket.
+28 Emily likes the green_envelope.
+29 Emily exited the hallway and stayed in the waiting_room.
+30 Isla moved the beans to the green_box.
+31 Isla exited the hallway and stayed in the waiting_room.
+32 Logan moved the beans to the red_bathtub.
+33 Logan exited the hallway and stayed in the waiting_room.
+Question: Where does Emily think Logan thinks the persimmon is?
+35 Gracie saw a dog.
+Choices: A. green_envelope, B. green_pantry, C. blue_bathtub, D. red_pantry, E. red_cupboard, F. green_bathtub, G. blue_treasure_chest, H. green_bucket, I. red_bathtub, J. green_box, K. green_cupboard, L. blue_envelope, M. blue_crate, N. green_bottle, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

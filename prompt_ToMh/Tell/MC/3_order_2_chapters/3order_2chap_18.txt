@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Noah, Evelyn, Carter and Amelia entered the kitchen.
-2 The strawberry is in the blue_suitcase.
-3 Olivia made no movements and stayed in the kitchen for 10 minutes.
-4 Olivia exited the kitchen and stayed in the waiting_room.
-5 Noah moved the strawberry to the red_bathtub.
-6 Noah exited the kitchen and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the kitchen for 10 minutes.
-8 Evelyn exited the kitchen and stayed in the waiting_room.
-9 Carter moved the strawberry to the blue_pantry.
-10 Carter exited the kitchen and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the kitchen for 10 minutes.
-12 Amelia exited the kitchen and stayed in the waiting_room.
-13 Amelia, Evelyn and Olivia entered the TV_room.
-14 The asparagus is in the green_bottle.
-15 Amelia made no movements and stayed in the TV_room for 10 minutes.
-16 Amelia exited the TV_room and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the TV_room for 10 minutes.
-18 Evelyn exited the TV_room and stayed in the waiting_room.
-19 Olivia made no movements and stayed in the TV_room for 10 minutes.
-20 Olivia exited the TV_room and stayed in the waiting_room.
-21 Amelia publicly claimed that asparagus is in the red_envelope.
-22 Olivia privately told Noah that the asparagus is actually in the green_bottle.
-Question: Where does Olivia think Carter thinks Noah thinks the strawberry is?
-Choices: A. green_cupboard, B. green_bottle, C. red_bucket, D. red_envelope, E. green_container, F. red_crate, G. blue_suitcase, H. green_crate, I. red_bathtub, J. blue_pantry, K. red_drawer, L. blue_bottle, M. blue_box, N. red_basket, O. red_container
+1 Ethan, Amelia, Mila, Carter and Ava entered the playroom.
+2 The grapefruit is in the red_pantry.
+3 Ethan moved the grapefruit to the blue_cupboard.
+4 Ethan exited the playroom and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the playroom for 10 minutes.
+6 Amelia exited the playroom and stayed in the waiting_room.
+7 Mila moved the grapefruit to the red_envelope.
+8 Mila exited the playroom and stayed in the waiting_room.
+9 Carter made no movements and stayed in the playroom for 10 minutes.
+10 Carter exited the playroom and stayed in the waiting_room.
+11 Ava made no movements and stayed in the playroom for 10 minutes.
+12 Ava exited the playroom and stayed in the waiting_room.
+13 Mila, Ava and Carter entered the garage.
+14 The peas is in the green_bucket.
+15 Mila moved the peas to the green_bottle.
+16 Mila exited the garage and stayed in the waiting_room.
+17 Ava moved the peas to the green_envelope.
+18 Ava exited the garage and stayed in the waiting_room.
+19 Carter made no movements and stayed in the garage for 10 minutes.
+20 Carter exited the garage and stayed in the waiting_room.
+21 Mila publicly claimed that peas is in the green_bucket.
+22 Carter privately told Amelia that the peas is actually in the green_envelope.
+Question: Where does Ava think Carter thinks Mila thinks the grapefruit is?
+Choices: A. green_bucket, B. blue_envelope, C. red_bottle, D. green_bottle, E. green_envelope, F. blue_bathtub, G. red_pantry, H. green_suitcase, I. red_envelope, J. blue_cupboard, K. green_basket, L. green_bathtub, M. red_crate, N. red_bathtub, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Isla, Owen, William and Avery entered the study.
-2 The apple is in the blue_pantry.
-3 Benjamin made no movements and stayed in the study for 10 minutes.
-4 Benjamin exited the study and stayed in the waiting_room.
-5 Isla moved the apple to the blue_bottle.
-6 Isla exited the study and stayed in the waiting_room.
-7 Owen moved the apple to the green_envelope.
-8 Owen exited the study and stayed in the waiting_room.
-9 William made no movements and stayed in the study for 10 minutes.
-10 William exited the study and stayed in the waiting_room.
-11 Avery made no movements and stayed in the study for 10 minutes.
-12 Avery exited the study and stayed in the waiting_room.
-13 Benjamin, Avery and Isla entered the front_yard.
-14 The pumpkin is in the blue_bathtub.
-15 Benjamin made no movements and stayed in the front_yard for 10 minutes.
-16 Benjamin exited the front_yard and stayed in the waiting_room.
-17 Avery moved the pumpkin to the red_suitcase.
-18 Avery exited the front_yard and stayed in the waiting_room.
-19 Isla made no movements and stayed in the front_yard for 10 minutes.
-20 Isla exited the front_yard and stayed in the waiting_room.
-21 Isla, Benjamin, William and Owen entered the pantry.
-22 The cherry is in the green_bottle.
-23 Isla made no movements and stayed in the pantry for 10 minutes.
-24 Isla exited the pantry and stayed in the waiting_room.
-25 Benjamin made no movements and stayed in the pantry for 10 minutes.
-26 Benjamin exited the pantry and stayed in the waiting_room.
-27 William moved the cherry to the blue_treasure_chest.
-28 William exited the pantry and stayed in the waiting_room.
-29 Owen made no movements and stayed in the pantry for 10 minutes.
-30 Owen exited the pantry and stayed in the waiting_room.
-Question: Where does Owen think Benjamin thinks Avery thinks William thinks the apple is?
-Choices: A. green_treasure_chest, B. green_bottle, C. red_crate, D. red_bucket, E. blue_treasure_chest, F. blue_container, G. blue_bathtub, H. red_bathtub, I. red_suitcase, J. green_container, K. green_envelope, L. blue_pantry, M. blue_bottle, N. green_bathtub, O. red_basket
+1 Logan, Aiden, Jayden, Charlotte and Lucas entered the garden.
+2 The cabbage is in the red_treasure_chest.
+3 Logan moved the cabbage to the green_bucket.
+4 Logan exited the garden and stayed in the waiting_room.
+5 Aiden moved the cabbage to the red_container.
+6 Aiden exited the garden and stayed in the waiting_room.
+7 Jayden lost his bottle.
+8 Jayden made no movements and stayed in the garden for 10 minutes.
+9 Jayden exited the garden and stayed in the waiting_room.
+10 Charlotte moved the cabbage to the red_envelope.
+11 Charlotte exited the garden and stayed in the waiting_room.
+12 Lucas moved the cabbage to the red_treasure_chest.
+13 Lucas exited the garden and stayed in the waiting_room.
+14 Charlotte lost his watch.
+15 Lucas, Charlotte and Logan entered the workshop.
+16 The celery is in the green_envelope.
+17 Lucas moved the celery to the green_bottle.
+18 Lucas exited the workshop and stayed in the waiting_room.
+19 Charlotte moved the celery to the green_bathtub.
+20 Aiden lost his phone.
+21 Charlotte exited the workshop and stayed in the waiting_room.
+22 Logan made no movements and stayed in the workshop for 10 minutes.
+23 Logan exited the workshop and stayed in the waiting_room.
+24 Aiden saw a mouse.
+25 Charlotte, Lucas, Aiden and Logan entered the garden.
+26 The cucumber is in the red_container.
+27 Charlotte made no movements and stayed in the garden for 10 minutes.
+28 Charlotte exited the garden and stayed in the waiting_room.
+29 Charlotte likes the red_treasure_chest.
+30 Lucas made no movements and stayed in the garden for 10 minutes.
+31 Lucas exited the garden and stayed in the waiting_room.
+32 Aiden moved the cucumber to the red_treasure_chest.
+33 Aiden exited the garden and stayed in the waiting_room.
+34 Jayden likes the red_container.
+35 Logan made no movements and stayed in the garden for 10 minutes.
+36 Logan exited the garden and stayed in the waiting_room.
+Question: Where does Jayden think Lucas thinks Aiden thinks Charlotte thinks the cabbage is?
+Choices: A. green_envelope, B. green_bottle, C. green_suitcase, D. green_bathtub, E. red_bathtub, F. red_treasure_chest, G. red_container, H. green_bucket, I. green_basket, J. red_envelope, K. blue_bathtub, L. red_bucket, M. blue_bucket, N. red_crate, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

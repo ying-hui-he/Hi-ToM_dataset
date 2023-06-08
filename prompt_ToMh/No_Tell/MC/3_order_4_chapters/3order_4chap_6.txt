@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Benjamin, Carter, Emma and Olivia entered the attic.
-2 The tomato is in the red_basket.
-3 Gracie moved the tomato to the green_suitcase.
-4 Gracie exited the attic and stayed in the waiting_room.
-5 Benjamin moved the tomato to the red_suitcase.
-6 Benjamin exited the attic and stayed in the waiting_room.
-7 Carter moved the tomato to the blue_pantry.
-8 Carter exited the attic and stayed in the waiting_room.
-9 Emma made no movements and stayed in the attic for 10 minutes.
-10 Emma exited the attic and stayed in the waiting_room.
-11 Olivia moved the tomato to the red_basket.
-12 Olivia exited the attic and stayed in the waiting_room.
-13 Emma, Carter and Olivia entered the attic.
-14 The melon is in the blue_pantry.
-15 Emma moved the melon to the green_suitcase.
-16 Emma exited the attic and stayed in the waiting_room.
-17 Carter moved the melon to the blue_envelope.
-18 Carter exited the attic and stayed in the waiting_room.
-19 Olivia made no movements and stayed in the attic for 10 minutes.
-20 Olivia exited the attic and stayed in the waiting_room.
-21 Emma, Gracie, Olivia and Carter entered the office.
-22 The celery is in the green_cupboard.
-23 Emma moved the celery to the blue_container.
-24 Emma exited the office and stayed in the waiting_room.
-25 Gracie made no movements and stayed in the office for 10 minutes.
-26 Gracie exited the office and stayed in the waiting_room.
-27 Olivia moved the celery to the red_drawer.
-28 Olivia exited the office and stayed in the waiting_room.
-29 Carter made no movements and stayed in the office for 10 minutes.
-30 Carter exited the office and stayed in the waiting_room.
-31 Gracie and Emma entered the kitchen.
-32 The lettuce is in the red_bottle.
-33 Gracie made no movements and stayed in the kitchen for 10 minutes.
-34 Gracie exited the kitchen and stayed in the waiting_room.
-35 Emma moved the lettuce to the red_bucket.
-36 Emma exited the kitchen and stayed in the waiting_room.
-Question: Where does Benjamin think Emma thinks Carter thinks the tomato is?
-Choices: A. red_drawer, B. green_cupboard, C. red_treasure_chest, D. blue_drawer, E. blue_container, F. red_bucket, G. red_bottle, H. blue_bucket, I. green_bottle, J. blue_basket, K. blue_pantry, L. red_basket, M. blue_envelope, N. green_suitcase, O. red_suitcase
+1 Aria dislikes the melon.
+2 Jack, Aiden, Mia, Alexander and Aria entered the back_yard.
+3 The onion is in the blue_drawer.
+4 Jack moved the onion to the blue_bathtub.
+5 Jack exited the back_yard and stayed in the waiting_room.
+6 Aiden made no movements and stayed in the back_yard for 10 minutes.
+7 Aiden exited the back_yard and stayed in the waiting_room.
+8 Mia made no movements and stayed in the back_yard for 10 minutes.
+9 Mia exited the back_yard and stayed in the waiting_room.
+10 Alexander made no movements and stayed in the back_yard for 10 minutes.
+11 Alexander exited the back_yard and stayed in the waiting_room.
+12 Aria made no movements and stayed in the back_yard for 10 minutes.
+13 Aria exited the back_yard and stayed in the waiting_room.
+14 Aiden, Jack and Aria entered the attic.
+15 The grapefruit is in the blue_suitcase.
+16 Aiden moved the grapefruit to the blue_treasure_chest.
+17 Aiden exited the attic and stayed in the waiting_room.
+18 Jack made no movements and stayed in the attic for 10 minutes.
+19 Jack exited the attic and stayed in the waiting_room.
+20 Aria made no movements and stayed in the attic for 10 minutes.
+21 Jack likes the blue_suitcase.
+22 Aria exited the attic and stayed in the waiting_room.
+23 Jack likes the green_cupboard.
+24 Aiden, Mia, Alexander and Jack entered the patio.
+25 The asparagus is in the green_cupboard.
+26 Aiden made no movements and stayed in the patio for 10 minutes.
+27 Aiden exited the patio and stayed in the waiting_room.
+28 Mia moved the asparagus to the green_bottle.
+29 Mia exited the patio and stayed in the waiting_room.
+30 Alexander moved the asparagus to the red_bucket.
+31 Alexander exited the patio and stayed in the waiting_room.
+32 Jack moved the asparagus to the red_cupboard.
+33 Jack exited the patio and stayed in the waiting_room.
+34 Mia and Aria entered the patio.
+35 Aiden saw a mouse.
+36 The melon is in the red_bucket.
+37 Mia made no movements and stayed in the patio for 10 minutes.
+38 Aria saw a cat.
+39 Mia exited the patio and stayed in the waiting_room.
+40 Aria moved the melon to the green_bottle.
+41 Aria exited the patio and stayed in the waiting_room.
+Question: Where does Aria think Mia thinks Alexander thinks the onion is?
+Choices: A. green_bucket, B. blue_drawer, C. red_basket, D. blue_bathtub, E. red_treasure_chest, F. blue_bucket, G. blue_suitcase, H. blue_treasure_chest, I. red_box, J. red_pantry, K. red_bucket, L. green_cupboard, M. red_cupboard, N. green_bottle, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

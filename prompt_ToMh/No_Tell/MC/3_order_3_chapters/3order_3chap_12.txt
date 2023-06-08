@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Jack, Aria, Abigail and Hannah entered the crawlspace.
-2 The melon is in the green_bathtub.
-3 Logan moved the melon to the red_container.
-4 Logan exited the crawlspace and stayed in the waiting_room.
-5 Jack made no movements and stayed in the crawlspace for 10 minutes.
-6 Jack exited the crawlspace and stayed in the waiting_room.
-7 Aria made no movements and stayed in the crawlspace for 10 minutes.
-8 Aria exited the crawlspace and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the crawlspace for 10 minutes.
-10 Abigail exited the crawlspace and stayed in the waiting_room.
-11 Hannah moved the melon to the green_bathtub.
-12 Hannah exited the crawlspace and stayed in the waiting_room.
-13 Hannah, Aria and Logan entered the crawlspace.
-14 The cucumber is in the red_container.
-15 Hannah made no movements and stayed in the crawlspace for 10 minutes.
-16 Hannah exited the crawlspace and stayed in the waiting_room.
-17 Aria made no movements and stayed in the crawlspace for 10 minutes.
-18 Aria exited the crawlspace and stayed in the waiting_room.
-19 Logan moved the cucumber to the red_treasure_chest.
-20 Logan exited the crawlspace and stayed in the waiting_room.
-21 Abigail, Hannah, Aria and Jack entered the crawlspace.
-22 The cucumber is in the red_treasure_chest.
-23 Abigail made no movements and stayed in the crawlspace for 10 minutes.
-24 Abigail exited the crawlspace and stayed in the waiting_room.
-25 Hannah moved the cucumber to the green_suitcase.
-26 Hannah exited the crawlspace and stayed in the waiting_room.
-27 Aria moved the cucumber to the green_bathtub.
-28 Aria exited the crawlspace and stayed in the waiting_room.
-29 Jack moved the cucumber to the red_container.
-30 Jack exited the crawlspace and stayed in the waiting_room.
-Question: Where does Aria think Abigail thinks Logan thinks the melon is?
-Choices: A. red_bathtub, B. red_bottle, C. blue_container, D. blue_treasure_chest, E. red_drawer, F. green_bathtub, G. red_container, H. red_treasure_chest, I. green_suitcase, J. green_bottle, K. blue_box, L. blue_drawer, M. green_crate, N. blue_basket, O. blue_bathtub
+1 Logan, Alexander, Emily, Mia and Lucas entered the pantry.
+2 The lettuce is in the green_bathtub.
+3 Logan moved the lettuce to the blue_bathtub.
+4 Logan exited the pantry and stayed in the waiting_room.
+5 Alexander made no movements and stayed in the pantry for 10 minutes.
+6 Alexander exited the pantry and stayed in the waiting_room.
+7 Emily made no movements and stayed in the pantry for 10 minutes.
+8 Emily exited the pantry and stayed in the waiting_room.
+9 Mia moved the lettuce to the red_container.
+10 Mia exited the pantry and stayed in the waiting_room.
+11 Lucas made no movements and stayed in the pantry for 10 minutes.
+12 Lucas exited the pantry and stayed in the waiting_room.
+13 Logan, Lucas and Alexander entered the dining_room.
+14 The banana is in the green_bucket.
+15 Alexander saw a cat.
+16 Logan moved the banana to the red_pantry.
+17 Logan exited the dining_room and stayed in the waiting_room.
+18 Lucas made no movements and stayed in the dining_room for 10 minutes.
+19 Lucas exited the dining_room and stayed in the waiting_room.
+20 Alexander moved the banana to the blue_crate.
+21 Alexander exited the dining_room and stayed in the waiting_room.
+22 Logan, Alexander, Emily and Mia entered the bedroom.
+23 The tangerine is in the blue_drawer.
+24 Logan moved the tangerine to the blue_bucket.
+25 Logan exited the bedroom and stayed in the waiting_room.
+26 Alexander made no movements and stayed in the bedroom for 10 minutes.
+27 Alexander exited the bedroom and stayed in the waiting_room.
+28 Emily moved the tangerine to the blue_envelope.
+29 Emily exited the bedroom and stayed in the waiting_room.
+30 Logan likes the green_bucket.
+31 Mia moved the tangerine to the blue_treasure_chest.
+32 Mia exited the bedroom and stayed in the waiting_room.
+Question: Where does Mia think Emily thinks Alexander thinks the lettuce is?
+Choices: A. red_basket, B. green_bathtub, C. blue_bathtub, D. green_cupboard, E. red_container, F. green_basket, G. blue_drawer, H. blue_treasure_chest, I. blue_envelope, J. blue_bucket, K. red_treasure_chest, L. green_bucket, M. blue_crate, N. red_bucket, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

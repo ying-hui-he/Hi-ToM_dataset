@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Hannah, Emma, Jack and Evelyn entered the hall.
-2 The radish is in the blue_crate.
-3 Amelia moved the radish to the red_bucket.
-4 Amelia exited the hall and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the hall for 10 minutes.
-6 Hannah exited the hall and stayed in the waiting_room.
-7 Emma moved the radish to the red_treasure_chest.
-8 Emma exited the hall and stayed in the waiting_room.
-9 Jack moved the radish to the blue_basket.
-10 Jack exited the hall and stayed in the waiting_room.
-11 Evelyn moved the radish to the blue_crate.
-12 Evelyn exited the hall and stayed in the waiting_room.
-13 Emma privately told Amelia that the radish is actually in the red_treasure_chest.
-14 Hannah privately told Jack that the radish is actually in the blue_crate.
-15 Jack, Emma and Amelia entered the hall.
-16 The potato is in the red_treasure_chest.
-17 Jack moved the potato to the blue_suitcase.
-18 Jack exited the hall and stayed in the waiting_room.
-19 Emma made no movements and stayed in the hall for 10 minutes.
-20 Emma exited the hall and stayed in the waiting_room.
-21 Amelia moved the potato to the red_bucket.
-22 Amelia exited the hall and stayed in the waiting_room.
-23 Evelyn, Emma, Hannah and Jack entered the crawlspace.
-24 The tomato is in the red_basket.
-25 Evelyn moved the tomato to the blue_drawer.
-26 Evelyn exited the crawlspace and stayed in the waiting_room.
-27 Emma moved the tomato to the blue_treasure_chest.
-28 Emma exited the crawlspace and stayed in the waiting_room.
-29 Hannah made no movements and stayed in the crawlspace for 10 minutes.
-30 Hannah exited the crawlspace and stayed in the waiting_room.
-31 Jack moved the tomato to the green_container.
-32 Jack exited the crawlspace and stayed in the waiting_room.
-33 Evelyn publicly claimed that tomato is in the red_basket.
-34 Jack privately told Amelia that the tomato is actually in the green_container.
-Question: Where does Hannah think Jack thinks Evelyn thinks the radish is?
-Choices: A. red_treasure_chest, B. blue_crate, C. blue_suitcase, D. blue_basket, E. red_bucket, F. blue_box, G. green_bottle, H. red_bottle, I. green_bathtub, J. red_bathtub, K. red_basket, L. blue_drawer, M. red_envelope, N. blue_treasure_chest, O. green_container
+1 Gracie, Jack, Emma, Isabella and Isla entered the pantry.
+2 Jack likes the blue_suitcase.
+3 The cabbage is in the green_bathtub.
+4 Gracie moved the cabbage to the red_basket.
+5 Gracie exited the pantry and stayed in the waiting_room.
+6 Jack made no movements and stayed in the pantry for 10 minutes.
+7 Jack exited the pantry and stayed in the waiting_room.
+8 Emma moved the cabbage to the red_bottle.
+9 Gracie dislikes the persimmon.
+10 Emma exited the pantry and stayed in the waiting_room.
+11 Isabella moved the cabbage to the blue_bottle.
+12 Isabella exited the pantry and stayed in the waiting_room.
+13 Isla moved the cabbage to the green_bathtub.
+14 Isla exited the pantry and stayed in the waiting_room.
+15 Emma publicly claimed that cabbage is in the red_bottle.
+16 Emma likes the green_bottle.
+17 Isla privately told Emma that the cabbage is actually in the green_bathtub.
+18 Isla, Emma and Jack entered the living_room.
+19 The persimmon is in the green_pantry.
+20 Isla moved the persimmon to the blue_drawer.
+21 Isla exited the living_room and stayed in the waiting_room.
+22 Emma made no movements and stayed in the living_room for 10 minutes.
+23 Emma exited the living_room and stayed in the waiting_room.
+24 Jack moved the persimmon to the green_bottle.
+25 Jack exited the living_room and stayed in the waiting_room.
+26 Isla, Isabella, Gracie and Emma entered the pantry.
+27 The cabbage is in the green_bathtub.
+28 Isla moved the cabbage to the red_bottle.
+29 Isla exited the pantry and stayed in the waiting_room.
+30 Isabella moved the cabbage to the red_basket.
+31 Isabella exited the pantry and stayed in the waiting_room.
+32 Gracie made no movements and stayed in the pantry for 10 minutes.
+33 Gracie exited the pantry and stayed in the waiting_room.
+34 Emma moved the cabbage to the red_treasure_chest.
+35 Emma lost his bottle.
+36 Emma exited the pantry and stayed in the waiting_room.
+37 Isabella privately told Gracie that the cabbage is actually in the red_bottle.
+38 Emma privately told Jack that the cabbage is actually in the red_treasure_chest.
+Question: Where does Isla think Jack thinks Emma thinks the cabbage is?
+Choices: A. green_bathtub, B. red_treasure_chest, C. red_basket, D. red_bottle, E. blue_bottle, F. green_pantry, G. red_bucket, H. green_bottle, I. blue_drawer, J. red_box, K. red_pantry, L. green_envelope, M. blue_crate, N. red_crate, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

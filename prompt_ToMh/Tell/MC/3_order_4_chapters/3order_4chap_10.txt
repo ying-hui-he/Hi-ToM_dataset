@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Noah, Aria, Jacob, Hannah and Ethan entered the closet.
-2 The plum is in the blue_treasure_chest.
-3 Noah made no movements and stayed in the closet for 10 minutes.
-4 Noah exited the closet and stayed in the waiting_room.
-5 Aria made no movements and stayed in the closet for 10 minutes.
-6 Aria exited the closet and stayed in the waiting_room.
-7 Jacob made no movements and stayed in the closet for 10 minutes.
-8 Jacob exited the closet and stayed in the waiting_room.
-9 Hannah moved the plum to the blue_box.
-10 Hannah exited the closet and stayed in the waiting_room.
-11 Ethan moved the plum to the blue_treasure_chest.
-12 Ethan exited the closet and stayed in the waiting_room.
-13 Ethan, Noah and Jacob entered the closet.
-14 The spinach is in the red_basket.
-15 Ethan moved the spinach to the blue_box.
-16 Ethan exited the closet and stayed in the waiting_room.
-17 Noah made no movements and stayed in the closet for 10 minutes.
-18 Noah exited the closet and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the closet for 10 minutes.
-20 Jacob exited the closet and stayed in the waiting_room.
-21 Noah publicly claimed that spinach is in the red_basket.
-22 Jacob privately told Noah that the spinach is actually in the blue_suitcase.
-23 Aria, Ethan, Hannah and Noah entered the TV_room.
-24 The corn is in the green_cupboard.
-25 Aria moved the corn to the red_bucket.
-26 Aria exited the TV_room and stayed in the waiting_room.
-27 Ethan moved the corn to the red_suitcase.
-28 Ethan exited the TV_room and stayed in the waiting_room.
-29 Hannah moved the corn to the blue_basket.
-30 Hannah exited the TV_room and stayed in the waiting_room.
-31 Noah moved the corn to the green_bottle.
-32 Noah exited the TV_room and stayed in the waiting_room.
-33 Noah and Hannah entered the closet.
-34 The spinach is in the blue_box.
-35 Noah moved the spinach to the blue_suitcase.
-36 Noah exited the closet and stayed in the waiting_room.
-37 Hannah made no movements and stayed in the closet for 10 minutes.
-38 Hannah exited the closet and stayed in the waiting_room.
-39 Hannah publicly claimed that spinach is in the blue_bottle.
-40 Noah privately told Hannah that the spinach is actually in the blue_box.
-Question: Where does Hannah think Jacob thinks Ethan thinks the plum is?
-Choices: A. green_cupboard, B. red_suitcase, C. green_bottle, D. blue_basket, E. red_bucket, F. blue_bathtub, G. red_envelope, H. blue_pantry, I. red_bathtub, J. green_container, K. red_basket, L. blue_treasure_chest, M. blue_box, N. blue_bottle, O. blue_suitcase
+1 Owen, Ella, Aria, Chloe and Emily entered the sunroom.
+2 Ella saw a cat.
+3 The turnip is in the red_cupboard.
+4 Owen moved the turnip to the blue_envelope.
+5 Owen exited the sunroom and stayed in the waiting_room.
+6 Emily lost his phone.
+7 Ella moved the turnip to the green_cupboard.
+8 Aria dislikes the melon.
+9 Ella exited the sunroom and stayed in the waiting_room.
+10 Aria made no movements and stayed in the sunroom for 10 minutes.
+11 Aria exited the sunroom and stayed in the waiting_room.
+12 Chloe made no movements and stayed in the sunroom for 10 minutes.
+13 Chloe exited the sunroom and stayed in the waiting_room.
+14 Emily moved the turnip to the red_cupboard.
+15 Emily exited the sunroom and stayed in the waiting_room.
+16 Emily, Aria and Chloe entered the living_room.
+17 The watermelon is in the red_crate.
+18 Emily made no movements and stayed in the living_room for 10 minutes.
+19 Emily exited the living_room and stayed in the waiting_room.
+20 Aria moved the watermelon to the red_pantry.
+21 Chloe saw a dog.
+22 Aria exited the living_room and stayed in the waiting_room.
+23 Chloe moved the watermelon to the blue_treasure_chest.
+24 Chloe exited the living_room and stayed in the waiting_room.
+25 Aria publicly claimed that watermelon is in the red_crate.
+26 Chloe privately told Aria that the watermelon is actually in the blue_treasure_chest.
+27 Owen, Emily, Ella and Aria entered the living_room.
+28 The lemon is in the blue_treasure_chest.
+29 Owen made no movements and stayed in the living_room for 10 minutes.
+30 Owen exited the living_room and stayed in the waiting_room.
+31 Emily moved the lemon to the red_treasure_chest.
+32 Emily exited the living_room and stayed in the waiting_room.
+33 Aria lost his phone.
+34 Ella made no movements and stayed in the living_room for 10 minutes.
+35 Ella exited the living_room and stayed in the waiting_room.
+36 Aria moved the lemon to the red_crate.
+37 Aria exited the living_room and stayed in the waiting_room.
+38 Owen and Aria entered the front_yard.
+39 The grapefruit is in the blue_cupboard.
+40 Owen made no movements and stayed in the front_yard for 10 minutes.
+41 Owen exited the front_yard and stayed in the waiting_room.
+42 Aria made no movements and stayed in the front_yard for 10 minutes.
+43 Aria exited the front_yard and stayed in the waiting_room.
+44 Owen privately told Ella that the grapefruit is actually in the green_pantry.
+Question: Where does Emily think Chloe thinks Owen thinks the turnip is?
+Choices: A. blue_treasure_chest, B. red_crate, C. red_pantry, D. red_treasure_chest, E. green_suitcase, F. blue_cupboard, G. green_pantry, H. green_bathtub, I. blue_bucket, J. green_bucket, K. red_cupboard, L. blue_crate, M. red_basket, N. green_cupboard, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

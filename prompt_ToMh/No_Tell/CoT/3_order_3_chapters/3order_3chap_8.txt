@@ -1,35 +1,40 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Noah, Avery, Jack, Owen and Jackson entered the office.
-2 The radish is in the red_bathtub.
-3 Noah moved the radish to the red_drawer.
-4 Noah exited the office and stayed in the waiting_room.
-5 Avery moved the radish to the blue_drawer.
-6 Avery exited the office and stayed in the waiting_room.
-7 Jack made no movements and stayed in the office for 10 minutes.
-8 Jack exited the office and stayed in the waiting_room.
-9 Owen moved the radish to the blue_container.
-10 Owen exited the office and stayed in the waiting_room.
-11 Jackson moved the radish to the red_bathtub.
-12 Jackson exited the office and stayed in the waiting_room.
-13 Jack, Owen and Jackson entered the office.
-14 The lemon is in the blue_basket.
-15 Jack made no movements and stayed in the office for 10 minutes.
-16 Jack exited the office and stayed in the waiting_room.
-17 Owen moved the lemon to the red_bathtub.
-18 Owen exited the office and stayed in the waiting_room.
-19 Jackson made no movements and stayed in the office for 10 minutes.
-20 Jackson exited the office and stayed in the waiting_room.
-21 Jack, Jackson, Avery and Owen entered the office.
-22 The lemon is in the red_bathtub.
-23 Jack moved the lemon to the blue_basket.
-24 Jack exited the office and stayed in the waiting_room.
-25 Jackson made no movements and stayed in the office for 10 minutes.
-26 Jackson exited the office and stayed in the waiting_room.
-27 Avery made no movements and stayed in the office for 10 minutes.
-28 Avery exited the office and stayed in the waiting_room.
-29 Owen made no movements and stayed in the office for 10 minutes.
-30 Owen exited the office and stayed in the waiting_room.
-Question: Where does Jackson think Noah thinks Jack thinks the radish is?
-Choices: A. blue_treasure_chest, B. green_suitcase, C. blue_pantry, D. red_envelope, E. red_crate, F. red_bathtub, G. blue_basket, H. red_drawer, I. blue_drawer, J. blue_container, K. green_container, L. blue_suitcase, M. red_suitcase, N. red_bucket, O. blue_envelope
+1 Nathan, Emma, Emily, Lucas and Mila entered the back_yard.
+2 The corn is in the red_envelope.
+3 Nathan moved the corn to the blue_cupboard.
+4 Nathan exited the back_yard and stayed in the waiting_room.
+5 Emma moved the corn to the red_crate.
+6 Emma exited the back_yard and stayed in the waiting_room.
+7 Emily moved the corn to the red_bathtub.
+8 Emily exited the back_yard and stayed in the waiting_room.
+9 Lucas moved the corn to the blue_bathtub.
+10 Lucas exited the back_yard and stayed in the waiting_room.
+11 Mila moved the corn to the red_envelope.
+12 Mila exited the back_yard and stayed in the waiting_room.
+13 Nathan, Emily and Emma entered the crawlspace.
+14 The tomato is in the blue_suitcase.
+15 Emma saw a cat.
+16 Nathan made no movements and stayed in the crawlspace for 10 minutes.
+17 Nathan exited the crawlspace and stayed in the waiting_room.
+18 Emily made no movements and stayed in the crawlspace for 10 minutes.
+19 Emma lost his watch.
+20 Emily exited the crawlspace and stayed in the waiting_room.
+21 Emma made no movements and stayed in the crawlspace for 10 minutes.
+22 Emma exited the crawlspace and stayed in the waiting_room.
+23 Mila, Lucas, Emily and Nathan entered the crawlspace.
+24 The apple is in the red_bucket.
+25 Mila made no movements and stayed in the crawlspace for 10 minutes.
+26 Nathan lost his bottle.
+27 Mila exited the crawlspace and stayed in the waiting_room.
+28 Lucas made no movements and stayed in the crawlspace for 10 minutes.
+29 Lucas exited the crawlspace and stayed in the waiting_room.
+30 Emily made no movements and stayed in the crawlspace for 10 minutes.
+31 Nathan likes the blue_bucket.
+32 Emily exited the crawlspace and stayed in the waiting_room.
+33 Nathan moved the apple to the blue_suitcase.
+34 Nathan exited the crawlspace and stayed in the waiting_room.
+Question: Where does Lucas think Emily thinks Emma thinks the corn is?
+36 Emma likes the blue_treasure_chest.
+Choices: A. red_crate, B. red_envelope, C. blue_bathtub, D. blue_cupboard, E. red_bathtub, F. green_bathtub, G. blue_drawer, H. blue_envelope, I. blue_bucket, J. blue_treasure_chest, K. blue_suitcase, L. red_bucket, M. green_suitcase, N. green_basket, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,39 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Abigail, Olivia, Avery and Amelia entered the sunroom.
-2 The lemon is in the blue_envelope.
-3 Evelyn moved the lemon to the blue_container.
-4 Evelyn exited the sunroom and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the sunroom for 10 minutes.
-6 Abigail exited the sunroom and stayed in the waiting_room.
-7 Olivia moved the lemon to the green_container.
-8 Olivia exited the sunroom and stayed in the waiting_room.
-9 Avery moved the lemon to the red_drawer.
-10 Avery exited the sunroom and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the sunroom for 10 minutes.
-12 Amelia exited the sunroom and stayed in the waiting_room.
-13 Avery publicly claimed that lemon is in the green_container.
-14 Amelia privately told Evelyn that the lemon is actually in the red_drawer.
-15 Olivia, Avery and Abigail entered the den.
-16 The lettuce is in the green_suitcase.
-17 Olivia moved the lettuce to the blue_bottle.
-18 Olivia exited the den and stayed in the waiting_room.
-19 Avery made no movements and stayed in the den for 10 minutes.
-20 Avery exited the den and stayed in the waiting_room.
-21 Abigail moved the lettuce to the blue_pantry.
-22 Abigail exited the den and stayed in the waiting_room.
-23 Evelyn, Olivia, Amelia and Abigail entered the sunroom.
-24 The lemon is in the red_drawer.
-25 Evelyn moved the lemon to the blue_envelope.
-26 Evelyn exited the sunroom and stayed in the waiting_room.
-27 Olivia made no movements and stayed in the sunroom for 10 minutes.
-28 Olivia exited the sunroom and stayed in the waiting_room.
-29 Amelia moved the lemon to the blue_container.
-30 Amelia exited the sunroom and stayed in the waiting_room.
-31 Abigail moved the lemon to the red_crate.
-32 Abigail exited the sunroom and stayed in the waiting_room.
-33 Olivia privately told Amelia that the lemon is actually in the blue_envelope.
-34 Abigail privately told Avery that the lemon is actually in the red_crate.
-Question: Where does Abigail think Amelia thinks Avery thinks the lemon is?
-Answer: None
-Choices: A. green_bottle, B. red_container, C. red_bottle, D. red_bathtub, E. green_crate, F. green_suitcase, G. blue_bottle, H. blue_pantry, I. red_suitcase, J. red_bucket, K. red_drawer, L. blue_envelope, M. red_crate, N. green_container, O. blue_container
+1 Aiden, Mia, Nathan, Hannah and Gracie entered the dining_room.
+2 The peas is in the red_bottle.
+3 Aiden moved the peas to the blue_bathtub.
+4 Aiden exited the dining_room and stayed in the waiting_room.
+5 Mia made no movements and stayed in the dining_room for 10 minutes.
+6 Nathan dislikes the peas.
+7 Mia exited the dining_room and stayed in the waiting_room.
+8 Nathan made no movements and stayed in the dining_room for 10 minutes.
+9 Nathan dislikes the banana.
+10 Nathan exited the dining_room and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the dining_room for 10 minutes.
+12 Hannah exited the dining_room and stayed in the waiting_room.
+13 Gracie moved the peas to the red_bottle.
+14 Gracie exited the dining_room and stayed in the waiting_room.
+15 Nathan publicly claimed that peas is in the blue_treasure_chest.
+16 Gracie privately told Nathan that the peas is actually in the red_bottle.
+17 Mia likes the green_bathtub.
+18 Aiden, Mia and Gracie entered the dining_room.
+19 Hannah dislikes the celery.
+20 The peas is in the red_bottle.
+21 Aiden moved the peas to the blue_bathtub.
+22 Aiden exited the dining_room and stayed in the waiting_room.
+23 Mia moved the peas to the red_bucket.
+24 Mia exited the dining_room and stayed in the waiting_room.
+25 Gracie made no movements and stayed in the dining_room for 10 minutes.
+26 Gracie exited the dining_room and stayed in the waiting_room.
+27 Aiden, Gracie, Nathan and Mia entered the dining_room.
+28 The lettuce is in the red_bucket.
+29 Aiden moved the lettuce to the red_cupboard.
+30 Aiden exited the dining_room and stayed in the waiting_room.
+31 Gracie moved the lettuce to the blue_treasure_chest.
+32 Gracie exited the dining_room and stayed in the waiting_room.
+33 Nathan made no movements and stayed in the dining_room for 10 minutes.
+34 Nathan exited the dining_room and stayed in the waiting_room.
+35 Mia moved the lettuce to the red_bottle.
+36 Mia exited the dining_room and stayed in the waiting_room.
+37 Nathan publicly claimed that lettuce is in the red_bucket.
+38 Nathan likes the red_bottle.
+39 Aiden privately told Mia that the lettuce is actually in the blue_treasure_chest.
+40 Nathan likes the red_pantry.
+Question: Where does Mia think Nathan thinks Hannah thinks the peas is?
+Answer: blue_bathtub
+Choices: A. red_bucket, B. red_bottle, C. red_cupboard, D. blue_bathtub, E. blue_treasure_chest, F. green_bathtub, G. red_container, H. red_envelope, I. green_bucket, J. red_pantry, K. green_basket, L. green_cupboard, M. red_crate, N. green_envelope, O. red_treasure_chest

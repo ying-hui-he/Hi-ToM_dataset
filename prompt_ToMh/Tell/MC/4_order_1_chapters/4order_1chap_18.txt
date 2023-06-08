@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Mia, Aria, Hannah and Noah entered the bathroom.
-2 The pear is in the blue_envelope.
-3 Gracie made no movements and stayed in the bathroom for 10 minutes.
-4 Gracie exited the bathroom and stayed in the waiting_room.
-5 Mia made no movements and stayed in the bathroom for 10 minutes.
-6 Mia exited the bathroom and stayed in the waiting_room.
-7 Aria moved the pear to the red_envelope.
-8 Aria exited the bathroom and stayed in the waiting_room.
-9 Hannah moved the pear to the red_suitcase.
-10 Hannah exited the bathroom and stayed in the waiting_room.
-11 Noah moved the pear to the blue_envelope.
-12 Noah exited the bathroom and stayed in the waiting_room.
-13 Hannah publicly claimed that pear is in the blue_envelope.
-14 Noah privately told Gracie that the pear is actually in the blue_envelope.
-Question: Where does Mia think Noah thinks Hannah thinks Gracie thinks the pear is?
-Choices: A. blue_treasure_chest, B. green_container, C. blue_drawer, D. red_container, E. blue_bucket, F. blue_envelope, G. blue_pantry, H. red_suitcase, I. green_cupboard, J. red_envelope, K. green_envelope, L. red_bathtub, M. green_crate, N. green_bathtub, O. blue_crate
+1 Ethan, Gracie, Sophia, Liam and Isla entered the sunroom.
+2 The banana is in the green_basket.
+3 Ethan made no movements and stayed in the sunroom for 10 minutes.
+4 Ethan exited the sunroom and stayed in the waiting_room.
+5 Gracie moved the banana to the green_envelope.
+6 Gracie exited the sunroom and stayed in the waiting_room.
+7 Sophia moved the banana to the red_box.
+8 Sophia exited the sunroom and stayed in the waiting_room.
+9 Liam moved the banana to the blue_crate.
+10 Liam exited the sunroom and stayed in the waiting_room.
+11 Isla made no movements and stayed in the sunroom for 10 minutes.
+12 Isla exited the sunroom and stayed in the waiting_room.
+13 Liam publicly claimed that banana is in the blue_cupboard.
+14 Isla privately told Ethan that the banana is actually in the blue_crate.
+Question: Where does Liam think Ethan thinks Sophia thinks Isla thinks the banana is?
+Choices: A. red_box, B. green_basket, C. blue_cupboard, D. blue_crate, E. green_envelope, F. red_basket, G. blue_bottle, H. green_treasure_chest, I. red_treasure_chest, J. blue_treasure_chest, K. blue_bathtub, L. green_bathtub, M. blue_envelope, N. red_crate, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

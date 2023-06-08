@@ -1,39 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Evelyn, Olivia, William and Emily entered the basement.
-2 The pear is in the blue_bucket.
-3 Oliver made no movements and stayed in the basement for 10 minutes.
-4 Oliver exited the basement and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the basement for 10 minutes.
-6 Evelyn exited the basement and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the basement for 10 minutes.
-8 Olivia exited the basement and stayed in the waiting_room.
-9 William made no movements and stayed in the basement for 10 minutes.
-10 William exited the basement and stayed in the waiting_room.
-11 Emily made no movements and stayed in the basement for 10 minutes.
-12 Emily exited the basement and stayed in the waiting_room.
-13 William publicly claimed that pear is in the blue_bucket.
-14 Emily privately told Oliver that the pear is actually in the blue_bucket.
-15 Emily, Oliver and Olivia entered the garage.
-16 The potato is in the green_bathtub.
-17 Emily moved the potato to the blue_pantry.
-18 Emily exited the garage and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the garage for 10 minutes.
-20 Oliver exited the garage and stayed in the waiting_room.
-21 Olivia moved the potato to the red_bathtub.
-22 Olivia exited the garage and stayed in the waiting_room.
-23 Emily, Oliver, Olivia and William entered the lounge.
-24 The cherry is in the green_envelope.
-25 Emily moved the cherry to the green_container.
-26 Emily exited the lounge and stayed in the waiting_room.
-27 Oliver moved the cherry to the red_treasure_chest.
-28 Oliver exited the lounge and stayed in the waiting_room.
-29 Olivia made no movements and stayed in the lounge for 10 minutes.
-30 Olivia exited the lounge and stayed in the waiting_room.
-31 William made no movements and stayed in the lounge for 10 minutes.
-32 William exited the lounge and stayed in the waiting_room.
-33 Emily publicly claimed that cherry is in the green_envelope.
-34 William privately told Evelyn that the cherry is actually in the red_treasure_chest.
-Question: Where does Evelyn think the pear is?
-Choices: A. blue_bucket, B. blue_suitcase, C. red_drawer, D. red_envelope, E. red_basket, F. green_envelope, G. green_container, H. red_suitcase, I. red_treasure_chest, J. blue_bottle, K. blue_pantry, L. green_bathtub, M. red_bathtub, N. red_crate, O. red_container
+1 Emma, Gracie, Abigail, Isla and Amelia entered the office.
+2 Amelia dislikes the strawberry.
+3 The tangerine is in the green_suitcase.
+4 Emma moved the tangerine to the blue_bucket.
+5 Emma exited the office and stayed in the waiting_room.
+6 Gracie made no movements and stayed in the office for 10 minutes.
+7 Gracie exited the office and stayed in the waiting_room.
+8 Abigail made no movements and stayed in the office for 10 minutes.
+9 Abigail exited the office and stayed in the waiting_room.
+10 Isla made no movements and stayed in the office for 10 minutes.
+11 Isla exited the office and stayed in the waiting_room.
+12 Amelia moved the tangerine to the green_suitcase.
+13 Isla likes the green_cupboard.
+14 Amelia exited the office and stayed in the waiting_room.
+15 Isla publicly claimed that tangerine is in the red_container.
+16 Amelia privately told Emma that the tangerine is actually in the green_suitcase.
+17 Abigail, Isla and Emma entered the living_room.
+18 Gracie likes the red_envelope.
+19 The onion is in the green_bathtub.
+20 Abigail made no movements and stayed in the living_room for 10 minutes.
+21 Abigail exited the living_room and stayed in the waiting_room.
+22 Amelia dislikes the strawberry.
+23 Isla moved the onion to the blue_treasure_chest.
+24 Isla exited the living_room and stayed in the waiting_room.
+25 Emma made no movements and stayed in the living_room for 10 minutes.
+26 Emma exited the living_room and stayed in the waiting_room.
+27 Gracie, Amelia, Isla and Abigail entered the crawlspace.
+28 The peas is in the red_crate.
+29 Gracie moved the peas to the blue_bathtub.
+30 Abigail likes the green_cupboard.
+31 Gracie exited the crawlspace and stayed in the waiting_room.
+32 Amelia moved the peas to the blue_drawer.
+33 Amelia exited the crawlspace and stayed in the waiting_room.
+34 Isla made no movements and stayed in the crawlspace for 10 minutes.
+35 Isla saw a mouse.
+36 Isla exited the crawlspace and stayed in the waiting_room.
+37 Abigail moved the peas to the green_basket.
+38 Abigail exited the crawlspace and stayed in the waiting_room.
+39 Amelia publicly claimed that peas is in the blue_bathtub.
+40 Abigail privately told Isla that the peas is actually in the green_basket.
+Question: Where does Amelia think the tangerine is?
+Choices: A. green_suitcase, B. blue_crate, C. blue_bucket, D. red_container, E. red_bottle, F. blue_bathtub, G. red_crate, H. blue_drawer, I. green_basket, J. red_treasure_chest, K. green_cupboard, L. green_bathtub, M. red_bathtub, N. red_envelope, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

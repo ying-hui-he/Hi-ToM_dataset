@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Emily, Ethan, Mia and Avery entered the living_room.
-2 The lemon is in the blue_bucket.
-3 Amelia moved the lemon to the blue_bottle.
-4 Amelia exited the living_room and stayed in the waiting_room.
-5 Emily moved the lemon to the blue_pantry.
-6 Emily exited the living_room and stayed in the waiting_room.
-7 Ethan moved the lemon to the blue_bathtub.
-8 Ethan exited the living_room and stayed in the waiting_room.
-9 Mia made no movements and stayed in the living_room for 10 minutes.
-10 Mia exited the living_room and stayed in the waiting_room.
-11 Avery made no movements and stayed in the living_room for 10 minutes.
-12 Avery exited the living_room and stayed in the waiting_room.
-13 Amelia, Ethan and Mia entered the laundry.
-14 The potato is in the blue_drawer.
-15 Amelia moved the potato to the red_drawer.
-16 Amelia exited the laundry and stayed in the waiting_room.
-17 Ethan made no movements and stayed in the laundry for 10 minutes.
-18 Ethan exited the laundry and stayed in the waiting_room.
-19 Mia made no movements and stayed in the laundry for 10 minutes.
-20 Mia exited the laundry and stayed in the waiting_room.
-21 Ethan privately told Mia that the potato is actually in the red_drawer.
-22 Mia privately told Avery that the potato is actually in the red_drawer.
-23 Avery, Ethan, Mia and Emily entered the patio.
-24 The celery is in the green_container.
-25 Avery moved the celery to the red_suitcase.
-26 Avery exited the patio and stayed in the waiting_room.
-27 Ethan made no movements and stayed in the patio for 10 minutes.
-28 Ethan exited the patio and stayed in the waiting_room.
-29 Mia moved the celery to the blue_treasure_chest.
-30 Mia exited the patio and stayed in the waiting_room.
-31 Emily made no movements and stayed in the patio for 10 minutes.
-32 Emily exited the patio and stayed in the waiting_room.
-33 Avery and Amelia entered the laundry.
-34 The carrot is in the red_drawer.
-35 Avery made no movements and stayed in the laundry for 10 minutes.
-36 Avery exited the laundry and stayed in the waiting_room.
-37 Amelia made no movements and stayed in the laundry for 10 minutes.
-38 Amelia exited the laundry and stayed in the waiting_room.
-39 Amelia publicly claimed that carrot is in the red_drawer.
-40 Avery privately told Amelia that the carrot is actually in the blue_envelope.
-Question: Where is the lemon really?
-Answer: blue_bathtub
-Choices: A. blue_pantry, B. blue_bucket, C. blue_suitcase, D. blue_bottle, E. blue_bathtub, F. green_container, G. red_suitcase, H. blue_treasure_chest, I. green_bathtub, J. red_envelope, K. blue_drawer, L. red_drawer, M. blue_envelope, N. blue_crate, O. green_suitcase
+1 Ethan likes the red_treasure_chest.
+2 Gracie, Ethan, Jack, Alexander and Aiden entered the patio.
+3 The watermelon is in the blue_drawer.
+4 Gracie made no movements and stayed in the patio for 10 minutes.
+5 Gracie exited the patio and stayed in the waiting_room.
+6 Ethan moved the watermelon to the green_bucket.
+7 Jack dislikes the peas.
+8 Ethan exited the patio and stayed in the waiting_room.
+9 Ethan dislikes the peas.
+10 Jack made no movements and stayed in the patio for 10 minutes.
+11 Jack exited the patio and stayed in the waiting_room.
+12 Alexander made no movements and stayed in the patio for 10 minutes.
+13 Alexander exited the patio and stayed in the waiting_room.
+14 Aiden made no movements and stayed in the patio for 10 minutes.
+15 Aiden saw a mouse.
+16 Aiden exited the patio and stayed in the waiting_room.
+17 Aiden, Alexander and Ethan entered the basement.
+18 The peas is in the blue_bathtub.
+19 Aiden moved the peas to the green_basket.
+20 Aiden exited the basement and stayed in the waiting_room.
+21 Alexander made no movements and stayed in the basement for 10 minutes.
+22 Alexander exited the basement and stayed in the waiting_room.
+23 Ethan moved the peas to the red_cupboard.
+24 Ethan exited the basement and stayed in the waiting_room.
+25 Ethan publicly claimed that peas is in the red_cupboard.
+26 Aiden privately told Ethan that the peas is actually in the blue_bathtub.
+27 Aiden, Jack, Gracie and Alexander entered the basement.
+28 The peas is in the red_cupboard.
+29 Aiden made no movements and stayed in the basement for 10 minutes.
+30 Aiden exited the basement and stayed in the waiting_room.
+31 Jack moved the peas to the green_basket.
+32 Jack exited the basement and stayed in the waiting_room.
+33 Gracie made no movements and stayed in the basement for 10 minutes.
+34 Gracie exited the basement and stayed in the waiting_room.
+35 Alexander made no movements and stayed in the basement for 10 minutes.
+36 Alexander exited the basement and stayed in the waiting_room.
+37 Aiden and Jack entered the TV_room.
+38 Gracie dislikes the watermelon.
+39 The lettuce is in the green_cupboard.
+40 Aiden made no movements and stayed in the TV_room for 10 minutes.
+41 Aiden exited the TV_room and stayed in the waiting_room.
+42 Jack moved the lettuce to the blue_crate.
+43 Jack exited the TV_room and stayed in the waiting_room.
+44 Aiden privately told Alexander that the lettuce is actually in the green_bathtub.
+Question: Where is the watermelon really?
+Answer: green_bucket
+Choices: A. red_bucket, B. blue_bathtub, C. red_cupboard, D. red_treasure_chest, E. green_basket, F. blue_crate, G. green_cupboard, H. green_bottle, I. blue_bottle, J. green_bathtub, K. blue_envelope, L. blue_drawer, M. red_basket, N. green_bucket, O. green_treasure_chest

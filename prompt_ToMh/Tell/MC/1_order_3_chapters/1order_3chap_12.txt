@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Hannah, Mia, Abigail and Avery entered the basement.
-2 The apple is in the blue_bottle.
-3 Jackson moved the apple to the green_container.
-4 Jackson exited the basement and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the basement for 10 minutes.
-6 Hannah exited the basement and stayed in the waiting_room.
-7 Mia moved the apple to the red_bottle.
-8 Mia exited the basement and stayed in the waiting_room.
-9 Abigail moved the apple to the blue_basket.
-10 Abigail exited the basement and stayed in the waiting_room.
-11 Avery made no movements and stayed in the basement for 10 minutes.
-12 Avery exited the basement and stayed in the waiting_room.
-13 Mia publicly claimed that apple is in the green_container.
-14 Avery privately told Mia that the apple is actually in the blue_basket.
-15 Jackson, Hannah and Avery entered the basement.
-16 The celery is in the green_envelope.
-17 Jackson made no movements and stayed in the basement for 10 minutes.
-18 Jackson exited the basement and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the basement for 10 minutes.
-20 Hannah exited the basement and stayed in the waiting_room.
-21 Avery made no movements and stayed in the basement for 10 minutes.
-22 Avery exited the basement and stayed in the waiting_room.
-23 Mia, Hannah, Abigail and Jackson entered the basement.
-24 The apple is in the blue_basket.
-25 Mia moved the apple to the red_bottle.
-26 Mia exited the basement and stayed in the waiting_room.
-27 Hannah moved the apple to the blue_bottle.
-28 Hannah exited the basement and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the basement for 10 minutes.
-30 Abigail exited the basement and stayed in the waiting_room.
-31 Jackson made no movements and stayed in the basement for 10 minutes.
-32 Jackson exited the basement and stayed in the waiting_room.
-33 Hannah publicly claimed that apple is in the green_container.
-34 Jackson privately told Abigail that the apple is actually in the red_bottle.
-Question: Where does Abigail think the apple is?
-Choices: A. red_bathtub, B. red_envelope, C. blue_box, D. red_container, E. red_bucket, F. blue_bottle, G. green_envelope, H. red_bottle, I. blue_basket, J. green_container, K. blue_container, L. blue_bucket, M. green_bathtub, N. red_crate, O. green_crate
+1 Aria, Lucas, Abigail, Isla and Charlotte entered the staircase.
+2 The tomato is in the red_bottle.
+3 Charlotte lost his watch.
+4 Aria moved the tomato to the red_crate.
+5 Aria exited the staircase and stayed in the waiting_room.
+6 Lucas moved the tomato to the red_cupboard.
+7 Lucas exited the staircase and stayed in the waiting_room.
+8 Abigail moved the tomato to the red_box.
+9 Abigail exited the staircase and stayed in the waiting_room.
+10 Isla made no movements and stayed in the staircase for 10 minutes.
+11 Isla exited the staircase and stayed in the waiting_room.
+12 Charlotte dislikes the watermelon.
+13 Charlotte made no movements and stayed in the staircase for 10 minutes.
+14 Charlotte exited the staircase and stayed in the waiting_room.
+15 Abigail privately told Aria that the tomato is actually in the red_box.
+16 Lucas privately told Isla that the tomato is actually in the red_bottle.
+17 Aria, Lucas and Charlotte entered the crawlspace.
+18 The pineapple is in the red_container.
+19 Charlotte dislikes the tangerine.
+20 Aria moved the pineapple to the red_treasure_chest.
+21 Aria exited the crawlspace and stayed in the waiting_room.
+22 Lucas made no movements and stayed in the crawlspace for 10 minutes.
+23 Lucas exited the crawlspace and stayed in the waiting_room.
+24 Charlotte moved the pineapple to the red_pantry.
+25 Charlotte exited the crawlspace and stayed in the waiting_room.
+26 Aria, Abigail, Lucas and Charlotte entered the crawlspace.
+27 The pineapple is in the red_pantry.
+28 Aria moved the pineapple to the red_treasure_chest.
+29 Aria exited the crawlspace and stayed in the waiting_room.
+30 Abigail made no movements and stayed in the crawlspace for 10 minutes.
+31 Abigail exited the crawlspace and stayed in the waiting_room.
+32 Lucas made no movements and stayed in the crawlspace for 10 minutes.
+33 Lucas exited the crawlspace and stayed in the waiting_room.
+34 Charlotte moved the pineapple to the blue_treasure_chest.
+35 Charlotte exited the crawlspace and stayed in the waiting_room.
+36 Lucas publicly claimed that pineapple is in the green_box.
+37 Aria privately told Charlotte that the pineapple is actually in the red_pantry.
+Question: Where does Abigail think the tomato is?
+Choices: A. green_suitcase, B. blue_suitcase, C. green_bucket, D. blue_bucket, E. red_bucket, F. red_bottle, G. red_crate, H. red_basket, I. red_cupboard, J. red_box, K. red_container, L. red_pantry, M. blue_treasure_chest, N. red_treasure_chest, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

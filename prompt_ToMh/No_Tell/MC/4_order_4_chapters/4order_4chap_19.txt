@@ -1,41 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Avery, Isla, Ethan and Owen entered the hall.
-2 The turnip is in the green_treasure_chest.
-3 Aria made no movements and stayed in the hall for 10 minutes.
-4 Aria exited the hall and stayed in the waiting_room.
-5 Avery moved the turnip to the blue_pantry.
-6 Avery exited the hall and stayed in the waiting_room.
-7 Isla made no movements and stayed in the hall for 10 minutes.
-8 Isla exited the hall and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the hall for 10 minutes.
-10 Ethan exited the hall and stayed in the waiting_room.
-11 Owen moved the turnip to the green_treasure_chest.
-12 Owen exited the hall and stayed in the waiting_room.
-13 Aria, Owen and Avery entered the hall.
-14 The orange is in the blue_pantry.
-15 Aria moved the orange to the red_treasure_chest.
-16 Aria exited the hall and stayed in the waiting_room.
-17 Owen made no movements and stayed in the hall for 10 minutes.
-18 Owen exited the hall and stayed in the waiting_room.
-19 Avery made no movements and stayed in the hall for 10 minutes.
-20 Avery exited the hall and stayed in the waiting_room.
-21 Aria, Ethan, Avery and Owen entered the hall.
-22 The orange is in the red_treasure_chest.
-23 Aria made no movements and stayed in the hall for 10 minutes.
-24 Aria exited the hall and stayed in the waiting_room.
-25 Ethan made no movements and stayed in the hall for 10 minutes.
-26 Ethan exited the hall and stayed in the waiting_room.
-27 Avery made no movements and stayed in the hall for 10 minutes.
-28 Avery exited the hall and stayed in the waiting_room.
-29 Owen moved the orange to the green_container.
-30 Owen exited the hall and stayed in the waiting_room.
-31 Isla and Ethan entered the hall.
-32 The turnip is in the green_treasure_chest.
-33 Isla moved the turnip to the blue_pantry.
-34 Isla exited the hall and stayed in the waiting_room.
-35 Ethan moved the turnip to the blue_suitcase.
-36 Ethan exited the hall and stayed in the waiting_room.
-Question: Where does Aria think Avery thinks Owen thinks Ethan thinks the turnip is?
-Choices: A. red_bathtub, B. red_suitcase, C. red_container, D. blue_bottle, E. blue_crate, F. green_bottle, G. green_envelope, H. red_envelope, I. red_bucket, J. blue_treasure_chest, K. blue_pantry, L. green_treasure_chest, M. blue_suitcase, N. red_treasure_chest, O. green_container
+1 Isla, Amelia, Mia, Ella and Gracie entered the playroom.
+2 The banana is in the blue_crate.
+3 Isla made no movements and stayed in the playroom for 10 minutes.
+4 Isla exited the playroom and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the playroom for 10 minutes.
+6 Amelia exited the playroom and stayed in the waiting_room.
+7 Mia moved the banana to the green_treasure_chest.
+8 Mia exited the playroom and stayed in the waiting_room.
+9 Ella moved the banana to the blue_drawer.
+10 Ella exited the playroom and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the playroom for 10 minutes.
+12 Gracie exited the playroom and stayed in the waiting_room.
+13 Amelia, Gracie and Ella entered the garden.
+14 The grapes is in the green_bucket.
+15 Amelia made no movements and stayed in the garden for 10 minutes.
+16 Amelia exited the garden and stayed in the waiting_room.
+17 Gracie made no movements and stayed in the garden for 10 minutes.
+18 Gracie exited the garden and stayed in the waiting_room.
+19 Ella made no movements and stayed in the garden for 10 minutes.
+20 Ella exited the garden and stayed in the waiting_room.
+21 Isla, Ella, Mia and Amelia entered the garden.
+22 The grapes is in the green_bucket.
+23 Isla moved the grapes to the red_bottle.
+24 Isla exited the garden and stayed in the waiting_room.
+25 Ella moved the grapes to the green_cupboard.
+26 Ella exited the garden and stayed in the waiting_room.
+27 Gracie lost his phone.
+28 Mia made no movements and stayed in the garden for 10 minutes.
+29 Mia exited the garden and stayed in the waiting_room.
+30 Amelia moved the grapes to the green_envelope.
+31 Amelia exited the garden and stayed in the waiting_room.
+32 Ella and Isla entered the garden.
+33 The grapes is in the green_envelope.
+34 Ella made no movements and stayed in the garden for 10 minutes.
+35 Ella exited the garden and stayed in the waiting_room.
+36 Isla moved the grapes to the red_bottle.
+37 Isla exited the garden and stayed in the waiting_room.
+Question: Where does Isla think Amelia thinks Gracie thinks Ella thinks the banana is?
+Choices: A. blue_drawer, B. blue_crate, C. blue_cupboard, D. blue_suitcase, E. green_treasure_chest, F. green_envelope, G. green_bucket, H. blue_bucket, I. green_cupboard, J. red_bottle, K. red_envelope, L. green_basket, M. red_box, N. blue_bathtub, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

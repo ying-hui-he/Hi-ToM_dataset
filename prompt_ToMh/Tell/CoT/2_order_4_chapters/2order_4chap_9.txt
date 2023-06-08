@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Emily, Ava, Oliver and Charlotte entered the workshop.
-2 The radish is in the red_bucket.
-3 Aria made no movements and stayed in the workshop for 10 minutes.
-4 Aria exited the workshop and stayed in the waiting_room.
-5 Emily moved the radish to the red_bathtub.
-6 Emily exited the workshop and stayed in the waiting_room.
-7 Ava moved the radish to the red_basket.
-8 Ava exited the workshop and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the workshop for 10 minutes.
-10 Oliver exited the workshop and stayed in the waiting_room.
-11 Charlotte made no movements and stayed in the workshop for 10 minutes.
-12 Charlotte exited the workshop and stayed in the waiting_room.
-13 Emily, Aria and Oliver entered the workshop.
-14 The green_pepper is in the red_bathtub.
-15 Emily made no movements and stayed in the workshop for 10 minutes.
-16 Emily exited the workshop and stayed in the waiting_room.
-17 Aria moved the green_pepper to the red_basket.
-18 Aria exited the workshop and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the workshop for 10 minutes.
-20 Oliver exited the workshop and stayed in the waiting_room.
-21 Oliver publicly claimed that green_pepper is in the green_container.
-22 Emily privately told Oliver that the green_pepper is actually in the red_bathtub.
-23 Charlotte, Ava, Emily and Aria entered the workshop.
-24 The green_pepper is in the red_basket.
-25 Charlotte made no movements and stayed in the workshop for 10 minutes.
-26 Charlotte exited the workshop and stayed in the waiting_room.
-27 Ava made no movements and stayed in the workshop for 10 minutes.
-28 Ava exited the workshop and stayed in the waiting_room.
-29 Emily made no movements and stayed in the workshop for 10 minutes.
-30 Emily exited the workshop and stayed in the waiting_room.
-31 Aria made no movements and stayed in the workshop for 10 minutes.
-32 Aria exited the workshop and stayed in the waiting_room.
-33 Ava and Aria entered the basement.
-34 The celery is in the green_suitcase.
-35 Ava moved the celery to the blue_bathtub.
-36 Ava exited the basement and stayed in the waiting_room.
-37 Aria moved the celery to the red_treasure_chest.
-38 Aria exited the basement and stayed in the waiting_room.
-39 Ava publicly claimed that celery is in the red_crate.
-40 Aria privately told Ava that the celery is actually in the blue_bathtub.
-Question: Where does Emily think Ava thinks the radish is?
-Choices: A. red_bathtub, B. red_bucket, C. blue_pantry, D. red_basket, E. green_container, F. blue_crate, G. red_envelope, H. blue_suitcase, I. red_suitcase, J. blue_envelope, K. blue_bottle, L. green_suitcase, M. red_crate, N. blue_bathtub, O. red_treasure_chest
+1 Mila, Jack, Amelia, Mason and Alexander entered the dining_room.
+2 The asparagus is in the green_cupboard.
+3 Mila moved the asparagus to the red_box.
+4 Mila exited the dining_room and stayed in the waiting_room.
+5 Jack made no movements and stayed in the dining_room for 10 minutes.
+6 Jack exited the dining_room and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the dining_room for 10 minutes.
+8 Amelia exited the dining_room and stayed in the waiting_room.
+9 Mason made no movements and stayed in the dining_room for 10 minutes.
+10 Alexander lost his watch.
+11 Mason exited the dining_room and stayed in the waiting_room.
+12 Alexander moved the asparagus to the green_cupboard.
+13 Alexander exited the dining_room and stayed in the waiting_room.
+14 Mila lost his phone.
+15 Mila, Jack and Alexander entered the front_yard.
+16 The pumpkin is in the green_pantry.
+17 Mila made no movements and stayed in the front_yard for 10 minutes.
+18 Mila exited the front_yard and stayed in the waiting_room.
+19 Jack made no movements and stayed in the front_yard for 10 minutes.
+20 Jack exited the front_yard and stayed in the waiting_room.
+21 Alexander moved the pumpkin to the red_container.
+22 Jack likes the green_envelope.
+23 Alexander exited the front_yard and stayed in the waiting_room.
+24 Jack privately told Alexander that the pumpkin is actually in the red_container.
+25 Alexander privately told Amelia that the pumpkin is actually in the red_container.
+26 Alexander, Mila, Amelia and Jack entered the office.
+27 The banana is in the blue_envelope.
+28 Jack likes the green_suitcase.
+29 Alexander moved the banana to the red_bathtub.
+30 Alexander exited the office and stayed in the waiting_room.
+31 Mila moved the banana to the red_cupboard.
+32 Mila exited the office and stayed in the waiting_room.
+33 Amelia made no movements and stayed in the office for 10 minutes.
+34 Amelia exited the office and stayed in the waiting_room.
+35 Jack made no movements and stayed in the office for 10 minutes.
+36 Jack exited the office and stayed in the waiting_room.
+37 Alexander and Amelia entered the dining_room.
+38 The asparagus is in the green_cupboard.
+39 Alexander moved the asparagus to the green_treasure_chest.
+40 Alexander exited the dining_room and stayed in the waiting_room.
+41 Amelia moved the asparagus to the green_basket.
+42 Amelia exited the dining_room and stayed in the waiting_room.
+43 Amelia publicly claimed that asparagus is in the red_box.
+44 Mason dislikes the lemon.
+45 Alexander privately told Amelia that the asparagus is actually in the green_basket.
+Question: Where does Mason think Mila thinks the asparagus is?
+Choices: A. green_suitcase, B. blue_envelope, C. red_bathtub, D. red_cupboard, E. blue_suitcase, F. red_container, G. green_pantry, H. blue_treasure_chest, I. blue_cupboard, J. green_envelope, K. red_box, L. green_cupboard, M. green_basket, N. green_treasure_chest, O. blue_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

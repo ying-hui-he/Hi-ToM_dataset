@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, William, Evelyn, Ava and Carter entered the staircase.
-2 The corn is in the green_container.
-3 Ethan moved the corn to the blue_suitcase.
-4 Ethan exited the staircase and stayed in the waiting_room.
-5 William moved the corn to the blue_crate.
-6 William exited the staircase and stayed in the waiting_room.
-7 Evelyn moved the corn to the green_envelope.
-8 Evelyn exited the staircase and stayed in the waiting_room.
-9 Ava moved the corn to the red_crate.
-10 Ava exited the staircase and stayed in the waiting_room.
-11 Carter moved the corn to the green_container.
-12 Carter exited the staircase and stayed in the waiting_room.
-13 William, Ava and Evelyn entered the staircase.
-14 The green_pepper is in the blue_crate.
-15 William moved the green_pepper to the blue_suitcase.
-16 William exited the staircase and stayed in the waiting_room.
-17 Ava moved the green_pepper to the red_crate.
-18 Ava exited the staircase and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the staircase for 10 minutes.
-20 Evelyn exited the staircase and stayed in the waiting_room.
-21 Ethan, Evelyn, Ava and Carter entered the TV_room.
-22 The plum is in the blue_basket.
-23 Ethan moved the plum to the red_bucket.
-24 Ethan exited the TV_room and stayed in the waiting_room.
-25 Evelyn moved the plum to the green_bathtub.
-26 Evelyn exited the TV_room and stayed in the waiting_room.
-27 Ava moved the plum to the blue_bucket.
-28 Ava exited the TV_room and stayed in the waiting_room.
-29 Carter moved the plum to the green_suitcase.
-30 Carter exited the TV_room and stayed in the waiting_room.
-31 Carter and Ethan entered the TV_room.
-32 The plum is in the green_suitcase.
-33 Carter moved the plum to the blue_basket.
-34 Carter exited the TV_room and stayed in the waiting_room.
-35 Ethan moved the plum to the blue_bucket.
-36 Ethan exited the TV_room and stayed in the waiting_room.
-Question: Where does Ethan think William thinks the corn is?
-Answer: green_container
-Choices: A. green_treasure_chest, B. red_basket, C. green_bottle, D. green_crate, E. blue_envelope, F. green_container, G. blue_crate, H. red_crate, I. green_envelope, J. blue_suitcase, K. blue_basket, L. green_bathtub, M. blue_bucket, N. green_suitcase, O. red_bucket
+1 Carter, Nathan, Aria, Ella and Mason entered the hall.
+2 The watermelon is in the green_envelope.
+3 Carter moved the watermelon to the red_bucket.
+4 Carter exited the hall and stayed in the waiting_room.
+5 Aria saw a cat.
+6 Nathan made no movements and stayed in the hall for 10 minutes.
+7 Mason saw a dog.
+8 Nathan exited the hall and stayed in the waiting_room.
+9 Aria made no movements and stayed in the hall for 10 minutes.
+10 Aria exited the hall and stayed in the waiting_room.
+11 Ella moved the watermelon to the green_bathtub.
+12 Ella exited the hall and stayed in the waiting_room.
+13 Mason made no movements and stayed in the hall for 10 minutes.
+14 Mason exited the hall and stayed in the waiting_room.
+15 Nathan, Ella and Carter entered the bedroom.
+16 The melon is in the green_cupboard.
+17 Nathan moved the melon to the red_envelope.
+18 Nathan exited the bedroom and stayed in the waiting_room.
+19 Ella made no movements and stayed in the bedroom for 10 minutes.
+20 Ella exited the bedroom and stayed in the waiting_room.
+21 Carter moved the melon to the blue_suitcase.
+22 Carter exited the bedroom and stayed in the waiting_room.
+23 Aria, Ella, Mason and Carter entered the bedroom.
+24 The melon is in the blue_suitcase.
+25 Aria moved the melon to the green_treasure_chest.
+26 Mason lost his bottle.
+27 Aria exited the bedroom and stayed in the waiting_room.
+28 Ella moved the melon to the red_basket.
+29 Ella exited the bedroom and stayed in the waiting_room.
+30 Mason moved the melon to the red_envelope.
+31 Mason exited the bedroom and stayed in the waiting_room.
+32 Carter moved the melon to the green_cupboard.
+33 Carter exited the bedroom and stayed in the waiting_room.
+34 Aria and Carter entered the hall.
+35 The watermelon is in the green_bathtub.
+36 Mason saw a mouse.
+37 Aria moved the watermelon to the red_bucket.
+38 Aria exited the hall and stayed in the waiting_room.
+39 Carter made no movements and stayed in the hall for 10 minutes.
+40 Carter exited the hall and stayed in the waiting_room.
+Question: Where does Carter think Mason thinks the watermelon is?
+Answer: green_envelope
+Choices: A. green_cupboard, B. green_treasure_chest, C. blue_suitcase, D. red_basket, E. red_envelope, F. green_envelope, G. red_treasure_chest, H. green_bathtub, I. green_box, J. red_bucket, K. green_suitcase, L. blue_treasure_chest, M. green_pantry, N. green_bucket, O. red_crate

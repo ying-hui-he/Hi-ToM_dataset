@@ -1,41 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Isla, Ella, Oliver and Noah entered the patio.
-2 The peach is in the green_crate.
-3 Owen moved the peach to the red_bottle.
-4 Owen exited the patio and stayed in the waiting_room.
-5 Isla moved the peach to the green_bathtub.
-6 Isla exited the patio and stayed in the waiting_room.
-7 Ella made no movements and stayed in the patio for 10 minutes.
-8 Ella exited the patio and stayed in the waiting_room.
-9 Oliver moved the peach to the red_bucket.
-10 Oliver exited the patio and stayed in the waiting_room.
-11 Noah made no movements and stayed in the patio for 10 minutes.
-12 Noah exited the patio and stayed in the waiting_room.
-13 Ella, Oliver and Noah entered the bedroom.
-14 The pear is in the green_container.
-15 Ella moved the pear to the red_envelope.
-16 Ella exited the bedroom and stayed in the waiting_room.
-17 Oliver moved the pear to the blue_pantry.
-18 Oliver exited the bedroom and stayed in the waiting_room.
-19 Noah made no movements and stayed in the bedroom for 10 minutes.
-20 Noah exited the bedroom and stayed in the waiting_room.
-21 Noah, Isla, Owen and Ella entered the pantry.
-22 The celery is in the blue_bucket.
-23 Noah moved the celery to the green_envelope.
-24 Noah exited the pantry and stayed in the waiting_room.
-25 Isla moved the celery to the red_suitcase.
-26 Isla exited the pantry and stayed in the waiting_room.
-27 Owen made no movements and stayed in the pantry for 10 minutes.
-28 Owen exited the pantry and stayed in the waiting_room.
-29 Ella made no movements and stayed in the pantry for 10 minutes.
-30 Ella exited the pantry and stayed in the waiting_room.
-31 Ella and Noah entered the patio.
-32 The peach is in the red_bucket.
-33 Ella moved the peach to the red_bottle.
-34 Ella exited the patio and stayed in the waiting_room.
-35 Noah made no movements and stayed in the patio for 10 minutes.
-36 Noah exited the patio and stayed in the waiting_room.
-Question: Where does Noah think Ella thinks Owen thinks the peach is?
-Choices: A. green_crate, B. red_basket, C. green_bathtub, D. red_bottle, E. red_bucket, F. blue_bucket, G. green_envelope, H. blue_suitcase, I. blue_crate, J. red_suitcase, K. blue_treasure_chest, L. green_container, M. red_envelope, N. blue_pantry, O. blue_box
+1 Amelia, Nathan, Liam, Jackson and Aiden entered the cellar.
+2 The banana is in the red_bathtub.
+3 Liam lost his phone.
+4 Amelia moved the banana to the red_cupboard.
+5 Amelia exited the cellar and stayed in the waiting_room.
+6 Jackson dislikes the grapefruit.
+7 Nathan moved the banana to the blue_suitcase.
+8 Nathan exited the cellar and stayed in the waiting_room.
+9 Aiden saw a mouse.
+10 Liam made no movements and stayed in the cellar for 10 minutes.
+11 Nathan lost his watch.
+12 Liam exited the cellar and stayed in the waiting_room.
+13 Jackson made no movements and stayed in the cellar for 10 minutes.
+14 Jackson exited the cellar and stayed in the waiting_room.
+15 Aiden made no movements and stayed in the cellar for 10 minutes.
+16 Aiden exited the cellar and stayed in the waiting_room.
+17 Liam dislikes the apple.
+18 Liam, Aiden and Nathan entered the dining_room.
+19 The peas is in the blue_bathtub.
+20 Liam made no movements and stayed in the dining_room for 10 minutes.
+21 Liam saw a mouse.
+22 Liam exited the dining_room and stayed in the waiting_room.
+23 Aiden made no movements and stayed in the dining_room for 10 minutes.
+24 Aiden exited the dining_room and stayed in the waiting_room.
+25 Nathan made no movements and stayed in the dining_room for 10 minutes.
+26 Nathan exited the dining_room and stayed in the waiting_room.
+27 Nathan dislikes the tangerine.
+28 Jackson, Nathan, Amelia and Aiden entered the cellar.
+29 The banana is in the blue_suitcase.
+30 Liam lost his bottle.
+31 Jackson made no movements and stayed in the cellar for 10 minutes.
+32 Jackson exited the cellar and stayed in the waiting_room.
+33 Nathan moved the banana to the red_container.
+34 Nathan exited the cellar and stayed in the waiting_room.
+35 Amelia moved the banana to the red_treasure_chest.
+36 Amelia exited the cellar and stayed in the waiting_room.
+37 Aiden made no movements and stayed in the cellar for 10 minutes.
+38 Aiden exited the cellar and stayed in the waiting_room.
+39 Liam lost his bottle.
+40 Nathan and Amelia entered the study.
+41 The cabbage is in the blue_treasure_chest.
+42 Nathan made no movements and stayed in the study for 10 minutes.
+43 Nathan exited the study and stayed in the waiting_room.
+44 Amelia made no movements and stayed in the study for 10 minutes.
+45 Amelia exited the study and stayed in the waiting_room.
+Question: Where does Aiden think Amelia thinks Liam thinks the banana is?
+Choices: A. red_container, B. red_bathtub, C. blue_suitcase, D. red_treasure_chest, E. red_cupboard, F. green_bathtub, G. blue_bathtub, H. green_envelope, I. blue_bucket, J. red_crate, K. blue_treasure_chest, L. red_basket, M. green_box, N. blue_crate, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

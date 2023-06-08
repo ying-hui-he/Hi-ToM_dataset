@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Carter, Amelia, Benjamin and William entered the dining_room.
-2 The tomato is in the red_basket.
-3 Oliver made no movements and stayed in the dining_room for 10 minutes.
-4 Oliver exited the dining_room and stayed in the waiting_room.
-5 Carter moved the tomato to the blue_bucket.
-6 Carter exited the dining_room and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the dining_room for 10 minutes.
-8 Amelia exited the dining_room and stayed in the waiting_room.
-9 Benjamin moved the tomato to the green_treasure_chest.
-10 Benjamin exited the dining_room and stayed in the waiting_room.
-11 William moved the tomato to the red_basket.
-12 William exited the dining_room and stayed in the waiting_room.
-13 William, Oliver and Benjamin entered the dining_room.
-14 The tomato is in the red_basket.
-15 William made no movements and stayed in the dining_room for 10 minutes.
-16 William exited the dining_room and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the dining_room for 10 minutes.
-18 Oliver exited the dining_room and stayed in the waiting_room.
-19 Benjamin moved the tomato to the blue_bucket.
-20 Benjamin exited the dining_room and stayed in the waiting_room.
-21 William, Carter, Oliver and Benjamin entered the dining_room.
-22 The tomato is in the blue_bucket.
-23 William moved the tomato to the green_treasure_chest.
-24 William exited the dining_room and stayed in the waiting_room.
-25 Carter moved the tomato to the red_basket.
-26 Carter exited the dining_room and stayed in the waiting_room.
-27 Oliver made no movements and stayed in the dining_room for 10 minutes.
-28 Oliver exited the dining_room and stayed in the waiting_room.
-29 Benjamin moved the tomato to the green_cupboard.
-30 Benjamin exited the dining_room and stayed in the waiting_room.
-31 Carter and Benjamin entered the back_yard.
-32 The melon is in the green_envelope.
-33 Carter moved the melon to the red_bottle.
-34 Carter exited the back_yard and stayed in the waiting_room.
-35 Benjamin moved the melon to the blue_container.
-36 Benjamin exited the back_yard and stayed in the waiting_room.
-Question: Where does Oliver think Amelia thinks William thinks the tomato is?
-Answer: red_basket
-Choices: A. red_treasure_chest, B. blue_bottle, C. red_container, D. blue_suitcase, E. red_suitcase, F. green_envelope, G. red_bottle, H. green_suitcase, I. blue_container, J. red_crate, K. red_basket, L. blue_bucket, M. green_cupboard, N. green_treasure_chest, O. blue_bathtub
+1 Ethan, Mia, Lucas, Carter and Jack entered the garden.
+2 The carrot is in the blue_bathtub.
+3 Lucas saw a mouse.
+4 Ethan made no movements and stayed in the garden for 10 minutes.
+5 Ethan exited the garden and stayed in the waiting_room.
+6 Mia lost his bottle.
+7 Mia made no movements and stayed in the garden for 10 minutes.
+8 Mia exited the garden and stayed in the waiting_room.
+9 Lucas moved the carrot to the green_suitcase.
+10 Lucas exited the garden and stayed in the waiting_room.
+11 Carter moved the carrot to the green_cupboard.
+12 Carter exited the garden and stayed in the waiting_room.
+13 Jack made no movements and stayed in the garden for 10 minutes.
+14 Jack exited the garden and stayed in the waiting_room.
+15 Mia, Lucas and Carter entered the dining_room.
+16 The beans is in the red_box.
+17 Mia made no movements and stayed in the dining_room for 10 minutes.
+18 Mia exited the dining_room and stayed in the waiting_room.
+19 Lucas made no movements and stayed in the dining_room for 10 minutes.
+20 Lucas exited the dining_room and stayed in the waiting_room.
+21 Carter moved the beans to the green_bathtub.
+22 Carter exited the dining_room and stayed in the waiting_room.
+23 Lucas, Carter, Ethan and Jack entered the living_room.
+24 The onion is in the blue_envelope.
+25 Lucas moved the onion to the green_bottle.
+26 Lucas exited the living_room and stayed in the waiting_room.
+27 Lucas dislikes the tomato.
+28 Carter moved the onion to the blue_treasure_chest.
+29 Carter exited the living_room and stayed in the waiting_room.
+30 Ethan made no movements and stayed in the living_room for 10 minutes.
+31 Ethan exited the living_room and stayed in the waiting_room.
+32 Jack made no movements and stayed in the living_room for 10 minutes.
+33 Jack exited the living_room and stayed in the waiting_room.
+34 Ethan and Carter entered the dining_room.
+35 The apple is in the green_bathtub.
+36 Ethan made no movements and stayed in the dining_room for 10 minutes.
+37 Ethan exited the dining_room and stayed in the waiting_room.
+38 Carter made no movements and stayed in the dining_room for 10 minutes.
+39 Carter exited the dining_room and stayed in the waiting_room.
+40 Mia likes the blue_treasure_chest.
+Question: Where does Mia think Carter thinks Lucas thinks the carrot is?
+Answer: None
+Choices: A. blue_bathtub, B. red_bathtub, C. green_cupboard, D. green_suitcase, E. blue_bucket, F. blue_envelope, G. blue_suitcase, H. green_box, I. green_bottle, J. blue_treasure_chest, K. red_box, L. green_bathtub, M. blue_cupboard, N. blue_drawer, O. red_crate

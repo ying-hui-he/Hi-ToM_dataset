@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, James, Mila, Evelyn and Isla entered the living_room.
-2 The tomato is in the blue_bathtub.
-3 Aria made no movements and stayed in the living_room for 10 minutes.
-4 Aria exited the living_room and stayed in the waiting_room.
-5 James made no movements and stayed in the living_room for 10 minutes.
-6 James exited the living_room and stayed in the waiting_room.
-7 Mila made no movements and stayed in the living_room for 10 minutes.
-8 Mila exited the living_room and stayed in the waiting_room.
-9 Evelyn moved the tomato to the green_envelope.
-10 Evelyn exited the living_room and stayed in the waiting_room.
-11 Isla moved the tomato to the blue_bathtub.
-12 Isla exited the living_room and stayed in the waiting_room.
-13 Evelyn, Aria and Mila entered the playroom.
-14 The apple is in the red_suitcase.
-15 Evelyn moved the apple to the blue_suitcase.
-16 Evelyn exited the playroom and stayed in the waiting_room.
-17 Aria moved the apple to the blue_drawer.
-18 Aria exited the playroom and stayed in the waiting_room.
-19 Mila made no movements and stayed in the playroom for 10 minutes.
-20 Mila exited the playroom and stayed in the waiting_room.
-21 Aria privately told Mila that the apple is actually in the blue_suitcase.
-22 Mila privately told James that the apple is actually in the blue_drawer.
-Question: Where does Mila think the tomato is?
-Choices: A. blue_suitcase, B. red_suitcase, C. red_bottle, D. blue_drawer, E. blue_pantry, F. red_bathtub, G. blue_envelope, H. blue_bottle, I. blue_box, J. red_drawer, K. blue_treasure_chest, L. blue_bathtub, M. red_treasure_chest, N. red_container, O. green_envelope
+1 Aiden, Jackson, Lucas, Chloe and Emily entered the study.
+2 The beans is in the red_treasure_chest.
+3 Aiden moved the beans to the red_bucket.
+4 Aiden exited the study and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the study for 10 minutes.
+6 Emily likes the red_crate.
+7 Jackson exited the study and stayed in the waiting_room.
+8 Lucas moved the beans to the blue_drawer.
+9 Lucas exited the study and stayed in the waiting_room.
+10 Chloe moved the beans to the blue_bottle.
+11 Lucas lost his bottle.
+12 Chloe exited the study and stayed in the waiting_room.
+13 Emily made no movements and stayed in the study for 10 minutes.
+14 Emily exited the study and stayed in the waiting_room.
+15 Chloe, Emily and Jackson entered the study.
+16 The beans is in the blue_bottle.
+17 Chloe made no movements and stayed in the study for 10 minutes.
+18 Chloe exited the study and stayed in the waiting_room.
+19 Emily moved the beans to the blue_drawer.
+20 Emily exited the study and stayed in the waiting_room.
+21 Jackson made no movements and stayed in the study for 10 minutes.
+22 Jackson exited the study and stayed in the waiting_room.
+23 Emily publicly claimed that beans is in the red_crate.
+24 Jackson privately told Emily that the beans is actually in the blue_bottle.
+Question: Where does Chloe think the beans is?
+26 Chloe saw a dog.
+Choices: A. red_treasure_chest, B. red_bucket, C. red_crate, D. blue_bottle, E. blue_drawer, F. red_basket, G. blue_crate, H. green_box, I. red_cupboard, J. red_box, K. green_cupboard, L. blue_cupboard, M. green_suitcase, N. red_bathtub, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

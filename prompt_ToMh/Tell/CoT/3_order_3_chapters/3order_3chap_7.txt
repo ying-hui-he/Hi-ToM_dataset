@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Gracie, Ava, Isla, Aiden and Logan entered the hallway.
-2 The cucumber is in the green_treasure_chest.
-3 Gracie moved the cucumber to the blue_treasure_chest.
-4 Gracie exited the hallway and stayed in the waiting_room.
-5 Ava made no movements and stayed in the hallway for 10 minutes.
-6 Ava exited the hallway and stayed in the waiting_room.
-7 Isla moved the cucumber to the green_envelope.
-8 Isla exited the hallway and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the hallway for 10 minutes.
-10 Aiden exited the hallway and stayed in the waiting_room.
-11 Logan moved the cucumber to the green_treasure_chest.
-12 Logan exited the hallway and stayed in the waiting_room.
-13 Aiden publicly claimed that cucumber is in the blue_treasure_chest.
-14 Logan privately told Gracie that the cucumber is actually in the green_treasure_chest.
-15 Isla, Logan and Aiden entered the TV_room.
-16 The pear is in the red_basket.
-17 Isla moved the pear to the blue_bathtub.
-18 Isla exited the TV_room and stayed in the waiting_room.
-19 Logan moved the pear to the green_suitcase.
-20 Logan exited the TV_room and stayed in the waiting_room.
-21 Aiden made no movements and stayed in the TV_room for 10 minutes.
-22 Aiden exited the TV_room and stayed in the waiting_room.
-23 Gracie, Aiden, Logan and Isla entered the hall.
-24 The persimmon is in the red_bottle.
-25 Gracie made no movements and stayed in the hall for 10 minutes.
-26 Gracie exited the hall and stayed in the waiting_room.
-27 Aiden moved the persimmon to the red_envelope.
-28 Aiden exited the hall and stayed in the waiting_room.
-29 Logan made no movements and stayed in the hall for 10 minutes.
-30 Logan exited the hall and stayed in the waiting_room.
-31 Isla moved the persimmon to the green_crate.
-32 Isla exited the hall and stayed in the waiting_room.
-33 Gracie publicly claimed that persimmon is in the red_crate.
-34 Isla privately told Ava that the persimmon is actually in the green_crate.
-Question: Where does Ava think Aiden thinks Logan thinks the cucumber is?
-Choices: A. green_envelope, B. green_treasure_chest, C. blue_bottle, D. red_treasure_chest, E. blue_treasure_chest, F. red_basket, G. green_suitcase, H. red_bathtub, I. red_suitcase, J. blue_bathtub, K. red_crate, L. red_bottle, M. green_bottle, N. red_envelope, O. green_crate
+1 Isabella, Aiden, Jack, Nathan and Jackson entered the porch.
+2 The melon is in the green_basket.
+3 Isabella made no movements and stayed in the porch for 10 minutes.
+4 Isabella exited the porch and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the porch for 10 minutes.
+6 Aiden exited the porch and stayed in the waiting_room.
+7 Jack made no movements and stayed in the porch for 10 minutes.
+8 Jack exited the porch and stayed in the waiting_room.
+9 Nathan made no movements and stayed in the porch for 10 minutes.
+10 Nathan exited the porch and stayed in the waiting_room.
+11 Jackson moved the melon to the green_basket.
+12 Jackson exited the porch and stayed in the waiting_room.
+13 Jack privately told Isabella that the melon is actually in the green_basket.
+14 Isabella saw a mouse.
+15 Aiden privately told Nathan that the melon is actually in the blue_cupboard.
+16 Nathan, Isabella and Jackson entered the porch.
+17 The corn is in the blue_bucket.
+18 Jackson dislikes the persimmon.
+19 Nathan made no movements and stayed in the porch for 10 minutes.
+20 Nathan exited the porch and stayed in the waiting_room.
+21 Isabella made no movements and stayed in the porch for 10 minutes.
+22 Isabella exited the porch and stayed in the waiting_room.
+23 Jackson moved the corn to the blue_drawer.
+24 Jackson exited the porch and stayed in the waiting_room.
+25 Nathan, Jack, Isabella and Jackson entered the porch.
+26 The melon is in the green_basket.
+27 Nathan made no movements and stayed in the porch for 10 minutes.
+28 Nathan exited the porch and stayed in the waiting_room.
+29 Jack moved the melon to the red_box.
+30 Jack exited the porch and stayed in the waiting_room.
+31 Isabella moved the melon to the blue_cupboard.
+32 Isabella exited the porch and stayed in the waiting_room.
+33 Jackson made no movements and stayed in the porch for 10 minutes.
+34 Jack dislikes the melon.
+35 Jackson exited the porch and stayed in the waiting_room.
+36 Jack publicly claimed that melon is in the green_basket.
+37 Jackson privately told Isabella that the melon is actually in the red_box.
+Question: Where does Jackson think Jack thinks Aiden thinks the melon is?
+Choices: A. red_bucket, B. blue_envelope, C. blue_treasure_chest, D. red_cupboard, E. blue_suitcase, F. green_basket, G. blue_bucket, H. blue_drawer, I. red_box, J. blue_cupboard, K. green_bathtub, L. red_basket, M. red_bathtub, N. green_suitcase, O. red_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

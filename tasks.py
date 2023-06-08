@@ -485,7 +485,7 @@ class Specify_Tasks(Task):
                      ]
             for i in noise:
                 noisy_story.extend(
-                    story[prev_i:i] + [Clause(NoiseAction())]
+                    story[prev_i:i] + [Clause(NoiseAction(random_actors, random_containers, random_objects))]
                 )
                 prev_i = i
             noisy_story.extend(story[prev_i:])

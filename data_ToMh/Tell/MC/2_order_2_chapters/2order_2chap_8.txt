@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Emily, Noah, Aria and Jackson entered the pantry.
-2 The radish is in the blue_envelope.
-3 James made no movements and stayed in the pantry for 10 minutes.
-4 James exited the pantry and stayed in the waiting_room.
-5 Emily made no movements and stayed in the pantry for 10 minutes.
-6 Emily exited the pantry and stayed in the waiting_room.
-7 Noah moved the radish to the red_drawer.
-8 Noah exited the pantry and stayed in the waiting_room.
-9 Aria made no movements and stayed in the pantry for 10 minutes.
-10 Aria exited the pantry and stayed in the waiting_room.
-11 Jackson moved the radish to the blue_envelope.
-12 Jackson exited the pantry and stayed in the waiting_room.
-13 Emily, Noah and Jackson entered the den.
-14 The spinach is in the green_cupboard.
-15 Emily moved the spinach to the blue_box.
-16 Emily exited the den and stayed in the waiting_room.
-17 Noah moved the spinach to the green_suitcase.
-18 Noah exited the den and stayed in the waiting_room.
-19 Jackson moved the spinach to the green_envelope.
-20 Jackson exited the den and stayed in the waiting_room.
-21 Jackson publicly claimed that spinach is in the blue_box.
-22 Emily privately told Jackson that the spinach is actually in the green_cupboard.
-Question: Where does James think Jackson thinks the radish is?
+1 Hannah, Alexander, Liam, Jackson and Isla entered the lounge.
+2 Hannah dislikes the grapefruit.
+3 The pineapple is in the blue_envelope.
+4 Jackson dislikes the tomato.
+5 Hannah made no movements and stayed in the lounge for 10 minutes.
+6 Hannah exited the lounge and stayed in the waiting_room.
+7 Alexander made no movements and stayed in the lounge for 10 minutes.
+8 Alexander exited the lounge and stayed in the waiting_room.
+9 Liam made no movements and stayed in the lounge for 10 minutes.
+10 Liam exited the lounge and stayed in the waiting_room.
+11 Jackson moved the pineapple to the red_treasure_chest.
+12 Jackson exited the lounge and stayed in the waiting_room.
+13 Isla moved the pineapple to the blue_envelope.
+14 Isla exited the lounge and stayed in the waiting_room.
+15 Hannah, Alexander and Jackson entered the cellar.
+16 The lettuce is in the blue_crate.
+17 Hannah moved the lettuce to the green_treasure_chest.
+18 Hannah exited the cellar and stayed in the waiting_room.
+19 Alexander moved the lettuce to the green_box.
+20 Alexander exited the cellar and stayed in the waiting_room.
+21 Jackson made no movements and stayed in the cellar for 10 minutes.
+22 Jackson exited the cellar and stayed in the waiting_room.
+23 Hannah publicly claimed that lettuce is in the green_treasure_chest.
+24 Jackson privately told Liam that the lettuce is actually in the green_box.
+Question: Where does Liam think Jackson thinks the pineapple is?
 Answer: blue_envelope
-Choices: A. blue_envelope, B. red_envelope, C. blue_bathtub, D. red_drawer, E. green_bottle, F. red_bathtub, G. red_bottle, H. blue_crate, I. green_bathtub, J. blue_drawer, K. green_crate, L. green_cupboard, M. green_suitcase, N. blue_box, O. green_envelope
+Choices: A. red_box, B. green_pantry, C. green_envelope, D. blue_drawer, E. blue_cupboard, F. blue_crate, G. red_envelope, H. green_box, I. blue_suitcase, J. green_treasure_chest, K. green_bottle, L. blue_envelope, M. red_treasure_chest, N. green_cupboard, O. blue_bottle

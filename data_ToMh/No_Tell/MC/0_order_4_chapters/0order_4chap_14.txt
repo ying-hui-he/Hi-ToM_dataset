@@ -1,41 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Logan, Mia, Amelia and Jack entered the lounge.
-2 The beans is in the red_crate.
-3 Mila made no movements and stayed in the lounge for 10 minutes.
-4 Mila exited the lounge and stayed in the waiting_room.
-5 Logan made no movements and stayed in the lounge for 10 minutes.
-6 Logan exited the lounge and stayed in the waiting_room.
-7 Mia moved the beans to the blue_treasure_chest.
-8 Mia exited the lounge and stayed in the waiting_room.
-9 Amelia moved the beans to the green_treasure_chest.
-10 Amelia exited the lounge and stayed in the waiting_room.
-11 Jack moved the beans to the red_crate.
-12 Jack exited the lounge and stayed in the waiting_room.
-13 Mia, Logan and Jack entered the lounge.
-14 The green_pepper is in the red_bathtub.
-15 Mia moved the green_pepper to the blue_treasure_chest.
-16 Mia exited the lounge and stayed in the waiting_room.
-17 Logan made no movements and stayed in the lounge for 10 minutes.
-18 Logan exited the lounge and stayed in the waiting_room.
-19 Jack made no movements and stayed in the lounge for 10 minutes.
-20 Jack exited the lounge and stayed in the waiting_room.
-21 Logan, Jack, Mia and Mila entered the lounge.
-22 The beans is in the red_crate.
-23 Logan moved the beans to the red_bathtub.
-24 Logan exited the lounge and stayed in the waiting_room.
-25 Jack moved the beans to the green_treasure_chest.
-26 Jack exited the lounge and stayed in the waiting_room.
-27 Mia moved the beans to the blue_treasure_chest.
-28 Mia exited the lounge and stayed in the waiting_room.
-29 Mila moved the beans to the green_bathtub.
-30 Mila exited the lounge and stayed in the waiting_room.
-31 Jack and Mila entered the staircase.
-32 The peach is in the blue_bottle.
-33 Jack made no movements and stayed in the staircase for 10 minutes.
-34 Jack exited the staircase and stayed in the waiting_room.
-35 Mila made no movements and stayed in the staircase for 10 minutes.
-36 Mila exited the staircase and stayed in the waiting_room.
-Question: Where is the beans really?
-Answer: green_bathtub
-Choices: A. blue_bathtub, B. blue_drawer, C. red_treasure_chest, D. blue_bucket, E. red_suitcase, F. blue_basket, G. blue_bottle, H. blue_container, I. green_suitcase, J. blue_suitcase, K. red_bathtub, L. red_crate, M. green_treasure_chest, N. blue_treasure_chest, O. green_bathtub
+1 Ella, Jack, Chloe, Mila and Ava entered the crawlspace.
+2 The apple is in the green_envelope.
+3 Jack likes the blue_treasure_chest.
+4 Ella moved the apple to the green_suitcase.
+5 Ella exited the crawlspace and stayed in the waiting_room.
+6 Jack moved the apple to the green_treasure_chest.
+7 Jack exited the crawlspace and stayed in the waiting_room.
+8 Chloe made no movements and stayed in the crawlspace for 10 minutes.
+9 Chloe exited the crawlspace and stayed in the waiting_room.
+10 Mila moved the apple to the blue_cupboard.
+11 Mila exited the crawlspace and stayed in the waiting_room.
+12 Ava made no movements and stayed in the crawlspace for 10 minutes.
+13 Ava exited the crawlspace and stayed in the waiting_room.
+14 Ella, Ava and Jack entered the workshop.
+15 The lemon is in the red_basket.
+16 Ella made no movements and stayed in the workshop for 10 minutes.
+17 Ella exited the workshop and stayed in the waiting_room.
+18 Ava moved the lemon to the green_bottle.
+19 Ava exited the workshop and stayed in the waiting_room.
+20 Jack moved the lemon to the blue_crate.
+21 Jack exited the workshop and stayed in the waiting_room.
+22 Mila, Chloe, Ava and Ella entered the garage.
+23 The tangerine is in the green_cupboard.
+24 Mila made no movements and stayed in the garage for 10 minutes.
+25 Mila exited the garage and stayed in the waiting_room.
+26 Chloe moved the tangerine to the blue_envelope.
+27 Chloe exited the garage and stayed in the waiting_room.
+28 Ava moved the tangerine to the red_bathtub.
+29 Ava exited the garage and stayed in the waiting_room.
+30 Ella made no movements and stayed in the garage for 10 minutes.
+31 Ella exited the garage and stayed in the waiting_room.
+32 Ava and Jack entered the garage.
+33 The carrot is in the red_bathtub.
+34 Ava made no movements and stayed in the garage for 10 minutes.
+35 Ava exited the garage and stayed in the waiting_room.
+36 Jack moved the carrot to the green_cupboard.
+37 Jack exited the garage and stayed in the waiting_room.
+Question: Where is the apple really?
+Answer: blue_cupboard
+Choices: A. red_basket, B. blue_treasure_chest, C. green_bottle, D. green_bathtub, E. blue_crate, F. green_suitcase, G. green_envelope, H. blue_cupboard, I. green_treasure_chest, J. green_bucket, K. red_bathtub, L. green_cupboard, M. red_crate, N. blue_envelope, O. red_bottle

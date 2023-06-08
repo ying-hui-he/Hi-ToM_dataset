@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Benjamin, Aiden, Carter and Jackson entered the hall.
-2 The pumpkin is in the blue_drawer.
-3 Evelyn moved the pumpkin to the blue_envelope.
-4 Evelyn exited the hall and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the hall for 10 minutes.
-6 Benjamin exited the hall and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the hall for 10 minutes.
-8 Aiden exited the hall and stayed in the waiting_room.
-9 Carter made no movements and stayed in the hall for 10 minutes.
-10 Carter exited the hall and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the hall for 10 minutes.
-12 Jackson exited the hall and stayed in the waiting_room.
-13 Carter publicly claimed that pumpkin is in the blue_pantry.
-14 Jackson privately told Evelyn that the pumpkin is actually in the blue_envelope.
-Question: Where does Carter think Aiden thinks Benjamin thinks Jackson thinks the pumpkin is?
-Choices: A. blue_basket, B. green_treasure_chest, C. red_treasure_chest, D. blue_bottle, E. red_basket, F. red_bottle, G. blue_bathtub, H. green_bathtub, I. green_envelope, J. blue_crate, K. blue_pantry, L. blue_drawer, M. blue_treasure_chest, N. blue_envelope, O. blue_suitcase
+1 Aiden, Mia, Mila, Nathan and Charlotte entered the closet.
+2 The persimmon is in the red_bottle.
+3 Aiden made no movements and stayed in the closet for 10 minutes.
+4 Aiden exited the closet and stayed in the waiting_room.
+5 Mia moved the persimmon to the green_suitcase.
+6 Mia exited the closet and stayed in the waiting_room.
+7 Mila moved the persimmon to the red_bathtub.
+8 Mila exited the closet and stayed in the waiting_room.
+9 Nathan made no movements and stayed in the closet for 10 minutes.
+10 Nathan exited the closet and stayed in the waiting_room.
+11 Charlotte moved the persimmon to the red_bottle.
+12 Charlotte exited the closet and stayed in the waiting_room.
+13 Mila publicly claimed that persimmon is in the red_bathtub.
+14 Charlotte privately told Mila that the persimmon is actually in the green_suitcase.
+Question: Where does Nathan think Aiden thinks Charlotte thinks Mia thinks the persimmon is?
+Choices: A. red_treasure_chest, B. blue_treasure_chest, C. red_container, D. blue_bucket, E. blue_bottle, F. green_treasure_chest, G. red_box, H. green_pantry, I. green_bottle, J. blue_cupboard, K. red_bottle, L. red_crate, M. red_bathtub, N. green_basket, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

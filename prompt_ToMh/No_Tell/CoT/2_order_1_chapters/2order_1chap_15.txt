@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Gracie, Emma, Oliver, Mia and Logan entered the cellar.
-2 The pineapple is in the red_container.
-3 Gracie moved the pineapple to the green_bottle.
-4 Gracie exited the cellar and stayed in the waiting_room.
-5 Emma made no movements and stayed in the cellar for 10 minutes.
-6 Emma exited the cellar and stayed in the waiting_room.
-7 Oliver moved the pineapple to the red_treasure_chest.
-8 Oliver exited the cellar and stayed in the waiting_room.
-9 Mia made no movements and stayed in the cellar for 10 minutes.
-10 Mia exited the cellar and stayed in the waiting_room.
-11 Logan made no movements and stayed in the cellar for 10 minutes.
-12 Logan exited the cellar and stayed in the waiting_room.
-Question: Where does Gracie think Mia thinks the pineapple is?
-Choices: A. red_container, B. green_bottle, C. blue_box, D. red_treasure_chest, E. red_basket, F. blue_crate, G. green_cupboard, H. blue_bucket, I. red_bottle, J. green_container, K. red_bucket, L. blue_basket, M. blue_suitcase, N. red_drawer, O. blue_pantry
+1 Ava, Isla, Charlotte, Jayden and Jacob entered the pantry.
+2 The potato is in the green_envelope.
+3 Ava moved the potato to the blue_envelope.
+4 Ava exited the pantry and stayed in the waiting_room.
+5 Isla made no movements and stayed in the pantry for 10 minutes.
+6 Isla exited the pantry and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the pantry for 10 minutes.
+8 Charlotte exited the pantry and stayed in the waiting_room.
+9 Jayden made no movements and stayed in the pantry for 10 minutes.
+10 Jayden exited the pantry and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the pantry for 10 minutes.
+12 Jacob exited the pantry and stayed in the waiting_room.
+Question: Where does Charlotte think Ava thinks the potato is?
+Choices: A. red_container, B. green_suitcase, C. red_envelope, D. blue_bathtub, E. red_basket, F. blue_crate, G. green_box, H. green_basket, I. blue_bucket, J. red_box, K. green_bottle, L. green_envelope, M. blue_drawer, N. blue_envelope, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

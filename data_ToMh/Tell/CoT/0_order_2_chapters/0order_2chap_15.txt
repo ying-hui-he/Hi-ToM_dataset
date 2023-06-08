@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Jack, Logan, Owen and Aria entered the closet.
-2 The banana is in the red_crate.
-3 Avery moved the banana to the red_treasure_chest.
-4 Avery exited the closet and stayed in the waiting_room.
-5 Jack made no movements and stayed in the closet for 10 minutes.
-6 Jack exited the closet and stayed in the waiting_room.
-7 Logan made no movements and stayed in the closet for 10 minutes.
-8 Logan exited the closet and stayed in the waiting_room.
-9 Owen moved the banana to the green_envelope.
-10 Owen exited the closet and stayed in the waiting_room.
-11 Aria made no movements and stayed in the closet for 10 minutes.
-12 Aria exited the closet and stayed in the waiting_room.
-13 Owen, Avery and Aria entered the living_room.
-14 The tomato is in the green_treasure_chest.
-15 Owen moved the tomato to the red_drawer.
-16 Owen exited the living_room and stayed in the waiting_room.
-17 Avery moved the tomato to the green_bathtub.
-18 Avery exited the living_room and stayed in the waiting_room.
-19 Aria moved the tomato to the blue_bathtub.
-20 Aria exited the living_room and stayed in the waiting_room.
-21 Aria publicly claimed that tomato is in the green_treasure_chest.
-22 Owen privately told Aria that the tomato is actually in the red_bucket.
-Question: Where is the banana really?
-Answer: green_envelope
-Choices: A. blue_suitcase, B. blue_basket, C. blue_bottle, D. blue_box, E. blue_pantry, F. red_crate, G. red_treasure_chest, H. red_bathtub, I. green_envelope, J. blue_bucket, K. green_treasure_chest, L. red_drawer, M. green_bathtub, N. red_bucket, O. blue_bathtub
+1 Aiden, Ethan, Nathan, Gracie and Liam entered the bathroom.
+2 The lemon is in the blue_bucket.
+3 Aiden made no movements and stayed in the bathroom for 10 minutes.
+4 Aiden exited the bathroom and stayed in the waiting_room.
+5 Ethan moved the lemon to the red_basket.
+6 Ethan exited the bathroom and stayed in the waiting_room.
+7 Nathan moved the lemon to the green_bottle.
+8 Nathan exited the bathroom and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the bathroom for 10 minutes.
+10 Gracie exited the bathroom and stayed in the waiting_room.
+11 Liam moved the lemon to the blue_bucket.
+12 Liam exited the bathroom and stayed in the waiting_room.
+13 Ethan, Liam and Gracie entered the cellar.
+14 The asparagus is in the red_bathtub.
+15 Ethan moved the asparagus to the green_bucket.
+16 Ethan exited the cellar and stayed in the waiting_room.
+17 Liam made no movements and stayed in the cellar for 10 minutes.
+18 Liam exited the cellar and stayed in the waiting_room.
+19 Aiden likes the red_container.
+20 Gracie made no movements and stayed in the cellar for 10 minutes.
+21 Gracie exited the cellar and stayed in the waiting_room.
+22 Liam publicly claimed that asparagus is in the green_cupboard.
+23 Gracie privately told Liam that the asparagus is actually in the green_bucket.
+Question: Where is the lemon really?
+Answer: blue_bucket
+Choices: A. blue_drawer, B. blue_bottle, C. red_container, D. green_envelope, E. blue_bathtub, F. green_bucket, G. red_bathtub, H. red_envelope, I. red_bottle, J. green_cupboard, K. red_treasure_chest, L. blue_bucket, M. blue_crate, N. green_bottle, O. red_basket

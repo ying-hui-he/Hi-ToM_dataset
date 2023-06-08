@@ -1,44 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aiden, Ella, Owen, Noah and Jacob entered the hall.
-2 The pear is in the red_envelope.
-3 Aiden made no movements and stayed in the hall for 10 minutes.
-4 Aiden exited the hall and stayed in the waiting_room.
-5 Ella made no movements and stayed in the hall for 10 minutes.
-6 Ella exited the hall and stayed in the waiting_room.
-7 Owen moved the pear to the red_bathtub.
-8 Owen exited the hall and stayed in the waiting_room.
-9 Noah moved the pear to the green_crate.
-10 Noah exited the hall and stayed in the waiting_room.
-11 Jacob moved the pear to the red_envelope.
-12 Jacob exited the hall and stayed in the waiting_room.
-13 Aiden, Jacob and Owen entered the playroom.
-14 The potato is in the red_suitcase.
-15 Aiden made no movements and stayed in the playroom for 10 minutes.
-16 Aiden exited the playroom and stayed in the waiting_room.
-17 Jacob moved the potato to the red_treasure_chest.
-18 Jacob exited the playroom and stayed in the waiting_room.
-19 Owen made no movements and stayed in the playroom for 10 minutes.
-20 Owen exited the playroom and stayed in the waiting_room.
-21 Aiden publicly claimed that potato is in the red_treasure_chest.
-22 Owen privately told Ella that the potato is actually in the red_treasure_chest.
-23 Jacob, Noah, Owen and Aiden entered the hall.
-24 The lettuce is in the blue_crate.
-25 Jacob made no movements and stayed in the hall for 10 minutes.
-26 Jacob exited the hall and stayed in the waiting_room.
-27 Noah made no movements and stayed in the hall for 10 minutes.
-28 Noah exited the hall and stayed in the waiting_room.
-29 Owen made no movements and stayed in the hall for 10 minutes.
-30 Owen exited the hall and stayed in the waiting_room.
-31 Aiden made no movements and stayed in the hall for 10 minutes.
-32 Aiden exited the hall and stayed in the waiting_room.
-33 Noah and Owen entered the hall.
-34 The lettuce is in the blue_crate.
-35 Noah moved the lettuce to the blue_envelope.
-36 Noah exited the hall and stayed in the waiting_room.
-37 Owen moved the lettuce to the red_bathtub.
-38 Owen exited the hall and stayed in the waiting_room.
-39 Noah privately told Jacob that the lettuce is actually in the red_envelope.
-Question: Where does Noah think Jacob thinks the pear is?
-Answer: red_bathtub
-Choices: A. red_suitcase, B. red_treasure_chest, C. red_container, D. green_cupboard, E. red_drawer, F. green_bottle, G. blue_container, H. red_bottle, I. blue_drawer, J. blue_bottle, K. red_envelope, L. blue_crate, M. green_crate, N. blue_envelope, O. red_bathtub
+1 Emma likes the red_treasure_chest.
+2 Aiden, Gracie, Emma, Isabella and Chloe entered the office.
+3 The strawberry is in the red_bucket.
+4 Aiden moved the strawberry to the red_cupboard.
+5 Aiden exited the office and stayed in the waiting_room.
+6 Gracie moved the strawberry to the green_pantry.
+7 Gracie exited the office and stayed in the waiting_room.
+8 Emma made no movements and stayed in the office for 10 minutes.
+9 Emma exited the office and stayed in the waiting_room.
+10 Isabella made no movements and stayed in the office for 10 minutes.
+11 Isabella exited the office and stayed in the waiting_room.
+12 Aiden lost his watch.
+13 Chloe made no movements and stayed in the office for 10 minutes.
+14 Chloe exited the office and stayed in the waiting_room.
+15 Gracie, Emma and Isabella entered the office.
+16 The strawberry is in the green_pantry.
+17 Gracie moved the strawberry to the blue_bathtub.
+18 Gracie exited the office and stayed in the waiting_room.
+19 Emma moved the strawberry to the red_bucket.
+20 Emma exited the office and stayed in the waiting_room.
+21 Isabella made no movements and stayed in the office for 10 minutes.
+22 Isabella exited the office and stayed in the waiting_room.
+23 Isabella publicly claimed that strawberry is in the blue_envelope.
+24 Gracie privately told Isabella that the strawberry is actually in the red_cupboard.
+25 Chloe, Aiden, Emma and Isabella entered the closet.
+26 The melon is in the red_treasure_chest.
+27 Chloe moved the melon to the green_bathtub.
+28 Chloe exited the closet and stayed in the waiting_room.
+29 Aiden made no movements and stayed in the closet for 10 minutes.
+30 Aiden exited the closet and stayed in the waiting_room.
+31 Emma made no movements and stayed in the closet for 10 minutes.
+32 Emma exited the closet and stayed in the waiting_room.
+33 Isabella made no movements and stayed in the closet for 10 minutes.
+34 Isabella exited the closet and stayed in the waiting_room.
+35 Aiden and Emma entered the closet.
+36 Gracie lost his phone.
+37 The pumpkin is in the green_basket.
+38 Aiden moved the pumpkin to the red_pantry.
+39 Aiden exited the closet and stayed in the waiting_room.
+40 Emma moved the pumpkin to the red_treasure_chest.
+41 Emma exited the closet and stayed in the waiting_room.
+42 Aiden publicly claimed that pumpkin is in the green_basket.
+43 Emma privately told Aiden that the pumpkin is actually in the red_pantry.
+Question: Where does Isabella think Aiden thinks the strawberry is?
+Answer: blue_envelope
+Choices: A. green_bucket, B. green_cupboard, C. blue_crate, D. blue_cupboard, E. red_container, F. green_basket, G. red_treasure_chest, H. red_pantry, I. green_bathtub, J. green_suitcase, K. red_bucket, L. blue_bathtub, M. green_pantry, N. blue_envelope, O. red_cupboard

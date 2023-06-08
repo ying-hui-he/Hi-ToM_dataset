@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, Benjamin, James, Emma and Jack entered the TV_room.
-2 The onion is in the blue_bottle.
-3 Ava made no movements and stayed in the TV_room for 10 minutes.
-4 Ava exited the TV_room and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the TV_room for 10 minutes.
-6 Benjamin exited the TV_room and stayed in the waiting_room.
-7 James made no movements and stayed in the TV_room for 10 minutes.
-8 James exited the TV_room and stayed in the waiting_room.
-9 Emma moved the onion to the red_envelope.
-10 Emma exited the TV_room and stayed in the waiting_room.
-11 Jack moved the onion to the blue_bottle.
-12 Jack exited the TV_room and stayed in the waiting_room.
-13 James, Emma and Jack entered the workshop.
-14 The apple is in the red_crate.
-15 James made no movements and stayed in the workshop for 10 minutes.
-16 James exited the workshop and stayed in the waiting_room.
-17 Emma moved the apple to the blue_crate.
-18 Emma exited the workshop and stayed in the waiting_room.
-19 Jack made no movements and stayed in the workshop for 10 minutes.
-20 Jack exited the workshop and stayed in the waiting_room.
-21 Jack publicly claimed that apple is in the red_drawer.
-22 James privately told Jack that the apple is actually in the blue_crate.
-23 Ava, Emma, Jack and Benjamin entered the TV_room.
-24 The onion is in the blue_bottle.
-25 Ava moved the onion to the green_cupboard.
-26 Ava exited the TV_room and stayed in the waiting_room.
-27 Emma moved the onion to the green_envelope.
-28 Emma exited the TV_room and stayed in the waiting_room.
-29 Jack moved the onion to the red_envelope.
-30 Jack exited the TV_room and stayed in the waiting_room.
-31 Benjamin moved the onion to the green_crate.
-32 Benjamin exited the TV_room and stayed in the waiting_room.
-33 James and Benjamin entered the workshop.
-34 The apple is in the blue_crate.
-35 James made no movements and stayed in the workshop for 10 minutes.
-36 James exited the workshop and stayed in the waiting_room.
-37 Benjamin moved the apple to the red_bathtub.
-38 Benjamin exited the workshop and stayed in the waiting_room.
-39 James publicly claimed that apple is in the blue_crate.
-40 Benjamin privately told James that the apple is actually in the red_drawer.
-Question: Where does Ava think Benjamin thinks Jack thinks the onion is?
-Answer: blue_bottle
-Choices: A. green_suitcase, B. red_crate, C. red_drawer, D. red_bathtub, E. blue_crate, F. blue_suitcase, G. green_treasure_chest, H. red_bucket, I. green_bottle, J. blue_envelope, K. blue_bottle, L. green_crate, M. green_envelope, N. red_envelope, O. green_cupboard
+1 Emma, Jackson, Aria, Jayden and Nathan entered the cellar.
+2 The beans is in the red_basket.
+3 Emma made no movements and stayed in the cellar for 10 minutes.
+4 Emma exited the cellar and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the cellar for 10 minutes.
+6 Jackson exited the cellar and stayed in the waiting_room.
+7 Aria made no movements and stayed in the cellar for 10 minutes.
+8 Aria exited the cellar and stayed in the waiting_room.
+9 Jayden made no movements and stayed in the cellar for 10 minutes.
+10 Jayden lost his bottle.
+11 Jayden exited the cellar and stayed in the waiting_room.
+12 Nathan made no movements and stayed in the cellar for 10 minutes.
+13 Nathan exited the cellar and stayed in the waiting_room.
+14 Nathan, Jayden and Jackson entered the cellar.
+15 The radish is in the red_pantry.
+16 Nathan made no movements and stayed in the cellar for 10 minutes.
+17 Nathan exited the cellar and stayed in the waiting_room.
+18 Jayden made no movements and stayed in the cellar for 10 minutes.
+19 Jayden exited the cellar and stayed in the waiting_room.
+20 Jackson moved the radish to the green_basket.
+21 Jackson exited the cellar and stayed in the waiting_room.
+22 Jayden privately told Jackson that the radish is actually in the green_envelope.
+23 Jackson privately told Aria that the radish is actually in the green_basket.
+24 Jackson saw a monkey.
+25 Emma, Aria, Jayden and Jackson entered the front_yard.
+26 Jackson saw a mouse.
+27 The cucumber is in the green_bathtub.
+28 Emma moved the cucumber to the red_treasure_chest.
+29 Emma exited the front_yard and stayed in the waiting_room.
+30 Aria moved the cucumber to the blue_bottle.
+31 Aria exited the front_yard and stayed in the waiting_room.
+32 Jayden likes the green_treasure_chest.
+33 Jayden made no movements and stayed in the front_yard for 10 minutes.
+34 Jayden exited the front_yard and stayed in the waiting_room.
+35 Jackson moved the cucumber to the blue_envelope.
+36 Jackson exited the front_yard and stayed in the waiting_room.
+37 Jackson and Jayden entered the cellar.
+38 The radish is in the green_basket.
+39 Jackson moved the radish to the red_pantry.
+40 Jackson exited the cellar and stayed in the waiting_room.
+41 Jayden made no movements and stayed in the cellar for 10 minutes.
+42 Jayden exited the cellar and stayed in the waiting_room.
+43 Jackson privately told Nathan that the radish is actually in the red_pantry.
+Question: Where does Jackson think Emma thinks Nathan thinks the beans is?
+Answer: None
+Choices: A. red_pantry, B. red_basket, C. green_envelope, D. green_suitcase, E. green_basket, F. red_treasure_chest, G. green_bathtub, H. blue_envelope, I. blue_bottle, J. green_treasure_chest, K. red_envelope, L. blue_bathtub, M. blue_treasure_chest, N. blue_crate, O. red_crate

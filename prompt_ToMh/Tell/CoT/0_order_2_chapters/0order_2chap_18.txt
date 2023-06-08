@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ava, Ethan, Noah, Mia and James entered the back_yard.
-2 The strawberry is in the green_bottle.
-3 Ava made no movements and stayed in the back_yard for 10 minutes.
-4 Ava exited the back_yard and stayed in the waiting_room.
-5 Ethan made no movements and stayed in the back_yard for 10 minutes.
-6 Ethan exited the back_yard and stayed in the waiting_room.
-7 Noah made no movements and stayed in the back_yard for 10 minutes.
-8 Noah exited the back_yard and stayed in the waiting_room.
-9 Mia moved the strawberry to the red_drawer.
-10 Mia exited the back_yard and stayed in the waiting_room.
-11 James moved the strawberry to the green_bottle.
-12 James exited the back_yard and stayed in the waiting_room.
-13 Mia, Noah and Ethan entered the bedroom.
-14 The spinach is in the blue_bathtub.
-15 Mia moved the spinach to the blue_box.
-16 Mia exited the bedroom and stayed in the waiting_room.
-17 Noah made no movements and stayed in the bedroom for 10 minutes.
-18 Noah exited the bedroom and stayed in the waiting_room.
-19 Ethan moved the spinach to the blue_container.
-20 Ethan exited the bedroom and stayed in the waiting_room.
-21 Ethan publicly claimed that spinach is in the blue_basket.
-22 Mia privately told Ethan that the spinach is actually in the blue_box.
-Question: Where is the strawberry really?
-Choices: A. blue_envelope, B. blue_pantry, C. blue_treasure_chest, D. red_crate, E. red_bottle, F. blue_bathtub, G. blue_container, H. red_bathtub, I. blue_basket, J. blue_box, K. green_bottle, L. green_crate, M. red_drawer, N. green_treasure_chest, O. blue_bucket
+1 Alexander, Carter, Logan, Charlotte and Emma entered the bedroom.
+2 The green_pepper is in the blue_envelope.
+3 Alexander made no movements and stayed in the bedroom for 10 minutes.
+4 Alexander exited the bedroom and stayed in the waiting_room.
+5 Carter moved the green_pepper to the green_box.
+6 Carter exited the bedroom and stayed in the waiting_room.
+7 Logan made no movements and stayed in the bedroom for 10 minutes.
+8 Logan exited the bedroom and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the bedroom for 10 minutes.
+10 Charlotte exited the bedroom and stayed in the waiting_room.
+11 Emma made no movements and stayed in the bedroom for 10 minutes.
+12 Emma exited the bedroom and stayed in the waiting_room.
+13 Logan, Charlotte and Carter entered the bedroom.
+14 The green_pepper is in the green_box.
+15 Logan made no movements and stayed in the bedroom for 10 minutes.
+16 Charlotte dislikes the pineapple.
+17 Logan exited the bedroom and stayed in the waiting_room.
+18 Charlotte moved the green_pepper to the blue_suitcase.
+19 Charlotte exited the bedroom and stayed in the waiting_room.
+20 Carter made no movements and stayed in the bedroom for 10 minutes.
+21 Carter exited the bedroom and stayed in the waiting_room.
+22 Carter publicly claimed that green_pepper is in the blue_suitcase.
+23 Logan privately told Carter that the green_pepper is actually in the blue_envelope.
+Question: Where is the green_pepper really?
+Choices: A. red_bucket, B. green_basket, C. green_bottle, D. blue_bathtub, E. red_treasure_chest, F. red_bathtub, G. green_cupboard, H. blue_cupboard, I. red_bottle, J. blue_crate, K. red_basket, L. blue_envelope, M. blue_suitcase, N. green_box, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Avery, Evelyn, Logan and Hannah entered the living_room.
-2 The turnip is in the blue_bathtub.
-3 Ella moved the turnip to the blue_treasure_chest.
-4 Ella exited the living_room and stayed in the waiting_room.
-5 Avery made no movements and stayed in the living_room for 10 minutes.
-6 Avery exited the living_room and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the living_room for 10 minutes.
-8 Evelyn exited the living_room and stayed in the waiting_room.
-9 Logan moved the turnip to the red_container.
-10 Logan exited the living_room and stayed in the waiting_room.
-11 Hannah moved the turnip to the blue_bathtub.
-12 Hannah exited the living_room and stayed in the waiting_room.
-13 Avery, Logan and Ella entered the study.
-14 The grapefruit is in the green_container.
-15 Avery moved the grapefruit to the red_bucket.
-16 Avery exited the study and stayed in the waiting_room.
-17 Logan made no movements and stayed in the study for 10 minutes.
-18 Logan exited the study and stayed in the waiting_room.
-19 Ella made no movements and stayed in the study for 10 minutes.
-20 Ella exited the study and stayed in the waiting_room.
-21 Evelyn, Avery, Logan and Hannah entered the living_room.
-22 The asparagus is in the green_cupboard.
-23 Evelyn moved the asparagus to the red_suitcase.
-24 Evelyn exited the living_room and stayed in the waiting_room.
-25 Avery moved the asparagus to the blue_bathtub.
-26 Avery exited the living_room and stayed in the waiting_room.
-27 Logan moved the asparagus to the red_container.
-28 Logan exited the living_room and stayed in the waiting_room.
-29 Hannah made no movements and stayed in the living_room for 10 minutes.
-30 Hannah exited the living_room and stayed in the waiting_room.
-Question: Where is the turnip really?
-Choices: A. green_bathtub, B. blue_box, C. green_crate, D. green_envelope, E. blue_basket, F. green_container, G. green_bottle, H. red_treasure_chest, I. red_bottle, J. red_bucket, K. blue_bathtub, L. green_cupboard, M. red_suitcase, N. red_container, O. blue_treasure_chest
+1 Mila, Aria, Jack, Owen and Gracie entered the closet.
+2 Jack lost his phone.
+3 The broccoli is in the blue_bathtub.
+4 Mila moved the broccoli to the green_cupboard.
+5 Mila exited the closet and stayed in the waiting_room.
+6 Aria moved the broccoli to the green_bathtub.
+7 Aria dislikes the broccoli.
+8 Aria exited the closet and stayed in the waiting_room.
+9 Jack made no movements and stayed in the closet for 10 minutes.
+10 Jack exited the closet and stayed in the waiting_room.
+11 Owen moved the broccoli to the blue_envelope.
+12 Owen exited the closet and stayed in the waiting_room.
+13 Jack lost his watch.
+14 Gracie made no movements and stayed in the closet for 10 minutes.
+15 Gracie exited the closet and stayed in the waiting_room.
+16 Mila, Gracie and Owen entered the patio.
+17 The peas is in the blue_drawer.
+18 Mila made no movements and stayed in the patio for 10 minutes.
+19 Mila dislikes the peas.
+20 Mila exited the patio and stayed in the waiting_room.
+21 Gracie made no movements and stayed in the patio for 10 minutes.
+22 Gracie exited the patio and stayed in the waiting_room.
+23 Owen made no movements and stayed in the patio for 10 minutes.
+24 Gracie dislikes the peas.
+25 Owen exited the patio and stayed in the waiting_room.
+26 Aria, Jack, Mila and Owen entered the closet.
+27 Aria likes the green_treasure_chest.
+28 The pumpkin is in the green_cupboard.
+29 Aria made no movements and stayed in the closet for 10 minutes.
+30 Aria exited the closet and stayed in the waiting_room.
+31 Jack made no movements and stayed in the closet for 10 minutes.
+32 Jack exited the closet and stayed in the waiting_room.
+33 Mila moved the pumpkin to the blue_envelope.
+34 Mila exited the closet and stayed in the waiting_room.
+35 Owen moved the pumpkin to the blue_suitcase.
+36 Owen exited the closet and stayed in the waiting_room.
+Question: Where is the broccoli really?
+Choices: A. blue_bucket, B. red_bucket, C. green_bottle, D. red_bathtub, E. blue_crate, F. green_cupboard, G. blue_bathtub, H. blue_suitcase, I. green_bathtub, J. blue_envelope, K. green_box, L. blue_drawer, M. red_bottle, N. green_pantry, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

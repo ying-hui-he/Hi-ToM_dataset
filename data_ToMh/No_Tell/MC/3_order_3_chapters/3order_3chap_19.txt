@@ -1,35 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Gracie, Jackson, Emily and William entered the kitchen.
-2 The grapefruit is in the green_crate.
-3 Abigail moved the grapefruit to the red_crate.
-4 Abigail exited the kitchen and stayed in the waiting_room.
-5 Gracie moved the grapefruit to the green_bottle.
-6 Gracie exited the kitchen and stayed in the waiting_room.
-7 Jackson moved the grapefruit to the blue_drawer.
-8 Jackson exited the kitchen and stayed in the waiting_room.
-9 Emily moved the grapefruit to the blue_pantry.
-10 Emily exited the kitchen and stayed in the waiting_room.
-11 William made no movements and stayed in the kitchen for 10 minutes.
-12 William exited the kitchen and stayed in the waiting_room.
-13 William, Gracie and Emily entered the kitchen.
-14 The grapefruit is in the blue_pantry.
-15 William moved the grapefruit to the green_bottle.
-16 William exited the kitchen and stayed in the waiting_room.
-17 Gracie made no movements and stayed in the kitchen for 10 minutes.
-18 Gracie exited the kitchen and stayed in the waiting_room.
-19 Emily moved the grapefruit to the red_crate.
-20 Emily exited the kitchen and stayed in the waiting_room.
-21 Gracie, Jackson, Emily and Abigail entered the back_yard.
-22 The strawberry is in the blue_suitcase.
-23 Gracie moved the strawberry to the red_basket.
-24 Gracie exited the back_yard and stayed in the waiting_room.
-25 Jackson moved the strawberry to the blue_basket.
-26 Jackson exited the back_yard and stayed in the waiting_room.
-27 Emily moved the strawberry to the blue_envelope.
-28 Emily exited the back_yard and stayed in the waiting_room.
-29 Abigail moved the strawberry to the red_bottle.
-30 Abigail exited the back_yard and stayed in the waiting_room.
-Question: Where does Gracie think Jackson thinks Abigail thinks the grapefruit is?
-Answer: red_crate
-Choices: A. blue_suitcase, B. red_bottle, C. red_basket, D. blue_envelope, E. blue_basket, F. blue_bathtub, G. green_treasure_chest, H. red_envelope, I. red_drawer, J. red_bucket, K. blue_pantry, L. green_crate, M. blue_drawer, N. red_crate, O. green_bottle
+1 Liam saw a cat.
+2 Mila, Liam, Hannah, Mason and Ethan entered the crawlspace.
+3 Ethan likes the blue_bathtub.
+4 The potato is in the red_container.
+5 Mila moved the potato to the blue_bottle.
+6 Liam saw a dog.
+7 Mila exited the crawlspace and stayed in the waiting_room.
+8 Mason saw a dog.
+9 Liam made no movements and stayed in the crawlspace for 10 minutes.
+10 Liam exited the crawlspace and stayed in the waiting_room.
+11 Hannah moved the potato to the red_basket.
+12 Hannah exited the crawlspace and stayed in the waiting_room.
+13 Mason moved the potato to the red_crate.
+14 Mason exited the crawlspace and stayed in the waiting_room.
+15 Ethan made no movements and stayed in the crawlspace for 10 minutes.
+16 Ethan exited the crawlspace and stayed in the waiting_room.
+17 Mila, Ethan and Mason entered the crawlspace.
+18 The broccoli is in the blue_bottle.
+19 Mila lost his bottle.
+20 Mila moved the broccoli to the red_crate.
+21 Mila exited the crawlspace and stayed in the waiting_room.
+22 Ethan made no movements and stayed in the crawlspace for 10 minutes.
+23 Ethan exited the crawlspace and stayed in the waiting_room.
+24 Mason moved the broccoli to the green_bucket.
+25 Mason exited the crawlspace and stayed in the waiting_room.
+26 Mila, Mason, Liam and Ethan entered the dining_room.
+27 The turnip is in the green_bottle.
+28 Mila moved the turnip to the blue_crate.
+29 Mila exited the dining_room and stayed in the waiting_room.
+30 Mason made no movements and stayed in the dining_room for 10 minutes.
+31 Mason exited the dining_room and stayed in the waiting_room.
+32 Liam moved the turnip to the blue_bathtub.
+33 Liam exited the dining_room and stayed in the waiting_room.
+34 Mason likes the green_box.
+35 Ethan moved the turnip to the green_treasure_chest.
+36 Ethan exited the dining_room and stayed in the waiting_room.
+Question: Where does Liam think Ethan thinks Mason thinks the potato is?
+Answer: None
+Choices: A. blue_bottle, B. red_container, C. green_bucket, D. red_basket, E. red_crate, F. blue_suitcase, G. green_basket, H. red_bottle, I. green_box, J. red_cupboard, K. green_suitcase, L. green_bottle, M. green_treasure_chest, N. blue_bathtub, O. blue_crate

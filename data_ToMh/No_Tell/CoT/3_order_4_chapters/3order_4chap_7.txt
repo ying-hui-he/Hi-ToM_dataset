@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, Evelyn, Owen, James and Jack entered the crawlspace.
-2 The asparagus is in the blue_container.
-3 Oliver made no movements and stayed in the crawlspace for 10 minutes.
-4 Oliver exited the crawlspace and stayed in the waiting_room.
-5 Evelyn moved the asparagus to the green_envelope.
-6 Evelyn exited the crawlspace and stayed in the waiting_room.
-7 Owen made no movements and stayed in the crawlspace for 10 minutes.
-8 Owen exited the crawlspace and stayed in the waiting_room.
-9 James moved the asparagus to the blue_pantry.
-10 James exited the crawlspace and stayed in the waiting_room.
-11 Jack moved the asparagus to the blue_container.
-12 Jack exited the crawlspace and stayed in the waiting_room.
-13 Oliver, Evelyn and James entered the hall.
-14 The pumpkin is in the blue_bathtub.
-15 Oliver made no movements and stayed in the hall for 10 minutes.
-16 Oliver exited the hall and stayed in the waiting_room.
-17 Evelyn moved the pumpkin to the red_bathtub.
-18 Evelyn exited the hall and stayed in the waiting_room.
-19 James made no movements and stayed in the hall for 10 minutes.
-20 James exited the hall and stayed in the waiting_room.
-21 Jack, Evelyn, Oliver and James entered the den.
-22 The cherry is in the red_envelope.
-23 Jack moved the cherry to the green_cupboard.
-24 Jack exited the den and stayed in the waiting_room.
-25 Evelyn moved the cherry to the red_basket.
-26 Evelyn exited the den and stayed in the waiting_room.
-27 Oliver made no movements and stayed in the den for 10 minutes.
-28 Oliver exited the den and stayed in the waiting_room.
-29 James moved the cherry to the red_treasure_chest.
-30 James exited the den and stayed in the waiting_room.
-31 James and Oliver entered the hall.
-32 The pumpkin is in the red_bathtub.
-33 James moved the pumpkin to the blue_crate.
-34 James exited the hall and stayed in the waiting_room.
-35 Oliver made no movements and stayed in the hall for 10 minutes.
-36 Oliver exited the hall and stayed in the waiting_room.
-Question: Where does James think Evelyn thinks Jack thinks the asparagus is?
+1 Charlotte, Alexander, Ava, Aiden and Jacob entered the kitchen.
+2 Aiden lost his phone.
+3 The onion is in the green_bucket.
+4 Charlotte moved the onion to the green_pantry.
+5 Charlotte exited the kitchen and stayed in the waiting_room.
+6 Alexander moved the onion to the blue_bathtub.
+7 Alexander exited the kitchen and stayed in the waiting_room.
+8 Ava moved the onion to the green_bathtub.
+9 Ava exited the kitchen and stayed in the waiting_room.
+10 Aiden made no movements and stayed in the kitchen for 10 minutes.
+11 Ava lost his bottle.
+12 Aiden exited the kitchen and stayed in the waiting_room.
+13 Jacob made no movements and stayed in the kitchen for 10 minutes.
+14 Jacob exited the kitchen and stayed in the waiting_room.
+15 Aiden, Jacob and Alexander entered the workshop.
+16 The watermelon is in the red_bottle.
+17 Aiden moved the watermelon to the blue_treasure_chest.
+18 Aiden exited the workshop and stayed in the waiting_room.
+19 Jacob made no movements and stayed in the workshop for 10 minutes.
+20 Jacob exited the workshop and stayed in the waiting_room.
+21 Alexander made no movements and stayed in the workshop for 10 minutes.
+22 Charlotte dislikes the onion.
+23 Alexander exited the workshop and stayed in the waiting_room.
+24 Charlotte, Ava, Aiden and Alexander entered the kitchen.
+25 The melon is in the green_pantry.
+26 Charlotte made no movements and stayed in the kitchen for 10 minutes.
+27 Charlotte exited the kitchen and stayed in the waiting_room.
+28 Aiden likes the red_treasure_chest.
+29 Ava made no movements and stayed in the kitchen for 10 minutes.
+30 Ava exited the kitchen and stayed in the waiting_room.
+31 Aiden made no movements and stayed in the kitchen for 10 minutes.
+32 Aiden exited the kitchen and stayed in the waiting_room.
+33 Alexander made no movements and stayed in the kitchen for 10 minutes.
+34 Alexander exited the kitchen and stayed in the waiting_room.
+35 Ava and Jacob entered the kitchen.
+36 The melon is in the green_pantry.
+37 Ava moved the melon to the blue_bathtub.
+38 Ava exited the kitchen and stayed in the waiting_room.
+39 Jacob likes the red_treasure_chest.
+40 Jacob moved the melon to the green_bathtub.
+41 Jacob exited the kitchen and stayed in the waiting_room.
+Question: Where does Aiden think Alexander thinks Ava thinks the onion is?
 Answer: None
-Choices: A. green_envelope, B. blue_container, C. green_bottle, D. red_suitcase, E. blue_pantry, F. blue_box, G. blue_bathtub, H. red_bathtub, I. blue_crate, J. blue_bottle, K. red_envelope, L. red_treasure_chest, M. red_basket, N. green_bathtub, O. green_cupboard
+Choices: A. green_box, B. green_suitcase, C. red_envelope, D. green_treasure_chest, E. red_bathtub, F. green_pantry, G. green_bucket, H. green_bathtub, I. red_cupboard, J. blue_bathtub, K. red_bottle, L. red_bucket, M. red_treasure_chest, N. blue_treasure_chest, O. green_basket

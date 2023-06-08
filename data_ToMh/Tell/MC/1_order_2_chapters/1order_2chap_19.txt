@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Aiden, Amelia, Noah and Hannah entered the kitchen.
-2 The grapefruit is in the green_crate.
-3 Benjamin made no movements and stayed in the kitchen for 10 minutes.
-4 Benjamin exited the kitchen and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the kitchen for 10 minutes.
-6 Aiden exited the kitchen and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the kitchen for 10 minutes.
-8 Amelia exited the kitchen and stayed in the waiting_room.
-9 Noah moved the grapefruit to the green_envelope.
-10 Noah exited the kitchen and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the kitchen for 10 minutes.
-12 Hannah exited the kitchen and stayed in the waiting_room.
-13 Benjamin, Hannah and Amelia entered the TV_room.
-14 The pumpkin is in the blue_suitcase.
-15 Benjamin made no movements and stayed in the TV_room for 10 minutes.
-16 Benjamin exited the TV_room and stayed in the waiting_room.
-17 Hannah made no movements and stayed in the TV_room for 10 minutes.
-18 Hannah exited the TV_room and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the TV_room for 10 minutes.
-20 Amelia exited the TV_room and stayed in the waiting_room.
-21 Amelia publicly claimed that pumpkin is in the blue_bathtub.
-22 Benjamin privately told Amelia that the pumpkin is actually in the blue_suitcase.
-Question: Where does Noah think the grapefruit is?
-Answer: green_envelope
-Choices: A. blue_bathtub, B. blue_suitcase, C. red_treasure_chest, D. red_container, E. blue_envelope, F. blue_bottle, G. green_bathtub, H. green_suitcase, I. blue_crate, J. red_drawer, K. green_crate, L. red_suitcase, M. green_container, N. green_envelope, O. red_basket
+1 Hannah, Mia, Jackson, Liam and Owen entered the dining_room.
+2 The banana is in the red_pantry.
+3 Hannah moved the banana to the green_bottle.
+4 Hannah exited the dining_room and stayed in the waiting_room.
+5 Mia made no movements and stayed in the dining_room for 10 minutes.
+6 Mia exited the dining_room and stayed in the waiting_room.
+7 Jackson moved the banana to the blue_crate.
+8 Jackson exited the dining_room and stayed in the waiting_room.
+9 Liam made no movements and stayed in the dining_room for 10 minutes.
+10 Owen lost his bottle.
+11 Liam exited the dining_room and stayed in the waiting_room.
+12 Owen moved the banana to the red_pantry.
+13 Owen exited the dining_room and stayed in the waiting_room.
+14 Hannah, Mia and Liam entered the dining_room.
+15 The banana is in the red_pantry.
+16 Hannah made no movements and stayed in the dining_room for 10 minutes.
+17 Hannah exited the dining_room and stayed in the waiting_room.
+18 Mia moved the banana to the blue_bucket.
+19 Mia exited the dining_room and stayed in the waiting_room.
+20 Liam moved the banana to the blue_crate.
+21 Liam exited the dining_room and stayed in the waiting_room.
+22 Liam publicly claimed that banana is in the green_bottle.
+23 Hannah privately told Liam that the banana is actually in the blue_drawer.
+Question: Where does Liam think the banana is?
+Answer: blue_crate
+Choices: A. red_pantry, B. blue_crate, C. green_bottle, D. blue_bucket, E. blue_drawer, F. green_bucket, G. red_envelope, H. red_container, I. green_basket, J. red_basket, K. red_treasure_chest, L. blue_suitcase, M. green_suitcase, N. blue_bottle, O. green_box

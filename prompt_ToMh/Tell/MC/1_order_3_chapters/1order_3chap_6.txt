@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Mila, Emily, Ella and Aria entered the master_bedroom.
-2 The strawberry is in the red_drawer.
-3 Olivia made no movements and stayed in the master_bedroom for 10 minutes.
-4 Olivia exited the master_bedroom and stayed in the waiting_room.
-5 Mila moved the strawberry to the blue_suitcase.
-6 Mila exited the master_bedroom and stayed in the waiting_room.
-7 Emily moved the strawberry to the green_suitcase.
-8 Emily exited the master_bedroom and stayed in the waiting_room.
-9 Ella moved the strawberry to the blue_basket.
-10 Ella exited the master_bedroom and stayed in the waiting_room.
-11 Aria made no movements and stayed in the master_bedroom for 10 minutes.
-12 Aria exited the master_bedroom and stayed in the waiting_room.
-13 Emily privately told Olivia that the strawberry is actually in the blue_suitcase.
-14 Mila privately told Ella that the strawberry is actually in the red_drawer.
-15 Emily, Ella and Olivia entered the back_yard.
-16 The spinach is in the blue_bathtub.
-17 Emily moved the spinach to the blue_drawer.
-18 Emily exited the back_yard and stayed in the waiting_room.
-19 Ella made no movements and stayed in the back_yard for 10 minutes.
-20 Ella exited the back_yard and stayed in the waiting_room.
-21 Olivia moved the spinach to the blue_treasure_chest.
-22 Olivia exited the back_yard and stayed in the waiting_room.
-23 Mila, Ella, Olivia and Aria entered the back_yard.
-24 The cucumber is in the blue_treasure_chest.
-25 Mila made no movements and stayed in the back_yard for 10 minutes.
-26 Mila exited the back_yard and stayed in the waiting_room.
-27 Ella moved the cucumber to the blue_envelope.
-28 Ella exited the back_yard and stayed in the waiting_room.
-29 Olivia made no movements and stayed in the back_yard for 10 minutes.
-30 Olivia exited the back_yard and stayed in the waiting_room.
-31 Aria made no movements and stayed in the back_yard for 10 minutes.
-32 Aria exited the back_yard and stayed in the waiting_room.
-33 Olivia publicly claimed that cucumber is in the red_treasure_chest.
-34 Mila privately told Aria that the cucumber is actually in the blue_envelope.
-Question: Where does Mila think the strawberry is?
-Choices: A. green_suitcase, B. red_drawer, C. blue_suitcase, D. green_bottle, E. blue_basket, F. blue_treasure_chest, G. blue_bathtub, H. red_treasure_chest, I. blue_envelope, J. blue_drawer, K. red_bathtub, L. green_treasure_chest, M. red_crate, N. blue_pantry, O. blue_crate
+1 Lucas, Jackson, Isla, Liam and Abigail entered the bedroom.
+2 The green_pepper is in the blue_drawer.
+3 Lucas moved the green_pepper to the green_pantry.
+4 Lucas exited the bedroom and stayed in the waiting_room.
+5 Jackson moved the green_pepper to the red_envelope.
+6 Jackson exited the bedroom and stayed in the waiting_room.
+7 Isla made no movements and stayed in the bedroom for 10 minutes.
+8 Isla exited the bedroom and stayed in the waiting_room.
+9 Liam moved the green_pepper to the blue_suitcase.
+10 Liam exited the bedroom and stayed in the waiting_room.
+11 Abigail moved the green_pepper to the blue_drawer.
+12 Isla dislikes the potato.
+13 Abigail exited the bedroom and stayed in the waiting_room.
+14 Isla privately told Lucas that the green_pepper is actually in the blue_drawer.
+15 Jackson privately told Liam that the green_pepper is actually in the green_pantry.
+16 Liam, Jackson and Isla entered the attic.
+17 The banana is in the red_cupboard.
+18 Liam moved the banana to the red_treasure_chest.
+19 Liam exited the attic and stayed in the waiting_room.
+20 Jackson made no movements and stayed in the attic for 10 minutes.
+21 Jackson exited the attic and stayed in the waiting_room.
+22 Isla made no movements and stayed in the attic for 10 minutes.
+23 Isla exited the attic and stayed in the waiting_room.
+24 Jackson, Abigail, Liam and Lucas entered the hallway.
+25 The grapefruit is in the blue_bucket.
+26 Isla likes the blue_suitcase.
+27 Jackson made no movements and stayed in the hallway for 10 minutes.
+28 Jackson exited the hallway and stayed in the waiting_room.
+29 Abigail moved the grapefruit to the green_bathtub.
+30 Abigail exited the hallway and stayed in the waiting_room.
+31 Liam moved the grapefruit to the red_container.
+32 Liam exited the hallway and stayed in the waiting_room.
+33 Lucas moved the grapefruit to the red_bottle.
+34 Lucas exited the hallway and stayed in the waiting_room.
+35 Abigail privately told Liam that the grapefruit is actually in the green_bathtub.
+36 Lucas privately told Isla that the grapefruit is actually in the red_bottle.
+Question: Where does Lucas think the green_pepper is?
+Choices: A. red_cupboard, B. red_treasure_chest, C. red_basket, D. red_bathtub, E. green_suitcase, F. blue_bucket, G. red_bottle, H. green_bathtub, I. red_crate, J. red_container, K. blue_suitcase, L. blue_drawer, M. red_envelope, N. green_pantry, O. green_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

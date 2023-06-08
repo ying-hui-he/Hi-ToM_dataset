@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Logan, William, Ella and Owen entered the crawlspace.
-2 The turnip is in the red_bottle.
-3 James made no movements and stayed in the crawlspace for 10 minutes.
-4 James exited the crawlspace and stayed in the waiting_room.
-5 Logan made no movements and stayed in the crawlspace for 10 minutes.
-6 Logan exited the crawlspace and stayed in the waiting_room.
-7 William moved the turnip to the green_container.
-8 William exited the crawlspace and stayed in the waiting_room.
-9 Ella moved the turnip to the green_cupboard.
-10 Ella exited the crawlspace and stayed in the waiting_room.
-11 Owen moved the turnip to the red_bottle.
-12 Owen exited the crawlspace and stayed in the waiting_room.
-13 James, Ella and Logan entered the crawlspace.
-14 The turnip is in the red_bottle.
-15 James made no movements and stayed in the crawlspace for 10 minutes.
-16 James exited the crawlspace and stayed in the waiting_room.
-17 Ella moved the turnip to the green_container.
-18 Ella exited the crawlspace and stayed in the waiting_room.
-19 Logan moved the turnip to the blue_crate.
-20 Logan exited the crawlspace and stayed in the waiting_room.
-21 James publicly claimed that turnip is in the blue_crate.
-22 Logan privately told William that the turnip is actually in the blue_crate.
-Question: Where is the turnip really?
-Choices: A. red_bottle, B. green_container, C. blue_treasure_chest, D. green_cupboard, E. blue_crate, F. blue_basket, G. green_bathtub, H. red_bucket, I. red_drawer, J. blue_box, K. blue_bucket, L. blue_bathtub, M. blue_pantry, N. green_crate, O. red_bathtub
+1 Sophia dislikes the turnip.
+2 Sophia, Jackson, Owen, Jacob and Ethan entered the crawlspace.
+3 The peas is in the red_pantry.
+4 Sophia moved the peas to the green_bucket.
+5 Ethan likes the red_crate.
+6 Sophia exited the crawlspace and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+8 Jackson exited the crawlspace and stayed in the waiting_room.
+9 Owen moved the peas to the blue_cupboard.
+10 Owen exited the crawlspace and stayed in the waiting_room.
+11 Jacob moved the peas to the green_box.
+12 Jacob exited the crawlspace and stayed in the waiting_room.
+13 Ethan moved the peas to the red_pantry.
+14 Ethan exited the crawlspace and stayed in the waiting_room.
+15 Sophia, Ethan and Owen entered the porch.
+16 The onion is in the red_envelope.
+17 Sophia made no movements and stayed in the porch for 10 minutes.
+18 Sophia exited the porch and stayed in the waiting_room.
+19 Ethan made no movements and stayed in the porch for 10 minutes.
+20 Ethan exited the porch and stayed in the waiting_room.
+21 Owen made no movements and stayed in the porch for 10 minutes.
+22 Owen exited the porch and stayed in the waiting_room.
+23 Ethan privately told Owen that the onion is actually in the red_container.
+24 Owen privately told Jackson that the onion is actually in the red_envelope.
+Question: Where is the peas really?
+Choices: A. green_bottle, B. green_cupboard, C. green_bathtub, D. green_pantry, E. blue_crate, F. red_pantry, G. blue_cupboard, H. green_box, I. blue_drawer, J. green_bucket, K. red_container, L. red_envelope, M. red_basket, N. green_suitcase, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

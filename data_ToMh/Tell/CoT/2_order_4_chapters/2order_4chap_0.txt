@@ -1,45 +1,52 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Amelia, Hannah, Mila and Abigail entered the office.
-2 The strawberry is in the green_cupboard.
-3 Jackson moved the strawberry to the red_suitcase.
-4 Jackson exited the office and stayed in the waiting_room.
-5 Amelia made no movements and stayed in the office for 10 minutes.
-6 Amelia exited the office and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the office for 10 minutes.
-8 Hannah exited the office and stayed in the waiting_room.
-9 Mila moved the strawberry to the red_crate.
-10 Mila exited the office and stayed in the waiting_room.
-11 Abigail moved the strawberry to the green_cupboard.
-12 Abigail exited the office and stayed in the waiting_room.
-13 Abigail, Amelia and Jackson entered the dining_room.
-14 The peach is in the red_drawer.
-15 Abigail moved the peach to the blue_drawer.
-16 Abigail exited the dining_room and stayed in the waiting_room.
-17 Amelia made no movements and stayed in the dining_room for 10 minutes.
-18 Amelia exited the dining_room and stayed in the waiting_room.
-19 Jackson made no movements and stayed in the dining_room for 10 minutes.
-20 Jackson exited the dining_room and stayed in the waiting_room.
-21 Jackson publicly claimed that peach is in the red_drawer.
-22 Abigail privately told Jackson that the peach is actually in the green_treasure_chest.
-23 Abigail, Hannah, Amelia and Jackson entered the office.
-24 The apple is in the red_crate.
-25 Abigail moved the apple to the blue_box.
-26 Abigail exited the office and stayed in the waiting_room.
-27 Hannah made no movements and stayed in the office for 10 minutes.
-28 Hannah exited the office and stayed in the waiting_room.
-29 Amelia moved the apple to the red_suitcase.
-30 Amelia exited the office and stayed in the waiting_room.
-31 Jackson moved the apple to the green_cupboard.
-32 Jackson exited the office and stayed in the waiting_room.
-33 Jackson and Abigail entered the crawlspace.
-34 The pear is in the blue_basket.
-35 Jackson made no movements and stayed in the crawlspace for 10 minutes.
-36 Jackson exited the crawlspace and stayed in the waiting_room.
-37 Abigail made no movements and stayed in the crawlspace for 10 minutes.
-38 Abigail exited the crawlspace and stayed in the waiting_room.
-39 Abigail publicly claimed that pear is in the green_container.
-40 Jackson privately told Abigail that the pear is actually in the red_treasure_chest.
-Question: Where does Abigail think Hannah thinks the strawberry is?
-Answer: green_cupboard
-Choices: A. green_envelope, B. red_drawer, C. blue_drawer, D. red_bottle, E. green_treasure_chest, F. green_container, G. blue_basket, H. red_treasure_chest, I. blue_pantry, J. blue_bucket, K. green_cupboard, L. red_crate, M. blue_box, N. red_suitcase, O. green_bathtub
+1 Sophia, Mason, Jack, Amelia and Charlotte entered the dining_room.
+2 The tomato is in the green_envelope.
+3 Sophia moved the tomato to the blue_envelope.
+4 Sophia exited the dining_room and stayed in the waiting_room.
+5 Mason made no movements and stayed in the dining_room for 10 minutes.
+6 Mason exited the dining_room and stayed in the waiting_room.
+7 Jack made no movements and stayed in the dining_room for 10 minutes.
+8 Jack exited the dining_room and stayed in the waiting_room.
+9 Amelia moved the tomato to the red_container.
+10 Amelia exited the dining_room and stayed in the waiting_room.
+11 Sophia dislikes the peach.
+12 Charlotte made no movements and stayed in the dining_room for 10 minutes.
+13 Amelia lost his watch.
+14 Charlotte exited the dining_room and stayed in the waiting_room.
+15 Sophia, Amelia and Jack entered the basement.
+16 Jack saw a monkey.
+17 The peach is in the red_cupboard.
+18 Mason likes the red_treasure_chest.
+19 Sophia moved the peach to the red_crate.
+20 Sophia exited the basement and stayed in the waiting_room.
+21 Amelia made no movements and stayed in the basement for 10 minutes.
+22 Amelia exited the basement and stayed in the waiting_room.
+23 Jack made no movements and stayed in the basement for 10 minutes.
+24 Jack exited the basement and stayed in the waiting_room.
+25 Charlotte dislikes the celery.
+26 Jack publicly claimed that peach is in the blue_treasure_chest.
+27 Mason likes the red_envelope.
+28 Sophia privately told Jack that the peach is actually in the red_crate.
+29 Amelia, Charlotte, Jack and Mason entered the basement.
+30 Amelia dislikes the radish.
+31 The peach is in the red_crate.
+32 Amelia made no movements and stayed in the basement for 10 minutes.
+33 Amelia exited the basement and stayed in the waiting_room.
+34 Charlotte made no movements and stayed in the basement for 10 minutes.
+35 Charlotte exited the basement and stayed in the waiting_room.
+36 Jack made no movements and stayed in the basement for 10 minutes.
+37 Jack exited the basement and stayed in the waiting_room.
+38 Mason moved the peach to the red_cupboard.
+39 Mason exited the basement and stayed in the waiting_room.
+40 Jack and Mason entered the dining_room.
+41 The corn is in the red_container.
+42 Jack moved the corn to the blue_envelope.
+43 Jack exited the dining_room and stayed in the waiting_room.
+44 Mason moved the corn to the blue_crate.
+45 Mason exited the dining_room and stayed in the waiting_room.
+46 Jack publicly claimed that corn is in the red_container.
+47 Mason privately told Jack that the corn is actually in the blue_envelope.
+Question: Where does Mason think Sophia thinks the tomato is?
+Answer: blue_envelope
+Choices: A. green_envelope, B. red_container, C. blue_envelope, D. green_treasure_chest, E. blue_crate, F. green_pantry, G. red_cupboard, H. green_bathtub, I. red_crate, J. blue_treasure_chest, K. blue_bottle, L. blue_bucket, M. red_treasure_chest, N. red_envelope, O. green_cupboard

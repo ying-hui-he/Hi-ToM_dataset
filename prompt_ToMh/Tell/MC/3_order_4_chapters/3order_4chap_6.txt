@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aiden, William, Owen, Jayden and Jack entered the hallway.
-2 The plum is in the red_bottle.
-3 Aiden made no movements and stayed in the hallway for 10 minutes.
-4 Aiden exited the hallway and stayed in the waiting_room.
-5 William moved the plum to the blue_box.
-6 William exited the hallway and stayed in the waiting_room.
-7 Owen moved the plum to the green_suitcase.
-8 Owen exited the hallway and stayed in the waiting_room.
-9 Jayden moved the plum to the red_bucket.
-10 Jayden exited the hallway and stayed in the waiting_room.
-11 Jack made no movements and stayed in the hallway for 10 minutes.
-12 Jack exited the hallway and stayed in the waiting_room.
-13 William, Owen and Jack entered the hallway.
-14 The onion is in the green_envelope.
-15 William made no movements and stayed in the hallway for 10 minutes.
-16 William exited the hallway and stayed in the waiting_room.
-17 Owen moved the onion to the red_bottle.
-18 Owen exited the hallway and stayed in the waiting_room.
-19 Jack moved the onion to the blue_box.
-20 Jack exited the hallway and stayed in the waiting_room.
-21 Owen privately told Jack that the onion is actually in the green_suitcase.
-22 Jack privately told Jayden that the onion is actually in the blue_box.
-23 Aiden, Owen, William and Jayden entered the workshop.
-24 The banana is in the red_envelope.
-25 Aiden made no movements and stayed in the workshop for 10 minutes.
-26 Aiden exited the workshop and stayed in the waiting_room.
-27 Owen made no movements and stayed in the workshop for 10 minutes.
-28 Owen exited the workshop and stayed in the waiting_room.
-29 William made no movements and stayed in the workshop for 10 minutes.
-30 William exited the workshop and stayed in the waiting_room.
-31 Jayden moved the banana to the red_suitcase.
-32 Jayden exited the workshop and stayed in the waiting_room.
-33 Owen and Jack entered the hallway.
-34 The plum is in the red_bucket.
-35 Owen moved the plum to the green_suitcase.
-36 Owen exited the hallway and stayed in the waiting_room.
-37 Jack moved the plum to the red_bottle.
-38 Jack exited the hallway and stayed in the waiting_room.
-39 Jack publicly claimed that plum is in the red_bucket.
-40 Owen privately told Jack that the plum is actually in the blue_box.
-Question: Where does Jayden think Jack thinks William thinks the plum is?
-Choices: A. red_bottle, B. green_envelope, C. red_bucket, D. green_suitcase, E. blue_box, F. red_envelope, G. red_suitcase, H. red_container, I. green_crate, J. green_container, K. blue_bottle, L. blue_envelope, M. red_bathtub, N. blue_bathtub, O. red_treasure_chest
+1 Amelia, Ava, Owen, Ethan and Aria entered the back_yard.
+2 The grapefruit is in the red_bottle.
+3 Amelia moved the grapefruit to the green_pantry.
+4 Amelia exited the back_yard and stayed in the waiting_room.
+5 Ava made no movements and stayed in the back_yard for 10 minutes.
+6 Ava exited the back_yard and stayed in the waiting_room.
+7 Owen moved the grapefruit to the blue_envelope.
+8 Owen exited the back_yard and stayed in the waiting_room.
+9 Ethan likes the blue_bathtub.
+10 Ethan made no movements and stayed in the back_yard for 10 minutes.
+11 Ethan exited the back_yard and stayed in the waiting_room.
+12 Aria made no movements and stayed in the back_yard for 10 minutes.
+13 Aria exited the back_yard and stayed in the waiting_room.
+14 Owen, Ava and Ethan entered the closet.
+15 The pumpkin is in the blue_bucket.
+16 Owen made no movements and stayed in the closet for 10 minutes.
+17 Owen exited the closet and stayed in the waiting_room.
+18 Ava made no movements and stayed in the closet for 10 minutes.
+19 Ava exited the closet and stayed in the waiting_room.
+20 Ethan moved the pumpkin to the blue_drawer.
+21 Ethan exited the closet and stayed in the waiting_room.
+22 Ethan publicly claimed that pumpkin is in the blue_bucket.
+23 Owen privately told Ethan that the pumpkin is actually in the blue_bottle.
+24 Ava, Aria, Amelia and Ethan entered the cellar.
+25 The onion is in the blue_bathtub.
+26 Ava made no movements and stayed in the cellar for 10 minutes.
+27 Ava exited the cellar and stayed in the waiting_room.
+28 Aria moved the onion to the blue_treasure_chest.
+29 Aria exited the cellar and stayed in the waiting_room.
+30 Amelia moved the onion to the red_bucket.
+31 Amelia exited the cellar and stayed in the waiting_room.
+32 Ethan moved the onion to the green_box.
+33 Ethan exited the cellar and stayed in the waiting_room.
+34 Amelia and Ethan entered the closet.
+35 The potato is in the green_basket.
+36 Amelia made no movements and stayed in the closet for 10 minutes.
+37 Amelia exited the closet and stayed in the waiting_room.
+38 Ethan made no movements and stayed in the closet for 10 minutes.
+39 Owen saw a dog.
+40 Ethan exited the closet and stayed in the waiting_room.
+41 Ethan publicly claimed that potato is in the blue_bucket.
+42 Amelia privately told Ethan that the potato is actually in the blue_drawer.
+Question: Where does Ethan think Aria thinks Owen thinks the grapefruit is?
+Choices: A. red_bottle, B. blue_envelope, C. green_pantry, D. green_suitcase, E. green_bathtub, F. blue_bathtub, G. red_bathtub, H. green_box, I. red_bucket, J. blue_treasure_chest, K. blue_bucket, L. green_basket, M. red_basket, N. blue_bottle, O. blue_drawer
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

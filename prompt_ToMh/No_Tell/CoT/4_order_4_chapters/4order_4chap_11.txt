@@ -1,41 +1,51 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Benjamin, Owen, Oliver and Ella entered the sunroom.
-2 The plum is in the red_suitcase.
-3 Avery made no movements and stayed in the sunroom for 10 minutes.
-4 Avery exited the sunroom and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the sunroom for 10 minutes.
-6 Benjamin exited the sunroom and stayed in the waiting_room.
-7 Owen moved the plum to the green_bathtub.
-8 Owen exited the sunroom and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the sunroom for 10 minutes.
-10 Oliver exited the sunroom and stayed in the waiting_room.
-11 Ella moved the plum to the red_suitcase.
-12 Ella exited the sunroom and stayed in the waiting_room.
-13 Oliver, Avery and Owen entered the kitchen.
-14 The onion is in the red_envelope.
-15 Oliver made no movements and stayed in the kitchen for 10 minutes.
-16 Oliver exited the kitchen and stayed in the waiting_room.
-17 Avery made no movements and stayed in the kitchen for 10 minutes.
-18 Avery exited the kitchen and stayed in the waiting_room.
-19 Owen made no movements and stayed in the kitchen for 10 minutes.
-20 Owen exited the kitchen and stayed in the waiting_room.
-21 Benjamin, Avery, Oliver and Owen entered the sunroom.
-22 The plum is in the red_suitcase.
-23 Benjamin made no movements and stayed in the sunroom for 10 minutes.
-24 Benjamin exited the sunroom and stayed in the waiting_room.
-25 Avery made no movements and stayed in the sunroom for 10 minutes.
-26 Avery exited the sunroom and stayed in the waiting_room.
-27 Oliver moved the plum to the green_treasure_chest.
-28 Oliver exited the sunroom and stayed in the waiting_room.
-29 Owen made no movements and stayed in the sunroom for 10 minutes.
-30 Owen exited the sunroom and stayed in the waiting_room.
-31 Oliver and Ella entered the workshop.
-32 The radish is in the blue_envelope.
-33 Oliver made no movements and stayed in the workshop for 10 minutes.
-34 Oliver exited the workshop and stayed in the waiting_room.
-35 Ella made no movements and stayed in the workshop for 10 minutes.
-36 Ella exited the workshop and stayed in the waiting_room.
-Question: Where does Owen think Oliver thinks Ella thinks Avery thinks the plum is?
-Choices: A. red_suitcase, B. green_bathtub, C. red_bottle, D. green_treasure_chest, E. blue_suitcase, F. red_envelope, G. blue_pantry, H. green_bottle, I. red_treasure_chest, J. blue_container, K. red_drawer, L. blue_envelope, M. green_crate, N. red_basket, O. green_container
+1 Aiden, Owen, Mia, Abigail and Isabella entered the playroom.
+2 Isabella dislikes the pumpkin.
+3 The carrot is in the green_pantry.
+4 Owen dislikes the peach.
+5 Aiden made no movements and stayed in the playroom for 10 minutes.
+6 Aiden exited the playroom and stayed in the waiting_room.
+7 Aiden dislikes the pineapple.
+8 Owen made no movements and stayed in the playroom for 10 minutes.
+9 Owen exited the playroom and stayed in the waiting_room.
+10 Mia made no movements and stayed in the playroom for 10 minutes.
+11 Mia exited the playroom and stayed in the waiting_room.
+12 Aiden lost his phone.
+13 Abigail made no movements and stayed in the playroom for 10 minutes.
+14 Abigail exited the playroom and stayed in the waiting_room.
+15 Abigail lost his bottle.
+16 Isabella moved the carrot to the green_pantry.
+17 Isabella exited the playroom and stayed in the waiting_room.
+18 Owen, Abigail and Aiden entered the patio.
+19 The peach is in the blue_treasure_chest.
+20 Abigail likes the green_envelope.
+21 Owen moved the peach to the green_suitcase.
+22 Isabella dislikes the pineapple.
+23 Owen exited the patio and stayed in the waiting_room.
+24 Abigail made no movements and stayed in the patio for 10 minutes.
+25 Abigail exited the patio and stayed in the waiting_room.
+26 Aiden moved the peach to the blue_drawer.
+27 Aiden exited the patio and stayed in the waiting_room.
+28 Aiden, Owen, Isabella and Mia entered the front_yard.
+29 The pumpkin is in the blue_cupboard.
+30 Isabella dislikes the peach.
+31 Aiden moved the pumpkin to the red_bucket.
+32 Aiden exited the front_yard and stayed in the waiting_room.
+33 Abigail lost his bottle.
+34 Owen moved the pumpkin to the red_bathtub.
+35 Owen exited the front_yard and stayed in the waiting_room.
+36 Isabella made no movements and stayed in the front_yard for 10 minutes.
+37 Isabella exited the front_yard and stayed in the waiting_room.
+38 Mia made no movements and stayed in the front_yard for 10 minutes.
+39 Mia exited the front_yard and stayed in the waiting_room.
+40 Abigail and Isabella entered the front_yard.
+41 The pineapple is in the red_bucket.
+42 Abigail made no movements and stayed in the front_yard for 10 minutes.
+43 Abigail exited the front_yard and stayed in the waiting_room.
+44 Isabella moved the pineapple to the red_pantry.
+45 Isabella exited the front_yard and stayed in the waiting_room.
+Question: Where does Owen think Aiden thinks Abigail thinks Isabella thinks the carrot is?
+47 Aiden dislikes the pineapple.
+Choices: A. red_bucket, B. blue_cupboard, C. green_bucket, D. red_pantry, E. red_bathtub, F. blue_drawer, G. blue_treasure_chest, H. green_envelope, I. green_suitcase, J. green_bottle, K. green_pantry, L. red_crate, M. green_treasure_chest, N. green_cupboard, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

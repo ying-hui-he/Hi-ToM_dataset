@@ -1,39 +1,40 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Charlotte, Jacob, Hannah and Avery entered the dining_room.
-2 The grapefruit is in the red_basket.
-3 Carter moved the grapefruit to the red_drawer.
-4 Carter exited the dining_room and stayed in the waiting_room.
-5 Charlotte moved the grapefruit to the green_envelope.
-6 Charlotte exited the dining_room and stayed in the waiting_room.
-7 Jacob made no movements and stayed in the dining_room for 10 minutes.
-8 Jacob exited the dining_room and stayed in the waiting_room.
-9 Hannah made no movements and stayed in the dining_room for 10 minutes.
-10 Hannah exited the dining_room and stayed in the waiting_room.
-11 Avery made no movements and stayed in the dining_room for 10 minutes.
-12 Avery exited the dining_room and stayed in the waiting_room.
-13 Hannah publicly claimed that grapefruit is in the red_drawer.
-14 Avery privately told Carter that the grapefruit is actually in the green_envelope.
-15 Jacob, Carter and Charlotte entered the dining_room.
-16 The grapefruit is in the green_envelope.
-17 Jacob made no movements and stayed in the dining_room for 10 minutes.
-18 Jacob exited the dining_room and stayed in the waiting_room.
-19 Carter moved the grapefruit to the red_basket.
-20 Carter exited the dining_room and stayed in the waiting_room.
-21 Charlotte made no movements and stayed in the dining_room for 10 minutes.
-22 Charlotte exited the dining_room and stayed in the waiting_room.
-23 Hannah, Jacob, Charlotte and Avery entered the dining_room.
-24 The beans is in the red_drawer.
-25 Hannah moved the beans to the green_envelope.
-26 Hannah exited the dining_room and stayed in the waiting_room.
-27 Jacob moved the beans to the red_bottle.
-28 Jacob exited the dining_room and stayed in the waiting_room.
-29 Charlotte made no movements and stayed in the dining_room for 10 minutes.
-30 Charlotte exited the dining_room and stayed in the waiting_room.
-31 Avery moved the beans to the red_basket.
-32 Avery exited the dining_room and stayed in the waiting_room.
-33 Jacob publicly claimed that beans is in the red_bottle.
-34 Avery privately told Charlotte that the beans is actually in the green_bathtub.
-Question: Where does Avery think Charlotte thinks Hannah thinks the grapefruit is?
-Choices: A. green_cupboard, B. green_container, C. green_bottle, D. blue_bucket, E. green_crate, F. red_drawer, G. red_basket, H. red_bottle, I. green_bathtub, J. green_envelope, K. red_bucket, L. red_treasure_chest, M. blue_suitcase, N. red_crate, O. green_treasure_chest
+1 Aria, Jackson, Emily, Alexander and Gracie entered the kitchen.
+2 The watermelon is in the blue_drawer.
+3 Aria moved the watermelon to the blue_bathtub.
+4 Aria exited the kitchen and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the kitchen for 10 minutes.
+6 Jackson exited the kitchen and stayed in the waiting_room.
+7 Emily moved the watermelon to the green_bucket.
+8 Emily exited the kitchen and stayed in the waiting_room.
+9 Alexander made no movements and stayed in the kitchen for 10 minutes.
+10 Gracie likes the blue_treasure_chest.
+11 Alexander exited the kitchen and stayed in the waiting_room.
+12 Gracie moved the watermelon to the blue_drawer.
+13 Gracie exited the kitchen and stayed in the waiting_room.
+14 Emily privately told Aria that the watermelon is actually in the green_bucket.
+15 Jackson privately told Alexander that the watermelon is actually in the blue_crate.
+16 Gracie, Emily and Alexander entered the garage.
+17 The apple is in the green_cupboard.
+18 Gracie made no movements and stayed in the garage for 10 minutes.
+19 Gracie exited the garage and stayed in the waiting_room.
+20 Emily made no movements and stayed in the garage for 10 minutes.
+21 Emily exited the garage and stayed in the waiting_room.
+22 Alexander moved the apple to the red_container.
+23 Alexander exited the garage and stayed in the waiting_room.
+24 Emily, Jackson, Aria and Alexander entered the garage.
+25 The apple is in the red_container.
+26 Emily made no movements and stayed in the garage for 10 minutes.
+27 Emily exited the garage and stayed in the waiting_room.
+28 Jackson moved the apple to the green_treasure_chest.
+29 Jackson exited the garage and stayed in the waiting_room.
+30 Aria moved the apple to the green_cupboard.
+31 Aria exited the garage and stayed in the waiting_room.
+32 Alexander made no movements and stayed in the garage for 10 minutes.
+33 Alexander exited the garage and stayed in the waiting_room.
+34 Aria publicly claimed that apple is in the red_bottle.
+35 Emily privately told Alexander that the apple is actually in the red_crate.
+Question: Where does Emily think Gracie thinks Alexander thinks the watermelon is?
+Choices: A. red_bucket, B. red_box, C. red_envelope, D. green_envelope, E. blue_treasure_chest, F. red_crate, G. green_cupboard, H. red_container, I. green_treasure_chest, J. red_bottle, K. green_bucket, L. blue_drawer, M. blue_bathtub, N. blue_crate, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

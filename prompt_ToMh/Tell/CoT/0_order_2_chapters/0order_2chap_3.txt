@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Owen, Gracie, Amelia, James and Abigail entered the study.
-2 The pear is in the green_treasure_chest.
-3 Owen made no movements and stayed in the study for 10 minutes.
-4 Owen exited the study and stayed in the waiting_room.
-5 Gracie made no movements and stayed in the study for 10 minutes.
-6 Gracie exited the study and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the study for 10 minutes.
-8 Amelia exited the study and stayed in the waiting_room.
-9 James moved the pear to the red_container.
-10 James exited the study and stayed in the waiting_room.
-11 Abigail made no movements and stayed in the study for 10 minutes.
-12 Abigail exited the study and stayed in the waiting_room.
-13 Amelia, James and Owen entered the study.
-14 The radish is in the green_bathtub.
-15 Amelia moved the radish to the green_treasure_chest.
-16 Amelia exited the study and stayed in the waiting_room.
-17 James made no movements and stayed in the study for 10 minutes.
-18 James exited the study and stayed in the waiting_room.
-19 Owen made no movements and stayed in the study for 10 minutes.
-20 Owen exited the study and stayed in the waiting_room.
-21 Owen publicly claimed that radish is in the green_bottle.
-22 Amelia privately told Owen that the radish is actually in the green_bathtub.
-Question: Where is the pear really?
-Choices: A. green_suitcase, B. green_envelope, C. red_crate, D. red_suitcase, E. red_treasure_chest, F. blue_treasure_chest, G. red_bottle, H. red_basket, I. blue_container, J. blue_bottle, K. green_bathtub, L. green_treasure_chest, M. red_envelope, N. green_bottle, O. red_container
+1 Jacob, Abigail, Ethan, Amelia and Alexander entered the office.
+2 The potato is in the red_bathtub.
+3 Jacob made no movements and stayed in the office for 10 minutes.
+4 Jacob exited the office and stayed in the waiting_room.
+5 Abigail made no movements and stayed in the office for 10 minutes.
+6 Abigail exited the office and stayed in the waiting_room.
+7 Ethan made no movements and stayed in the office for 10 minutes.
+8 Ethan exited the office and stayed in the waiting_room.
+9 Amelia moved the potato to the green_basket.
+10 Amelia exited the office and stayed in the waiting_room.
+11 Alexander made no movements and stayed in the office for 10 minutes.
+12 Alexander exited the office and stayed in the waiting_room.
+13 Amelia, Abigail and Alexander entered the office.
+14 The potato is in the green_basket.
+15 Amelia moved the potato to the red_bathtub.
+16 Amelia exited the office and stayed in the waiting_room.
+17 Abigail made no movements and stayed in the office for 10 minutes.
+18 Abigail exited the office and stayed in the waiting_room.
+19 Alexander moved the potato to the green_bathtub.
+20 Alexander exited the office and stayed in the waiting_room.
+21 Abigail privately told Alexander that the potato is actually in the green_envelope.
+22 Alexander privately told Jacob that the potato is actually in the green_bathtub.
+Question: Where is the potato really?
+Choices: A. red_box, B. green_bucket, C. red_bottle, D. blue_envelope, E. blue_bottle, F. red_bathtub, G. red_crate, H. green_basket, I. green_envelope, J. green_bathtub, K. red_container, L. blue_treasure_chest, M. blue_cupboard, N. blue_bucket, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

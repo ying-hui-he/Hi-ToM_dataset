@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Aria, Jayden, Amelia and William entered the lounge.
-2 The pumpkin is in the blue_treasure_chest.
-3 Jackson moved the pumpkin to the blue_suitcase.
-4 Jackson exited the lounge and stayed in the waiting_room.
-5 Aria made no movements and stayed in the lounge for 10 minutes.
-6 Aria exited the lounge and stayed in the waiting_room.
-7 Jayden made no movements and stayed in the lounge for 10 minutes.
-8 Jayden exited the lounge and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the lounge for 10 minutes.
-10 Amelia exited the lounge and stayed in the waiting_room.
-11 William moved the pumpkin to the blue_treasure_chest.
-12 William exited the lounge and stayed in the waiting_room.
-13 Jackson, Aria and Jayden entered the garden.
-14 The peach is in the red_bathtub.
-15 Jackson made no movements and stayed in the garden for 10 minutes.
-16 Jackson exited the garden and stayed in the waiting_room.
-17 Aria moved the peach to the green_crate.
-18 Aria exited the garden and stayed in the waiting_room.
-19 Jayden moved the peach to the green_envelope.
-20 Jayden exited the garden and stayed in the waiting_room.
-21 Jayden, Amelia, Aria and William entered the basement.
-22 The potato is in the blue_container.
-23 Jayden made no movements and stayed in the basement for 10 minutes.
-24 Jayden exited the basement and stayed in the waiting_room.
-25 Amelia moved the potato to the green_suitcase.
-26 Amelia exited the basement and stayed in the waiting_room.
-27 Aria made no movements and stayed in the basement for 10 minutes.
-28 Aria exited the basement and stayed in the waiting_room.
-29 William moved the potato to the blue_bucket.
-30 William exited the basement and stayed in the waiting_room.
-31 Amelia and Aria entered the garden.
-32 The peach is in the green_envelope.
-33 Amelia moved the peach to the blue_envelope.
-34 Amelia exited the garden and stayed in the waiting_room.
-35 Aria made no movements and stayed in the garden for 10 minutes.
-36 Aria exited the garden and stayed in the waiting_room.
-Question: Where is the pumpkin really?
-Choices: A. red_bathtub, B. green_envelope, C. blue_envelope, D. green_bottle, E. green_crate, F. blue_container, G. blue_bucket, H. red_bucket, I. green_suitcase, J. red_basket, K. blue_treasure_chest, L. red_treasure_chest, M. green_container, N. blue_suitcase, O. red_suitcase
+1 Ava, Isabella, Jacob, Lucas and Aria entered the den.
+2 Aria saw a cat.
+3 The eggplant is in the blue_crate.
+4 Ava moved the eggplant to the red_basket.
+5 Ava exited the den and stayed in the waiting_room.
+6 Isabella moved the eggplant to the green_box.
+7 Isabella exited the den and stayed in the waiting_room.
+8 Jacob moved the eggplant to the red_treasure_chest.
+9 Aria saw a dog.
+10 Jacob exited the den and stayed in the waiting_room.
+11 Lucas moved the eggplant to the green_bottle.
+12 Lucas exited the den and stayed in the waiting_room.
+13 Aria made no movements and stayed in the den for 10 minutes.
+14 Aria exited the den and stayed in the waiting_room.
+15 Jacob, Lucas and Ava entered the office.
+16 The celery is in the red_bathtub.
+17 Jacob moved the celery to the blue_bottle.
+18 Jacob exited the office and stayed in the waiting_room.
+19 Lucas moved the celery to the green_pantry.
+20 Lucas exited the office and stayed in the waiting_room.
+21 Ava made no movements and stayed in the office for 10 minutes.
+22 Ava exited the office and stayed in the waiting_room.
+23 Jacob, Lucas, Isabella and Ava entered the den.
+24 The tomato is in the red_treasure_chest.
+25 Jacob made no movements and stayed in the den for 10 minutes.
+26 Jacob exited the den and stayed in the waiting_room.
+27 Lucas made no movements and stayed in the den for 10 minutes.
+28 Ava lost his watch.
+29 Lucas exited the den and stayed in the waiting_room.
+30 Isabella made no movements and stayed in the den for 10 minutes.
+31 Isabella exited the den and stayed in the waiting_room.
+32 Ava made no movements and stayed in the den for 10 minutes.
+33 Ava exited the den and stayed in the waiting_room.
+34 Aria and Jacob entered the den.
+35 The eggplant is in the green_bottle.
+36 Aria made no movements and stayed in the den for 10 minutes.
+37 Aria exited the den and stayed in the waiting_room.
+38 Jacob made no movements and stayed in the den for 10 minutes.
+39 Jacob exited the den and stayed in the waiting_room.
+Question: Where is the eggplant really?
+Choices: A. green_suitcase, B. green_bucket, C. red_cupboard, D. blue_suitcase, E. green_envelope, F. blue_crate, G. red_treasure_chest, H. red_basket, I. green_bottle, J. green_box, K. red_bathtub, L. red_pantry, M. blue_bottle, N. green_cupboard, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

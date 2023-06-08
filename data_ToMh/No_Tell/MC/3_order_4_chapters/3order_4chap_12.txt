@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jack, William, Benjamin, Isla and Logan entered the office.
-2 The pear is in the blue_bottle.
-3 Jack made no movements and stayed in the office for 10 minutes.
-4 Jack exited the office and stayed in the waiting_room.
-5 William made no movements and stayed in the office for 10 minutes.
-6 William exited the office and stayed in the waiting_room.
-7 Benjamin moved the pear to the blue_bucket.
-8 Benjamin exited the office and stayed in the waiting_room.
-9 Isla moved the pear to the red_bucket.
-10 Isla exited the office and stayed in the waiting_room.
-11 Logan moved the pear to the blue_bottle.
-12 Logan exited the office and stayed in the waiting_room.
-13 Isla, Jack and Benjamin entered the crawlspace.
-14 The apple is in the blue_box.
-15 Isla made no movements and stayed in the crawlspace for 10 minutes.
-16 Isla exited the crawlspace and stayed in the waiting_room.
-17 Jack made no movements and stayed in the crawlspace for 10 minutes.
-18 Jack exited the crawlspace and stayed in the waiting_room.
-19 Benjamin made no movements and stayed in the crawlspace for 10 minutes.
-20 Benjamin exited the crawlspace and stayed in the waiting_room.
-21 Logan, William, Isla and Benjamin entered the office.
-22 The asparagus is in the red_bathtub.
-23 Logan moved the asparagus to the blue_bottle.
-24 Logan exited the office and stayed in the waiting_room.
-25 William moved the asparagus to the blue_bucket.
-26 William exited the office and stayed in the waiting_room.
-27 Isla made no movements and stayed in the office for 10 minutes.
-28 Isla exited the office and stayed in the waiting_room.
-29 Benjamin made no movements and stayed in the office for 10 minutes.
-30 Benjamin exited the office and stayed in the waiting_room.
-31 Jack and William entered the crawlspace.
-32 The banana is in the green_envelope.
-33 Jack moved the banana to the green_bathtub.
-34 Jack exited the crawlspace and stayed in the waiting_room.
-35 William made no movements and stayed in the crawlspace for 10 minutes.
-36 William exited the crawlspace and stayed in the waiting_room.
-Question: Where does Benjamin think Jack thinks William thinks the pear is?
+1 Jacob, Gracie, Chloe, Mila and Jackson entered the dining_room.
+2 The tomato is in the blue_drawer.
+3 Jacob moved the tomato to the green_cupboard.
+4 Jacob exited the dining_room and stayed in the waiting_room.
+5 Gracie moved the tomato to the red_basket.
+6 Gracie exited the dining_room and stayed in the waiting_room.
+7 Chloe moved the tomato to the green_bucket.
+8 Chloe exited the dining_room and stayed in the waiting_room.
+9 Mila moved the tomato to the red_cupboard.
+10 Jacob likes the red_treasure_chest.
+11 Mila exited the dining_room and stayed in the waiting_room.
+12 Jackson made no movements and stayed in the dining_room for 10 minutes.
+13 Jackson exited the dining_room and stayed in the waiting_room.
+14 Mila, Gracie and Chloe entered the back_yard.
+15 The tangerine is in the blue_treasure_chest.
+16 Mila moved the tangerine to the green_bottle.
+17 Mila exited the back_yard and stayed in the waiting_room.
+18 Gracie made no movements and stayed in the back_yard for 10 minutes.
+19 Gracie exited the back_yard and stayed in the waiting_room.
+20 Chloe moved the tangerine to the green_bathtub.
+21 Chloe exited the back_yard and stayed in the waiting_room.
+22 Jacob, Jackson, Mila and Chloe entered the back_yard.
+23 The tangerine is in the green_bathtub.
+24 Jacob moved the tangerine to the blue_envelope.
+25 Jacob exited the back_yard and stayed in the waiting_room.
+26 Jackson made no movements and stayed in the back_yard for 10 minutes.
+27 Mila saw a monkey.
+28 Jackson exited the back_yard and stayed in the waiting_room.
+29 Mila made no movements and stayed in the back_yard for 10 minutes.
+30 Mila exited the back_yard and stayed in the waiting_room.
+31 Chloe made no movements and stayed in the back_yard for 10 minutes.
+32 Chloe exited the back_yard and stayed in the waiting_room.
+33 Chloe and Mila entered the dining_room.
+34 The pineapple is in the red_basket.
+35 Chloe made no movements and stayed in the dining_room for 10 minutes.
+36 Chloe exited the dining_room and stayed in the waiting_room.
+37 Mila made no movements and stayed in the dining_room for 10 minutes.
+38 Mila exited the dining_room and stayed in the waiting_room.
+Question: Where does Jackson think Chloe thinks Gracie thinks the tomato is?
 Answer: None
-Choices: A. red_bathtub, B. blue_bottle, C. red_container, D. blue_bucket, E. red_bucket, F. blue_box, G. green_envelope, H. red_envelope, I. green_bathtub, J. blue_bathtub, K. red_bottle, L. blue_suitcase, M. blue_envelope, N. blue_container, O. red_crate
+Choices: A. blue_treasure_chest, B. green_bathtub, C. blue_suitcase, D. green_bottle, E. blue_envelope, F. red_basket, G. blue_drawer, H. green_cupboard, I. green_bucket, J. red_cupboard, K. blue_cupboard, L. red_treasure_chest, M. red_container, N. green_envelope, O. blue_crate

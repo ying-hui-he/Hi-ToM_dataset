@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emily, Aiden, Carter, Noah and Evelyn entered the office.
-2 The cherry is in the green_cupboard.
-3 Emily made no movements and stayed in the office for 10 minutes.
-4 Emily exited the office and stayed in the waiting_room.
-5 Aiden moved the cherry to the red_drawer.
-6 Aiden exited the office and stayed in the waiting_room.
-7 Carter made no movements and stayed in the office for 10 minutes.
-8 Carter exited the office and stayed in the waiting_room.
-9 Noah moved the cherry to the green_bathtub.
-10 Noah exited the office and stayed in the waiting_room.
-11 Evelyn made no movements and stayed in the office for 10 minutes.
-12 Evelyn exited the office and stayed in the waiting_room.
-13 Carter publicly claimed that cherry is in the blue_pantry.
-14 Evelyn privately told Carter that the cherry is actually in the green_bathtub.
-Question: Where does Carter think Noah thinks the cherry is?
-Choices: A. green_envelope, B. red_envelope, C. blue_drawer, D. red_bucket, E. blue_container, F. green_cupboard, G. red_bathtub, H. blue_pantry, I. red_drawer, J. green_bathtub, K. red_treasure_chest, L. red_crate, M. blue_suitcase, N. green_bottle, O. blue_bottle
+1 Charlotte, Hannah, Logan, Amelia and Owen entered the workshop.
+2 The banana is in the green_bucket.
+3 Charlotte moved the banana to the green_bathtub.
+4 Charlotte exited the workshop and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the workshop for 10 minutes.
+6 Hannah exited the workshop and stayed in the waiting_room.
+7 Logan moved the banana to the green_box.
+8 Logan exited the workshop and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the workshop for 10 minutes.
+10 Amelia exited the workshop and stayed in the waiting_room.
+11 Owen made no movements and stayed in the workshop for 10 minutes.
+12 Owen exited the workshop and stayed in the waiting_room.
+13 Logan privately told Charlotte that the banana is actually in the red_box.
+14 Hannah privately told Amelia that the banana is actually in the blue_bucket.
+Question: Where does Charlotte think Owen thinks the banana is?
+Choices: A. blue_envelope, B. blue_bottle, C. red_pantry, D. red_basket, E. green_envelope, F. blue_drawer, G. red_envelope, H. green_suitcase, I. blue_crate, J. blue_bathtub, K. green_bucket, L. green_box, M. blue_bucket, N. red_box, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

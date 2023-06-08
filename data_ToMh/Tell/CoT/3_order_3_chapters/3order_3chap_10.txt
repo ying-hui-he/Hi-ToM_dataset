@@ -1,39 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Olivia, Jayden, Evelyn, Jacob and Hannah entered the TV_room.
-2 The lime is in the red_bathtub.
-3 Olivia moved the lime to the green_envelope.
-4 Olivia exited the TV_room and stayed in the waiting_room.
-5 Jayden made no movements and stayed in the TV_room for 10 minutes.
-6 Jayden exited the TV_room and stayed in the waiting_room.
-7 Evelyn moved the lime to the red_treasure_chest.
-8 Evelyn exited the TV_room and stayed in the waiting_room.
-9 Jacob made no movements and stayed in the TV_room for 10 minutes.
-10 Jacob exited the TV_room and stayed in the waiting_room.
-11 Hannah moved the lime to the red_bathtub.
-12 Hannah exited the TV_room and stayed in the waiting_room.
-13 Evelyn publicly claimed that lime is in the red_treasure_chest.
-14 Hannah privately told Evelyn that the lime is actually in the red_bathtub.
-15 Evelyn, Olivia and Hannah entered the workshop.
-16 The asparagus is in the blue_bucket.
-17 Evelyn made no movements and stayed in the workshop for 10 minutes.
-18 Evelyn exited the workshop and stayed in the waiting_room.
-19 Olivia moved the asparagus to the blue_box.
-20 Olivia exited the workshop and stayed in the waiting_room.
-21 Hannah made no movements and stayed in the workshop for 10 minutes.
-22 Hannah exited the workshop and stayed in the waiting_room.
-23 Evelyn, Olivia, Hannah and Jayden entered the workshop.
-24 The asparagus is in the blue_box.
-25 Evelyn made no movements and stayed in the workshop for 10 minutes.
-26 Evelyn exited the workshop and stayed in the waiting_room.
-27 Olivia moved the asparagus to the green_container.
-28 Olivia exited the workshop and stayed in the waiting_room.
-29 Hannah moved the asparagus to the blue_envelope.
-30 Hannah exited the workshop and stayed in the waiting_room.
-31 Jayden made no movements and stayed in the workshop for 10 minutes.
-32 Jayden exited the workshop and stayed in the waiting_room.
-33 Hannah publicly claimed that asparagus is in the blue_container.
-34 Evelyn privately told Jayden that the asparagus is actually in the blue_bucket.
-Question: Where does Jayden think Hannah thinks Olivia thinks the lime is?
-Answer: green_envelope
-Choices: A. blue_drawer, B. red_bathtub, C. green_cupboard, D. green_envelope, E. red_treasure_chest, F. red_bucket, G. red_bottle, H. green_treasure_chest, I. green_bathtub, J. red_container, K. blue_box, L. blue_bucket, M. blue_container, N. blue_envelope, O. green_container
+1 Jack, Gracie, Chloe, Mason and Ella entered the den.
+2 The peach is in the blue_cupboard.
+3 Jack made no movements and stayed in the den for 10 minutes.
+4 Jack exited the den and stayed in the waiting_room.
+5 Gracie moved the peach to the red_box.
+6 Gracie exited the den and stayed in the waiting_room.
+7 Chloe made no movements and stayed in the den for 10 minutes.
+8 Ella likes the red_box.
+9 Chloe exited the den and stayed in the waiting_room.
+10 Mason moved the peach to the green_pantry.
+11 Jack saw a mouse.
+12 Mason exited the den and stayed in the waiting_room.
+13 Ella moved the peach to the blue_cupboard.
+14 Ella exited the den and stayed in the waiting_room.
+15 Chloe privately told Jack that the peach is actually in the blue_cupboard.
+16 Gracie privately told Mason that the peach is actually in the red_basket.
+17 Gracie, Mason and Jack entered the garden.
+18 Jack saw a mouse.
+19 The carrot is in the red_cupboard.
+20 Gracie moved the carrot to the green_bathtub.
+21 Jack dislikes the carrot.
+22 Gracie exited the garden and stayed in the waiting_room.
+23 Mason made no movements and stayed in the garden for 10 minutes.
+24 Mason exited the garden and stayed in the waiting_room.
+25 Jack made no movements and stayed in the garden for 10 minutes.
+26 Chloe dislikes the apple.
+27 Jack exited the garden and stayed in the waiting_room.
+28 Jack lost his bottle.
+29 Mason, Ella, Chloe and Gracie entered the hallway.
+30 The potato is in the red_container.
+31 Mason moved the potato to the blue_bathtub.
+32 Mason exited the hallway and stayed in the waiting_room.
+33 Ella moved the potato to the red_bottle.
+34 Ella exited the hallway and stayed in the waiting_room.
+35 Chloe moved the potato to the blue_treasure_chest.
+36 Chloe exited the hallway and stayed in the waiting_room.
+37 Gracie moved the potato to the red_treasure_chest.
+38 Gracie exited the hallway and stayed in the waiting_room.
+39 Ella publicly claimed that potato is in the blue_bathtub.
+40 Gracie privately told Chloe that the potato is actually in the red_treasure_chest.
+Question: Where does Gracie think Chloe thinks Ella thinks the peach is?
+Answer: blue_cupboard
+Choices: A. green_bucket, B. blue_cupboard, C. red_basket, D. red_box, E. green_pantry, F. red_container, G. red_bottle, H. blue_treasure_chest, I. red_treasure_chest, J. blue_bathtub, K. red_cupboard, L. green_cupboard, M. green_basket, N. green_bathtub, O. blue_drawer

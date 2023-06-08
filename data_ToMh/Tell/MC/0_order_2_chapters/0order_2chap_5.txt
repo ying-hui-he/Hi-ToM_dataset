@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Ethan, Charlotte, Mila and Hannah entered the kitchen.
-2 The banana is in the red_envelope.
-3 Olivia moved the banana to the blue_bucket.
-4 Olivia exited the kitchen and stayed in the waiting_room.
-5 Ethan moved the banana to the red_container.
-6 Ethan exited the kitchen and stayed in the waiting_room.
-7 Charlotte moved the banana to the green_suitcase.
-8 Charlotte exited the kitchen and stayed in the waiting_room.
-9 Mila made no movements and stayed in the kitchen for 10 minutes.
-10 Mila exited the kitchen and stayed in the waiting_room.
-11 Hannah moved the banana to the red_envelope.
-12 Hannah exited the kitchen and stayed in the waiting_room.
-13 Hannah, Olivia and Ethan entered the office.
-14 The green_pepper is in the green_bathtub.
-15 Hannah made no movements and stayed in the office for 10 minutes.
-16 Hannah exited the office and stayed in the waiting_room.
-17 Olivia moved the green_pepper to the green_container.
-18 Olivia exited the office and stayed in the waiting_room.
-19 Ethan moved the green_pepper to the blue_suitcase.
-20 Ethan exited the office and stayed in the waiting_room.
-21 Hannah publicly claimed that green_pepper is in the red_drawer.
-22 Ethan privately told Mila that the green_pepper is actually in the blue_suitcase.
-Question: Where is the banana really?
-Answer: red_envelope
-Choices: A. green_bathtub, B. red_drawer, C. green_container, D. blue_pantry, E. blue_suitcase, F. red_bucket, G. blue_bottle, H. red_treasure_chest, I. blue_drawer, J. green_cupboard, K. red_container, L. red_envelope, M. red_crate, N. green_suitcase, O. blue_bucket
+1 Aiden, Jackson, Liam, Gracie and Ethan entered the patio.
+2 Jackson lost his watch.
+3 The lemon is in the blue_crate.
+4 Liam lost his bottle.
+5 Aiden made no movements and stayed in the patio for 10 minutes.
+6 Liam likes the green_bucket.
+7 Aiden exited the patio and stayed in the waiting_room.
+8 Jackson moved the lemon to the green_basket.
+9 Jackson exited the patio and stayed in the waiting_room.
+10 Liam made no movements and stayed in the patio for 10 minutes.
+11 Gracie dislikes the radish.
+12 Liam exited the patio and stayed in the waiting_room.
+13 Gracie made no movements and stayed in the patio for 10 minutes.
+14 Gracie exited the patio and stayed in the waiting_room.
+15 Ethan made no movements and stayed in the patio for 10 minutes.
+16 Ethan exited the patio and stayed in the waiting_room.
+17 Liam, Jackson and Aiden entered the living_room.
+18 The turnip is in the blue_drawer.
+19 Liam made no movements and stayed in the living_room for 10 minutes.
+20 Liam exited the living_room and stayed in the waiting_room.
+21 Jackson moved the turnip to the blue_bottle.
+22 Jackson exited the living_room and stayed in the waiting_room.
+23 Aiden made no movements and stayed in the living_room for 10 minutes.
+24 Aiden exited the living_room and stayed in the waiting_room.
+25 Jackson privately told Aiden that the turnip is actually in the red_box.
+26 Aiden privately told Ethan that the turnip is actually in the blue_bottle.
+Question: Where is the lemon really?
+Answer: green_basket
+Choices: A. blue_crate, B. red_container, C. green_suitcase, D. green_bucket, E. green_basket, F. blue_drawer, G. red_crate, H. blue_bottle, I. red_cupboard, J. red_box, K. green_pantry, L. blue_suitcase, M. blue_bathtub, N. red_bottle, O. blue_envelope

@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Emily, Owen, Jack and Logan entered the living_room.
-2 The beans is in the green_bathtub.
-3 Ella made no movements and stayed in the living_room for 10 minutes.
-4 Ella exited the living_room and stayed in the waiting_room.
-5 Emily made no movements and stayed in the living_room for 10 minutes.
-6 Emily exited the living_room and stayed in the waiting_room.
-7 Owen made no movements and stayed in the living_room for 10 minutes.
-8 Owen exited the living_room and stayed in the waiting_room.
-9 Jack moved the beans to the red_crate.
-10 Jack exited the living_room and stayed in the waiting_room.
-11 Logan moved the beans to the green_bathtub.
-12 Logan exited the living_room and stayed in the waiting_room.
-13 Emily, Ella and Owen entered the pantry.
-14 The corn is in the red_envelope.
-15 Emily moved the corn to the blue_bathtub.
-16 Emily exited the pantry and stayed in the waiting_room.
-17 Ella moved the corn to the red_bucket.
-18 Ella exited the pantry and stayed in the waiting_room.
-19 Owen made no movements and stayed in the pantry for 10 minutes.
-20 Owen exited the pantry and stayed in the waiting_room.
-21 Jack, Logan, Owen and Emily entered the master_bedroom.
-22 The banana is in the blue_box.
-23 Jack made no movements and stayed in the master_bedroom for 10 minutes.
-24 Jack exited the master_bedroom and stayed in the waiting_room.
-25 Logan moved the banana to the blue_container.
-26 Logan exited the master_bedroom and stayed in the waiting_room.
-27 Owen made no movements and stayed in the master_bedroom for 10 minutes.
-28 Owen exited the master_bedroom and stayed in the waiting_room.
-29 Emily made no movements and stayed in the master_bedroom for 10 minutes.
-30 Emily exited the master_bedroom and stayed in the waiting_room.
-31 Ella and Emily entered the living_room.
-32 The beans is in the green_bathtub.
-33 Ella moved the beans to the green_envelope.
-34 Ella exited the living_room and stayed in the waiting_room.
-35 Emily made no movements and stayed in the living_room for 10 minutes.
-36 Emily exited the living_room and stayed in the waiting_room.
-Question: Where does Logan think Ella thinks Owen thinks Jack thinks the beans is?
-Choices: A. red_envelope, B. red_bottle, C. red_bucket, D. green_crate, E. blue_bathtub, F. green_envelope, G. green_bathtub, H. green_bottle, I. green_suitcase, J. red_crate, K. blue_treasure_chest, L. blue_box, M. blue_container, N. red_bathtub, O. blue_crate
+1 Isabella lost his phone.
+2 Jayden, Abigail, Nathan, Amelia and Isabella entered the hall.
+3 The asparagus is in the green_pantry.
+4 Jayden made no movements and stayed in the hall for 10 minutes.
+5 Jayden exited the hall and stayed in the waiting_room.
+6 Abigail made no movements and stayed in the hall for 10 minutes.
+7 Abigail exited the hall and stayed in the waiting_room.
+8 Nathan moved the asparagus to the red_crate.
+9 Nathan lost his watch.
+10 Nathan exited the hall and stayed in the waiting_room.
+11 Amelia made no movements and stayed in the hall for 10 minutes.
+12 Amelia exited the hall and stayed in the waiting_room.
+13 Isabella moved the asparagus to the green_pantry.
+14 Isabella exited the hall and stayed in the waiting_room.
+15 Nathan, Jayden and Abigail entered the porch.
+16 The peach is in the blue_cupboard.
+17 Nathan moved the peach to the red_box.
+18 Nathan exited the porch and stayed in the waiting_room.
+19 Jayden made no movements and stayed in the porch for 10 minutes.
+20 Jayden exited the porch and stayed in the waiting_room.
+21 Abigail moved the peach to the green_box.
+22 Abigail exited the porch and stayed in the waiting_room.
+23 Abigail, Jayden, Nathan and Amelia entered the hall.
+24 The turnip is in the red_container.
+25 Abigail made no movements and stayed in the hall for 10 minutes.
+26 Abigail exited the hall and stayed in the waiting_room.
+27 Jayden made no movements and stayed in the hall for 10 minutes.
+28 Jayden exited the hall and stayed in the waiting_room.
+29 Nathan made no movements and stayed in the hall for 10 minutes.
+30 Nathan exited the hall and stayed in the waiting_room.
+31 Amelia made no movements and stayed in the hall for 10 minutes.
+32 Amelia exited the hall and stayed in the waiting_room.
+33 Abigail and Jayden entered the porch.
+34 The peach is in the green_box.
+35 Abigail moved the peach to the red_bathtub.
+36 Abigail exited the porch and stayed in the waiting_room.
+37 Jayden made no movements and stayed in the porch for 10 minutes.
+38 Nathan dislikes the beans.
+39 Jayden exited the porch and stayed in the waiting_room.
+Question: Where does Nathan think Abigail thinks Amelia thinks Isabella thinks the asparagus is?
+Choices: A. red_cupboard, B. green_basket, C. green_cupboard, D. green_bottle, E. blue_treasure_chest, F. green_envelope, G. blue_cupboard, H. green_box, I. red_bathtub, J. red_box, K. green_pantry, L. red_container, M. red_crate, N. blue_bottle, O. blue_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Jayden, Ava, Abigail and Ella entered the basement.
-2 The orange is in the red_basket.
-3 Jack made no movements and stayed in the basement for 10 minutes.
-4 Jack exited the basement and stayed in the waiting_room.
-5 Jayden moved the orange to the green_crate.
-6 Jayden exited the basement and stayed in the waiting_room.
-7 Ava moved the orange to the blue_bucket.
-8 Ava exited the basement and stayed in the waiting_room.
-9 Abigail moved the orange to the blue_box.
-10 Abigail exited the basement and stayed in the waiting_room.
-11 Ella made no movements and stayed in the basement for 10 minutes.
-12 Ella exited the basement and stayed in the waiting_room.
-13 Jack, Ella and Abigail entered the study.
-14 The strawberry is in the green_cupboard.
-15 Jack made no movements and stayed in the study for 10 minutes.
-16 Jack exited the study and stayed in the waiting_room.
-17 Ella made no movements and stayed in the study for 10 minutes.
-18 Ella exited the study and stayed in the waiting_room.
-19 Abigail moved the strawberry to the blue_bottle.
-20 Abigail exited the study and stayed in the waiting_room.
-21 Ava, Abigail, Ella and Jayden entered the back_yard.
-22 The lime is in the green_bathtub.
-23 Ava made no movements and stayed in the back_yard for 10 minutes.
-24 Ava exited the back_yard and stayed in the waiting_room.
-25 Abigail made no movements and stayed in the back_yard for 10 minutes.
-26 Abigail exited the back_yard and stayed in the waiting_room.
-27 Ella moved the lime to the blue_basket.
-28 Ella exited the back_yard and stayed in the waiting_room.
-29 Jayden made no movements and stayed in the back_yard for 10 minutes.
-30 Jayden exited the back_yard and stayed in the waiting_room.
-31 Ella and Abigail entered the basement.
-32 The orange is in the blue_box.
-33 Ella made no movements and stayed in the basement for 10 minutes.
-34 Ella exited the basement and stayed in the waiting_room.
-35 Abigail moved the orange to the red_bottle.
-36 Abigail exited the basement and stayed in the waiting_room.
-Question: Where does Ella think Jayden thinks the orange is?
-Choices: A. green_cupboard, B. red_suitcase, C. green_treasure_chest, D. blue_envelope, E. blue_bottle, F. red_basket, G. red_bottle, H. blue_bucket, I. green_crate, J. blue_box, K. red_bucket, L. green_bathtub, M. blue_bathtub, N. blue_basket, O. red_crate
+1 Isla, Emily, Ava, Hannah and Chloe entered the porch.
+2 The pumpkin is in the green_pantry.
+3 Isla made no movements and stayed in the porch for 10 minutes.
+4 Isla exited the porch and stayed in the waiting_room.
+5 Emily made no movements and stayed in the porch for 10 minutes.
+6 Emily exited the porch and stayed in the waiting_room.
+7 Hannah lost his phone.
+8 Ava made no movements and stayed in the porch for 10 minutes.
+9 Ava exited the porch and stayed in the waiting_room.
+10 Hannah made no movements and stayed in the porch for 10 minutes.
+11 Hannah exited the porch and stayed in the waiting_room.
+12 Chloe made no movements and stayed in the porch for 10 minutes.
+13 Chloe exited the porch and stayed in the waiting_room.
+14 Isla, Hannah and Ava entered the porch.
+15 The celery is in the green_envelope.
+16 Isla moved the celery to the red_basket.
+17 Isla exited the porch and stayed in the waiting_room.
+18 Hannah moved the celery to the blue_crate.
+19 Hannah exited the porch and stayed in the waiting_room.
+20 Emily saw a mouse.
+21 Ava made no movements and stayed in the porch for 10 minutes.
+22 Ava exited the porch and stayed in the waiting_room.
+23 Hannah likes the red_treasure_chest.
+24 Ava, Isla, Emily and Hannah entered the basement.
+25 Hannah likes the green_bathtub.
+26 The corn is in the green_box.
+27 Ava made no movements and stayed in the basement for 10 minutes.
+28 Ava exited the basement and stayed in the waiting_room.
+29 Isla made no movements and stayed in the basement for 10 minutes.
+30 Isla exited the basement and stayed in the waiting_room.
+31 Emily moved the corn to the green_basket.
+32 Emily exited the basement and stayed in the waiting_room.
+33 Hannah made no movements and stayed in the basement for 10 minutes.
+34 Hannah exited the basement and stayed in the waiting_room.
+35 Chloe likes the blue_crate.
+36 Hannah and Chloe entered the dining_room.
+37 The tomato is in the green_cupboard.
+38 Hannah made no movements and stayed in the dining_room for 10 minutes.
+39 Hannah exited the dining_room and stayed in the waiting_room.
+40 Chloe made no movements and stayed in the dining_room for 10 minutes.
+41 Chloe exited the dining_room and stayed in the waiting_room.
+Question: Where does Emily think Chloe thinks the pumpkin is?
+Choices: A. green_box, B. red_pantry, C. green_treasure_chest, D. green_basket, E. green_bathtub, F. red_treasure_chest, G. green_cupboard, H. green_suitcase, I. blue_drawer, J. red_envelope, K. green_envelope, L. green_pantry, M. red_basket, N. blue_crate, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

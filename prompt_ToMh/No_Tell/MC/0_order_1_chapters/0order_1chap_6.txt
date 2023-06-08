@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Noah, Aiden, Aria and Jacob entered the laundry.
-2 The grapefruit is in the blue_box.
-3 Mia made no movements and stayed in the laundry for 10 minutes.
-4 Mia exited the laundry and stayed in the waiting_room.
-5 Noah moved the grapefruit to the blue_pantry.
-6 Noah exited the laundry and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the laundry for 10 minutes.
-8 Aiden exited the laundry and stayed in the waiting_room.
-9 Aria moved the grapefruit to the blue_basket.
-10 Aria exited the laundry and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the laundry for 10 minutes.
-12 Jacob exited the laundry and stayed in the waiting_room.
-Question: Where is the grapefruit really?
-Choices: A. blue_basket, B. blue_box, C. blue_crate, D. green_suitcase, E. blue_pantry, F. red_drawer, G. red_bottle, H. green_cupboard, I. red_bucket, J. red_treasure_chest, K. blue_container, L. red_bathtub, M. blue_drawer, N. blue_bathtub, O. green_container
+1 Mason, Jacob, Ava, Alexander and Abigail entered the back_yard.
+2 The grapes is in the green_box.
+3 Mason made no movements and stayed in the back_yard for 10 minutes.
+4 Mason exited the back_yard and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the back_yard for 10 minutes.
+6 Jacob exited the back_yard and stayed in the waiting_room.
+7 Ava made no movements and stayed in the back_yard for 10 minutes.
+8 Ava exited the back_yard and stayed in the waiting_room.
+9 Mason lost his watch.
+10 Alexander made no movements and stayed in the back_yard for 10 minutes.
+11 Alexander exited the back_yard and stayed in the waiting_room.
+12 Abigail moved the grapes to the green_box.
+13 Abigail exited the back_yard and stayed in the waiting_room.
+Question: Where is the grapes really?
+Choices: A. red_bucket, B. blue_treasure_chest, C. red_treasure_chest, D. green_pantry, E. blue_drawer, F. blue_envelope, G. green_box, H. green_suitcase, I. blue_cupboard, J. red_pantry, K. red_box, L. red_cupboard, M. blue_crate, N. green_bathtub, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

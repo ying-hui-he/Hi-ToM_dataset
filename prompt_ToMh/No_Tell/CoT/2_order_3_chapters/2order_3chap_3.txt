@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Jackson, Jack, Charlotte and Emma entered the porch.
-2 The radish is in the blue_envelope.
-3 Evelyn moved the radish to the green_bottle.
-4 Evelyn exited the porch and stayed in the waiting_room.
-5 Jackson moved the radish to the green_suitcase.
-6 Jackson exited the porch and stayed in the waiting_room.
-7 Jack made no movements and stayed in the porch for 10 minutes.
-8 Jack exited the porch and stayed in the waiting_room.
-9 Charlotte made no movements and stayed in the porch for 10 minutes.
-10 Charlotte exited the porch and stayed in the waiting_room.
-11 Emma moved the radish to the blue_envelope.
-12 Emma exited the porch and stayed in the waiting_room.
-13 Charlotte, Jackson and Evelyn entered the back_yard.
-14 The apple is in the red_treasure_chest.
-15 Charlotte made no movements and stayed in the back_yard for 10 minutes.
-16 Charlotte exited the back_yard and stayed in the waiting_room.
-17 Jackson moved the apple to the red_basket.
-18 Jackson exited the back_yard and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the back_yard for 10 minutes.
-20 Evelyn exited the back_yard and stayed in the waiting_room.
-21 Charlotte, Evelyn, Jack and Emma entered the patio.
-22 The orange is in the green_envelope.
-23 Charlotte moved the orange to the blue_pantry.
-24 Charlotte exited the patio and stayed in the waiting_room.
-25 Evelyn made no movements and stayed in the patio for 10 minutes.
-26 Evelyn exited the patio and stayed in the waiting_room.
-27 Jack moved the orange to the blue_bucket.
-28 Jack exited the patio and stayed in the waiting_room.
-29 Emma moved the orange to the blue_suitcase.
-30 Emma exited the patio and stayed in the waiting_room.
-Question: Where does Evelyn think Jackson thinks the radish is?
-Choices: A. green_envelope, B. blue_basket, C. blue_suitcase, D. blue_pantry, E. blue_bucket, F. red_crate, G. red_treasure_chest, H. red_basket, I. red_suitcase, J. red_container, K. blue_envelope, L. green_bottle, M. green_suitcase, N. blue_treasure_chest, O. green_bathtub
+1 Mia, Aiden, Logan, Isla and Hannah entered the dining_room.
+2 The celery is in the red_treasure_chest.
+3 Mia moved the celery to the green_bottle.
+4 Aiden dislikes the watermelon.
+5 Mia exited the dining_room and stayed in the waiting_room.
+6 Aiden moved the celery to the blue_crate.
+7 Mia likes the red_treasure_chest.
+8 Aiden exited the dining_room and stayed in the waiting_room.
+9 Logan made no movements and stayed in the dining_room for 10 minutes.
+10 Logan exited the dining_room and stayed in the waiting_room.
+11 Isla moved the celery to the red_container.
+12 Mia saw a dog.
+13 Isla exited the dining_room and stayed in the waiting_room.
+14 Hannah made no movements and stayed in the dining_room for 10 minutes.
+15 Hannah exited the dining_room and stayed in the waiting_room.
+16 Mia, Logan and Isla entered the cellar.
+17 The watermelon is in the red_envelope.
+18 Mia moved the watermelon to the green_basket.
+19 Mia exited the cellar and stayed in the waiting_room.
+20 Logan moved the watermelon to the blue_cupboard.
+21 Logan exited the cellar and stayed in the waiting_room.
+22 Isla made no movements and stayed in the cellar for 10 minutes.
+23 Isla exited the cellar and stayed in the waiting_room.
+24 Mia, Isla, Aiden and Hannah entered the cellar.
+25 The tangerine is in the blue_cupboard.
+26 Aiden dislikes the celery.
+27 Mia moved the tangerine to the blue_bucket.
+28 Mia exited the cellar and stayed in the waiting_room.
+29 Isla moved the tangerine to the green_box.
+30 Isla exited the cellar and stayed in the waiting_room.
+31 Aiden moved the tangerine to the green_basket.
+32 Aiden exited the cellar and stayed in the waiting_room.
+33 Hannah made no movements and stayed in the cellar for 10 minutes.
+34 Hannah exited the cellar and stayed in the waiting_room.
+Question: Where does Isla think Logan thinks the celery is?
+Choices: A. red_envelope, B. blue_cupboard, C. green_box, D. blue_bucket, E. green_basket, F. red_treasure_chest, G. red_cupboard, H. blue_crate, I. red_container, J. green_bottle, K. green_treasure_chest, L. green_envelope, M. red_crate, N. red_pantry, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Charlotte, Isla, Olivia, William and Oliver entered the front_yard.
-2 The beans is in the green_treasure_chest.
-3 Charlotte made no movements and stayed in the front_yard for 10 minutes.
-4 Charlotte exited the front_yard and stayed in the waiting_room.
-5 Isla made no movements and stayed in the front_yard for 10 minutes.
-6 Isla exited the front_yard and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the front_yard for 10 minutes.
-8 Olivia exited the front_yard and stayed in the waiting_room.
-9 William made no movements and stayed in the front_yard for 10 minutes.
-10 William exited the front_yard and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the front_yard for 10 minutes.
-12 Oliver exited the front_yard and stayed in the waiting_room.
-13 William, Oliver and Olivia entered the front_yard.
-14 The beans is in the green_treasure_chest.
-15 William moved the beans to the blue_bucket.
-16 William exited the front_yard and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the front_yard for 10 minutes.
-18 Oliver exited the front_yard and stayed in the waiting_room.
-19 Olivia made no movements and stayed in the front_yard for 10 minutes.
-20 Olivia exited the front_yard and stayed in the waiting_room.
-21 Oliver privately told Olivia that the beans is actually in the red_treasure_chest.
-22 Olivia privately told Charlotte that the beans is actually in the blue_bucket.
-Question: Where does William think Charlotte thinks Olivia thinks Oliver thinks the beans is?
-Choices: A. green_treasure_chest, B. green_crate, C. blue_bucket, D. blue_bathtub, E. red_treasure_chest, F. red_bathtub, G. red_envelope, H. red_container, I. red_basket, J. blue_container, K. red_bucket, L. green_bottle, M. blue_treasure_chest, N. green_envelope, O. green_container
+1 Carter, Ella, Jackson, Amelia and Liam entered the hallway.
+2 The onion is in the red_cupboard.
+3 Carter moved the onion to the green_basket.
+4 Carter exited the hallway and stayed in the waiting_room.
+5 Ella moved the onion to the green_suitcase.
+6 Ella exited the hallway and stayed in the waiting_room.
+7 Jackson moved the onion to the blue_suitcase.
+8 Jackson exited the hallway and stayed in the waiting_room.
+9 Amelia moved the onion to the red_basket.
+10 Amelia exited the hallway and stayed in the waiting_room.
+11 Liam made no movements and stayed in the hallway for 10 minutes.
+12 Liam exited the hallway and stayed in the waiting_room.
+13 Liam, Jackson and Ella entered the hallway.
+14 The melon is in the green_basket.
+15 Liam moved the melon to the green_suitcase.
+16 Jackson lost his phone.
+17 Liam exited the hallway and stayed in the waiting_room.
+18 Jackson made no movements and stayed in the hallway for 10 minutes.
+19 Jackson exited the hallway and stayed in the waiting_room.
+20 Ella moved the melon to the red_basket.
+21 Ella exited the hallway and stayed in the waiting_room.
+22 Jackson publicly claimed that melon is in the green_suitcase.
+23 Ella privately told Jackson that the melon is actually in the green_basket.
+Question: Where does Jackson think Carter thinks Ella thinks Amelia thinks the onion is?
+Choices: A. red_bucket, B. green_pantry, C. green_bottle, D. blue_bathtub, E. green_bucket, F. red_cupboard, G. green_basket, H. blue_suitcase, I. red_basket, J. green_suitcase, K. red_container, L. blue_crate, M. green_treasure_chest, N. red_crate, O. blue_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

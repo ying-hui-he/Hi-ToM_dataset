@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, Hannah, Mila, Jack and Emily entered the study.
-2 The lime is in the red_suitcase.
-3 Ava made no movements and stayed in the study for 10 minutes.
-4 Ava exited the study and stayed in the waiting_room.
-5 Hannah moved the lime to the green_suitcase.
-6 Hannah exited the study and stayed in the waiting_room.
-7 Mila moved the lime to the blue_bottle.
-8 Mila exited the study and stayed in the waiting_room.
-9 Jack made no movements and stayed in the study for 10 minutes.
-10 Jack exited the study and stayed in the waiting_room.
-11 Emily made no movements and stayed in the study for 10 minutes.
-12 Emily exited the study and stayed in the waiting_room.
-13 Jack, Ava and Mila entered the TV_room.
-14 The pineapple is in the green_treasure_chest.
-15 Jack moved the pineapple to the red_bathtub.
-16 Jack exited the TV_room and stayed in the waiting_room.
-17 Ava moved the pineapple to the green_bathtub.
-18 Ava exited the TV_room and stayed in the waiting_room.
-19 Mila made no movements and stayed in the TV_room for 10 minutes.
-20 Mila exited the TV_room and stayed in the waiting_room.
-21 Ava privately told Mila that the pineapple is actually in the red_bathtub.
-22 Mila privately told Hannah that the pineapple is actually in the green_bathtub.
-Question: Where does Emily think Hannah thinks the lime is?
-Choices: A. blue_container, B. green_treasure_chest, C. green_bathtub, D. red_bathtub, E. red_basket, F. blue_box, G. red_container, H. blue_treasure_chest, I. red_envelope, J. blue_bucket, K. green_suitcase, L. red_suitcase, M. blue_bottle, N. green_crate, O. blue_suitcase
+1 Mason, Logan, Aiden, Hannah and Nathan entered the attic.
+2 The watermelon is in the red_envelope.
+3 Mason moved the watermelon to the green_envelope.
+4 Mason exited the attic and stayed in the waiting_room.
+5 Logan moved the watermelon to the red_cupboard.
+6 Logan exited the attic and stayed in the waiting_room.
+7 Mason likes the blue_envelope.
+8 Aiden moved the watermelon to the red_container.
+9 Aiden exited the attic and stayed in the waiting_room.
+10 Hannah made no movements and stayed in the attic for 10 minutes.
+11 Hannah exited the attic and stayed in the waiting_room.
+12 Nathan moved the watermelon to the red_envelope.
+13 Logan saw a monkey.
+14 Nathan exited the attic and stayed in the waiting_room.
+15 Aiden, Hannah and Mason entered the cellar.
+16 The pumpkin is in the blue_envelope.
+17 Aiden moved the pumpkin to the blue_treasure_chest.
+18 Hannah likes the red_container.
+19 Aiden exited the cellar and stayed in the waiting_room.
+20 Hannah moved the pumpkin to the red_basket.
+21 Hannah exited the cellar and stayed in the waiting_room.
+22 Mason made no movements and stayed in the cellar for 10 minutes.
+23 Mason exited the cellar and stayed in the waiting_room.
+24 Aiden publicly claimed that pumpkin is in the red_basket.
+25 Logan saw a mouse.
+26 Mason privately told Logan that the pumpkin is actually in the red_basket.
+Question: Where does Logan think Nathan thinks the watermelon is?
+Choices: A. green_treasure_chest, B. blue_suitcase, C. red_bathtub, D. green_bottle, E. blue_bottle, F. red_envelope, G. green_envelope, H. red_container, I. red_cupboard, J. green_bathtub, K. blue_envelope, L. green_basket, M. red_basket, N. blue_bucket, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,36 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Jayden, Mila, Noah and Oliver entered the hallway.
-2 The spinach is in the red_treasure_chest.
-3 Emma made no movements and stayed in the hallway for 10 minutes.
-4 Emma exited the hallway and stayed in the waiting_room.
-5 Jayden moved the spinach to the blue_envelope.
-6 Jayden exited the hallway and stayed in the waiting_room.
-7 Mila moved the spinach to the blue_suitcase.
-8 Mila exited the hallway and stayed in the waiting_room.
-9 Noah moved the spinach to the red_container.
-10 Noah exited the hallway and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the hallway for 10 minutes.
-12 Oliver exited the hallway and stayed in the waiting_room.
-13 Noah, Oliver and Jayden entered the hallway.
-14 The spinach is in the red_container.
-15 Noah made no movements and stayed in the hallway for 10 minutes.
-16 Noah exited the hallway and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the hallway for 10 minutes.
-18 Oliver exited the hallway and stayed in the waiting_room.
-19 Jayden moved the spinach to the red_treasure_chest.
-20 Jayden exited the hallway and stayed in the waiting_room.
-21 Noah, Jayden, Oliver and Emma entered the hallway.
-22 The spinach is in the red_treasure_chest.
-23 Noah made no movements and stayed in the hallway for 10 minutes.
-24 Noah exited the hallway and stayed in the waiting_room.
-25 Jayden moved the spinach to the blue_suitcase.
-26 Jayden exited the hallway and stayed in the waiting_room.
-27 Oliver moved the spinach to the blue_envelope.
-28 Oliver exited the hallway and stayed in the waiting_room.
-29 Emma moved the spinach to the red_container.
-30 Emma exited the hallway and stayed in the waiting_room.
-Question: Where does Jayden think Emma thinks Mila thinks Noah thinks the spinach is?
-Choices: A. blue_container, B. red_bucket, C. red_envelope, D. green_treasure_chest, E. blue_bucket, F. green_envelope, G. blue_crate, H. blue_bathtub, I. blue_box, J. red_basket, K. red_treasure_chest, L. green_cupboard, M. red_container, N. blue_suitcase, O. blue_envelope
+1 Lucas, Sophia, Nathan, Logan and Hannah entered the hallway.
+2 The watermelon is in the red_cupboard.
+3 Lucas moved the watermelon to the blue_envelope.
+4 Lucas exited the hallway and stayed in the waiting_room.
+5 Sophia made no movements and stayed in the hallway for 10 minutes.
+6 Sophia exited the hallway and stayed in the waiting_room.
+7 Nathan made no movements and stayed in the hallway for 10 minutes.
+8 Nathan exited the hallway and stayed in the waiting_room.
+9 Logan made no movements and stayed in the hallway for 10 minutes.
+10 Logan exited the hallway and stayed in the waiting_room.
+11 Nathan saw a dog.
+12 Hannah moved the watermelon to the red_cupboard.
+13 Hannah exited the hallway and stayed in the waiting_room.
+14 Sophia, Hannah and Logan entered the office.
+15 The pumpkin is in the green_basket.
+16 Sophia made no movements and stayed in the office for 10 minutes.
+17 Sophia exited the office and stayed in the waiting_room.
+18 Hannah moved the pumpkin to the red_envelope.
+19 Hannah exited the office and stayed in the waiting_room.
+20 Logan moved the pumpkin to the green_box.
+21 Logan exited the office and stayed in the waiting_room.
+22 Hannah, Sophia, Nathan and Logan entered the master_bedroom.
+23 The turnip is in the blue_bottle.
+24 Hannah moved the turnip to the red_bathtub.
+25 Hannah exited the master_bedroom and stayed in the waiting_room.
+26 Sophia moved the turnip to the green_envelope.
+27 Sophia exited the master_bedroom and stayed in the waiting_room.
+28 Nathan made no movements and stayed in the master_bedroom for 10 minutes.
+29 Nathan exited the master_bedroom and stayed in the waiting_room.
+30 Logan moved the turnip to the green_treasure_chest.
+31 Logan exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Hannah think Lucas thinks Nathan thinks Sophia thinks the watermelon is?
+Choices: A. green_suitcase, B. blue_bottle, C. green_treasure_chest, D. red_bathtub, E. green_envelope, F. blue_cupboard, G. red_cupboard, H. green_bottle, I. blue_envelope, J. blue_bucket, K. green_basket, L. green_box, M. red_crate, N. blue_drawer, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

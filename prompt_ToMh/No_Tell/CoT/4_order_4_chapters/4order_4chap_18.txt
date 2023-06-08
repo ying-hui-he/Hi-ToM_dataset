@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Owen, Emma, Carter and Emily entered the back_yard.
-2 The melon is in the blue_bathtub.
-3 Evelyn made no movements and stayed in the back_yard for 10 minutes.
-4 Evelyn exited the back_yard and stayed in the waiting_room.
-5 Owen moved the melon to the red_container.
-6 Owen exited the back_yard and stayed in the waiting_room.
-7 Emma made no movements and stayed in the back_yard for 10 minutes.
-8 Emma exited the back_yard and stayed in the waiting_room.
-9 Carter moved the melon to the red_bucket.
-10 Carter exited the back_yard and stayed in the waiting_room.
-11 Emily made no movements and stayed in the back_yard for 10 minutes.
-12 Emily exited the back_yard and stayed in the waiting_room.
-13 Emma, Owen and Evelyn entered the TV_room.
-14 The banana is in the red_bathtub.
-15 Emma moved the banana to the red_treasure_chest.
-16 Emma exited the TV_room and stayed in the waiting_room.
-17 Owen moved the banana to the green_container.
-18 Owen exited the TV_room and stayed in the waiting_room.
-19 Evelyn moved the banana to the blue_envelope.
-20 Evelyn exited the TV_room and stayed in the waiting_room.
-21 Evelyn, Emily, Owen and Emma entered the office.
-22 The celery is in the blue_crate.
-23 Evelyn moved the celery to the red_suitcase.
-24 Evelyn exited the office and stayed in the waiting_room.
-25 Emily made no movements and stayed in the office for 10 minutes.
-26 Emily exited the office and stayed in the waiting_room.
-27 Owen moved the celery to the blue_suitcase.
-28 Owen exited the office and stayed in the waiting_room.
-29 Emma made no movements and stayed in the office for 10 minutes.
-30 Emma exited the office and stayed in the waiting_room.
-31 Carter and Owen entered the office.
-32 The celery is in the blue_suitcase.
-33 Carter moved the celery to the blue_pantry.
-34 Carter exited the office and stayed in the waiting_room.
-35 Owen moved the celery to the red_suitcase.
-36 Owen exited the office and stayed in the waiting_room.
-Question: Where does Emily think Emma thinks Evelyn thinks Owen thinks the melon is?
-Choices: A. blue_bathtub, B. green_cupboard, C. blue_bottle, D. red_container, E. red_bucket, F. red_bathtub, G. red_treasure_chest, H. green_container, I. blue_envelope, J. red_drawer, K. blue_suitcase, L. blue_crate, M. blue_pantry, N. red_crate, O. red_suitcase
+1 Mila likes the red_bucket.
+2 Mila, Jayden, Chloe, Ella and Charlotte entered the garage.
+3 Charlotte saw a mouse.
+4 The radish is in the green_bottle.
+5 Mila moved the radish to the green_treasure_chest.
+6 Mila exited the garage and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the garage for 10 minutes.
+8 Jayden exited the garage and stayed in the waiting_room.
+9 Chloe moved the radish to the blue_treasure_chest.
+10 Chloe exited the garage and stayed in the waiting_room.
+11 Ella moved the radish to the blue_bucket.
+12 Ella exited the garage and stayed in the waiting_room.
+13 Charlotte made no movements and stayed in the garage for 10 minutes.
+14 Charlotte exited the garage and stayed in the waiting_room.
+15 Charlotte, Mila and Jayden entered the den.
+16 The strawberry is in the red_bathtub.
+17 Charlotte moved the strawberry to the green_box.
+18 Charlotte exited the den and stayed in the waiting_room.
+19 Mila moved the strawberry to the red_treasure_chest.
+20 Mila exited the den and stayed in the waiting_room.
+21 Jayden moved the strawberry to the green_bathtub.
+22 Jayden exited the den and stayed in the waiting_room.
+23 Charlotte, Jayden, Mila and Ella entered the front_yard.
+24 The lettuce is in the blue_cupboard.
+25 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+26 Ella saw a monkey.
+27 Charlotte exited the front_yard and stayed in the waiting_room.
+28 Jayden made no movements and stayed in the front_yard for 10 minutes.
+29 Jayden exited the front_yard and stayed in the waiting_room.
+30 Mila moved the lettuce to the green_bucket.
+31 Mila exited the front_yard and stayed in the waiting_room.
+32 Ella made no movements and stayed in the front_yard for 10 minutes.
+33 Ella exited the front_yard and stayed in the waiting_room.
+34 Ella lost his bottle.
+35 Ella and Charlotte entered the front_yard.
+36 The onion is in the red_container.
+37 Ella made no movements and stayed in the front_yard for 10 minutes.
+38 Ella exited the front_yard and stayed in the waiting_room.
+39 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+40 Charlotte exited the front_yard and stayed in the waiting_room.
+Question: Where does Charlotte think Ella thinks Chloe thinks Jayden thinks the radish is?
+Choices: A. green_treasure_chest, B. green_bottle, C. blue_treasure_chest, D. blue_bucket, E. red_bucket, F. red_bathtub, G. green_box, H. green_bathtub, I. green_basket, J. red_treasure_chest, K. blue_cupboard, L. red_container, M. red_box, N. blue_envelope, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

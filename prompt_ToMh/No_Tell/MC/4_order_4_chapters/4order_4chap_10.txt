@@ -1,41 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Isla, Charlotte, Mia, Jacob and Aiden entered the playroom.
-2 The lettuce is in the green_bottle.
-3 Isla made no movements and stayed in the playroom for 10 minutes.
-4 Isla exited the playroom and stayed in the waiting_room.
-5 Charlotte made no movements and stayed in the playroom for 10 minutes.
-6 Charlotte exited the playroom and stayed in the waiting_room.
-7 Mia moved the lettuce to the blue_suitcase.
-8 Mia exited the playroom and stayed in the waiting_room.
-9 Jacob moved the lettuce to the blue_bathtub.
-10 Jacob exited the playroom and stayed in the waiting_room.
-11 Aiden made no movements and stayed in the playroom for 10 minutes.
-12 Aiden exited the playroom and stayed in the waiting_room.
-13 Mia, Aiden and Charlotte entered the den.
-14 The melon is in the red_bottle.
-15 Mia moved the melon to the green_bathtub.
-16 Mia exited the den and stayed in the waiting_room.
-17 Aiden made no movements and stayed in the den for 10 minutes.
-18 Aiden exited the den and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the den for 10 minutes.
-20 Charlotte exited the den and stayed in the waiting_room.
-21 Mia, Aiden, Isla and Jacob entered the den.
-22 The melon is in the green_bathtub.
-23 Mia moved the melon to the red_envelope.
-24 Mia exited the den and stayed in the waiting_room.
-25 Aiden made no movements and stayed in the den for 10 minutes.
-26 Aiden exited the den and stayed in the waiting_room.
-27 Isla moved the melon to the blue_bucket.
-28 Isla exited the den and stayed in the waiting_room.
-29 Jacob moved the melon to the red_bottle.
-30 Jacob exited the den and stayed in the waiting_room.
-31 Isla and Aiden entered the den.
-32 The melon is in the red_bottle.
-33 Isla made no movements and stayed in the den for 10 minutes.
-34 Isla exited the den and stayed in the waiting_room.
-35 Aiden moved the melon to the red_envelope.
-36 Aiden exited the den and stayed in the waiting_room.
-Question: Where does Jacob think Mia thinks Charlotte thinks Isla thinks the lettuce is?
-Choices: A. red_bottle, B. blue_bucket, C. red_envelope, D. green_bathtub, E. red_bucket, F. red_bathtub, G. green_treasure_chest, H. red_drawer, I. blue_envelope, J. blue_crate, K. green_bottle, L. red_basket, M. blue_bathtub, N. blue_suitcase, O. blue_drawer
+1 Jack, Isla, Lucas, Jacob and Sophia entered the bathroom.
+2 The lettuce is in the blue_envelope.
+3 Jack likes the green_bottle.
+4 Jack moved the lettuce to the green_bucket.
+5 Jack exited the bathroom and stayed in the waiting_room.
+6 Isla made no movements and stayed in the bathroom for 10 minutes.
+7 Isla exited the bathroom and stayed in the waiting_room.
+8 Sophia dislikes the banana.
+9 Lucas moved the lettuce to the green_bottle.
+10 Lucas exited the bathroom and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the bathroom for 10 minutes.
+12 Lucas likes the red_treasure_chest.
+13 Jacob exited the bathroom and stayed in the waiting_room.
+14 Jack dislikes the radish.
+15 Sophia moved the lettuce to the blue_envelope.
+16 Sophia exited the bathroom and stayed in the waiting_room.
+17 Isla, Sophia and Jacob entered the front_yard.
+18 The grapes is in the blue_suitcase.
+19 Jacob saw a monkey.
+20 Isla moved the grapes to the red_envelope.
+21 Lucas dislikes the grapes.
+22 Isla exited the front_yard and stayed in the waiting_room.
+23 Sophia moved the grapes to the green_pantry.
+24 Sophia exited the front_yard and stayed in the waiting_room.
+25 Jacob moved the grapes to the red_basket.
+26 Isla likes the red_pantry.
+27 Jacob exited the front_yard and stayed in the waiting_room.
+28 Isla, Lucas, Sophia and Jacob entered the bathroom.
+29 The banana is in the blue_treasure_chest.
+30 Isla moved the banana to the red_box.
+31 Isla exited the bathroom and stayed in the waiting_room.
+32 Lucas moved the banana to the green_bucket.
+33 Lucas exited the bathroom and stayed in the waiting_room.
+34 Sophia made no movements and stayed in the bathroom for 10 minutes.
+35 Sophia exited the bathroom and stayed in the waiting_room.
+36 Jacob made no movements and stayed in the bathroom for 10 minutes.
+37 Jacob exited the bathroom and stayed in the waiting_room.
+38 Jack and Sophia entered the cellar.
+39 The pumpkin is in the red_pantry.
+40 Jack made no movements and stayed in the cellar for 10 minutes.
+41 Jack exited the cellar and stayed in the waiting_room.
+42 Sophia moved the pumpkin to the red_treasure_chest.
+43 Sophia exited the cellar and stayed in the waiting_room.
+Question: Where does Jacob think Lucas thinks Jack thinks Isla thinks the lettuce is?
+Choices: A. blue_treasure_chest, B. blue_envelope, C. green_bucket, D. green_bottle, E. red_box, F. blue_suitcase, G. green_box, H. green_pantry, I. red_envelope, J. red_basket, K. red_pantry, L. blue_drawer, M. red_treasure_chest, N. red_bathtub, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

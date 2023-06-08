@@ -1,35 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Emma, Logan, Evelyn and Carter entered the attic.
-2 The onion is in the red_container.
-3 Aria moved the onion to the red_suitcase.
-4 Aria exited the attic and stayed in the waiting_room.
-5 Emma made no movements and stayed in the attic for 10 minutes.
-6 Emma exited the attic and stayed in the waiting_room.
-7 Logan made no movements and stayed in the attic for 10 minutes.
-8 Logan exited the attic and stayed in the waiting_room.
-9 Evelyn moved the onion to the red_treasure_chest.
-10 Evelyn exited the attic and stayed in the waiting_room.
-11 Carter moved the onion to the red_container.
-12 Carter exited the attic and stayed in the waiting_room.
-13 Carter, Aria and Logan entered the attic.
-14 The carrot is in the red_suitcase.
-15 Carter made no movements and stayed in the attic for 10 minutes.
-16 Carter exited the attic and stayed in the waiting_room.
-17 Aria made no movements and stayed in the attic for 10 minutes.
-18 Aria exited the attic and stayed in the waiting_room.
-19 Logan moved the carrot to the red_treasure_chest.
-20 Logan exited the attic and stayed in the waiting_room.
-21 Emma, Aria, Logan and Evelyn entered the attic.
-22 The carrot is in the red_treasure_chest.
-23 Emma moved the carrot to the red_suitcase.
-24 Emma exited the attic and stayed in the waiting_room.
-25 Aria made no movements and stayed in the attic for 10 minutes.
-26 Aria exited the attic and stayed in the waiting_room.
-27 Logan moved the carrot to the red_container.
-28 Logan exited the attic and stayed in the waiting_room.
-29 Evelyn made no movements and stayed in the attic for 10 minutes.
-30 Evelyn exited the attic and stayed in the waiting_room.
-Question: Where does Carter think Logan thinks Evelyn thinks the onion is?
-Answer: None
-Choices: A. red_suitcase, B. red_container, C. red_bottle, D. red_treasure_chest, E. blue_treasure_chest, F. green_bottle, G. green_crate, H. blue_drawer, I. green_bathtub, J. green_envelope, K. red_basket, L. red_drawer, M. red_envelope, N. blue_bucket, O. green_container
+1 Alexander lost his bottle.
+2 Amelia, Emily, Alexander, Nathan and Jack entered the dining_room.
+3 The beans is in the blue_bathtub.
+4 Amelia likes the red_basket.
+5 Amelia moved the beans to the red_basket.
+6 Amelia exited the dining_room and stayed in the waiting_room.
+7 Nathan saw a monkey.
+8 Emily moved the beans to the green_bucket.
+9 Emily exited the dining_room and stayed in the waiting_room.
+10 Alexander moved the beans to the green_pantry.
+11 Alexander exited the dining_room and stayed in the waiting_room.
+12 Nathan made no movements and stayed in the dining_room for 10 minutes.
+13 Nathan exited the dining_room and stayed in the waiting_room.
+14 Nathan likes the blue_treasure_chest.
+15 Jack moved the beans to the blue_bathtub.
+16 Jack exited the dining_room and stayed in the waiting_room.
+17 Amelia, Jack and Alexander entered the porch.
+18 The corn is in the blue_crate.
+19 Amelia made no movements and stayed in the porch for 10 minutes.
+20 Amelia exited the porch and stayed in the waiting_room.
+21 Jack moved the corn to the green_envelope.
+22 Jack exited the porch and stayed in the waiting_room.
+23 Alexander made no movements and stayed in the porch for 10 minutes.
+24 Alexander exited the porch and stayed in the waiting_room.
+25 Nathan, Alexander, Amelia and Jack entered the porch.
+26 The corn is in the green_envelope.
+27 Nathan moved the corn to the blue_crate.
+28 Nathan exited the porch and stayed in the waiting_room.
+29 Alexander moved the corn to the red_bottle.
+30 Alexander exited the porch and stayed in the waiting_room.
+31 Amelia moved the corn to the blue_cupboard.
+32 Amelia exited the porch and stayed in the waiting_room.
+33 Alexander likes the green_pantry.
+34 Jack moved the corn to the green_bottle.
+35 Jack saw a mouse.
+36 Jack exited the porch and stayed in the waiting_room.
+Question: Where does Amelia think Alexander thinks Nathan thinks the beans is?
+Answer: blue_bathtub
+Choices: A. red_cupboard, B. red_box, C. blue_suitcase, D. blue_treasure_chest, E. green_box, F. blue_crate, G. red_bottle, H. green_bottle, I. blue_cupboard, J. green_envelope, K. green_bucket, L. blue_bathtub, M. green_cupboard, N. red_basket, O. green_pantry

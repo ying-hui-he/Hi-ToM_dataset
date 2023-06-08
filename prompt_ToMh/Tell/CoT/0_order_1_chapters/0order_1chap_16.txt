@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Isla, Evelyn, Carter, Gracie and Olivia entered the bedroom.
-2 The peach is in the red_bottle.
-3 Isla made no movements and stayed in the bedroom for 10 minutes.
-4 Isla exited the bedroom and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the bedroom for 10 minutes.
-6 Evelyn exited the bedroom and stayed in the waiting_room.
-7 Carter made no movements and stayed in the bedroom for 10 minutes.
-8 Carter exited the bedroom and stayed in the waiting_room.
-9 Gracie made no movements and stayed in the bedroom for 10 minutes.
-10 Gracie exited the bedroom and stayed in the waiting_room.
-11 Olivia made no movements and stayed in the bedroom for 10 minutes.
-12 Olivia exited the bedroom and stayed in the waiting_room.
-13 Gracie publicly claimed that peach is in the red_container.
-14 Olivia privately told Isla that the peach is actually in the red_bottle.
-Question: Where is the peach really?
-Choices: A. red_drawer, B. blue_suitcase, C. blue_treasure_chest, D. green_cupboard, E. green_envelope, F. red_basket, G. red_bottle, H. red_container, I. blue_pantry, J. green_suitcase, K. blue_drawer, L. blue_crate, M. blue_bottle, N. green_container, O. red_bucket
+1 Liam, Mason, Carter, Lucas and Aiden entered the workshop.
+2 The banana is in the red_box.
+3 Liam made no movements and stayed in the workshop for 10 minutes.
+4 Liam exited the workshop and stayed in the waiting_room.
+5 Lucas likes the green_box.
+6 Mason moved the banana to the green_suitcase.
+7 Mason exited the workshop and stayed in the waiting_room.
+8 Carter made no movements and stayed in the workshop for 10 minutes.
+9 Carter exited the workshop and stayed in the waiting_room.
+10 Lucas made no movements and stayed in the workshop for 10 minutes.
+11 Lucas exited the workshop and stayed in the waiting_room.
+12 Aiden made no movements and stayed in the workshop for 10 minutes.
+13 Aiden exited the workshop and stayed in the waiting_room.
+14 Lucas publicly claimed that banana is in the green_suitcase.
+15 Aiden privately told Liam that the banana is actually in the green_suitcase.
+Question: Where is the banana really?
+Choices: A. green_box, B. blue_suitcase, C. green_treasure_chest, D. green_bathtub, E. blue_treasure_chest, F. red_container, G. green_bucket, H. green_envelope, I. red_bottle, J. red_crate, K. red_box, L. red_bathtub, M. green_suitcase, N. red_envelope, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

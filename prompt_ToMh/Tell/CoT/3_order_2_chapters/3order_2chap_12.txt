@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Abigail, James, Oliver and Amelia entered the dining_room.
-2 The lettuce is in the blue_pantry.
-3 Hannah moved the lettuce to the red_treasure_chest.
-4 Hannah exited the dining_room and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the dining_room for 10 minutes.
-6 Abigail exited the dining_room and stayed in the waiting_room.
-7 James made no movements and stayed in the dining_room for 10 minutes.
-8 James exited the dining_room and stayed in the waiting_room.
-9 Oliver moved the lettuce to the red_container.
-10 Oliver exited the dining_room and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the dining_room for 10 minutes.
-12 Amelia exited the dining_room and stayed in the waiting_room.
-13 Amelia, Oliver and Abigail entered the basement.
-14 The lemon is in the blue_treasure_chest.
-15 Amelia made no movements and stayed in the basement for 10 minutes.
-16 Amelia exited the basement and stayed in the waiting_room.
-17 Oliver moved the lemon to the blue_bottle.
-18 Oliver exited the basement and stayed in the waiting_room.
-19 Abigail made no movements and stayed in the basement for 10 minutes.
-20 Abigail exited the basement and stayed in the waiting_room.
-21 Amelia publicly claimed that lemon is in the red_crate.
-22 Abigail privately told James that the lemon is actually in the blue_bottle.
-Question: Where does James think Abigail thinks Oliver thinks the lettuce is?
-Choices: A. blue_basket, B. blue_box, C. red_bottle, D. red_drawer, E. blue_drawer, F. blue_treasure_chest, G. green_bottle, H. red_crate, I. red_bucket, J. blue_bottle, K. blue_pantry, L. red_treasure_chest, M. red_container, N. red_basket, O. red_suitcase
+1 Aiden, Amelia, Logan, Gracie and Aria entered the kitchen.
+2 The celery is in the green_bathtub.
+3 Aiden made no movements and stayed in the kitchen for 10 minutes.
+4 Aiden exited the kitchen and stayed in the waiting_room.
+5 Amelia moved the celery to the blue_bottle.
+6 Gracie lost his bottle.
+7 Amelia exited the kitchen and stayed in the waiting_room.
+8 Logan moved the celery to the red_envelope.
+9 Logan exited the kitchen and stayed in the waiting_room.
+10 Gracie made no movements and stayed in the kitchen for 10 minutes.
+11 Gracie exited the kitchen and stayed in the waiting_room.
+12 Aria moved the celery to the green_bathtub.
+13 Aria exited the kitchen and stayed in the waiting_room.
+14 Amelia likes the blue_bottle.
+15 Amelia, Aiden and Logan entered the kitchen.
+16 The celery is in the green_bathtub.
+17 Amelia made no movements and stayed in the kitchen for 10 minutes.
+18 Amelia exited the kitchen and stayed in the waiting_room.
+19 Aiden made no movements and stayed in the kitchen for 10 minutes.
+20 Aiden exited the kitchen and stayed in the waiting_room.
+21 Logan moved the celery to the green_suitcase.
+22 Logan exited the kitchen and stayed in the waiting_room.
+23 Logan publicly claimed that celery is in the red_cupboard.
+24 Amelia privately told Logan that the celery is actually in the red_envelope.
+Question: Where does Gracie think Amelia thinks Logan thinks the celery is?
+Choices: A. green_basket, B. green_box, C. blue_bathtub, D. red_crate, E. red_bucket, F. red_treasure_chest, G. red_bottle, H. blue_envelope, I. blue_crate, J. red_basket, K. green_bathtub, L. blue_bottle, M. red_cupboard, N. green_suitcase, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

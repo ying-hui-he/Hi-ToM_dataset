@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Ethan, Carter, Hannah and Jacob entered the den.
-2 The potato is in the red_treasure_chest.
-3 Amelia made no movements and stayed in the den for 10 minutes.
-4 Amelia exited the den and stayed in the waiting_room.
-5 Ethan moved the potato to the green_bottle.
-6 Ethan exited the den and stayed in the waiting_room.
-7 Carter made no movements and stayed in the den for 10 minutes.
-8 Carter exited the den and stayed in the waiting_room.
-9 Hannah moved the potato to the green_container.
-10 Hannah exited the den and stayed in the waiting_room.
-11 Jacob moved the potato to the red_treasure_chest.
-12 Jacob exited the den and stayed in the waiting_room.
-13 Jacob, Carter and Ethan entered the staircase.
-14 The grapefruit is in the red_bottle.
-15 Jacob made no movements and stayed in the staircase for 10 minutes.
-16 Jacob exited the staircase and stayed in the waiting_room.
-17 Carter made no movements and stayed in the staircase for 10 minutes.
-18 Carter exited the staircase and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the staircase for 10 minutes.
-20 Ethan exited the staircase and stayed in the waiting_room.
-21 Jacob, Ethan, Amelia and Carter entered the living_room.
-22 The onion is in the green_treasure_chest.
-23 Jacob made no movements and stayed in the living_room for 10 minutes.
-24 Jacob exited the living_room and stayed in the waiting_room.
-25 Ethan made no movements and stayed in the living_room for 10 minutes.
-26 Ethan exited the living_room and stayed in the waiting_room.
-27 Amelia made no movements and stayed in the living_room for 10 minutes.
-28 Amelia exited the living_room and stayed in the waiting_room.
-29 Carter moved the onion to the red_envelope.
-30 Carter exited the living_room and stayed in the waiting_room.
-31 Amelia and Jacob entered the den.
-32 The asparagus is in the green_bottle.
-33 Amelia made no movements and stayed in the den for 10 minutes.
-34 Amelia exited the den and stayed in the waiting_room.
-35 Jacob moved the asparagus to the blue_envelope.
-36 Jacob exited the den and stayed in the waiting_room.
-Question: Where does Amelia think Jacob thinks Carter thinks the potato is?
+1 Gracie likes the green_box.
+2 Abigail, Nathan, Jacob, Charlotte and Gracie entered the closet.
+3 The banana is in the red_container.
+4 Abigail moved the banana to the red_envelope.
+5 Abigail exited the closet and stayed in the waiting_room.
+6 Nathan moved the banana to the red_cupboard.
+7 Nathan exited the closet and stayed in the waiting_room.
+8 Nathan dislikes the banana.
+9 Jacob moved the banana to the green_basket.
+10 Abigail likes the blue_cupboard.
+11 Jacob exited the closet and stayed in the waiting_room.
+12 Charlotte moved the banana to the blue_envelope.
+13 Charlotte exited the closet and stayed in the waiting_room.
+14 Gracie moved the banana to the red_container.
+15 Gracie exited the closet and stayed in the waiting_room.
+16 Charlotte, Nathan and Abigail entered the lounge.
+17 The peas is in the red_box.
+18 Charlotte made no movements and stayed in the lounge for 10 minutes.
+19 Charlotte exited the lounge and stayed in the waiting_room.
+20 Nathan moved the peas to the red_bathtub.
+21 Nathan exited the lounge and stayed in the waiting_room.
+22 Abigail moved the peas to the green_treasure_chest.
+23 Abigail exited the lounge and stayed in the waiting_room.
+24 Abigail, Nathan, Charlotte and Jacob entered the lounge.
+25 The peas is in the green_treasure_chest.
+26 Abigail moved the peas to the blue_bathtub.
+27 Abigail exited the lounge and stayed in the waiting_room.
+28 Nathan moved the peas to the red_box.
+29 Nathan exited the lounge and stayed in the waiting_room.
+30 Charlotte made no movements and stayed in the lounge for 10 minutes.
+31 Charlotte exited the lounge and stayed in the waiting_room.
+32 Jacob moved the peas to the red_bathtub.
+33 Jacob exited the lounge and stayed in the waiting_room.
+34 Nathan and Gracie entered the closet.
+35 The lettuce is in the green_basket.
+36 Nathan made no movements and stayed in the closet for 10 minutes.
+37 Nathan exited the closet and stayed in the waiting_room.
+38 Gracie made no movements and stayed in the closet for 10 minutes.
+39 Gracie exited the closet and stayed in the waiting_room.
+Question: Where does Charlotte think Nathan thinks Jacob thinks the banana is?
 Answer: None
-Choices: A. blue_bathtub, B. green_treasure_chest, C. red_envelope, D. red_basket, E. blue_pantry, F. green_envelope, G. red_bottle, H. blue_bottle, I. blue_crate, J. red_suitcase, K. red_treasure_chest, L. green_bottle, M. green_container, N. red_container, O. blue_envelope
+Choices: A. red_container, B. green_basket, C. red_cupboard, D. blue_envelope, E. red_envelope, F. red_box, G. blue_crate, H. blue_bathtub, I. red_bathtub, J. green_treasure_chest, K. green_bathtub, L. green_box, M. red_pantry, N. blue_cupboard, O. green_bucket

@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, Jack, Mila, Ethan and Isla entered the hall.
-2 The lemon is in the blue_bottle.
-3 Oliver made no movements and stayed in the hall for 10 minutes.
-4 Oliver exited the hall and stayed in the waiting_room.
-5 Jack moved the lemon to the red_bucket.
-6 Jack exited the hall and stayed in the waiting_room.
-7 Mila made no movements and stayed in the hall for 10 minutes.
-8 Mila exited the hall and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the hall for 10 minutes.
-10 Ethan exited the hall and stayed in the waiting_room.
-11 Isla made no movements and stayed in the hall for 10 minutes.
-12 Isla exited the hall and stayed in the waiting_room.
-13 Mila, Ethan and Oliver entered the hall.
-14 The lemon is in the red_bucket.
-15 Mila moved the lemon to the red_container.
-16 Mila exited the hall and stayed in the waiting_room.
-17 Ethan moved the lemon to the red_bottle.
-18 Ethan exited the hall and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the hall for 10 minutes.
-20 Oliver exited the hall and stayed in the waiting_room.
-21 Mila, Isla, Jack and Ethan entered the TV_room.
-22 The corn is in the green_bottle.
-23 Mila moved the corn to the green_cupboard.
-24 Mila exited the TV_room and stayed in the waiting_room.
-25 Isla moved the corn to the blue_pantry.
-26 Isla exited the TV_room and stayed in the waiting_room.
-27 Jack made no movements and stayed in the TV_room for 10 minutes.
-28 Jack exited the TV_room and stayed in the waiting_room.
-29 Ethan made no movements and stayed in the TV_room for 10 minutes.
-30 Ethan exited the TV_room and stayed in the waiting_room.
-Question: Where is the lemon really?
-Choices: A. blue_suitcase, B. green_bottle, C. green_cupboard, D. blue_pantry, E. green_container, F. green_treasure_chest, G. red_crate, H. blue_treasure_chest, I. red_envelope, J. blue_crate, K. blue_bottle, L. red_container, M. green_envelope, N. red_bucket, O. red_bottle
+1 Owen, Carter, Jack, Emma and Mason entered the study.
+2 The grapes is in the green_cupboard.
+3 Owen moved the grapes to the blue_envelope.
+4 Owen exited the study and stayed in the waiting_room.
+5 Carter moved the grapes to the red_bucket.
+6 Carter exited the study and stayed in the waiting_room.
+7 Jack made no movements and stayed in the study for 10 minutes.
+8 Jack exited the study and stayed in the waiting_room.
+9 Emma made no movements and stayed in the study for 10 minutes.
+10 Emma exited the study and stayed in the waiting_room.
+11 Mason moved the grapes to the green_cupboard.
+12 Mason exited the study and stayed in the waiting_room.
+13 Carter, Owen and Emma entered the attic.
+14 The pineapple is in the green_basket.
+15 Carter moved the pineapple to the green_pantry.
+16 Carter exited the attic and stayed in the waiting_room.
+17 Owen moved the pineapple to the red_cupboard.
+18 Owen exited the attic and stayed in the waiting_room.
+19 Emma made no movements and stayed in the attic for 10 minutes.
+20 Emma exited the attic and stayed in the waiting_room.
+21 Mason, Emma, Jack and Carter entered the cellar.
+22 The watermelon is in the green_envelope.
+23 Mason moved the watermelon to the blue_drawer.
+24 Mason exited the cellar and stayed in the waiting_room.
+25 Emma moved the watermelon to the red_bottle.
+26 Owen likes the red_crate.
+27 Emma exited the cellar and stayed in the waiting_room.
+28 Jack made no movements and stayed in the cellar for 10 minutes.
+29 Jack exited the cellar and stayed in the waiting_room.
+30 Carter made no movements and stayed in the cellar for 10 minutes.
+31 Carter exited the cellar and stayed in the waiting_room.
+Question: Where is the grapes really?
+33 Owen likes the blue_suitcase.
+Choices: A. green_cupboard, B. blue_envelope, C. red_bucket, D. blue_treasure_chest, E. red_crate, F. green_suitcase, G. green_envelope, H. red_bottle, I. blue_drawer, J. blue_suitcase, K. red_cupboard, L. green_basket, M. green_pantry, N. red_bathtub, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

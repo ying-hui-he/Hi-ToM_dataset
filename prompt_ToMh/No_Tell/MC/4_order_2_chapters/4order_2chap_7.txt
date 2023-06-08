@@ -1,25 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Ava, Isla, William and Jacob entered the dining_room.
-2 The lettuce is in the red_drawer.
-3 Emma moved the lettuce to the green_suitcase.
-4 Emma exited the dining_room and stayed in the waiting_room.
-5 Ava moved the lettuce to the green_treasure_chest.
-6 Ava exited the dining_room and stayed in the waiting_room.
-7 Isla made no movements and stayed in the dining_room for 10 minutes.
-8 Isla exited the dining_room and stayed in the waiting_room.
-9 William moved the lettuce to the red_treasure_chest.
-10 William exited the dining_room and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the dining_room for 10 minutes.
-12 Jacob exited the dining_room and stayed in the waiting_room.
-13 Emma, Jacob and William entered the hallway.
-14 The persimmon is in the red_container.
-15 Emma moved the persimmon to the blue_bathtub.
-16 Emma exited the hallway and stayed in the waiting_room.
-17 Jacob moved the persimmon to the blue_basket.
-18 Jacob exited the hallway and stayed in the waiting_room.
-19 William made no movements and stayed in the hallway for 10 minutes.
-20 William exited the hallway and stayed in the waiting_room.
-Question: Where does Emma think Jacob thinks William thinks Ava thinks the lettuce is?
-Choices: A. green_treasure_chest, B. red_drawer, C. red_bottle, D. green_suitcase, E. red_treasure_chest, F. blue_treasure_chest, G. red_bathtub, H. red_basket, I. blue_bucket, J. blue_suitcase, K. blue_bathtub, L. red_container, M. blue_basket, N. blue_bottle, O. green_container
+1 Mason, Carter, Emma, Owen and Jacob entered the playroom.
+2 The pumpkin is in the red_treasure_chest.
+3 Owen saw a dog.
+4 Mason made no movements and stayed in the playroom for 10 minutes.
+5 Mason exited the playroom and stayed in the waiting_room.
+6 Carter made no movements and stayed in the playroom for 10 minutes.
+7 Carter exited the playroom and stayed in the waiting_room.
+8 Emma made no movements and stayed in the playroom for 10 minutes.
+9 Emma exited the playroom and stayed in the waiting_room.
+10 Owen made no movements and stayed in the playroom for 10 minutes.
+11 Owen exited the playroom and stayed in the waiting_room.
+12 Owen dislikes the green_pepper.
+13 Jacob made no movements and stayed in the playroom for 10 minutes.
+14 Owen dislikes the green_pepper.
+15 Jacob exited the playroom and stayed in the waiting_room.
+16 Mason, Owen and Carter entered the back_yard.
+17 Carter dislikes the tomato.
+18 The melon is in the green_box.
+19 Mason made no movements and stayed in the back_yard for 10 minutes.
+20 Mason exited the back_yard and stayed in the waiting_room.
+21 Owen made no movements and stayed in the back_yard for 10 minutes.
+22 Owen exited the back_yard and stayed in the waiting_room.
+23 Carter moved the melon to the blue_bathtub.
+24 Carter exited the back_yard and stayed in the waiting_room.
+Question: Where does Carter think Owen thinks Mason thinks Jacob thinks the pumpkin is?
+Choices: A. red_bathtub, B. red_bottle, C. blue_bottle, D. blue_cupboard, E. red_basket, F. green_treasure_chest, G. red_treasure_chest, H. green_bottle, I. red_cupboard, J. red_container, K. green_box, L. green_basket, M. green_envelope, N. blue_suitcase, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

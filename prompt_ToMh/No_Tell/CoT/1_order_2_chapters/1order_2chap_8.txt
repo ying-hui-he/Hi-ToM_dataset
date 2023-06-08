@@ -1,25 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 William, Aria, Mia, Ethan and Amelia entered the bathroom.
-2 The persimmon is in the blue_bathtub.
-3 William moved the persimmon to the blue_bottle.
-4 William exited the bathroom and stayed in the waiting_room.
-5 Aria moved the persimmon to the blue_pantry.
-6 Aria exited the bathroom and stayed in the waiting_room.
-7 Mia moved the persimmon to the red_envelope.
-8 Mia exited the bathroom and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the bathroom for 10 minutes.
-10 Ethan exited the bathroom and stayed in the waiting_room.
-11 Amelia moved the persimmon to the blue_bathtub.
-12 Amelia exited the bathroom and stayed in the waiting_room.
-13 William, Ethan and Amelia entered the playroom.
-14 The carrot is in the red_container.
-15 William made no movements and stayed in the playroom for 10 minutes.
-16 William exited the playroom and stayed in the waiting_room.
-17 Ethan moved the carrot to the green_suitcase.
-18 Ethan exited the playroom and stayed in the waiting_room.
-19 Amelia moved the carrot to the green_crate.
-20 Amelia exited the playroom and stayed in the waiting_room.
-Question: Where does Amelia think the persimmon is?
-Choices: A. blue_pantry, B. blue_bathtub, C. red_bucket, D. blue_bottle, E. red_envelope, F. green_suitcase, G. red_container, H. green_cupboard, I. green_bottle, J. green_crate, K. blue_basket, L. red_bathtub, M. blue_crate, N. red_treasure_chest, O. blue_treasure_chest
+1 Mila lost his phone.
+2 Sophia, Mila, Nathan, Abigail and Logan entered the office.
+3 The celery is in the red_basket.
+4 Sophia made no movements and stayed in the office for 10 minutes.
+5 Sophia exited the office and stayed in the waiting_room.
+6 Mila moved the celery to the green_bathtub.
+7 Mila exited the office and stayed in the waiting_room.
+8 Nathan moved the celery to the red_box.
+9 Nathan exited the office and stayed in the waiting_room.
+10 Abigail made no movements and stayed in the office for 10 minutes.
+11 Abigail exited the office and stayed in the waiting_room.
+12 Logan made no movements and stayed in the office for 10 minutes.
+13 Logan exited the office and stayed in the waiting_room.
+14 Mila, Nathan and Sophia entered the office.
+15 Nathan lost his phone.
+16 The pineapple is in the red_treasure_chest.
+17 Mila moved the pineapple to the red_basket.
+18 Sophia saw a cat.
+19 Mila exited the office and stayed in the waiting_room.
+20 Nathan moved the pineapple to the green_bathtub.
+21 Nathan likes the green_pantry.
+22 Nathan exited the office and stayed in the waiting_room.
+23 Sophia moved the pineapple to the green_pantry.
+24 Sophia exited the office and stayed in the waiting_room.
+Question: Where does Abigail think the celery is?
+Choices: A. blue_treasure_chest, B. red_envelope, C. green_suitcase, D. red_bathtub, E. green_bucket, F. red_treasure_chest, G. red_basket, H. green_bathtub, I. green_pantry, J. red_box, K. red_bucket, L. green_bottle, M. green_treasure_chest, N. blue_suitcase, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

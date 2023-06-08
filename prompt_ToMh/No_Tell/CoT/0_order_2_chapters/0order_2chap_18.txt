@@ -1,25 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mia, Emma, Logan, Avery and William entered the TV_room.
-2 The celery is in the green_suitcase.
-3 Mia made no movements and stayed in the TV_room for 10 minutes.
-4 Mia exited the TV_room and stayed in the waiting_room.
-5 Emma made no movements and stayed in the TV_room for 10 minutes.
-6 Emma exited the TV_room and stayed in the waiting_room.
-7 Logan moved the celery to the red_treasure_chest.
-8 Logan exited the TV_room and stayed in the waiting_room.
-9 Avery made no movements and stayed in the TV_room for 10 minutes.
-10 Avery exited the TV_room and stayed in the waiting_room.
-11 William moved the celery to the green_suitcase.
-12 William exited the TV_room and stayed in the waiting_room.
-13 Logan, Mia and William entered the TV_room.
-14 The celery is in the green_suitcase.
-15 Logan moved the celery to the red_treasure_chest.
-16 Logan exited the TV_room and stayed in the waiting_room.
-17 Mia made no movements and stayed in the TV_room for 10 minutes.
-18 Mia exited the TV_room and stayed in the waiting_room.
-19 William moved the celery to the blue_drawer.
-20 William exited the TV_room and stayed in the waiting_room.
-Question: Where is the celery really?
-Choices: A. green_suitcase, B. blue_bucket, C. blue_drawer, D. green_container, E. red_treasure_chest, F. green_crate, G. red_bottle, H. green_treasure_chest, I. blue_pantry, J. green_cupboard, K. green_bathtub, L. red_drawer, M. red_basket, N. green_bottle, O. red_crate
+1 Aria, Mia, Liam, Lucas and Emily entered the attic.
+2 The pumpkin is in the green_treasure_chest.
+3 Aria moved the pumpkin to the green_bottle.
+4 Aria exited the attic and stayed in the waiting_room.
+5 Mia made no movements and stayed in the attic for 10 minutes.
+6 Mia exited the attic and stayed in the waiting_room.
+7 Liam moved the pumpkin to the green_box.
+8 Liam exited the attic and stayed in the waiting_room.
+9 Lucas made no movements and stayed in the attic for 10 minutes.
+10 Lucas exited the attic and stayed in the waiting_room.
+11 Emily moved the pumpkin to the green_treasure_chest.
+12 Emily exited the attic and stayed in the waiting_room.
+13 Liam, Emily and Lucas entered the garden.
+14 Mia likes the green_pantry.
+15 The green_pepper is in the green_suitcase.
+16 Liam moved the green_pepper to the red_envelope.
+17 Liam exited the garden and stayed in the waiting_room.
+18 Emily moved the green_pepper to the blue_suitcase.
+19 Liam likes the green_basket.
+20 Emily exited the garden and stayed in the waiting_room.
+21 Lucas moved the green_pepper to the blue_cupboard.
+22 Lucas exited the garden and stayed in the waiting_room.
+Question: Where is the pumpkin really?
+Choices: A. green_box, B. green_treasure_chest, C. red_crate, D. green_bottle, E. red_pantry, F. green_bathtub, G. green_basket, H. blue_crate, I. green_pantry, J. green_bucket, K. blue_suitcase, L. green_suitcase, M. blue_cupboard, N. red_envelope, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

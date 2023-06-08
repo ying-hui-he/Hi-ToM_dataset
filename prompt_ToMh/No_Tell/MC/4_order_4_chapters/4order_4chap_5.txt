@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Avery, Aiden, Mila and Gracie entered the TV_room.
-2 The spinach is in the blue_basket.
-3 Emma moved the spinach to the blue_crate.
-4 Emma exited the TV_room and stayed in the waiting_room.
-5 Avery moved the spinach to the red_crate.
-6 Avery exited the TV_room and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the TV_room for 10 minutes.
-8 Aiden exited the TV_room and stayed in the waiting_room.
-9 Mila moved the spinach to the blue_treasure_chest.
-10 Mila exited the TV_room and stayed in the waiting_room.
-11 Gracie made no movements and stayed in the TV_room for 10 minutes.
-12 Gracie exited the TV_room and stayed in the waiting_room.
-13 Avery, Aiden and Gracie entered the playroom.
-14 The plum is in the blue_pantry.
-15 Avery made no movements and stayed in the playroom for 10 minutes.
-16 Avery exited the playroom and stayed in the waiting_room.
-17 Aiden moved the plum to the red_container.
-18 Aiden exited the playroom and stayed in the waiting_room.
-19 Gracie made no movements and stayed in the playroom for 10 minutes.
-20 Gracie exited the playroom and stayed in the waiting_room.
-21 Mila, Emma, Avery and Aiden entered the dining_room.
-22 The orange is in the blue_drawer.
-23 Mila made no movements and stayed in the dining_room for 10 minutes.
-24 Mila exited the dining_room and stayed in the waiting_room.
-25 Emma moved the orange to the red_bathtub.
-26 Emma exited the dining_room and stayed in the waiting_room.
-27 Avery made no movements and stayed in the dining_room for 10 minutes.
-28 Avery exited the dining_room and stayed in the waiting_room.
-29 Aiden made no movements and stayed in the dining_room for 10 minutes.
-30 Aiden exited the dining_room and stayed in the waiting_room.
-31 Mila and Gracie entered the dining_room.
-32 The orange is in the red_bathtub.
-33 Mila moved the orange to the blue_bottle.
-34 Mila exited the dining_room and stayed in the waiting_room.
-35 Gracie moved the orange to the red_treasure_chest.
-36 Gracie exited the dining_room and stayed in the waiting_room.
-Question: Where does Aiden think Emma thinks Mila thinks Avery thinks the spinach is?
-Choices: A. blue_bottle, B. blue_drawer, C. red_bathtub, D. red_treasure_chest, E. green_cupboard, F. green_treasure_chest, G. blue_pantry, H. red_suitcase, I. green_crate, J. red_container, K. blue_basket, L. blue_box, M. red_crate, N. blue_treasure_chest, O. blue_crate
+1 Emily, Jacob, Charlotte, Gracie and Jayden entered the porch.
+2 The cabbage is in the blue_cupboard.
+3 Emily moved the cabbage to the red_crate.
+4 Emily exited the porch and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the porch for 10 minutes.
+6 Jacob exited the porch and stayed in the waiting_room.
+7 Charlotte moved the cabbage to the blue_treasure_chest.
+8 Charlotte exited the porch and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the porch for 10 minutes.
+10 Gracie exited the porch and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the porch for 10 minutes.
+12 Jayden exited the porch and stayed in the waiting_room.
+13 Charlotte, Gracie and Jayden entered the porch.
+14 The cabbage is in the blue_treasure_chest.
+15 Charlotte moved the cabbage to the blue_cupboard.
+16 Charlotte exited the porch and stayed in the waiting_room.
+17 Gracie moved the cabbage to the red_crate.
+18 Gracie exited the porch and stayed in the waiting_room.
+19 Charlotte lost his phone.
+20 Jayden moved the cabbage to the red_container.
+21 Gracie saw a dog.
+22 Jayden exited the porch and stayed in the waiting_room.
+23 Gracie, Jacob, Charlotte and Emily entered the hall.
+24 The banana is in the red_cupboard.
+25 Gracie made no movements and stayed in the hall for 10 minutes.
+26 Gracie exited the hall and stayed in the waiting_room.
+27 Jacob made no movements and stayed in the hall for 10 minutes.
+28 Jacob exited the hall and stayed in the waiting_room.
+29 Charlotte made no movements and stayed in the hall for 10 minutes.
+30 Charlotte exited the hall and stayed in the waiting_room.
+31 Emily made no movements and stayed in the hall for 10 minutes.
+32 Emily exited the hall and stayed in the waiting_room.
+33 Jacob and Gracie entered the dining_room.
+34 The eggplant is in the green_box.
+35 Jacob moved the eggplant to the blue_suitcase.
+36 Jacob exited the dining_room and stayed in the waiting_room.
+37 Gracie moved the eggplant to the green_treasure_chest.
+38 Gracie exited the dining_room and stayed in the waiting_room.
+Question: Where does Gracie think Emily thinks Charlotte thinks Jacob thinks the cabbage is?
+40 Gracie lost his bottle.
+Choices: A. blue_bathtub, B. blue_cupboard, C. red_crate, D. blue_treasure_chest, E. red_container, F. blue_bucket, G. green_box, H. red_box, I. green_treasure_chest, J. blue_suitcase, K. red_cupboard, L. blue_bottle, M. green_bathtub, N. red_bathtub, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Oliver, Emily, Gracie and Ella entered the master_bedroom.
-2 The persimmon is in the red_bucket.
-3 Logan made no movements and stayed in the master_bedroom for 10 minutes.
-4 Logan exited the master_bedroom and stayed in the waiting_room.
-5 Oliver made no movements and stayed in the master_bedroom for 10 minutes.
-6 Oliver exited the master_bedroom and stayed in the waiting_room.
-7 Emily made no movements and stayed in the master_bedroom for 10 minutes.
-8 Emily exited the master_bedroom and stayed in the waiting_room.
-9 Gracie moved the persimmon to the red_envelope.
-10 Gracie exited the master_bedroom and stayed in the waiting_room.
-11 Ella moved the persimmon to the red_bucket.
-12 Ella exited the master_bedroom and stayed in the waiting_room.
-13 Gracie, Oliver and Emily entered the den.
-14 The onion is in the blue_bathtub.
-15 Gracie made no movements and stayed in the den for 10 minutes.
-16 Gracie exited the den and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the den for 10 minutes.
-18 Oliver exited the den and stayed in the waiting_room.
-19 Emily made no movements and stayed in the den for 10 minutes.
-20 Emily exited the den and stayed in the waiting_room.
-21 Oliver privately told Emily that the onion is actually in the green_bathtub.
-22 Emily privately told Ella that the onion is actually in the blue_bathtub.
-Question: Where does Emily think Ella thinks Oliver thinks the persimmon is?
-Choices: A. red_bottle, B. blue_bathtub, C. red_treasure_chest, D. blue_bottle, E. green_bathtub, F. blue_suitcase, G. red_bucket, H. blue_bucket, I. green_cupboard, J. red_envelope, K. green_treasure_chest, L. blue_drawer, M. blue_treasure_chest, N. red_basket, O. blue_basket
+1 Emma, Ella, Chloe, Alexander and Jayden entered the front_yard.
+2 The grapefruit is in the red_box.
+3 Jayden saw a dog.
+4 Emma moved the grapefruit to the blue_crate.
+5 Emma exited the front_yard and stayed in the waiting_room.
+6 Ella made no movements and stayed in the front_yard for 10 minutes.
+7 Ella exited the front_yard and stayed in the waiting_room.
+8 Chloe moved the grapefruit to the red_basket.
+9 Chloe exited the front_yard and stayed in the waiting_room.
+10 Alexander made no movements and stayed in the front_yard for 10 minutes.
+11 Alexander exited the front_yard and stayed in the waiting_room.
+12 Emma likes the blue_envelope.
+13 Jayden moved the grapefruit to the red_box.
+14 Jayden exited the front_yard and stayed in the waiting_room.
+15 Emma, Alexander and Ella entered the front_yard.
+16 Alexander dislikes the grapefruit.
+17 The broccoli is in the red_basket.
+18 Emma made no movements and stayed in the front_yard for 10 minutes.
+19 Emma exited the front_yard and stayed in the waiting_room.
+20 Alexander moved the broccoli to the blue_crate.
+21 Alexander exited the front_yard and stayed in the waiting_room.
+22 Ella made no movements and stayed in the front_yard for 10 minutes.
+23 Ella exited the front_yard and stayed in the waiting_room.
+24 Emma publicly claimed that broccoli is in the red_crate.
+25 Ella privately told Jayden that the broccoli is actually in the blue_crate.
+Question: Where does Alexander think Jayden thinks Emma thinks the grapefruit is?
+Choices: A. green_suitcase, B. red_bucket, C. green_bottle, D. blue_envelope, E. blue_bottle, F. red_treasure_chest, G. green_bathtub, H. red_cupboard, I. blue_cupboard, J. red_envelope, K. red_basket, L. red_box, M. blue_crate, N. red_pantry, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

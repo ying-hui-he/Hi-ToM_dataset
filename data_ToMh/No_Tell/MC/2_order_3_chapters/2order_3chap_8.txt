@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, James, Abigail, Aiden and Olivia entered the bedroom.
-2 The peach is in the red_envelope.
-3 Jayden moved the peach to the red_suitcase.
-4 Jayden exited the bedroom and stayed in the waiting_room.
-5 James made no movements and stayed in the bedroom for 10 minutes.
-6 James exited the bedroom and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the bedroom for 10 minutes.
-8 Abigail exited the bedroom and stayed in the waiting_room.
-9 Aiden moved the peach to the blue_container.
-10 Aiden exited the bedroom and stayed in the waiting_room.
-11 Olivia moved the peach to the red_envelope.
-12 Olivia exited the bedroom and stayed in the waiting_room.
-13 James, Jayden and Aiden entered the bedroom.
-14 The apple is in the blue_treasure_chest.
-15 James made no movements and stayed in the bedroom for 10 minutes.
-16 James exited the bedroom and stayed in the waiting_room.
-17 Jayden moved the apple to the blue_container.
-18 Jayden exited the bedroom and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the bedroom for 10 minutes.
-20 Aiden exited the bedroom and stayed in the waiting_room.
-21 James, Jayden, Aiden and Olivia entered the kitchen.
-22 The beans is in the green_container.
-23 James moved the beans to the blue_box.
-24 James exited the kitchen and stayed in the waiting_room.
-25 Jayden moved the beans to the blue_drawer.
-26 Jayden exited the kitchen and stayed in the waiting_room.
-27 Aiden moved the beans to the green_treasure_chest.
-28 Aiden exited the kitchen and stayed in the waiting_room.
-29 Olivia moved the beans to the red_drawer.
-30 Olivia exited the kitchen and stayed in the waiting_room.
-Question: Where does Jayden think Olivia thinks the peach is?
-Answer: red_envelope
-Choices: A. blue_treasure_chest, B. red_envelope, C. green_envelope, D. blue_container, E. red_suitcase, F. green_container, G. red_drawer, H. blue_box, I. blue_drawer, J. green_treasure_chest, K. blue_bathtub, L. green_cupboard, M. blue_suitcase, N. blue_crate, O. red_crate
+1 Abigail, Amelia, Mia, Sophia and Gracie entered the dining_room.
+2 The cabbage is in the blue_envelope.
+3 Abigail likes the red_crate.
+4 Abigail moved the cabbage to the blue_drawer.
+5 Abigail exited the dining_room and stayed in the waiting_room.
+6 Amelia moved the cabbage to the green_bathtub.
+7 Amelia exited the dining_room and stayed in the waiting_room.
+8 Mia moved the cabbage to the red_pantry.
+9 Mia exited the dining_room and stayed in the waiting_room.
+10 Sophia made no movements and stayed in the dining_room for 10 minutes.
+11 Sophia exited the dining_room and stayed in the waiting_room.
+12 Gracie moved the cabbage to the blue_envelope.
+13 Gracie exited the dining_room and stayed in the waiting_room.
+14 Gracie, Mia and Amelia entered the office.
+15 The onion is in the green_bucket.
+16 Gracie moved the onion to the red_bathtub.
+17 Gracie exited the office and stayed in the waiting_room.
+18 Sophia saw a dog.
+19 Mia moved the onion to the red_box.
+20 Mia exited the office and stayed in the waiting_room.
+21 Amelia moved the onion to the green_pantry.
+22 Amelia exited the office and stayed in the waiting_room.
+23 Amelia, Sophia, Mia and Gracie entered the hallway.
+24 The tangerine is in the red_basket.
+25 Amelia made no movements and stayed in the hallway for 10 minutes.
+26 Amelia exited the hallway and stayed in the waiting_room.
+27 Sophia made no movements and stayed in the hallway for 10 minutes.
+28 Sophia exited the hallway and stayed in the waiting_room.
+29 Mia made no movements and stayed in the hallway for 10 minutes.
+30 Mia exited the hallway and stayed in the waiting_room.
+31 Sophia saw a monkey.
+32 Gracie moved the tangerine to the blue_bathtub.
+33 Gracie exited the hallway and stayed in the waiting_room.
+Question: Where does Gracie think Sophia thinks the cabbage is?
+Answer: None
+Choices: A. blue_drawer, B. blue_envelope, C. red_crate, D. green_bathtub, E. red_pantry, F. red_basket, G. green_treasure_chest, H. blue_bathtub, I. green_envelope, J. blue_suitcase, K. green_pantry, L. green_bucket, M. red_bathtub, N. red_treasure_chest, O. red_box

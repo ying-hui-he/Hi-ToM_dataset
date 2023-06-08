@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Hannah, William, Aiden, Emma and Jackson entered the attic.
-2 The spinach is in the green_suitcase.
-3 Hannah moved the spinach to the blue_bottle.
-4 Hannah exited the attic and stayed in the waiting_room.
-5 William moved the spinach to the red_bucket.
-6 William exited the attic and stayed in the waiting_room.
-7 Aiden moved the spinach to the blue_suitcase.
-8 Aiden exited the attic and stayed in the waiting_room.
-9 Emma moved the spinach to the red_drawer.
-10 Emma exited the attic and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the attic for 10 minutes.
-12 Jackson exited the attic and stayed in the waiting_room.
-13 Hannah, Emma and Aiden entered the master_bedroom.
-14 The melon is in the blue_bucket.
-15 Hannah made no movements and stayed in the master_bedroom for 10 minutes.
-16 Hannah exited the master_bedroom and stayed in the waiting_room.
-17 Emma made no movements and stayed in the master_bedroom for 10 minutes.
-18 Emma exited the master_bedroom and stayed in the waiting_room.
-19 Aiden moved the melon to the blue_basket.
-20 Aiden exited the master_bedroom and stayed in the waiting_room.
-21 Hannah, Jackson, William and Aiden entered the master_bedroom.
-22 The melon is in the blue_basket.
-23 Hannah moved the melon to the blue_bucket.
-24 Hannah exited the master_bedroom and stayed in the waiting_room.
-25 Jackson moved the melon to the red_envelope.
-26 Jackson exited the master_bedroom and stayed in the waiting_room.
-27 William made no movements and stayed in the master_bedroom for 10 minutes.
-28 William exited the master_bedroom and stayed in the waiting_room.
-29 Aiden moved the melon to the green_crate.
-30 Aiden exited the master_bedroom and stayed in the waiting_room.
-Question: Where does Jackson think William thinks the spinach is?
-Choices: A. green_suitcase, B. blue_suitcase, C. red_drawer, D. blue_bottle, E. red_bucket, F. blue_treasure_chest, G. blue_bucket, H. blue_basket, I. green_crate, J. red_envelope, K. green_bathtub, L. green_container, M. red_crate, N. blue_container, O. blue_box
+1 Liam, Emily, Ethan, Jackson and Nathan entered the garden.
+2 The green_pepper is in the red_bucket.
+3 Jackson saw a mouse.
+4 Liam moved the green_pepper to the green_box.
+5 Liam exited the garden and stayed in the waiting_room.
+6 Emily moved the green_pepper to the green_suitcase.
+7 Emily exited the garden and stayed in the waiting_room.
+8 Ethan moved the green_pepper to the green_envelope.
+9 Ethan exited the garden and stayed in the waiting_room.
+10 Jackson made no movements and stayed in the garden for 10 minutes.
+11 Jackson exited the garden and stayed in the waiting_room.
+12 Nathan moved the green_pepper to the red_bucket.
+13 Nathan exited the garden and stayed in the waiting_room.
+14 Liam, Nathan and Emily entered the garden.
+15 The green_pepper is in the red_bucket.
+16 Liam made no movements and stayed in the garden for 10 minutes.
+17 Liam exited the garden and stayed in the waiting_room.
+18 Jackson saw a monkey.
+19 Nathan moved the green_pepper to the green_box.
+20 Nathan exited the garden and stayed in the waiting_room.
+21 Emily made no movements and stayed in the garden for 10 minutes.
+22 Emily exited the garden and stayed in the waiting_room.
+23 Ethan, Nathan, Liam and Jackson entered the garden.
+24 The asparagus is in the green_envelope.
+25 Ethan moved the asparagus to the green_suitcase.
+26 Ethan exited the garden and stayed in the waiting_room.
+27 Nathan made no movements and stayed in the garden for 10 minutes.
+28 Nathan exited the garden and stayed in the waiting_room.
+29 Liam moved the asparagus to the blue_cupboard.
+30 Liam exited the garden and stayed in the waiting_room.
+31 Jackson made no movements and stayed in the garden for 10 minutes.
+32 Jackson exited the garden and stayed in the waiting_room.
+Question: Where does Nathan think Liam thinks the green_pepper is?
+Choices: A. red_bucket, B. green_envelope, C. blue_cupboard, D. green_box, E. green_suitcase, F. blue_treasure_chest, G. blue_suitcase, H. blue_bucket, I. red_envelope, J. red_basket, K. red_cupboard, L. green_basket, M. green_bathtub, N. blue_envelope, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

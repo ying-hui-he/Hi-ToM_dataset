@@ -1,25 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Gracie, Owen, Olivia, Carter and Noah entered the laundry.
-2 The cucumber is in the blue_drawer.
-3 Gracie moved the cucumber to the red_bucket.
-4 Gracie exited the laundry and stayed in the waiting_room.
-5 Owen moved the cucumber to the green_cupboard.
-6 Owen exited the laundry and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the laundry for 10 minutes.
-8 Olivia exited the laundry and stayed in the waiting_room.
-9 Carter moved the cucumber to the blue_envelope.
-10 Carter exited the laundry and stayed in the waiting_room.
-11 Noah moved the cucumber to the blue_drawer.
-12 Noah exited the laundry and stayed in the waiting_room.
-13 Owen, Gracie and Noah entered the laundry.
-14 The cucumber is in the blue_drawer.
-15 Owen moved the cucumber to the blue_envelope.
-16 Owen exited the laundry and stayed in the waiting_room.
-17 Gracie moved the cucumber to the red_treasure_chest.
-18 Gracie exited the laundry and stayed in the waiting_room.
-19 Noah made no movements and stayed in the laundry for 10 minutes.
-20 Noah exited the laundry and stayed in the waiting_room.
-Question: Where is the cucumber really?
-Choices: A. red_treasure_chest, B. blue_drawer, C. green_cupboard, D. red_bucket, E. blue_envelope, F. blue_crate, G. red_suitcase, H. green_bottle, I. green_container, J. blue_bucket, K. red_bottle, L. blue_box, M. red_drawer, N. blue_pantry, O. green_bathtub
+1 Emily, Owen, Hannah, Nathan and Liam entered the patio.
+2 The carrot is in the red_bottle.
+3 Emily moved the carrot to the green_bottle.
+4 Emily likes the red_bottle.
+5 Emily exited the patio and stayed in the waiting_room.
+6 Owen made no movements and stayed in the patio for 10 minutes.
+7 Owen exited the patio and stayed in the waiting_room.
+8 Hannah moved the carrot to the green_cupboard.
+9 Hannah exited the patio and stayed in the waiting_room.
+10 Nathan made no movements and stayed in the patio for 10 minutes.
+11 Owen likes the green_bottle.
+12 Nathan exited the patio and stayed in the waiting_room.
+13 Liam moved the carrot to the red_bottle.
+14 Hannah lost his watch.
+15 Liam exited the patio and stayed in the waiting_room.
+16 Emily, Owen and Nathan entered the lounge.
+17 The asparagus is in the blue_crate.
+18 Emily made no movements and stayed in the lounge for 10 minutes.
+19 Emily exited the lounge and stayed in the waiting_room.
+20 Owen moved the asparagus to the blue_drawer.
+21 Owen exited the lounge and stayed in the waiting_room.
+22 Nathan made no movements and stayed in the lounge for 10 minutes.
+23 Nathan exited the lounge and stayed in the waiting_room.
+Question: Where is the carrot really?
+25 Hannah dislikes the turnip.
+Choices: A. green_basket, B. green_treasure_chest, C. blue_bucket, D. blue_treasure_chest, E. red_pantry, F. red_bottle, G. green_pantry, H. green_bottle, I. green_cupboard, J. blue_bathtub, K. red_bucket, L. blue_crate, M. blue_drawer, N. green_bucket, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

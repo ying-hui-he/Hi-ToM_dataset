@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Jack, Charlotte, Logan and Ava entered the basement.
-2 The banana is in the blue_container.
-3 Jacob made no movements and stayed in the basement for 10 minutes.
-4 Jacob exited the basement and stayed in the waiting_room.
-5 Jack moved the banana to the red_envelope.
-6 Jack exited the basement and stayed in the waiting_room.
-7 Charlotte moved the banana to the red_crate.
-8 Charlotte exited the basement and stayed in the waiting_room.
-9 Logan made no movements and stayed in the basement for 10 minutes.
-10 Logan exited the basement and stayed in the waiting_room.
-11 Ava moved the banana to the blue_container.
-12 Ava exited the basement and stayed in the waiting_room.
-13 Jack, Ava and Jacob entered the laundry.
-14 The lime is in the green_crate.
-15 Jack moved the lime to the green_bathtub.
-16 Jack exited the laundry and stayed in the waiting_room.
-17 Ava made no movements and stayed in the laundry for 10 minutes.
-18 Ava exited the laundry and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the laundry for 10 minutes.
-20 Jacob exited the laundry and stayed in the waiting_room.
-21 Logan, Jack, Ava and Jacob entered the basement.
-22 The tomato is in the green_cupboard.
-23 Logan moved the tomato to the red_crate.
-24 Logan exited the basement and stayed in the waiting_room.
-25 Jack moved the tomato to the red_envelope.
-26 Jack exited the basement and stayed in the waiting_room.
-27 Ava moved the tomato to the blue_container.
-28 Ava exited the basement and stayed in the waiting_room.
-29 Jacob made no movements and stayed in the basement for 10 minutes.
-30 Jacob exited the basement and stayed in the waiting_room.
-31 Ava and Jack entered the basement.
-32 The banana is in the blue_container.
-33 Ava made no movements and stayed in the basement for 10 minutes.
-34 Ava exited the basement and stayed in the waiting_room.
-35 Jack moved the banana to the green_envelope.
-36 Jack exited the basement and stayed in the waiting_room.
-Question: Where does Jack think the banana is?
-Choices: A. green_cupboard, B. blue_container, C. red_crate, D. green_envelope, E. red_envelope, F. blue_crate, G. blue_envelope, H. green_suitcase, I. green_treasure_chest, J. blue_drawer, K. green_crate, L. blue_pantry, M. red_container, N. green_bathtub, O. red_bucket
+1 Amelia, Jack, Jayden, Ella and Abigail entered the hallway.
+2 The banana is in the red_bottle.
+3 Amelia moved the banana to the green_box.
+4 Amelia exited the hallway and stayed in the waiting_room.
+5 Jack made no movements and stayed in the hallway for 10 minutes.
+6 Jack exited the hallway and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the hallway for 10 minutes.
+8 Jayden exited the hallway and stayed in the waiting_room.
+9 Jayden lost his watch.
+10 Ella made no movements and stayed in the hallway for 10 minutes.
+11 Ella exited the hallway and stayed in the waiting_room.
+12 Abigail made no movements and stayed in the hallway for 10 minutes.
+13 Abigail exited the hallway and stayed in the waiting_room.
+14 Jayden, Abigail and Amelia entered the closet.
+15 Amelia saw a cat.
+16 The potato is in the blue_treasure_chest.
+17 Jayden made no movements and stayed in the closet for 10 minutes.
+18 Jayden exited the closet and stayed in the waiting_room.
+19 Abigail moved the potato to the red_envelope.
+20 Ella lost his watch.
+21 Abigail exited the closet and stayed in the waiting_room.
+22 Amelia made no movements and stayed in the closet for 10 minutes.
+23 Amelia exited the closet and stayed in the waiting_room.
+24 Jack, Abigail, Amelia and Jayden entered the pantry.
+25 The lettuce is in the green_bathtub.
+26 Jack moved the lettuce to the red_box.
+27 Jack exited the pantry and stayed in the waiting_room.
+28 Abigail made no movements and stayed in the pantry for 10 minutes.
+29 Abigail exited the pantry and stayed in the waiting_room.
+30 Ella lost his bottle.
+31 Amelia made no movements and stayed in the pantry for 10 minutes.
+32 Amelia exited the pantry and stayed in the waiting_room.
+33 Jayden made no movements and stayed in the pantry for 10 minutes.
+34 Jack dislikes the potato.
+35 Jayden exited the pantry and stayed in the waiting_room.
+36 Jayden and Jack entered the closet.
+37 The potato is in the red_envelope.
+38 Jayden made no movements and stayed in the closet for 10 minutes.
+39 Jayden exited the closet and stayed in the waiting_room.
+40 Jack made no movements and stayed in the closet for 10 minutes.
+41 Jack exited the closet and stayed in the waiting_room.
+Question: Where does Amelia think the banana is?
+Choices: A. blue_treasure_chest, B. green_bottle, C. red_pantry, D. red_envelope, E. blue_bathtub, F. red_treasure_chest, G. red_bottle, H. green_treasure_chest, I. blue_bucket, J. green_box, K. blue_drawer, L. green_bathtub, M. red_container, N. red_basket, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

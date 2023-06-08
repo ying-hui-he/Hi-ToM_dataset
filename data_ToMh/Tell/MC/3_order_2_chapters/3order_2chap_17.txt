@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Evelyn, Ella, James and Avery entered the crawlspace.
-2 The pumpkin is in the blue_bucket.
-3 Gracie made no movements and stayed in the crawlspace for 10 minutes.
-4 Gracie exited the crawlspace and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the crawlspace for 10 minutes.
-6 Evelyn exited the crawlspace and stayed in the waiting_room.
-7 Ella made no movements and stayed in the crawlspace for 10 minutes.
-8 Ella exited the crawlspace and stayed in the waiting_room.
-9 James moved the pumpkin to the red_basket.
-10 James exited the crawlspace and stayed in the waiting_room.
-11 Avery moved the pumpkin to the blue_bucket.
-12 Avery exited the crawlspace and stayed in the waiting_room.
-13 James, Evelyn and Avery entered the crawlspace.
-14 The pumpkin is in the blue_bucket.
-15 James made no movements and stayed in the crawlspace for 10 minutes.
-16 James exited the crawlspace and stayed in the waiting_room.
-17 Evelyn moved the pumpkin to the blue_suitcase.
-18 Evelyn exited the crawlspace and stayed in the waiting_room.
-19 Avery made no movements and stayed in the crawlspace for 10 minutes.
-20 Avery exited the crawlspace and stayed in the waiting_room.
-21 James publicly claimed that pumpkin is in the blue_bucket.
-22 Avery privately told Ella that the pumpkin is actually in the blue_suitcase.
-Question: Where does Avery think Ella thinks Gracie thinks the pumpkin is?
+1 Jacob, Liam, Mason, Chloe and Abigail entered the dining_room.
+2 The banana is in the red_pantry.
+3 Jacob moved the banana to the green_suitcase.
+4 Jacob exited the dining_room and stayed in the waiting_room.
+5 Liam moved the banana to the red_treasure_chest.
+6 Liam exited the dining_room and stayed in the waiting_room.
+7 Mason moved the banana to the red_cupboard.
+8 Mason exited the dining_room and stayed in the waiting_room.
+9 Chloe made no movements and stayed in the dining_room for 10 minutes.
+10 Chloe exited the dining_room and stayed in the waiting_room.
+11 Abigail moved the banana to the red_pantry.
+12 Abigail exited the dining_room and stayed in the waiting_room.
+13 Abigail lost his watch.
+14 Jacob, Liam and Abigail entered the hall.
+15 The cabbage is in the green_cupboard.
+16 Jacob moved the cabbage to the green_bathtub.
+17 Jacob exited the hall and stayed in the waiting_room.
+18 Liam made no movements and stayed in the hall for 10 minutes.
+19 Liam exited the hall and stayed in the waiting_room.
+20 Jacob dislikes the cabbage.
+21 Abigail made no movements and stayed in the hall for 10 minutes.
+22 Abigail exited the hall and stayed in the waiting_room.
+23 Liam publicly claimed that cabbage is in the red_box.
+24 Abigail privately told Liam that the cabbage is actually in the green_box.
+25 Chloe lost his phone.
+Question: Where does Liam think Jacob thinks Mason thinks the banana is?
 Answer: None
-Choices: A. blue_bucket, B. red_basket, C. red_bucket, D. blue_drawer, E. blue_suitcase, F. red_bathtub, G. red_drawer, H. blue_container, I. green_bathtub, J. blue_crate, K. green_cupboard, L. blue_envelope, M. green_crate, N. blue_bottle, O. green_suitcase
+Choices: A. red_bottle, B. green_cupboard, C. green_box, D. green_bathtub, E. red_box, F. red_pantry, G. green_suitcase, H. red_cupboard, I. blue_envelope, J. red_treasure_chest, K. red_envelope, L. red_crate, M. green_envelope, N. blue_bottle, O. blue_drawer

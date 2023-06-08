@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Isla, Olivia, Evelyn, Mia and Abigail entered the living_room.
-2 The cherry is in the blue_bottle.
-3 Isla made no movements and stayed in the living_room for 10 minutes.
-4 Isla exited the living_room and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the living_room for 10 minutes.
-6 Olivia exited the living_room and stayed in the waiting_room.
-7 Evelyn moved the cherry to the red_bathtub.
-8 Evelyn exited the living_room and stayed in the waiting_room.
-9 Mia made no movements and stayed in the living_room for 10 minutes.
-10 Mia exited the living_room and stayed in the waiting_room.
-11 Abigail moved the cherry to the blue_bottle.
-12 Abigail exited the living_room and stayed in the waiting_room.
-Question: Where does Isla think Mia thinks Abigail thinks the cherry is?
-Choices: A. red_treasure_chest, B. green_suitcase, C. green_bathtub, D. blue_drawer, E. green_bottle, F. blue_bottle, G. green_treasure_chest, H. blue_pantry, I. red_container, J. red_bathtub, K. red_suitcase, L. blue_crate, M. blue_treasure_chest, N. green_container, O. red_bucket
+1 Hannah, Aiden, Emily, Mila and Sophia entered the hall.
+2 The grapes is in the green_pantry.
+3 Hannah moved the grapes to the red_pantry.
+4 Hannah exited the hall and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the hall for 10 minutes.
+6 Aiden exited the hall and stayed in the waiting_room.
+7 Emily made no movements and stayed in the hall for 10 minutes.
+8 Emily exited the hall and stayed in the waiting_room.
+9 Mila moved the grapes to the red_container.
+10 Mila exited the hall and stayed in the waiting_room.
+11 Sophia made no movements and stayed in the hall for 10 minutes.
+12 Sophia likes the red_bottle.
+13 Sophia exited the hall and stayed in the waiting_room.
+Question: Where does Mila think Emily thinks Sophia thinks the grapes is?
+Choices: A. blue_envelope, B. blue_bottle, C. red_bottle, D. blue_bucket, E. red_treasure_chest, F. green_pantry, G. blue_bathtub, H. green_bottle, I. red_container, J. red_pantry, K. green_bathtub, L. blue_crate, M. green_suitcase, N. red_bucket, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

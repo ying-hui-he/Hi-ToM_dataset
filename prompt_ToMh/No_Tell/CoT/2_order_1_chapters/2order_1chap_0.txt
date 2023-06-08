@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Mia, Charlotte, Aiden and Oliver entered the kitchen.
-2 The banana is in the red_basket.
-3 Hannah moved the banana to the red_drawer.
-4 Hannah exited the kitchen and stayed in the waiting_room.
-5 Mia moved the banana to the red_container.
-6 Mia exited the kitchen and stayed in the waiting_room.
-7 Charlotte moved the banana to the red_bathtub.
-8 Charlotte exited the kitchen and stayed in the waiting_room.
-9 Aiden moved the banana to the blue_bathtub.
-10 Aiden exited the kitchen and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the kitchen for 10 minutes.
-12 Oliver exited the kitchen and stayed in the waiting_room.
-Question: Where does Mia think Charlotte thinks the banana is?
-Choices: A. red_container, B. red_basket, C. red_bathtub, D. red_drawer, E. blue_bathtub, F. blue_bottle, G. red_crate, H. red_treasure_chest, I. blue_treasure_chest, J. green_crate, K. green_bottle, L. green_envelope, M. blue_container, N. blue_suitcase, O. green_cupboard
+1 Lucas, Aiden, Emily, Logan and Ava entered the lounge.
+2 The pumpkin is in the red_envelope.
+3 Lucas moved the pumpkin to the green_pantry.
+4 Lucas exited the lounge and stayed in the waiting_room.
+5 Emily dislikes the cabbage.
+6 Aiden moved the pumpkin to the blue_treasure_chest.
+7 Aiden exited the lounge and stayed in the waiting_room.
+8 Emily made no movements and stayed in the lounge for 10 minutes.
+9 Emily exited the lounge and stayed in the waiting_room.
+10 Logan made no movements and stayed in the lounge for 10 minutes.
+11 Logan exited the lounge and stayed in the waiting_room.
+12 Logan lost his phone.
+13 Ava moved the pumpkin to the red_envelope.
+14 Ava exited the lounge and stayed in the waiting_room.
+Question: Where does Aiden think Ava thinks the pumpkin is?
+Choices: A. blue_bottle, B. red_box, C. blue_suitcase, D. green_box, E. blue_drawer, F. red_envelope, G. red_pantry, H. blue_treasure_chest, I. red_container, J. green_pantry, K. red_crate, L. green_basket, M. red_bottle, N. green_suitcase, O. blue_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

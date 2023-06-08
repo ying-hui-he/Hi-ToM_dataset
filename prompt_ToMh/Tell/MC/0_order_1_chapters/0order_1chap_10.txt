@@ -1,19 +1,22 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Ella, James, Mia and Amelia entered the hall.
-2 The cucumber is in the green_container.
-3 Benjamin made no movements and stayed in the hall for 10 minutes.
-4 Benjamin exited the hall and stayed in the waiting_room.
-5 Ella moved the cucumber to the blue_drawer.
-6 Ella exited the hall and stayed in the waiting_room.
-7 James made no movements and stayed in the hall for 10 minutes.
-8 James exited the hall and stayed in the waiting_room.
-9 Mia made no movements and stayed in the hall for 10 minutes.
-10 Mia exited the hall and stayed in the waiting_room.
-11 Amelia moved the cucumber to the green_container.
-12 Amelia exited the hall and stayed in the waiting_room.
-13 James publicly claimed that cucumber is in the blue_drawer.
-14 Amelia privately told James that the cucumber is actually in the red_bottle.
-Question: Where is the cucumber really?
-Choices: A. red_suitcase, B. red_bucket, C. red_basket, D. green_bottle, E. blue_suitcase, F. red_drawer, G. green_container, H. blue_drawer, I. red_treasure_chest, J. red_bottle, K. blue_bottle, L. blue_envelope, M. blue_bathtub, N. red_container, O. blue_box
+1 Hannah, Nathan, Ella, Emma and Amelia entered the den.
+2 The pumpkin is in the blue_bathtub.
+3 Hannah made no movements and stayed in the den for 10 minutes.
+4 Hannah exited the den and stayed in the waiting_room.
+5 Nathan moved the pumpkin to the blue_crate.
+6 Nathan exited the den and stayed in the waiting_room.
+7 Ella made no movements and stayed in the den for 10 minutes.
+8 Nathan likes the green_box.
+9 Ella exited the den and stayed in the waiting_room.
+10 Emma made no movements and stayed in the den for 10 minutes.
+11 Nathan dislikes the beans.
+12 Emma exited the den and stayed in the waiting_room.
+13 Amelia made no movements and stayed in the den for 10 minutes.
+14 Hannah likes the blue_cupboard.
+15 Amelia exited the den and stayed in the waiting_room.
+16 Ella privately told Hannah that the pumpkin is actually in the green_suitcase.
+17 Nathan privately told Emma that the pumpkin is actually in the blue_bathtub.
+Question: Where is the pumpkin really?
+Choices: A. blue_envelope, B. blue_drawer, C. red_cupboard, D. green_treasure_chest, E. blue_cupboard, F. red_bottle, G. blue_treasure_chest, H. green_pantry, I. green_box, J. red_pantry, K. blue_crate, L. blue_bathtub, M. green_bottle, N. red_bucket, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

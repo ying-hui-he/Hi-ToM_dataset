@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Noah, Jacob, Aiden, James and Ella entered the crawlspace.
-2 The banana is in the red_bathtub.
-3 Noah moved the banana to the green_suitcase.
-4 Noah exited the crawlspace and stayed in the waiting_room.
-5 Jacob made no movements and stayed in the crawlspace for 10 minutes.
-6 Jacob exited the crawlspace and stayed in the waiting_room.
-7 Aiden moved the banana to the green_cupboard.
-8 Aiden exited the crawlspace and stayed in the waiting_room.
-9 James made no movements and stayed in the crawlspace for 10 minutes.
-10 James exited the crawlspace and stayed in the waiting_room.
-11 Ella made no movements and stayed in the crawlspace for 10 minutes.
-12 Ella exited the crawlspace and stayed in the waiting_room.
-13 James, Noah and Jacob entered the crawlspace.
-14 The banana is in the green_cupboard.
-15 James moved the banana to the blue_container.
-16 James exited the crawlspace and stayed in the waiting_room.
-17 Noah made no movements and stayed in the crawlspace for 10 minutes.
-18 Noah exited the crawlspace and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the crawlspace for 10 minutes.
-20 Jacob exited the crawlspace and stayed in the waiting_room.
-Question: Where does Noah think Jacob thinks James thinks the banana is?
-Choices: A. red_bathtub, B. green_cupboard, C. blue_basket, D. blue_container, E. green_suitcase, F. blue_box, G. blue_bathtub, H. red_envelope, I. red_container, J. red_drawer, K. red_crate, L. blue_pantry, M. green_bathtub, N. red_bucket, O. green_treasure_chest
+1 Hannah, Charlotte, Aria, Emily and Ava entered the sunroom.
+2 The eggplant is in the red_treasure_chest.
+3 Hannah moved the eggplant to the blue_bathtub.
+4 Hannah exited the sunroom and stayed in the waiting_room.
+5 Charlotte moved the eggplant to the red_bucket.
+6 Charlotte exited the sunroom and stayed in the waiting_room.
+7 Aria made no movements and stayed in the sunroom for 10 minutes.
+8 Aria exited the sunroom and stayed in the waiting_room.
+9 Emily moved the eggplant to the red_envelope.
+10 Emily exited the sunroom and stayed in the waiting_room.
+11 Ava moved the eggplant to the red_treasure_chest.
+12 Ava exited the sunroom and stayed in the waiting_room.
+13 Ava, Charlotte and Aria entered the sunroom.
+14 The eggplant is in the red_treasure_chest.
+15 Ava moved the eggplant to the red_bucket.
+16 Ava exited the sunroom and stayed in the waiting_room.
+17 Charlotte moved the eggplant to the blue_bathtub.
+18 Charlotte exited the sunroom and stayed in the waiting_room.
+19 Aria made no movements and stayed in the sunroom for 10 minutes.
+20 Aria exited the sunroom and stayed in the waiting_room.
+Question: Where does Hannah think Ava thinks Charlotte thinks the eggplant is?
+22 Ava dislikes the banana.
+Choices: A. blue_bucket, B. green_cupboard, C. blue_suitcase, D. red_basket, E. blue_cupboard, F. green_bucket, G. green_envelope, H. green_pantry, I. green_suitcase, J. red_pantry, K. red_treasure_chest, L. red_crate, M. red_bucket, N. blue_bathtub, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

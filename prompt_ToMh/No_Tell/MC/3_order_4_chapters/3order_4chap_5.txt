@@ -1,41 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Mia, Aria, Emma and James entered the back_yard.
-2 The cucumber is in the green_bottle.
-3 Evelyn moved the cucumber to the blue_basket.
-4 Evelyn exited the back_yard and stayed in the waiting_room.
-5 Mia made no movements and stayed in the back_yard for 10 minutes.
-6 Mia exited the back_yard and stayed in the waiting_room.
-7 Aria made no movements and stayed in the back_yard for 10 minutes.
-8 Aria exited the back_yard and stayed in the waiting_room.
-9 Emma made no movements and stayed in the back_yard for 10 minutes.
-10 Emma exited the back_yard and stayed in the waiting_room.
-11 James made no movements and stayed in the back_yard for 10 minutes.
-12 James exited the back_yard and stayed in the waiting_room.
-13 Aria, Evelyn and Mia entered the bathroom.
-14 The apple is in the red_bucket.
-15 Aria made no movements and stayed in the bathroom for 10 minutes.
-16 Aria exited the bathroom and stayed in the waiting_room.
-17 Evelyn moved the apple to the blue_suitcase.
-18 Evelyn exited the bathroom and stayed in the waiting_room.
-19 Mia made no movements and stayed in the bathroom for 10 minutes.
-20 Mia exited the bathroom and stayed in the waiting_room.
-21 Evelyn, James, Emma and Aria entered the back_yard.
-22 The carrot is in the blue_container.
-23 Evelyn made no movements and stayed in the back_yard for 10 minutes.
-24 Evelyn exited the back_yard and stayed in the waiting_room.
-25 James made no movements and stayed in the back_yard for 10 minutes.
-26 James exited the back_yard and stayed in the waiting_room.
-27 Emma moved the carrot to the red_basket.
-28 Emma exited the back_yard and stayed in the waiting_room.
-29 Aria moved the carrot to the green_bottle.
-30 Aria exited the back_yard and stayed in the waiting_room.
-31 Evelyn and James entered the bathroom.
-32 The green_pepper is in the blue_pantry.
-33 Evelyn made no movements and stayed in the bathroom for 10 minutes.
-34 Evelyn exited the bathroom and stayed in the waiting_room.
-35 James made no movements and stayed in the bathroom for 10 minutes.
-36 James exited the bathroom and stayed in the waiting_room.
-Question: Where does James think Emma thinks Mia thinks the cucumber is?
-Choices: A. green_bottle, B. blue_container, C. blue_box, D. red_basket, E. blue_basket, F. red_bathtub, G. blue_bathtub, H. blue_bucket, I. green_envelope, J. green_cupboard, K. red_bucket, L. blue_pantry, M. red_container, N. green_container, O. blue_suitcase
+1 Chloe, Gracie, Hannah, Emily and Mason entered the bedroom.
+2 The banana is in the red_envelope.
+3 Chloe moved the banana to the green_treasure_chest.
+4 Chloe exited the bedroom and stayed in the waiting_room.
+5 Hannah lost his bottle.
+6 Gracie made no movements and stayed in the bedroom for 10 minutes.
+7 Gracie exited the bedroom and stayed in the waiting_room.
+8 Hannah made no movements and stayed in the bedroom for 10 minutes.
+9 Mason lost his bottle.
+10 Hannah exited the bedroom and stayed in the waiting_room.
+11 Emily moved the banana to the red_bottle.
+12 Mason dislikes the grapes.
+13 Emily exited the bedroom and stayed in the waiting_room.
+14 Mason made no movements and stayed in the bedroom for 10 minutes.
+15 Mason exited the bedroom and stayed in the waiting_room.
+16 Gracie, Hannah and Mason entered the study.
+17 The lemon is in the red_basket.
+18 Gracie made no movements and stayed in the study for 10 minutes.
+19 Gracie exited the study and stayed in the waiting_room.
+20 Hannah moved the lemon to the blue_drawer.
+21 Hannah lost his phone.
+22 Hannah exited the study and stayed in the waiting_room.
+23 Mason moved the lemon to the red_container.
+24 Mason exited the study and stayed in the waiting_room.
+25 Hannah, Mason, Gracie and Emily entered the study.
+26 The lemon is in the red_container.
+27 Hannah made no movements and stayed in the study for 10 minutes.
+28 Hannah exited the study and stayed in the waiting_room.
+29 Mason moved the lemon to the blue_drawer.
+30 Mason exited the study and stayed in the waiting_room.
+31 Mason saw a mouse.
+32 Gracie moved the lemon to the blue_crate.
+33 Gracie exited the study and stayed in the waiting_room.
+34 Emily made no movements and stayed in the study for 10 minutes.
+35 Emily exited the study and stayed in the waiting_room.
+36 Chloe and Hannah entered the study.
+37 The grapes is in the red_container.
+38 Chloe made no movements and stayed in the study for 10 minutes.
+39 Gracie lost his bottle.
+40 Chloe exited the study and stayed in the waiting_room.
+41 Hannah moved the grapes to the red_basket.
+42 Gracie likes the red_bottle.
+43 Hannah exited the study and stayed in the waiting_room.
+44 Emily likes the blue_cupboard.
+Question: Where does Gracie think Mason thinks Emily thinks the banana is?
+Choices: A. red_basket, B. red_container, C. red_bathtub, D. blue_crate, E. blue_drawer, F. green_pantry, G. green_box, H. blue_treasure_chest, I. blue_bathtub, J. blue_suitcase, K. red_envelope, L. green_cupboard, M. red_bottle, N. blue_cupboard, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,44 +1,51 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Ella, Ethan, Carter and Aiden entered the garage.
-2 The tomato is in the red_bucket.
-3 Benjamin moved the tomato to the blue_drawer.
-4 Benjamin exited the garage and stayed in the waiting_room.
-5 Ella moved the tomato to the green_bathtub.
-6 Ella exited the garage and stayed in the waiting_room.
-7 Ethan made no movements and stayed in the garage for 10 minutes.
-8 Ethan exited the garage and stayed in the waiting_room.
-9 Carter made no movements and stayed in the garage for 10 minutes.
-10 Carter exited the garage and stayed in the waiting_room.
-11 Aiden moved the tomato to the red_bucket.
-12 Aiden exited the garage and stayed in the waiting_room.
-13 Benjamin, Carter and Ethan entered the garage.
-14 The tomato is in the red_bucket.
-15 Benjamin made no movements and stayed in the garage for 10 minutes.
-16 Benjamin exited the garage and stayed in the waiting_room.
-17 Carter moved the tomato to the green_bathtub.
-18 Carter exited the garage and stayed in the waiting_room.
-19 Ethan moved the tomato to the blue_drawer.
-20 Ethan exited the garage and stayed in the waiting_room.
-21 Carter privately told Ethan that the tomato is actually in the green_bathtub.
-22 Ethan privately told Aiden that the tomato is actually in the blue_drawer.
-23 Benjamin, Aiden, Carter and Ella entered the garage.
-24 The tomato is in the blue_drawer.
-25 Benjamin made no movements and stayed in the garage for 10 minutes.
-26 Benjamin exited the garage and stayed in the waiting_room.
-27 Aiden moved the tomato to the red_bucket.
-28 Aiden exited the garage and stayed in the waiting_room.
-29 Carter made no movements and stayed in the garage for 10 minutes.
-30 Carter exited the garage and stayed in the waiting_room.
-31 Ella made no movements and stayed in the garage for 10 minutes.
-32 Ella exited the garage and stayed in the waiting_room.
-33 Ella and Carter entered the kitchen.
-34 The grapefruit is in the red_drawer.
-35 Ella moved the grapefruit to the blue_bucket.
-36 Ella exited the kitchen and stayed in the waiting_room.
-37 Carter moved the grapefruit to the green_treasure_chest.
-38 Carter exited the kitchen and stayed in the waiting_room.
-39 Ella privately told Benjamin that the grapefruit is actually in the blue_container.
-Question: Where does Aiden think Ella thinks the tomato is?
-Answer: blue_drawer
-Choices: A. blue_treasure_chest, B. red_bottle, C. green_crate, D. green_bottle, E. blue_box, F. blue_drawer, G. red_bucket, H. green_bathtub, I. blue_pantry, J. red_bathtub, K. red_drawer, L. blue_container, M. green_cupboard, N. green_treasure_chest, O. blue_bucket
+1 Emma, Charlotte, Hannah, Ethan and Jacob entered the attic.
+2 The grapefruit is in the green_pantry.
+3 Emma made no movements and stayed in the attic for 10 minutes.
+4 Emma exited the attic and stayed in the waiting_room.
+5 Charlotte made no movements and stayed in the attic for 10 minutes.
+6 Charlotte exited the attic and stayed in the waiting_room.
+7 Hannah moved the grapefruit to the red_pantry.
+8 Hannah exited the attic and stayed in the waiting_room.
+9 Ethan made no movements and stayed in the attic for 10 minutes.
+10 Ethan exited the attic and stayed in the waiting_room.
+11 Charlotte saw a cat.
+12 Jacob made no movements and stayed in the attic for 10 minutes.
+13 Jacob exited the attic and stayed in the waiting_room.
+14 Emma, Ethan and Hannah entered the crawlspace.
+15 The peas is in the green_basket.
+16 Emma made no movements and stayed in the crawlspace for 10 minutes.
+17 Emma exited the crawlspace and stayed in the waiting_room.
+18 Ethan made no movements and stayed in the crawlspace for 10 minutes.
+19 Ethan exited the crawlspace and stayed in the waiting_room.
+20 Hannah moved the peas to the blue_drawer.
+21 Hannah exited the crawlspace and stayed in the waiting_room.
+22 Ethan likes the green_suitcase.
+23 Ethan publicly claimed that peas is in the green_suitcase.
+24 Hannah privately told Ethan that the peas is actually in the red_bucket.
+25 Ethan, Charlotte, Emma and Hannah entered the crawlspace.
+26 The peas is in the blue_drawer.
+27 Emma saw a cat.
+28 Ethan made no movements and stayed in the crawlspace for 10 minutes.
+29 Ethan exited the crawlspace and stayed in the waiting_room.
+30 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
+31 Hannah saw a mouse.
+32 Charlotte exited the crawlspace and stayed in the waiting_room.
+33 Emma moved the peas to the red_cupboard.
+34 Jacob dislikes the celery.
+35 Emma exited the crawlspace and stayed in the waiting_room.
+36 Hannah made no movements and stayed in the crawlspace for 10 minutes.
+37 Hannah exited the crawlspace and stayed in the waiting_room.
+38 Jacob and Hannah entered the attic.
+39 The grapefruit is in the red_pantry.
+40 Jacob moved the grapefruit to the green_pantry.
+41 Jacob exited the attic and stayed in the waiting_room.
+42 Hannah made no movements and stayed in the attic for 10 minutes.
+43 Hannah exited the attic and stayed in the waiting_room.
+44 Hannah publicly claimed that grapefruit is in the red_envelope.
+45 Jacob privately told Hannah that the grapefruit is actually in the blue_bucket.
+46 Charlotte saw a monkey.
+Question: Where does Emma think Ethan thinks the grapefruit is?
+Answer: red_envelope
+Choices: A. blue_crate, B. red_bathtub, C. red_container, D. red_basket, E. red_treasure_chest, F. green_pantry, G. green_bottle, H. red_pantry, I. red_envelope, J. blue_bucket, K. red_bucket, L. green_basket, M. red_cupboard, N. blue_drawer, O. green_suitcase

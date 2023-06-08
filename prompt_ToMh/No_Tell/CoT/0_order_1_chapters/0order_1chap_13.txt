@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Benjamin, Jack, Owen and William entered the garage.
-2 The lettuce is in the green_crate.
-3 Aria moved the lettuce to the blue_drawer.
-4 Aria exited the garage and stayed in the waiting_room.
-5 Benjamin made no movements and stayed in the garage for 10 minutes.
-6 Benjamin exited the garage and stayed in the waiting_room.
-7 Jack made no movements and stayed in the garage for 10 minutes.
-8 Jack exited the garage and stayed in the waiting_room.
-9 Owen made no movements and stayed in the garage for 10 minutes.
-10 Owen exited the garage and stayed in the waiting_room.
-11 William moved the lettuce to the green_crate.
-12 William exited the garage and stayed in the waiting_room.
-Question: Where is the lettuce really?
-Choices: A. blue_bathtub, B. blue_basket, C. red_bottle, D. blue_pantry, E. red_bucket, F. red_treasure_chest, G. blue_treasure_chest, H. red_container, I. green_bottle, J. blue_suitcase, K. green_crate, L. blue_drawer, M. blue_bucket, N. red_crate, O. green_suitcase
+1 Aiden, Isabella, Isla, Lucas and Nathan entered the living_room.
+2 The pineapple is in the green_box.
+3 Aiden moved the pineapple to the green_pantry.
+4 Aiden exited the living_room and stayed in the waiting_room.
+5 Isabella moved the pineapple to the red_box.
+6 Isabella exited the living_room and stayed in the waiting_room.
+7 Isla made no movements and stayed in the living_room for 10 minutes.
+8 Isla exited the living_room and stayed in the waiting_room.
+9 Lucas moved the pineapple to the blue_drawer.
+10 Lucas exited the living_room and stayed in the waiting_room.
+11 Nathan moved the pineapple to the green_box.
+12 Nathan exited the living_room and stayed in the waiting_room.
+Question: Where is the pineapple really?
+Choices: A. blue_cupboard, B. red_envelope, C. red_treasure_chest, D. green_bucket, E. red_bathtub, F. green_box, G. red_box, H. green_pantry, I. blue_drawer, J. blue_bucket, K. green_cupboard, L. green_suitcase, M. red_pantry, N. blue_bottle, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

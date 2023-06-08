@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Mia, Jacob, Carter and Hannah entered the basement.
-2 The strawberry is in the red_envelope.
-3 Jack made no movements and stayed in the basement for 10 minutes.
-4 Jack exited the basement and stayed in the waiting_room.
-5 Mia made no movements and stayed in the basement for 10 minutes.
-6 Mia exited the basement and stayed in the waiting_room.
-7 Jacob made no movements and stayed in the basement for 10 minutes.
-8 Jacob exited the basement and stayed in the waiting_room.
-9 Carter made no movements and stayed in the basement for 10 minutes.
-10 Carter exited the basement and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the basement for 10 minutes.
-12 Hannah exited the basement and stayed in the waiting_room.
-13 Mia, Jacob and Jack entered the attic.
-14 The turnip is in the blue_bucket.
-15 Mia made no movements and stayed in the attic for 10 minutes.
-16 Mia exited the attic and stayed in the waiting_room.
-17 Jacob moved the turnip to the red_basket.
-18 Jacob exited the attic and stayed in the waiting_room.
-19 Jack moved the turnip to the blue_drawer.
-20 Jack exited the attic and stayed in the waiting_room.
-21 Jack publicly claimed that turnip is in the blue_drawer.
-22 Mia privately told Jack that the turnip is actually in the blue_crate.
-Question: Where is the strawberry really?
-Choices: A. red_container, B. green_suitcase, C. green_treasure_chest, D. blue_pantry, E. red_bottle, F. red_bucket, G. red_envelope, H. red_treasure_chest, I. green_bathtub, J. red_crate, K. red_drawer, L. blue_bucket, M. blue_crate, N. blue_drawer, O. red_basket
+1 Liam, Abigail, Jackson, Isabella and Amelia entered the TV_room.
+2 Isabella lost his watch.
+3 The tomato is in the blue_cupboard.
+4 Liam moved the tomato to the green_suitcase.
+5 Liam exited the TV_room and stayed in the waiting_room.
+6 Abigail made no movements and stayed in the TV_room for 10 minutes.
+7 Abigail exited the TV_room and stayed in the waiting_room.
+8 Jackson made no movements and stayed in the TV_room for 10 minutes.
+9 Jackson exited the TV_room and stayed in the waiting_room.
+10 Isabella moved the tomato to the blue_drawer.
+11 Isabella exited the TV_room and stayed in the waiting_room.
+12 Amelia made no movements and stayed in the TV_room for 10 minutes.
+13 Amelia exited the TV_room and stayed in the waiting_room.
+14 Abigail likes the blue_treasure_chest.
+15 Jackson, Isabella and Amelia entered the TV_room.
+16 The tomato is in the blue_drawer.
+17 Jackson made no movements and stayed in the TV_room for 10 minutes.
+18 Jackson exited the TV_room and stayed in the waiting_room.
+19 Isabella made no movements and stayed in the TV_room for 10 minutes.
+20 Isabella exited the TV_room and stayed in the waiting_room.
+21 Jackson likes the green_bottle.
+22 Amelia made no movements and stayed in the TV_room for 10 minutes.
+23 Amelia exited the TV_room and stayed in the waiting_room.
+24 Isabella privately told Amelia that the tomato is actually in the blue_cupboard.
+25 Amelia privately told Liam that the tomato is actually in the blue_drawer.
+Question: Where is the tomato really?
+Choices: A. blue_cupboard, B. blue_drawer, C. red_box, D. green_suitcase, E. green_bottle, F. blue_crate, G. blue_treasure_chest, H. blue_envelope, I. red_crate, J. green_cupboard, K. green_bucket, L. red_basket, M. green_basket, N. green_treasure_chest, O. blue_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

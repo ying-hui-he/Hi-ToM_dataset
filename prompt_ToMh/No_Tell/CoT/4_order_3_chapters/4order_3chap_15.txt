@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ethan, James, Avery, Ella and Amelia entered the master_bedroom.
-2 The lettuce is in the red_basket.
-3 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
-4 Ethan exited the master_bedroom and stayed in the waiting_room.
-5 James made no movements and stayed in the master_bedroom for 10 minutes.
-6 James exited the master_bedroom and stayed in the waiting_room.
-7 Avery moved the lettuce to the red_bucket.
-8 Avery exited the master_bedroom and stayed in the waiting_room.
-9 Ella moved the lettuce to the green_envelope.
-10 Ella exited the master_bedroom and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the master_bedroom for 10 minutes.
-12 Amelia exited the master_bedroom and stayed in the waiting_room.
-13 Ella, Avery and James entered the porch.
-14 The beans is in the green_container.
-15 Ella made no movements and stayed in the porch for 10 minutes.
-16 Ella exited the porch and stayed in the waiting_room.
-17 Avery moved the beans to the red_treasure_chest.
-18 Avery exited the porch and stayed in the waiting_room.
-19 James moved the beans to the blue_drawer.
-20 James exited the porch and stayed in the waiting_room.
-21 Ella, Avery, James and Ethan entered the porch.
-22 The beans is in the blue_drawer.
-23 Ella moved the beans to the green_container.
-24 Ella exited the porch and stayed in the waiting_room.
-25 Avery made no movements and stayed in the porch for 10 minutes.
-26 Avery exited the porch and stayed in the waiting_room.
-27 James moved the beans to the blue_crate.
-28 James exited the porch and stayed in the waiting_room.
-29 Ethan made no movements and stayed in the porch for 10 minutes.
-30 Ethan exited the porch and stayed in the waiting_room.
-Question: Where does Ella think Amelia thinks Avery thinks James thinks the lettuce is?
-Choices: A. blue_crate, B. green_container, C. blue_drawer, D. green_suitcase, E. red_treasure_chest, F. blue_bathtub, G. red_bathtub, H. blue_box, I. blue_suitcase, J. green_bathtub, K. red_basket, L. green_envelope, M. blue_basket, N. red_crate, O. red_bucket
+1 Emma, Aria, Mason, Chloe and Emily entered the front_yard.
+2 The grapes is in the blue_crate.
+3 Emma made no movements and stayed in the front_yard for 10 minutes.
+4 Emma exited the front_yard and stayed in the waiting_room.
+5 Emma likes the red_crate.
+6 Aria moved the grapes to the red_envelope.
+7 Aria exited the front_yard and stayed in the waiting_room.
+8 Emma saw a monkey.
+9 Mason made no movements and stayed in the front_yard for 10 minutes.
+10 Mason exited the front_yard and stayed in the waiting_room.
+11 Chloe made no movements and stayed in the front_yard for 10 minutes.
+12 Chloe exited the front_yard and stayed in the waiting_room.
+13 Emily made no movements and stayed in the front_yard for 10 minutes.
+14 Emily exited the front_yard and stayed in the waiting_room.
+15 Emma dislikes the persimmon.
+16 Chloe, Mason and Emma entered the front_yard.
+17 The asparagus is in the blue_bucket.
+18 Chloe made no movements and stayed in the front_yard for 10 minutes.
+19 Chloe exited the front_yard and stayed in the waiting_room.
+20 Mason moved the asparagus to the red_crate.
+21 Mason exited the front_yard and stayed in the waiting_room.
+22 Emma made no movements and stayed in the front_yard for 10 minutes.
+23 Emma exited the front_yard and stayed in the waiting_room.
+24 Emma, Mason, Emily and Chloe entered the dining_room.
+25 The corn is in the red_treasure_chest.
+26 Emma moved the corn to the blue_bathtub.
+27 Emma exited the dining_room and stayed in the waiting_room.
+28 Mason moved the corn to the green_cupboard.
+29 Mason exited the dining_room and stayed in the waiting_room.
+30 Emily moved the corn to the red_cupboard.
+31 Emily exited the dining_room and stayed in the waiting_room.
+32 Chloe moved the corn to the green_envelope.
+33 Chloe exited the dining_room and stayed in the waiting_room.
+Question: Where does Mason think Emma thinks Aria thinks Chloe thinks the grapes is?
+Choices: A. blue_bucket, B. blue_crate, C. green_suitcase, D. red_crate, E. red_envelope, F. blue_treasure_chest, G. blue_cupboard, H. red_pantry, I. green_bottle, J. red_bathtub, K. red_treasure_chest, L. green_cupboard, M. red_cupboard, N. green_envelope, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

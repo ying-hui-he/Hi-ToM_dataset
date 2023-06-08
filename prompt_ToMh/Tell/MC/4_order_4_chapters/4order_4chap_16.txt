@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, Carter, Abigail, James and Noah entered the dining_room.
-2 The asparagus is in the green_container.
-3 Ava moved the asparagus to the blue_suitcase.
-4 Ava exited the dining_room and stayed in the waiting_room.
-5 Carter moved the asparagus to the red_envelope.
-6 Carter exited the dining_room and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the dining_room for 10 minutes.
-8 Abigail exited the dining_room and stayed in the waiting_room.
-9 James made no movements and stayed in the dining_room for 10 minutes.
-10 James exited the dining_room and stayed in the waiting_room.
-11 Noah made no movements and stayed in the dining_room for 10 minutes.
-12 Noah exited the dining_room and stayed in the waiting_room.
-13 Ava, Noah and James entered the office.
-14 The potato is in the blue_treasure_chest.
-15 Ava moved the potato to the red_bottle.
-16 Ava exited the office and stayed in the waiting_room.
-17 Noah made no movements and stayed in the office for 10 minutes.
-18 Noah exited the office and stayed in the waiting_room.
-19 James moved the potato to the blue_bucket.
-20 James exited the office and stayed in the waiting_room.
-21 Ava publicly claimed that potato is in the green_bottle.
-22 James privately told Carter that the potato is actually in the blue_bucket.
-23 James, Ava, Abigail and Noah entered the living_room.
-24 The cherry is in the red_bucket.
-25 James made no movements and stayed in the living_room for 10 minutes.
-26 James exited the living_room and stayed in the waiting_room.
-27 Ava made no movements and stayed in the living_room for 10 minutes.
-28 Ava exited the living_room and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the living_room for 10 minutes.
-30 Abigail exited the living_room and stayed in the waiting_room.
-31 Noah made no movements and stayed in the living_room for 10 minutes.
-32 Noah exited the living_room and stayed in the waiting_room.
-33 Ava and Abigail entered the office.
-34 The potato is in the blue_bucket.
-35 Ava moved the potato to the green_bottle.
-36 Ava exited the office and stayed in the waiting_room.
-37 Abigail made no movements and stayed in the office for 10 minutes.
-38 Abigail exited the office and stayed in the waiting_room.
-39 Abigail publicly claimed that potato is in the red_bottle.
-40 Ava privately told Abigail that the potato is actually in the blue_bucket.
-Question: Where does Abigail think Ava thinks James thinks Carter thinks the asparagus is?
-Choices: A. blue_box, B. red_bucket, C. red_basket, D. red_crate, E. red_suitcase, F. green_bottle, G. blue_treasure_chest, H. red_bottle, I. green_treasure_chest, J. blue_bucket, K. blue_suitcase, L. green_container, M. green_cupboard, N. red_envelope, O. blue_bathtub
+1 Jacob dislikes the broccoli.
+2 Jacob, Nathan, Amelia, Abigail and Isabella entered the living_room.
+3 The strawberry is in the green_envelope.
+4 Jacob moved the strawberry to the red_cupboard.
+5 Jacob exited the living_room and stayed in the waiting_room.
+6 Nathan moved the strawberry to the red_box.
+7 Nathan exited the living_room and stayed in the waiting_room.
+8 Amelia made no movements and stayed in the living_room for 10 minutes.
+9 Amelia exited the living_room and stayed in the waiting_room.
+10 Abigail made no movements and stayed in the living_room for 10 minutes.
+11 Abigail exited the living_room and stayed in the waiting_room.
+12 Isabella made no movements and stayed in the living_room for 10 minutes.
+13 Isabella exited the living_room and stayed in the waiting_room.
+14 Isabella, Abigail and Jacob entered the patio.
+15 The lettuce is in the red_bucket.
+16 Isabella made no movements and stayed in the patio for 10 minutes.
+17 Abigail dislikes the broccoli.
+18 Isabella exited the patio and stayed in the waiting_room.
+19 Abigail moved the lettuce to the green_box.
+20 Abigail exited the patio and stayed in the waiting_room.
+21 Jacob moved the lettuce to the green_treasure_chest.
+22 Jacob exited the patio and stayed in the waiting_room.
+23 Jacob publicly claimed that lettuce is in the green_box.
+24 Isabella privately told Jacob that the lettuce is actually in the green_treasure_chest.
+25 Abigail, Jacob, Amelia and Isabella entered the workshop.
+26 The cucumber is in the blue_cupboard.
+27 Abigail moved the cucumber to the blue_bottle.
+28 Abigail exited the workshop and stayed in the waiting_room.
+29 Jacob moved the cucumber to the green_pantry.
+30 Jacob exited the workshop and stayed in the waiting_room.
+31 Amelia made no movements and stayed in the workshop for 10 minutes.
+32 Amelia exited the workshop and stayed in the waiting_room.
+33 Isabella moved the cucumber to the blue_treasure_chest.
+34 Isabella exited the workshop and stayed in the waiting_room.
+35 Amelia and Isabella entered the living_room.
+36 The strawberry is in the red_box.
+37 Amelia made no movements and stayed in the living_room for 10 minutes.
+38 Amelia exited the living_room and stayed in the waiting_room.
+39 Isabella made no movements and stayed in the living_room for 10 minutes.
+40 Abigail lost his watch.
+41 Isabella exited the living_room and stayed in the waiting_room.
+42 Amelia privately told Nathan that the strawberry is actually in the green_envelope.
+Question: Where does Isabella think Abigail thinks Jacob thinks Nathan thinks the strawberry is?
+Choices: A. green_box, B. red_bucket, C. green_bucket, D. green_treasure_chest, E. green_bottle, F. green_envelope, G. red_box, H. blue_bucket, I. green_suitcase, J. red_cupboard, K. blue_cupboard, L. green_pantry, M. blue_bottle, N. blue_treasure_chest, O. green_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

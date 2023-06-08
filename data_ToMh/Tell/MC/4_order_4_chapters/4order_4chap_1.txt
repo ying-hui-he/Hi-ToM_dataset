@@ -1,44 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Isla, Oliver, Jackson, Mia and Olivia entered the front_yard.
-2 The grapefruit is in the green_bottle.
-3 Isla moved the grapefruit to the red_drawer.
-4 Isla exited the front_yard and stayed in the waiting_room.
-5 Oliver moved the grapefruit to the blue_box.
-6 Oliver exited the front_yard and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the front_yard for 10 minutes.
-8 Jackson exited the front_yard and stayed in the waiting_room.
-9 Mia made no movements and stayed in the front_yard for 10 minutes.
-10 Mia exited the front_yard and stayed in the waiting_room.
-11 Olivia made no movements and stayed in the front_yard for 10 minutes.
-12 Olivia exited the front_yard and stayed in the waiting_room.
-13 Oliver, Jackson and Mia entered the hall.
-14 The cherry is in the green_crate.
-15 Oliver moved the cherry to the red_bucket.
-16 Oliver exited the hall and stayed in the waiting_room.
-17 Jackson made no movements and stayed in the hall for 10 minutes.
-18 Jackson exited the hall and stayed in the waiting_room.
-19 Mia moved the cherry to the blue_bottle.
-20 Mia exited the hall and stayed in the waiting_room.
-21 Oliver publicly claimed that cherry is in the blue_basket.
-22 Mia privately told Isla that the cherry is actually in the blue_bottle.
-23 Mia, Oliver, Jackson and Isla entered the hall.
-24 The cherry is in the blue_bottle.
-25 Mia made no movements and stayed in the hall for 10 minutes.
-26 Mia exited the hall and stayed in the waiting_room.
-27 Oliver moved the cherry to the blue_basket.
-28 Oliver exited the hall and stayed in the waiting_room.
-29 Jackson made no movements and stayed in the hall for 10 minutes.
-30 Jackson exited the hall and stayed in the waiting_room.
-31 Isla moved the cherry to the green_crate.
-32 Isla exited the hall and stayed in the waiting_room.
-33 Jackson and Oliver entered the front_yard.
-34 The grapefruit is in the blue_box.
-35 Jackson made no movements and stayed in the front_yard for 10 minutes.
-36 Jackson exited the front_yard and stayed in the waiting_room.
-37 Oliver made no movements and stayed in the front_yard for 10 minutes.
-38 Oliver exited the front_yard and stayed in the waiting_room.
-39 Jackson privately told Olivia that the grapefruit is actually in the red_drawer.
-Question: Where does Isla think Olivia thinks Oliver thinks Jackson thinks the grapefruit is?
+1 Isabella, Mila, Chloe, Abigail and Charlotte entered the cellar.
+2 The apple is in the blue_suitcase.
+3 Isabella made no movements and stayed in the cellar for 10 minutes.
+4 Isabella exited the cellar and stayed in the waiting_room.
+5 Mila moved the apple to the red_basket.
+6 Mila exited the cellar and stayed in the waiting_room.
+7 Chloe moved the apple to the green_bottle.
+8 Chloe exited the cellar and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the cellar for 10 minutes.
+10 Abigail exited the cellar and stayed in the waiting_room.
+11 Charlotte made no movements and stayed in the cellar for 10 minutes.
+12 Charlotte exited the cellar and stayed in the waiting_room.
+13 Isabella, Charlotte and Abigail entered the basement.
+14 The grapes is in the red_box.
+15 Isabella moved the grapes to the red_bucket.
+16 Isabella exited the basement and stayed in the waiting_room.
+17 Charlotte moved the grapes to the red_treasure_chest.
+18 Charlotte exited the basement and stayed in the waiting_room.
+19 Abigail moved the grapes to the green_treasure_chest.
+20 Abigail exited the basement and stayed in the waiting_room.
+21 Isabella publicly claimed that grapes is in the red_box.
+22 Abigail privately told Mila that the grapes is actually in the green_treasure_chest.
+23 Abigail, Isabella, Mila and Chloe entered the laundry.
+24 The melon is in the blue_treasure_chest.
+25 Abigail saw a cat.
+26 Abigail made no movements and stayed in the laundry for 10 minutes.
+27 Abigail exited the laundry and stayed in the waiting_room.
+28 Isabella made no movements and stayed in the laundry for 10 minutes.
+29 Isabella exited the laundry and stayed in the waiting_room.
+30 Mila moved the melon to the green_cupboard.
+31 Mila exited the laundry and stayed in the waiting_room.
+32 Chloe moved the melon to the green_envelope.
+33 Chloe exited the laundry and stayed in the waiting_room.
+34 Mila and Isabella entered the basement.
+35 Charlotte dislikes the grapes.
+36 The onion is in the blue_crate.
+37 Mila moved the onion to the green_treasure_chest.
+38 Mila exited the basement and stayed in the waiting_room.
+39 Isabella moved the onion to the red_treasure_chest.
+40 Isabella exited the basement and stayed in the waiting_room.
+41 Mila publicly claimed that onion is in the red_box.
+42 Isabella likes the blue_bottle.
+43 Isabella privately told Mila that the onion is actually in the red_treasure_chest.
+Question: Where does Isabella think Mila thinks Abigail thinks Chloe thinks the apple is?
 Answer: None
-Choices: A. green_container, B. green_bottle, C. blue_box, D. red_suitcase, E. red_drawer, F. blue_basket, G. green_crate, H. red_bucket, I. red_basket, J. blue_bottle, K. blue_crate, L. blue_bathtub, M. green_suitcase, N. red_envelope, O. blue_pantry
+Choices: A. blue_crate, B. red_box, C. red_bucket, D. green_treasure_chest, E. red_treasure_chest, F. blue_suitcase, G. green_bottle, H. red_basket, I. green_bathtub, J. green_pantry, K. blue_treasure_chest, L. blue_envelope, M. green_cupboard, N. green_envelope, O. blue_bottle

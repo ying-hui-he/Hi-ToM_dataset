@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Jayden, Mia, Aiden and Owen entered the garden.
-2 The lettuce is in the green_treasure_chest.
-3 Evelyn moved the lettuce to the red_suitcase.
-4 Evelyn exited the garden and stayed in the waiting_room.
-5 Jayden made no movements and stayed in the garden for 10 minutes.
-6 Jayden exited the garden and stayed in the waiting_room.
-7 Mia made no movements and stayed in the garden for 10 minutes.
-8 Mia exited the garden and stayed in the waiting_room.
-9 Aiden moved the lettuce to the blue_drawer.
-10 Aiden exited the garden and stayed in the waiting_room.
-11 Owen made no movements and stayed in the garden for 10 minutes.
-12 Owen exited the garden and stayed in the waiting_room.
-13 Aiden, Evelyn and Jayden entered the pantry.
-14 The banana is in the green_suitcase.
-15 Aiden made no movements and stayed in the pantry for 10 minutes.
-16 Aiden exited the pantry and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the pantry for 10 minutes.
-18 Evelyn exited the pantry and stayed in the waiting_room.
-19 Jayden made no movements and stayed in the pantry for 10 minutes.
-20 Jayden exited the pantry and stayed in the waiting_room.
-Question: Where does Jayden think Owen thinks Evelyn thinks the lettuce is?
-Choices: A. red_container, B. red_basket, C. blue_bucket, D. blue_crate, E. red_drawer, F. green_treasure_chest, G. blue_drawer, H. red_suitcase, I. blue_box, J. red_treasure_chest, K. green_suitcase, L. blue_envelope, M. green_bottle, N. green_crate, O. red_crate
+1 Aiden, Isabella, Liam, Hannah and Carter entered the basement.
+2 The onion is in the blue_drawer.
+3 Aiden made no movements and stayed in the basement for 10 minutes.
+4 Aiden exited the basement and stayed in the waiting_room.
+5 Isabella made no movements and stayed in the basement for 10 minutes.
+6 Isabella exited the basement and stayed in the waiting_room.
+7 Liam made no movements and stayed in the basement for 10 minutes.
+8 Liam exited the basement and stayed in the waiting_room.
+9 Hannah moved the onion to the green_bottle.
+10 Hannah exited the basement and stayed in the waiting_room.
+11 Carter made no movements and stayed in the basement for 10 minutes.
+12 Carter exited the basement and stayed in the waiting_room.
+13 Liam, Isabella and Aiden entered the master_bedroom.
+14 The green_pepper is in the blue_cupboard.
+15 Liam made no movements and stayed in the master_bedroom for 10 minutes.
+16 Liam exited the master_bedroom and stayed in the waiting_room.
+17 Isabella moved the green_pepper to the green_suitcase.
+18 Isabella exited the master_bedroom and stayed in the waiting_room.
+19 Hannah saw a monkey.
+20 Aiden moved the green_pepper to the green_bucket.
+21 Aiden exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Aiden think Carter thinks Liam thinks the onion is?
+Choices: A. blue_drawer, B. green_bottle, C. green_basket, D. red_bathtub, E. green_pantry, F. green_box, G. blue_bathtub, H. red_bottle, I. red_envelope, J. blue_suitcase, K. red_bucket, L. blue_cupboard, M. green_suitcase, N. green_bathtub, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

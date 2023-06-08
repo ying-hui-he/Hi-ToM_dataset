@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aiden, Olivia, Aria, Benjamin and Carter entered the office.
-2 The green_pepper is in the green_bottle.
-3 Aiden moved the green_pepper to the green_container.
-4 Aiden exited the office and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the office for 10 minutes.
-6 Olivia exited the office and stayed in the waiting_room.
-7 Aria made no movements and stayed in the office for 10 minutes.
-8 Aria exited the office and stayed in the waiting_room.
-9 Benjamin made no movements and stayed in the office for 10 minutes.
-10 Benjamin exited the office and stayed in the waiting_room.
-11 Carter made no movements and stayed in the office for 10 minutes.
-12 Carter exited the office and stayed in the waiting_room.
-13 Olivia, Aria and Aiden entered the laundry.
-14 The lettuce is in the green_crate.
-15 Olivia made no movements and stayed in the laundry for 10 minutes.
-16 Olivia exited the laundry and stayed in the waiting_room.
-17 Aria moved the lettuce to the green_suitcase.
-18 Aria exited the laundry and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the laundry for 10 minutes.
-20 Aiden exited the laundry and stayed in the waiting_room.
-21 Aria privately told Aiden that the lettuce is actually in the blue_pantry.
-22 Aiden privately told Benjamin that the lettuce is actually in the green_suitcase.
-Question: Where does Olivia think Aria thinks Benjamin thinks the green_pepper is?
-Choices: A. blue_drawer, B. green_cupboard, C. blue_treasure_chest, D. blue_envelope, E. red_basket, F. blue_crate, G. green_crate, H. green_suitcase, I. blue_pantry, J. blue_bottle, K. red_envelope, L. green_bottle, M. green_container, N. red_treasure_chest, O. blue_box
+1 Mila, Jayden, Isabella, Jackson and Sophia entered the hallway.
+2 The green_pepper is in the red_bathtub.
+3 Mila moved the green_pepper to the red_box.
+4 Mila exited the hallway and stayed in the waiting_room.
+5 Jackson dislikes the green_pepper.
+6 Jayden made no movements and stayed in the hallway for 10 minutes.
+7 Jayden exited the hallway and stayed in the waiting_room.
+8 Isabella made no movements and stayed in the hallway for 10 minutes.
+9 Isabella exited the hallway and stayed in the waiting_room.
+10 Jackson moved the green_pepper to the red_container.
+11 Mila lost his watch.
+12 Jackson exited the hallway and stayed in the waiting_room.
+13 Sophia moved the green_pepper to the red_bathtub.
+14 Sophia exited the hallway and stayed in the waiting_room.
+15 Mila, Sophia and Jackson entered the laundry.
+16 The grapefruit is in the blue_bottle.
+17 Mila made no movements and stayed in the laundry for 10 minutes.
+18 Mila exited the laundry and stayed in the waiting_room.
+19 Isabella lost his phone.
+20 Sophia moved the grapefruit to the green_bathtub.
+21 Sophia exited the laundry and stayed in the waiting_room.
+22 Jackson moved the grapefruit to the blue_bucket.
+23 Jackson exited the laundry and stayed in the waiting_room.
+24 Sophia publicly claimed that grapefruit is in the green_bathtub.
+25 Jackson privately told Sophia that the grapefruit is actually in the red_cupboard.
+Question: Where does Jayden think Jackson thinks Mila thinks the green_pepper is?
+Choices: A. red_bathtub, B. red_bottle, C. red_container, D. red_box, E. blue_crate, F. red_bucket, G. green_suitcase, H. green_basket, I. red_basket, J. green_envelope, K. green_bathtub, L. blue_bottle, M. green_cupboard, N. blue_bucket, O. red_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

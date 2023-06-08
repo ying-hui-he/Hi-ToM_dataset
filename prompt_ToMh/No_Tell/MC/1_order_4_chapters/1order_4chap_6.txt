@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Jacob, Avery, Amelia and Olivia entered the TV_room.
-2 The grapefruit is in the green_bottle.
-3 Carter moved the grapefruit to the red_bottle.
-4 Carter exited the TV_room and stayed in the waiting_room.
-5 Jacob made no movements and stayed in the TV_room for 10 minutes.
-6 Jacob exited the TV_room and stayed in the waiting_room.
-7 Avery made no movements and stayed in the TV_room for 10 minutes.
-8 Avery exited the TV_room and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the TV_room for 10 minutes.
-10 Amelia exited the TV_room and stayed in the waiting_room.
-11 Olivia made no movements and stayed in the TV_room for 10 minutes.
-12 Olivia exited the TV_room and stayed in the waiting_room.
-13 Amelia, Carter and Jacob entered the TV_room.
-14 The grapefruit is in the red_bottle.
-15 Amelia made no movements and stayed in the TV_room for 10 minutes.
-16 Amelia exited the TV_room and stayed in the waiting_room.
-17 Carter moved the grapefruit to the green_bottle.
-18 Carter exited the TV_room and stayed in the waiting_room.
-19 Jacob moved the grapefruit to the green_envelope.
-20 Jacob exited the TV_room and stayed in the waiting_room.
-21 Amelia, Carter, Olivia and Avery entered the basement.
-22 The plum is in the red_suitcase.
-23 Amelia made no movements and stayed in the basement for 10 minutes.
-24 Amelia exited the basement and stayed in the waiting_room.
-25 Carter made no movements and stayed in the basement for 10 minutes.
-26 Carter exited the basement and stayed in the waiting_room.
-27 Olivia made no movements and stayed in the basement for 10 minutes.
-28 Olivia exited the basement and stayed in the waiting_room.
-29 Avery made no movements and stayed in the basement for 10 minutes.
-30 Avery exited the basement and stayed in the waiting_room.
-31 Carter and Olivia entered the pantry.
-32 The strawberry is in the green_suitcase.
-33 Carter moved the strawberry to the red_drawer.
-34 Carter exited the pantry and stayed in the waiting_room.
-35 Olivia made no movements and stayed in the pantry for 10 minutes.
-36 Olivia exited the pantry and stayed in the waiting_room.
-Question: Where does Carter think the grapefruit is?
-Choices: A. red_drawer, B. green_suitcase, C. red_basket, D. red_bucket, E. blue_box, F. green_bottle, G. red_container, H. green_envelope, I. blue_bottle, J. red_bottle, K. red_suitcase, L. blue_bucket, M. green_bathtub, N. green_cupboard, O. blue_basket
+1 Jackson, Charlotte, Jacob, Abigail and Jack entered the basement.
+2 The lettuce is in the red_cupboard.
+3 Jackson moved the lettuce to the blue_suitcase.
+4 Jackson exited the basement and stayed in the waiting_room.
+5 Charlotte made no movements and stayed in the basement for 10 minutes.
+6 Charlotte exited the basement and stayed in the waiting_room.
+7 Jacob moved the lettuce to the green_cupboard.
+8 Jacob exited the basement and stayed in the waiting_room.
+9 Abigail moved the lettuce to the green_bottle.
+10 Abigail exited the basement and stayed in the waiting_room.
+11 Jack made no movements and stayed in the basement for 10 minutes.
+12 Jack exited the basement and stayed in the waiting_room.
+13 Abigail, Jacob and Jack entered the basement.
+14 The lettuce is in the green_bottle.
+15 Abigail moved the lettuce to the green_cupboard.
+16 Abigail exited the basement and stayed in the waiting_room.
+17 Jacob made no movements and stayed in the basement for 10 minutes.
+18 Jacob exited the basement and stayed in the waiting_room.
+19 Jack moved the lettuce to the red_basket.
+20 Jackson dislikes the potato.
+21 Jack exited the basement and stayed in the waiting_room.
+22 Jacob, Jack, Abigail and Jackson entered the office.
+23 The potato is in the blue_drawer.
+24 Jacob made no movements and stayed in the office for 10 minutes.
+25 Jacob exited the office and stayed in the waiting_room.
+26 Jack moved the potato to the green_bucket.
+27 Charlotte lost his bottle.
+28 Jack exited the office and stayed in the waiting_room.
+29 Abigail moved the potato to the green_suitcase.
+30 Abigail exited the office and stayed in the waiting_room.
+31 Jackson moved the potato to the green_bathtub.
+32 Jackson exited the office and stayed in the waiting_room.
+33 Charlotte and Abigail entered the basement.
+34 The cucumber is in the green_bottle.
+35 Charlotte moved the cucumber to the red_basket.
+36 Charlotte exited the basement and stayed in the waiting_room.
+37 Abigail moved the cucumber to the green_cupboard.
+38 Abigail exited the basement and stayed in the waiting_room.
+Question: Where does Jacob think the lettuce is?
+Choices: A. green_suitcase, B. blue_drawer, C. red_treasure_chest, D. green_bathtub, E. green_bucket, F. blue_bottle, G. red_crate, H. green_box, I. red_bathtub, J. blue_envelope, K. green_bottle, L. red_cupboard, M. blue_suitcase, N. green_cupboard, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

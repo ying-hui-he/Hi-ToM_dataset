@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Logan, Gracie, Mia, Owen and Abigail entered the office.
-2 The turnip is in the red_crate.
-3 Logan made no movements and stayed in the office for 10 minutes.
-4 Logan exited the office and stayed in the waiting_room.
-5 Gracie made no movements and stayed in the office for 10 minutes.
-6 Gracie exited the office and stayed in the waiting_room.
-7 Mia made no movements and stayed in the office for 10 minutes.
-8 Mia exited the office and stayed in the waiting_room.
-9 Owen moved the turnip to the green_suitcase.
-10 Owen exited the office and stayed in the waiting_room.
-11 Abigail made no movements and stayed in the office for 10 minutes.
-12 Abigail exited the office and stayed in the waiting_room.
-13 Owen, Logan and Mia entered the playroom.
-14 The persimmon is in the blue_suitcase.
-15 Owen moved the persimmon to the red_container.
-16 Owen exited the playroom and stayed in the waiting_room.
-17 Logan moved the persimmon to the green_bathtub.
-18 Logan exited the playroom and stayed in the waiting_room.
-19 Mia made no movements and stayed in the playroom for 10 minutes.
-20 Mia exited the playroom and stayed in the waiting_room.
-Question: Where does Gracie think Abigail thinks Mia thinks Owen thinks the turnip is?
-Choices: A. red_bucket, B. green_treasure_chest, C. blue_envelope, D. red_suitcase, E. green_envelope, F. green_suitcase, G. red_crate, H. red_envelope, I. blue_bucket, J. blue_pantry, K. blue_suitcase, L. green_bathtub, M. red_container, N. blue_container, O. blue_treasure_chest
+1 Aria, Logan, Jackson, Emily and Mila entered the kitchen.
+2 The apple is in the red_bathtub.
+3 Aria moved the apple to the blue_crate.
+4 Aria exited the kitchen and stayed in the waiting_room.
+5 Logan made no movements and stayed in the kitchen for 10 minutes.
+6 Logan exited the kitchen and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the kitchen for 10 minutes.
+8 Jackson exited the kitchen and stayed in the waiting_room.
+9 Emily made no movements and stayed in the kitchen for 10 minutes.
+10 Logan likes the blue_bottle.
+11 Emily exited the kitchen and stayed in the waiting_room.
+12 Mila moved the apple to the red_bathtub.
+13 Mila exited the kitchen and stayed in the waiting_room.
+14 Aria, Jackson and Mila entered the hall.
+15 The broccoli is in the blue_bucket.
+16 Aria moved the broccoli to the green_envelope.
+17 Aria exited the hall and stayed in the waiting_room.
+18 Jackson moved the broccoli to the green_bathtub.
+19 Jackson exited the hall and stayed in the waiting_room.
+20 Mila moved the broccoli to the green_basket.
+21 Mila exited the hall and stayed in the waiting_room.
+Question: Where does Mila think Aria thinks Emily thinks Logan thinks the apple is?
+Choices: A. blue_bucket, B. green_envelope, C. green_bathtub, D. green_basket, E. green_bucket, F. red_envelope, G. red_box, H. blue_suitcase, I. blue_bottle, J. red_bucket, K. red_bathtub, L. green_suitcase, M. red_container, N. red_cupboard, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

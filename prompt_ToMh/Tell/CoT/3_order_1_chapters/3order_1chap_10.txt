@@ -1,19 +1,23 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Owen, Avery, Emily and Ethan entered the office.
-2 The pineapple is in the red_treasure_chest.
-3 Evelyn made no movements and stayed in the office for 10 minutes.
-4 Evelyn exited the office and stayed in the waiting_room.
-5 Owen moved the pineapple to the green_bathtub.
-6 Owen exited the office and stayed in the waiting_room.
-7 Avery moved the pineapple to the green_container.
-8 Avery exited the office and stayed in the waiting_room.
-9 Emily made no movements and stayed in the office for 10 minutes.
-10 Emily exited the office and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the office for 10 minutes.
-12 Ethan exited the office and stayed in the waiting_room.
-13 Emily publicly claimed that pineapple is in the green_container.
-14 Ethan privately told Evelyn that the pineapple is actually in the green_container.
-Question: Where does Evelyn think Ethan thinks Owen thinks the pineapple is?
-Choices: A. blue_bucket, B. red_envelope, C. green_envelope, D. blue_bathtub, E. blue_drawer, F. red_bathtub, G. blue_pantry, H. green_bottle, I. red_bottle, J. green_suitcase, K. red_treasure_chest, L. green_bathtub, M. blue_suitcase, N. blue_container, O. green_container
+1 Carter likes the red_envelope.
+2 Liam, Amelia, Carter, Hannah and Isla entered the garden.
+3 The asparagus is in the green_basket.
+4 Liam made no movements and stayed in the garden for 10 minutes.
+5 Liam exited the garden and stayed in the waiting_room.
+6 Amelia made no movements and stayed in the garden for 10 minutes.
+7 Amelia exited the garden and stayed in the waiting_room.
+8 Carter moved the asparagus to the blue_bucket.
+9 Carter exited the garden and stayed in the waiting_room.
+10 Hannah moved the asparagus to the red_box.
+11 Liam lost his bottle.
+12 Hannah exited the garden and stayed in the waiting_room.
+13 Isla made no movements and stayed in the garden for 10 minutes.
+14 Isla exited the garden and stayed in the waiting_room.
+15 Carter dislikes the asparagus.
+16 Carter privately told Liam that the asparagus is actually in the green_basket.
+17 Hannah dislikes the asparagus.
+18 Amelia privately told Hannah that the asparagus is actually in the blue_bucket.
+Question: Where does Carter think Liam thinks Hannah thinks the asparagus is?
+Choices: A. red_bucket, B. green_suitcase, C. blue_treasure_chest, D. red_envelope, E. green_pantry, F. red_cupboard, G. green_basket, H. green_bucket, I. blue_bucket, J. red_box, K. green_treasure_chest, L. red_treasure_chest, M. blue_cupboard, N. blue_suitcase, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,44 +1,50 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Avery, Jack, Hannah and Ella entered the lounge.
-2 The tomato is in the red_basket.
-3 Emma made no movements and stayed in the lounge for 10 minutes.
-4 Emma exited the lounge and stayed in the waiting_room.
-5 Avery moved the tomato to the blue_container.
-6 Avery exited the lounge and stayed in the waiting_room.
-7 Jack made no movements and stayed in the lounge for 10 minutes.
-8 Jack exited the lounge and stayed in the waiting_room.
-9 Hannah moved the tomato to the blue_suitcase.
-10 Hannah exited the lounge and stayed in the waiting_room.
-11 Ella moved the tomato to the red_basket.
-12 Ella exited the lounge and stayed in the waiting_room.
-13 Hannah, Emma and Avery entered the lounge.
-14 The carrot is in the blue_suitcase.
-15 Hannah made no movements and stayed in the lounge for 10 minutes.
-16 Hannah exited the lounge and stayed in the waiting_room.
-17 Emma made no movements and stayed in the lounge for 10 minutes.
-18 Emma exited the lounge and stayed in the waiting_room.
-19 Avery made no movements and stayed in the lounge for 10 minutes.
-20 Avery exited the lounge and stayed in the waiting_room.
-21 Hannah publicly claimed that carrot is in the red_basket.
-22 Avery privately told Jack that the carrot is actually in the blue_suitcase.
-23 Avery, Ella, Jack and Hannah entered the lounge.
-24 The tomato is in the red_basket.
-25 Avery made no movements and stayed in the lounge for 10 minutes.
-26 Avery exited the lounge and stayed in the waiting_room.
-27 Ella made no movements and stayed in the lounge for 10 minutes.
-28 Ella exited the lounge and stayed in the waiting_room.
-29 Jack moved the tomato to the blue_container.
-30 Jack exited the lounge and stayed in the waiting_room.
-31 Hannah moved the tomato to the red_container.
-32 Hannah exited the lounge and stayed in the waiting_room.
-33 Jack and Hannah entered the lounge.
-34 The carrot is in the blue_suitcase.
-35 Jack moved the carrot to the red_container.
-36 Jack exited the lounge and stayed in the waiting_room.
-37 Hannah moved the carrot to the green_container.
-38 Hannah exited the lounge and stayed in the waiting_room.
-39 Jack privately told Emma that the carrot is actually in the blue_suitcase.
-Question: Where does Hannah think Avery thinks Emma thinks the tomato is?
-Choices: A. red_treasure_chest, B. blue_crate, C. red_drawer, D. blue_basket, E. green_bottle, F. green_suitcase, G. green_bathtub, H. blue_box, I. blue_bottle, J. green_envelope, K. blue_suitcase, L. red_basket, M. blue_container, N. green_container, O. red_container
+1 Emma, Ella, Nathan, Ava and Alexander entered the office.
+2 The eggplant is in the green_basket.
+3 Emma moved the eggplant to the blue_envelope.
+4 Emma exited the office and stayed in the waiting_room.
+5 Emma likes the green_cupboard.
+6 Ella made no movements and stayed in the office for 10 minutes.
+7 Ella exited the office and stayed in the waiting_room.
+8 Nathan made no movements and stayed in the office for 10 minutes.
+9 Nathan exited the office and stayed in the waiting_room.
+10 Ava moved the eggplant to the blue_suitcase.
+11 Ava exited the office and stayed in the waiting_room.
+12 Alexander made no movements and stayed in the office for 10 minutes.
+13 Alexander exited the office and stayed in the waiting_room.
+14 Ella dislikes the watermelon.
+15 Ava, Ella and Emma entered the cellar.
+16 The lettuce is in the green_suitcase.
+17 Ava saw a monkey.
+18 Ava made no movements and stayed in the cellar for 10 minutes.
+19 Emma lost his bottle.
+20 Ava exited the cellar and stayed in the waiting_room.
+21 Ella moved the lettuce to the red_treasure_chest.
+22 Ella exited the cellar and stayed in the waiting_room.
+23 Emma made no movements and stayed in the cellar for 10 minutes.
+24 Emma exited the cellar and stayed in the waiting_room.
+25 Ella publicly claimed that lettuce is in the red_treasure_chest.
+26 Emma privately told Ella that the lettuce is actually in the green_bathtub.
+27 Ella, Alexander, Emma and Ava entered the pantry.
+28 The carrot is in the green_box.
+29 Ella made no movements and stayed in the pantry for 10 minutes.
+30 Ella exited the pantry and stayed in the waiting_room.
+31 Alexander moved the carrot to the red_bottle.
+32 Alexander exited the pantry and stayed in the waiting_room.
+33 Emma moved the carrot to the green_cupboard.
+34 Emma exited the pantry and stayed in the waiting_room.
+35 Ava made no movements and stayed in the pantry for 10 minutes.
+36 Emma lost his bottle.
+37 Ava exited the pantry and stayed in the waiting_room.
+38 Alexander and Nathan entered the office.
+39 The eggplant is in the blue_suitcase.
+40 Alexander moved the eggplant to the blue_envelope.
+41 Alexander exited the office and stayed in the waiting_room.
+42 Nathan made no movements and stayed in the office for 10 minutes.
+43 Nathan exited the office and stayed in the waiting_room.
+44 Nathan publicly claimed that eggplant is in the green_basket.
+45 Alexander privately told Nathan that the eggplant is actually in the blue_suitcase.
+Question: Where does Emma think Nathan thinks Ella thinks the eggplant is?
+Choices: A. red_treasure_chest, B. green_suitcase, C. blue_drawer, D. red_crate, E. green_bathtub, F. red_bathtub, G. green_box, H. red_bottle, I. blue_bucket, J. green_cupboard, K. blue_crate, L. green_basket, M. blue_bottle, N. blue_envelope, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

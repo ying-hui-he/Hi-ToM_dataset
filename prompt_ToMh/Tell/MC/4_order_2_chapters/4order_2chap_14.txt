@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Charlotte, Evelyn, Emma and Isla entered the attic.
-2 The pineapple is in the blue_bottle.
-3 Gracie made no movements and stayed in the attic for 10 minutes.
-4 Gracie exited the attic and stayed in the waiting_room.
-5 Charlotte moved the pineapple to the green_envelope.
-6 Charlotte exited the attic and stayed in the waiting_room.
-7 Evelyn moved the pineapple to the red_container.
-8 Evelyn exited the attic and stayed in the waiting_room.
-9 Emma moved the pineapple to the blue_container.
-10 Emma exited the attic and stayed in the waiting_room.
-11 Isla made no movements and stayed in the attic for 10 minutes.
-12 Isla exited the attic and stayed in the waiting_room.
-13 Evelyn, Gracie and Emma entered the den.
-14 The strawberry is in the blue_crate.
-15 Evelyn moved the strawberry to the red_treasure_chest.
-16 Evelyn exited the den and stayed in the waiting_room.
-17 Gracie made no movements and stayed in the den for 10 minutes.
-18 Gracie exited the den and stayed in the waiting_room.
-19 Emma moved the strawberry to the blue_drawer.
-20 Emma exited the den and stayed in the waiting_room.
-21 Evelyn publicly claimed that strawberry is in the green_suitcase.
-22 Emma privately told Charlotte that the strawberry is actually in the blue_drawer.
-Question: Where does Evelyn think Emma thinks Isla thinks Charlotte thinks the pineapple is?
-Choices: A. blue_bottle, B. blue_container, C. red_container, D. red_envelope, E. green_envelope, F. blue_crate, G. red_treasure_chest, H. red_basket, I. green_suitcase, J. blue_drawer, K. green_bottle, L. green_cupboard, M. red_drawer, N. blue_suitcase, O. blue_bucket
+1 Isabella, Mia, Mila, Mason and Aria entered the staircase.
+2 The persimmon is in the red_bucket.
+3 Isabella made no movements and stayed in the staircase for 10 minutes.
+4 Isabella exited the staircase and stayed in the waiting_room.
+5 Mia moved the persimmon to the red_container.
+6 Mason saw a mouse.
+7 Mia exited the staircase and stayed in the waiting_room.
+8 Mila made no movements and stayed in the staircase for 10 minutes.
+9 Mila exited the staircase and stayed in the waiting_room.
+10 Mason moved the persimmon to the blue_cupboard.
+11 Mason exited the staircase and stayed in the waiting_room.
+12 Aria made no movements and stayed in the staircase for 10 minutes.
+13 Aria exited the staircase and stayed in the waiting_room.
+14 Mia, Isabella and Mila entered the bedroom.
+15 The potato is in the red_box.
+16 Mia moved the potato to the red_crate.
+17 Aria likes the green_cupboard.
+18 Mia exited the bedroom and stayed in the waiting_room.
+19 Isabella made no movements and stayed in the bedroom for 10 minutes.
+20 Isabella exited the bedroom and stayed in the waiting_room.
+21 Mila moved the potato to the blue_drawer.
+22 Mila exited the bedroom and stayed in the waiting_room.
+23 Mia publicly claimed that potato is in the red_crate.
+24 Mila privately told Aria that the potato is actually in the blue_drawer.
+Question: Where does Isabella think Mia thinks Mila thinks Mason thinks the persimmon is?
+Choices: A. red_box, B. red_envelope, C. blue_suitcase, D. blue_drawer, E. red_crate, F. red_bucket, G. green_basket, H. blue_cupboard, I. blue_treasure_chest, J. red_container, K. green_box, L. green_pantry, M. green_suitcase, N. green_cupboard, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

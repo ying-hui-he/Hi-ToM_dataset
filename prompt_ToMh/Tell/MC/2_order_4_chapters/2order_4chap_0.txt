@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Gracie, Charlotte, Isla and Aria entered the basement.
-2 The onion is in the red_suitcase.
-3 Emily moved the onion to the blue_box.
-4 Emily exited the basement and stayed in the waiting_room.
-5 Gracie made no movements and stayed in the basement for 10 minutes.
-6 Gracie exited the basement and stayed in the waiting_room.
-7 Charlotte moved the onion to the blue_drawer.
-8 Charlotte exited the basement and stayed in the waiting_room.
-9 Isla moved the onion to the green_bathtub.
-10 Isla exited the basement and stayed in the waiting_room.
-11 Aria made no movements and stayed in the basement for 10 minutes.
-12 Aria exited the basement and stayed in the waiting_room.
-13 Gracie, Emily and Aria entered the living_room.
-14 The orange is in the blue_crate.
-15 Gracie moved the orange to the green_container.
-16 Gracie exited the living_room and stayed in the waiting_room.
-17 Emily moved the orange to the green_suitcase.
-18 Emily exited the living_room and stayed in the waiting_room.
-19 Aria moved the orange to the blue_suitcase.
-20 Aria exited the living_room and stayed in the waiting_room.
-21 Gracie publicly claimed that orange is in the blue_bucket.
-22 Aria privately told Charlotte that the orange is actually in the blue_suitcase.
-23 Charlotte, Emily, Aria and Gracie entered the living_room.
-24 The orange is in the blue_suitcase.
-25 Charlotte moved the orange to the blue_bucket.
-26 Charlotte exited the living_room and stayed in the waiting_room.
-27 Emily made no movements and stayed in the living_room for 10 minutes.
-28 Emily exited the living_room and stayed in the waiting_room.
-29 Aria made no movements and stayed in the living_room for 10 minutes.
-30 Aria exited the living_room and stayed in the waiting_room.
-31 Gracie moved the orange to the green_suitcase.
-32 Gracie exited the living_room and stayed in the waiting_room.
-33 Isla and Gracie entered the living_room.
-34 The lime is in the green_container.
-35 Isla made no movements and stayed in the living_room for 10 minutes.
-36 Isla exited the living_room and stayed in the waiting_room.
-37 Gracie made no movements and stayed in the living_room for 10 minutes.
-38 Gracie exited the living_room and stayed in the waiting_room.
-39 Isla publicly claimed that lime is in the blue_bucket.
-40 Gracie privately told Isla that the lime is actually in the green_suitcase.
-Question: Where does Isla think Gracie thinks the onion is?
-Choices: A. blue_crate, B. green_container, C. blue_suitcase, D. blue_bucket, E. green_suitcase, F. red_suitcase, G. blue_treasure_chest, H. green_bathtub, I. blue_box, J. blue_drawer, K. red_container, L. green_bottle, M. blue_pantry, N. red_crate, O. blue_bathtub
+1 Isla, Hannah, Jacob, Ella and Aiden entered the staircase.
+2 The cucumber is in the green_cupboard.
+3 Isla made no movements and stayed in the staircase for 10 minutes.
+4 Isla exited the staircase and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the staircase for 10 minutes.
+6 Hannah exited the staircase and stayed in the waiting_room.
+7 Jacob moved the cucumber to the green_envelope.
+8 Jacob exited the staircase and stayed in the waiting_room.
+9 Jacob lost his phone.
+10 Ella moved the cucumber to the red_box.
+11 Ella exited the staircase and stayed in the waiting_room.
+12 Aiden moved the cucumber to the green_cupboard.
+13 Aiden exited the staircase and stayed in the waiting_room.
+14 Hannah, Isla and Ella entered the bedroom.
+15 The corn is in the red_envelope.
+16 Hannah made no movements and stayed in the bedroom for 10 minutes.
+17 Hannah exited the bedroom and stayed in the waiting_room.
+18 Isla made no movements and stayed in the bedroom for 10 minutes.
+19 Isla lost his bottle.
+20 Isla exited the bedroom and stayed in the waiting_room.
+21 Ella made no movements and stayed in the bedroom for 10 minutes.
+22 Ella exited the bedroom and stayed in the waiting_room.
+23 Hannah lost his watch.
+24 Isla publicly claimed that corn is in the green_bucket.
+25 Ella privately told Isla that the corn is actually in the blue_treasure_chest.
+26 Hannah, Aiden, Isla and Jacob entered the staircase.
+27 The onion is in the green_envelope.
+28 Hannah made no movements and stayed in the staircase for 10 minutes.
+29 Hannah exited the staircase and stayed in the waiting_room.
+30 Isla dislikes the watermelon.
+31 Aiden moved the onion to the red_box.
+32 Aiden exited the staircase and stayed in the waiting_room.
+33 Isla moved the onion to the green_box.
+34 Isla exited the staircase and stayed in the waiting_room.
+35 Jacob moved the onion to the blue_cupboard.
+36 Jacob exited the staircase and stayed in the waiting_room.
+37 Jacob and Aiden entered the staircase.
+38 The cucumber is in the green_cupboard.
+39 Jacob made no movements and stayed in the staircase for 10 minutes.
+40 Jacob exited the staircase and stayed in the waiting_room.
+41 Aiden made no movements and stayed in the staircase for 10 minutes.
+42 Aiden exited the staircase and stayed in the waiting_room.
+43 Jacob privately told Ella that the cucumber is actually in the blue_cupboard.
+Question: Where does Isla think Jacob thinks the cucumber is?
+Choices: A. green_cupboard, B. green_envelope, C. green_box, D. blue_cupboard, E. red_box, F. red_bottle, G. red_envelope, H. blue_crate, I. green_bucket, J. blue_treasure_chest, K. blue_suitcase, L. green_pantry, M. green_treasure_chest, N. red_bucket, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

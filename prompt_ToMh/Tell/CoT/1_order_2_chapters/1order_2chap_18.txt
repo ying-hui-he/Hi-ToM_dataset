@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Noah, Jack, Jacob, Ethan and Aria entered the attic.
-2 The cucumber is in the blue_pantry.
-3 Noah made no movements and stayed in the attic for 10 minutes.
-4 Noah exited the attic and stayed in the waiting_room.
-5 Jack made no movements and stayed in the attic for 10 minutes.
-6 Jack exited the attic and stayed in the waiting_room.
-7 Jacob moved the cucumber to the blue_drawer.
-8 Jacob exited the attic and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the attic for 10 minutes.
-10 Ethan exited the attic and stayed in the waiting_room.
-11 Aria moved the cucumber to the blue_pantry.
-12 Aria exited the attic and stayed in the waiting_room.
-13 Aria, Jack and Ethan entered the attic.
-14 The asparagus is in the blue_container.
-15 Aria made no movements and stayed in the attic for 10 minutes.
-16 Aria exited the attic and stayed in the waiting_room.
-17 Jack moved the asparagus to the red_crate.
-18 Jack exited the attic and stayed in the waiting_room.
-19 Ethan moved the asparagus to the blue_drawer.
-20 Ethan exited the attic and stayed in the waiting_room.
-21 Aria publicly claimed that asparagus is in the blue_envelope.
-22 Ethan privately told Noah that the asparagus is actually in the blue_drawer.
-Question: Where does Ethan think the cucumber is?
-Choices: A. red_bathtub, B. green_bathtub, C. red_suitcase, D. blue_suitcase, E. red_bucket, F. blue_pantry, G. blue_container, H. blue_envelope, I. blue_drawer, J. red_crate, K. green_crate, L. green_treasure_chest, M. red_envelope, N. red_container, O. green_cupboard
+1 Jacob, Hannah, Emma, Amelia and Mila entered the porch.
+2 The cucumber is in the green_bottle.
+3 Jacob made no movements and stayed in the porch for 10 minutes.
+4 Jacob exited the porch and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the porch for 10 minutes.
+6 Hannah exited the porch and stayed in the waiting_room.
+7 Emma moved the cucumber to the red_container.
+8 Emma exited the porch and stayed in the waiting_room.
+9 Amelia moved the cucumber to the red_treasure_chest.
+10 Amelia exited the porch and stayed in the waiting_room.
+11 Emma lost his watch.
+12 Mila made no movements and stayed in the porch for 10 minutes.
+13 Jacob dislikes the corn.
+14 Mila exited the porch and stayed in the waiting_room.
+15 Mila, Hannah and Amelia entered the cellar.
+16 The corn is in the green_basket.
+17 Mila made no movements and stayed in the cellar for 10 minutes.
+18 Mila exited the cellar and stayed in the waiting_room.
+19 Hannah made no movements and stayed in the cellar for 10 minutes.
+20 Hannah exited the cellar and stayed in the waiting_room.
+21 Amelia made no movements and stayed in the cellar for 10 minutes.
+22 Mila lost his bottle.
+23 Amelia exited the cellar and stayed in the waiting_room.
+24 Hannah privately told Amelia that the corn is actually in the blue_cupboard.
+25 Amelia privately told Emma that the corn is actually in the green_basket.
+Question: Where does Jacob think the cucumber is?
+Choices: A. blue_suitcase, B. green_basket, C. blue_envelope, D. blue_cupboard, E. green_suitcase, F. green_bottle, G. blue_bottle, H. red_crate, I. red_container, J. red_treasure_chest, K. red_bathtub, L. green_envelope, M. red_pantry, N. blue_bucket, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

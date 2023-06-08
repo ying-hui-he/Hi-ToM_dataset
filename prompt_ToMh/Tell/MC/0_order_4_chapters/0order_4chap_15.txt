@@ -1,44 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Avery, Olivia, Isla, Logan and Hannah entered the attic.
-2 The radish is in the blue_pantry.
-3 Avery made no movements and stayed in the attic for 10 minutes.
-4 Avery exited the attic and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the attic for 10 minutes.
-6 Olivia exited the attic and stayed in the waiting_room.
-7 Isla made no movements and stayed in the attic for 10 minutes.
-8 Isla exited the attic and stayed in the waiting_room.
-9 Logan made no movements and stayed in the attic for 10 minutes.
-10 Logan exited the attic and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the attic for 10 minutes.
-12 Hannah exited the attic and stayed in the waiting_room.
-13 Logan, Hannah and Avery entered the attic.
-14 The corn is in the blue_bucket.
-15 Logan moved the corn to the blue_envelope.
-16 Logan exited the attic and stayed in the waiting_room.
-17 Hannah made no movements and stayed in the attic for 10 minutes.
-18 Hannah exited the attic and stayed in the waiting_room.
-19 Avery moved the corn to the blue_pantry.
-20 Avery exited the attic and stayed in the waiting_room.
-21 Logan publicly claimed that corn is in the blue_basket.
-22 Avery privately told Isla that the corn is actually in the blue_pantry.
-23 Logan, Olivia, Isla and Avery entered the pantry.
-24 The onion is in the green_envelope.
-25 Logan made no movements and stayed in the pantry for 10 minutes.
-26 Logan exited the pantry and stayed in the waiting_room.
-27 Olivia made no movements and stayed in the pantry for 10 minutes.
-28 Olivia exited the pantry and stayed in the waiting_room.
-29 Isla moved the onion to the green_bottle.
-30 Isla exited the pantry and stayed in the waiting_room.
-31 Avery made no movements and stayed in the pantry for 10 minutes.
-32 Avery exited the pantry and stayed in the waiting_room.
-33 Isla and Hannah entered the pantry.
-34 The potato is in the green_bottle.
-35 Isla moved the potato to the green_envelope.
-36 Isla exited the pantry and stayed in the waiting_room.
-37 Hannah moved the potato to the blue_bottle.
-38 Hannah exited the pantry and stayed in the waiting_room.
-39 Isla privately told Olivia that the potato is actually in the blue_drawer.
-Question: Where is the radish really?
-Choices: A. red_crate, B. green_suitcase, C. red_basket, D. blue_treasure_chest, E. green_treasure_chest, F. green_bottle, G. green_envelope, H. blue_bottle, I. green_crate, J. blue_drawer, K. blue_pantry, L. blue_bucket, M. blue_envelope, N. blue_bathtub, O. blue_basket
+1 Ava, Chloe, Jack, Emily and Lucas entered the bathroom.
+2 The pineapple is in the green_treasure_chest.
+3 Ava moved the pineapple to the blue_bucket.
+4 Ava exited the bathroom and stayed in the waiting_room.
+5 Chloe moved the pineapple to the green_bathtub.
+6 Chloe exited the bathroom and stayed in the waiting_room.
+7 Jack made no movements and stayed in the bathroom for 10 minutes.
+8 Jack exited the bathroom and stayed in the waiting_room.
+9 Chloe saw a cat.
+10 Emily made no movements and stayed in the bathroom for 10 minutes.
+11 Emily exited the bathroom and stayed in the waiting_room.
+12 Jack saw a dog.
+13 Lucas made no movements and stayed in the bathroom for 10 minutes.
+14 Lucas exited the bathroom and stayed in the waiting_room.
+15 Chloe, Lucas and Ava entered the crawlspace.
+16 The apple is in the green_pantry.
+17 Chloe dislikes the peach.
+18 Chloe moved the apple to the green_bottle.
+19 Chloe exited the crawlspace and stayed in the waiting_room.
+20 Chloe dislikes the peach.
+21 Lucas moved the apple to the red_box.
+22 Lucas exited the crawlspace and stayed in the waiting_room.
+23 Ava made no movements and stayed in the crawlspace for 10 minutes.
+24 Ava exited the crawlspace and stayed in the waiting_room.
+25 Ava publicly claimed that apple is in the green_pantry.
+26 Chloe privately told Ava that the apple is actually in the red_cupboard.
+27 Emily, Jack, Chloe and Ava entered the bathroom.
+28 The pineapple is in the green_bathtub.
+29 Emily moved the pineapple to the green_bucket.
+30 Emily exited the bathroom and stayed in the waiting_room.
+31 Jack moved the pineapple to the blue_bucket.
+32 Jack exited the bathroom and stayed in the waiting_room.
+33 Chloe made no movements and stayed in the bathroom for 10 minutes.
+34 Chloe exited the bathroom and stayed in the waiting_room.
+35 Ava moved the pineapple to the green_cupboard.
+36 Ava exited the bathroom and stayed in the waiting_room.
+37 Lucas and Jack entered the bathroom.
+38 The grapes is in the blue_bucket.
+39 Lucas made no movements and stayed in the bathroom for 10 minutes.
+40 Lucas exited the bathroom and stayed in the waiting_room.
+41 Jack made no movements and stayed in the bathroom for 10 minutes.
+42 Jack exited the bathroom and stayed in the waiting_room.
+43 Jack publicly claimed that grapes is in the blue_bucket.
+44 Lucas privately told Jack that the grapes is actually in the green_bucket.
+Question: Where is the pineapple really?
+Choices: A. green_treasure_chest, B. blue_bucket, C. green_bathtub, D. green_cupboard, E. green_bucket, F. green_pantry, G. blue_cupboard, H. red_cupboard, I. green_bottle, J. red_box, K. blue_crate, L. red_bucket, M. green_basket, N. blue_suitcase, O. blue_drawer
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

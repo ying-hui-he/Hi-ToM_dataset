@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, James, Hannah, Aiden and Oliver entered the attic.
-2 The banana is in the blue_bucket.
-3 Emily moved the banana to the blue_crate.
-4 Emily exited the attic and stayed in the waiting_room.
-5 James moved the banana to the green_container.
-6 James exited the attic and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the attic for 10 minutes.
-8 Hannah exited the attic and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the attic for 10 minutes.
-10 Aiden exited the attic and stayed in the waiting_room.
-11 Oliver made no movements and stayed in the attic for 10 minutes.
-12 Oliver exited the attic and stayed in the waiting_room.
-13 Hannah, Emily and Aiden entered the office.
-14 The pumpkin is in the red_bucket.
-15 Hannah made no movements and stayed in the office for 10 minutes.
-16 Hannah exited the office and stayed in the waiting_room.
-17 Emily moved the pumpkin to the red_bottle.
-18 Emily exited the office and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the office for 10 minutes.
-20 Aiden exited the office and stayed in the waiting_room.
-21 Emily privately told Aiden that the pumpkin is actually in the red_bottle.
-22 Aiden privately told James that the pumpkin is actually in the red_bottle.
-23 Emily, Hannah, Oliver and James entered the living_room.
-24 The radish is in the green_bottle.
-25 Emily moved the radish to the red_treasure_chest.
-26 Emily exited the living_room and stayed in the waiting_room.
-27 Hannah made no movements and stayed in the living_room for 10 minutes.
-28 Hannah exited the living_room and stayed in the waiting_room.
-29 Oliver made no movements and stayed in the living_room for 10 minutes.
-30 Oliver exited the living_room and stayed in the waiting_room.
-31 James moved the radish to the green_crate.
-32 James exited the living_room and stayed in the waiting_room.
-33 Emily and Aiden entered the attic.
-34 The banana is in the green_container.
-35 Emily moved the banana to the blue_bucket.
-36 Emily exited the attic and stayed in the waiting_room.
-37 Aiden made no movements and stayed in the attic for 10 minutes.
-38 Aiden exited the attic and stayed in the waiting_room.
-39 Emily publicly claimed that banana is in the blue_bucket.
-40 Aiden privately told Emily that the banana is actually in the blue_crate.
-Question: Where is the banana really?
-Choices: A. red_bottle, B. red_bucket, C. red_basket, D. blue_container, E. green_suitcase, F. green_bottle, G. green_crate, H. red_container, I. red_treasure_chest, J. red_drawer, K. green_container, L. blue_bucket, M. blue_crate, N. green_cupboard, O. blue_bottle
+1 Jacob dislikes the lemon.
+2 Logan, Chloe, Abigail, Jacob and Emma entered the dining_room.
+3 The peach is in the red_container.
+4 Logan made no movements and stayed in the dining_room for 10 minutes.
+5 Logan dislikes the banana.
+6 Logan exited the dining_room and stayed in the waiting_room.
+7 Chloe moved the peach to the red_pantry.
+8 Chloe exited the dining_room and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the dining_room for 10 minutes.
+10 Abigail exited the dining_room and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the dining_room for 10 minutes.
+12 Jacob exited the dining_room and stayed in the waiting_room.
+13 Emma moved the peach to the red_container.
+14 Emma exited the dining_room and stayed in the waiting_room.
+15 Logan, Abigail and Jacob entered the study.
+16 The eggplant is in the blue_drawer.
+17 Logan moved the eggplant to the blue_bathtub.
+18 Logan exited the study and stayed in the waiting_room.
+19 Abigail moved the eggplant to the red_crate.
+20 Abigail exited the study and stayed in the waiting_room.
+21 Jacob moved the eggplant to the red_basket.
+22 Jacob exited the study and stayed in the waiting_room.
+23 Abigail privately told Jacob that the eggplant is actually in the blue_suitcase.
+24 Jacob privately told Chloe that the eggplant is actually in the red_basket.
+25 Chloe, Jacob, Emma and Abigail entered the study.
+26 The eggplant is in the red_basket.
+27 Chloe made no movements and stayed in the study for 10 minutes.
+28 Chloe exited the study and stayed in the waiting_room.
+29 Jacob moved the eggplant to the blue_drawer.
+30 Jacob exited the study and stayed in the waiting_room.
+31 Emma saw a cat.
+32 Emma moved the eggplant to the red_crate.
+33 Emma exited the study and stayed in the waiting_room.
+34 Abigail moved the eggplant to the blue_suitcase.
+35 Abigail exited the study and stayed in the waiting_room.
+36 Chloe and Jacob entered the attic.
+37 The banana is in the red_cupboard.
+38 Chloe moved the banana to the green_pantry.
+39 Chloe exited the attic and stayed in the waiting_room.
+40 Jacob made no movements and stayed in the attic for 10 minutes.
+41 Jacob exited the attic and stayed in the waiting_room.
+42 Chloe publicly claimed that banana is in the green_envelope.
+43 Jacob privately told Chloe that the banana is actually in the green_basket.
+Question: Where is the peach really?
+Choices: A. blue_bottle, B. red_container, C. red_pantry, D. red_bucket, E. green_box, F. blue_suitcase, G. blue_drawer, H. red_crate, I. red_basket, J. blue_bathtub, K. red_cupboard, L. green_treasure_chest, M. green_basket, N. green_pantry, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

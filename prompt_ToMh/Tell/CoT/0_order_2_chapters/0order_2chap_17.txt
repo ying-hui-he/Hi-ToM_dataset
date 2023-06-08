@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Carter, Ethan, Isla, Gracie and Charlotte entered the kitchen.
-2 The potato is in the red_treasure_chest.
-3 Carter moved the potato to the red_envelope.
-4 Carter exited the kitchen and stayed in the waiting_room.
-5 Ethan moved the potato to the blue_pantry.
-6 Ethan exited the kitchen and stayed in the waiting_room.
-7 Isla made no movements and stayed in the kitchen for 10 minutes.
-8 Isla exited the kitchen and stayed in the waiting_room.
-9 Gracie moved the potato to the blue_box.
-10 Gracie exited the kitchen and stayed in the waiting_room.
-11 Charlotte moved the potato to the red_treasure_chest.
-12 Charlotte exited the kitchen and stayed in the waiting_room.
-13 Gracie, Carter and Isla entered the kitchen.
-14 The lemon is in the blue_pantry.
-15 Gracie made no movements and stayed in the kitchen for 10 minutes.
-16 Gracie exited the kitchen and stayed in the waiting_room.
-17 Carter made no movements and stayed in the kitchen for 10 minutes.
-18 Carter exited the kitchen and stayed in the waiting_room.
-19 Isla made no movements and stayed in the kitchen for 10 minutes.
-20 Isla exited the kitchen and stayed in the waiting_room.
-21 Gracie publicly claimed that lemon is in the red_envelope.
-22 Isla privately told Charlotte that the lemon is actually in the blue_pantry.
-Question: Where is the potato really?
-Choices: A. green_bottle, B. red_suitcase, C. green_treasure_chest, D. red_container, E. blue_drawer, F. blue_pantry, G. red_treasure_chest, H. blue_box, I. blue_basket, J. red_envelope, K. blue_crate, L. blue_bathtub, M. red_bucket, N. blue_bottle, O. blue_treasure_chest
+1 Mason, Mila, Chloe, Emma and Ethan entered the garage.
+2 The corn is in the red_bottle.
+3 Mason made no movements and stayed in the garage for 10 minutes.
+4 Mason exited the garage and stayed in the waiting_room.
+5 Mila made no movements and stayed in the garage for 10 minutes.
+6 Mila exited the garage and stayed in the waiting_room.
+7 Chloe made no movements and stayed in the garage for 10 minutes.
+8 Chloe exited the garage and stayed in the waiting_room.
+9 Emma moved the corn to the green_basket.
+10 Emma exited the garage and stayed in the waiting_room.
+11 Mila saw a dog.
+12 Ethan made no movements and stayed in the garage for 10 minutes.
+13 Ethan exited the garage and stayed in the waiting_room.
+14 Mila, Mason and Chloe entered the garage.
+15 The corn is in the green_basket.
+16 Mila moved the corn to the blue_bucket.
+17 Mila exited the garage and stayed in the waiting_room.
+18 Mason moved the corn to the red_box.
+19 Mason exited the garage and stayed in the waiting_room.
+20 Chloe moved the corn to the green_treasure_chest.
+21 Chloe exited the garage and stayed in the waiting_room.
+22 Mason publicly claimed that corn is in the red_bottle.
+23 Mason dislikes the persimmon.
+24 Chloe privately told Mason that the corn is actually in the green_basket.
+Question: Where is the corn really?
+Choices: A. red_bottle, B. green_basket, C. red_box, D. green_treasure_chest, E. blue_bucket, F. red_pantry, G. red_basket, H. red_bucket, I. red_crate, J. green_bucket, K. blue_bathtub, L. green_pantry, M. green_bottle, N. red_envelope, O. blue_drawer
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

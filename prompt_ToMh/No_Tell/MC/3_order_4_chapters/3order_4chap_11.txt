@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Amelia, Abigail, Ava and Carter entered the attic.
-2 The corn is in the blue_drawer.
-3 Owen moved the corn to the blue_crate.
-4 Owen exited the attic and stayed in the waiting_room.
-5 Amelia moved the corn to the green_treasure_chest.
-6 Amelia exited the attic and stayed in the waiting_room.
-7 Abigail moved the corn to the blue_treasure_chest.
-8 Abigail exited the attic and stayed in the waiting_room.
-9 Ava moved the corn to the red_container.
-10 Ava exited the attic and stayed in the waiting_room.
-11 Carter moved the corn to the blue_drawer.
-12 Carter exited the attic and stayed in the waiting_room.
-13 Owen, Amelia and Carter entered the porch.
-14 The turnip is in the blue_bucket.
-15 Owen made no movements and stayed in the porch for 10 minutes.
-16 Owen exited the porch and stayed in the waiting_room.
-17 Amelia made no movements and stayed in the porch for 10 minutes.
-18 Amelia exited the porch and stayed in the waiting_room.
-19 Carter made no movements and stayed in the porch for 10 minutes.
-20 Carter exited the porch and stayed in the waiting_room.
-21 Amelia, Ava, Owen and Carter entered the attic.
-22 The lettuce is in the blue_crate.
-23 Amelia moved the lettuce to the blue_drawer.
-24 Amelia exited the attic and stayed in the waiting_room.
-25 Ava moved the lettuce to the red_container.
-26 Ava exited the attic and stayed in the waiting_room.
-27 Owen made no movements and stayed in the attic for 10 minutes.
-28 Owen exited the attic and stayed in the waiting_room.
-29 Carter moved the lettuce to the green_treasure_chest.
-30 Carter exited the attic and stayed in the waiting_room.
-31 Owen and Carter entered the attic.
-32 The lettuce is in the green_treasure_chest.
-33 Owen moved the lettuce to the blue_crate.
-34 Owen exited the attic and stayed in the waiting_room.
-35 Carter made no movements and stayed in the attic for 10 minutes.
-36 Carter exited the attic and stayed in the waiting_room.
-Question: Where does Owen think Carter thinks Abigail thinks the corn is?
-Choices: A. green_suitcase, B. blue_pantry, C. green_crate, D. blue_basket, E. red_basket, F. blue_bucket, G. red_bottle, H. blue_container, I. blue_envelope, J. blue_box, K. blue_drawer, L. blue_crate, M. green_treasure_chest, N. red_container, O. blue_treasure_chest
+1 Emma, Lucas, Aiden, Sophia and Amelia entered the patio.
+2 The melon is in the blue_bucket.
+3 Emma made no movements and stayed in the patio for 10 minutes.
+4 Emma exited the patio and stayed in the waiting_room.
+5 Lucas moved the melon to the green_cupboard.
+6 Lucas exited the patio and stayed in the waiting_room.
+7 Aiden moved the melon to the blue_crate.
+8 Aiden exited the patio and stayed in the waiting_room.
+9 Sophia moved the melon to the red_basket.
+10 Aiden dislikes the melon.
+11 Sophia exited the patio and stayed in the waiting_room.
+12 Amelia lost his watch.
+13 Amelia moved the melon to the blue_bucket.
+14 Amelia exited the patio and stayed in the waiting_room.
+15 Lucas, Aiden and Amelia entered the staircase.
+16 The banana is in the red_bathtub.
+17 Lucas moved the banana to the green_bathtub.
+18 Lucas exited the staircase and stayed in the waiting_room.
+19 Amelia saw a dog.
+20 Aiden moved the banana to the green_envelope.
+21 Aiden exited the staircase and stayed in the waiting_room.
+22 Amelia made no movements and stayed in the staircase for 10 minutes.
+23 Amelia exited the staircase and stayed in the waiting_room.
+24 Lucas, Sophia, Amelia and Emma entered the porch.
+25 The potato is in the blue_suitcase.
+26 Lucas made no movements and stayed in the porch for 10 minutes.
+27 Lucas exited the porch and stayed in the waiting_room.
+28 Sophia dislikes the peach.
+29 Sophia made no movements and stayed in the porch for 10 minutes.
+30 Sophia exited the porch and stayed in the waiting_room.
+31 Amelia made no movements and stayed in the porch for 10 minutes.
+32 Amelia exited the porch and stayed in the waiting_room.
+33 Emma made no movements and stayed in the porch for 10 minutes.
+34 Emma exited the porch and stayed in the waiting_room.
+35 Lucas and Emma entered the porch.
+36 The potato is in the blue_suitcase.
+37 Lucas made no movements and stayed in the porch for 10 minutes.
+38 Lucas exited the porch and stayed in the waiting_room.
+39 Emma made no movements and stayed in the porch for 10 minutes.
+40 Emma exited the porch and stayed in the waiting_room.
+Question: Where does Aiden think Amelia thinks Lucas thinks the melon is?
+Choices: A. red_bathtub, B. green_envelope, C. red_crate, D. green_bathtub, E. red_pantry, F. blue_suitcase, G. blue_bottle, H. green_bottle, I. blue_cupboard, J. red_envelope, K. green_cupboard, L. blue_bucket, M. red_container, N. blue_crate, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Amelia, Mia, Olivia, James and Aiden entered the workshop.
-2 The carrot is in the red_container.
-3 Amelia moved the carrot to the blue_envelope.
-4 Amelia exited the workshop and stayed in the waiting_room.
-5 Mia made no movements and stayed in the workshop for 10 minutes.
-6 Mia exited the workshop and stayed in the waiting_room.
-7 Olivia moved the carrot to the green_bottle.
-8 Olivia exited the workshop and stayed in the waiting_room.
-9 James moved the carrot to the blue_drawer.
-10 James exited the workshop and stayed in the waiting_room.
-11 Aiden made no movements and stayed in the workshop for 10 minutes.
-12 Aiden exited the workshop and stayed in the waiting_room.
-13 James, Mia and Aiden entered the workshop.
-14 The carrot is in the blue_drawer.
-15 James made no movements and stayed in the workshop for 10 minutes.
-16 James exited the workshop and stayed in the waiting_room.
-17 Mia made no movements and stayed in the workshop for 10 minutes.
-18 Mia exited the workshop and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the workshop for 10 minutes.
-20 Aiden exited the workshop and stayed in the waiting_room.
-Question: Where is the carrot really?
-Choices: A. blue_bucket, B. red_envelope, C. green_container, D. green_cupboard, E. red_treasure_chest, F. red_suitcase, G. blue_treasure_chest, H. blue_basket, I. blue_bathtub, J. blue_suitcase, K. green_crate, L. red_container, M. blue_envelope, N. blue_drawer, O. green_bottle
+1 Mia, Mason, Emily, Logan and Mila entered the TV_room.
+2 The peas is in the blue_envelope.
+3 Mia moved the peas to the red_crate.
+4 Mia exited the TV_room and stayed in the waiting_room.
+5 Mason moved the peas to the green_envelope.
+6 Mason exited the TV_room and stayed in the waiting_room.
+7 Emily moved the peas to the red_bucket.
+8 Emily exited the TV_room and stayed in the waiting_room.
+9 Logan saw a mouse.
+10 Logan made no movements and stayed in the TV_room for 10 minutes.
+11 Logan exited the TV_room and stayed in the waiting_room.
+12 Mila made no movements and stayed in the TV_room for 10 minutes.
+13 Mila exited the TV_room and stayed in the waiting_room.
+14 Logan, Mila and Mia entered the bedroom.
+15 The onion is in the blue_bathtub.
+16 Logan made no movements and stayed in the bedroom for 10 minutes.
+17 Logan exited the bedroom and stayed in the waiting_room.
+18 Mila made no movements and stayed in the bedroom for 10 minutes.
+19 Mason likes the red_crate.
+20 Mila exited the bedroom and stayed in the waiting_room.
+21 Logan lost his bottle.
+22 Mia moved the onion to the green_basket.
+23 Mia exited the bedroom and stayed in the waiting_room.
+Question: Where is the peas really?
+Choices: A. blue_envelope, B. red_crate, C. red_bottle, D. red_bucket, E. green_envelope, F. blue_bathtub, G. blue_crate, H. green_pantry, I. red_basket, J. green_basket, K. green_bathtub, L. blue_suitcase, M. green_bucket, N. green_suitcase, O. red_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

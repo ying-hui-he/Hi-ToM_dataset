@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Ava, Emma, Mia and James entered the office.
-2 The plum is in the green_container.
-3 Avery moved the plum to the red_treasure_chest.
-4 Avery exited the office and stayed in the waiting_room.
-5 Ava moved the plum to the blue_treasure_chest.
-6 Ava exited the office and stayed in the waiting_room.
-7 Emma moved the plum to the green_suitcase.
-8 Emma exited the office and stayed in the waiting_room.
-9 Mia made no movements and stayed in the office for 10 minutes.
-10 Mia exited the office and stayed in the waiting_room.
-11 James moved the plum to the green_container.
-12 James exited the office and stayed in the waiting_room.
-13 James, Emma and Avery entered the front_yard.
-14 The green_pepper is in the green_envelope.
-15 James moved the green_pepper to the green_cupboard.
-16 James exited the front_yard and stayed in the waiting_room.
-17 Emma made no movements and stayed in the front_yard for 10 minutes.
-18 Emma exited the front_yard and stayed in the waiting_room.
-19 Avery moved the green_pepper to the red_bottle.
-20 Avery exited the front_yard and stayed in the waiting_room.
-21 Emma publicly claimed that green_pepper is in the red_bottle.
-22 Avery privately told Emma that the green_pepper is actually in the green_bottle.
-Question: Where does James think the plum is?
-Choices: A. red_bucket, B. blue_container, C. red_container, D. green_bathtub, E. green_treasure_chest, F. green_envelope, G. blue_basket, H. green_bottle, I. green_cupboard, J. red_bottle, K. blue_treasure_chest, L. green_container, M. green_suitcase, N. red_treasure_chest, O. red_envelope
+1 Jack, Ella, Isla, Mason and Nathan entered the back_yard.
+2 The asparagus is in the green_box.
+3 Jack made no movements and stayed in the back_yard for 10 minutes.
+4 Nathan lost his phone.
+5 Jack exited the back_yard and stayed in the waiting_room.
+6 Ella made no movements and stayed in the back_yard for 10 minutes.
+7 Ella exited the back_yard and stayed in the waiting_room.
+8 Isla made no movements and stayed in the back_yard for 10 minutes.
+9 Isla exited the back_yard and stayed in the waiting_room.
+10 Mason made no movements and stayed in the back_yard for 10 minutes.
+11 Mason exited the back_yard and stayed in the waiting_room.
+12 Nathan moved the asparagus to the green_box.
+13 Nathan exited the back_yard and stayed in the waiting_room.
+14 Ella, Nathan and Isla entered the hallway.
+15 The potato is in the blue_bathtub.
+16 Ella made no movements and stayed in the hallway for 10 minutes.
+17 Ella exited the hallway and stayed in the waiting_room.
+18 Nathan moved the potato to the green_bucket.
+19 Nathan exited the hallway and stayed in the waiting_room.
+20 Isla made no movements and stayed in the hallway for 10 minutes.
+21 Isla exited the hallway and stayed in the waiting_room.
+22 Nathan privately told Isla that the potato is actually in the green_pantry.
+23 Isla privately told Jack that the potato is actually in the green_bucket.
+Question: Where does Mason think the asparagus is?
+Choices: A. green_box, B. red_treasure_chest, C. blue_treasure_chest, D. blue_suitcase, E. red_bucket, F. green_pantry, G. blue_bathtub, H. green_bottle, I. red_crate, J. green_bucket, K. green_basket, L. blue_bucket, M. blue_drawer, N. red_bathtub, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

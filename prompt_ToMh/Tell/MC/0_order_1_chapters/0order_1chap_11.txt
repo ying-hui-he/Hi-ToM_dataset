@@ -1,19 +1,23 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aiden, Mia, Hannah, Benjamin and Abigail entered the bedroom.
-2 The beans is in the blue_bottle.
-3 Aiden moved the beans to the red_envelope.
-4 Aiden exited the bedroom and stayed in the waiting_room.
-5 Mia moved the beans to the red_bathtub.
-6 Mia exited the bedroom and stayed in the waiting_room.
-7 Hannah moved the beans to the red_suitcase.
-8 Hannah exited the bedroom and stayed in the waiting_room.
-9 Benjamin made no movements and stayed in the bedroom for 10 minutes.
-10 Benjamin exited the bedroom and stayed in the waiting_room.
-11 Abigail moved the beans to the blue_bottle.
-12 Abigail exited the bedroom and stayed in the waiting_room.
-13 Hannah publicly claimed that beans is in the green_cupboard.
-14 Abigail privately told Hannah that the beans is actually in the blue_bottle.
-Question: Where is the beans really?
-Choices: A. red_crate, B. red_bucket, C. green_treasure_chest, D. blue_envelope, E. blue_bucket, F. blue_bottle, G. red_suitcase, H. red_bathtub, I. green_cupboard, J. red_envelope, K. blue_basket, L. red_container, M. red_treasure_chest, N. blue_box, O. red_drawer
+1 Mila, Jacob, Alexander, Jackson and Abigail entered the front_yard.
+2 The broccoli is in the red_cupboard.
+3 Mila made no movements and stayed in the front_yard for 10 minutes.
+4 Mila exited the front_yard and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the front_yard for 10 minutes.
+6 Jacob exited the front_yard and stayed in the waiting_room.
+7 Alexander moved the broccoli to the red_bathtub.
+8 Jackson lost his bottle.
+9 Alexander exited the front_yard and stayed in the waiting_room.
+10 Jacob lost his phone.
+11 Jackson made no movements and stayed in the front_yard for 10 minutes.
+12 Abigail dislikes the tomato.
+13 Jackson exited the front_yard and stayed in the waiting_room.
+14 Abigail moved the broccoli to the red_cupboard.
+15 Abigail exited the front_yard and stayed in the waiting_room.
+16 Jackson publicly claimed that broccoli is in the red_cupboard.
+17 Mila saw a mouse.
+18 Abigail privately told Mila that the broccoli is actually in the red_cupboard.
+Question: Where is the broccoli really?
+Choices: A. blue_bottle, B. red_cupboard, C. blue_bathtub, D. red_bathtub, E. green_pantry, F. blue_drawer, G. red_envelope, H. green_cupboard, I. green_bottle, J. red_basket, K. red_treasure_chest, L. green_bathtub, M. blue_envelope, N. blue_bucket, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

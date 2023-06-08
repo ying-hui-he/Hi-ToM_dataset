@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Jackson, Logan, Aria and Emily entered the cellar.
-2 The radish is in the red_envelope.
-3 Oliver moved the radish to the blue_box.
-4 Oliver exited the cellar and stayed in the waiting_room.
-5 Jackson moved the radish to the red_bottle.
-6 Jackson exited the cellar and stayed in the waiting_room.
-7 Logan moved the radish to the green_bottle.
-8 Logan exited the cellar and stayed in the waiting_room.
-9 Aria made no movements and stayed in the cellar for 10 minutes.
-10 Aria exited the cellar and stayed in the waiting_room.
-11 Emily moved the radish to the red_envelope.
-12 Emily exited the cellar and stayed in the waiting_room.
-13 Logan privately told Oliver that the radish is actually in the blue_bathtub.
-14 Jackson privately told Aria that the radish is actually in the red_envelope.
-15 Jackson, Emily and Aria entered the cellar.
-16 The radish is in the red_envelope.
-17 Jackson moved the radish to the green_bottle.
-18 Jackson exited the cellar and stayed in the waiting_room.
-19 Emily made no movements and stayed in the cellar for 10 minutes.
-20 Emily exited the cellar and stayed in the waiting_room.
-21 Aria made no movements and stayed in the cellar for 10 minutes.
-22 Aria exited the cellar and stayed in the waiting_room.
-23 Emily, Oliver, Logan and Jackson entered the hall.
-24 The grapefruit is in the red_bucket.
-25 Emily moved the grapefruit to the red_drawer.
-26 Emily exited the hall and stayed in the waiting_room.
-27 Oliver made no movements and stayed in the hall for 10 minutes.
-28 Oliver exited the hall and stayed in the waiting_room.
-29 Logan made no movements and stayed in the hall for 10 minutes.
-30 Logan exited the hall and stayed in the waiting_room.
-31 Jackson moved the grapefruit to the green_envelope.
-32 Jackson exited the hall and stayed in the waiting_room.
-33 Oliver privately told Logan that the grapefruit is actually in the red_bucket.
-34 Jackson privately told Aria that the grapefruit is actually in the green_envelope.
-Question: Where does Emily think the radish is?
-Choices: A. red_envelope, B. blue_bathtub, C. blue_box, D. red_bottle, E. green_bottle, F. red_drawer, G. red_bucket, H. green_envelope, I. blue_crate, J. red_container, K. blue_basket, L. red_suitcase, M. red_crate, N. blue_bottle, O. red_bathtub
+1 Gracie, Aria, Jackson, Lucas and Emma entered the hallway.
+2 The tangerine is in the green_treasure_chest.
+3 Gracie moved the tangerine to the green_envelope.
+4 Gracie exited the hallway and stayed in the waiting_room.
+5 Aria made no movements and stayed in the hallway for 10 minutes.
+6 Aria exited the hallway and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the hallway for 10 minutes.
+8 Aria dislikes the cucumber.
+9 Jackson exited the hallway and stayed in the waiting_room.
+10 Lucas made no movements and stayed in the hallway for 10 minutes.
+11 Lucas exited the hallway and stayed in the waiting_room.
+12 Emma made no movements and stayed in the hallway for 10 minutes.
+13 Emma exited the hallway and stayed in the waiting_room.
+14 Jackson privately told Gracie that the tangerine is actually in the green_box.
+15 Aria privately told Lucas that the tangerine is actually in the green_treasure_chest.
+16 Emma, Jackson and Lucas entered the office.
+17 The persimmon is in the green_pantry.
+18 Emma moved the persimmon to the blue_envelope.
+19 Emma exited the office and stayed in the waiting_room.
+20 Jackson made no movements and stayed in the office for 10 minutes.
+21 Jackson exited the office and stayed in the waiting_room.
+22 Lucas made no movements and stayed in the office for 10 minutes.
+23 Aria saw a dog.
+24 Lucas exited the office and stayed in the waiting_room.
+25 Jackson, Aria, Emma and Lucas entered the attic.
+26 The lettuce is in the green_bucket.
+27 Jackson moved the lettuce to the red_envelope.
+28 Lucas likes the green_box.
+29 Jackson exited the attic and stayed in the waiting_room.
+30 Aria moved the lettuce to the red_box.
+31 Aria exited the attic and stayed in the waiting_room.
+32 Emma made no movements and stayed in the attic for 10 minutes.
+33 Emma exited the attic and stayed in the waiting_room.
+34 Lucas moved the lettuce to the red_bottle.
+35 Lucas exited the attic and stayed in the waiting_room.
+36 Aria publicly claimed that lettuce is in the red_crate.
+37 Lucas privately told Emma that the lettuce is actually in the red_bottle.
+Question: Where does Emma think the tangerine is?
+Choices: A. green_treasure_chest, B. green_box, C. green_envelope, D. blue_crate, E. green_suitcase, F. green_pantry, G. red_bathtub, H. blue_bucket, I. blue_envelope, J. red_pantry, K. green_bucket, L. red_crate, M. red_box, N. red_bottle, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

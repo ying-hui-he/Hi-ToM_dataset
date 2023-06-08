@@ -1,41 +1,47 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mila, Jayden, Evelyn, Gracie and Emma entered the living_room.
-2 The persimmon is in the red_container.
-3 Mila made no movements and stayed in the living_room for 10 minutes.
-4 Mila exited the living_room and stayed in the waiting_room.
-5 Jayden made no movements and stayed in the living_room for 10 minutes.
-6 Jayden exited the living_room and stayed in the waiting_room.
-7 Evelyn moved the persimmon to the blue_container.
-8 Evelyn exited the living_room and stayed in the waiting_room.
-9 Gracie moved the persimmon to the blue_suitcase.
-10 Gracie exited the living_room and stayed in the waiting_room.
-11 Emma moved the persimmon to the red_container.
-12 Emma exited the living_room and stayed in the waiting_room.
-13 Emma, Evelyn and Jayden entered the living_room.
-14 The persimmon is in the red_container.
-15 Emma made no movements and stayed in the living_room for 10 minutes.
-16 Emma exited the living_room and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the living_room for 10 minutes.
-18 Evelyn exited the living_room and stayed in the waiting_room.
-19 Jayden moved the persimmon to the red_drawer.
-20 Jayden exited the living_room and stayed in the waiting_room.
-21 Gracie, Emma, Mila and Jayden entered the living_room.
-22 The persimmon is in the red_drawer.
-23 Gracie made no movements and stayed in the living_room for 10 minutes.
-24 Gracie exited the living_room and stayed in the waiting_room.
-25 Emma made no movements and stayed in the living_room for 10 minutes.
-26 Emma exited the living_room and stayed in the waiting_room.
-27 Mila moved the persimmon to the blue_container.
-28 Mila exited the living_room and stayed in the waiting_room.
-29 Jayden made no movements and stayed in the living_room for 10 minutes.
-30 Jayden exited the living_room and stayed in the waiting_room.
-31 Gracie and Emma entered the master_bedroom.
-32 The pumpkin is in the red_envelope.
-33 Gracie moved the pumpkin to the red_bathtub.
-34 Gracie exited the master_bedroom and stayed in the waiting_room.
-35 Emma moved the pumpkin to the blue_basket.
-36 Emma exited the master_bedroom and stayed in the waiting_room.
-Question: Where does Emma think Jayden thinks Evelyn thinks the persimmon is?
-Choices: A. green_bottle, B. green_envelope, C. blue_bathtub, D. red_bottle, E. blue_treasure_chest, F. blue_container, G. red_container, H. blue_suitcase, I. red_basket, J. red_drawer, K. red_bathtub, L. red_envelope, M. blue_bucket, N. green_bathtub, O. blue_basket
+1 Isabella, Mason, Nathan, Jayden and Emily entered the den.
+2 The turnip is in the blue_suitcase.
+3 Isabella made no movements and stayed in the den for 10 minutes.
+4 Isabella exited the den and stayed in the waiting_room.
+5 Mason made no movements and stayed in the den for 10 minutes.
+6 Mason exited the den and stayed in the waiting_room.
+7 Nathan moved the turnip to the red_envelope.
+8 Nathan exited the den and stayed in the waiting_room.
+9 Jayden made no movements and stayed in the den for 10 minutes.
+10 Jayden exited the den and stayed in the waiting_room.
+11 Emily moved the turnip to the blue_suitcase.
+12 Emily exited the den and stayed in the waiting_room.
+13 Mason, Emily and Nathan entered the garage.
+14 The potato is in the blue_envelope.
+15 Mason made no movements and stayed in the garage for 10 minutes.
+16 Jayden saw a cat.
+17 Mason exited the garage and stayed in the waiting_room.
+18 Jayden likes the red_bucket.
+19 Emily moved the potato to the green_cupboard.
+20 Emily exited the garage and stayed in the waiting_room.
+21 Isabella lost his phone.
+22 Nathan made no movements and stayed in the garage for 10 minutes.
+23 Nathan exited the garage and stayed in the waiting_room.
+24 Mason, Isabella, Emily and Nathan entered the cellar.
+25 The peach is in the red_bathtub.
+26 Mason moved the peach to the green_box.
+27 Mason exited the cellar and stayed in the waiting_room.
+28 Isabella moved the peach to the red_basket.
+29 Jayden likes the blue_envelope.
+30 Isabella exited the cellar and stayed in the waiting_room.
+31 Nathan dislikes the persimmon.
+32 Emily moved the peach to the red_pantry.
+33 Emily exited the cellar and stayed in the waiting_room.
+34 Nathan made no movements and stayed in the cellar for 10 minutes.
+35 Nathan exited the cellar and stayed in the waiting_room.
+36 Mason lost his watch.
+37 Emily and Mason entered the garage.
+38 The potato is in the green_cupboard.
+39 Emily moved the potato to the green_pantry.
+40 Emily exited the garage and stayed in the waiting_room.
+41 Mason made no movements and stayed in the garage for 10 minutes.
+42 Mason exited the garage and stayed in the waiting_room.
+Question: Where does Mason think Isabella thinks Nathan thinks the turnip is?
+Choices: A. blue_suitcase, B. red_bottle, C. blue_bottle, D. red_treasure_chest, E. red_envelope, F. red_bucket, G. blue_envelope, H. green_pantry, I. blue_treasure_chest, J. green_cupboard, K. red_basket, L. red_bathtub, M. red_pantry, N. blue_bucket, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

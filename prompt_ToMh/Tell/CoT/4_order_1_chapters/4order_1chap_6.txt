@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Mila, Aria, Aiden and Emma entered the cellar.
-2 The pumpkin is in the blue_suitcase.
-3 Hannah moved the pumpkin to the red_treasure_chest.
-4 Hannah exited the cellar and stayed in the waiting_room.
-5 Mila made no movements and stayed in the cellar for 10 minutes.
-6 Mila exited the cellar and stayed in the waiting_room.
-7 Aria moved the pumpkin to the red_basket.
-8 Aria exited the cellar and stayed in the waiting_room.
-9 Aiden moved the pumpkin to the red_bathtub.
-10 Aiden exited the cellar and stayed in the waiting_room.
-11 Emma moved the pumpkin to the blue_suitcase.
-12 Emma exited the cellar and stayed in the waiting_room.
-13 Aria privately told Hannah that the pumpkin is actually in the blue_suitcase.
-14 Mila privately told Aiden that the pumpkin is actually in the red_envelope.
-Question: Where does Hannah think Aiden thinks Mila thinks Emma thinks the pumpkin is?
-Choices: A. blue_treasure_chest, B. blue_envelope, C. blue_drawer, D. blue_box, E. red_drawer, F. red_bucket, G. red_suitcase, H. red_bottle, I. green_container, J. blue_bathtub, K. blue_suitcase, L. red_bathtub, M. red_treasure_chest, N. red_basket, O. red_envelope
+1 Jackson, Ethan, Liam, Mia and Jacob entered the office.
+2 The celery is in the red_treasure_chest.
+3 Jackson moved the celery to the red_box.
+4 Jackson exited the office and stayed in the waiting_room.
+5 Ethan moved the celery to the blue_envelope.
+6 Ethan exited the office and stayed in the waiting_room.
+7 Liam made no movements and stayed in the office for 10 minutes.
+8 Liam exited the office and stayed in the waiting_room.
+9 Mia moved the celery to the red_bathtub.
+10 Mia exited the office and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the office for 10 minutes.
+12 Jacob exited the office and stayed in the waiting_room.
+13 Jacob saw a cat.
+14 Mia publicly claimed that celery is in the red_box.
+15 Jacob privately told Jackson that the celery is actually in the red_bathtub.
+Question: Where does Ethan think Mia thinks Jacob thinks Liam thinks the celery is?
+Choices: A. red_envelope, B. green_suitcase, C. blue_treasure_chest, D. green_cupboard, E. green_bathtub, F. green_treasure_chest, G. green_envelope, H. green_bucket, I. red_pantry, J. red_crate, K. red_treasure_chest, L. red_box, M. red_bathtub, N. red_bottle, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

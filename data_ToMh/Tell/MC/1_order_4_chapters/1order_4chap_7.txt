@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Aria, Gracie, William and Owen entered the bathroom.
-2 The melon is in the red_bathtub.
-3 Carter made no movements and stayed in the bathroom for 10 minutes.
-4 Carter exited the bathroom and stayed in the waiting_room.
-5 Aria moved the melon to the red_crate.
-6 Aria exited the bathroom and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the bathroom for 10 minutes.
-8 Gracie exited the bathroom and stayed in the waiting_room.
-9 William made no movements and stayed in the bathroom for 10 minutes.
-10 William exited the bathroom and stayed in the waiting_room.
-11 Owen moved the melon to the red_bathtub.
-12 Owen exited the bathroom and stayed in the waiting_room.
-13 Aria, Carter and Owen entered the playroom.
-14 The corn is in the blue_drawer.
-15 Aria moved the corn to the red_container.
-16 Aria exited the playroom and stayed in the waiting_room.
-17 Carter moved the corn to the blue_crate.
-18 Carter exited the playroom and stayed in the waiting_room.
-19 Owen made no movements and stayed in the playroom for 10 minutes.
-20 Owen exited the playroom and stayed in the waiting_room.
-21 Carter privately told Owen that the corn is actually in the blue_drawer.
-22 Owen privately told William that the corn is actually in the blue_crate.
-23 Carter, William, Owen and Gracie entered the bathroom.
-24 The turnip is in the blue_suitcase.
-25 Carter made no movements and stayed in the bathroom for 10 minutes.
-26 Carter exited the bathroom and stayed in the waiting_room.
-27 William made no movements and stayed in the bathroom for 10 minutes.
-28 William exited the bathroom and stayed in the waiting_room.
-29 Owen made no movements and stayed in the bathroom for 10 minutes.
-30 Owen exited the bathroom and stayed in the waiting_room.
-31 Gracie made no movements and stayed in the bathroom for 10 minutes.
-32 Gracie exited the bathroom and stayed in the waiting_room.
-33 Aria and Carter entered the bathroom.
-34 The turnip is in the blue_suitcase.
-35 Aria made no movements and stayed in the bathroom for 10 minutes.
-36 Aria exited the bathroom and stayed in the waiting_room.
-37 Carter moved the turnip to the green_suitcase.
-38 Carter exited the bathroom and stayed in the waiting_room.
-39 Aria publicly claimed that turnip is in the green_suitcase.
-40 Carter privately told Aria that the turnip is actually in the red_bathtub.
-Question: Where does Carter think the melon is?
-Answer: red_bathtub
-Choices: A. blue_suitcase, B. red_bathtub, C. green_suitcase, D. blue_treasure_chest, E. red_crate, F. blue_drawer, G. blue_box, H. blue_crate, I. red_envelope, J. red_container, K. green_crate, L. red_suitcase, M. blue_container, N. blue_basket, O. blue_bucket
+1 Owen, Nathan, Chloe, Charlotte and Aiden entered the TV_room.
+2 The radish is in the blue_envelope.
+3 Owen moved the radish to the green_suitcase.
+4 Owen exited the TV_room and stayed in the waiting_room.
+5 Nathan moved the radish to the blue_bathtub.
+6 Nathan exited the TV_room and stayed in the waiting_room.
+7 Chloe made no movements and stayed in the TV_room for 10 minutes.
+8 Chloe exited the TV_room and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the TV_room for 10 minutes.
+10 Charlotte exited the TV_room and stayed in the waiting_room.
+11 Nathan dislikes the cabbage.
+12 Aiden made no movements and stayed in the TV_room for 10 minutes.
+13 Owen lost his bottle.
+14 Aiden exited the TV_room and stayed in the waiting_room.
+15 Aiden, Chloe and Owen entered the hall.
+16 The persimmon is in the green_box.
+17 Aiden made no movements and stayed in the hall for 10 minutes.
+18 Aiden exited the hall and stayed in the waiting_room.
+19 Chloe moved the persimmon to the green_basket.
+20 Chloe exited the hall and stayed in the waiting_room.
+21 Owen moved the persimmon to the blue_bottle.
+22 Owen exited the hall and stayed in the waiting_room.
+23 Owen publicly claimed that persimmon is in the red_treasure_chest.
+24 Aiden privately told Owen that the persimmon is actually in the blue_bottle.
+25 Aiden dislikes the persimmon.
+26 Charlotte, Aiden, Nathan and Owen entered the study.
+27 The turnip is in the blue_cupboard.
+28 Charlotte made no movements and stayed in the study for 10 minutes.
+29 Charlotte exited the study and stayed in the waiting_room.
+30 Aiden made no movements and stayed in the study for 10 minutes.
+31 Aiden exited the study and stayed in the waiting_room.
+32 Nathan moved the turnip to the red_envelope.
+33 Nathan exited the study and stayed in the waiting_room.
+34 Owen made no movements and stayed in the study for 10 minutes.
+35 Owen exited the study and stayed in the waiting_room.
+36 Charlotte and Owen entered the TV_room.
+37 The radish is in the blue_bathtub.
+38 Charlotte moved the radish to the green_suitcase.
+39 Charlotte exited the TV_room and stayed in the waiting_room.
+40 Owen moved the radish to the blue_suitcase.
+41 Owen exited the TV_room and stayed in the waiting_room.
+42 Charlotte privately told Aiden that the radish is actually in the green_suitcase.
+Question: Where does Charlotte think the radish is?
+Answer: green_suitcase
+Choices: A. green_box, B. green_basket, C. green_bottle, D. red_treasure_chest, E. blue_bottle, F. blue_drawer, G. blue_cupboard, H. blue_bucket, I. red_bathtub, J. red_envelope, K. blue_bathtub, L. blue_envelope, M. red_crate, N. blue_suitcase, O. green_suitcase

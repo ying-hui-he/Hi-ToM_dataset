@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Jayden, Olivia, Jack and Mila entered the patio.
-2 The beans is in the blue_treasure_chest.
-3 Oliver moved the beans to the red_suitcase.
-4 Oliver exited the patio and stayed in the waiting_room.
-5 Jayden moved the beans to the green_cupboard.
-6 Jayden exited the patio and stayed in the waiting_room.
-7 Olivia moved the beans to the blue_container.
-8 Olivia exited the patio and stayed in the waiting_room.
-9 Jack made no movements and stayed in the patio for 10 minutes.
-10 Jack exited the patio and stayed in the waiting_room.
-11 Mila made no movements and stayed in the patio for 10 minutes.
-12 Mila exited the patio and stayed in the waiting_room.
-Question: Where does Jayden think the beans is?
-Choices: A. blue_treasure_chest, B. green_cupboard, C. red_suitcase, D. blue_box, E. blue_container, F. red_treasure_chest, G. red_drawer, H. red_basket, I. green_bathtub, J. green_crate, K. green_bottle, L. blue_envelope, M. blue_bottle, N. green_envelope, O. blue_pantry
+1 Nathan, Jackson, Jayden, Mila and Chloe entered the staircase.
+2 The watermelon is in the green_basket.
+3 Nathan moved the watermelon to the red_bottle.
+4 Jayden dislikes the apple.
+5 Nathan exited the staircase and stayed in the waiting_room.
+6 Jackson made no movements and stayed in the staircase for 10 minutes.
+7 Jackson exited the staircase and stayed in the waiting_room.
+8 Jayden made no movements and stayed in the staircase for 10 minutes.
+9 Jayden exited the staircase and stayed in the waiting_room.
+10 Mila moved the watermelon to the green_bottle.
+11 Mila exited the staircase and stayed in the waiting_room.
+12 Chloe moved the watermelon to the green_basket.
+13 Chloe exited the staircase and stayed in the waiting_room.
+14 Jayden dislikes the watermelon.
+Question: Where does Nathan think the watermelon is?
+Choices: A. blue_bottle, B. red_envelope, C. blue_treasure_chest, D. blue_bucket, E. red_crate, F. red_bottle, G. green_basket, H. green_bottle, I. blue_drawer, J. red_container, K. blue_bathtub, L. red_pantry, M. red_bathtub, N. green_bathtub, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

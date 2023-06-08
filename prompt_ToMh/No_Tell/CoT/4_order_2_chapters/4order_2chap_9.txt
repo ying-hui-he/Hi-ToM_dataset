@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aiden, Benjamin, Noah, Charlotte and Jackson entered the study.
-2 The green_pepper is in the green_bottle.
-3 Aiden made no movements and stayed in the study for 10 minutes.
-4 Aiden exited the study and stayed in the waiting_room.
-5 Benjamin moved the green_pepper to the green_treasure_chest.
-6 Benjamin exited the study and stayed in the waiting_room.
-7 Noah moved the green_pepper to the green_suitcase.
-8 Noah exited the study and stayed in the waiting_room.
-9 Charlotte moved the green_pepper to the blue_crate.
-10 Charlotte exited the study and stayed in the waiting_room.
-11 Jackson moved the green_pepper to the green_bottle.
-12 Jackson exited the study and stayed in the waiting_room.
-13 Charlotte, Noah and Aiden entered the basement.
-14 The lemon is in the blue_suitcase.
-15 Charlotte made no movements and stayed in the basement for 10 minutes.
-16 Charlotte exited the basement and stayed in the waiting_room.
-17 Noah moved the lemon to the blue_treasure_chest.
-18 Noah exited the basement and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the basement for 10 minutes.
-20 Aiden exited the basement and stayed in the waiting_room.
-Question: Where does Aiden think Jackson thinks Benjamin thinks Charlotte thinks the green_pepper is?
-Choices: A. green_crate, B. red_treasure_chest, C. blue_pantry, D. blue_drawer, E. blue_bottle, F. blue_suitcase, G. red_suitcase, H. blue_treasure_chest, I. red_crate, J. blue_bathtub, K. green_treasure_chest, L. green_bottle, M. red_container, N. green_suitcase, O. blue_crate
+1 Jayden, Aiden, Mia, Sophia and Aria entered the bathroom.
+2 The persimmon is in the green_box.
+3 Jayden moved the persimmon to the green_basket.
+4 Jayden exited the bathroom and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the bathroom for 10 minutes.
+6 Sophia lost his phone.
+7 Aiden exited the bathroom and stayed in the waiting_room.
+8 Mia moved the persimmon to the green_bathtub.
+9 Mia exited the bathroom and stayed in the waiting_room.
+10 Sophia moved the persimmon to the green_bottle.
+11 Sophia exited the bathroom and stayed in the waiting_room.
+12 Aria made no movements and stayed in the bathroom for 10 minutes.
+13 Mia lost his phone.
+14 Aria exited the bathroom and stayed in the waiting_room.
+15 Aiden likes the green_treasure_chest.
+16 Sophia, Aiden and Jayden entered the basement.
+17 The pumpkin is in the red_bathtub.
+18 Sophia moved the pumpkin to the red_pantry.
+19 Sophia exited the basement and stayed in the waiting_room.
+20 Aiden moved the pumpkin to the red_bottle.
+21 Aiden exited the basement and stayed in the waiting_room.
+22 Jayden moved the pumpkin to the blue_cupboard.
+23 Jayden exited the basement and stayed in the waiting_room.
+Question: Where does Mia think Jayden thinks Aria thinks Aiden thinks the persimmon is?
+Choices: A. red_bathtub, B. red_cupboard, C. red_pantry, D. blue_cupboard, E. red_bottle, F. blue_envelope, G. green_envelope, H. green_treasure_chest, I. blue_treasure_chest, J. blue_drawer, K. green_box, L. green_basket, M. green_bathtub, N. green_bottle, O. red_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

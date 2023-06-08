@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, Jacob, Carter, Gracie and Mia entered the dining_room.
-2 The plum is in the blue_treasure_chest.
-3 Jayden made no movements and stayed in the dining_room for 10 minutes.
-4 Jayden exited the dining_room and stayed in the waiting_room.
-5 Jacob moved the plum to the red_basket.
-6 Jacob exited the dining_room and stayed in the waiting_room.
-7 Carter moved the plum to the green_cupboard.
-8 Carter exited the dining_room and stayed in the waiting_room.
-9 Gracie moved the plum to the red_bathtub.
-10 Gracie exited the dining_room and stayed in the waiting_room.
-11 Mia moved the plum to the blue_treasure_chest.
-12 Mia exited the dining_room and stayed in the waiting_room.
-Question: Where does Jayden think the plum is?
-Choices: A. blue_basket, B. blue_container, C. blue_pantry, D. blue_crate, E. blue_suitcase, F. blue_treasure_chest, G. red_bathtub, H. green_cupboard, I. green_suitcase, J. red_basket, K. green_container, L. green_bathtub, M. blue_box, N. blue_envelope, O. red_crate
+1 Gracie, Logan, Jayden, Aria and Amelia entered the closet.
+2 The potato is in the blue_bottle.
+3 Gracie moved the potato to the blue_drawer.
+4 Gracie exited the closet and stayed in the waiting_room.
+5 Logan moved the potato to the red_treasure_chest.
+6 Logan exited the closet and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the closet for 10 minutes.
+8 Jayden exited the closet and stayed in the waiting_room.
+9 Aria moved the potato to the red_basket.
+10 Aria exited the closet and stayed in the waiting_room.
+11 Amelia made no movements and stayed in the closet for 10 minutes.
+12 Amelia exited the closet and stayed in the waiting_room.
+Question: Where does Logan think the potato is?
+Choices: A. blue_bathtub, B. blue_crate, C. red_crate, D. red_bucket, E. green_bathtub, F. blue_suitcase, G. green_suitcase, H. green_treasure_chest, I. green_pantry, J. green_cupboard, K. blue_bottle, L. red_container, M. blue_drawer, N. red_treasure_chest, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

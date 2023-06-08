@@ -1,39 +1,39 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Emily, William, Hannah and Owen entered the basement.
-2 The asparagus is in the green_bottle.
-3 Emma moved the asparagus to the blue_container.
-4 Emma exited the basement and stayed in the waiting_room.
-5 Emily made no movements and stayed in the basement for 10 minutes.
-6 Emily exited the basement and stayed in the waiting_room.
-7 William moved the asparagus to the red_envelope.
-8 William exited the basement and stayed in the waiting_room.
-9 Hannah made no movements and stayed in the basement for 10 minutes.
-10 Hannah exited the basement and stayed in the waiting_room.
-11 Owen made no movements and stayed in the basement for 10 minutes.
-12 Owen exited the basement and stayed in the waiting_room.
-13 Hannah publicly claimed that asparagus is in the blue_container.
-14 Owen privately told Emma that the asparagus is actually in the red_envelope.
-15 William, Owen and Emma entered the basement.
-16 The asparagus is in the red_envelope.
-17 William made no movements and stayed in the basement for 10 minutes.
-18 William exited the basement and stayed in the waiting_room.
-19 Owen moved the asparagus to the red_bucket.
-20 Owen exited the basement and stayed in the waiting_room.
-21 Emma moved the asparagus to the green_bottle.
-22 Emma exited the basement and stayed in the waiting_room.
-23 Emma, Hannah, Emily and William entered the den.
-24 The radish is in the red_treasure_chest.
-25 Emma moved the radish to the blue_bucket.
-26 Emma exited the den and stayed in the waiting_room.
-27 Hannah moved the radish to the red_basket.
-28 Hannah exited the den and stayed in the waiting_room.
-29 Emily moved the radish to the green_suitcase.
-30 Emily exited the den and stayed in the waiting_room.
-31 William moved the radish to the blue_drawer.
-32 William exited the den and stayed in the waiting_room.
-33 Emma publicly claimed that radish is in the green_suitcase.
-34 William privately told Owen that the radish is actually in the blue_drawer.
-Question: Where is the asparagus really?
-Choices: A. red_treasure_chest, B. blue_drawer, C. green_suitcase, D. red_basket, E. blue_bucket, F. green_bottle, G. blue_container, H. red_envelope, I. red_bucket, J. red_bottle, K. blue_envelope, L. blue_bathtub, M. blue_box, N. green_container, O. red_bathtub
+1 Ethan, Nathan, Mila, Jacob and Jack entered the hall.
+2 The cucumber is in the red_pantry.
+3 Ethan moved the cucumber to the blue_crate.
+4 Ethan exited the hall and stayed in the waiting_room.
+5 Nathan moved the cucumber to the red_treasure_chest.
+6 Nathan exited the hall and stayed in the waiting_room.
+7 Mila moved the cucumber to the green_treasure_chest.
+8 Mila exited the hall and stayed in the waiting_room.
+9 Jacob moved the cucumber to the red_bucket.
+10 Jacob exited the hall and stayed in the waiting_room.
+11 Jack moved the cucumber to the red_pantry.
+12 Jack exited the hall and stayed in the waiting_room.
+13 Mila publicly claimed that cucumber is in the green_treasure_chest.
+14 Jack privately told Mila that the cucumber is actually in the red_bucket.
+15 Ethan, Jack and Nathan entered the study.
+16 The pineapple is in the green_cupboard.
+17 Ethan moved the pineapple to the blue_drawer.
+18 Ethan exited the study and stayed in the waiting_room.
+19 Jack moved the pineapple to the blue_cupboard.
+20 Jack exited the study and stayed in the waiting_room.
+21 Nathan made no movements and stayed in the study for 10 minutes.
+22 Nathan exited the study and stayed in the waiting_room.
+23 Jacob, Jack, Ethan and Nathan entered the hall.
+24 The cucumber is in the red_pantry.
+25 Jacob made no movements and stayed in the hall for 10 minutes.
+26 Jacob exited the hall and stayed in the waiting_room.
+27 Jack made no movements and stayed in the hall for 10 minutes.
+28 Jack exited the hall and stayed in the waiting_room.
+29 Ethan moved the cucumber to the red_bucket.
+30 Ethan exited the hall and stayed in the waiting_room.
+31 Nathan moved the cucumber to the red_treasure_chest.
+32 Nathan exited the hall and stayed in the waiting_room.
+33 Jacob publicly claimed that cucumber is in the red_bucket.
+34 Nathan privately told Mila that the cucumber is actually in the red_treasure_chest.
+Question: Where is the cucumber really?
+Choices: A. red_pantry, B. red_treasure_chest, C. red_bucket, D. blue_crate, E. green_treasure_chest, F. red_box, G. green_cupboard, H. blue_drawer, I. red_bathtub, J. blue_cupboard, K. green_pantry, L. blue_bucket, M. red_cupboard, N. green_box, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Avery, Aria, Benjamin, Mila and Jackson entered the playroom.
-2 The grapefruit is in the blue_container.
-3 Avery moved the grapefruit to the blue_box.
-4 Avery exited the playroom and stayed in the waiting_room.
-5 Aria moved the grapefruit to the red_treasure_chest.
-6 Aria exited the playroom and stayed in the waiting_room.
-7 Benjamin moved the grapefruit to the blue_treasure_chest.
-8 Benjamin exited the playroom and stayed in the waiting_room.
-9 Mila moved the grapefruit to the blue_pantry.
-10 Mila exited the playroom and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the playroom for 10 minutes.
-12 Jackson exited the playroom and stayed in the waiting_room.
-13 Mila, Aria and Avery entered the living_room.
-14 The banana is in the blue_suitcase.
-15 Mila moved the banana to the green_bottle.
-16 Mila exited the living_room and stayed in the waiting_room.
-17 Aria made no movements and stayed in the living_room for 10 minutes.
-18 Aria exited the living_room and stayed in the waiting_room.
-19 Avery made no movements and stayed in the living_room for 10 minutes.
-20 Avery exited the living_room and stayed in the waiting_room.
-21 Avery, Mila, Jackson and Benjamin entered the hallway.
-22 The corn is in the blue_bottle.
-23 Avery made no movements and stayed in the hallway for 10 minutes.
-24 Avery exited the hallway and stayed in the waiting_room.
-25 Mila moved the corn to the green_bathtub.
-26 Mila exited the hallway and stayed in the waiting_room.
-27 Jackson made no movements and stayed in the hallway for 10 minutes.
-28 Jackson exited the hallway and stayed in the waiting_room.
-29 Benjamin made no movements and stayed in the hallway for 10 minutes.
-30 Benjamin exited the hallway and stayed in the waiting_room.
-Question: Where does Avery think the grapefruit is?
-Choices: A. blue_suitcase, B. green_bottle, C. green_envelope, D. green_cupboard, E. blue_drawer, F. blue_treasure_chest, G. blue_container, H. blue_box, I. blue_pantry, J. red_treasure_chest, K. green_suitcase, L. blue_bottle, M. red_suitcase, N. green_bathtub, O. red_bottle
+1 Liam, Mila, Nathan, Jacob and Emma entered the kitchen.
+2 The cucumber is in the green_bottle.
+3 Liam moved the cucumber to the green_bathtub.
+4 Jacob saw a mouse.
+5 Liam exited the kitchen and stayed in the waiting_room.
+6 Liam likes the red_bucket.
+7 Mila moved the cucumber to the red_bathtub.
+8 Mila exited the kitchen and stayed in the waiting_room.
+9 Nathan moved the cucumber to the green_suitcase.
+10 Nathan exited the kitchen and stayed in the waiting_room.
+11 Jacob moved the cucumber to the red_basket.
+12 Jacob exited the kitchen and stayed in the waiting_room.
+13 Emma made no movements and stayed in the kitchen for 10 minutes.
+14 Emma exited the kitchen and stayed in the waiting_room.
+15 Emma, Liam and Nathan entered the master_bedroom.
+16 The banana is in the blue_drawer.
+17 Emma moved the banana to the blue_bucket.
+18 Emma exited the master_bedroom and stayed in the waiting_room.
+19 Liam moved the banana to the blue_envelope.
+20 Liam exited the master_bedroom and stayed in the waiting_room.
+21 Emma dislikes the tangerine.
+22 Nathan made no movements and stayed in the master_bedroom for 10 minutes.
+23 Nathan exited the master_bedroom and stayed in the waiting_room.
+24 Jacob, Emma, Mila and Liam entered the master_bedroom.
+25 The banana is in the blue_envelope.
+26 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
+27 Jacob exited the master_bedroom and stayed in the waiting_room.
+28 Emma moved the banana to the red_box.
+29 Emma exited the master_bedroom and stayed in the waiting_room.
+30 Mila moved the banana to the blue_drawer.
+31 Mila exited the master_bedroom and stayed in the waiting_room.
+32 Liam moved the banana to the blue_bucket.
+33 Liam exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Mila think the cucumber is?
+Choices: A. green_bottle, B. red_bathtub, C. green_suitcase, D. red_basket, E. green_bathtub, F. blue_envelope, G. blue_drawer, H. red_box, I. blue_bucket, J. red_bottle, K. blue_treasure_chest, L. green_cupboard, M. red_bucket, N. blue_crate, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Jayden, Oliver, Aria and Emily entered the bathroom.
-2 The melon is in the blue_bucket.
-3 James made no movements and stayed in the bathroom for 10 minutes.
-4 James exited the bathroom and stayed in the waiting_room.
-5 Jayden made no movements and stayed in the bathroom for 10 minutes.
-6 Jayden exited the bathroom and stayed in the waiting_room.
-7 Oliver moved the melon to the green_container.
-8 Oliver exited the bathroom and stayed in the waiting_room.
-9 Aria moved the melon to the blue_drawer.
-10 Aria exited the bathroom and stayed in the waiting_room.
-11 Emily moved the melon to the blue_bucket.
-12 Emily exited the bathroom and stayed in the waiting_room.
-13 Oliver, Emily and Jayden entered the basement.
-14 The lettuce is in the green_suitcase.
-15 Oliver made no movements and stayed in the basement for 10 minutes.
-16 Oliver exited the basement and stayed in the waiting_room.
-17 Emily moved the lettuce to the green_bottle.
-18 Emily exited the basement and stayed in the waiting_room.
-19 Jayden made no movements and stayed in the basement for 10 minutes.
-20 Jayden exited the basement and stayed in the waiting_room.
-21 James, Aria, Jayden and Oliver entered the basement.
-22 The lettuce is in the green_bottle.
-23 James made no movements and stayed in the basement for 10 minutes.
-24 James exited the basement and stayed in the waiting_room.
-25 Aria moved the lettuce to the red_crate.
-26 Aria exited the basement and stayed in the waiting_room.
-27 Jayden made no movements and stayed in the basement for 10 minutes.
-28 Jayden exited the basement and stayed in the waiting_room.
-29 Oliver moved the lettuce to the red_container.
-30 Oliver exited the basement and stayed in the waiting_room.
-Question: Where is the melon really?
-Choices: A. green_suitcase, B. green_bottle, C. red_crate, D. red_container, E. blue_treasure_chest, F. green_treasure_chest, G. blue_bucket, H. red_bottle, I. blue_drawer, J. green_container, K. red_envelope, L. blue_bathtub, M. green_bathtub, N. blue_basket, O. green_crate
+1 Abigail saw a dog.
+2 Emily, Jack, Emma, Abigail and Chloe entered the closet.
+3 The eggplant is in the blue_suitcase.
+4 Emily made no movements and stayed in the closet for 10 minutes.
+5 Emily exited the closet and stayed in the waiting_room.
+6 Jack made no movements and stayed in the closet for 10 minutes.
+7 Jack exited the closet and stayed in the waiting_room.
+8 Emma made no movements and stayed in the closet for 10 minutes.
+9 Abigail likes the blue_suitcase.
+10 Emma exited the closet and stayed in the waiting_room.
+11 Abigail made no movements and stayed in the closet for 10 minutes.
+12 Abigail exited the closet and stayed in the waiting_room.
+13 Chloe made no movements and stayed in the closet for 10 minutes.
+14 Chloe exited the closet and stayed in the waiting_room.
+15 Jack, Chloe and Abigail entered the closet.
+16 The eggplant is in the blue_suitcase.
+17 Jack made no movements and stayed in the closet for 10 minutes.
+18 Jack exited the closet and stayed in the waiting_room.
+19 Chloe moved the eggplant to the green_treasure_chest.
+20 Chloe dislikes the eggplant.
+21 Chloe exited the closet and stayed in the waiting_room.
+22 Abigail made no movements and stayed in the closet for 10 minutes.
+23 Emily saw a monkey.
+24 Abigail exited the closet and stayed in the waiting_room.
+25 Emily, Jack, Chloe and Abigail entered the bedroom.
+26 The grapes is in the blue_bucket.
+27 Emily made no movements and stayed in the bedroom for 10 minutes.
+28 Emily exited the bedroom and stayed in the waiting_room.
+29 Jack moved the grapes to the red_crate.
+30 Jack exited the bedroom and stayed in the waiting_room.
+31 Chloe made no movements and stayed in the bedroom for 10 minutes.
+32 Chloe exited the bedroom and stayed in the waiting_room.
+33 Abigail moved the grapes to the blue_bathtub.
+34 Abigail exited the bedroom and stayed in the waiting_room.
+Question: Where is the eggplant really?
+Choices: A. red_bottle, B. blue_suitcase, C. green_treasure_chest, D. green_envelope, E. red_bucket, F. green_suitcase, G. green_cupboard, H. red_basket, I. blue_drawer, J. red_box, K. red_crate, L. blue_bucket, M. blue_bathtub, N. blue_crate, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

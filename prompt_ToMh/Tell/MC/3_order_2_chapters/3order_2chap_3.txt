@@ -1,27 +1,32 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, Logan, Jayden, Mia and Jack entered the bathroom.
-2 The persimmon is in the green_bathtub.
-3 Ella made no movements and stayed in the bathroom for 10 minutes.
-4 Ella exited the bathroom and stayed in the waiting_room.
-5 Logan moved the persimmon to the red_bucket.
-6 Logan exited the bathroom and stayed in the waiting_room.
-7 Jayden moved the persimmon to the blue_bathtub.
-8 Jayden exited the bathroom and stayed in the waiting_room.
-9 Mia made no movements and stayed in the bathroom for 10 minutes.
-10 Mia exited the bathroom and stayed in the waiting_room.
-11 Jack moved the persimmon to the green_bathtub.
-12 Jack exited the bathroom and stayed in the waiting_room.
-13 Logan, Ella and Jack entered the hallway.
-14 The asparagus is in the blue_pantry.
-15 Logan made no movements and stayed in the hallway for 10 minutes.
-16 Logan exited the hallway and stayed in the waiting_room.
-17 Ella moved the asparagus to the green_container.
-18 Ella exited the hallway and stayed in the waiting_room.
-19 Jack made no movements and stayed in the hallway for 10 minutes.
-20 Jack exited the hallway and stayed in the waiting_room.
-21 Logan publicly claimed that asparagus is in the blue_basket.
-22 Jack privately told Jayden that the asparagus is actually in the green_container.
-Question: Where does Jack think Ella thinks Jayden thinks the persimmon is?
-Choices: A. red_treasure_chest, B. green_envelope, C. blue_crate, D. red_container, E. red_basket, F. blue_basket, G. blue_pantry, H. green_container, I. blue_drawer, J. blue_treasure_chest, K. green_bathtub, L. blue_bottle, M. red_bottle, N. red_bucket, O. blue_bathtub
+1 Liam, Logan, Ella, Aiden and Emily entered the cellar.
+2 The banana is in the red_treasure_chest.
+3 Liam moved the banana to the red_basket.
+4 Liam dislikes the cabbage.
+5 Liam exited the cellar and stayed in the waiting_room.
+6 Aiden likes the red_pantry.
+7 Logan made no movements and stayed in the cellar for 10 minutes.
+8 Liam dislikes the lemon.
+9 Logan exited the cellar and stayed in the waiting_room.
+10 Ella made no movements and stayed in the cellar for 10 minutes.
+11 Ella exited the cellar and stayed in the waiting_room.
+12 Aiden moved the banana to the blue_cupboard.
+13 Aiden dislikes the lemon.
+14 Aiden exited the cellar and stayed in the waiting_room.
+15 Emily made no movements and stayed in the cellar for 10 minutes.
+16 Emily exited the cellar and stayed in the waiting_room.
+17 Liam, Logan and Ella entered the cellar.
+18 The cabbage is in the blue_cupboard.
+19 Liam moved the cabbage to the red_basket.
+20 Liam exited the cellar and stayed in the waiting_room.
+21 Logan made no movements and stayed in the cellar for 10 minutes.
+22 Aiden dislikes the lemon.
+23 Logan exited the cellar and stayed in the waiting_room.
+24 Ella moved the cabbage to the green_bucket.
+25 Ella exited the cellar and stayed in the waiting_room.
+26 Logan publicly claimed that cabbage is in the blue_cupboard.
+27 Ella privately told Logan that the cabbage is actually in the red_treasure_chest.
+Question: Where does Logan think Aiden thinks Liam thinks the banana is?
+Choices: A. blue_bottle, B. red_pantry, C. green_pantry, D. red_bottle, E. green_bottle, F. red_bucket, G. green_box, H. green_bathtub, I. blue_treasure_chest, J. red_box, K. red_treasure_chest, L. blue_cupboard, M. red_basket, N. red_container, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

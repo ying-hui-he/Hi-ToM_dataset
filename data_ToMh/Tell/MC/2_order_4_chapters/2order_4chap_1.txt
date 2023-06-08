@@ -1,45 +1,51 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, William, Jacob, Jackson and Noah entered the playroom.
-2 The tangerine is in the blue_envelope.
-3 Abigail made no movements and stayed in the playroom for 10 minutes.
-4 Abigail exited the playroom and stayed in the waiting_room.
-5 William moved the tangerine to the green_suitcase.
-6 William exited the playroom and stayed in the waiting_room.
-7 Jacob made no movements and stayed in the playroom for 10 minutes.
-8 Jacob exited the playroom and stayed in the waiting_room.
-9 Jackson moved the tangerine to the blue_basket.
-10 Jackson exited the playroom and stayed in the waiting_room.
-11 Noah moved the tangerine to the blue_envelope.
-12 Noah exited the playroom and stayed in the waiting_room.
-13 Jacob, Abigail and Jackson entered the hallway.
-14 The orange is in the red_suitcase.
-15 Jacob made no movements and stayed in the hallway for 10 minutes.
-16 Jacob exited the hallway and stayed in the waiting_room.
-17 Abigail moved the orange to the green_bathtub.
-18 Abigail exited the hallway and stayed in the waiting_room.
-19 Jackson moved the orange to the red_treasure_chest.
-20 Jackson exited the hallway and stayed in the waiting_room.
-21 Abigail privately told Jackson that the orange is actually in the green_bathtub.
-22 Jackson privately told William that the orange is actually in the red_treasure_chest.
-23 Noah, William, Abigail and Jacob entered the playroom.
-24 The beans is in the blue_basket.
-25 Noah moved the beans to the green_crate.
-26 Noah exited the playroom and stayed in the waiting_room.
-27 William made no movements and stayed in the playroom for 10 minutes.
-28 William exited the playroom and stayed in the waiting_room.
-29 Abigail moved the beans to the green_suitcase.
-30 Abigail exited the playroom and stayed in the waiting_room.
-31 Jacob made no movements and stayed in the playroom for 10 minutes.
-32 Jacob exited the playroom and stayed in the waiting_room.
-33 Jacob and Abigail entered the hallway.
-34 The orange is in the red_treasure_chest.
-35 Jacob moved the orange to the blue_bottle.
-36 Jacob exited the hallway and stayed in the waiting_room.
-37 Abigail moved the orange to the red_basket.
-38 Abigail exited the hallway and stayed in the waiting_room.
-39 Abigail publicly claimed that orange is in the green_bathtub.
-40 Jacob privately told Abigail that the orange is actually in the red_basket.
-Question: Where does Jackson think Abigail thinks the tangerine is?
-Answer: None
-Choices: A. red_suitcase, B. green_bathtub, C. blue_bottle, D. red_basket, E. red_treasure_chest, F. blue_treasure_chest, G. green_container, H. red_bottle, I. blue_pantry, J. blue_container, K. blue_envelope, L. blue_basket, M. blue_bathtub, N. green_crate, O. green_suitcase
+1 Isla, Jacob, Mila, Ethan and Carter entered the attic.
+2 The onion is in the blue_drawer.
+3 Isla moved the onion to the green_suitcase.
+4 Isla exited the attic and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the attic for 10 minutes.
+6 Jacob exited the attic and stayed in the waiting_room.
+7 Mila moved the onion to the green_bottle.
+8 Mila exited the attic and stayed in the waiting_room.
+9 Ethan moved the onion to the green_bucket.
+10 Ethan exited the attic and stayed in the waiting_room.
+11 Carter moved the onion to the blue_drawer.
+12 Carter exited the attic and stayed in the waiting_room.
+13 Mila likes the green_basket.
+14 Jacob, Ethan and Carter entered the workshop.
+15 The corn is in the red_pantry.
+16 Jacob moved the corn to the red_basket.
+17 Jacob exited the workshop and stayed in the waiting_room.
+18 Ethan moved the corn to the blue_bucket.
+19 Ethan exited the workshop and stayed in the waiting_room.
+20 Isla saw a dog.
+21 Carter moved the corn to the blue_suitcase.
+22 Carter exited the workshop and stayed in the waiting_room.
+23 Carter publicly claimed that corn is in the red_basket.
+24 Carter dislikes the onion.
+25 Jacob privately told Carter that the corn is actually in the blue_suitcase.
+26 Ethan, Isla, Carter and Jacob entered the workshop.
+27 The lemon is in the red_bathtub.
+28 Ethan moved the lemon to the red_pantry.
+29 Ethan exited the workshop and stayed in the waiting_room.
+30 Isla made no movements and stayed in the workshop for 10 minutes.
+31 Isla exited the workshop and stayed in the waiting_room.
+32 Carter moved the lemon to the blue_suitcase.
+33 Carter dislikes the apple.
+34 Carter exited the workshop and stayed in the waiting_room.
+35 Jacob moved the lemon to the red_basket.
+36 Jacob exited the workshop and stayed in the waiting_room.
+37 Mila dislikes the corn.
+38 Mila and Ethan entered the attic.
+39 The onion is in the blue_drawer.
+40 Mila made no movements and stayed in the attic for 10 minutes.
+41 Mila exited the attic and stayed in the waiting_room.
+42 Ethan moved the onion to the red_treasure_chest.
+43 Ethan exited the attic and stayed in the waiting_room.
+44 Ethan publicly claimed that onion is in the green_bucket.
+45 Mila privately told Ethan that the onion is actually in the green_bottle.
+Question: Where does Isla think Jacob thinks the onion is?
+Answer: green_bucket
+47 Carter likes the green_basket.
+Choices: A. green_bathtub, B. red_crate, C. green_basket, D. blue_treasure_chest, E. green_treasure_chest, F. red_pantry, G. red_bathtub, H. blue_suitcase, I. red_basket, J. blue_bucket, K. blue_drawer, L. green_suitcase, M. green_bottle, N. green_bucket, O. red_treasure_chest

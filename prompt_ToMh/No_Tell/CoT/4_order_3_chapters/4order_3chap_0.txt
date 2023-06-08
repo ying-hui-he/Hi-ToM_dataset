@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Ethan, Aiden, Emma and Noah entered the attic.
-2 The onion is in the blue_box.
-3 Jack made no movements and stayed in the attic for 10 minutes.
-4 Jack exited the attic and stayed in the waiting_room.
-5 Ethan moved the onion to the blue_bathtub.
-6 Ethan exited the attic and stayed in the waiting_room.
-7 Aiden moved the onion to the red_container.
-8 Aiden exited the attic and stayed in the waiting_room.
-9 Emma moved the onion to the green_bathtub.
-10 Emma exited the attic and stayed in the waiting_room.
-11 Noah made no movements and stayed in the attic for 10 minutes.
-12 Noah exited the attic and stayed in the waiting_room.
-13 Aiden, Emma and Noah entered the pantry.
-14 The grapefruit is in the red_treasure_chest.
-15 Aiden moved the grapefruit to the blue_basket.
-16 Aiden exited the pantry and stayed in the waiting_room.
-17 Emma moved the grapefruit to the blue_container.
-18 Emma exited the pantry and stayed in the waiting_room.
-19 Noah made no movements and stayed in the pantry for 10 minutes.
-20 Noah exited the pantry and stayed in the waiting_room.
-21 Aiden, Noah, Emma and Ethan entered the pantry.
-22 The grapefruit is in the blue_container.
-23 Aiden made no movements and stayed in the pantry for 10 minutes.
-24 Aiden exited the pantry and stayed in the waiting_room.
-25 Noah moved the grapefruit to the green_suitcase.
-26 Noah exited the pantry and stayed in the waiting_room.
-27 Emma moved the grapefruit to the blue_basket.
-28 Emma exited the pantry and stayed in the waiting_room.
-29 Ethan made no movements and stayed in the pantry for 10 minutes.
-30 Ethan exited the pantry and stayed in the waiting_room.
-Question: Where does Emma think Aiden thinks Ethan thinks Jack thinks the onion is?
-Choices: A. blue_box, B. red_container, C. red_bottle, D. green_bathtub, E. blue_bathtub, F. red_treasure_chest, G. red_drawer, H. blue_basket, I. green_suitcase, J. blue_container, K. green_crate, L. red_suitcase, M. red_crate, N. green_container, O. green_treasure_chest
+1 Amelia, Nathan, Charlotte, Logan and Isabella entered the study.
+2 The potato is in the green_bathtub.
+3 Amelia made no movements and stayed in the study for 10 minutes.
+4 Amelia exited the study and stayed in the waiting_room.
+5 Nathan made no movements and stayed in the study for 10 minutes.
+6 Nathan exited the study and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the study for 10 minutes.
+8 Charlotte exited the study and stayed in the waiting_room.
+9 Logan moved the potato to the red_crate.
+10 Logan exited the study and stayed in the waiting_room.
+11 Amelia lost his phone.
+12 Isabella moved the potato to the green_bathtub.
+13 Isabella exited the study and stayed in the waiting_room.
+14 Nathan, Isabella and Logan entered the study.
+15 The potato is in the green_bathtub.
+16 Nathan made no movements and stayed in the study for 10 minutes.
+17 Nathan exited the study and stayed in the waiting_room.
+18 Isabella made no movements and stayed in the study for 10 minutes.
+19 Isabella exited the study and stayed in the waiting_room.
+20 Logan moved the potato to the blue_suitcase.
+21 Logan exited the study and stayed in the waiting_room.
+22 Logan saw a cat.
+23 Amelia, Logan, Nathan and Isabella entered the study.
+24 The green_pepper is in the green_pantry.
+25 Amelia made no movements and stayed in the study for 10 minutes.
+26 Amelia exited the study and stayed in the waiting_room.
+27 Logan made no movements and stayed in the study for 10 minutes.
+28 Logan exited the study and stayed in the waiting_room.
+29 Nathan made no movements and stayed in the study for 10 minutes.
+30 Charlotte lost his bottle.
+31 Nathan exited the study and stayed in the waiting_room.
+32 Isabella moved the green_pepper to the red_crate.
+33 Isabella exited the study and stayed in the waiting_room.
+Question: Where does Charlotte think Isabella thinks Nathan thinks Logan thinks the potato is?
+Choices: A. green_pantry, B. green_bathtub, C. red_crate, D. green_suitcase, E. blue_suitcase, F. blue_bottle, G. blue_treasure_chest, H. green_bottle, I. green_basket, J. red_treasure_chest, K. blue_cupboard, L. red_basket, M. blue_bucket, N. green_envelope, O. green_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

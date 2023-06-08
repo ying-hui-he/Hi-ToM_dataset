@@ -1,25 +1,25 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Ella, Oliver, Jacob and Benjamin entered the back_yard.
-2 The spinach is in the blue_suitcase.
-3 Carter made no movements and stayed in the back_yard for 10 minutes.
-4 Carter exited the back_yard and stayed in the waiting_room.
-5 Ella moved the spinach to the red_basket.
-6 Ella exited the back_yard and stayed in the waiting_room.
-7 Oliver made no movements and stayed in the back_yard for 10 minutes.
-8 Oliver exited the back_yard and stayed in the waiting_room.
-9 Jacob made no movements and stayed in the back_yard for 10 minutes.
-10 Jacob exited the back_yard and stayed in the waiting_room.
-11 Benjamin made no movements and stayed in the back_yard for 10 minutes.
-12 Benjamin exited the back_yard and stayed in the waiting_room.
-13 Benjamin, Ella and Oliver entered the garden.
-14 The lettuce is in the red_treasure_chest.
-15 Benjamin made no movements and stayed in the garden for 10 minutes.
-16 Benjamin exited the garden and stayed in the waiting_room.
-17 Ella moved the lettuce to the red_bucket.
-18 Ella exited the garden and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the garden for 10 minutes.
-20 Oliver exited the garden and stayed in the waiting_room.
-Question: Where does Benjamin think Carter thinks the spinach is?
-Choices: A. green_suitcase, B. red_container, C. red_bottle, D. red_bathtub, E. blue_crate, F. red_envelope, G. red_treasure_chest, H. green_bathtub, I. red_bucket, J. green_container, K. blue_suitcase, L. red_crate, M. red_basket, N. blue_treasure_chest, O. blue_drawer
+1 Isla, Nathan, Emma, Liam and Aria entered the basement.
+2 The lettuce is in the green_suitcase.
+3 Isla moved the lettuce to the red_box.
+4 Isla exited the basement and stayed in the waiting_room.
+5 Nathan made no movements and stayed in the basement for 10 minutes.
+6 Nathan exited the basement and stayed in the waiting_room.
+7 Emma made no movements and stayed in the basement for 10 minutes.
+8 Emma exited the basement and stayed in the waiting_room.
+9 Liam moved the lettuce to the green_bottle.
+10 Liam exited the basement and stayed in the waiting_room.
+11 Aria made no movements and stayed in the basement for 10 minutes.
+12 Aria exited the basement and stayed in the waiting_room.
+13 Nathan, Isla and Emma entered the basement.
+14 The grapefruit is in the green_bathtub.
+15 Nathan moved the grapefruit to the green_bottle.
+16 Nathan exited the basement and stayed in the waiting_room.
+17 Isla made no movements and stayed in the basement for 10 minutes.
+18 Isla exited the basement and stayed in the waiting_room.
+19 Emma made no movements and stayed in the basement for 10 minutes.
+20 Emma exited the basement and stayed in the waiting_room.
+Question: Where does Emma think Liam thinks the lettuce is?
+Choices: A. red_cupboard, B. green_bucket, C. blue_treasure_chest, D. red_bottle, E. red_treasure_chest, F. red_envelope, G. blue_drawer, H. red_pantry, I. blue_bottle, J. blue_bucket, K. green_bathtub, L. green_suitcase, M. red_box, N. green_bottle, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

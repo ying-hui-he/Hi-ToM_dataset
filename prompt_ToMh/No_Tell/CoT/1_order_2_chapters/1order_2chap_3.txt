@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Jayden, Aiden, Jackson and Ethan entered the hallway.
-2 The radish is in the red_crate.
-3 Hannah made no movements and stayed in the hallway for 10 minutes.
-4 Hannah exited the hallway and stayed in the waiting_room.
-5 Jayden moved the radish to the blue_envelope.
-6 Jayden exited the hallway and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the hallway for 10 minutes.
-8 Aiden exited the hallway and stayed in the waiting_room.
-9 Jackson made no movements and stayed in the hallway for 10 minutes.
-10 Jackson exited the hallway and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the hallway for 10 minutes.
-12 Ethan exited the hallway and stayed in the waiting_room.
-13 Aiden, Ethan and Hannah entered the laundry.
-14 The melon is in the red_envelope.
-15 Aiden made no movements and stayed in the laundry for 10 minutes.
-16 Aiden exited the laundry and stayed in the waiting_room.
-17 Ethan made no movements and stayed in the laundry for 10 minutes.
-18 Ethan exited the laundry and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the laundry for 10 minutes.
-20 Hannah exited the laundry and stayed in the waiting_room.
-Question: Where does Aiden think the radish is?
-Choices: A. blue_box, B. blue_pantry, C. green_bottle, D. red_suitcase, E. blue_treasure_chest, F. red_crate, G. red_bottle, H. blue_envelope, I. blue_bottle, J. blue_bathtub, K. green_treasure_chest, L. red_envelope, M. blue_crate, N. red_bucket, O. green_envelope
+1 Chloe, Gracie, Mason, Liam and Aria entered the front_yard.
+2 The turnip is in the green_bottle.
+3 Chloe moved the turnip to the red_box.
+4 Chloe exited the front_yard and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the front_yard for 10 minutes.
+6 Liam saw a cat.
+7 Gracie exited the front_yard and stayed in the waiting_room.
+8 Mason made no movements and stayed in the front_yard for 10 minutes.
+9 Mason exited the front_yard and stayed in the waiting_room.
+10 Liam made no movements and stayed in the front_yard for 10 minutes.
+11 Liam exited the front_yard and stayed in the waiting_room.
+12 Aria moved the turnip to the green_bottle.
+13 Aria exited the front_yard and stayed in the waiting_room.
+14 Chloe, Liam and Mason entered the bedroom.
+15 The lemon is in the green_bucket.
+16 Chloe made no movements and stayed in the bedroom for 10 minutes.
+17 Chloe exited the bedroom and stayed in the waiting_room.
+18 Liam moved the lemon to the red_bottle.
+19 Liam exited the bedroom and stayed in the waiting_room.
+20 Mason moved the lemon to the red_basket.
+21 Mason exited the bedroom and stayed in the waiting_room.
+Question: Where does Gracie think the turnip is?
+Choices: A. red_bathtub, B. blue_bucket, C. red_envelope, D. green_basket, E. blue_crate, F. green_bottle, G. red_box, H. green_suitcase, I. red_bucket, J. blue_bottle, K. red_bottle, L. green_bucket, M. red_basket, N. green_envelope, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

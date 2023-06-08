@@ -1,39 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Jacob, Carter, Amelia and Jackson entered the hall.
-2 The beans is in the blue_envelope.
-3 Mia moved the beans to the red_bucket.
-4 Mia exited the hall and stayed in the waiting_room.
-5 Jacob moved the beans to the green_bathtub.
-6 Jacob exited the hall and stayed in the waiting_room.
-7 Carter made no movements and stayed in the hall for 10 minutes.
-8 Carter exited the hall and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the hall for 10 minutes.
-10 Amelia exited the hall and stayed in the waiting_room.
-11 Jackson moved the beans to the blue_envelope.
-12 Jackson exited the hall and stayed in the waiting_room.
-13 Carter privately told Mia that the beans is actually in the green_bathtub.
-14 Jacob privately told Amelia that the beans is actually in the red_bucket.
-15 Amelia, Jackson and Jacob entered the hall.
-16 The plum is in the green_bathtub.
-17 Amelia moved the plum to the blue_container.
-18 Amelia exited the hall and stayed in the waiting_room.
-19 Jackson moved the plum to the red_bucket.
-20 Jackson exited the hall and stayed in the waiting_room.
-21 Jacob moved the plum to the blue_envelope.
-22 Jacob exited the hall and stayed in the waiting_room.
-23 Carter, Jacob, Amelia and Jackson entered the study.
-24 The potato is in the blue_box.
-25 Carter moved the potato to the blue_drawer.
-26 Carter exited the study and stayed in the waiting_room.
-27 Jacob moved the potato to the blue_bottle.
-28 Jacob exited the study and stayed in the waiting_room.
-29 Amelia moved the potato to the blue_bathtub.
-30 Amelia exited the study and stayed in the waiting_room.
-31 Jackson moved the potato to the green_suitcase.
-32 Jackson exited the study and stayed in the waiting_room.
-33 Jacob privately told Amelia that the potato is actually in the blue_bottle.
-34 Jackson privately told Mia that the potato is actually in the green_suitcase.
-Question: Where is the beans really?
-Choices: A. blue_bucket, B. red_drawer, C. blue_basket, D. blue_crate, E. green_bottle, F. blue_envelope, G. green_bathtub, H. red_bucket, I. blue_container, J. green_crate, K. blue_box, L. blue_bathtub, M. blue_drawer, N. blue_bottle, O. green_suitcase
+1 Emily, Ethan, Owen, Mia and Amelia entered the lounge.
+2 The watermelon is in the green_treasure_chest.
+3 Emily moved the watermelon to the red_container.
+4 Mia likes the green_bathtub.
+5 Emily exited the lounge and stayed in the waiting_room.
+6 Ethan moved the watermelon to the red_crate.
+7 Ethan exited the lounge and stayed in the waiting_room.
+8 Owen moved the watermelon to the red_envelope.
+9 Owen exited the lounge and stayed in the waiting_room.
+10 Mia moved the watermelon to the green_basket.
+11 Mia exited the lounge and stayed in the waiting_room.
+12 Amelia moved the watermelon to the green_treasure_chest.
+13 Amelia exited the lounge and stayed in the waiting_room.
+14 Owen publicly claimed that watermelon is in the red_envelope.
+15 Amelia privately told Owen that the watermelon is actually in the red_crate.
+16 Amelia, Mia and Emily entered the lounge.
+17 The watermelon is in the green_treasure_chest.
+18 Amelia moved the watermelon to the red_container.
+19 Emily saw a monkey.
+20 Amelia exited the lounge and stayed in the waiting_room.
+21 Mia moved the watermelon to the green_basket.
+22 Mia exited the lounge and stayed in the waiting_room.
+23 Owen saw a cat.
+24 Emily moved the watermelon to the red_crate.
+25 Emily exited the lounge and stayed in the waiting_room.
+26 Ethan, Owen, Amelia and Emily entered the pantry.
+27 The eggplant is in the green_bathtub.
+28 Ethan moved the eggplant to the red_bottle.
+29 Ethan exited the pantry and stayed in the waiting_room.
+30 Owen moved the eggplant to the green_suitcase.
+31 Owen exited the pantry and stayed in the waiting_room.
+32 Amelia made no movements and stayed in the pantry for 10 minutes.
+33 Amelia exited the pantry and stayed in the waiting_room.
+34 Emily made no movements and stayed in the pantry for 10 minutes.
+35 Mia likes the green_bottle.
+36 Emily exited the pantry and stayed in the waiting_room.
+37 Ethan publicly claimed that eggplant is in the green_suitcase.
+38 Emily privately told Mia that the eggplant is actually in the green_suitcase.
+39 Amelia lost his phone.
+Question: Where is the watermelon really?
+Choices: A. red_cupboard, B. red_basket, C. red_bathtub, D. blue_suitcase, E. green_bottle, F. green_bathtub, G. green_suitcase, H. blue_cupboard, I. red_bottle, J. blue_treasure_chest, K. red_container, L. green_treasure_chest, M. red_crate, N. red_envelope, O. green_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mila, Jackson, Ava, Jayden and Owen entered the garden.
-2 The banana is in the blue_container.
-3 Mila moved the banana to the red_drawer.
-4 Mila exited the garden and stayed in the waiting_room.
-5 Jackson made no movements and stayed in the garden for 10 minutes.
-6 Jackson exited the garden and stayed in the waiting_room.
-7 Ava moved the banana to the green_suitcase.
-8 Ava exited the garden and stayed in the waiting_room.
-9 Jayden moved the banana to the green_container.
-10 Jayden exited the garden and stayed in the waiting_room.
-11 Owen made no movements and stayed in the garden for 10 minutes.
-12 Owen exited the garden and stayed in the waiting_room.
-13 Ava privately told Mila that the banana is actually in the blue_container.
-14 Jackson privately told Jayden that the banana is actually in the green_suitcase.
-Question: Where does Owen think Ava thinks Jackson thinks the banana is?
-Choices: A. blue_container, B. green_suitcase, C. blue_crate, D. red_drawer, E. green_container, F. blue_drawer, G. blue_basket, H. green_envelope, I. green_crate, J. red_container, K. red_bottle, L. red_bathtub, M. red_bucket, N. red_suitcase, O. green_cupboard
+1 Nathan, Emily, Hannah, Aiden and Emma entered the hallway.
+2 The peach is in the green_treasure_chest.
+3 Nathan moved the peach to the red_bucket.
+4 Nathan exited the hallway and stayed in the waiting_room.
+5 Emily moved the peach to the red_pantry.
+6 Emily exited the hallway and stayed in the waiting_room.
+7 Hannah moved the peach to the red_bathtub.
+8 Hannah exited the hallway and stayed in the waiting_room.
+9 Hannah dislikes the tomato.
+10 Aiden made no movements and stayed in the hallway for 10 minutes.
+11 Aiden exited the hallway and stayed in the waiting_room.
+12 Emma moved the peach to the green_treasure_chest.
+13 Emma exited the hallway and stayed in the waiting_room.
+14 Hannah publicly claimed that peach is in the red_pantry.
+15 Emma privately told Hannah that the peach is actually in the green_treasure_chest.
+Question: Where does Emma think Hannah thinks Emily thinks the peach is?
+Choices: A. blue_bathtub, B. red_basket, C. green_basket, D. blue_suitcase, E. green_bottle, F. blue_envelope, G. green_envelope, H. green_bucket, I. red_cupboard, J. red_envelope, K. red_bathtub, L. green_treasure_chest, M. red_treasure_chest, N. red_bucket, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, James, Oliver, Aria and Benjamin entered the closet.
-2 The radish is in the blue_bottle.
-3 Mila moved the radish to the blue_treasure_chest.
-4 Mila exited the closet and stayed in the waiting_room.
-5 James made no movements and stayed in the closet for 10 minutes.
-6 James exited the closet and stayed in the waiting_room.
-7 Oliver made no movements and stayed in the closet for 10 minutes.
-8 Oliver exited the closet and stayed in the waiting_room.
-9 Aria made no movements and stayed in the closet for 10 minutes.
-10 Aria exited the closet and stayed in the waiting_room.
-11 Benjamin moved the radish to the blue_bottle.
-12 Benjamin exited the closet and stayed in the waiting_room.
-13 Aria, Mila and James entered the basement.
-14 The apple is in the blue_pantry.
-15 Aria made no movements and stayed in the basement for 10 minutes.
-16 Aria exited the basement and stayed in the waiting_room.
-17 Mila moved the apple to the red_bucket.
-18 Mila exited the basement and stayed in the waiting_room.
-19 James made no movements and stayed in the basement for 10 minutes.
-20 James exited the basement and stayed in the waiting_room.
-21 Oliver, Aria, James and Mila entered the closet.
-22 The cherry is in the blue_treasure_chest.
-23 Oliver moved the cherry to the blue_container.
-24 Oliver exited the closet and stayed in the waiting_room.
-25 Aria made no movements and stayed in the closet for 10 minutes.
-26 Aria exited the closet and stayed in the waiting_room.
-27 James made no movements and stayed in the closet for 10 minutes.
-28 James exited the closet and stayed in the waiting_room.
-29 Mila moved the cherry to the red_envelope.
-30 Mila exited the closet and stayed in the waiting_room.
-Question: Where does Mila think Benjamin thinks Oliver thinks Aria thinks the radish is?
-Choices: A. red_basket, B. green_envelope, C. blue_envelope, D. green_bottle, E. green_cupboard, F. blue_bottle, G. blue_treasure_chest, H. blue_box, I. blue_container, J. red_envelope, K. red_container, L. blue_pantry, M. red_drawer, N. red_suitcase, O. red_bucket
+1 Aria, Ethan, Nathan, Chloe and Emma entered the den.
+2 The pumpkin is in the red_bucket.
+3 Aria made no movements and stayed in the den for 10 minutes.
+4 Emma likes the green_box.
+5 Aria exited the den and stayed in the waiting_room.
+6 Ethan made no movements and stayed in the den for 10 minutes.
+7 Ethan exited the den and stayed in the waiting_room.
+8 Nathan moved the pumpkin to the blue_crate.
+9 Nathan exited the den and stayed in the waiting_room.
+10 Chloe made no movements and stayed in the den for 10 minutes.
+11 Chloe exited the den and stayed in the waiting_room.
+12 Emma moved the pumpkin to the red_bucket.
+13 Emma exited the den and stayed in the waiting_room.
+14 Chloe, Nathan and Ethan entered the laundry.
+15 The grapes is in the green_bottle.
+16 Chloe moved the grapes to the green_pantry.
+17 Chloe exited the laundry and stayed in the waiting_room.
+18 Nathan made no movements and stayed in the laundry for 10 minutes.
+19 Nathan exited the laundry and stayed in the waiting_room.
+20 Aria dislikes the strawberry.
+21 Ethan made no movements and stayed in the laundry for 10 minutes.
+22 Ethan exited the laundry and stayed in the waiting_room.
+23 Chloe, Ethan, Nathan and Aria entered the den.
+24 Chloe likes the blue_treasure_chest.
+25 The pumpkin is in the red_bucket.
+26 Chloe moved the pumpkin to the blue_drawer.
+27 Chloe exited the den and stayed in the waiting_room.
+28 Ethan moved the pumpkin to the green_box.
+29 Ethan exited the den and stayed in the waiting_room.
+30 Nathan moved the pumpkin to the blue_crate.
+31 Nathan exited the den and stayed in the waiting_room.
+32 Aria made no movements and stayed in the den for 10 minutes.
+33 Aria exited the den and stayed in the waiting_room.
+Question: Where does Nathan think Ethan thinks Chloe thinks Emma thinks the pumpkin is?
+Choices: A. red_crate, B. red_basket, C. blue_cupboard, D. red_box, E. blue_treasure_chest, F. blue_drawer, G. red_bucket, H. green_treasure_chest, I. green_box, J. blue_crate, K. green_pantry, L. green_bottle, M. blue_suitcase, N. green_cupboard, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

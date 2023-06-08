@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Olivia, Jackson, Ella, Benjamin and Jacob entered the bedroom.
-2 The beans is in the red_bottle.
-3 Olivia made no movements and stayed in the bedroom for 10 minutes.
-4 Olivia exited the bedroom and stayed in the waiting_room.
-5 Jackson made no movements and stayed in the bedroom for 10 minutes.
-6 Jackson exited the bedroom and stayed in the waiting_room.
-7 Ella moved the beans to the green_bottle.
-8 Ella exited the bedroom and stayed in the waiting_room.
-9 Benjamin moved the beans to the red_suitcase.
-10 Benjamin exited the bedroom and stayed in the waiting_room.
-11 Jacob moved the beans to the red_bottle.
-12 Jacob exited the bedroom and stayed in the waiting_room.
-13 Olivia, Ella and Jacob entered the bedroom.
-14 The green_pepper is in the green_bottle.
-15 Olivia moved the green_pepper to the red_suitcase.
-16 Olivia exited the bedroom and stayed in the waiting_room.
-17 Ella made no movements and stayed in the bedroom for 10 minutes.
-18 Ella exited the bedroom and stayed in the waiting_room.
-19 Jacob moved the green_pepper to the blue_pantry.
-20 Jacob exited the bedroom and stayed in the waiting_room.
-21 Jackson, Jacob, Olivia and Ella entered the bedroom.
-22 The beans is in the red_bottle.
-23 Jackson made no movements and stayed in the bedroom for 10 minutes.
-24 Jackson exited the bedroom and stayed in the waiting_room.
-25 Jacob moved the beans to the blue_pantry.
-26 Jacob exited the bedroom and stayed in the waiting_room.
-27 Olivia made no movements and stayed in the bedroom for 10 minutes.
-28 Olivia exited the bedroom and stayed in the waiting_room.
-29 Ella moved the beans to the blue_treasure_chest.
-30 Ella exited the bedroom and stayed in the waiting_room.
-31 Ella and Olivia entered the bathroom.
-32 The spinach is in the red_crate.
-33 Ella moved the spinach to the green_bathtub.
-34 Ella exited the bathroom and stayed in the waiting_room.
-35 Olivia moved the spinach to the blue_bathtub.
-36 Olivia exited the bathroom and stayed in the waiting_room.
-Question: Where does Ella think the beans is?
-Choices: A. blue_crate, B. blue_envelope, C. red_bucket, D. green_treasure_chest, E. blue_container, F. red_crate, G. red_basket, H. green_bathtub, I. red_container, J. blue_bathtub, K. green_bottle, L. red_bottle, M. blue_treasure_chest, N. blue_pantry, O. red_suitcase
+1 Charlotte, Alexander, Carter, Mason and Amelia entered the crawlspace.
+2 The tomato is in the blue_drawer.
+3 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
+4 Carter saw a cat.
+5 Charlotte exited the crawlspace and stayed in the waiting_room.
+6 Alexander made no movements and stayed in the crawlspace for 10 minutes.
+7 Charlotte dislikes the tomato.
+8 Alexander exited the crawlspace and stayed in the waiting_room.
+9 Carter moved the tomato to the green_box.
+10 Carter exited the crawlspace and stayed in the waiting_room.
+11 Mason moved the tomato to the green_pantry.
+12 Mason exited the crawlspace and stayed in the waiting_room.
+13 Amelia made no movements and stayed in the crawlspace for 10 minutes.
+14 Amelia exited the crawlspace and stayed in the waiting_room.
+15 Alexander, Carter and Amelia entered the crawlspace.
+16 The corn is in the green_box.
+17 Alexander made no movements and stayed in the crawlspace for 10 minutes.
+18 Alexander exited the crawlspace and stayed in the waiting_room.
+19 Carter made no movements and stayed in the crawlspace for 10 minutes.
+20 Carter exited the crawlspace and stayed in the waiting_room.
+21 Alexander lost his bottle.
+22 Amelia moved the corn to the blue_drawer.
+23 Amelia exited the crawlspace and stayed in the waiting_room.
+24 Amelia, Charlotte, Carter and Alexander entered the closet.
+25 The onion is in the blue_crate.
+26 Amelia made no movements and stayed in the closet for 10 minutes.
+27 Amelia exited the closet and stayed in the waiting_room.
+28 Charlotte made no movements and stayed in the closet for 10 minutes.
+29 Charlotte saw a dog.
+30 Charlotte exited the closet and stayed in the waiting_room.
+31 Carter moved the onion to the green_bottle.
+32 Carter exited the closet and stayed in the waiting_room.
+33 Alexander moved the onion to the green_envelope.
+34 Alexander exited the closet and stayed in the waiting_room.
+35 Alexander and Amelia entered the crawlspace.
+36 Amelia likes the red_pantry.
+37 The corn is in the blue_drawer.
+38 Alexander made no movements and stayed in the crawlspace for 10 minutes.
+39 Alexander exited the crawlspace and stayed in the waiting_room.
+40 Amelia made no movements and stayed in the crawlspace for 10 minutes.
+41 Amelia exited the crawlspace and stayed in the waiting_room.
+Question: Where does Amelia think the tomato is?
+Choices: A. blue_drawer, B. green_box, C. green_pantry, D. red_pantry, E. red_crate, F. green_treasure_chest, G. red_bottle, H. blue_bottle, I. red_box, J. red_cupboard, K. green_envelope, L. blue_crate, M. red_bucket, N. green_bottle, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

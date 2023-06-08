@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Charlotte, Jackson, Abigail and Hannah entered the TV_room.
-2 The pineapple is in the blue_pantry.
-3 Aria made no movements and stayed in the TV_room for 10 minutes.
-4 Aria exited the TV_room and stayed in the waiting_room.
-5 Charlotte made no movements and stayed in the TV_room for 10 minutes.
-6 Charlotte exited the TV_room and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the TV_room for 10 minutes.
-8 Jackson exited the TV_room and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the TV_room for 10 minutes.
-10 Abigail exited the TV_room and stayed in the waiting_room.
-11 Hannah moved the pineapple to the blue_pantry.
-12 Hannah exited the TV_room and stayed in the waiting_room.
-13 Jackson, Aria and Hannah entered the closet.
-14 The melon is in the blue_container.
-15 Jackson made no movements and stayed in the closet for 10 minutes.
-16 Jackson exited the closet and stayed in the waiting_room.
-17 Aria moved the melon to the red_suitcase.
-18 Aria exited the closet and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the closet for 10 minutes.
-20 Hannah exited the closet and stayed in the waiting_room.
-21 Charlotte, Aria, Abigail and Hannah entered the lounge.
-22 The celery is in the red_bottle.
-23 Charlotte made no movements and stayed in the lounge for 10 minutes.
-24 Charlotte exited the lounge and stayed in the waiting_room.
-25 Aria made no movements and stayed in the lounge for 10 minutes.
-26 Aria exited the lounge and stayed in the waiting_room.
-27 Abigail moved the celery to the blue_drawer.
-28 Abigail exited the lounge and stayed in the waiting_room.
-29 Hannah made no movements and stayed in the lounge for 10 minutes.
-30 Hannah exited the lounge and stayed in the waiting_room.
-31 Charlotte and Hannah entered the closet.
-32 The melon is in the red_suitcase.
-33 Charlotte moved the melon to the blue_bucket.
-34 Charlotte exited the closet and stayed in the waiting_room.
-35 Hannah made no movements and stayed in the closet for 10 minutes.
-36 Hannah exited the closet and stayed in the waiting_room.
-Question: Where does Charlotte think the pineapple is?
-Choices: A. blue_crate, B. red_bottle, C. blue_drawer, D. blue_box, E. green_envelope, F. red_crate, G. blue_pantry, H. green_crate, I. red_container, J. blue_bottle, K. blue_container, L. blue_suitcase, M. blue_bucket, N. green_container, O. red_suitcase
+1 Owen, Nathan, Carter, Sophia and Hannah entered the basement.
+2 The radish is in the blue_drawer.
+3 Owen moved the radish to the blue_bottle.
+4 Owen exited the basement and stayed in the waiting_room.
+5 Nathan moved the radish to the blue_treasure_chest.
+6 Hannah lost his watch.
+7 Nathan exited the basement and stayed in the waiting_room.
+8 Carter moved the radish to the blue_crate.
+9 Carter exited the basement and stayed in the waiting_room.
+10 Sophia moved the radish to the blue_cupboard.
+11 Sophia exited the basement and stayed in the waiting_room.
+12 Hannah made no movements and stayed in the basement for 10 minutes.
+13 Hannah exited the basement and stayed in the waiting_room.
+14 Carter, Nathan and Hannah entered the basement.
+15 The radish is in the blue_cupboard.
+16 Carter made no movements and stayed in the basement for 10 minutes.
+17 Carter exited the basement and stayed in the waiting_room.
+18 Sophia dislikes the tangerine.
+19 Nathan moved the radish to the blue_crate.
+20 Nathan exited the basement and stayed in the waiting_room.
+21 Hannah made no movements and stayed in the basement for 10 minutes.
+22 Hannah exited the basement and stayed in the waiting_room.
+23 Owen, Sophia, Nathan and Hannah entered the kitchen.
+24 The tangerine is in the blue_bathtub.
+25 Owen made no movements and stayed in the kitchen for 10 minutes.
+26 Owen exited the kitchen and stayed in the waiting_room.
+27 Sophia moved the tangerine to the red_crate.
+28 Sophia exited the kitchen and stayed in the waiting_room.
+29 Nathan made no movements and stayed in the kitchen for 10 minutes.
+30 Nathan exited the kitchen and stayed in the waiting_room.
+31 Hannah made no movements and stayed in the kitchen for 10 minutes.
+32 Hannah exited the kitchen and stayed in the waiting_room.
+33 Nathan and Hannah entered the basement.
+34 The radish is in the blue_crate.
+35 Nathan made no movements and stayed in the basement for 10 minutes.
+36 Nathan exited the basement and stayed in the waiting_room.
+37 Hannah made no movements and stayed in the basement for 10 minutes.
+38 Hannah exited the basement and stayed in the waiting_room.
+Question: Where does Nathan think the radish is?
+40 Nathan likes the green_suitcase.
+Choices: A. blue_bottle, B. blue_drawer, C. blue_crate, D. blue_cupboard, E. blue_treasure_chest, F. blue_bathtub, G. green_suitcase, H. blue_suitcase, I. green_box, J. red_crate, K. blue_envelope, L. green_basket, M. green_cupboard, N. red_pantry, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

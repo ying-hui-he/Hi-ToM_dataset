@@ -1,27 +1,33 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Ava, Noah, Aiden and Gracie entered the hall.
-2 The lime is in the red_crate.
-3 Logan moved the lime to the blue_container.
-4 Logan exited the hall and stayed in the waiting_room.
-5 Ava moved the lime to the blue_bottle.
-6 Ava exited the hall and stayed in the waiting_room.
-7 Noah made no movements and stayed in the hall for 10 minutes.
-8 Noah exited the hall and stayed in the waiting_room.
-9 Aiden moved the lime to the red_envelope.
-10 Aiden exited the hall and stayed in the waiting_room.
-11 Gracie made no movements and stayed in the hall for 10 minutes.
-12 Gracie exited the hall and stayed in the waiting_room.
-13 Noah, Gracie and Logan entered the closet.
-14 The banana is in the blue_suitcase.
-15 Noah made no movements and stayed in the closet for 10 minutes.
-16 Noah exited the closet and stayed in the waiting_room.
-17 Gracie made no movements and stayed in the closet for 10 minutes.
-18 Gracie exited the closet and stayed in the waiting_room.
-19 Logan made no movements and stayed in the closet for 10 minutes.
-20 Logan exited the closet and stayed in the waiting_room.
-21 Gracie publicly claimed that banana is in the blue_suitcase.
-22 Logan privately told Gracie that the banana is actually in the blue_box.
-Question: Where does Noah think Ava thinks the lime is?
-Answer: blue_bottle
-Choices: A. red_bathtub, B. red_container, C. green_cupboard, D. red_suitcase, E. green_bathtub, F. red_bucket, G. blue_suitcase, H. blue_bathtub, I. blue_box, J. blue_basket, K. red_crate, L. red_envelope, M. blue_treasure_chest, N. blue_container, O. blue_bottle
+1 Emma, Liam, Logan, Ella and Jayden entered the master_bedroom.
+2 The potato is in the red_envelope.
+3 Emma made no movements and stayed in the master_bedroom for 10 minutes.
+4 Emma exited the master_bedroom and stayed in the waiting_room.
+5 Logan likes the blue_crate.
+6 Liam made no movements and stayed in the master_bedroom for 10 minutes.
+7 Liam exited the master_bedroom and stayed in the waiting_room.
+8 Logan moved the potato to the blue_suitcase.
+9 Ella saw a cat.
+10 Logan exited the master_bedroom and stayed in the waiting_room.
+11 Ella moved the potato to the blue_crate.
+12 Ella exited the master_bedroom and stayed in the waiting_room.
+13 Jayden moved the potato to the red_envelope.
+14 Jayden exited the master_bedroom and stayed in the waiting_room.
+15 Emma likes the red_basket.
+16 Ella, Emma and Jayden entered the workshop.
+17 The lettuce is in the green_pantry.
+18 Ella made no movements and stayed in the workshop for 10 minutes.
+19 Ella exited the workshop and stayed in the waiting_room.
+20 Emma moved the lettuce to the blue_bucket.
+21 Emma exited the workshop and stayed in the waiting_room.
+22 Jayden moved the lettuce to the green_envelope.
+23 Emma dislikes the lettuce.
+24 Jayden exited the workshop and stayed in the waiting_room.
+25 Jayden publicly claimed that lettuce is in the blue_bucket.
+26 Ella privately told Jayden that the lettuce is actually in the green_envelope.
+27 Logan dislikes the onion.
+Question: Where does Liam think Ella thinks the potato is?
+Answer: red_envelope
+29 Jayden lost his watch.
+Choices: A. green_suitcase, B. red_envelope, C. blue_crate, D. red_box, E. blue_suitcase, F. green_envelope, G. green_pantry, H. blue_bucket, I. blue_bathtub, J. green_treasure_chest, K. blue_drawer, L. blue_treasure_chest, M. blue_cupboard, N. red_cupboard, O. red_basket

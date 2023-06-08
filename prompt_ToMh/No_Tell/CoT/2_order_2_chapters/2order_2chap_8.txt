@@ -1,25 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Aiden, Benjamin, Emma and Evelyn entered the study.
-2 The banana is in the green_envelope.
-3 Avery moved the banana to the red_suitcase.
-4 Avery exited the study and stayed in the waiting_room.
-5 Aiden moved the banana to the red_crate.
-6 Aiden exited the study and stayed in the waiting_room.
-7 Benjamin moved the banana to the red_drawer.
-8 Benjamin exited the study and stayed in the waiting_room.
-9 Emma moved the banana to the blue_drawer.
-10 Emma exited the study and stayed in the waiting_room.
-11 Evelyn made no movements and stayed in the study for 10 minutes.
-12 Evelyn exited the study and stayed in the waiting_room.
-13 Avery, Evelyn and Emma entered the study.
-14 The banana is in the blue_drawer.
-15 Avery moved the banana to the red_drawer.
-16 Avery exited the study and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the study for 10 minutes.
-18 Evelyn exited the study and stayed in the waiting_room.
-19 Emma moved the banana to the red_suitcase.
-20 Emma exited the study and stayed in the waiting_room.
-Question: Where does Benjamin think Aiden thinks the banana is?
-Choices: A. red_drawer, B. green_envelope, C. red_crate, D. blue_drawer, E. red_suitcase, F. green_bottle, G. blue_suitcase, H. red_container, I. blue_crate, J. red_basket, K. red_envelope, L. green_cupboard, M. green_container, N. blue_basket, O. red_bottle
+1 Abigail likes the green_basket.
+2 Chloe, Emily, Jayden, Abigail and Mila entered the front_yard.
+3 The green_pepper is in the red_cupboard.
+4 Chloe made no movements and stayed in the front_yard for 10 minutes.
+5 Chloe likes the blue_bucket.
+6 Chloe exited the front_yard and stayed in the waiting_room.
+7 Emily made no movements and stayed in the front_yard for 10 minutes.
+8 Emily exited the front_yard and stayed in the waiting_room.
+9 Jayden moved the green_pepper to the green_treasure_chest.
+10 Jayden exited the front_yard and stayed in the waiting_room.
+11 Abigail moved the green_pepper to the green_box.
+12 Abigail exited the front_yard and stayed in the waiting_room.
+13 Mila moved the green_pepper to the red_cupboard.
+14 Mila exited the front_yard and stayed in the waiting_room.
+15 Mila, Jayden and Chloe entered the hall.
+16 The eggplant is in the red_box.
+17 Jayden saw a dog.
+18 Mila made no movements and stayed in the hall for 10 minutes.
+19 Mila exited the hall and stayed in the waiting_room.
+20 Jayden made no movements and stayed in the hall for 10 minutes.
+21 Jayden exited the hall and stayed in the waiting_room.
+22 Chloe moved the eggplant to the red_crate.
+23 Chloe likes the blue_treasure_chest.
+24 Chloe exited the hall and stayed in the waiting_room.
+Question: Where does Mila think Emily thinks the green_pepper is?
+Choices: A. green_treasure_chest, B. red_cupboard, C. green_box, D. blue_suitcase, E. red_container, F. blue_crate, G. red_box, H. red_crate, I. red_bathtub, J. green_basket, K. blue_treasure_chest, L. blue_bucket, M. red_pantry, N. green_bucket, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

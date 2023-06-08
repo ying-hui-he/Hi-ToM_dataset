@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, William, Owen, Gracie and Aria entered the lounge.
-2 The apple is in the green_crate.
-3 Evelyn moved the apple to the red_drawer.
-4 Evelyn exited the lounge and stayed in the waiting_room.
-5 William made no movements and stayed in the lounge for 10 minutes.
-6 William exited the lounge and stayed in the waiting_room.
-7 Owen moved the apple to the blue_drawer.
-8 Owen exited the lounge and stayed in the waiting_room.
-9 Gracie moved the apple to the red_envelope.
-10 Gracie exited the lounge and stayed in the waiting_room.
-11 Aria made no movements and stayed in the lounge for 10 minutes.
-12 Aria exited the lounge and stayed in the waiting_room.
-13 Aria, Evelyn and Owen entered the kitchen.
-14 The pumpkin is in the green_treasure_chest.
-15 Aria moved the pumpkin to the blue_crate.
-16 Aria exited the kitchen and stayed in the waiting_room.
-17 Evelyn moved the pumpkin to the green_cupboard.
-18 Evelyn exited the kitchen and stayed in the waiting_room.
-19 Owen moved the pumpkin to the blue_box.
-20 Owen exited the kitchen and stayed in the waiting_room.
-Question: Where does Owen think William thinks the apple is?
-Choices: A. green_envelope, B. red_basket, C. green_bathtub, D. blue_container, E. red_suitcase, F. red_drawer, G. green_crate, H. red_bathtub, I. red_envelope, J. blue_drawer, K. blue_pantry, L. green_treasure_chest, M. blue_box, N. blue_crate, O. green_cupboard
+1 Logan, Jayden, Mila, Lucas and Isabella entered the attic.
+2 The grapefruit is in the red_crate.
+3 Logan moved the grapefruit to the green_bucket.
+4 Logan exited the attic and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the attic for 10 minutes.
+6 Jayden exited the attic and stayed in the waiting_room.
+7 Mila moved the grapefruit to the red_basket.
+8 Logan dislikes the corn.
+9 Mila exited the attic and stayed in the waiting_room.
+10 Lucas made no movements and stayed in the attic for 10 minutes.
+11 Lucas exited the attic and stayed in the waiting_room.
+12 Isabella made no movements and stayed in the attic for 10 minutes.
+13 Isabella exited the attic and stayed in the waiting_room.
+14 Isabella, Mila and Logan entered the attic.
+15 The turnip is in the red_bucket.
+16 Isabella made no movements and stayed in the attic for 10 minutes.
+17 Isabella exited the attic and stayed in the waiting_room.
+18 Mila moved the turnip to the red_bottle.
+19 Mila exited the attic and stayed in the waiting_room.
+20 Logan moved the turnip to the green_bucket.
+21 Logan exited the attic and stayed in the waiting_room.
+Question: Where does Mila think Lucas thinks the grapefruit is?
+Choices: A. green_bathtub, B. red_box, C. blue_crate, D. green_basket, E. blue_suitcase, F. green_envelope, G. green_treasure_chest, H. green_box, I. red_bathtub, J. red_container, K. red_bucket, L. red_crate, M. green_bucket, N. red_basket, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Ava, Aiden, Carter and Emma entered the porch.
-2 The peach is in the blue_container.
-3 Jack moved the peach to the red_bottle.
-4 Jack exited the porch and stayed in the waiting_room.
-5 Ava moved the peach to the blue_pantry.
-6 Ava exited the porch and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the porch for 10 minutes.
-8 Aiden exited the porch and stayed in the waiting_room.
-9 Carter made no movements and stayed in the porch for 10 minutes.
-10 Carter exited the porch and stayed in the waiting_room.
-11 Emma made no movements and stayed in the porch for 10 minutes.
-12 Emma exited the porch and stayed in the waiting_room.
-13 Carter, Aiden and Jack entered the bedroom.
-14 The celery is in the red_container.
-15 Carter moved the celery to the green_bathtub.
-16 Carter exited the bedroom and stayed in the waiting_room.
-17 Aiden made no movements and stayed in the bedroom for 10 minutes.
-18 Aiden exited the bedroom and stayed in the waiting_room.
-19 Jack made no movements and stayed in the bedroom for 10 minutes.
-20 Jack exited the bedroom and stayed in the waiting_room.
-21 Ava, Emma, Carter and Jack entered the porch.
-22 The peach is in the blue_pantry.
-23 Ava made no movements and stayed in the porch for 10 minutes.
-24 Ava exited the porch and stayed in the waiting_room.
-25 Emma made no movements and stayed in the porch for 10 minutes.
-26 Emma exited the porch and stayed in the waiting_room.
-27 Carter made no movements and stayed in the porch for 10 minutes.
-28 Carter exited the porch and stayed in the waiting_room.
-29 Jack moved the peach to the red_treasure_chest.
-30 Jack exited the porch and stayed in the waiting_room.
-Question: Where is the peach really?
-Answer: red_treasure_chest
-Choices: A. red_container, B. green_treasure_chest, C. red_crate, D. green_bathtub, E. green_crate, F. red_drawer, G. blue_bucket, H. green_cupboard, I. blue_envelope, J. blue_basket, K. blue_bottle, L. blue_container, M. blue_pantry, N. red_treasure_chest, O. red_bottle
+1 Alexander saw a dog.
+2 Ethan, Aiden, Alexander, Charlotte and Liam entered the garage.
+3 The melon is in the green_bucket.
+4 Ethan made no movements and stayed in the garage for 10 minutes.
+5 Ethan exited the garage and stayed in the waiting_room.
+6 Aiden moved the melon to the red_basket.
+7 Aiden exited the garage and stayed in the waiting_room.
+8 Alexander moved the melon to the red_box.
+9 Alexander exited the garage and stayed in the waiting_room.
+10 Charlotte made no movements and stayed in the garage for 10 minutes.
+11 Charlotte exited the garage and stayed in the waiting_room.
+12 Liam made no movements and stayed in the garage for 10 minutes.
+13 Liam exited the garage and stayed in the waiting_room.
+14 Liam, Aiden and Ethan entered the back_yard.
+15 The onion is in the red_cupboard.
+16 Liam made no movements and stayed in the back_yard for 10 minutes.
+17 Liam exited the back_yard and stayed in the waiting_room.
+18 Aiden moved the onion to the green_envelope.
+19 Aiden exited the back_yard and stayed in the waiting_room.
+20 Ethan moved the onion to the red_bottle.
+21 Liam saw a dog.
+22 Ethan exited the back_yard and stayed in the waiting_room.
+23 Charlotte, Liam, Alexander and Aiden entered the garage.
+24 The apple is in the red_box.
+25 Charlotte moved the apple to the red_basket.
+26 Charlotte exited the garage and stayed in the waiting_room.
+27 Liam moved the apple to the red_envelope.
+28 Liam exited the garage and stayed in the waiting_room.
+29 Alexander made no movements and stayed in the garage for 10 minutes.
+30 Alexander exited the garage and stayed in the waiting_room.
+31 Aiden moved the apple to the green_bottle.
+32 Aiden exited the garage and stayed in the waiting_room.
+Question: Where is the melon really?
+Answer: red_box
+Choices: A. green_bucket, B. red_box, C. red_basket, D. red_envelope, E. green_bottle, F. green_envelope, G. red_cupboard, H. blue_suitcase, I. red_bottle, J. green_bathtub, K. red_container, L. red_treasure_chest, M. red_bathtub, N. green_suitcase, O. blue_cupboard

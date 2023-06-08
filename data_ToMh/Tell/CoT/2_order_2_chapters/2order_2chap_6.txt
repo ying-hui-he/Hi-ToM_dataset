@@ -1,27 +1,32 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, Amelia, Ethan, Hannah and William entered the crawlspace.
-2 The persimmon is in the green_bottle.
-3 Oliver made no movements and stayed in the crawlspace for 10 minutes.
-4 Oliver exited the crawlspace and stayed in the waiting_room.
-5 Amelia moved the persimmon to the red_container.
-6 Amelia exited the crawlspace and stayed in the waiting_room.
-7 Ethan made no movements and stayed in the crawlspace for 10 minutes.
-8 Ethan exited the crawlspace and stayed in the waiting_room.
-9 Hannah made no movements and stayed in the crawlspace for 10 minutes.
-10 Hannah exited the crawlspace and stayed in the waiting_room.
-11 William made no movements and stayed in the crawlspace for 10 minutes.
-12 William exited the crawlspace and stayed in the waiting_room.
-13 Hannah, Oliver and Amelia entered the workshop.
-14 The asparagus is in the blue_basket.
-15 Hannah moved the asparagus to the red_basket.
-16 Hannah exited the workshop and stayed in the waiting_room.
-17 Oliver moved the asparagus to the green_bathtub.
-18 Oliver exited the workshop and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the workshop for 10 minutes.
-20 Amelia exited the workshop and stayed in the waiting_room.
-21 Amelia publicly claimed that asparagus is in the red_basket.
-22 Hannah privately told Amelia that the asparagus is actually in the blue_pantry.
-Question: Where does Amelia think Ethan thinks the persimmon is?
-Answer: green_bottle
-Choices: A. blue_drawer, B. blue_treasure_chest, C. red_envelope, D. blue_bucket, E. green_container, F. red_container, G. green_bottle, H. blue_container, I. red_drawer, J. blue_box, K. blue_basket, L. blue_pantry, M. red_basket, N. red_treasure_chest, O. green_bathtub
+1 Emily, Lucas, Liam, Charlotte and Gracie entered the TV_room.
+2 The apple is in the red_pantry.
+3 Emily made no movements and stayed in the TV_room for 10 minutes.
+4 Lucas likes the red_crate.
+5 Emily exited the TV_room and stayed in the waiting_room.
+6 Lucas moved the apple to the green_bathtub.
+7 Lucas exited the TV_room and stayed in the waiting_room.
+8 Gracie saw a dog.
+9 Liam moved the apple to the green_basket.
+10 Liam exited the TV_room and stayed in the waiting_room.
+11 Charlotte moved the apple to the red_crate.
+12 Lucas dislikes the peas.
+13 Charlotte exited the TV_room and stayed in the waiting_room.
+14 Gracie made no movements and stayed in the TV_room for 10 minutes.
+15 Gracie exited the TV_room and stayed in the waiting_room.
+16 Lucas, Emily and Gracie entered the TV_room.
+17 The apple is in the red_crate.
+18 Lucas moved the apple to the red_pantry.
+19 Lucas exited the TV_room and stayed in the waiting_room.
+20 Emily made no movements and stayed in the TV_room for 10 minutes.
+21 Liam dislikes the carrot.
+22 Emily exited the TV_room and stayed in the waiting_room.
+23 Gracie made no movements and stayed in the TV_room for 10 minutes.
+24 Gracie lost his phone.
+25 Gracie exited the TV_room and stayed in the waiting_room.
+26 Emily privately told Gracie that the apple is actually in the red_pantry.
+27 Gracie privately told Charlotte that the apple is actually in the red_pantry.
+Question: Where does Charlotte think Lucas thinks the apple is?
+Answer: green_bathtub
+Choices: A. red_pantry, B. green_basket, C. green_bottle, D. red_crate, E. green_bathtub, F. green_box, G. green_suitcase, H. blue_bucket, I. blue_bottle, J. red_cupboard, K. green_bucket, L. red_container, M. green_pantry, N. blue_suitcase, O. blue_envelope

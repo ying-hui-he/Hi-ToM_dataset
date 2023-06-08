@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jacob, Aria, Benjamin, Avery and Ava entered the porch.
-2 The celery is in the red_basket.
-3 Jacob moved the celery to the green_cupboard.
-4 Jacob exited the porch and stayed in the waiting_room.
-5 Aria made no movements and stayed in the porch for 10 minutes.
-6 Aria exited the porch and stayed in the waiting_room.
-7 Benjamin moved the celery to the blue_envelope.
-8 Benjamin exited the porch and stayed in the waiting_room.
-9 Avery made no movements and stayed in the porch for 10 minutes.
-10 Avery exited the porch and stayed in the waiting_room.
-11 Ava made no movements and stayed in the porch for 10 minutes.
-12 Ava exited the porch and stayed in the waiting_room.
-13 Benjamin, Avery and Jacob entered the crawlspace.
-14 The banana is in the blue_pantry.
-15 Benjamin made no movements and stayed in the crawlspace for 10 minutes.
-16 Benjamin exited the crawlspace and stayed in the waiting_room.
-17 Avery moved the banana to the blue_bucket.
-18 Avery exited the crawlspace and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the crawlspace for 10 minutes.
-20 Jacob exited the crawlspace and stayed in the waiting_room.
-21 Benjamin publicly claimed that banana is in the blue_container.
-22 Jacob privately told Aria that the banana is actually in the blue_bucket.
-Question: Where does Avery think the celery is?
-Choices: A. green_crate, B. red_bottle, C. red_envelope, D. green_bottle, E. red_bathtub, F. blue_envelope, G. red_basket, H. green_cupboard, I. green_treasure_chest, J. red_suitcase, K. blue_container, L. blue_pantry, M. red_container, N. blue_bucket, O. green_bathtub
+1 Abigail, Hannah, Mia, Nathan and Emily entered the master_bedroom.
+2 Emily lost his bottle.
+3 The pumpkin is in the blue_treasure_chest.
+4 Abigail moved the pumpkin to the blue_drawer.
+5 Abigail exited the master_bedroom and stayed in the waiting_room.
+6 Hannah moved the pumpkin to the green_cupboard.
+7 Hannah exited the master_bedroom and stayed in the waiting_room.
+8 Mia made no movements and stayed in the master_bedroom for 10 minutes.
+9 Mia exited the master_bedroom and stayed in the waiting_room.
+10 Nathan made no movements and stayed in the master_bedroom for 10 minutes.
+11 Nathan exited the master_bedroom and stayed in the waiting_room.
+12 Emily moved the pumpkin to the blue_treasure_chest.
+13 Emily exited the master_bedroom and stayed in the waiting_room.
+14 Nathan, Hannah and Emily entered the bedroom.
+15 The persimmon is in the red_cupboard.
+16 Nathan moved the persimmon to the green_basket.
+17 Nathan exited the bedroom and stayed in the waiting_room.
+18 Hannah moved the persimmon to the red_pantry.
+19 Hannah exited the bedroom and stayed in the waiting_room.
+20 Emily moved the persimmon to the red_crate.
+21 Emily exited the bedroom and stayed in the waiting_room.
+22 Hannah privately told Emily that the persimmon is actually in the green_pantry.
+23 Emily privately told Abigail that the persimmon is actually in the red_crate.
+Question: Where does Hannah think the pumpkin is?
+25 Emily saw a monkey.
+Choices: A. red_cupboard, B. red_pantry, C. green_basket, D. red_crate, E. green_pantry, F. red_box, G. green_bathtub, H. blue_bucket, I. blue_bathtub, J. green_bucket, K. blue_treasure_chest, L. blue_drawer, M. green_bottle, N. green_cupboard, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

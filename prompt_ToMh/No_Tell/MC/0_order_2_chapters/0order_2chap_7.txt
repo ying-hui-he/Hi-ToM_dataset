@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Hannah, Evelyn, Isla and Ethan entered the study.
-2 The lime is in the red_treasure_chest.
-3 Owen made no movements and stayed in the study for 10 minutes.
-4 Owen exited the study and stayed in the waiting_room.
-5 Hannah moved the lime to the red_crate.
-6 Hannah exited the study and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the study for 10 minutes.
-8 Evelyn exited the study and stayed in the waiting_room.
-9 Isla made no movements and stayed in the study for 10 minutes.
-10 Isla exited the study and stayed in the waiting_room.
-11 Ethan moved the lime to the red_treasure_chest.
-12 Ethan exited the study and stayed in the waiting_room.
-13 Isla, Evelyn and Ethan entered the study.
-14 The corn is in the red_crate.
-15 Isla made no movements and stayed in the study for 10 minutes.
-16 Isla exited the study and stayed in the waiting_room.
-17 Evelyn moved the corn to the green_crate.
-18 Evelyn exited the study and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the study for 10 minutes.
-20 Ethan exited the study and stayed in the waiting_room.
-Question: Where is the lime really?
-Choices: A. green_envelope, B. blue_bucket, C. red_drawer, D. green_bathtub, E. blue_box, F. red_crate, G. red_treasure_chest, H. blue_treasure_chest, I. blue_bottle, J. green_crate, K. red_envelope, L. green_container, M. red_suitcase, N. blue_suitcase, O. blue_envelope
+1 Emily, Jayden, Jackson, Chloe and Aiden entered the staircase.
+2 The pineapple is in the blue_bathtub.
+3 Emily moved the pineapple to the green_pantry.
+4 Emily exited the staircase and stayed in the waiting_room.
+5 Jayden moved the pineapple to the red_container.
+6 Jayden exited the staircase and stayed in the waiting_room.
+7 Jackson moved the pineapple to the red_bucket.
+8 Jackson exited the staircase and stayed in the waiting_room.
+9 Chloe made no movements and stayed in the staircase for 10 minutes.
+10 Chloe exited the staircase and stayed in the waiting_room.
+11 Chloe saw a dog.
+12 Aiden moved the pineapple to the blue_bathtub.
+13 Aiden exited the staircase and stayed in the waiting_room.
+14 Emily, Chloe and Jackson entered the front_yard.
+15 The potato is in the red_crate.
+16 Emily moved the potato to the red_treasure_chest.
+17 Emily exited the front_yard and stayed in the waiting_room.
+18 Chloe made no movements and stayed in the front_yard for 10 minutes.
+19 Chloe exited the front_yard and stayed in the waiting_room.
+20 Jackson made no movements and stayed in the front_yard for 10 minutes.
+21 Jackson exited the front_yard and stayed in the waiting_room.
+Question: Where is the pineapple really?
+Choices: A. red_crate, B. red_treasure_chest, C. blue_drawer, D. red_bathtub, E. green_bathtub, F. blue_envelope, G. blue_bathtub, H. red_bucket, I. green_pantry, J. red_container, K. red_envelope, L. green_basket, M. blue_suitcase, N. red_pantry, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Mia, Gracie, Isla and Avery entered the pantry.
-2 The apple is in the red_basket.
-3 Benjamin made no movements and stayed in the pantry for 10 minutes.
-4 Benjamin exited the pantry and stayed in the waiting_room.
-5 Mia made no movements and stayed in the pantry for 10 minutes.
-6 Mia exited the pantry and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the pantry for 10 minutes.
-8 Gracie exited the pantry and stayed in the waiting_room.
-9 Isla made no movements and stayed in the pantry for 10 minutes.
-10 Isla exited the pantry and stayed in the waiting_room.
-11 Avery moved the apple to the red_basket.
-12 Avery exited the pantry and stayed in the waiting_room.
-13 Gracie privately told Benjamin that the apple is actually in the green_crate.
-14 Mia privately told Isla that the apple is actually in the blue_bathtub.
-Question: Where does Avery think the apple is?
-Choices: A. red_basket, B. red_envelope, C. red_bottle, D. green_crate, E. blue_bathtub, F. green_envelope, G. blue_bottle, H. blue_container, I. green_cupboard, J. blue_bucket, K. red_treasure_chest, L. green_treasure_chest, M. blue_pantry, N. red_bathtub, O. red_container
+1 Owen, Mason, Carter, Charlotte and Lucas entered the workshop.
+2 The asparagus is in the green_box.
+3 Owen moved the asparagus to the green_cupboard.
+4 Owen exited the workshop and stayed in the waiting_room.
+5 Mason made no movements and stayed in the workshop for 10 minutes.
+6 Mason exited the workshop and stayed in the waiting_room.
+7 Carter made no movements and stayed in the workshop for 10 minutes.
+8 Carter exited the workshop and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the workshop for 10 minutes.
+10 Charlotte exited the workshop and stayed in the waiting_room.
+11 Lucas moved the asparagus to the green_box.
+12 Lucas exited the workshop and stayed in the waiting_room.
+13 Carter privately told Owen that the asparagus is actually in the green_cupboard.
+14 Mason privately told Charlotte that the asparagus is actually in the green_bottle.
+Question: Where does Lucas think the asparagus is?
+Choices: A. green_bottle, B. green_box, C. red_bathtub, D. green_bathtub, E. green_cupboard, F. blue_bottle, G. green_suitcase, H. blue_bucket, I. green_pantry, J. blue_drawer, K. blue_bathtub, L. blue_envelope, M. blue_cupboard, N. red_bottle, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

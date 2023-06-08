@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, James, Logan, Isla and Emma entered the attic.
-2 The carrot is in the blue_container.
-3 Olivia moved the carrot to the green_container.
-4 Olivia exited the attic and stayed in the waiting_room.
-5 James moved the carrot to the green_suitcase.
-6 James exited the attic and stayed in the waiting_room.
-7 Logan moved the carrot to the red_bathtub.
-8 Logan exited the attic and stayed in the waiting_room.
-9 Isla moved the carrot to the red_basket.
-10 Isla exited the attic and stayed in the waiting_room.
-11 Emma moved the carrot to the blue_container.
-12 Emma exited the attic and stayed in the waiting_room.
-13 Olivia, Isla and James entered the attic.
-14 The cherry is in the green_container.
-15 Olivia moved the cherry to the green_suitcase.
-16 Olivia exited the attic and stayed in the waiting_room.
-17 Isla moved the cherry to the red_bathtub.
-18 Isla exited the attic and stayed in the waiting_room.
-19 James moved the cherry to the red_basket.
-20 James exited the attic and stayed in the waiting_room.
-21 James, Olivia, Logan and Isla entered the attic.
-22 The cherry is in the red_basket.
-23 James moved the cherry to the green_container.
-24 James exited the attic and stayed in the waiting_room.
-25 Olivia made no movements and stayed in the attic for 10 minutes.
-26 Olivia exited the attic and stayed in the waiting_room.
-27 Logan moved the cherry to the green_suitcase.
-28 Logan exited the attic and stayed in the waiting_room.
-29 Isla made no movements and stayed in the attic for 10 minutes.
-30 Isla exited the attic and stayed in the waiting_room.
-Question: Where does James think Olivia thinks the carrot is?
-Choices: A. blue_basket, B. green_bathtub, C. green_bottle, D. blue_envelope, E. green_treasure_chest, F. red_crate, G. red_container, H. green_crate, I. green_envelope, J. green_cupboard, K. green_container, L. blue_container, M. green_suitcase, N. red_bathtub, O. red_basket
+1 Aria, Aiden, Jayden, Mason and Abigail entered the staircase.
+2 The pineapple is in the green_envelope.
+3 Aria made no movements and stayed in the staircase for 10 minutes.
+4 Aria exited the staircase and stayed in the waiting_room.
+5 Aiden moved the pineapple to the red_crate.
+6 Aiden exited the staircase and stayed in the waiting_room.
+7 Jayden moved the pineapple to the green_pantry.
+8 Jayden exited the staircase and stayed in the waiting_room.
+9 Mason made no movements and stayed in the staircase for 10 minutes.
+10 Mason exited the staircase and stayed in the waiting_room.
+11 Abigail made no movements and stayed in the staircase for 10 minutes.
+12 Aria saw a dog.
+13 Abigail exited the staircase and stayed in the waiting_room.
+14 Jayden, Aria and Mason entered the staircase.
+15 The lemon is in the green_pantry.
+16 Jayden moved the lemon to the green_envelope.
+17 Jayden exited the staircase and stayed in the waiting_room.
+18 Aria moved the lemon to the red_bathtub.
+19 Aria exited the staircase and stayed in the waiting_room.
+20 Mason made no movements and stayed in the staircase for 10 minutes.
+21 Jayden lost his bottle.
+22 Mason exited the staircase and stayed in the waiting_room.
+23 Mason, Abigail, Aria and Aiden entered the study.
+24 The broccoli is in the red_basket.
+25 Mason moved the broccoli to the red_container.
+26 Mason exited the study and stayed in the waiting_room.
+27 Abigail made no movements and stayed in the study for 10 minutes.
+28 Abigail exited the study and stayed in the waiting_room.
+29 Aria made no movements and stayed in the study for 10 minutes.
+30 Aria exited the study and stayed in the waiting_room.
+31 Aiden moved the broccoli to the blue_treasure_chest.
+32 Aiden exited the study and stayed in the waiting_room.
+Question: Where does Aria think Aiden thinks the pineapple is?
+34 Mason dislikes the lemon.
+Choices: A. red_basket, B. red_container, C. red_treasure_chest, D. blue_treasure_chest, E. green_suitcase, F. green_envelope, G. green_pantry, H. red_crate, I. red_bathtub, J. blue_bucket, K. blue_bathtub, L. red_bottle, M. green_cupboard, N. red_cupboard, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

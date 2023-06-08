@@ -1,27 +1,32 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Oliver, Ella, Mila and Ethan entered the dining_room.
-2 The pear is in the green_envelope.
-3 Emma moved the pear to the green_bottle.
-4 Emma exited the dining_room and stayed in the waiting_room.
-5 Oliver moved the pear to the green_bathtub.
-6 Oliver exited the dining_room and stayed in the waiting_room.
-7 Ella moved the pear to the green_crate.
-8 Ella exited the dining_room and stayed in the waiting_room.
-9 Mila made no movements and stayed in the dining_room for 10 minutes.
-10 Mila exited the dining_room and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the dining_room for 10 minutes.
-12 Ethan exited the dining_room and stayed in the waiting_room.
-13 Oliver, Emma and Ethan entered the pantry.
-14 The corn is in the blue_bottle.
-15 Oliver moved the corn to the red_bathtub.
-16 Oliver exited the pantry and stayed in the waiting_room.
-17 Emma moved the corn to the blue_envelope.
-18 Emma exited the pantry and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the pantry for 10 minutes.
-20 Ethan exited the pantry and stayed in the waiting_room.
-21 Oliver publicly claimed that corn is in the blue_bucket.
-22 Ethan privately told Mila that the corn is actually in the blue_envelope.
-Question: Where does Ella think Mila thinks the pear is?
-Answer: green_bathtub
-Choices: A. blue_suitcase, B. red_treasure_chest, C. red_basket, D. blue_bathtub, E. blue_crate, F. green_envelope, G. green_crate, H. green_bathtub, I. blue_basket, J. green_bottle, K. blue_bucket, L. blue_bottle, M. red_bathtub, N. green_suitcase, O. blue_envelope
+1 Isabella, Logan, Carter, Ethan and Gracie entered the den.
+2 The green_pepper is in the green_suitcase.
+3 Logan dislikes the asparagus.
+4 Isabella made no movements and stayed in the den for 10 minutes.
+5 Isabella exited the den and stayed in the waiting_room.
+6 Logan made no movements and stayed in the den for 10 minutes.
+7 Logan exited the den and stayed in the waiting_room.
+8 Carter made no movements and stayed in the den for 10 minutes.
+9 Carter exited the den and stayed in the waiting_room.
+10 Ethan dislikes the green_pepper.
+11 Ethan made no movements and stayed in the den for 10 minutes.
+12 Ethan exited the den and stayed in the waiting_room.
+13 Isabella dislikes the asparagus.
+14 Gracie moved the green_pepper to the green_suitcase.
+15 Gracie exited the den and stayed in the waiting_room.
+16 Logan lost his phone.
+17 Carter, Logan and Gracie entered the hallway.
+18 The cucumber is in the blue_drawer.
+19 Carter made no movements and stayed in the hallway for 10 minutes.
+20 Carter exited the hallway and stayed in the waiting_room.
+21 Ethan dislikes the cucumber.
+22 Logan made no movements and stayed in the hallway for 10 minutes.
+23 Logan exited the hallway and stayed in the waiting_room.
+24 Gracie made no movements and stayed in the hallway for 10 minutes.
+25 Gracie exited the hallway and stayed in the waiting_room.
+26 Carter publicly claimed that cucumber is in the blue_drawer.
+27 Gracie privately told Ethan that the cucumber is actually in the blue_drawer.
+Question: Where does Ethan think Gracie thinks the green_pepper is?
+Answer: green_suitcase
+Choices: A. green_box, B. green_suitcase, C. blue_crate, D. blue_bucket, E. red_basket, F. red_bottle, G. green_basket, H. red_bucket, I. green_bucket, J. blue_bottle, K. blue_drawer, L. green_pantry, M. red_envelope, N. green_cupboard, O. red_treasure_chest

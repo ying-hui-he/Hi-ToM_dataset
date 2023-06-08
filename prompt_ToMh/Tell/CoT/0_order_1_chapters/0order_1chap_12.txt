@@ -1,19 +1,22 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mila, Amelia, Benjamin, Jayden and Carter entered the living_room.
-2 The melon is in the red_envelope.
-3 Mila made no movements and stayed in the living_room for 10 minutes.
-4 Mila exited the living_room and stayed in the waiting_room.
-5 Amelia moved the melon to the blue_crate.
-6 Amelia exited the living_room and stayed in the waiting_room.
-7 Benjamin moved the melon to the red_bucket.
-8 Benjamin exited the living_room and stayed in the waiting_room.
-9 Jayden moved the melon to the green_envelope.
-10 Jayden exited the living_room and stayed in the waiting_room.
-11 Carter made no movements and stayed in the living_room for 10 minutes.
-12 Carter exited the living_room and stayed in the waiting_room.
-13 Benjamin publicly claimed that melon is in the red_bucket.
-14 Carter privately told Benjamin that the melon is actually in the red_envelope.
-Question: Where is the melon really?
-Choices: A. red_envelope, B. green_envelope, C. blue_crate, D. red_bucket, E. blue_box, F. blue_bottle, G. red_bathtub, H. blue_drawer, I. blue_container, J. red_drawer, K. red_basket, L. green_suitcase, M. blue_pantry, N. blue_bucket, O. blue_suitcase
+1 Emma, Aiden, Liam, Ella and Jacob entered the garage.
+2 The tomato is in the green_suitcase.
+3 Emma moved the tomato to the green_bottle.
+4 Ella likes the green_bathtub.
+5 Emma exited the garage and stayed in the waiting_room.
+6 Aiden moved the tomato to the red_crate.
+7 Aiden exited the garage and stayed in the waiting_room.
+8 Liam moved the tomato to the blue_bucket.
+9 Liam exited the garage and stayed in the waiting_room.
+10 Aiden dislikes the pineapple.
+11 Ella moved the tomato to the green_cupboard.
+12 Ella exited the garage and stayed in the waiting_room.
+13 Ella lost his bottle.
+14 Jacob moved the tomato to the green_suitcase.
+15 Jacob exited the garage and stayed in the waiting_room.
+16 Ella publicly claimed that tomato is in the red_crate.
+17 Jacob privately told Emma that the tomato is actually in the green_suitcase.
+Question: Where is the tomato really?
+Choices: A. green_suitcase, B. red_crate, C. green_cupboard, D. green_bottle, E. blue_bucket, F. red_container, G. green_box, H. green_bucket, I. green_basket, J. blue_drawer, K. green_pantry, L. red_basket, M. green_treasure_chest, N. red_bottle, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

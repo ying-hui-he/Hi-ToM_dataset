@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Olivia, Aiden, Mila, Amelia and Noah entered the study.
-2 The pineapple is in the red_bathtub.
-3 Olivia moved the pineapple to the red_envelope.
-4 Olivia exited the study and stayed in the waiting_room.
-5 Aiden moved the pineapple to the green_suitcase.
-6 Aiden exited the study and stayed in the waiting_room.
-7 Mila moved the pineapple to the green_cupboard.
-8 Mila exited the study and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the study for 10 minutes.
-10 Amelia exited the study and stayed in the waiting_room.
-11 Noah moved the pineapple to the red_bathtub.
-12 Noah exited the study and stayed in the waiting_room.
-13 Aiden, Mila and Olivia entered the kitchen.
-14 The apple is in the red_bucket.
-15 Aiden moved the apple to the blue_drawer.
-16 Aiden exited the kitchen and stayed in the waiting_room.
-17 Mila moved the apple to the red_bottle.
-18 Mila exited the kitchen and stayed in the waiting_room.
-19 Olivia moved the apple to the red_container.
-20 Olivia exited the kitchen and stayed in the waiting_room.
-21 Mila privately told Olivia that the apple is actually in the red_bucket.
-22 Olivia privately told Noah that the apple is actually in the red_container.
-Question: Where does Noah think Olivia thinks the pineapple is?
-Choices: A. green_cupboard, B. red_bathtub, C. green_suitcase, D. green_treasure_chest, E. red_envelope, F. blue_basket, G. blue_treasure_chest, H. green_container, I. blue_box, J. blue_pantry, K. red_container, L. red_bucket, M. blue_drawer, N. red_treasure_chest, O. red_bottle
+1 Aiden, Chloe, Charlotte, Mason and Emily entered the dining_room.
+2 The lemon is in the blue_cupboard.
+3 Aiden made no movements and stayed in the dining_room for 10 minutes.
+4 Aiden lost his bottle.
+5 Aiden exited the dining_room and stayed in the waiting_room.
+6 Chloe made no movements and stayed in the dining_room for 10 minutes.
+7 Chloe exited the dining_room and stayed in the waiting_room.
+8 Charlotte moved the lemon to the blue_drawer.
+9 Charlotte exited the dining_room and stayed in the waiting_room.
+10 Mason made no movements and stayed in the dining_room for 10 minutes.
+11 Mason exited the dining_room and stayed in the waiting_room.
+12 Emily moved the lemon to the blue_cupboard.
+13 Emily exited the dining_room and stayed in the waiting_room.
+14 Mason, Charlotte and Aiden entered the dining_room.
+15 Aiden likes the red_treasure_chest.
+16 The tomato is in the blue_drawer.
+17 Mason moved the tomato to the blue_suitcase.
+18 Mason exited the dining_room and stayed in the waiting_room.
+19 Charlotte moved the tomato to the blue_cupboard.
+20 Charlotte exited the dining_room and stayed in the waiting_room.
+21 Aiden made no movements and stayed in the dining_room for 10 minutes.
+22 Aiden exited the dining_room and stayed in the waiting_room.
+23 Charlotte privately told Aiden that the tomato is actually in the blue_bottle.
+24 Aiden privately told Emily that the tomato is actually in the blue_cupboard.
+Question: Where does Mason think Aiden thinks the lemon is?
+Choices: A. red_box, B. red_pantry, C. red_crate, D. green_envelope, E. green_bottle, F. red_bottle, G. blue_envelope, H. blue_crate, I. red_treasure_chest, J. red_bathtub, K. blue_drawer, L. blue_cupboard, M. blue_bucket, N. blue_bottle, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

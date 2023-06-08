@@ -1,44 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Benjamin, Hannah, Olivia and Emily entered the patio.
-2 The onion is in the red_bathtub.
-3 Owen made no movements and stayed in the patio for 10 minutes.
-4 Owen exited the patio and stayed in the waiting_room.
-5 Benjamin moved the onion to the blue_treasure_chest.
-6 Benjamin exited the patio and stayed in the waiting_room.
-7 Hannah moved the onion to the red_crate.
-8 Hannah exited the patio and stayed in the waiting_room.
-9 Olivia made no movements and stayed in the patio for 10 minutes.
-10 Olivia exited the patio and stayed in the waiting_room.
-11 Emily made no movements and stayed in the patio for 10 minutes.
-12 Emily exited the patio and stayed in the waiting_room.
-13 Emily, Benjamin and Olivia entered the patio.
-14 The spinach is in the blue_treasure_chest.
-15 Emily moved the spinach to the red_drawer.
-16 Emily exited the patio and stayed in the waiting_room.
-17 Benjamin moved the spinach to the red_bathtub.
-18 Benjamin exited the patio and stayed in the waiting_room.
-19 Olivia made no movements and stayed in the patio for 10 minutes.
-20 Olivia exited the patio and stayed in the waiting_room.
-21 Emily publicly claimed that spinach is in the blue_treasure_chest.
-22 Olivia privately told Hannah that the spinach is actually in the red_bathtub.
-23 Owen, Olivia, Hannah and Emily entered the patio.
-24 The onion is in the red_crate.
-25 Owen made no movements and stayed in the patio for 10 minutes.
-26 Owen exited the patio and stayed in the waiting_room.
-27 Olivia made no movements and stayed in the patio for 10 minutes.
-28 Olivia exited the patio and stayed in the waiting_room.
-29 Hannah moved the onion to the red_bathtub.
-30 Hannah exited the patio and stayed in the waiting_room.
-31 Emily moved the onion to the green_cupboard.
-32 Emily exited the patio and stayed in the waiting_room.
-33 Olivia and Owen entered the workshop.
-34 The beans is in the red_envelope.
-35 Olivia moved the beans to the red_bucket.
-36 Olivia exited the workshop and stayed in the waiting_room.
-37 Owen made no movements and stayed in the workshop for 10 minutes.
-38 Owen exited the workshop and stayed in the waiting_room.
-39 Olivia privately told Hannah that the beans is actually in the red_bucket.
-Question: Where does Emily think the onion is?
-Choices: A. green_suitcase, B. red_basket, C. blue_bucket, D. red_container, E. blue_bottle, F. red_envelope, G. red_bucket, H. green_container, I. blue_basket, J. green_bathtub, K. blue_treasure_chest, L. red_bathtub, M. red_crate, N. red_drawer, O. green_cupboard
+1 Aria, Emily, Ethan, Ava and Mia entered the garage.
+2 The pineapple is in the blue_bottle.
+3 Aria made no movements and stayed in the garage for 10 minutes.
+4 Aria exited the garage and stayed in the waiting_room.
+5 Ethan lost his bottle.
+6 Emily moved the pineapple to the red_envelope.
+7 Mia likes the blue_crate.
+8 Emily exited the garage and stayed in the waiting_room.
+9 Ethan made no movements and stayed in the garage for 10 minutes.
+10 Ethan exited the garage and stayed in the waiting_room.
+11 Ava moved the pineapple to the green_bathtub.
+12 Ava exited the garage and stayed in the waiting_room.
+13 Mia made no movements and stayed in the garage for 10 minutes.
+14 Mia exited the garage and stayed in the waiting_room.
+15 Emily, Ethan and Mia entered the garage.
+16 The pineapple is in the green_bathtub.
+17 Emily made no movements and stayed in the garage for 10 minutes.
+18 Emily exited the garage and stayed in the waiting_room.
+19 Ethan moved the pineapple to the red_envelope.
+20 Ethan exited the garage and stayed in the waiting_room.
+21 Mia moved the pineapple to the blue_bottle.
+22 Mia exited the garage and stayed in the waiting_room.
+23 Mia publicly claimed that pineapple is in the red_envelope.
+24 Emily privately told Mia that the pineapple is actually in the green_bathtub.
+25 Aria, Emily, Ethan and Ava entered the attic.
+26 The strawberry is in the red_pantry.
+27 Aria moved the strawberry to the red_bottle.
+28 Aria exited the attic and stayed in the waiting_room.
+29 Emily made no movements and stayed in the attic for 10 minutes.
+30 Emily exited the attic and stayed in the waiting_room.
+31 Ethan moved the strawberry to the green_pantry.
+32 Ethan exited the attic and stayed in the waiting_room.
+33 Ava moved the strawberry to the blue_crate.
+34 Ava exited the attic and stayed in the waiting_room.
+35 Ava and Emily entered the den.
+36 The banana is in the green_bucket.
+37 Ava moved the banana to the red_bathtub.
+38 Ava exited the den and stayed in the waiting_room.
+39 Aria lost his bottle.
+40 Emily made no movements and stayed in the den for 10 minutes.
+41 Emily exited the den and stayed in the waiting_room.
+42 Ava publicly claimed that banana is in the red_container.
+43 Emily privately told Ava that the banana is actually in the red_bathtub.
+Question: Where does Ava think the pineapple is?
+Choices: A. green_bucket, B. green_bottle, C. red_bathtub, D. red_container, E. blue_cupboard, F. green_pantry, G. red_pantry, H. blue_crate, I. red_bottle, J. green_treasure_chest, K. red_envelope, L. blue_bottle, M. green_box, N. green_bathtub, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

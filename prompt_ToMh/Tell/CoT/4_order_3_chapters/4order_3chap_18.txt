@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, James, Jackson, Hannah and Jacob entered the kitchen.
-2 The pumpkin is in the blue_bottle.
-3 Oliver moved the pumpkin to the blue_drawer.
-4 Oliver exited the kitchen and stayed in the waiting_room.
-5 James moved the pumpkin to the blue_treasure_chest.
-6 James exited the kitchen and stayed in the waiting_room.
-7 Jackson moved the pumpkin to the red_envelope.
-8 Jackson exited the kitchen and stayed in the waiting_room.
-9 Hannah moved the pumpkin to the green_bathtub.
-10 Hannah exited the kitchen and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the kitchen for 10 minutes.
-12 Jacob exited the kitchen and stayed in the waiting_room.
-13 Hannah publicly claimed that pumpkin is in the blue_bottle.
-14 Jacob privately told Oliver that the pumpkin is actually in the green_bathtub.
-15 Jackson, Oliver and Jacob entered the hallway.
-16 The banana is in the blue_suitcase.
-17 Jackson moved the banana to the red_bottle.
-18 Jackson exited the hallway and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the hallway for 10 minutes.
-20 Oliver exited the hallway and stayed in the waiting_room.
-21 Jacob moved the banana to the green_suitcase.
-22 Jacob exited the hallway and stayed in the waiting_room.
-23 Jacob, Hannah, James and Jackson entered the hallway.
-24 The banana is in the green_suitcase.
-25 Jacob made no movements and stayed in the hallway for 10 minutes.
-26 Jacob exited the hallway and stayed in the waiting_room.
-27 Hannah made no movements and stayed in the hallway for 10 minutes.
-28 Hannah exited the hallway and stayed in the waiting_room.
-29 James made no movements and stayed in the hallway for 10 minutes.
-30 James exited the hallway and stayed in the waiting_room.
-31 Jackson moved the banana to the red_container.
-32 Jackson exited the hallway and stayed in the waiting_room.
-33 Hannah publicly claimed that banana is in the green_suitcase.
-34 Jackson privately told James that the banana is actually in the red_bottle.
-Question: Where does Jacob think Hannah thinks Oliver thinks James thinks the pumpkin is?
-Choices: A. blue_bottle, B. red_envelope, C. blue_drawer, D. green_bathtub, E. blue_treasure_chest, F. green_cupboard, G. blue_envelope, H. green_envelope, I. blue_pantry, J. red_bucket, K. blue_suitcase, L. green_container, M. red_bottle, N. red_container, O. green_suitcase
+1 Chloe, Hannah, Jack, Isla and Nathan entered the dining_room.
+2 The broccoli is in the green_box.
+3 Chloe made no movements and stayed in the dining_room for 10 minutes.
+4 Chloe exited the dining_room and stayed in the waiting_room.
+5 Chloe likes the blue_suitcase.
+6 Hannah made no movements and stayed in the dining_room for 10 minutes.
+7 Hannah exited the dining_room and stayed in the waiting_room.
+8 Jack moved the broccoli to the blue_envelope.
+9 Jack exited the dining_room and stayed in the waiting_room.
+10 Isla moved the broccoli to the green_basket.
+11 Isla exited the dining_room and stayed in the waiting_room.
+12 Nathan made no movements and stayed in the dining_room for 10 minutes.
+13 Nathan exited the dining_room and stayed in the waiting_room.
+14 Jack publicly claimed that broccoli is in the blue_envelope.
+15 Jack lost his watch.
+16 Nathan privately told Jack that the broccoli is actually in the green_box.
+17 Jack, Chloe and Nathan entered the dining_room.
+18 The cabbage is in the blue_envelope.
+19 Jack moved the cabbage to the green_basket.
+20 Jack exited the dining_room and stayed in the waiting_room.
+21 Chloe made no movements and stayed in the dining_room for 10 minutes.
+22 Chloe exited the dining_room and stayed in the waiting_room.
+23 Nathan made no movements and stayed in the dining_room for 10 minutes.
+24 Nathan exited the dining_room and stayed in the waiting_room.
+25 Isla, Chloe, Nathan and Hannah entered the dining_room.
+26 Nathan likes the blue_bottle.
+27 The broccoli is in the green_basket.
+28 Isla moved the broccoli to the blue_envelope.
+29 Isla exited the dining_room and stayed in the waiting_room.
+30 Chloe moved the broccoli to the blue_suitcase.
+31 Chloe exited the dining_room and stayed in the waiting_room.
+32 Nathan moved the broccoli to the green_box.
+33 Nathan exited the dining_room and stayed in the waiting_room.
+34 Hannah moved the broccoli to the green_bathtub.
+35 Hannah exited the dining_room and stayed in the waiting_room.
+36 Isla publicly claimed that broccoli is in the green_box.
+37 Hannah privately told Jack that the broccoli is actually in the green_bathtub.
+Question: Where does Nathan think Jack thinks Isla thinks Hannah thinks the broccoli is?
+Choices: A. blue_drawer, B. red_envelope, C. red_cupboard, D. red_treasure_chest, E. blue_bottle, F. blue_envelope, G. green_box, H. green_basket, I. green_bathtub, J. blue_suitcase, K. red_bathtub, L. green_cupboard, M. red_basket, N. red_crate, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

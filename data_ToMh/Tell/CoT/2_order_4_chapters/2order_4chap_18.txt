@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ava, Jackson, Noah, Avery and Jack entered the lounge.
-2 The beans is in the red_bathtub.
-3 Ava moved the beans to the red_basket.
-4 Ava exited the lounge and stayed in the waiting_room.
-5 Jackson made no movements and stayed in the lounge for 10 minutes.
-6 Jackson exited the lounge and stayed in the waiting_room.
-7 Noah moved the beans to the green_suitcase.
-8 Noah exited the lounge and stayed in the waiting_room.
-9 Avery moved the beans to the blue_container.
-10 Avery exited the lounge and stayed in the waiting_room.
-11 Jack made no movements and stayed in the lounge for 10 minutes.
-12 Jack exited the lounge and stayed in the waiting_room.
-13 Avery, Jackson and Noah entered the lounge.
-14 The pumpkin is in the red_basket.
-15 Avery moved the pumpkin to the blue_container.
-16 Avery exited the lounge and stayed in the waiting_room.
-17 Jackson made no movements and stayed in the lounge for 10 minutes.
-18 Jackson exited the lounge and stayed in the waiting_room.
-19 Noah made no movements and stayed in the lounge for 10 minutes.
-20 Noah exited the lounge and stayed in the waiting_room.
-21 Jackson privately told Noah that the pumpkin is actually in the blue_container.
-22 Noah privately told Jack that the pumpkin is actually in the blue_container.
-23 Jackson, Noah, Avery and Jack entered the playroom.
-24 The apple is in the blue_box.
-25 Jackson moved the apple to the red_drawer.
-26 Jackson exited the playroom and stayed in the waiting_room.
-27 Noah moved the apple to the green_envelope.
-28 Noah exited the playroom and stayed in the waiting_room.
-29 Avery moved the apple to the blue_bucket.
-30 Avery exited the playroom and stayed in the waiting_room.
-31 Jack moved the apple to the red_bottle.
-32 Jack exited the playroom and stayed in the waiting_room.
-33 Jack and Noah entered the bathroom.
-34 The tangerine is in the red_treasure_chest.
-35 Jack moved the tangerine to the blue_bathtub.
-36 Jack exited the bathroom and stayed in the waiting_room.
-37 Noah moved the tangerine to the green_bathtub.
-38 Noah exited the bathroom and stayed in the waiting_room.
-39 Noah publicly claimed that tangerine is in the red_treasure_chest.
-40 Jack privately told Noah that the tangerine is actually in the red_suitcase.
-Question: Where does Jackson think Noah thinks the beans is?
-Answer: blue_container
-Choices: A. red_bottle, B. blue_box, C. blue_bucket, D. red_drawer, E. green_envelope, F. red_basket, G. red_bathtub, H. blue_container, I. blue_drawer, J. green_suitcase, K. red_treasure_chest, L. green_treasure_chest, M. red_suitcase, N. blue_bathtub, O. green_bathtub
+1 Isla, Isabella, Owen, Emma and Emily entered the pantry.
+2 The beans is in the green_pantry.
+3 Isla made no movements and stayed in the pantry for 10 minutes.
+4 Isla exited the pantry and stayed in the waiting_room.
+5 Isabella moved the beans to the red_basket.
+6 Isabella exited the pantry and stayed in the waiting_room.
+7 Owen made no movements and stayed in the pantry for 10 minutes.
+8 Owen exited the pantry and stayed in the waiting_room.
+9 Emma moved the beans to the blue_drawer.
+10 Emma exited the pantry and stayed in the waiting_room.
+11 Emma dislikes the celery.
+12 Emily made no movements and stayed in the pantry for 10 minutes.
+13 Emily exited the pantry and stayed in the waiting_room.
+14 Emma lost his bottle.
+15 Isla, Emma and Emily entered the master_bedroom.
+16 The watermelon is in the red_crate.
+17 Isla made no movements and stayed in the master_bedroom for 10 minutes.
+18 Isla exited the master_bedroom and stayed in the waiting_room.
+19 Emma moved the watermelon to the green_suitcase.
+20 Emma exited the master_bedroom and stayed in the waiting_room.
+21 Emily moved the watermelon to the red_box.
+22 Emily exited the master_bedroom and stayed in the waiting_room.
+23 Emma privately told Emily that the watermelon is actually in the red_box.
+24 Emily privately told Owen that the watermelon is actually in the red_box.
+25 Isabella, Isla, Emma and Emily entered the porch.
+26 The persimmon is in the red_bucket.
+27 Isabella made no movements and stayed in the porch for 10 minutes.
+28 Isabella exited the porch and stayed in the waiting_room.
+29 Isla made no movements and stayed in the porch for 10 minutes.
+30 Isla exited the porch and stayed in the waiting_room.
+31 Emma made no movements and stayed in the porch for 10 minutes.
+32 Emma exited the porch and stayed in the waiting_room.
+33 Isla lost his phone.
+34 Emily made no movements and stayed in the porch for 10 minutes.
+35 Emily exited the porch and stayed in the waiting_room.
+36 Isabella and Isla entered the pantry.
+37 The beans is in the blue_drawer.
+38 Isabella made no movements and stayed in the pantry for 10 minutes.
+39 Isabella exited the pantry and stayed in the waiting_room.
+40 Emily likes the blue_treasure_chest.
+41 Isla moved the beans to the red_basket.
+42 Isla exited the pantry and stayed in the waiting_room.
+43 Isabella publicly claimed that beans is in the green_pantry.
+44 Isla privately told Isabella that the beans is actually in the blue_suitcase.
+Question: Where does Emma think Isabella thinks the beans is?
+Answer: green_pantry
+Choices: A. blue_drawer, B. green_pantry, C. red_basket, D. blue_suitcase, E. blue_bottle, F. green_treasure_chest, G. red_crate, H. red_bathtub, I. green_suitcase, J. red_box, K. red_bottle, L. red_bucket, M. blue_treasure_chest, N. blue_envelope, O. green_bathtub

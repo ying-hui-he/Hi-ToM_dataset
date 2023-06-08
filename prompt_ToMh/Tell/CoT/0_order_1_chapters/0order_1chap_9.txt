@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ava, Ella, Aiden, Noah and Isla entered the kitchen.
-2 The spinach is in the red_treasure_chest.
-3 Ava moved the spinach to the green_container.
-4 Ava exited the kitchen and stayed in the waiting_room.
-5 Ella made no movements and stayed in the kitchen for 10 minutes.
-6 Ella exited the kitchen and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the kitchen for 10 minutes.
-8 Aiden exited the kitchen and stayed in the waiting_room.
-9 Noah moved the spinach to the blue_crate.
-10 Noah exited the kitchen and stayed in the waiting_room.
-11 Isla made no movements and stayed in the kitchen for 10 minutes.
-12 Isla exited the kitchen and stayed in the waiting_room.
-13 Aiden privately told Ava that the spinach is actually in the red_suitcase.
-14 Ella privately told Noah that the spinach is actually in the red_treasure_chest.
-Question: Where is the spinach really?
-Choices: A. red_envelope, B. red_bucket, C. blue_suitcase, D. red_drawer, E. green_crate, F. red_treasure_chest, G. green_container, H. blue_pantry, I. red_suitcase, J. blue_crate, K. blue_bottle, L. blue_treasure_chest, M. green_cupboard, N. red_bottle, O. green_bathtub
+1 Chloe, Hannah, Jayden, Sophia and Mia entered the bedroom.
+2 The grapes is in the red_bathtub.
+3 Chloe made no movements and stayed in the bedroom for 10 minutes.
+4 Chloe exited the bedroom and stayed in the waiting_room.
+5 Hannah moved the grapes to the red_treasure_chest.
+6 Hannah exited the bedroom and stayed in the waiting_room.
+7 Jayden moved the grapes to the red_cupboard.
+8 Jayden exited the bedroom and stayed in the waiting_room.
+9 Sophia moved the grapes to the blue_crate.
+10 Sophia exited the bedroom and stayed in the waiting_room.
+11 Mia made no movements and stayed in the bedroom for 10 minutes.
+12 Mia exited the bedroom and stayed in the waiting_room.
+13 Jayden privately told Chloe that the grapes is actually in the red_cupboard.
+14 Hannah privately told Sophia that the grapes is actually in the red_crate.
+15 Mia dislikes the cucumber.
+Question: Where is the grapes really?
+Choices: A. red_container, B. green_suitcase, C. green_bucket, D. blue_suitcase, E. red_envelope, F. red_bucket, G. red_box, H. red_pantry, I. blue_bucket, J. blue_treasure_chest, K. red_cupboard, L. red_bathtub, M. blue_crate, N. red_crate, O. red_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

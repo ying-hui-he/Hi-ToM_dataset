@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Jack, Abigail, Ella and Aria entered the office.
-2 The banana is in the red_bathtub.
-3 Logan made no movements and stayed in the office for 10 minutes.
-4 Logan exited the office and stayed in the waiting_room.
-5 Jack moved the banana to the blue_container.
-6 Jack exited the office and stayed in the waiting_room.
-7 Abigail moved the banana to the red_envelope.
-8 Abigail exited the office and stayed in the waiting_room.
-9 Ella moved the banana to the red_bottle.
-10 Ella exited the office and stayed in the waiting_room.
-11 Aria moved the banana to the red_bathtub.
-12 Aria exited the office and stayed in the waiting_room.
-13 Aria, Ella and Abigail entered the office.
-14 The orange is in the red_bottle.
-15 Aria made no movements and stayed in the office for 10 minutes.
-16 Aria exited the office and stayed in the waiting_room.
-17 Ella moved the orange to the blue_container.
-18 Ella exited the office and stayed in the waiting_room.
-19 Abigail moved the orange to the red_envelope.
-20 Abigail exited the office and stayed in the waiting_room.
-Question: Where does Jack think Abigail thinks Logan thinks the banana is?
-Choices: A. green_cupboard, B. blue_suitcase, C. blue_crate, D. red_container, E. blue_treasure_chest, F. red_bathtub, G. red_bottle, H. blue_container, I. red_envelope, J. red_crate, K. blue_envelope, L. red_treasure_chest, M. green_suitcase, N. blue_bucket, O. blue_pantry
+1 Sophia, Lucas, Abigail, Jacob and Logan entered the playroom.
+2 Logan likes the red_container.
+3 The tangerine is in the red_box.
+4 Sophia moved the tangerine to the red_bucket.
+5 Sophia exited the playroom and stayed in the waiting_room.
+6 Lucas made no movements and stayed in the playroom for 10 minutes.
+7 Lucas exited the playroom and stayed in the waiting_room.
+8 Abigail moved the tangerine to the red_treasure_chest.
+9 Abigail exited the playroom and stayed in the waiting_room.
+10 Jacob made no movements and stayed in the playroom for 10 minutes.
+11 Jacob exited the playroom and stayed in the waiting_room.
+12 Logan moved the tangerine to the red_box.
+13 Jacob lost his phone.
+14 Logan exited the playroom and stayed in the waiting_room.
+15 Logan, Lucas and Sophia entered the playroom.
+16 The tangerine is in the red_box.
+17 Logan made no movements and stayed in the playroom for 10 minutes.
+18 Logan dislikes the lettuce.
+19 Logan exited the playroom and stayed in the waiting_room.
+20 Lucas moved the tangerine to the red_bucket.
+21 Lucas exited the playroom and stayed in the waiting_room.
+22 Sophia moved the tangerine to the blue_treasure_chest.
+23 Sophia exited the playroom and stayed in the waiting_room.
+Question: Where does Jacob think Logan thinks Lucas thinks the tangerine is?
+Choices: A. blue_bucket, B. green_box, C. red_basket, D. green_bottle, E. green_cupboard, F. red_container, G. green_suitcase, H. green_envelope, I. red_pantry, J. green_basket, K. red_treasure_chest, L. red_box, M. red_bucket, N. blue_treasure_chest, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

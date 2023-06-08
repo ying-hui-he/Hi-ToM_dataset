@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, Emma, Avery, Aiden and Hannah entered the hallway.
-2 The plum is in the blue_pantry.
-3 Ava made no movements and stayed in the hallway for 10 minutes.
-4 Ava exited the hallway and stayed in the waiting_room.
-5 Emma made no movements and stayed in the hallway for 10 minutes.
-6 Emma exited the hallway and stayed in the waiting_room.
-7 Avery moved the plum to the blue_suitcase.
-8 Avery exited the hallway and stayed in the waiting_room.
-9 Aiden moved the plum to the green_envelope.
-10 Aiden exited the hallway and stayed in the waiting_room.
-11 Hannah moved the plum to the blue_pantry.
-12 Hannah exited the hallway and stayed in the waiting_room.
-13 Aiden, Avery and Ava entered the study.
-14 The radish is in the blue_box.
-15 Aiden moved the radish to the green_cupboard.
-16 Aiden exited the study and stayed in the waiting_room.
-17 Avery moved the radish to the red_container.
-18 Avery exited the study and stayed in the waiting_room.
-19 Ava moved the radish to the blue_bucket.
-20 Ava exited the study and stayed in the waiting_room.
-21 Hannah, Aiden, Ava and Avery entered the hallway.
-22 The plum is in the blue_pantry.
-23 Hannah moved the plum to the blue_basket.
-24 Hannah exited the hallway and stayed in the waiting_room.
-25 Aiden made no movements and stayed in the hallway for 10 minutes.
-26 Aiden exited the hallway and stayed in the waiting_room.
-27 Ava moved the plum to the green_suitcase.
-28 Ava exited the hallway and stayed in the waiting_room.
-29 Avery moved the plum to the green_envelope.
-30 Avery exited the hallway and stayed in the waiting_room.
-31 Hannah and Aiden entered the living_room.
-32 The beans is in the green_treasure_chest.
-33 Hannah moved the beans to the red_envelope.
-34 Hannah exited the living_room and stayed in the waiting_room.
-35 Aiden moved the beans to the blue_drawer.
-36 Aiden exited the living_room and stayed in the waiting_room.
-Question: Where is the plum really?
-Choices: A. blue_box, B. red_container, C. blue_bucket, D. green_container, E. green_cupboard, F. blue_bottle, G. green_treasure_chest, H. blue_drawer, I. blue_crate, J. red_envelope, K. blue_basket, L. blue_pantry, M. green_envelope, N. blue_suitcase, O. green_suitcase
+1 Isabella, Emma, Jayden, Ella and Alexander entered the den.
+2 The grapes is in the blue_bottle.
+3 Isabella moved the grapes to the red_crate.
+4 Isabella exited the den and stayed in the waiting_room.
+5 Emma moved the grapes to the green_envelope.
+6 Emma exited the den and stayed in the waiting_room.
+7 Jayden moved the grapes to the green_pantry.
+8 Jayden exited the den and stayed in the waiting_room.
+9 Ella moved the grapes to the green_basket.
+10 Ella exited the den and stayed in the waiting_room.
+11 Alexander made no movements and stayed in the den for 10 minutes.
+12 Alexander exited the den and stayed in the waiting_room.
+13 Isabella, Emma and Ella entered the workshop.
+14 The tangerine is in the blue_treasure_chest.
+15 Isabella made no movements and stayed in the workshop for 10 minutes.
+16 Isabella exited the workshop and stayed in the waiting_room.
+17 Emma moved the tangerine to the red_envelope.
+18 Emma exited the workshop and stayed in the waiting_room.
+19 Ella made no movements and stayed in the workshop for 10 minutes.
+20 Ella exited the workshop and stayed in the waiting_room.
+21 Isabella, Jayden, Alexander and Ella entered the den.
+22 The pineapple is in the red_crate.
+23 Isabella moved the pineapple to the green_basket.
+24 Isabella exited the den and stayed in the waiting_room.
+25 Jayden moved the pineapple to the green_envelope.
+26 Jayden exited the den and stayed in the waiting_room.
+27 Alexander moved the pineapple to the green_pantry.
+28 Alexander exited the den and stayed in the waiting_room.
+29 Isabella dislikes the pineapple.
+30 Ella moved the pineapple to the blue_bottle.
+31 Ella exited the den and stayed in the waiting_room.
+32 Alexander and Emma entered the garden.
+33 The asparagus is in the green_bucket.
+34 Alexander moved the asparagus to the red_container.
+35 Alexander exited the garden and stayed in the waiting_room.
+36 Emma made no movements and stayed in the garden for 10 minutes.
+37 Emma exited the garden and stayed in the waiting_room.
+38 Jayden dislikes the tangerine.
+Question: Where is the grapes really?
+Choices: A. red_envelope, B. blue_treasure_chest, C. red_box, D. blue_suitcase, E. blue_drawer, F. red_cupboard, G. green_bucket, H. red_container, I. blue_bathtub, J. blue_crate, K. red_crate, L. blue_bottle, M. green_pantry, N. green_basket, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

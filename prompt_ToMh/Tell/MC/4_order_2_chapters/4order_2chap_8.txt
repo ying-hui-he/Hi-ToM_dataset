@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Charlotte, Aria, Emily, Gracie and Amelia entered the TV_room.
-2 The pear is in the blue_basket.
-3 Charlotte made no movements and stayed in the TV_room for 10 minutes.
-4 Charlotte exited the TV_room and stayed in the waiting_room.
-5 Aria moved the pear to the blue_bottle.
-6 Aria exited the TV_room and stayed in the waiting_room.
-7 Emily made no movements and stayed in the TV_room for 10 minutes.
-8 Emily exited the TV_room and stayed in the waiting_room.
-9 Gracie moved the pear to the green_container.
-10 Gracie exited the TV_room and stayed in the waiting_room.
-11 Amelia moved the pear to the blue_basket.
-12 Amelia exited the TV_room and stayed in the waiting_room.
-13 Aria, Charlotte and Amelia entered the sunroom.
-14 The grapefruit is in the red_bucket.
-15 Aria made no movements and stayed in the sunroom for 10 minutes.
-16 Aria exited the sunroom and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the sunroom for 10 minutes.
-18 Charlotte exited the sunroom and stayed in the waiting_room.
-19 Amelia moved the grapefruit to the blue_treasure_chest.
-20 Amelia exited the sunroom and stayed in the waiting_room.
-21 Amelia publicly claimed that grapefruit is in the blue_drawer.
-22 Aria privately told Amelia that the grapefruit is actually in the blue_treasure_chest.
-Question: Where does Gracie think Charlotte thinks Aria thinks Emily thinks the pear is?
-Choices: A. red_bucket, B. blue_drawer, C. green_envelope, D. blue_treasure_chest, E. green_crate, F. red_crate, G. red_container, H. red_bathtub, I. blue_envelope, J. red_basket, K. red_treasure_chest, L. blue_basket, M. blue_bottle, N. red_bottle, O. green_container
+1 Chloe, Jackson, Hannah, Logan and Jayden entered the hall.
+2 The cabbage is in the red_cupboard.
+3 Hannah saw a mouse.
+4 Chloe moved the cabbage to the green_treasure_chest.
+5 Chloe exited the hall and stayed in the waiting_room.
+6 Jackson moved the cabbage to the green_cupboard.
+7 Jackson exited the hall and stayed in the waiting_room.
+8 Hannah moved the cabbage to the green_bucket.
+9 Hannah exited the hall and stayed in the waiting_room.
+10 Logan made no movements and stayed in the hall for 10 minutes.
+11 Logan exited the hall and stayed in the waiting_room.
+12 Jayden moved the cabbage to the red_cupboard.
+13 Jayden exited the hall and stayed in the waiting_room.
+14 Logan, Chloe and Jackson entered the dining_room.
+15 The grapefruit is in the red_container.
+16 Logan moved the grapefruit to the red_box.
+17 Logan exited the dining_room and stayed in the waiting_room.
+18 Chloe made no movements and stayed in the dining_room for 10 minutes.
+19 Chloe exited the dining_room and stayed in the waiting_room.
+20 Jackson made no movements and stayed in the dining_room for 10 minutes.
+21 Hannah saw a mouse.
+22 Jackson exited the dining_room and stayed in the waiting_room.
+23 Chloe publicly claimed that grapefruit is in the red_box.
+24 Jackson privately told Chloe that the grapefruit is actually in the blue_cupboard.
+Question: Where does Logan think Jackson thinks Hannah thinks Jayden thinks the cabbage is?
+Choices: A. red_bathtub, B. green_bathtub, C. red_envelope, D. green_pantry, E. green_bottle, F. red_container, G. blue_cupboard, H. green_basket, I. red_box, J. red_pantry, K. green_cupboard, L. red_cupboard, M. blue_bathtub, N. green_bucket, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

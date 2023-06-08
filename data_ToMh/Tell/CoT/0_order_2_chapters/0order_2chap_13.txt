@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mila, Emma, Abigail, Emily and Hannah entered the basement.
-2 The strawberry is in the red_envelope.
-3 Mila moved the strawberry to the blue_box.
-4 Mila exited the basement and stayed in the waiting_room.
-5 Emma moved the strawberry to the green_bottle.
-6 Emma exited the basement and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the basement for 10 minutes.
-8 Abigail exited the basement and stayed in the waiting_room.
-9 Emily moved the strawberry to the red_crate.
-10 Emily exited the basement and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the basement for 10 minutes.
-12 Hannah exited the basement and stayed in the waiting_room.
-13 Mila, Emma and Emily entered the basement.
-14 The beans is in the green_bottle.
-15 Mila made no movements and stayed in the basement for 10 minutes.
-16 Mila exited the basement and stayed in the waiting_room.
-17 Emma moved the beans to the red_envelope.
-18 Emma exited the basement and stayed in the waiting_room.
-19 Emily made no movements and stayed in the basement for 10 minutes.
-20 Emily exited the basement and stayed in the waiting_room.
-21 Emma publicly claimed that beans is in the red_crate.
-22 Emily privately told Emma that the beans is actually in the blue_bottle.
-Question: Where is the strawberry really?
-Answer: red_crate
-Choices: A. red_envelope, B. green_bottle, C. red_crate, D. blue_box, E. blue_bottle, F. red_suitcase, G. red_treasure_chest, H. red_bucket, I. green_suitcase, J. green_cupboard, K. red_basket, L. blue_treasure_chest, M. blue_envelope, N. blue_container, O. blue_drawer
+1 Aiden dislikes the radish.
+2 Emily, Amelia, Owen, Mila and Aiden entered the TV_room.
+3 The corn is in the green_pantry.
+4 Aiden likes the green_bottle.
+5 Emily moved the corn to the green_treasure_chest.
+6 Emily exited the TV_room and stayed in the waiting_room.
+7 Amelia moved the corn to the blue_envelope.
+8 Amelia exited the TV_room and stayed in the waiting_room.
+9 Owen moved the corn to the blue_bathtub.
+10 Owen exited the TV_room and stayed in the waiting_room.
+11 Mila made no movements and stayed in the TV_room for 10 minutes.
+12 Mila exited the TV_room and stayed in the waiting_room.
+13 Aiden made no movements and stayed in the TV_room for 10 minutes.
+14 Aiden exited the TV_room and stayed in the waiting_room.
+15 Emily, Aiden and Amelia entered the TV_room.
+16 The corn is in the blue_bathtub.
+17 Emily made no movements and stayed in the TV_room for 10 minutes.
+18 Emily exited the TV_room and stayed in the waiting_room.
+19 Amelia likes the green_bottle.
+20 Aiden made no movements and stayed in the TV_room for 10 minutes.
+21 Aiden exited the TV_room and stayed in the waiting_room.
+22 Amelia moved the corn to the blue_envelope.
+23 Amelia exited the TV_room and stayed in the waiting_room.
+24 Emily publicly claimed that corn is in the red_cupboard.
+25 Amelia privately told Owen that the corn is actually in the blue_envelope.
+Question: Where is the corn really?
+Answer: blue_envelope
+Choices: A. red_basket, B. blue_bottle, C. red_pantry, D. blue_drawer, E. green_bottle, F. red_crate, G. red_box, H. red_bathtub, I. blue_bucket, J. blue_treasure_chest, K. green_treasure_chest, L. green_pantry, M. blue_envelope, N. blue_bathtub, O. red_cupboard

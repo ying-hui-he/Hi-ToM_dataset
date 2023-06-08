@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emily, Aiden, Jackson, Jacob and Gracie entered the lounge.
-2 The pineapple is in the green_container.
-3 Emily made no movements and stayed in the lounge for 10 minutes.
-4 Emily exited the lounge and stayed in the waiting_room.
-5 Aiden moved the pineapple to the red_container.
-6 Aiden exited the lounge and stayed in the waiting_room.
-7 Jackson moved the pineapple to the red_drawer.
-8 Jackson exited the lounge and stayed in the waiting_room.
-9 Jacob moved the pineapple to the green_cupboard.
-10 Jacob exited the lounge and stayed in the waiting_room.
-11 Gracie moved the pineapple to the green_container.
-12 Gracie exited the lounge and stayed in the waiting_room.
-13 Gracie, Aiden and Jackson entered the closet.
-14 The beans is in the blue_container.
-15 Gracie made no movements and stayed in the closet for 10 minutes.
-16 Gracie exited the closet and stayed in the waiting_room.
-17 Aiden moved the beans to the green_suitcase.
-18 Aiden exited the closet and stayed in the waiting_room.
-19 Jackson made no movements and stayed in the closet for 10 minutes.
-20 Jackson exited the closet and stayed in the waiting_room.
-21 Emily, Jacob, Aiden and Jackson entered the patio.
-22 The pumpkin is in the red_envelope.
-23 Emily made no movements and stayed in the patio for 10 minutes.
-24 Emily exited the patio and stayed in the waiting_room.
-25 Jacob moved the pumpkin to the red_crate.
-26 Jacob exited the patio and stayed in the waiting_room.
-27 Aiden moved the pumpkin to the blue_crate.
-28 Aiden exited the patio and stayed in the waiting_room.
-29 Jackson made no movements and stayed in the patio for 10 minutes.
-30 Jackson exited the patio and stayed in the waiting_room.
-Question: Where is the pineapple really?
-Answer: green_container
-Choices: A. red_container, B. green_container, C. blue_bucket, D. green_cupboard, E. red_drawer, F. blue_envelope, G. red_envelope, H. red_crate, I. blue_crate, J. blue_treasure_chest, K. blue_container, L. red_treasure_chest, M. green_crate, N. green_bathtub, O. green_suitcase
+1 Ethan, Gracie, Mia, Alexander and Mason entered the office.
+2 The carrot is in the green_pantry.
+3 Ethan moved the carrot to the red_bottle.
+4 Ethan exited the office and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the office for 10 minutes.
+6 Gracie exited the office and stayed in the waiting_room.
+7 Mia moved the carrot to the green_bottle.
+8 Mia exited the office and stayed in the waiting_room.
+9 Alexander made no movements and stayed in the office for 10 minutes.
+10 Alexander exited the office and stayed in the waiting_room.
+11 Mia saw a monkey.
+12 Mason moved the carrot to the green_pantry.
+13 Mason exited the office and stayed in the waiting_room.
+14 Ethan, Mason and Mia entered the office.
+15 The carrot is in the green_pantry.
+16 Ethan dislikes the pumpkin.
+17 Ethan made no movements and stayed in the office for 10 minutes.
+18 Ethan exited the office and stayed in the waiting_room.
+19 Mason moved the carrot to the blue_drawer.
+20 Mason exited the office and stayed in the waiting_room.
+21 Mia made no movements and stayed in the office for 10 minutes.
+22 Mia exited the office and stayed in the waiting_room.
+23 Ethan, Alexander, Mason and Mia entered the hallway.
+24 The cabbage is in the red_cupboard.
+25 Ethan made no movements and stayed in the hallway for 10 minutes.
+26 Ethan exited the hallway and stayed in the waiting_room.
+27 Alexander made no movements and stayed in the hallway for 10 minutes.
+28 Alexander exited the hallway and stayed in the waiting_room.
+29 Mason made no movements and stayed in the hallway for 10 minutes.
+30 Mason exited the hallway and stayed in the waiting_room.
+31 Mia moved the cabbage to the green_treasure_chest.
+32 Mia exited the hallway and stayed in the waiting_room.
+Question: Where is the carrot really?
+Answer: blue_drawer
+Choices: A. green_envelope, B. red_cupboard, C. green_treasure_chest, D. blue_bottle, E. blue_bucket, F. red_pantry, G. blue_bathtub, H. red_basket, I. red_bucket, J. blue_treasure_chest, K. green_bottle, L. green_pantry, M. red_treasure_chest, N. red_bottle, O. blue_drawer

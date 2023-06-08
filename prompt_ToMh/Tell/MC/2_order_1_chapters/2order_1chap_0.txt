@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Mila, Ella, Olivia and Hannah entered the back_yard.
-2 The potato is in the blue_envelope.
-3 Benjamin made no movements and stayed in the back_yard for 10 minutes.
-4 Benjamin exited the back_yard and stayed in the waiting_room.
-5 Mila made no movements and stayed in the back_yard for 10 minutes.
-6 Mila exited the back_yard and stayed in the waiting_room.
-7 Ella moved the potato to the red_bathtub.
-8 Ella exited the back_yard and stayed in the waiting_room.
-9 Olivia moved the potato to the blue_suitcase.
-10 Olivia exited the back_yard and stayed in the waiting_room.
-11 Hannah moved the potato to the blue_envelope.
-12 Hannah exited the back_yard and stayed in the waiting_room.
-13 Ella publicly claimed that potato is in the red_bathtub.
-14 Hannah privately told Ella that the potato is actually in the blue_bucket.
-Question: Where does Benjamin think Ella thinks the potato is?
-Choices: A. red_bottle, B. red_basket, C. blue_crate, D. red_suitcase, E. blue_treasure_chest, F. blue_envelope, G. red_bucket, H. blue_suitcase, I. red_bathtub, J. blue_bucket, K. red_crate, L. red_envelope, M. red_drawer, N. red_treasure_chest, O. blue_container
+1 Gracie, Jacob, Owen, Mia and Charlotte entered the staircase.
+2 The strawberry is in the blue_cupboard.
+3 Gracie moved the strawberry to the red_bucket.
+4 Gracie exited the staircase and stayed in the waiting_room.
+5 Charlotte dislikes the melon.
+6 Jacob moved the strawberry to the red_envelope.
+7 Jacob exited the staircase and stayed in the waiting_room.
+8 Owen made no movements and stayed in the staircase for 10 minutes.
+9 Owen exited the staircase and stayed in the waiting_room.
+10 Mia made no movements and stayed in the staircase for 10 minutes.
+11 Mia dislikes the strawberry.
+12 Mia exited the staircase and stayed in the waiting_room.
+13 Charlotte moved the strawberry to the blue_cupboard.
+14 Charlotte exited the staircase and stayed in the waiting_room.
+15 Owen publicly claimed that strawberry is in the green_cupboard.
+16 Charlotte privately told Owen that the strawberry is actually in the blue_bathtub.
+Question: Where does Charlotte think Owen thinks the strawberry is?
+Choices: A. green_envelope, B. red_container, C. blue_treasure_chest, D. red_basket, E. blue_bottle, F. green_bucket, G. blue_crate, H. red_crate, I. green_bathtub, J. green_treasure_chest, K. blue_cupboard, L. red_envelope, M. green_cupboard, N. red_bucket, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

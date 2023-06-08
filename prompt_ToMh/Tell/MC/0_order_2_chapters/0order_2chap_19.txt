@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Charlotte, Noah, Ava and William entered the kitchen.
-2 The beans is in the red_bucket.
-3 Owen made no movements and stayed in the kitchen for 10 minutes.
-4 Owen exited the kitchen and stayed in the waiting_room.
-5 Charlotte made no movements and stayed in the kitchen for 10 minutes.
-6 Charlotte exited the kitchen and stayed in the waiting_room.
-7 Noah made no movements and stayed in the kitchen for 10 minutes.
-8 Noah exited the kitchen and stayed in the waiting_room.
-9 Ava moved the beans to the red_treasure_chest.
-10 Ava exited the kitchen and stayed in the waiting_room.
-11 William made no movements and stayed in the kitchen for 10 minutes.
-12 William exited the kitchen and stayed in the waiting_room.
-13 Noah, William and Ava entered the kitchen.
-14 The beans is in the red_treasure_chest.
-15 Noah moved the beans to the red_bucket.
-16 Noah exited the kitchen and stayed in the waiting_room.
-17 William moved the beans to the blue_bucket.
-18 William exited the kitchen and stayed in the waiting_room.
-19 Ava moved the beans to the red_basket.
-20 Ava exited the kitchen and stayed in the waiting_room.
-21 William publicly claimed that beans is in the blue_bucket.
-22 Ava privately told William that the beans is actually in the red_bucket.
-Question: Where is the beans really?
-Choices: A. blue_bucket, B. red_bucket, C. red_basket, D. red_treasure_chest, E. red_bottle, F. blue_container, G. green_suitcase, H. blue_basket, I. blue_crate, J. green_container, K. blue_box, L. blue_pantry, M. blue_suitcase, N. red_bathtub, O. red_suitcase
+1 Mia, Chloe, Ava, Gracie and Mila entered the cellar.
+2 The melon is in the red_basket.
+3 Mia made no movements and stayed in the cellar for 10 minutes.
+4 Mia exited the cellar and stayed in the waiting_room.
+5 Chloe made no movements and stayed in the cellar for 10 minutes.
+6 Mia dislikes the melon.
+7 Chloe exited the cellar and stayed in the waiting_room.
+8 Ava made no movements and stayed in the cellar for 10 minutes.
+9 Ava exited the cellar and stayed in the waiting_room.
+10 Gracie moved the melon to the red_bottle.
+11 Gracie exited the cellar and stayed in the waiting_room.
+12 Mia likes the red_envelope.
+13 Mila moved the melon to the red_basket.
+14 Mila exited the cellar and stayed in the waiting_room.
+15 Chloe, Ava and Gracie entered the back_yard.
+16 The lettuce is in the green_bottle.
+17 Chloe made no movements and stayed in the back_yard for 10 minutes.
+18 Chloe exited the back_yard and stayed in the waiting_room.
+19 Ava made no movements and stayed in the back_yard for 10 minutes.
+20 Ava exited the back_yard and stayed in the waiting_room.
+21 Gracie made no movements and stayed in the back_yard for 10 minutes.
+22 Gracie exited the back_yard and stayed in the waiting_room.
+23 Ava publicly claimed that lettuce is in the blue_suitcase.
+24 Gracie privately told Ava that the lettuce is actually in the green_basket.
+25 Mila lost his bottle.
+Question: Where is the melon really?
+Choices: A. blue_drawer, B. blue_bucket, C. red_bathtub, D. green_bucket, E. green_box, F. green_treasure_chest, G. green_bottle, H. blue_suitcase, I. green_basket, J. blue_bathtub, K. red_basket, L. red_envelope, M. red_cupboard, N. red_bottle, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

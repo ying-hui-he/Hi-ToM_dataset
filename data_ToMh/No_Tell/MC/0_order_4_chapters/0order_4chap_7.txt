@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Isla, Amelia, Aria, Abigail and Evelyn entered the master_bedroom.
-2 The banana is in the red_crate.
-3 Isla made no movements and stayed in the master_bedroom for 10 minutes.
-4 Isla exited the master_bedroom and stayed in the waiting_room.
-5 Amelia moved the banana to the green_bottle.
-6 Amelia exited the master_bedroom and stayed in the waiting_room.
-7 Aria moved the banana to the green_suitcase.
-8 Aria exited the master_bedroom and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
-10 Abigail exited the master_bedroom and stayed in the waiting_room.
-11 Evelyn made no movements and stayed in the master_bedroom for 10 minutes.
-12 Evelyn exited the master_bedroom and stayed in the waiting_room.
-13 Isla, Abigail and Evelyn entered the crawlspace.
-14 The pear is in the green_container.
-15 Isla made no movements and stayed in the crawlspace for 10 minutes.
-16 Isla exited the crawlspace and stayed in the waiting_room.
-17 Abigail moved the pear to the green_crate.
-18 Abigail exited the crawlspace and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the crawlspace for 10 minutes.
-20 Evelyn exited the crawlspace and stayed in the waiting_room.
-21 Evelyn, Amelia, Abigail and Isla entered the master_bedroom.
-22 The turnip is in the blue_envelope.
-23 Evelyn moved the turnip to the green_suitcase.
-24 Evelyn exited the master_bedroom and stayed in the waiting_room.
-25 Amelia moved the turnip to the green_treasure_chest.
-26 Amelia exited the master_bedroom and stayed in the waiting_room.
-27 Abigail moved the turnip to the red_crate.
-28 Abigail exited the master_bedroom and stayed in the waiting_room.
-29 Isla moved the turnip to the green_bottle.
-30 Isla exited the master_bedroom and stayed in the waiting_room.
-31 Abigail and Amelia entered the crawlspace.
-32 The pear is in the green_crate.
-33 Abigail made no movements and stayed in the crawlspace for 10 minutes.
-34 Abigail exited the crawlspace and stayed in the waiting_room.
-35 Amelia moved the pear to the green_container.
-36 Amelia exited the crawlspace and stayed in the waiting_room.
-Question: Where is the banana really?
-Answer: green_suitcase
-Choices: A. red_envelope, B. blue_pantry, C. red_basket, D. blue_box, E. red_drawer, F. blue_envelope, G. red_crate, H. green_bottle, I. green_treasure_chest, J. green_suitcase, K. green_crate, L. green_container, M. red_suitcase, N. blue_bathtub, O. red_bucket
+1 Mia saw a dog.
+2 Ethan, Lucas, Owen, Aria and Mia entered the front_yard.
+3 The persimmon is in the green_envelope.
+4 Ethan made no movements and stayed in the front_yard for 10 minutes.
+5 Ethan exited the front_yard and stayed in the waiting_room.
+6 Lucas moved the persimmon to the blue_bucket.
+7 Lucas exited the front_yard and stayed in the waiting_room.
+8 Owen made no movements and stayed in the front_yard for 10 minutes.
+9 Owen exited the front_yard and stayed in the waiting_room.
+10 Aria moved the persimmon to the blue_envelope.
+11 Aria exited the front_yard and stayed in the waiting_room.
+12 Mia moved the persimmon to the green_envelope.
+13 Aria dislikes the asparagus.
+14 Mia exited the front_yard and stayed in the waiting_room.
+15 Aria, Owen and Mia entered the back_yard.
+16 The melon is in the blue_treasure_chest.
+17 Aria made no movements and stayed in the back_yard for 10 minutes.
+18 Aria exited the back_yard and stayed in the waiting_room.
+19 Owen moved the melon to the blue_drawer.
+20 Owen exited the back_yard and stayed in the waiting_room.
+21 Mia made no movements and stayed in the back_yard for 10 minutes.
+22 Mia exited the back_yard and stayed in the waiting_room.
+23 Ethan, Lucas, Owen and Mia entered the sunroom.
+24 The grapes is in the red_bottle.
+25 Ethan moved the grapes to the red_box.
+26 Ethan exited the sunroom and stayed in the waiting_room.
+27 Aria dislikes the grapes.
+28 Lucas moved the grapes to the red_crate.
+29 Lucas exited the sunroom and stayed in the waiting_room.
+30 Aria dislikes the persimmon.
+31 Owen moved the grapes to the red_bucket.
+32 Owen exited the sunroom and stayed in the waiting_room.
+33 Mia made no movements and stayed in the sunroom for 10 minutes.
+34 Mia exited the sunroom and stayed in the waiting_room.
+35 Lucas and Ethan entered the back_yard.
+36 The broccoli is in the blue_drawer.
+37 Lucas moved the broccoli to the blue_treasure_chest.
+38 Lucas exited the back_yard and stayed in the waiting_room.
+39 Ethan made no movements and stayed in the back_yard for 10 minutes.
+40 Ethan exited the back_yard and stayed in the waiting_room.
+Question: Where is the persimmon really?
+Answer: green_envelope
+42 Owen likes the red_bucket.
+Choices: A. red_bottle, B. red_crate, C. red_bucket, D. green_pantry, E. red_box, F. blue_treasure_chest, G. blue_drawer, H. red_treasure_chest, I. green_bottle, J. red_bathtub, K. green_envelope, L. blue_envelope, M. green_basket, N. blue_bucket, O. green_treasure_chest

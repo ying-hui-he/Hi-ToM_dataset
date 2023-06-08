@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, Ava, Charlotte, Jackson and Noah entered the hallway.
-2 The corn is in the red_bucket.
-3 Oliver made no movements and stayed in the hallway for 10 minutes.
-4 Oliver exited the hallway and stayed in the waiting_room.
-5 Ava moved the corn to the red_bathtub.
-6 Ava exited the hallway and stayed in the waiting_room.
-7 Charlotte moved the corn to the blue_pantry.
-8 Charlotte exited the hallway and stayed in the waiting_room.
-9 Jackson moved the corn to the blue_bottle.
-10 Jackson exited the hallway and stayed in the waiting_room.
-11 Noah moved the corn to the red_bucket.
-12 Noah exited the hallway and stayed in the waiting_room.
-13 Jackson, Charlotte and Noah entered the hallway.
-14 The tangerine is in the red_bathtub.
-15 Jackson moved the tangerine to the red_bucket.
-16 Jackson exited the hallway and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the hallway for 10 minutes.
-18 Charlotte exited the hallway and stayed in the waiting_room.
-19 Noah made no movements and stayed in the hallway for 10 minutes.
-20 Noah exited the hallway and stayed in the waiting_room.
-21 Jackson publicly claimed that tangerine is in the red_bathtub.
-22 Noah privately told Oliver that the tangerine is actually in the red_bucket.
-Question: Where does Jackson think Ava thinks the corn is?
-Choices: A. green_container, B. red_suitcase, C. green_suitcase, D. blue_crate, E. blue_drawer, F. green_bottle, G. blue_basket, H. green_envelope, I. red_drawer, J. blue_bucket, K. red_bathtub, L. red_bucket, M. blue_bottle, N. blue_pantry, O. green_bathtub
+1 Carter likes the red_crate.
+2 Ava, Lucas, Carter, Mia and Ethan entered the workshop.
+3 The tomato is in the blue_bathtub.
+4 Carter likes the green_pantry.
+5 Ava made no movements and stayed in the workshop for 10 minutes.
+6 Ava exited the workshop and stayed in the waiting_room.
+7 Lucas moved the tomato to the green_envelope.
+8 Lucas exited the workshop and stayed in the waiting_room.
+9 Carter moved the tomato to the red_treasure_chest.
+10 Carter exited the workshop and stayed in the waiting_room.
+11 Mia moved the tomato to the green_bucket.
+12 Mia exited the workshop and stayed in the waiting_room.
+13 Ethan made no movements and stayed in the workshop for 10 minutes.
+14 Ethan exited the workshop and stayed in the waiting_room.
+15 Ethan likes the green_treasure_chest.
+16 Carter, Ethan and Mia entered the back_yard.
+17 The banana is in the blue_cupboard.
+18 Ethan likes the blue_bucket.
+19 Carter moved the banana to the red_pantry.
+20 Carter exited the back_yard and stayed in the waiting_room.
+21 Ethan made no movements and stayed in the back_yard for 10 minutes.
+22 Ethan exited the back_yard and stayed in the waiting_room.
+23 Mia made no movements and stayed in the back_yard for 10 minutes.
+24 Mia exited the back_yard and stayed in the waiting_room.
+25 Ethan privately told Mia that the banana is actually in the blue_drawer.
+26 Mia privately told Ava that the banana is actually in the red_pantry.
+Question: Where does Carter think Ava thinks the tomato is?
+Choices: A. red_treasure_chest, B. blue_bathtub, C. green_bucket, D. red_bathtub, E. green_envelope, F. blue_bucket, G. red_container, H. green_pantry, I. green_treasure_chest, J. blue_envelope, K. blue_cupboard, L. blue_treasure_chest, M. blue_drawer, N. red_crate, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

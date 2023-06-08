@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Amelia, Isla, Aiden, Evelyn and Jack entered the study.
-2 The pineapple is in the red_container.
-3 Amelia made no movements and stayed in the study for 10 minutes.
-4 Amelia exited the study and stayed in the waiting_room.
-5 Isla moved the pineapple to the blue_drawer.
-6 Isla exited the study and stayed in the waiting_room.
-7 Aiden moved the pineapple to the blue_box.
-8 Aiden exited the study and stayed in the waiting_room.
-9 Evelyn made no movements and stayed in the study for 10 minutes.
-10 Evelyn exited the study and stayed in the waiting_room.
-11 Jack moved the pineapple to the red_container.
-12 Jack exited the study and stayed in the waiting_room.
-13 Isla, Evelyn and Jack entered the crawlspace.
-14 The melon is in the blue_treasure_chest.
-15 Isla made no movements and stayed in the crawlspace for 10 minutes.
-16 Isla exited the crawlspace and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the crawlspace for 10 minutes.
-18 Evelyn exited the crawlspace and stayed in the waiting_room.
-19 Jack made no movements and stayed in the crawlspace for 10 minutes.
-20 Jack exited the crawlspace and stayed in the waiting_room.
-21 Jack publicly claimed that melon is in the red_basket.
-22 Isla privately told Jack that the melon is actually in the red_suitcase.
-Question: Where does Aiden think Evelyn thinks Isla thinks the pineapple is?
-Choices: A. red_container, B. blue_bucket, C. green_container, D. blue_drawer, E. blue_box, F. blue_treasure_chest, G. blue_pantry, H. red_suitcase, I. blue_envelope, J. red_basket, K. blue_bottle, L. red_bathtub, M. green_suitcase, N. blue_suitcase, O. red_treasure_chest
+1 Jacob likes the blue_bucket.
+2 Isla, Chloe, Lucas, Hannah and Jacob entered the workshop.
+3 The banana is in the blue_bottle.
+4 Isla made no movements and stayed in the workshop for 10 minutes.
+5 Isla exited the workshop and stayed in the waiting_room.
+6 Chloe moved the banana to the red_container.
+7 Chloe exited the workshop and stayed in the waiting_room.
+8 Isla saw a mouse.
+9 Lucas made no movements and stayed in the workshop for 10 minutes.
+10 Lucas exited the workshop and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the workshop for 10 minutes.
+12 Hannah exited the workshop and stayed in the waiting_room.
+13 Jacob made no movements and stayed in the workshop for 10 minutes.
+14 Jacob exited the workshop and stayed in the waiting_room.
+15 Chloe, Jacob and Hannah entered the workshop.
+16 The corn is in the red_envelope.
+17 Chloe likes the red_basket.
+18 Chloe made no movements and stayed in the workshop for 10 minutes.
+19 Chloe exited the workshop and stayed in the waiting_room.
+20 Jacob made no movements and stayed in the workshop for 10 minutes.
+21 Jacob exited the workshop and stayed in the waiting_room.
+22 Hannah made no movements and stayed in the workshop for 10 minutes.
+23 Hannah exited the workshop and stayed in the waiting_room.
+24 Jacob publicly claimed that corn is in the blue_cupboard.
+25 Hannah privately told Jacob that the corn is actually in the red_bottle.
+Question: Where does Lucas think Hannah thinks Jacob thinks the banana is?
+Choices: A. red_bathtub, B. red_basket, C. blue_drawer, D. green_envelope, E. red_crate, F. blue_bottle, G. red_envelope, H. red_container, I. red_bottle, J. blue_cupboard, K. blue_bucket, L. blue_suitcase, M. blue_treasure_chest, N. red_cupboard, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

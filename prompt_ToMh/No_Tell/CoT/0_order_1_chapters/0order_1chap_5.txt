@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Gracie, James, Jack, Amelia and Emma entered the playroom.
-2 The lettuce is in the blue_treasure_chest.
-3 Gracie moved the lettuce to the red_drawer.
-4 Gracie exited the playroom and stayed in the waiting_room.
-5 James moved the lettuce to the green_bottle.
-6 James exited the playroom and stayed in the waiting_room.
-7 Jack made no movements and stayed in the playroom for 10 minutes.
-8 Jack exited the playroom and stayed in the waiting_room.
-9 Amelia moved the lettuce to the green_crate.
-10 Amelia exited the playroom and stayed in the waiting_room.
-11 Emma made no movements and stayed in the playroom for 10 minutes.
-12 Emma exited the playroom and stayed in the waiting_room.
-Question: Where is the lettuce really?
-Choices: A. blue_container, B. red_crate, C. red_treasure_chest, D. red_container, E. red_bucket, F. blue_box, G. green_bathtub, H. red_envelope, I. blue_bathtub, J. blue_envelope, K. blue_treasure_chest, L. green_bottle, M. blue_pantry, N. green_crate, O. red_drawer
+1 Carter, Abigail, Mason, Jayden and Isabella entered the workshop.
+2 The lemon is in the red_basket.
+3 Carter made no movements and stayed in the workshop for 10 minutes.
+4 Carter exited the workshop and stayed in the waiting_room.
+5 Abigail made no movements and stayed in the workshop for 10 minutes.
+6 Abigail saw a monkey.
+7 Abigail exited the workshop and stayed in the waiting_room.
+8 Mason made no movements and stayed in the workshop for 10 minutes.
+9 Mason exited the workshop and stayed in the waiting_room.
+10 Jayden moved the lemon to the green_bottle.
+11 Jayden exited the workshop and stayed in the waiting_room.
+12 Carter saw a dog.
+13 Isabella made no movements and stayed in the workshop for 10 minutes.
+14 Isabella exited the workshop and stayed in the waiting_room.
+Question: Where is the lemon really?
+Choices: A. red_basket, B. red_box, C. green_bottle, D. blue_bottle, E. red_envelope, F. green_bathtub, G. green_suitcase, H. red_crate, I. red_bucket, J. green_pantry, K. blue_bucket, L. blue_envelope, M. blue_cupboard, N. green_box, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

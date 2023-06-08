@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Isla, Aiden, Noah, Carter and Olivia entered the bathroom.
-2 The orange is in the green_cupboard.
-3 Isla made no movements and stayed in the bathroom for 10 minutes.
-4 Isla exited the bathroom and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the bathroom for 10 minutes.
-6 Aiden exited the bathroom and stayed in the waiting_room.
-7 Noah made no movements and stayed in the bathroom for 10 minutes.
-8 Noah exited the bathroom and stayed in the waiting_room.
-9 Carter moved the orange to the green_treasure_chest.
-10 Carter exited the bathroom and stayed in the waiting_room.
-11 Olivia moved the orange to the green_cupboard.
-12 Olivia exited the bathroom and stayed in the waiting_room.
-13 Noah publicly claimed that orange is in the green_treasure_chest.
-14 Olivia privately told Noah that the orange is actually in the blue_pantry.
-Question: Where does Carter think Isla thinks Olivia thinks Aiden thinks the orange is?
-Choices: A. green_bathtub, B. blue_suitcase, C. red_crate, D. blue_box, E. green_bottle, F. green_envelope, G. red_drawer, H. red_bottle, I. blue_bathtub, J. red_container, K. blue_basket, L. green_cupboard, M. blue_container, N. green_treasure_chest, O. blue_pantry
+1 Emily, Owen, Lucas, Chloe and Jackson entered the garden.
+2 The tangerine is in the red_bottle.
+3 Emily moved the tangerine to the blue_bottle.
+4 Emily exited the garden and stayed in the waiting_room.
+5 Owen moved the tangerine to the green_pantry.
+6 Owen exited the garden and stayed in the waiting_room.
+7 Lucas moved the tangerine to the green_bottle.
+8 Lucas exited the garden and stayed in the waiting_room.
+9 Jackson dislikes the asparagus.
+10 Chloe moved the tangerine to the green_cupboard.
+11 Chloe exited the garden and stayed in the waiting_room.
+12 Jackson moved the tangerine to the red_bottle.
+13 Jackson exited the garden and stayed in the waiting_room.
+14 Lucas publicly claimed that tangerine is in the red_bottle.
+15 Jackson privately told Lucas that the tangerine is actually in the blue_bottle.
+Question: Where does Chloe think Jackson thinks Emily thinks Owen thinks the tangerine is?
+Choices: A. red_crate, B. green_bathtub, C. red_treasure_chest, D. blue_bucket, E. green_box, F. red_bottle, G. blue_bottle, H. green_pantry, I. green_cupboard, J. green_bottle, K. red_envelope, L. blue_envelope, M. blue_bathtub, N. red_bucket, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Gracie, Aiden, Mia, William and Ava entered the master_bedroom.
-2 The banana is in the blue_basket.
-3 Gracie moved the banana to the red_crate.
-4 Gracie exited the master_bedroom and stayed in the waiting_room.
-5 Aiden moved the banana to the green_suitcase.
-6 Aiden exited the master_bedroom and stayed in the waiting_room.
-7 Mia made no movements and stayed in the master_bedroom for 10 minutes.
-8 Mia exited the master_bedroom and stayed in the waiting_room.
-9 William made no movements and stayed in the master_bedroom for 10 minutes.
-10 William exited the master_bedroom and stayed in the waiting_room.
-11 Ava made no movements and stayed in the master_bedroom for 10 minutes.
-12 Ava exited the master_bedroom and stayed in the waiting_room.
-13 Mia publicly claimed that banana is in the blue_basket.
-14 Ava privately told Mia that the banana is actually in the green_envelope.
-Question: Where does William think Mia thinks Gracie thinks the banana is?
-Choices: A. red_suitcase, B. red_treasure_chest, C. blue_bathtub, D. red_bathtub, E. red_container, F. green_suitcase, G. blue_basket, H. green_envelope, I. red_crate, J. blue_treasure_chest, K. red_bottle, L. blue_container, M. blue_drawer, N. blue_envelope, O. green_cupboard
+1 Charlotte lost his watch.
+2 Jacob, Sophia, Lucas, Charlotte and Ava entered the garage.
+3 The corn is in the green_envelope.
+4 Jacob moved the corn to the red_basket.
+5 Jacob exited the garage and stayed in the waiting_room.
+6 Sophia made no movements and stayed in the garage for 10 minutes.
+7 Sophia exited the garage and stayed in the waiting_room.
+8 Lucas made no movements and stayed in the garage for 10 minutes.
+9 Lucas exited the garage and stayed in the waiting_room.
+10 Charlotte made no movements and stayed in the garage for 10 minutes.
+11 Charlotte exited the garage and stayed in the waiting_room.
+12 Ava made no movements and stayed in the garage for 10 minutes.
+13 Ava exited the garage and stayed in the waiting_room.
+14 Ava likes the red_bucket.
+15 Lucas publicly claimed that corn is in the green_envelope.
+16 Ava privately told Lucas that the corn is actually in the green_treasure_chest.
+Question: Where does Sophia think Jacob thinks Charlotte thinks the corn is?
+Choices: A. red_box, B. green_envelope, C. green_treasure_chest, D. red_cupboard, E. red_basket, F. green_pantry, G. blue_cupboard, H. green_basket, I. red_bucket, J. green_suitcase, K. green_bathtub, L. green_cupboard, M. red_bathtub, N. green_bottle, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,25 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Noah, Jayden, Olivia and Gracie entered the bathroom.
-2 The pear is in the red_basket.
-3 Logan moved the pear to the green_treasure_chest.
-4 Logan exited the bathroom and stayed in the waiting_room.
-5 Noah made no movements and stayed in the bathroom for 10 minutes.
-6 Noah exited the bathroom and stayed in the waiting_room.
-7 Jayden made no movements and stayed in the bathroom for 10 minutes.
-8 Jayden exited the bathroom and stayed in the waiting_room.
-9 Olivia made no movements and stayed in the bathroom for 10 minutes.
-10 Olivia exited the bathroom and stayed in the waiting_room.
-11 Gracie made no movements and stayed in the bathroom for 10 minutes.
-12 Gracie exited the bathroom and stayed in the waiting_room.
-13 Gracie, Noah and Olivia entered the garden.
-14 The potato is in the green_crate.
-15 Gracie made no movements and stayed in the garden for 10 minutes.
-16 Gracie exited the garden and stayed in the waiting_room.
-17 Noah moved the potato to the green_envelope.
-18 Noah exited the garden and stayed in the waiting_room.
-19 Olivia moved the potato to the blue_container.
-20 Olivia exited the garden and stayed in the waiting_room.
-Question: Where does Olivia think the pear is?
-Choices: A. green_container, B. blue_pantry, C. red_container, D. green_bathtub, E. blue_basket, F. red_bottle, G. green_crate, H. blue_bathtub, I. blue_container, J. green_envelope, K. blue_box, L. red_basket, M. green_treasure_chest, N. blue_treasure_chest, O. blue_envelope
+1 Aiden, Isabella, Mila, Emma and Liam entered the attic.
+2 The green_pepper is in the red_crate.
+3 Aiden moved the green_pepper to the green_bathtub.
+4 Aiden exited the attic and stayed in the waiting_room.
+5 Isabella made no movements and stayed in the attic for 10 minutes.
+6 Isabella exited the attic and stayed in the waiting_room.
+7 Mila moved the green_pepper to the red_box.
+8 Liam dislikes the grapes.
+9 Mila exited the attic and stayed in the waiting_room.
+10 Emma made no movements and stayed in the attic for 10 minutes.
+11 Emma exited the attic and stayed in the waiting_room.
+12 Liam dislikes the peas.
+13 Liam made no movements and stayed in the attic for 10 minutes.
+14 Liam exited the attic and stayed in the waiting_room.
+15 Aiden, Isabella and Emma entered the sunroom.
+16 The corn is in the green_envelope.
+17 Emma lost his bottle.
+18 Aiden moved the corn to the red_container.
+19 Aiden exited the sunroom and stayed in the waiting_room.
+20 Isabella moved the corn to the green_suitcase.
+21 Isabella exited the sunroom and stayed in the waiting_room.
+22 Isabella saw a cat.
+23 Emma made no movements and stayed in the sunroom for 10 minutes.
+24 Emma exited the sunroom and stayed in the waiting_room.
+Question: Where does Mila think the green_pepper is?
+Choices: A. green_envelope, B. red_container, C. red_cupboard, D. green_suitcase, E. blue_drawer, F. green_bathtub, G. red_crate, H. blue_treasure_chest, I. red_box, J. blue_envelope, K. green_pantry, L. blue_suitcase, M. green_bucket, N. blue_bottle, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

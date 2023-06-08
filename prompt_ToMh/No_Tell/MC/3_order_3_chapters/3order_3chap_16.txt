@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Ethan, Carter, Jackson and Ella entered the bathroom.
-2 The peach is in the red_suitcase.
-3 Emily moved the peach to the blue_basket.
-4 Emily exited the bathroom and stayed in the waiting_room.
-5 Ethan made no movements and stayed in the bathroom for 10 minutes.
-6 Ethan exited the bathroom and stayed in the waiting_room.
-7 Carter made no movements and stayed in the bathroom for 10 minutes.
-8 Carter exited the bathroom and stayed in the waiting_room.
-9 Jackson made no movements and stayed in the bathroom for 10 minutes.
-10 Jackson exited the bathroom and stayed in the waiting_room.
-11 Ella made no movements and stayed in the bathroom for 10 minutes.
-12 Ella exited the bathroom and stayed in the waiting_room.
-13 Jackson, Carter and Ethan entered the lounge.
-14 The pumpkin is in the red_envelope.
-15 Jackson moved the pumpkin to the red_basket.
-16 Jackson exited the lounge and stayed in the waiting_room.
-17 Carter moved the pumpkin to the red_container.
-18 Carter exited the lounge and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the lounge for 10 minutes.
-20 Ethan exited the lounge and stayed in the waiting_room.
-21 Emily, Ella, Carter and Jackson entered the den.
-22 The plum is in the green_bathtub.
-23 Emily moved the plum to the blue_suitcase.
-24 Emily exited the den and stayed in the waiting_room.
-25 Ella moved the plum to the blue_bucket.
-26 Ella exited the den and stayed in the waiting_room.
-27 Carter made no movements and stayed in the den for 10 minutes.
-28 Carter exited the den and stayed in the waiting_room.
-29 Jackson moved the plum to the blue_pantry.
-30 Jackson exited the den and stayed in the waiting_room.
-Question: Where does Emily think Ethan thinks Jackson thinks the peach is?
-Choices: A. red_suitcase, B. blue_basket, C. blue_bathtub, D. green_treasure_chest, E. blue_drawer, F. red_envelope, G. red_basket, H. red_container, I. red_crate, J. green_envelope, K. green_bathtub, L. blue_suitcase, M. blue_bucket, N. blue_pantry, O. red_bottle
+1 Ethan, Logan, Sophia, Jack and Nathan entered the pantry.
+2 The turnip is in the green_box.
+3 Ethan made no movements and stayed in the pantry for 10 minutes.
+4 Ethan exited the pantry and stayed in the waiting_room.
+5 Logan made no movements and stayed in the pantry for 10 minutes.
+6 Logan exited the pantry and stayed in the waiting_room.
+7 Sophia made no movements and stayed in the pantry for 10 minutes.
+8 Sophia exited the pantry and stayed in the waiting_room.
+9 Jack moved the turnip to the green_bottle.
+10 Jack exited the pantry and stayed in the waiting_room.
+11 Nathan moved the turnip to the green_box.
+12 Nathan exited the pantry and stayed in the waiting_room.
+13 Nathan, Logan and Sophia entered the pantry.
+14 The turnip is in the green_box.
+15 Nathan made no movements and stayed in the pantry for 10 minutes.
+16 Sophia lost his phone.
+17 Nathan exited the pantry and stayed in the waiting_room.
+18 Logan made no movements and stayed in the pantry for 10 minutes.
+19 Logan exited the pantry and stayed in the waiting_room.
+20 Sophia made no movements and stayed in the pantry for 10 minutes.
+21 Jack saw a mouse.
+22 Sophia exited the pantry and stayed in the waiting_room.
+23 Sophia, Nathan, Logan and Jack entered the pantry.
+24 The turnip is in the green_box.
+25 Sophia moved the turnip to the blue_suitcase.
+26 Sophia exited the pantry and stayed in the waiting_room.
+27 Nathan made no movements and stayed in the pantry for 10 minutes.
+28 Nathan exited the pantry and stayed in the waiting_room.
+29 Logan moved the turnip to the green_bathtub.
+30 Logan exited the pantry and stayed in the waiting_room.
+31 Jack moved the turnip to the green_bottle.
+32 Jack exited the pantry and stayed in the waiting_room.
+Question: Where does Ethan think Jack thinks Nathan thinks the turnip is?
+34 Logan dislikes the turnip.
+Choices: A. green_box, B. blue_suitcase, C. green_bottle, D. green_bathtub, E. red_basket, F. red_treasure_chest, G. blue_envelope, H. green_suitcase, I. red_bathtub, J. red_bottle, K. blue_bottle, L. blue_drawer, M. green_bucket, N. red_crate, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

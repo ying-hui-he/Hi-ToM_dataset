@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Oliver, Gracie, Amelia and Benjamin entered the study.
-2 The pear is in the green_container.
-3 Emma made no movements and stayed in the study for 10 minutes.
-4 Emma exited the study and stayed in the waiting_room.
-5 Oliver moved the pear to the red_drawer.
-6 Oliver exited the study and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the study for 10 minutes.
-8 Gracie exited the study and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the study for 10 minutes.
-10 Amelia exited the study and stayed in the waiting_room.
-11 Benjamin made no movements and stayed in the study for 10 minutes.
-12 Benjamin exited the study and stayed in the waiting_room.
-13 Gracie, Amelia and Oliver entered the closet.
-14 The apple is in the red_suitcase.
-15 Gracie moved the apple to the blue_bucket.
-16 Gracie exited the closet and stayed in the waiting_room.
-17 Amelia moved the apple to the blue_bottle.
-18 Amelia exited the closet and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the closet for 10 minutes.
-20 Oliver exited the closet and stayed in the waiting_room.
-21 Oliver publicly claimed that apple is in the green_treasure_chest.
-22 Gracie privately told Oliver that the apple is actually in the blue_bucket.
-Question: Where does Gracie think Amelia thinks Oliver thinks Benjamin thinks the pear is?
-Choices: A. blue_basket, B. blue_bathtub, C. blue_box, D. blue_container, E. blue_crate, F. green_container, G. red_crate, H. red_drawer, I. green_cupboard, J. blue_treasure_chest, K. blue_bottle, L. red_suitcase, M. blue_bucket, N. green_treasure_chest, O. red_treasure_chest
+1 Amelia, Carter, Isla, Sophia and Lucas entered the dining_room.
+2 The pumpkin is in the red_cupboard.
+3 Sophia saw a monkey.
+4 Amelia made no movements and stayed in the dining_room for 10 minutes.
+5 Amelia exited the dining_room and stayed in the waiting_room.
+6 Carter made no movements and stayed in the dining_room for 10 minutes.
+7 Carter exited the dining_room and stayed in the waiting_room.
+8 Isla made no movements and stayed in the dining_room for 10 minutes.
+9 Isla exited the dining_room and stayed in the waiting_room.
+10 Sophia made no movements and stayed in the dining_room for 10 minutes.
+11 Sophia exited the dining_room and stayed in the waiting_room.
+12 Lucas made no movements and stayed in the dining_room for 10 minutes.
+13 Lucas exited the dining_room and stayed in the waiting_room.
+14 Sophia, Carter and Lucas entered the master_bedroom.
+15 The strawberry is in the green_cupboard.
+16 Sophia moved the strawberry to the blue_drawer.
+17 Sophia exited the master_bedroom and stayed in the waiting_room.
+18 Carter moved the strawberry to the blue_suitcase.
+19 Carter likes the green_bathtub.
+20 Carter exited the master_bedroom and stayed in the waiting_room.
+21 Lucas made no movements and stayed in the master_bedroom for 10 minutes.
+22 Lucas exited the master_bedroom and stayed in the waiting_room.
+23 Sophia dislikes the strawberry.
+24 Carter publicly claimed that strawberry is in the green_basket.
+25 Lucas privately told Carter that the strawberry is actually in the green_bottle.
+Question: Where does Amelia think Isla thinks Lucas thinks Sophia thinks the pumpkin is?
+Choices: A. green_basket, B. green_cupboard, C. blue_suitcase, D. green_bottle, E. blue_drawer, F. green_treasure_chest, G. blue_bucket, H. blue_envelope, I. green_suitcase, J. red_box, K. red_cupboard, L. green_envelope, M. green_bathtub, N. red_bottle, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

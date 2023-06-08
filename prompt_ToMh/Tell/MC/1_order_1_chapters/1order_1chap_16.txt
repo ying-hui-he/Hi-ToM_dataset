@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Jack, Hannah, Avery and Noah entered the sunroom.
-2 The orange is in the green_container.
-3 Ethan moved the orange to the blue_bottle.
-4 Ethan exited the sunroom and stayed in the waiting_room.
-5 Jack made no movements and stayed in the sunroom for 10 minutes.
-6 Jack exited the sunroom and stayed in the waiting_room.
-7 Hannah made no movements and stayed in the sunroom for 10 minutes.
-8 Hannah exited the sunroom and stayed in the waiting_room.
-9 Avery made no movements and stayed in the sunroom for 10 minutes.
-10 Avery exited the sunroom and stayed in the waiting_room.
-11 Noah moved the orange to the green_container.
-12 Noah exited the sunroom and stayed in the waiting_room.
-13 Avery publicly claimed that orange is in the green_bottle.
-14 Noah privately told Ethan that the orange is actually in the green_container.
-Question: Where does Hannah think the orange is?
-Choices: A. green_container, B. red_bathtub, C. blue_bottle, D. green_bottle, E. red_bottle, F. green_crate, G. green_cupboard, H. blue_bathtub, I. red_bucket, J. green_suitcase, K. red_crate, L. red_drawer, M. blue_basket, N. red_container, O. red_envelope
+1 Lucas, Ella, Jackson, Abigail and Sophia entered the garden.
+2 The grapefruit is in the green_bucket.
+3 Lucas moved the grapefruit to the red_box.
+4 Lucas exited the garden and stayed in the waiting_room.
+5 Ella made no movements and stayed in the garden for 10 minutes.
+6 Sophia likes the blue_drawer.
+7 Ella exited the garden and stayed in the waiting_room.
+8 Jackson made no movements and stayed in the garden for 10 minutes.
+9 Jackson exited the garden and stayed in the waiting_room.
+10 Abigail made no movements and stayed in the garden for 10 minutes.
+11 Abigail exited the garden and stayed in the waiting_room.
+12 Sophia moved the grapefruit to the green_bucket.
+13 Sophia exited the garden and stayed in the waiting_room.
+14 Ella likes the green_bathtub.
+15 Jackson privately told Lucas that the grapefruit is actually in the red_box.
+16 Ella privately told Abigail that the grapefruit is actually in the red_bathtub.
+Question: Where does Abigail think the grapefruit is?
+Choices: A. red_treasure_chest, B. blue_envelope, C. blue_bathtub, D. green_pantry, E. blue_crate, F. red_box, G. green_bucket, H. green_suitcase, I. green_bathtub, J. red_bathtub, K. blue_drawer, L. red_container, M. blue_suitcase, N. blue_cupboard, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

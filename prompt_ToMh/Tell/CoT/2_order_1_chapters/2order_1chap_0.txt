@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Oliver, Aiden, Abigail and Isla entered the living_room.
-2 The cucumber is in the blue_crate.
-3 Jackson made no movements and stayed in the living_room for 10 minutes.
-4 Jackson exited the living_room and stayed in the waiting_room.
-5 Oliver made no movements and stayed in the living_room for 10 minutes.
-6 Oliver exited the living_room and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the living_room for 10 minutes.
-8 Aiden exited the living_room and stayed in the waiting_room.
-9 Abigail moved the cucumber to the green_envelope.
-10 Abigail exited the living_room and stayed in the waiting_room.
-11 Isla made no movements and stayed in the living_room for 10 minutes.
-12 Isla exited the living_room and stayed in the waiting_room.
-13 Abigail publicly claimed that cucumber is in the blue_crate.
-14 Isla privately told Jackson that the cucumber is actually in the green_envelope.
-Question: Where does Isla think Aiden thinks the cucumber is?
-Choices: A. red_bathtub, B. green_cupboard, C. red_suitcase, D. blue_container, E. green_suitcase, F. green_bottle, G. blue_crate, H. red_envelope, I. green_envelope, J. blue_drawer, K. blue_bottle, L. red_crate, M. blue_pantry, N. blue_suitcase, O. blue_bathtub
+1 Gracie, Nathan, Lucas, Ethan and Emma entered the porch.
+2 The melon is in the red_basket.
+3 Gracie moved the melon to the red_cupboard.
+4 Gracie exited the porch and stayed in the waiting_room.
+5 Nathan moved the melon to the red_treasure_chest.
+6 Nathan exited the porch and stayed in the waiting_room.
+7 Lucas moved the melon to the blue_bathtub.
+8 Gracie lost his bottle.
+9 Lucas exited the porch and stayed in the waiting_room.
+10 Ethan made no movements and stayed in the porch for 10 minutes.
+11 Ethan exited the porch and stayed in the waiting_room.
+12 Emma made no movements and stayed in the porch for 10 minutes.
+13 Emma exited the porch and stayed in the waiting_room.
+14 Ethan publicly claimed that melon is in the red_cupboard.
+15 Gracie saw a monkey.
+16 Emma privately told Gracie that the melon is actually in the blue_bathtub.
+Question: Where does Gracie think Nathan thinks the melon is?
+Choices: A. red_basket, B. red_crate, C. red_treasure_chest, D. red_cupboard, E. blue_bathtub, F. green_bucket, G. red_bathtub, H. green_suitcase, I. red_pantry, J. blue_suitcase, K. red_envelope, L. red_bottle, M. red_bucket, N. blue_envelope, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

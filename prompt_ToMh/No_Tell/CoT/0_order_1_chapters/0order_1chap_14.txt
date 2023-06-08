@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Gracie, James, William and Aria entered the bathroom.
-2 The spinach is in the blue_bathtub.
-3 Evelyn moved the spinach to the red_bottle.
-4 Evelyn exited the bathroom and stayed in the waiting_room.
-5 Gracie moved the spinach to the blue_envelope.
-6 Gracie exited the bathroom and stayed in the waiting_room.
-7 James made no movements and stayed in the bathroom for 10 minutes.
-8 James exited the bathroom and stayed in the waiting_room.
-9 William moved the spinach to the red_crate.
-10 William exited the bathroom and stayed in the waiting_room.
-11 Aria moved the spinach to the blue_bathtub.
-12 Aria exited the bathroom and stayed in the waiting_room.
-Question: Where is the spinach really?
-Choices: A. red_treasure_chest, B. green_bathtub, C. blue_box, D. red_bucket, E. green_container, F. blue_suitcase, G. green_envelope, H. blue_basket, I. green_cupboard, J. blue_treasure_chest, K. blue_bathtub, L. red_bottle, M. blue_envelope, N. red_crate, O. red_basket
+1 Jack, Owen, Mila, Isla and Liam entered the TV_room.
+2 The grapes is in the green_box.
+3 Jack moved the grapes to the red_bathtub.
+4 Jack exited the TV_room and stayed in the waiting_room.
+5 Owen moved the grapes to the green_pantry.
+6 Owen exited the TV_room and stayed in the waiting_room.
+7 Mila made no movements and stayed in the TV_room for 10 minutes.
+8 Mila exited the TV_room and stayed in the waiting_room.
+9 Owen lost his watch.
+10 Isla made no movements and stayed in the TV_room for 10 minutes.
+11 Isla exited the TV_room and stayed in the waiting_room.
+12 Liam moved the grapes to the green_box.
+13 Liam exited the TV_room and stayed in the waiting_room.
+Question: Where is the grapes really?
+15 Isla lost his watch.
+Choices: A. red_envelope, B. blue_suitcase, C. red_treasure_chest, D. red_pantry, E. red_cupboard, F. green_bottle, G. red_box, H. red_crate, I. blue_bucket, J. green_bathtub, K. green_box, L. red_basket, M. green_pantry, N. red_bathtub, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

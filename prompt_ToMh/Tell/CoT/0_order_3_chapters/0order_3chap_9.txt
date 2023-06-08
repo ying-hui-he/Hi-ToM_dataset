@@ -1,39 +1,40 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Isla, Jackson, James and Ella entered the workshop.
-2 The potato is in the red_drawer.
-3 Avery moved the potato to the green_suitcase.
-4 Avery exited the workshop and stayed in the waiting_room.
-5 Isla made no movements and stayed in the workshop for 10 minutes.
-6 Isla exited the workshop and stayed in the waiting_room.
-7 Jackson moved the potato to the blue_bucket.
-8 Jackson exited the workshop and stayed in the waiting_room.
-9 James moved the potato to the red_bathtub.
-10 James exited the workshop and stayed in the waiting_room.
-11 Ella moved the potato to the red_drawer.
-12 Ella exited the workshop and stayed in the waiting_room.
-13 Jackson publicly claimed that potato is in the green_suitcase.
-14 Ella privately told Jackson that the potato is actually in the red_drawer.
-15 Ella, Avery and James entered the cellar.
-16 The tomato is in the green_cupboard.
-17 Ella made no movements and stayed in the cellar for 10 minutes.
-18 Ella exited the cellar and stayed in the waiting_room.
-19 Avery moved the tomato to the blue_bathtub.
-20 Avery exited the cellar and stayed in the waiting_room.
-21 James moved the tomato to the red_crate.
-22 James exited the cellar and stayed in the waiting_room.
-23 Avery, Isla, James and Ella entered the workshop.
-24 The pear is in the blue_bottle.
-25 Avery moved the pear to the blue_bucket.
-26 Avery exited the workshop and stayed in the waiting_room.
-27 Isla moved the pear to the red_drawer.
-28 Isla exited the workshop and stayed in the waiting_room.
-29 James moved the pear to the red_bathtub.
-30 James exited the workshop and stayed in the waiting_room.
-31 Ella made no movements and stayed in the workshop for 10 minutes.
-32 Ella exited the workshop and stayed in the waiting_room.
-33 James publicly claimed that pear is in the red_drawer.
-34 Avery privately told Ella that the pear is actually in the red_bathtub.
-Question: Where is the potato really?
-Choices: A. red_treasure_chest, B. blue_suitcase, C. blue_container, D. red_envelope, E. blue_box, F. blue_treasure_chest, G. green_cupboard, H. red_crate, I. blue_bathtub, J. green_container, K. blue_bottle, L. red_drawer, M. green_suitcase, N. blue_bucket, O. red_bathtub
+1 Carter, Hannah, Gracie, Aiden and Owen entered the garden.
+2 The corn is in the green_suitcase.
+3 Carter moved the corn to the blue_treasure_chest.
+4 Carter exited the garden and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the garden for 10 minutes.
+6 Hannah exited the garden and stayed in the waiting_room.
+7 Gracie made no movements and stayed in the garden for 10 minutes.
+8 Gracie exited the garden and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the garden for 10 minutes.
+10 Aiden exited the garden and stayed in the waiting_room.
+11 Owen made no movements and stayed in the garden for 10 minutes.
+12 Owen exited the garden and stayed in the waiting_room.
+13 Aiden publicly claimed that corn is in the blue_crate.
+14 Owen privately told Carter that the corn is actually in the blue_treasure_chest.
+15 Hannah, Owen and Carter entered the patio.
+16 The tangerine is in the green_envelope.
+17 Hannah moved the tangerine to the red_basket.
+18 Hannah exited the patio and stayed in the waiting_room.
+19 Owen moved the tangerine to the blue_drawer.
+20 Owen exited the patio and stayed in the waiting_room.
+21 Carter moved the tangerine to the red_treasure_chest.
+22 Carter exited the patio and stayed in the waiting_room.
+23 Gracie, Carter, Owen and Aiden entered the closet.
+24 The turnip is in the green_bucket.
+25 Gracie moved the turnip to the blue_cupboard.
+26 Gracie exited the closet and stayed in the waiting_room.
+27 Aiden dislikes the persimmon.
+28 Carter made no movements and stayed in the closet for 10 minutes.
+29 Carter exited the closet and stayed in the waiting_room.
+30 Owen made no movements and stayed in the closet for 10 minutes.
+31 Owen exited the closet and stayed in the waiting_room.
+32 Aiden moved the turnip to the red_crate.
+33 Aiden exited the closet and stayed in the waiting_room.
+34 Gracie publicly claimed that turnip is in the blue_suitcase.
+35 Aiden privately told Hannah that the turnip is actually in the red_crate.
+Question: Where is the corn really?
+Choices: A. green_envelope, B. red_basket, C. red_treasure_chest, D. red_box, E. blue_drawer, F. green_bucket, G. green_box, H. red_crate, I. blue_suitcase, J. blue_cupboard, K. green_suitcase, L. green_treasure_chest, M. green_cupboard, N. blue_treasure_chest, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

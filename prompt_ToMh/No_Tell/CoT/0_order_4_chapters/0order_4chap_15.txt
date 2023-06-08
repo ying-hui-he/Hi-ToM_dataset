@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mia, Gracie, Aria, Ella and Ava entered the attic.
-2 The turnip is in the green_cupboard.
-3 Mia moved the turnip to the blue_bathtub.
-4 Mia exited the attic and stayed in the waiting_room.
-5 Gracie moved the turnip to the green_envelope.
-6 Gracie exited the attic and stayed in the waiting_room.
-7 Aria made no movements and stayed in the attic for 10 minutes.
-8 Aria exited the attic and stayed in the waiting_room.
-9 Ella moved the turnip to the green_suitcase.
-10 Ella exited the attic and stayed in the waiting_room.
-11 Ava made no movements and stayed in the attic for 10 minutes.
-12 Ava exited the attic and stayed in the waiting_room.
-13 Ella, Gracie and Ava entered the garden.
-14 The potato is in the green_bottle.
-15 Ella moved the potato to the green_treasure_chest.
-16 Ella exited the garden and stayed in the waiting_room.
-17 Gracie moved the potato to the green_crate.
-18 Gracie exited the garden and stayed in the waiting_room.
-19 Ava made no movements and stayed in the garden for 10 minutes.
-20 Ava exited the garden and stayed in the waiting_room.
-21 Aria, Ella, Gracie and Ava entered the closet.
-22 The persimmon is in the blue_treasure_chest.
-23 Aria moved the persimmon to the red_envelope.
-24 Aria exited the closet and stayed in the waiting_room.
-25 Ella made no movements and stayed in the closet for 10 minutes.
-26 Ella exited the closet and stayed in the waiting_room.
-27 Gracie moved the persimmon to the blue_suitcase.
-28 Gracie exited the closet and stayed in the waiting_room.
-29 Ava made no movements and stayed in the closet for 10 minutes.
-30 Ava exited the closet and stayed in the waiting_room.
-31 Aria and Ava entered the attic.
-32 The cucumber is in the blue_drawer.
-33 Aria made no movements and stayed in the attic for 10 minutes.
-34 Aria exited the attic and stayed in the waiting_room.
-35 Ava moved the cucumber to the green_suitcase.
-36 Ava exited the attic and stayed in the waiting_room.
-Question: Where is the turnip really?
-Choices: A. blue_drawer, B. green_cupboard, C. green_suitcase, D. green_envelope, E. blue_bathtub, F. blue_bucket, G. blue_treasure_chest, H. red_envelope, I. blue_box, J. blue_suitcase, K. green_bottle, L. red_basket, M. blue_crate, N. green_crate, O. green_treasure_chest
+1 Isla lost his watch.
+2 Jackson, Aria, Nathan, Ethan and Isla entered the study.
+3 The apple is in the blue_crate.
+4 Jackson moved the apple to the green_bathtub.
+5 Jackson exited the study and stayed in the waiting_room.
+6 Aria made no movements and stayed in the study for 10 minutes.
+7 Aria exited the study and stayed in the waiting_room.
+8 Nathan moved the apple to the blue_envelope.
+9 Nathan exited the study and stayed in the waiting_room.
+10 Ethan moved the apple to the red_crate.
+11 Ethan exited the study and stayed in the waiting_room.
+12 Isla moved the apple to the blue_crate.
+13 Isla exited the study and stayed in the waiting_room.
+14 Isla, Jackson and Ethan entered the cellar.
+15 The strawberry is in the blue_bucket.
+16 Isla moved the strawberry to the blue_drawer.
+17 Isla exited the cellar and stayed in the waiting_room.
+18 Jackson made no movements and stayed in the cellar for 10 minutes.
+19 Jackson exited the cellar and stayed in the waiting_room.
+20 Nathan dislikes the grapefruit.
+21 Ethan made no movements and stayed in the cellar for 10 minutes.
+22 Ethan exited the cellar and stayed in the waiting_room.
+23 Jackson, Nathan, Aria and Isla entered the study.
+24 The apple is in the blue_crate.
+25 Jackson moved the apple to the red_crate.
+26 Jackson exited the study and stayed in the waiting_room.
+27 Nathan made no movements and stayed in the study for 10 minutes.
+28 Nathan exited the study and stayed in the waiting_room.
+29 Aria made no movements and stayed in the study for 10 minutes.
+30 Aria exited the study and stayed in the waiting_room.
+31 Isla moved the apple to the green_bucket.
+32 Isla exited the study and stayed in the waiting_room.
+33 Jackson and Ethan entered the study.
+34 The apple is in the green_bucket.
+35 Jackson made no movements and stayed in the study for 10 minutes.
+36 Jackson exited the study and stayed in the waiting_room.
+37 Ethan made no movements and stayed in the study for 10 minutes.
+38 Ethan exited the study and stayed in the waiting_room.
+Question: Where is the apple really?
+Choices: A. red_box, B. green_basket, C. red_container, D. green_box, E. red_bucket, F. red_envelope, G. blue_bucket, H. blue_drawer, I. blue_treasure_chest, J. blue_bathtub, K. blue_crate, L. red_crate, M. blue_envelope, N. green_bathtub, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

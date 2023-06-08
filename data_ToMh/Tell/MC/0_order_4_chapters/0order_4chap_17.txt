@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Abigail, Logan, Oliver and Aria entered the front_yard.
-2 The apple is in the blue_bathtub.
-3 Jacob made no movements and stayed in the front_yard for 10 minutes.
-4 Jacob exited the front_yard and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the front_yard for 10 minutes.
-6 Abigail exited the front_yard and stayed in the waiting_room.
-7 Logan moved the apple to the red_envelope.
-8 Logan exited the front_yard and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the front_yard for 10 minutes.
-10 Oliver exited the front_yard and stayed in the waiting_room.
-11 Aria moved the apple to the blue_bathtub.
-12 Aria exited the front_yard and stayed in the waiting_room.
-13 Oliver, Abigail and Aria entered the porch.
-14 The tomato is in the green_treasure_chest.
-15 Oliver moved the tomato to the blue_treasure_chest.
-16 Oliver exited the porch and stayed in the waiting_room.
-17 Abigail made no movements and stayed in the porch for 10 minutes.
-18 Abigail exited the porch and stayed in the waiting_room.
-19 Aria made no movements and stayed in the porch for 10 minutes.
-20 Aria exited the porch and stayed in the waiting_room.
-21 Oliver publicly claimed that tomato is in the blue_treasure_chest.
-22 Aria privately told Jacob that the tomato is actually in the blue_treasure_chest.
-23 Logan, Oliver, Aria and Jacob entered the front_yard.
-24 The apple is in the blue_bathtub.
-25 Logan made no movements and stayed in the front_yard for 10 minutes.
-26 Logan exited the front_yard and stayed in the waiting_room.
-27 Oliver made no movements and stayed in the front_yard for 10 minutes.
-28 Oliver exited the front_yard and stayed in the waiting_room.
-29 Aria made no movements and stayed in the front_yard for 10 minutes.
-30 Aria exited the front_yard and stayed in the waiting_room.
-31 Jacob moved the apple to the blue_bucket.
-32 Jacob exited the front_yard and stayed in the waiting_room.
-33 Logan and Oliver entered the basement.
-34 The celery is in the blue_container.
-35 Logan moved the celery to the green_crate.
-36 Logan exited the basement and stayed in the waiting_room.
-37 Oliver made no movements and stayed in the basement for 10 minutes.
-38 Oliver exited the basement and stayed in the waiting_room.
-39 Oliver publicly claimed that celery is in the green_cupboard.
-40 Logan privately told Oliver that the celery is actually in the blue_container.
-Question: Where is the apple really?
-Answer: blue_bucket
-Choices: A. blue_container, B. green_suitcase, C. green_cupboard, D. green_crate, E. green_container, F. red_bucket, G. blue_bathtub, H. red_envelope, I. blue_bucket, J. blue_suitcase, K. red_suitcase, L. green_treasure_chest, M. blue_treasure_chest, N. green_bathtub, O. green_envelope
+1 Jack, Ella, Emma, Carter and Nathan entered the TV_room.
+2 The corn is in the red_bottle.
+3 Jack moved the corn to the red_bucket.
+4 Jack exited the TV_room and stayed in the waiting_room.
+5 Ella moved the corn to the red_container.
+6 Ella exited the TV_room and stayed in the waiting_room.
+7 Emma made no movements and stayed in the TV_room for 10 minutes.
+8 Emma exited the TV_room and stayed in the waiting_room.
+9 Carter moved the corn to the blue_cupboard.
+10 Carter exited the TV_room and stayed in the waiting_room.
+11 Ella lost his watch.
+12 Nathan made no movements and stayed in the TV_room for 10 minutes.
+13 Nathan exited the TV_room and stayed in the waiting_room.
+14 Ella, Emma and Nathan entered the porch.
+15 The persimmon is in the blue_suitcase.
+16 Ella moved the persimmon to the red_basket.
+17 Ella exited the porch and stayed in the waiting_room.
+18 Emma made no movements and stayed in the porch for 10 minutes.
+19 Emma exited the porch and stayed in the waiting_room.
+20 Nathan moved the persimmon to the blue_treasure_chest.
+21 Nathan exited the porch and stayed in the waiting_room.
+22 Emma privately told Nathan that the persimmon is actually in the blue_treasure_chest.
+23 Nathan privately told Jack that the persimmon is actually in the blue_treasure_chest.
+24 Jack, Nathan, Carter and Emma entered the workshop.
+25 The pineapple is in the blue_bottle.
+26 Emma saw a monkey.
+27 Jack made no movements and stayed in the workshop for 10 minutes.
+28 Jack exited the workshop and stayed in the waiting_room.
+29 Nathan made no movements and stayed in the workshop for 10 minutes.
+30 Nathan exited the workshop and stayed in the waiting_room.
+31 Carter moved the pineapple to the green_pantry.
+32 Carter exited the workshop and stayed in the waiting_room.
+33 Emma moved the pineapple to the blue_drawer.
+34 Emma exited the workshop and stayed in the waiting_room.
+35 Ella and Emma entered the workshop.
+36 The onion is in the red_pantry.
+37 Ella made no movements and stayed in the workshop for 10 minutes.
+38 Ella exited the workshop and stayed in the waiting_room.
+39 Emma moved the onion to the blue_bottle.
+40 Emma exited the workshop and stayed in the waiting_room.
+41 Ella publicly claimed that onion is in the red_pantry.
+42 Emma privately told Ella that the onion is actually in the blue_bottle.
+43 Emma saw a monkey.
+Question: Where is the corn really?
+Answer: blue_cupboard
+Choices: A. red_bottle, B. blue_cupboard, C. red_bucket, D. red_envelope, E. red_container, F. blue_bottle, G. red_pantry, H. green_box, I. blue_drawer, J. green_pantry, K. blue_suitcase, L. blue_treasure_chest, M. red_cupboard, N. green_treasure_chest, O. red_basket

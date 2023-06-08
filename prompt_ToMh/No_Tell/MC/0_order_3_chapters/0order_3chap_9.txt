@@ -1,35 +1,36 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aiden, Logan, Charlotte, Mia and Jack entered the playroom.
-2 The banana is in the red_container.
-3 Aiden moved the banana to the blue_bathtub.
-4 Aiden exited the playroom and stayed in the waiting_room.
-5 Logan moved the banana to the red_crate.
-6 Logan exited the playroom and stayed in the waiting_room.
-7 Charlotte made no movements and stayed in the playroom for 10 minutes.
-8 Charlotte exited the playroom and stayed in the waiting_room.
-9 Mia made no movements and stayed in the playroom for 10 minutes.
-10 Mia exited the playroom and stayed in the waiting_room.
-11 Jack moved the banana to the red_container.
-12 Jack exited the playroom and stayed in the waiting_room.
-13 Logan, Charlotte and Jack entered the garden.
-14 The spinach is in the green_container.
-15 Logan moved the spinach to the blue_box.
-16 Logan exited the garden and stayed in the waiting_room.
-17 Charlotte moved the spinach to the red_suitcase.
-18 Charlotte exited the garden and stayed in the waiting_room.
-19 Jack moved the spinach to the red_basket.
-20 Jack exited the garden and stayed in the waiting_room.
-21 Charlotte, Logan, Mia and Aiden entered the crawlspace.
-22 The melon is in the blue_envelope.
-23 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
-24 Charlotte exited the crawlspace and stayed in the waiting_room.
-25 Logan made no movements and stayed in the crawlspace for 10 minutes.
-26 Logan exited the crawlspace and stayed in the waiting_room.
-27 Mia moved the melon to the blue_container.
-28 Mia exited the crawlspace and stayed in the waiting_room.
-29 Aiden made no movements and stayed in the crawlspace for 10 minutes.
-30 Aiden exited the crawlspace and stayed in the waiting_room.
-Question: Where is the banana really?
-Choices: A. blue_container, B. blue_envelope, C. blue_bucket, D. red_drawer, E. red_bottle, F. blue_bathtub, G. red_container, H. red_crate, I. green_bottle, J. green_envelope, K. green_container, L. blue_box, M. green_treasure_chest, N. red_suitcase, O. red_basket
+1 Mila, Amelia, Mia, Chloe and Alexander entered the TV_room.
+2 The grapefruit is in the green_basket.
+3 Mila made no movements and stayed in the TV_room for 10 minutes.
+4 Mila exited the TV_room and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the TV_room for 10 minutes.
+6 Amelia exited the TV_room and stayed in the waiting_room.
+7 Mia made no movements and stayed in the TV_room for 10 minutes.
+8 Mia exited the TV_room and stayed in the waiting_room.
+9 Chloe moved the grapefruit to the blue_cupboard.
+10 Chloe exited the TV_room and stayed in the waiting_room.
+11 Alexander moved the grapefruit to the green_basket.
+12 Alexander exited the TV_room and stayed in the waiting_room.
+13 Amelia, Alexander and Mila entered the TV_room.
+14 The grapefruit is in the green_basket.
+15 Amelia moved the grapefruit to the green_envelope.
+16 Amelia exited the TV_room and stayed in the waiting_room.
+17 Alexander made no movements and stayed in the TV_room for 10 minutes.
+18 Alexander exited the TV_room and stayed in the waiting_room.
+19 Mila made no movements and stayed in the TV_room for 10 minutes.
+20 Mila exited the TV_room and stayed in the waiting_room.
+21 Chloe, Mila, Mia and Alexander entered the garage.
+22 The radish is in the red_pantry.
+23 Chloe moved the radish to the green_bottle.
+24 Chloe exited the garage and stayed in the waiting_room.
+25 Mila made no movements and stayed in the garage for 10 minutes.
+26 Amelia likes the green_treasure_chest.
+27 Mila exited the garage and stayed in the waiting_room.
+28 Mia made no movements and stayed in the garage for 10 minutes.
+29 Mia exited the garage and stayed in the waiting_room.
+30 Alexander made no movements and stayed in the garage for 10 minutes.
+31 Alexander exited the garage and stayed in the waiting_room.
+Question: Where is the grapefruit really?
+Choices: A. blue_suitcase, B. red_basket, C. blue_bottle, D. red_bucket, E. blue_treasure_chest, F. green_bottle, G. red_pantry, H. green_cupboard, I. green_bucket, J. red_envelope, K. blue_crate, L. green_basket, M. blue_cupboard, N. green_envelope, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

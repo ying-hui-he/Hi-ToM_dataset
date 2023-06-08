@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Mila, Avery, Ethan and Olivia entered the playroom.
-2 The cherry is in the red_bucket.
-3 Benjamin made no movements and stayed in the playroom for 10 minutes.
-4 Benjamin exited the playroom and stayed in the waiting_room.
-5 Mila moved the cherry to the blue_crate.
-6 Mila exited the playroom and stayed in the waiting_room.
-7 Avery moved the cherry to the blue_bottle.
-8 Avery exited the playroom and stayed in the waiting_room.
-9 Ethan moved the cherry to the blue_treasure_chest.
-10 Ethan exited the playroom and stayed in the waiting_room.
-11 Olivia made no movements and stayed in the playroom for 10 minutes.
-12 Olivia exited the playroom and stayed in the waiting_room.
-13 Avery publicly claimed that cherry is in the blue_bottle.
-14 Olivia privately told Avery that the cherry is actually in the blue_crate.
-15 Olivia, Benjamin and Avery entered the office.
-16 The cucumber is in the red_bathtub.
-17 Olivia made no movements and stayed in the office for 10 minutes.
-18 Olivia exited the office and stayed in the waiting_room.
-19 Benjamin made no movements and stayed in the office for 10 minutes.
-20 Benjamin exited the office and stayed in the waiting_room.
-21 Avery made no movements and stayed in the office for 10 minutes.
-22 Avery exited the office and stayed in the waiting_room.
-23 Mila, Benjamin, Avery and Olivia entered the office.
-24 The pumpkin is in the red_envelope.
-25 Mila moved the pumpkin to the blue_basket.
-26 Mila exited the office and stayed in the waiting_room.
-27 Benjamin made no movements and stayed in the office for 10 minutes.
-28 Benjamin exited the office and stayed in the waiting_room.
-29 Avery made no movements and stayed in the office for 10 minutes.
-30 Avery exited the office and stayed in the waiting_room.
-31 Olivia moved the pumpkin to the red_bathtub.
-32 Olivia exited the office and stayed in the waiting_room.
-33 Benjamin publicly claimed that pumpkin is in the red_envelope.
-34 Olivia privately told Avery that the pumpkin is actually in the blue_basket.
-Question: Where does Olivia think Avery thinks Mila thinks Benjamin thinks the cherry is?
+1 Sophia saw a cat.
+2 Carter, Jacob, Emily, Owen and Sophia entered the playroom.
+3 The pumpkin is in the green_bathtub.
+4 Carter moved the pumpkin to the red_treasure_chest.
+5 Carter exited the playroom and stayed in the waiting_room.
+6 Jacob made no movements and stayed in the playroom for 10 minutes.
+7 Jacob exited the playroom and stayed in the waiting_room.
+8 Emily made no movements and stayed in the playroom for 10 minutes.
+9 Emily exited the playroom and stayed in the waiting_room.
+10 Owen made no movements and stayed in the playroom for 10 minutes.
+11 Owen exited the playroom and stayed in the waiting_room.
+12 Sophia moved the pumpkin to the green_bathtub.
+13 Sophia exited the playroom and stayed in the waiting_room.
+14 Owen publicly claimed that pumpkin is in the red_box.
+15 Sophia privately told Carter that the pumpkin is actually in the green_bathtub.
+16 Owen dislikes the eggplant.
+17 Emily, Sophia and Owen entered the playroom.
+18 The eggplant is in the red_crate.
+19 Emily made no movements and stayed in the playroom for 10 minutes.
+20 Emily exited the playroom and stayed in the waiting_room.
+21 Sophia moved the eggplant to the red_treasure_chest.
+22 Sophia exited the playroom and stayed in the waiting_room.
+23 Owen made no movements and stayed in the playroom for 10 minutes.
+24 Owen exited the playroom and stayed in the waiting_room.
+25 Sophia, Emily, Carter and Jacob entered the porch.
+26 Emily dislikes the cucumber.
+27 The cucumber is in the blue_envelope.
+28 Sophia moved the cucumber to the red_bottle.
+29 Sophia exited the porch and stayed in the waiting_room.
+30 Emily made no movements and stayed in the porch for 10 minutes.
+31 Emily exited the porch and stayed in the waiting_room.
+32 Carter made no movements and stayed in the porch for 10 minutes.
+33 Carter exited the porch and stayed in the waiting_room.
+34 Jacob moved the cucumber to the blue_drawer.
+35 Jacob exited the porch and stayed in the waiting_room.
+36 Emily privately told Carter that the cucumber is actually in the blue_envelope.
+37 Jacob privately told Owen that the cucumber is actually in the blue_drawer.
+Question: Where does Jacob think Emily thinks Carter thinks Sophia thinks the pumpkin is?
 Answer: None
-Choices: A. green_suitcase, B. blue_drawer, C. red_treasure_chest, D. blue_box, E. red_drawer, F. red_bathtub, G. red_envelope, H. green_envelope, I. blue_basket, J. blue_bathtub, K. blue_treasure_chest, L. red_bucket, M. blue_bottle, N. blue_crate, O. green_bathtub
+Choices: A. green_bathtub, B. red_crate, C. red_treasure_chest, D. red_box, E. green_envelope, F. blue_drawer, G. blue_envelope, H. blue_bathtub, I. blue_cupboard, J. red_bottle, K. red_bucket, L. green_bucket, M. blue_bottle, N. green_cupboard, O. red_container

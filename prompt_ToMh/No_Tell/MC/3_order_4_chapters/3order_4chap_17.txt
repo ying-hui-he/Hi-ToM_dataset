@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Avery, Mia, Aiden, Benjamin and Emma entered the hallway.
-2 The grapefruit is in the red_drawer.
-3 Avery made no movements and stayed in the hallway for 10 minutes.
-4 Avery exited the hallway and stayed in the waiting_room.
-5 Mia made no movements and stayed in the hallway for 10 minutes.
-6 Mia exited the hallway and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the hallway for 10 minutes.
-8 Aiden exited the hallway and stayed in the waiting_room.
-9 Benjamin moved the grapefruit to the red_envelope.
-10 Benjamin exited the hallway and stayed in the waiting_room.
-11 Emma moved the grapefruit to the red_drawer.
-12 Emma exited the hallway and stayed in the waiting_room.
-13 Aiden, Mia and Emma entered the front_yard.
-14 The onion is in the green_container.
-15 Aiden made no movements and stayed in the front_yard for 10 minutes.
-16 Aiden exited the front_yard and stayed in the waiting_room.
-17 Mia moved the onion to the green_crate.
-18 Mia exited the front_yard and stayed in the waiting_room.
-19 Emma moved the onion to the blue_box.
-20 Emma exited the front_yard and stayed in the waiting_room.
-21 Emma, Mia, Benjamin and Aiden entered the front_yard.
-22 The turnip is in the red_basket.
-23 Emma made no movements and stayed in the front_yard for 10 minutes.
-24 Emma exited the front_yard and stayed in the waiting_room.
-25 Mia moved the turnip to the blue_box.
-26 Mia exited the front_yard and stayed in the waiting_room.
-27 Benjamin made no movements and stayed in the front_yard for 10 minutes.
-28 Benjamin exited the front_yard and stayed in the waiting_room.
-29 Aiden moved the turnip to the green_container.
-30 Aiden exited the front_yard and stayed in the waiting_room.
-31 Aiden and Mia entered the hallway.
-32 The grapefruit is in the red_drawer.
-33 Aiden moved the grapefruit to the blue_drawer.
-34 Aiden exited the hallway and stayed in the waiting_room.
-35 Mia made no movements and stayed in the hallway for 10 minutes.
-36 Mia exited the hallway and stayed in the waiting_room.
-Question: Where does Aiden think Mia thinks Emma thinks the grapefruit is?
-Choices: A. red_basket, B. green_container, C. blue_box, D. green_crate, E. blue_suitcase, F. red_bathtub, G. red_bucket, H. green_envelope, I. blue_container, J. red_suitcase, K. green_bathtub, L. red_drawer, M. red_envelope, N. red_crate, O. blue_drawer
+1 Isla, Mason, Lucas, Owen and Emma entered the attic.
+2 The green_pepper is in the red_pantry.
+3 Isla made no movements and stayed in the attic for 10 minutes.
+4 Isla exited the attic and stayed in the waiting_room.
+5 Mason moved the green_pepper to the red_bottle.
+6 Mason exited the attic and stayed in the waiting_room.
+7 Lucas moved the green_pepper to the green_pantry.
+8 Emma lost his watch.
+9 Lucas exited the attic and stayed in the waiting_room.
+10 Owen moved the green_pepper to the green_cupboard.
+11 Owen exited the attic and stayed in the waiting_room.
+12 Emma made no movements and stayed in the attic for 10 minutes.
+13 Emma exited the attic and stayed in the waiting_room.
+14 Owen, Isla and Mason entered the living_room.
+15 The corn is in the blue_envelope.
+16 Owen moved the corn to the blue_crate.
+17 Owen exited the living_room and stayed in the waiting_room.
+18 Isla moved the corn to the red_cupboard.
+19 Isla exited the living_room and stayed in the waiting_room.
+20 Isla saw a mouse.
+21 Mason moved the corn to the green_treasure_chest.
+22 Mason exited the living_room and stayed in the waiting_room.
+23 Owen, Emma, Isla and Mason entered the living_room.
+24 Owen lost his bottle.
+25 The corn is in the green_treasure_chest.
+26 Owen moved the corn to the blue_bathtub.
+27 Owen exited the living_room and stayed in the waiting_room.
+28 Emma moved the corn to the blue_envelope.
+29 Emma exited the living_room and stayed in the waiting_room.
+30 Isla made no movements and stayed in the living_room for 10 minutes.
+31 Isla exited the living_room and stayed in the waiting_room.
+32 Mason saw a dog.
+33 Mason made no movements and stayed in the living_room for 10 minutes.
+34 Mason exited the living_room and stayed in the waiting_room.
+35 Lucas and Emma entered the living_room.
+36 The corn is in the blue_envelope.
+37 Lucas made no movements and stayed in the living_room for 10 minutes.
+38 Lucas exited the living_room and stayed in the waiting_room.
+39 Emma moved the corn to the blue_crate.
+40 Emma exited the living_room and stayed in the waiting_room.
+41 Owen likes the red_pantry.
+Question: Where does Emma think Owen thinks Lucas thinks the green_pepper is?
+Choices: A. red_cupboard, B. blue_envelope, C. green_treasure_chest, D. blue_bathtub, E. blue_crate, F. blue_suitcase, G. green_box, H. red_envelope, I. blue_drawer, J. red_box, K. red_bottle, L. red_pantry, M. green_pantry, N. green_cupboard, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

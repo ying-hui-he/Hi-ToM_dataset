@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Oliver, Gracie, Logan and Jacob entered the patio.
-2 The orange is in the green_container.
-3 Mia made no movements and stayed in the patio for 10 minutes.
-4 Mia exited the patio and stayed in the waiting_room.
-5 Oliver moved the orange to the blue_bucket.
-6 Oliver exited the patio and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the patio for 10 minutes.
-8 Gracie exited the patio and stayed in the waiting_room.
-9 Logan moved the orange to the blue_box.
-10 Logan exited the patio and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the patio for 10 minutes.
-12 Jacob exited the patio and stayed in the waiting_room.
-13 Jacob, Gracie and Mia entered the patio.
-14 The green_pepper is in the blue_bucket.
-15 Jacob made no movements and stayed in the patio for 10 minutes.
-16 Jacob exited the patio and stayed in the waiting_room.
-17 Gracie made no movements and stayed in the patio for 10 minutes.
-18 Gracie exited the patio and stayed in the waiting_room.
-19 Mia made no movements and stayed in the patio for 10 minutes.
-20 Mia exited the patio and stayed in the waiting_room.
-21 Oliver, Jacob, Logan and Mia entered the master_bedroom.
-22 The banana is in the blue_crate.
-23 Oliver moved the banana to the green_envelope.
-24 Oliver exited the master_bedroom and stayed in the waiting_room.
-25 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
-26 Jacob exited the master_bedroom and stayed in the waiting_room.
-27 Logan moved the banana to the blue_drawer.
-28 Logan exited the master_bedroom and stayed in the waiting_room.
-29 Mia made no movements and stayed in the master_bedroom for 10 minutes.
-30 Mia exited the master_bedroom and stayed in the waiting_room.
-31 Mia and Gracie entered the patio.
-32 The orange is in the blue_box.
-33 Mia made no movements and stayed in the patio for 10 minutes.
-34 Mia exited the patio and stayed in the waiting_room.
-35 Gracie made no movements and stayed in the patio for 10 minutes.
-36 Gracie exited the patio and stayed in the waiting_room.
-Question: Where does Logan think Gracie thinks the orange is?
-Choices: A. blue_crate, B. blue_drawer, C. blue_envelope, D. green_envelope, E. blue_bathtub, F. blue_bucket, G. green_container, H. blue_box, I. green_suitcase, J. red_bathtub, K. green_bathtub, L. blue_treasure_chest, M. red_suitcase, N. green_bottle, O. red_bucket
+1 Ava, Ella, Chloe, Owen and Jacob entered the back_yard.
+2 The watermelon is in the blue_bottle.
+3 Ava moved the watermelon to the green_bathtub.
+4 Ava exited the back_yard and stayed in the waiting_room.
+5 Ella made no movements and stayed in the back_yard for 10 minutes.
+6 Ava saw a cat.
+7 Ella exited the back_yard and stayed in the waiting_room.
+8 Chloe moved the watermelon to the green_bottle.
+9 Chloe exited the back_yard and stayed in the waiting_room.
+10 Owen moved the watermelon to the red_bottle.
+11 Owen exited the back_yard and stayed in the waiting_room.
+12 Jacob made no movements and stayed in the back_yard for 10 minutes.
+13 Jacob exited the back_yard and stayed in the waiting_room.
+14 Ava, Ella and Chloe entered the patio.
+15 Ella lost his watch.
+16 The broccoli is in the green_pantry.
+17 Ava moved the broccoli to the green_treasure_chest.
+18 Ava exited the patio and stayed in the waiting_room.
+19 Ella moved the broccoli to the blue_crate.
+20 Ella exited the patio and stayed in the waiting_room.
+21 Chloe made no movements and stayed in the patio for 10 minutes.
+22 Chloe exited the patio and stayed in the waiting_room.
+23 Ella, Jacob, Chloe and Ava entered the closet.
+24 The persimmon is in the red_pantry.
+25 Ella moved the persimmon to the red_bucket.
+26 Ella exited the closet and stayed in the waiting_room.
+27 Jacob moved the persimmon to the green_suitcase.
+28 Jacob exited the closet and stayed in the waiting_room.
+29 Chloe moved the persimmon to the red_box.
+30 Chloe exited the closet and stayed in the waiting_room.
+31 Ava moved the persimmon to the blue_envelope.
+32 Ava exited the closet and stayed in the waiting_room.
+33 Jacob and Owen entered the back_yard.
+34 The radish is in the green_bathtub.
+35 Jacob made no movements and stayed in the back_yard for 10 minutes.
+36 Jacob exited the back_yard and stayed in the waiting_room.
+37 Owen moved the radish to the blue_bucket.
+38 Owen exited the back_yard and stayed in the waiting_room.
+Question: Where does Ella think Owen thinks the watermelon is?
+Choices: A. red_pantry, B. red_box, C. green_suitcase, D. blue_envelope, E. red_bucket, F. blue_crate, G. green_pantry, H. green_treasure_chest, I. green_box, J. blue_drawer, K. green_bathtub, L. blue_bottle, M. blue_bucket, N. green_bottle, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

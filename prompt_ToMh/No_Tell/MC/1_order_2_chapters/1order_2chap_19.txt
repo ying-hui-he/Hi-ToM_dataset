@@ -1,25 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Emily, Mila, Gracie and Jacob entered the hall.
-2 The plum is in the red_bathtub.
-3 Mia made no movements and stayed in the hall for 10 minutes.
-4 Mia exited the hall and stayed in the waiting_room.
-5 Emily moved the plum to the blue_bathtub.
-6 Emily exited the hall and stayed in the waiting_room.
-7 Mila made no movements and stayed in the hall for 10 minutes.
-8 Mila exited the hall and stayed in the waiting_room.
-9 Gracie made no movements and stayed in the hall for 10 minutes.
-10 Gracie exited the hall and stayed in the waiting_room.
-11 Jacob moved the plum to the red_bathtub.
-12 Jacob exited the hall and stayed in the waiting_room.
-13 Gracie, Mia and Jacob entered the hall.
-14 The plum is in the red_bathtub.
-15 Gracie made no movements and stayed in the hall for 10 minutes.
-16 Gracie exited the hall and stayed in the waiting_room.
-17 Mia moved the plum to the red_container.
-18 Mia exited the hall and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the hall for 10 minutes.
-20 Jacob exited the hall and stayed in the waiting_room.
-Question: Where does Mia think the plum is?
-Choices: A. red_bathtub, B. red_drawer, C. blue_bathtub, D. red_container, E. green_envelope, F. blue_envelope, G. red_envelope, H. red_bottle, I. green_cupboard, J. blue_box, K. green_bathtub, L. green_bottle, M. green_treasure_chest, N. blue_container, O. blue_basket
+1 Isla, Lucas, Liam, Charlotte and Abigail entered the garden.
+2 The broccoli is in the red_treasure_chest.
+3 Isla made no movements and stayed in the garden for 10 minutes.
+4 Isla exited the garden and stayed in the waiting_room.
+5 Lucas made no movements and stayed in the garden for 10 minutes.
+6 Lucas exited the garden and stayed in the waiting_room.
+7 Liam moved the broccoli to the red_crate.
+8 Liam exited the garden and stayed in the waiting_room.
+9 Abigail lost his phone.
+10 Charlotte made no movements and stayed in the garden for 10 minutes.
+11 Charlotte exited the garden and stayed in the waiting_room.
+12 Charlotte likes the green_envelope.
+13 Abigail made no movements and stayed in the garden for 10 minutes.
+14 Abigail exited the garden and stayed in the waiting_room.
+15 Charlotte lost his phone.
+16 Charlotte, Isla and Abigail entered the lounge.
+17 The carrot is in the blue_suitcase.
+18 Charlotte moved the carrot to the green_treasure_chest.
+19 Charlotte exited the lounge and stayed in the waiting_room.
+20 Isla made no movements and stayed in the lounge for 10 minutes.
+21 Isla exited the lounge and stayed in the waiting_room.
+22 Abigail made no movements and stayed in the lounge for 10 minutes.
+23 Abigail exited the lounge and stayed in the waiting_room.
+Question: Where does Liam think the broccoli is?
+Choices: A. blue_envelope, B. green_pantry, C. blue_drawer, D. blue_cupboard, E. red_box, F. green_treasure_chest, G. blue_suitcase, H. green_envelope, I. green_bottle, J. red_envelope, K. red_bathtub, L. red_treasure_chest, M. red_pantry, N. red_crate, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

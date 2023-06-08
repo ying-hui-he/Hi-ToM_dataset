@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mia, Amelia, Charlotte, James and Carter entered the attic.
-2 The pumpkin is in the blue_basket.
-3 Mia moved the pumpkin to the blue_suitcase.
-4 Mia exited the attic and stayed in the waiting_room.
-5 Amelia moved the pumpkin to the blue_bottle.
-6 Amelia exited the attic and stayed in the waiting_room.
-7 Charlotte moved the pumpkin to the red_drawer.
-8 Charlotte exited the attic and stayed in the waiting_room.
-9 James made no movements and stayed in the attic for 10 minutes.
-10 James exited the attic and stayed in the waiting_room.
-11 Carter made no movements and stayed in the attic for 10 minutes.
-12 Carter exited the attic and stayed in the waiting_room.
-13 James, Amelia and Charlotte entered the attic.
-14 The plum is in the blue_bottle.
-15 James made no movements and stayed in the attic for 10 minutes.
-16 James exited the attic and stayed in the waiting_room.
-17 Amelia moved the plum to the blue_suitcase.
-18 Amelia exited the attic and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the attic for 10 minutes.
-20 Charlotte exited the attic and stayed in the waiting_room.
-21 Carter, James, Charlotte and Amelia entered the porch.
-22 The lemon is in the red_bucket.
-23 Carter moved the lemon to the green_container.
-24 Carter exited the porch and stayed in the waiting_room.
-25 James made no movements and stayed in the porch for 10 minutes.
-26 James exited the porch and stayed in the waiting_room.
-27 Charlotte made no movements and stayed in the porch for 10 minutes.
-28 Charlotte exited the porch and stayed in the waiting_room.
-29 Amelia made no movements and stayed in the porch for 10 minutes.
-30 Amelia exited the porch and stayed in the waiting_room.
-Question: Where is the pumpkin really?
-Answer: red_drawer
-Choices: A. blue_box, B. red_crate, C. blue_drawer, D. red_container, E. red_basket, F. blue_bottle, G. blue_basket, H. green_crate, I. blue_suitcase, J. red_drawer, K. red_envelope, L. red_bucket, M. blue_treasure_chest, N. green_container, O. green_cupboard
+1 Emma, Ethan, Isla, Jacob and Aiden entered the hall.
+2 The tomato is in the red_treasure_chest.
+3 Emma made no movements and stayed in the hall for 10 minutes.
+4 Emma exited the hall and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the hall for 10 minutes.
+6 Ethan exited the hall and stayed in the waiting_room.
+7 Isla moved the tomato to the blue_treasure_chest.
+8 Isla exited the hall and stayed in the waiting_room.
+9 Jacob moved the tomato to the green_basket.
+10 Jacob exited the hall and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the hall for 10 minutes.
+12 Aiden exited the hall and stayed in the waiting_room.
+13 Isla, Emma and Aiden entered the basement.
+14 The onion is in the red_basket.
+15 Isla moved the onion to the blue_bathtub.
+16 Jacob saw a mouse.
+17 Isla exited the basement and stayed in the waiting_room.
+18 Emma moved the onion to the green_box.
+19 Emma exited the basement and stayed in the waiting_room.
+20 Aiden moved the onion to the red_envelope.
+21 Aiden exited the basement and stayed in the waiting_room.
+22 Jacob, Ethan, Aiden and Isla entered the basement.
+23 The onion is in the red_envelope.
+24 Jacob made no movements and stayed in the basement for 10 minutes.
+25 Jacob exited the basement and stayed in the waiting_room.
+26 Ethan made no movements and stayed in the basement for 10 minutes.
+27 Ethan exited the basement and stayed in the waiting_room.
+28 Aiden moved the onion to the blue_suitcase.
+29 Aiden exited the basement and stayed in the waiting_room.
+30 Isla made no movements and stayed in the basement for 10 minutes.
+31 Ethan saw a monkey.
+32 Isla exited the basement and stayed in the waiting_room.
+Question: Where is the tomato really?
+Answer: green_basket
+Choices: A. red_container, B. green_bathtub, C. blue_envelope, D. blue_drawer, E. green_pantry, F. red_basket, G. green_box, H. blue_suitcase, I. red_envelope, J. blue_bathtub, K. red_treasure_chest, L. green_basket, M. green_envelope, N. blue_treasure_chest, O. green_suitcase

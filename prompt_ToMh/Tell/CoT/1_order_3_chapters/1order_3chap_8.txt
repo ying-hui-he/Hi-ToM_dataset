@@ -1,39 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Owen, Amelia, Aiden, Logan and Emily entered the office.
-2 The pumpkin is in the red_suitcase.
-3 Owen moved the pumpkin to the red_drawer.
-4 Owen exited the office and stayed in the waiting_room.
-5 Amelia moved the pumpkin to the green_suitcase.
-6 Amelia exited the office and stayed in the waiting_room.
-7 Aiden made no movements and stayed in the office for 10 minutes.
-8 Aiden exited the office and stayed in the waiting_room.
-9 Logan moved the pumpkin to the blue_envelope.
-10 Logan exited the office and stayed in the waiting_room.
-11 Emily made no movements and stayed in the office for 10 minutes.
-12 Emily exited the office and stayed in the waiting_room.
-13 Logan publicly claimed that pumpkin is in the red_suitcase.
-14 Emily privately told Owen that the pumpkin is actually in the blue_envelope.
-15 Emily, Amelia and Logan entered the workshop.
-16 The green_pepper is in the red_container.
-17 Emily moved the green_pepper to the green_bottle.
-18 Emily exited the workshop and stayed in the waiting_room.
-19 Amelia moved the green_pepper to the blue_treasure_chest.
-20 Amelia exited the workshop and stayed in the waiting_room.
-21 Logan moved the green_pepper to the green_treasure_chest.
-22 Logan exited the workshop and stayed in the waiting_room.
-23 Amelia, Logan, Aiden and Emily entered the workshop.
-24 The spinach is in the green_treasure_chest.
-25 Amelia made no movements and stayed in the workshop for 10 minutes.
-26 Amelia exited the workshop and stayed in the waiting_room.
-27 Logan made no movements and stayed in the workshop for 10 minutes.
-28 Logan exited the workshop and stayed in the waiting_room.
-29 Aiden made no movements and stayed in the workshop for 10 minutes.
-30 Aiden exited the workshop and stayed in the waiting_room.
-31 Emily moved the spinach to the red_container.
-32 Emily exited the workshop and stayed in the waiting_room.
-33 Amelia publicly claimed that spinach is in the green_treasure_chest.
-34 Emily privately told Owen that the spinach is actually in the red_container.
-Question: Where does Owen think the pumpkin is?
-Choices: A. red_suitcase, B. green_suitcase, C. blue_envelope, D. red_drawer, E. blue_bottle, F. green_treasure_chest, G. red_container, H. blue_treasure_chest, I. green_bottle, J. blue_box, K. blue_bathtub, L. red_envelope, M. blue_suitcase, N. green_cupboard, O. blue_bucket
+1 Mason, Amelia, Emma, Owen and Mia entered the bedroom.
+2 The pineapple is in the blue_crate.
+3 Mason moved the pineapple to the green_pantry.
+4 Mason exited the bedroom and stayed in the waiting_room.
+5 Amelia moved the pineapple to the red_envelope.
+6 Amelia exited the bedroom and stayed in the waiting_room.
+7 Emma made no movements and stayed in the bedroom for 10 minutes.
+8 Mia dislikes the potato.
+9 Emma exited the bedroom and stayed in the waiting_room.
+10 Owen made no movements and stayed in the bedroom for 10 minutes.
+11 Owen exited the bedroom and stayed in the waiting_room.
+12 Mia made no movements and stayed in the bedroom for 10 minutes.
+13 Mia exited the bedroom and stayed in the waiting_room.
+14 Owen publicly claimed that pineapple is in the green_bucket.
+15 Mia privately told Mason that the pineapple is actually in the red_envelope.
+16 Amelia, Mason and Emma entered the garden.
+17 The potato is in the green_treasure_chest.
+18 Amelia moved the potato to the green_box.
+19 Amelia exited the garden and stayed in the waiting_room.
+20 Mason made no movements and stayed in the garden for 10 minutes.
+21 Mason exited the garden and stayed in the waiting_room.
+22 Emma moved the potato to the green_suitcase.
+23 Mia lost his watch.
+24 Emma exited the garden and stayed in the waiting_room.
+25 Emma, Mason, Owen and Amelia entered the garden.
+26 Amelia saw a monkey.
+27 The potato is in the green_suitcase.
+28 Mia likes the green_treasure_chest.
+29 Emma made no movements and stayed in the garden for 10 minutes.
+30 Emma exited the garden and stayed in the waiting_room.
+31 Mason lost his watch.
+32 Mason made no movements and stayed in the garden for 10 minutes.
+33 Owen likes the green_treasure_chest.
+34 Mason exited the garden and stayed in the waiting_room.
+35 Owen made no movements and stayed in the garden for 10 minutes.
+36 Owen exited the garden and stayed in the waiting_room.
+37 Amelia moved the potato to the green_bottle.
+38 Amelia exited the garden and stayed in the waiting_room.
+39 Emma publicly claimed that potato is in the red_pantry.
+40 Amelia privately told Mia that the potato is actually in the green_bottle.
+Question: Where does Owen think the pineapple is?
+42 Mia lost his bottle.
+Choices: A. green_pantry, B. blue_crate, C. blue_bottle, D. green_bucket, E. red_envelope, F. green_box, G. green_treasure_chest, H. green_suitcase, I. red_pantry, J. green_bottle, K. red_bathtub, L. red_basket, M. red_crate, N. blue_envelope, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

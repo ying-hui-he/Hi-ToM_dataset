@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Noah, Benjamin, James and Jackson entered the hallway.
-2 The pumpkin is in the red_container.
-3 Abigail moved the pumpkin to the red_basket.
-4 Abigail exited the hallway and stayed in the waiting_room.
-5 Noah made no movements and stayed in the hallway for 10 minutes.
-6 Noah exited the hallway and stayed in the waiting_room.
-7 Benjamin moved the pumpkin to the red_crate.
-8 Benjamin exited the hallway and stayed in the waiting_room.
-9 James made no movements and stayed in the hallway for 10 minutes.
-10 James exited the hallway and stayed in the waiting_room.
-11 Jackson moved the pumpkin to the red_container.
-12 Jackson exited the hallway and stayed in the waiting_room.
-13 Benjamin publicly claimed that pumpkin is in the blue_bucket.
-14 Jackson privately told Benjamin that the pumpkin is actually in the red_crate.
-Question: Where does James think Noah thinks the pumpkin is?
-Choices: A. blue_basket, B. green_bottle, C. red_bucket, D. green_crate, E. red_envelope, F. green_bathtub, G. blue_box, H. red_bathtub, I. green_suitcase, J. green_envelope, K. red_crate, L. red_container, M. blue_suitcase, N. blue_bucket, O. red_basket
+1 Ella, Mia, Logan, Liam and Sophia entered the laundry.
+2 Mia dislikes the broccoli.
+3 The cucumber is in the blue_suitcase.
+4 Ella moved the cucumber to the red_bottle.
+5 Ella exited the laundry and stayed in the waiting_room.
+6 Mia made no movements and stayed in the laundry for 10 minutes.
+7 Mia exited the laundry and stayed in the waiting_room.
+8 Logan moved the cucumber to the green_basket.
+9 Logan exited the laundry and stayed in the waiting_room.
+10 Liam made no movements and stayed in the laundry for 10 minutes.
+11 Liam exited the laundry and stayed in the waiting_room.
+12 Sophia made no movements and stayed in the laundry for 10 minutes.
+13 Sophia exited the laundry and stayed in the waiting_room.
+14 Liam publicly claimed that cucumber is in the green_envelope.
+15 Sophia privately told Ella that the cucumber is actually in the green_basket.
+Question: Where does Logan think Sophia thinks the cucumber is?
+Choices: A. red_pantry, B. blue_crate, C. blue_treasure_chest, D. green_bottle, E. green_suitcase, F. green_basket, G. blue_suitcase, H. red_container, I. red_bottle, J. green_envelope, K. blue_bathtub, L. red_box, M. red_treasure_chest, N. red_crate, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

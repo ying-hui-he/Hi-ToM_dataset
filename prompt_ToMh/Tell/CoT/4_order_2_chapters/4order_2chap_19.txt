@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Charlotte, Jackson, Jayden and Owen entered the closet.
-2 The carrot is in the red_container.
-3 Hannah moved the carrot to the green_suitcase.
-4 Hannah exited the closet and stayed in the waiting_room.
-5 Charlotte moved the carrot to the red_bathtub.
-6 Charlotte exited the closet and stayed in the waiting_room.
-7 Jackson moved the carrot to the green_treasure_chest.
-8 Jackson exited the closet and stayed in the waiting_room.
-9 Jayden made no movements and stayed in the closet for 10 minutes.
-10 Jayden exited the closet and stayed in the waiting_room.
-11 Owen made no movements and stayed in the closet for 10 minutes.
-12 Owen exited the closet and stayed in the waiting_room.
-13 Jayden, Jackson and Hannah entered the master_bedroom.
-14 The pineapple is in the blue_treasure_chest.
-15 Jayden moved the pineapple to the red_envelope.
-16 Jayden exited the master_bedroom and stayed in the waiting_room.
-17 Jackson made no movements and stayed in the master_bedroom for 10 minutes.
-18 Jackson exited the master_bedroom and stayed in the waiting_room.
-19 Hannah moved the pineapple to the red_drawer.
-20 Hannah exited the master_bedroom and stayed in the waiting_room.
-21 Jackson privately told Hannah that the pineapple is actually in the blue_treasure_chest.
-22 Hannah privately told Owen that the pineapple is actually in the red_drawer.
-Question: Where does Owen think Jackson thinks Charlotte thinks Hannah thinks the carrot is?
-Choices: A. blue_bucket, B. blue_pantry, C. blue_envelope, D. blue_suitcase, E. red_bottle, F. red_container, G. green_suitcase, H. green_envelope, I. red_bathtub, J. green_treasure_chest, K. blue_container, L. blue_treasure_chest, M. red_envelope, N. red_drawer, O. blue_bottle
+1 Carter, Gracie, Aiden, Charlotte and Mila entered the porch.
+2 The celery is in the blue_crate.
+3 Carter moved the celery to the green_bottle.
+4 Carter exited the porch and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the porch for 10 minutes.
+6 Charlotte dislikes the asparagus.
+7 Gracie exited the porch and stayed in the waiting_room.
+8 Aiden made no movements and stayed in the porch for 10 minutes.
+9 Aiden exited the porch and stayed in the waiting_room.
+10 Charlotte moved the celery to the blue_treasure_chest.
+11 Charlotte exited the porch and stayed in the waiting_room.
+12 Mila moved the celery to the blue_crate.
+13 Mila exited the porch and stayed in the waiting_room.
+14 Mila saw a monkey.
+15 Carter, Aiden and Charlotte entered the living_room.
+16 The eggplant is in the blue_drawer.
+17 Carter made no movements and stayed in the living_room for 10 minutes.
+18 Carter likes the blue_drawer.
+19 Carter exited the living_room and stayed in the waiting_room.
+20 Aiden made no movements and stayed in the living_room for 10 minutes.
+21 Aiden exited the living_room and stayed in the waiting_room.
+22 Charlotte moved the eggplant to the green_basket.
+23 Charlotte exited the living_room and stayed in the waiting_room.
+24 Aiden publicly claimed that eggplant is in the blue_drawer.
+25 Charlotte privately told Aiden that the eggplant is actually in the red_cupboard.
+Question: Where does Mila think Charlotte thinks Aiden thinks Carter thinks the celery is?
+27 Charlotte dislikes the asparagus.
+Choices: A. blue_crate, B. blue_treasure_chest, C. blue_envelope, D. green_bottle, E. red_bathtub, F. blue_cupboard, G. blue_drawer, H. green_basket, I. red_cupboard, J. red_bottle, K. green_box, L. red_box, M. blue_bathtub, N. red_bucket, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

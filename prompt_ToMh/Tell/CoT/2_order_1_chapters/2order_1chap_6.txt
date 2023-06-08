@@ -1,19 +1,22 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mila, Jackson, Gracie, William and James entered the bathroom.
-2 The cucumber is in the red_envelope.
-3 Mila made no movements and stayed in the bathroom for 10 minutes.
-4 Mila exited the bathroom and stayed in the waiting_room.
-5 Jackson moved the cucumber to the blue_box.
-6 Jackson exited the bathroom and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the bathroom for 10 minutes.
-8 Gracie exited the bathroom and stayed in the waiting_room.
-9 William made no movements and stayed in the bathroom for 10 minutes.
-10 William exited the bathroom and stayed in the waiting_room.
-11 James made no movements and stayed in the bathroom for 10 minutes.
-12 James exited the bathroom and stayed in the waiting_room.
-13 Gracie publicly claimed that cucumber is in the red_bottle.
-14 James privately told Gracie that the cucumber is actually in the red_envelope.
-Question: Where does James think Gracie thinks the cucumber is?
-Choices: A. red_envelope, B. red_suitcase, C. blue_box, D. blue_basket, E. red_bottle, F. green_container, G. red_bathtub, H. green_bottle, I. red_basket, J. green_envelope, K. red_container, L. blue_treasure_chest, M. green_treasure_chest, N. blue_suitcase, O. blue_envelope
+1 Logan, Alexander, Aiden, Ava and Owen entered the porch.
+2 The carrot is in the blue_envelope.
+3 Logan moved the carrot to the red_bottle.
+4 Logan exited the porch and stayed in the waiting_room.
+5 Alexander made no movements and stayed in the porch for 10 minutes.
+6 Alexander exited the porch and stayed in the waiting_room.
+7 Aiden moved the carrot to the green_treasure_chest.
+8 Aiden exited the porch and stayed in the waiting_room.
+9 Ava moved the carrot to the blue_crate.
+10 Ava dislikes the strawberry.
+11 Ava exited the porch and stayed in the waiting_room.
+12 Owen made no movements and stayed in the porch for 10 minutes.
+13 Owen exited the porch and stayed in the waiting_room.
+14 Aiden likes the green_pantry.
+15 Ava publicly claimed that carrot is in the blue_crate.
+16 Logan likes the blue_crate.
+17 Owen privately told Logan that the carrot is actually in the blue_crate.
+Question: Where does Aiden think Ava thinks the carrot is?
+Choices: A. red_bathtub, B. blue_bathtub, C. red_cupboard, D. green_pantry, E. green_bottle, F. blue_bucket, G. red_pantry, H. green_cupboard, I. blue_suitcase, J. red_bucket, K. blue_envelope, L. green_treasure_chest, M. red_bottle, N. green_basket, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

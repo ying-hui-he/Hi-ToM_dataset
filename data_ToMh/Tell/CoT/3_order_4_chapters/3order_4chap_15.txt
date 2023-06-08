@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Logan, Evelyn, Emma, Hannah and Aria entered the hallway.
-2 The lettuce is in the blue_pantry.
-3 Logan moved the lettuce to the blue_crate.
-4 Logan exited the hallway and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the hallway for 10 minutes.
-6 Evelyn exited the hallway and stayed in the waiting_room.
-7 Emma made no movements and stayed in the hallway for 10 minutes.
-8 Emma exited the hallway and stayed in the waiting_room.
-9 Hannah moved the lettuce to the blue_suitcase.
-10 Hannah exited the hallway and stayed in the waiting_room.
-11 Aria moved the lettuce to the blue_pantry.
-12 Aria exited the hallway and stayed in the waiting_room.
-13 Hannah, Aria and Logan entered the hallway.
-14 The potato is in the blue_suitcase.
-15 Hannah made no movements and stayed in the hallway for 10 minutes.
-16 Hannah exited the hallway and stayed in the waiting_room.
-17 Aria moved the potato to the green_envelope.
-18 Aria exited the hallway and stayed in the waiting_room.
-19 Logan made no movements and stayed in the hallway for 10 minutes.
-20 Logan exited the hallway and stayed in the waiting_room.
-21 Aria publicly claimed that potato is in the blue_suitcase.
-22 Logan privately told Aria that the potato is actually in the green_envelope.
-23 Emma, Hannah, Evelyn and Logan entered the dining_room.
-24 The cherry is in the green_cupboard.
-25 Emma moved the cherry to the blue_bottle.
-26 Emma exited the dining_room and stayed in the waiting_room.
-27 Hannah made no movements and stayed in the dining_room for 10 minutes.
-28 Hannah exited the dining_room and stayed in the waiting_room.
-29 Evelyn made no movements and stayed in the dining_room for 10 minutes.
-30 Evelyn exited the dining_room and stayed in the waiting_room.
-31 Logan made no movements and stayed in the dining_room for 10 minutes.
-32 Logan exited the dining_room and stayed in the waiting_room.
-33 Hannah and Aria entered the cellar.
-34 The persimmon is in the green_suitcase.
-35 Hannah made no movements and stayed in the cellar for 10 minutes.
-36 Hannah exited the cellar and stayed in the waiting_room.
-37 Aria made no movements and stayed in the cellar for 10 minutes.
-38 Aria exited the cellar and stayed in the waiting_room.
-39 Hannah publicly claimed that persimmon is in the blue_drawer.
-40 Aria privately told Hannah that the persimmon is actually in the green_suitcase.
-Question: Where does Aria think Emma thinks Evelyn thinks the lettuce is?
+1 Aria saw a mouse.
+2 Jack, Mia, Sophia, Charlotte and Aria entered the staircase.
+3 The melon is in the green_suitcase.
+4 Jack moved the melon to the red_treasure_chest.
+5 Jack exited the staircase and stayed in the waiting_room.
+6 Mia moved the melon to the blue_bucket.
+7 Mia exited the staircase and stayed in the waiting_room.
+8 Sophia made no movements and stayed in the staircase for 10 minutes.
+9 Sophia exited the staircase and stayed in the waiting_room.
+10 Charlotte moved the melon to the blue_envelope.
+11 Charlotte exited the staircase and stayed in the waiting_room.
+12 Aria made no movements and stayed in the staircase for 10 minutes.
+13 Aria exited the staircase and stayed in the waiting_room.
+14 Mia, Aria and Jack entered the garden.
+15 The carrot is in the red_bathtub.
+16 Mia made no movements and stayed in the garden for 10 minutes.
+17 Mia exited the garden and stayed in the waiting_room.
+18 Aria moved the carrot to the green_box.
+19 Aria exited the garden and stayed in the waiting_room.
+20 Jack made no movements and stayed in the garden for 10 minutes.
+21 Jack exited the garden and stayed in the waiting_room.
+22 Jack publicly claimed that carrot is in the red_bathtub.
+23 Mia privately told Jack that the carrot is actually in the red_bucket.
+24 Aria, Sophia, Jack and Mia entered the dining_room.
+25 The eggplant is in the red_pantry.
+26 Aria moved the eggplant to the red_box.
+27 Aria exited the dining_room and stayed in the waiting_room.
+28 Sophia moved the eggplant to the green_cupboard.
+29 Sophia exited the dining_room and stayed in the waiting_room.
+30 Jack moved the eggplant to the red_container.
+31 Sophia likes the red_bucket.
+32 Jack exited the dining_room and stayed in the waiting_room.
+33 Mia moved the eggplant to the blue_treasure_chest.
+34 Mia exited the dining_room and stayed in the waiting_room.
+35 Sophia and Mia entered the dining_room.
+36 The eggplant is in the blue_treasure_chest.
+37 Sophia made no movements and stayed in the dining_room for 10 minutes.
+38 Sophia exited the dining_room and stayed in the waiting_room.
+39 Mia moved the eggplant to the red_pantry.
+40 Mia exited the dining_room and stayed in the waiting_room.
+41 Aria likes the blue_envelope.
+42 Sophia publicly claimed that eggplant is in the red_box.
+43 Mia privately told Sophia that the eggplant is actually in the green_cupboard.
+Question: Where does Aria think Jack thinks Mia thinks the melon is?
 Answer: None
-Choices: A. red_treasure_chest, B. green_suitcase, C. red_container, D. red_suitcase, E. blue_drawer, F. green_crate, G. green_cupboard, H. red_drawer, I. blue_bottle, J. blue_bucket, K. blue_suitcase, L. blue_pantry, M. red_bottle, N. blue_crate, O. green_envelope
+Choices: A. red_bathtub, B. green_envelope, C. green_treasure_chest, D. red_bucket, E. green_box, F. red_pantry, G. green_cupboard, H. red_container, I. red_box, J. blue_treasure_chest, K. green_suitcase, L. green_bathtub, M. blue_bucket, N. red_treasure_chest, O. blue_envelope

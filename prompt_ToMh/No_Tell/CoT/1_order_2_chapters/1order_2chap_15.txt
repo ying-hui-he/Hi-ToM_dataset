@@ -1,25 +1,25 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Olivia, Mia, Charlotte and Ella entered the den.
-2 The orange is in the blue_bathtub.
-3 Aria made no movements and stayed in the den for 10 minutes.
-4 Aria exited the den and stayed in the waiting_room.
-5 Olivia moved the orange to the blue_container.
-6 Olivia exited the den and stayed in the waiting_room.
-7 Mia moved the orange to the blue_basket.
-8 Mia exited the den and stayed in the waiting_room.
-9 Charlotte made no movements and stayed in the den for 10 minutes.
-10 Charlotte exited the den and stayed in the waiting_room.
-11 Ella made no movements and stayed in the den for 10 minutes.
-12 Ella exited the den and stayed in the waiting_room.
-13 Olivia, Charlotte and Mia entered the den.
-14 The lettuce is in the green_cupboard.
-15 Olivia moved the lettuce to the blue_container.
-16 Olivia exited the den and stayed in the waiting_room.
-17 Charlotte moved the lettuce to the blue_basket.
-18 Charlotte exited the den and stayed in the waiting_room.
-19 Mia made no movements and stayed in the den for 10 minutes.
-20 Mia exited the den and stayed in the waiting_room.
-Question: Where does Mia think the orange is?
-Choices: A. red_crate, B. red_basket, C. red_envelope, D. blue_bottle, E. green_envelope, F. red_bucket, G. red_container, H. green_suitcase, I. green_crate, J. red_bottle, K. blue_bathtub, L. green_cupboard, M. blue_container, N. blue_pantry, O. blue_basket
+1 Jackson, Mason, Gracie, Aria and Sophia entered the crawlspace.
+2 The celery is in the blue_drawer.
+3 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+4 Jackson exited the crawlspace and stayed in the waiting_room.
+5 Mason made no movements and stayed in the crawlspace for 10 minutes.
+6 Mason exited the crawlspace and stayed in the waiting_room.
+7 Gracie made no movements and stayed in the crawlspace for 10 minutes.
+8 Gracie exited the crawlspace and stayed in the waiting_room.
+9 Aria moved the celery to the red_envelope.
+10 Aria exited the crawlspace and stayed in the waiting_room.
+11 Sophia made no movements and stayed in the crawlspace for 10 minutes.
+12 Sophia exited the crawlspace and stayed in the waiting_room.
+13 Sophia, Aria and Jackson entered the crawlspace.
+14 The celery is in the red_envelope.
+15 Sophia moved the celery to the blue_bottle.
+16 Sophia exited the crawlspace and stayed in the waiting_room.
+17 Aria moved the celery to the green_cupboard.
+18 Aria exited the crawlspace and stayed in the waiting_room.
+19 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+20 Jackson exited the crawlspace and stayed in the waiting_room.
+Question: Where does Mason think the celery is?
+Choices: A. blue_drawer, B. green_cupboard, C. red_envelope, D. blue_bottle, E. green_envelope, F. blue_bathtub, G. red_bathtub, H. blue_cupboard, I. blue_crate, J. green_suitcase, K. green_bottle, L. blue_envelope, M. red_treasure_chest, N. red_bucket, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

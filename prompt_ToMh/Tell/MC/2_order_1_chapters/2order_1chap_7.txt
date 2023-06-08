@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, Jacob, Abigail, Emily and James entered the TV_room.
-2 The pineapple is in the blue_box.
-3 Ella made no movements and stayed in the TV_room for 10 minutes.
-4 Ella exited the TV_room and stayed in the waiting_room.
-5 Jacob made no movements and stayed in the TV_room for 10 minutes.
-6 Jacob exited the TV_room and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the TV_room for 10 minutes.
-8 Abigail exited the TV_room and stayed in the waiting_room.
-9 Emily moved the pineapple to the green_cupboard.
-10 Emily exited the TV_room and stayed in the waiting_room.
-11 James made no movements and stayed in the TV_room for 10 minutes.
-12 James exited the TV_room and stayed in the waiting_room.
-13 Abigail privately told Ella that the pineapple is actually in the blue_box.
-14 Jacob privately told Emily that the pineapple is actually in the blue_suitcase.
-Question: Where does Emily think Abigail thinks the pineapple is?
-Choices: A. green_cupboard, B. blue_box, C. blue_bathtub, D. blue_suitcase, E. blue_treasure_chest, F. red_bottle, G. red_crate, H. blue_bottle, I. green_bathtub, J. red_basket, K. red_bucket, L. red_suitcase, M. red_drawer, N. green_treasure_chest, O. blue_container
+1 Mila, Lucas, Emma, Owen and Sophia entered the garage.
+2 The grapefruit is in the blue_suitcase.
+3 Mila made no movements and stayed in the garage for 10 minutes.
+4 Mila exited the garage and stayed in the waiting_room.
+5 Lucas made no movements and stayed in the garage for 10 minutes.
+6 Lucas exited the garage and stayed in the waiting_room.
+7 Emma moved the grapefruit to the green_pantry.
+8 Emma exited the garage and stayed in the waiting_room.
+9 Owen moved the grapefruit to the red_container.
+10 Owen exited the garage and stayed in the waiting_room.
+11 Sophia made no movements and stayed in the garage for 10 minutes.
+12 Sophia exited the garage and stayed in the waiting_room.
+13 Lucas saw a monkey.
+14 Emma publicly claimed that grapefruit is in the red_container.
+15 Sophia privately told Emma that the grapefruit is actually in the red_cupboard.
+Question: Where does Sophia think Lucas thinks the grapefruit is?
+Choices: A. red_cupboard, B. blue_suitcase, C. red_box, D. red_container, E. green_pantry, F. green_bucket, G. green_bathtub, H. green_box, I. blue_treasure_chest, J. blue_crate, K. green_suitcase, L. red_envelope, M. blue_drawer, N. red_pantry, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Aiden, Charlotte, Ava and Jacob entered the attic.
-2 The plum is in the green_suitcase.
-3 Owen made no movements and stayed in the attic for 10 minutes.
-4 Owen exited the attic and stayed in the waiting_room.
-5 Aiden moved the plum to the red_suitcase.
-6 Aiden exited the attic and stayed in the waiting_room.
-7 Charlotte made no movements and stayed in the attic for 10 minutes.
-8 Charlotte exited the attic and stayed in the waiting_room.
-9 Ava made no movements and stayed in the attic for 10 minutes.
-10 Ava exited the attic and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the attic for 10 minutes.
-12 Jacob exited the attic and stayed in the waiting_room.
-13 Owen, Charlotte and Jacob entered the front_yard.
-14 The persimmon is in the blue_basket.
-15 Owen moved the persimmon to the red_basket.
-16 Owen exited the front_yard and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the front_yard for 10 minutes.
-18 Charlotte exited the front_yard and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the front_yard for 10 minutes.
-20 Jacob exited the front_yard and stayed in the waiting_room.
-21 Ava, Jacob, Charlotte and Owen entered the front_yard.
-22 The orange is in the red_basket.
-23 Ava moved the orange to the red_bottle.
-24 Ava exited the front_yard and stayed in the waiting_room.
-25 Jacob moved the orange to the blue_basket.
-26 Jacob exited the front_yard and stayed in the waiting_room.
-27 Charlotte made no movements and stayed in the front_yard for 10 minutes.
-28 Charlotte exited the front_yard and stayed in the waiting_room.
-29 Owen moved the orange to the red_bucket.
-30 Owen exited the front_yard and stayed in the waiting_room.
-31 Jacob and Owen entered the attic.
-32 The plum is in the red_suitcase.
-33 Jacob moved the plum to the green_container.
-34 Jacob exited the attic and stayed in the waiting_room.
-35 Owen moved the plum to the green_suitcase.
-36 Owen exited the attic and stayed in the waiting_room.
-Question: Where does Ava think Charlotte thinks Jacob thinks the plum is?
-Answer: None
-Choices: A. green_suitcase, B. red_suitcase, C. blue_box, D. green_container, E. green_bathtub, F. blue_basket, G. red_basket, H. red_bottle, I. red_bucket, J. green_crate, K. blue_bathtub, L. red_container, M. blue_pantry, N. blue_bucket, O. blue_crate
+1 Lucas, Mila, Liam, Isabella and Sophia entered the kitchen.
+2 The persimmon is in the green_bottle.
+3 Lucas made no movements and stayed in the kitchen for 10 minutes.
+4 Lucas exited the kitchen and stayed in the waiting_room.
+5 Mila moved the persimmon to the blue_cupboard.
+6 Mila exited the kitchen and stayed in the waiting_room.
+7 Liam made no movements and stayed in the kitchen for 10 minutes.
+8 Mila likes the red_treasure_chest.
+9 Liam exited the kitchen and stayed in the waiting_room.
+10 Isabella made no movements and stayed in the kitchen for 10 minutes.
+11 Isabella exited the kitchen and stayed in the waiting_room.
+12 Lucas lost his phone.
+13 Sophia made no movements and stayed in the kitchen for 10 minutes.
+14 Isabella lost his bottle.
+15 Sophia exited the kitchen and stayed in the waiting_room.
+16 Sophia, Lucas and Mila entered the back_yard.
+17 The tomato is in the red_cupboard.
+18 Sophia made no movements and stayed in the back_yard for 10 minutes.
+19 Sophia exited the back_yard and stayed in the waiting_room.
+20 Lucas moved the tomato to the red_container.
+21 Lucas exited the back_yard and stayed in the waiting_room.
+22 Mila made no movements and stayed in the back_yard for 10 minutes.
+23 Mila exited the back_yard and stayed in the waiting_room.
+24 Isabella, Mila, Lucas and Liam entered the back_yard.
+25 The tomato is in the red_container.
+26 Isabella moved the tomato to the red_cupboard.
+27 Isabella exited the back_yard and stayed in the waiting_room.
+28 Mila moved the tomato to the green_box.
+29 Mila exited the back_yard and stayed in the waiting_room.
+30 Lucas made no movements and stayed in the back_yard for 10 minutes.
+31 Lucas exited the back_yard and stayed in the waiting_room.
+32 Lucas likes the red_cupboard.
+33 Liam moved the tomato to the green_treasure_chest.
+34 Liam exited the back_yard and stayed in the waiting_room.
+35 Sophia and Isabella entered the garage.
+36 The cucumber is in the red_bathtub.
+37 Sophia moved the cucumber to the green_cupboard.
+38 Sophia exited the garage and stayed in the waiting_room.
+39 Isabella made no movements and stayed in the garage for 10 minutes.
+40 Isabella exited the garage and stayed in the waiting_room.
+Question: Where does Lucas think Mila thinks Sophia thinks the persimmon is?
+Answer: green_bottle
+Choices: A. red_bathtub, B. green_cupboard, C. blue_suitcase, D. blue_envelope, E. red_basket, F. red_cupboard, G. red_envelope, H. green_treasure_chest, I. green_box, J. red_container, K. green_bottle, L. red_treasure_chest, M. green_pantry, N. blue_cupboard, O. blue_bathtub

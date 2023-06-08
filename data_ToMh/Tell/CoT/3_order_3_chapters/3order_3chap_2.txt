@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 James, William, Jack, Mia and Hannah entered the den.
-2 The lemon is in the blue_pantry.
-3 James made no movements and stayed in the den for 10 minutes.
-4 James exited the den and stayed in the waiting_room.
-5 William made no movements and stayed in the den for 10 minutes.
-6 William exited the den and stayed in the waiting_room.
-7 Jack moved the lemon to the red_container.
-8 Jack exited the den and stayed in the waiting_room.
-9 Mia made no movements and stayed in the den for 10 minutes.
-10 Mia exited the den and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the den for 10 minutes.
-12 Hannah exited the den and stayed in the waiting_room.
-13 Jack privately told James that the lemon is actually in the blue_pantry.
-14 William privately told Mia that the lemon is actually in the red_treasure_chest.
-15 William, Mia and Jack entered the den.
-16 The onion is in the red_treasure_chest.
-17 William made no movements and stayed in the den for 10 minutes.
-18 William exited the den and stayed in the waiting_room.
-19 Mia made no movements and stayed in the den for 10 minutes.
-20 Mia exited the den and stayed in the waiting_room.
-21 Jack moved the onion to the blue_pantry.
-22 Jack exited the den and stayed in the waiting_room.
-23 Jack, William, Hannah and James entered the master_bedroom.
-24 The asparagus is in the blue_envelope.
-25 Jack made no movements and stayed in the master_bedroom for 10 minutes.
-26 Jack exited the master_bedroom and stayed in the waiting_room.
-27 William moved the asparagus to the blue_suitcase.
-28 William exited the master_bedroom and stayed in the waiting_room.
-29 Hannah moved the asparagus to the blue_bucket.
-30 Hannah exited the master_bedroom and stayed in the waiting_room.
-31 James made no movements and stayed in the master_bedroom for 10 minutes.
-32 James exited the master_bedroom and stayed in the waiting_room.
-33 Jack publicly claimed that asparagus is in the red_crate.
-34 James privately told Mia that the asparagus is actually in the blue_bucket.
-Question: Where does James think Mia thinks Hannah thinks the lemon is?
-Answer: blue_pantry
-Choices: A. red_treasure_chest, B. blue_pantry, C. blue_treasure_chest, D. red_container, E. green_container, F. green_envelope, G. blue_bottle, H. red_bottle, I. blue_container, J. blue_box, K. red_crate, L. blue_envelope, M. red_bucket, N. blue_suitcase, O. blue_bucket
+1 Ava, Ella, Emma, Mason and Aiden entered the pantry.
+2 The lemon is in the green_envelope.
+3 Ava made no movements and stayed in the pantry for 10 minutes.
+4 Ava exited the pantry and stayed in the waiting_room.
+5 Ella moved the lemon to the blue_envelope.
+6 Ella exited the pantry and stayed in the waiting_room.
+7 Emma made no movements and stayed in the pantry for 10 minutes.
+8 Ella dislikes the lemon.
+9 Emma exited the pantry and stayed in the waiting_room.
+10 Mason made no movements and stayed in the pantry for 10 minutes.
+11 Mason exited the pantry and stayed in the waiting_room.
+12 Aiden made no movements and stayed in the pantry for 10 minutes.
+13 Aiden exited the pantry and stayed in the waiting_room.
+14 Mason publicly claimed that lemon is in the green_envelope.
+15 Aiden privately told Ava that the lemon is actually in the blue_envelope.
+16 Mason likes the red_bottle.
+17 Aiden, Ava and Mason entered the playroom.
+18 The carrot is in the red_box.
+19 Aiden moved the carrot to the blue_bathtub.
+20 Aiden exited the playroom and stayed in the waiting_room.
+21 Ava made no movements and stayed in the playroom for 10 minutes.
+22 Emma dislikes the lemon.
+23 Ava exited the playroom and stayed in the waiting_room.
+24 Mason made no movements and stayed in the playroom for 10 minutes.
+25 Mason exited the playroom and stayed in the waiting_room.
+26 Ava, Aiden, Mason and Emma entered the playroom.
+27 The turnip is in the red_treasure_chest.
+28 Ava moved the turnip to the green_cupboard.
+29 Ava exited the playroom and stayed in the waiting_room.
+30 Aiden made no movements and stayed in the playroom for 10 minutes.
+31 Aiden exited the playroom and stayed in the waiting_room.
+32 Mason moved the turnip to the blue_bathtub.
+33 Mason exited the playroom and stayed in the waiting_room.
+34 Emma moved the turnip to the blue_drawer.
+35 Emma exited the playroom and stayed in the waiting_room.
+36 Aiden publicly claimed that turnip is in the blue_drawer.
+37 Emma privately told Mason that the turnip is actually in the blue_bathtub.
+Question: Where does Ava think Mason thinks Emma thinks the lemon is?
+Answer: None
+Choices: A. green_bathtub, B. blue_bottle, C. red_bottle, D. red_bathtub, E. green_basket, F. red_box, G. red_treasure_chest, H. blue_bathtub, I. green_cupboard, J. blue_drawer, K. green_envelope, L. red_pantry, M. red_container, N. blue_envelope, O. green_bottle

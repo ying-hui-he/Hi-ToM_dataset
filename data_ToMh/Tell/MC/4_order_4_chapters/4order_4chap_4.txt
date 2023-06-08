@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Noah, Emily, Owen and William entered the porch.
-2 The apple is in the red_treasure_chest.
-3 Evelyn made no movements and stayed in the porch for 10 minutes.
-4 Evelyn exited the porch and stayed in the waiting_room.
-5 Noah made no movements and stayed in the porch for 10 minutes.
-6 Noah exited the porch and stayed in the waiting_room.
-7 Emily moved the apple to the blue_bucket.
-8 Emily exited the porch and stayed in the waiting_room.
-9 Owen made no movements and stayed in the porch for 10 minutes.
-10 Owen exited the porch and stayed in the waiting_room.
-11 William made no movements and stayed in the porch for 10 minutes.
-12 William exited the porch and stayed in the waiting_room.
-13 Emily, Owen and William entered the master_bedroom.
-14 The persimmon is in the blue_envelope.
-15 Emily moved the persimmon to the blue_bottle.
-16 Emily exited the master_bedroom and stayed in the waiting_room.
-17 Owen moved the persimmon to the green_envelope.
-18 Owen exited the master_bedroom and stayed in the waiting_room.
-19 William made no movements and stayed in the master_bedroom for 10 minutes.
-20 William exited the master_bedroom and stayed in the waiting_room.
-21 Owen publicly claimed that persimmon is in the blue_envelope.
-22 William privately told Owen that the persimmon is actually in the blue_treasure_chest.
-23 Owen, William, Evelyn and Emily entered the master_bedroom.
-24 The persimmon is in the green_envelope.
-25 Owen made no movements and stayed in the master_bedroom for 10 minutes.
-26 Owen exited the master_bedroom and stayed in the waiting_room.
-27 William moved the persimmon to the blue_bottle.
-28 William exited the master_bedroom and stayed in the waiting_room.
-29 Evelyn moved the persimmon to the blue_treasure_chest.
-30 Evelyn exited the master_bedroom and stayed in the waiting_room.
-31 Emily moved the persimmon to the red_container.
-32 Emily exited the master_bedroom and stayed in the waiting_room.
-33 Noah and Evelyn entered the basement.
-34 The lemon is in the blue_basket.
-35 Noah moved the lemon to the red_bottle.
-36 Noah exited the basement and stayed in the waiting_room.
-37 Evelyn moved the lemon to the red_bathtub.
-38 Evelyn exited the basement and stayed in the waiting_room.
-39 Evelyn publicly claimed that lemon is in the red_suitcase.
-40 Noah privately told Evelyn that the lemon is actually in the red_bottle.
-Question: Where does Evelyn think Noah thinks William thinks Owen thinks the apple is?
+1 Aiden, Mason, Carter, Alexander and Sophia entered the back_yard.
+2 Aiden saw a mouse.
+3 The melon is in the red_treasure_chest.
+4 Aiden moved the melon to the blue_bucket.
+5 Aiden exited the back_yard and stayed in the waiting_room.
+6 Mason made no movements and stayed in the back_yard for 10 minutes.
+7 Mason exited the back_yard and stayed in the waiting_room.
+8 Carter moved the melon to the green_bathtub.
+9 Carter exited the back_yard and stayed in the waiting_room.
+10 Carter dislikes the lemon.
+11 Alexander made no movements and stayed in the back_yard for 10 minutes.
+12 Alexander exited the back_yard and stayed in the waiting_room.
+13 Sophia moved the melon to the red_treasure_chest.
+14 Sophia exited the back_yard and stayed in the waiting_room.
+15 Carter, Aiden and Alexander entered the closet.
+16 The lemon is in the green_box.
+17 Carter moved the lemon to the blue_envelope.
+18 Carter exited the closet and stayed in the waiting_room.
+19 Aiden moved the lemon to the red_envelope.
+20 Aiden exited the closet and stayed in the waiting_room.
+21 Alexander made no movements and stayed in the closet for 10 minutes.
+22 Alexander exited the closet and stayed in the waiting_room.
+23 Alexander publicly claimed that lemon is in the blue_envelope.
+24 Carter privately told Alexander that the lemon is actually in the green_box.
+25 Aiden, Carter, Sophia and Alexander entered the back_yard.
+26 The melon is in the red_treasure_chest.
+27 Carter lost his bottle.
+28 Aiden moved the melon to the red_basket.
+29 Aiden exited the back_yard and stayed in the waiting_room.
+30 Aiden dislikes the melon.
+31 Carter made no movements and stayed in the back_yard for 10 minutes.
+32 Carter exited the back_yard and stayed in the waiting_room.
+33 Sophia made no movements and stayed in the back_yard for 10 minutes.
+34 Sophia exited the back_yard and stayed in the waiting_room.
+35 Alexander made no movements and stayed in the back_yard for 10 minutes.
+36 Alexander exited the back_yard and stayed in the waiting_room.
+37 Carter and Alexander entered the back_yard.
+38 The melon is in the red_basket.
+39 Carter made no movements and stayed in the back_yard for 10 minutes.
+40 Carter exited the back_yard and stayed in the waiting_room.
+41 Alexander made no movements and stayed in the back_yard for 10 minutes.
+42 Alexander exited the back_yard and stayed in the waiting_room.
+43 Carter privately told Mason that the melon is actually in the green_bathtub.
+Question: Where does Sophia think Alexander thinks Mason thinks Carter thinks the melon is?
 Answer: None
-Choices: A. blue_envelope, B. blue_treasure_chest, C. green_envelope, D. red_container, E. blue_bottle, F. red_bottle, G. blue_basket, H. red_suitcase, I. red_bathtub, J. green_container, K. red_treasure_chest, L. blue_drawer, M. blue_bucket, N. blue_suitcase, O. red_bucket
+Choices: A. green_treasure_chest, B. green_suitcase, C. green_cupboard, D. blue_bathtub, E. red_bottle, F. blue_cupboard, G. green_box, H. red_bathtub, I. red_envelope, J. blue_envelope, K. green_envelope, L. red_treasure_chest, M. green_bathtub, N. red_basket, O. blue_bucket

@@ -1,44 +1,48 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Ethan, Aiden, Oliver and Noah entered the TV_room.
-2 The tomato is in the red_bathtub.
-3 Hannah moved the tomato to the red_basket.
-4 Hannah exited the TV_room and stayed in the waiting_room.
-5 Ethan moved the tomato to the red_bottle.
-6 Ethan exited the TV_room and stayed in the waiting_room.
-7 Aiden moved the tomato to the green_crate.
-8 Aiden exited the TV_room and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the TV_room for 10 minutes.
-10 Oliver exited the TV_room and stayed in the waiting_room.
-11 Noah made no movements and stayed in the TV_room for 10 minutes.
-12 Noah exited the TV_room and stayed in the waiting_room.
-13 Aiden, Noah and Oliver entered the TV_room.
-14 The tomato is in the green_crate.
-15 Aiden made no movements and stayed in the TV_room for 10 minutes.
-16 Aiden exited the TV_room and stayed in the waiting_room.
-17 Noah moved the tomato to the red_crate.
-18 Noah exited the TV_room and stayed in the waiting_room.
-19 Oliver moved the tomato to the red_bottle.
-20 Oliver exited the TV_room and stayed in the waiting_room.
-21 Noah publicly claimed that tomato is in the red_bathtub.
-22 Oliver privately told Noah that the tomato is actually in the green_crate.
-23 Oliver, Noah, Hannah and Ethan entered the TV_room.
-24 The tomato is in the red_bottle.
-25 Oliver made no movements and stayed in the TV_room for 10 minutes.
-26 Oliver exited the TV_room and stayed in the waiting_room.
-27 Noah moved the tomato to the red_basket.
-28 Noah exited the TV_room and stayed in the waiting_room.
-29 Hannah made no movements and stayed in the TV_room for 10 minutes.
-30 Hannah exited the TV_room and stayed in the waiting_room.
-31 Ethan moved the tomato to the red_bathtub.
-32 Ethan exited the TV_room and stayed in the waiting_room.
-33 Noah and Ethan entered the master_bedroom.
-34 The asparagus is in the red_suitcase.
-35 Noah made no movements and stayed in the master_bedroom for 10 minutes.
-36 Noah exited the master_bedroom and stayed in the waiting_room.
-37 Ethan moved the asparagus to the red_container.
-38 Ethan exited the master_bedroom and stayed in the waiting_room.
-39 Noah privately told Aiden that the asparagus is actually in the red_suitcase.
-Question: Where does Aiden think Hannah thinks Ethan thinks the tomato is?
+1 Charlotte, Carter, Jack, Aria and Mia entered the front_yard.
+2 The corn is in the green_basket.
+3 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+4 Charlotte exited the front_yard and stayed in the waiting_room.
+5 Carter made no movements and stayed in the front_yard for 10 minutes.
+6 Carter exited the front_yard and stayed in the waiting_room.
+7 Mia saw a dog.
+8 Jack moved the corn to the green_envelope.
+9 Jack exited the front_yard and stayed in the waiting_room.
+10 Aria saw a cat.
+11 Aria moved the corn to the blue_drawer.
+12 Aria exited the front_yard and stayed in the waiting_room.
+13 Mia made no movements and stayed in the front_yard for 10 minutes.
+14 Mia exited the front_yard and stayed in the waiting_room.
+15 Carter, Mia and Jack entered the porch.
+16 The radish is in the green_suitcase.
+17 Carter made no movements and stayed in the porch for 10 minutes.
+18 Carter exited the porch and stayed in the waiting_room.
+19 Mia made no movements and stayed in the porch for 10 minutes.
+20 Mia exited the porch and stayed in the waiting_room.
+21 Jack made no movements and stayed in the porch for 10 minutes.
+22 Jack exited the porch and stayed in the waiting_room.
+23 Mia privately told Jack that the radish is actually in the red_pantry.
+24 Jack privately told Charlotte that the radish is actually in the green_suitcase.
+25 Carter, Mia, Aria and Charlotte entered the kitchen.
+26 Jack saw a cat.
+27 The pumpkin is in the blue_bucket.
+28 Carter moved the pumpkin to the green_bucket.
+29 Carter exited the kitchen and stayed in the waiting_room.
+30 Mia moved the pumpkin to the red_basket.
+31 Mia exited the kitchen and stayed in the waiting_room.
+32 Aria moved the pumpkin to the blue_suitcase.
+33 Aria exited the kitchen and stayed in the waiting_room.
+34 Charlotte moved the pumpkin to the blue_bottle.
+35 Charlotte exited the kitchen and stayed in the waiting_room.
+36 Aria and Mia entered the front_yard.
+37 The peas is in the green_envelope.
+38 Aria made no movements and stayed in the front_yard for 10 minutes.
+39 Aria exited the front_yard and stayed in the waiting_room.
+40 Mia made no movements and stayed in the front_yard for 10 minutes.
+41 Mia exited the front_yard and stayed in the waiting_room.
+42 Mia publicly claimed that peas is in the green_pantry.
+43 Aria privately told Mia that the peas is actually in the green_bathtub.
+Question: Where does Carter think Charlotte thinks Aria thinks the corn is?
 Answer: None
-Choices: A. green_crate, B. red_bathtub, C. red_basket, D. red_bottle, E. red_crate, F. blue_bottle, G. blue_bucket, H. red_drawer, I. blue_envelope, J. green_bathtub, K. red_suitcase, L. blue_crate, M. blue_container, N. red_container, O. blue_box
+Choices: A. green_basket, B. green_envelope, C. green_pantry, D. blue_drawer, E. green_bathtub, F. blue_bucket, G. red_basket, H. green_bucket, I. blue_bottle, J. blue_suitcase, K. blue_treasure_chest, L. green_suitcase, M. blue_envelope, N. red_crate, O. red_pantry

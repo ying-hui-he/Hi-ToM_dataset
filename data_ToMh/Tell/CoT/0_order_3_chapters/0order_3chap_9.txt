@@ -1,39 +1,42 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Jayden, Jackson, Isla and Carter entered the workshop.
-2 The tangerine is in the red_bottle.
-3 Ella made no movements and stayed in the workshop for 10 minutes.
-4 Ella exited the workshop and stayed in the waiting_room.
-5 Jayden made no movements and stayed in the workshop for 10 minutes.
-6 Jayden exited the workshop and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the workshop for 10 minutes.
-8 Jackson exited the workshop and stayed in the waiting_room.
-9 Isla made no movements and stayed in the workshop for 10 minutes.
-10 Isla exited the workshop and stayed in the waiting_room.
-11 Carter moved the tangerine to the red_bottle.
-12 Carter exited the workshop and stayed in the waiting_room.
-13 Jackson privately told Ella that the tangerine is actually in the green_treasure_chest.
-14 Jayden privately told Isla that the tangerine is actually in the red_bottle.
-15 Carter, Jackson and Isla entered the sunroom.
-16 The grapefruit is in the red_drawer.
-17 Carter moved the grapefruit to the green_container.
-18 Carter exited the sunroom and stayed in the waiting_room.
-19 Jackson made no movements and stayed in the sunroom for 10 minutes.
-20 Jackson exited the sunroom and stayed in the waiting_room.
-21 Isla moved the grapefruit to the green_suitcase.
-22 Isla exited the sunroom and stayed in the waiting_room.
-23 Ella, Jackson, Jayden and Carter entered the kitchen.
-24 The corn is in the blue_suitcase.
-25 Ella made no movements and stayed in the kitchen for 10 minutes.
-26 Ella exited the kitchen and stayed in the waiting_room.
-27 Jackson made no movements and stayed in the kitchen for 10 minutes.
-28 Jackson exited the kitchen and stayed in the waiting_room.
-29 Jayden made no movements and stayed in the kitchen for 10 minutes.
-30 Jayden exited the kitchen and stayed in the waiting_room.
-31 Carter made no movements and stayed in the kitchen for 10 minutes.
-32 Carter exited the kitchen and stayed in the waiting_room.
-33 Ella publicly claimed that corn is in the blue_suitcase.
-34 Carter privately told Isla that the corn is actually in the blue_suitcase.
-Question: Where is the tangerine really?
-Answer: red_bottle
-Choices: A. blue_bathtub, B. red_drawer, C. green_suitcase, D. red_treasure_chest, E. green_container, F. red_bottle, G. green_treasure_chest, H. blue_bottle, I. blue_basket, J. red_bucket, K. blue_suitcase, L. blue_box, M. red_bathtub, N. blue_pantry, O. red_suitcase
+1 Isla, Ava, Chloe, Aria and Jackson entered the workshop.
+2 The grapes is in the green_treasure_chest.
+3 Isla made no movements and stayed in the workshop for 10 minutes.
+4 Isla exited the workshop and stayed in the waiting_room.
+5 Ava dislikes the grapes.
+6 Ava made no movements and stayed in the workshop for 10 minutes.
+7 Ava exited the workshop and stayed in the waiting_room.
+8 Chloe moved the grapes to the green_bathtub.
+9 Chloe exited the workshop and stayed in the waiting_room.
+10 Aria made no movements and stayed in the workshop for 10 minutes.
+11 Aria exited the workshop and stayed in the waiting_room.
+12 Jackson made no movements and stayed in the workshop for 10 minutes.
+13 Jackson exited the workshop and stayed in the waiting_room.
+14 Ava lost his bottle.
+15 Chloe publicly claimed that grapes is in the blue_drawer.
+16 Jackson privately told Chloe that the grapes is actually in the red_treasure_chest.
+17 Jackson, Chloe and Isla entered the study.
+18 The radish is in the blue_bathtub.
+19 Isla saw a monkey.
+20 Jackson moved the radish to the red_container.
+21 Jackson exited the study and stayed in the waiting_room.
+22 Chloe moved the radish to the green_pantry.
+23 Chloe exited the study and stayed in the waiting_room.
+24 Isla made no movements and stayed in the study for 10 minutes.
+25 Isla exited the study and stayed in the waiting_room.
+26 Aria, Jackson, Chloe and Ava entered the dining_room.
+27 The peach is in the blue_cupboard.
+28 Aria moved the peach to the red_cupboard.
+29 Aria exited the dining_room and stayed in the waiting_room.
+30 Jackson made no movements and stayed in the dining_room for 10 minutes.
+31 Jackson exited the dining_room and stayed in the waiting_room.
+32 Chloe moved the peach to the red_box.
+33 Chloe exited the dining_room and stayed in the waiting_room.
+34 Ava moved the peach to the green_basket.
+35 Ava exited the dining_room and stayed in the waiting_room.
+36 Chloe publicly claimed that peach is in the red_cupboard.
+37 Aria privately told Ava that the peach is actually in the red_bathtub.
+Question: Where is the grapes really?
+Answer: green_bathtub
+Choices: A. green_bathtub, B. green_treasure_chest, C. red_crate, D. red_treasure_chest, E. blue_drawer, F. red_envelope, G. blue_bathtub, H. green_box, I. red_container, J. green_pantry, K. green_basket, L. blue_cupboard, M. red_box, N. red_cupboard, O. red_bathtub

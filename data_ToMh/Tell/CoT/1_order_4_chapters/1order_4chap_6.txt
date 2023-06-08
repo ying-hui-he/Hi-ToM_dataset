@@ -1,45 +1,52 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Isla, Avery, William and Carter entered the porch.
-2 The apple is in the blue_basket.
-3 Aria moved the apple to the blue_suitcase.
-4 Aria exited the porch and stayed in the waiting_room.
-5 Isla made no movements and stayed in the porch for 10 minutes.
-6 Isla exited the porch and stayed in the waiting_room.
-7 Avery made no movements and stayed in the porch for 10 minutes.
-8 Avery exited the porch and stayed in the waiting_room.
-9 William made no movements and stayed in the porch for 10 minutes.
-10 William exited the porch and stayed in the waiting_room.
-11 Carter made no movements and stayed in the porch for 10 minutes.
-12 Carter exited the porch and stayed in the waiting_room.
-13 Avery, Isla and William entered the dining_room.
-14 The carrot is in the green_suitcase.
-15 Avery made no movements and stayed in the dining_room for 10 minutes.
-16 Avery exited the dining_room and stayed in the waiting_room.
-17 Isla made no movements and stayed in the dining_room for 10 minutes.
-18 Isla exited the dining_room and stayed in the waiting_room.
-19 William made no movements and stayed in the dining_room for 10 minutes.
-20 William exited the dining_room and stayed in the waiting_room.
-21 Isla publicly claimed that carrot is in the red_container.
-22 William privately told Isla that the carrot is actually in the red_envelope.
-23 William, Isla, Aria and Carter entered the porch.
-24 The apple is in the blue_suitcase.
-25 William made no movements and stayed in the porch for 10 minutes.
-26 William exited the porch and stayed in the waiting_room.
-27 Isla made no movements and stayed in the porch for 10 minutes.
-28 Isla exited the porch and stayed in the waiting_room.
-29 Aria moved the apple to the blue_treasure_chest.
-30 Aria exited the porch and stayed in the waiting_room.
-31 Carter moved the apple to the blue_basket.
-32 Carter exited the porch and stayed in the waiting_room.
-33 Avery and Aria entered the master_bedroom.
-34 The beans is in the red_bucket.
-35 Avery moved the beans to the green_bottle.
-36 Avery exited the master_bedroom and stayed in the waiting_room.
-37 Aria moved the beans to the blue_bucket.
-38 Aria exited the master_bedroom and stayed in the waiting_room.
-39 Aria publicly claimed that beans is in the blue_bucket.
-40 Avery privately told Aria that the beans is actually in the green_envelope.
-Question: Where does Carter think the apple is?
-Answer: blue_basket
-Choices: A. green_envelope, B. red_bucket, C. green_bottle, D. blue_bucket, E. blue_bathtub, F. blue_treasure_chest, G. blue_basket, H. green_treasure_chest, I. green_crate, J. blue_suitcase, K. red_container, L. green_suitcase, M. red_treasure_chest, N. green_cupboard, O. red_envelope
+1 Jack, Hannah, Aiden, Mila and Liam entered the playroom.
+2 The peach is in the green_box.
+3 Jack moved the peach to the red_envelope.
+4 Jack exited the playroom and stayed in the waiting_room.
+5 Hannah moved the peach to the red_cupboard.
+6 Hannah exited the playroom and stayed in the waiting_room.
+7 Hannah likes the blue_crate.
+8 Aiden made no movements and stayed in the playroom for 10 minutes.
+9 Aiden exited the playroom and stayed in the waiting_room.
+10 Mila moved the peach to the green_suitcase.
+11 Mila exited the playroom and stayed in the waiting_room.
+12 Liam moved the peach to the green_box.
+13 Liam exited the playroom and stayed in the waiting_room.
+14 Liam, Jack and Aiden entered the pantry.
+15 The tomato is in the blue_bucket.
+16 Liam made no movements and stayed in the pantry for 10 minutes.
+17 Jack likes the blue_suitcase.
+18 Liam exited the pantry and stayed in the waiting_room.
+19 Jack moved the tomato to the blue_treasure_chest.
+20 Jack exited the pantry and stayed in the waiting_room.
+21 Aiden moved the tomato to the green_treasure_chest.
+22 Aiden exited the pantry and stayed in the waiting_room.
+23 Aiden publicly claimed that tomato is in the blue_bucket.
+24 Liam privately told Aiden that the tomato is actually in the blue_treasure_chest.
+25 Jack dislikes the celery.
+26 Hannah, Mila, Aiden and Jack entered the pantry.
+27 The tomato is in the green_treasure_chest.
+28 Hannah moved the tomato to the blue_treasure_chest.
+29 Hannah lost his bottle.
+30 Hannah exited the pantry and stayed in the waiting_room.
+31 Mila made no movements and stayed in the pantry for 10 minutes.
+32 Mila exited the pantry and stayed in the waiting_room.
+33 Aiden made no movements and stayed in the pantry for 10 minutes.
+34 Aiden exited the pantry and stayed in the waiting_room.
+35 Mila lost his bottle.
+36 Jack moved the tomato to the red_bathtub.
+37 Jack exited the pantry and stayed in the waiting_room.
+38 Hannah and Liam entered the dining_room.
+39 Aiden saw a cat.
+40 The celery is in the blue_suitcase.
+41 Hannah made no movements and stayed in the dining_room for 10 minutes.
+42 Hannah exited the dining_room and stayed in the waiting_room.
+43 Liam dislikes the turnip.
+44 Liam made no movements and stayed in the dining_room for 10 minutes.
+45 Liam exited the dining_room and stayed in the waiting_room.
+46 Jack likes the blue_suitcase.
+47 Hannah privately told Mila that the celery is actually in the red_bottle.
+Question: Where does Hannah think the peach is?
+Answer: red_cupboard
+Choices: A. blue_bucket, B. blue_treasure_chest, C. red_bathtub, D. green_treasure_chest, E. blue_crate, F. blue_suitcase, G. blue_bottle, H. red_bottle, I. red_treasure_chest, J. green_bottle, K. green_box, L. red_cupboard, M. green_suitcase, N. red_envelope, O. green_basket

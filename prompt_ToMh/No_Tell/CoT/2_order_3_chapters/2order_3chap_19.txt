@@ -1,35 +1,40 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Noah, Aria, Ethan, Emma and Amelia entered the attic.
-2 The plum is in the green_bottle.
-3 Noah made no movements and stayed in the attic for 10 minutes.
-4 Noah exited the attic and stayed in the waiting_room.
-5 Aria moved the plum to the blue_container.
-6 Aria exited the attic and stayed in the waiting_room.
-7 Ethan made no movements and stayed in the attic for 10 minutes.
-8 Ethan exited the attic and stayed in the waiting_room.
-9 Emma moved the plum to the green_crate.
-10 Emma exited the attic and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the attic for 10 minutes.
-12 Amelia exited the attic and stayed in the waiting_room.
-13 Ethan, Emma and Amelia entered the playroom.
-14 The grapefruit is in the red_bucket.
-15 Ethan made no movements and stayed in the playroom for 10 minutes.
-16 Ethan exited the playroom and stayed in the waiting_room.
-17 Emma moved the grapefruit to the blue_box.
-18 Emma exited the playroom and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the playroom for 10 minutes.
-20 Amelia exited the playroom and stayed in the waiting_room.
-21 Ethan, Aria, Emma and Amelia entered the attic.
-22 The plum is in the green_crate.
-23 Ethan moved the plum to the red_basket.
-24 Ethan exited the attic and stayed in the waiting_room.
-25 Aria moved the plum to the blue_pantry.
-26 Aria exited the attic and stayed in the waiting_room.
-27 Emma moved the plum to the green_bottle.
-28 Emma exited the attic and stayed in the waiting_room.
-29 Amelia made no movements and stayed in the attic for 10 minutes.
-30 Amelia exited the attic and stayed in the waiting_room.
-Question: Where does Noah think Amelia thinks the plum is?
-Choices: A. blue_container, B. green_bottle, C. blue_pantry, D. red_basket, E. green_crate, F. red_envelope, G. green_container, H. blue_bucket, I. red_suitcase, J. red_crate, K. red_bucket, L. blue_bathtub, M. blue_box, N. green_bathtub, O. blue_crate
+1 Hannah, Mason, Lucas, Aria and Amelia entered the living_room.
+2 The cucumber is in the green_basket.
+3 Hannah made no movements and stayed in the living_room for 10 minutes.
+4 Hannah exited the living_room and stayed in the waiting_room.
+5 Mason made no movements and stayed in the living_room for 10 minutes.
+6 Mason exited the living_room and stayed in the waiting_room.
+7 Lucas made no movements and stayed in the living_room for 10 minutes.
+8 Amelia lost his bottle.
+9 Lucas exited the living_room and stayed in the waiting_room.
+10 Aria saw a mouse.
+11 Aria made no movements and stayed in the living_room for 10 minutes.
+12 Aria exited the living_room and stayed in the waiting_room.
+13 Amelia saw a monkey.
+14 Amelia made no movements and stayed in the living_room for 10 minutes.
+15 Amelia exited the living_room and stayed in the waiting_room.
+16 Aria, Amelia and Lucas entered the basement.
+17 The beans is in the red_envelope.
+18 Aria made no movements and stayed in the basement for 10 minutes.
+19 Aria exited the basement and stayed in the waiting_room.
+20 Amelia moved the beans to the blue_cupboard.
+21 Amelia likes the red_cupboard.
+22 Amelia exited the basement and stayed in the waiting_room.
+23 Lucas made no movements and stayed in the basement for 10 minutes.
+24 Lucas exited the basement and stayed in the waiting_room.
+25 Hannah, Aria, Mason and Amelia entered the basement.
+26 The tangerine is in the red_bucket.
+27 Hannah moved the tangerine to the red_treasure_chest.
+28 Hannah exited the basement and stayed in the waiting_room.
+29 Lucas lost his phone.
+30 Aria made no movements and stayed in the basement for 10 minutes.
+31 Aria exited the basement and stayed in the waiting_room.
+32 Mason made no movements and stayed in the basement for 10 minutes.
+33 Mason exited the basement and stayed in the waiting_room.
+34 Amelia moved the tangerine to the blue_cupboard.
+35 Amelia exited the basement and stayed in the waiting_room.
+Question: Where does Hannah think Mason thinks the cucumber is?
+Choices: A. green_box, B. red_container, C. green_cupboard, D. blue_drawer, E. blue_crate, F. red_bucket, G. red_envelope, H. blue_cupboard, I. red_treasure_chest, J. red_cupboard, K. blue_treasure_chest, L. green_basket, M. red_box, N. green_suitcase, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

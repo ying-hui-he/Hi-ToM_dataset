@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Gracie, Jack, Jackson and Aria entered the dining_room.
-2 The grapefruit is in the green_container.
-3 Hannah moved the grapefruit to the red_treasure_chest.
-4 Hannah exited the dining_room and stayed in the waiting_room.
-5 Gracie made no movements and stayed in the dining_room for 10 minutes.
-6 Gracie exited the dining_room and stayed in the waiting_room.
-7 Jack made no movements and stayed in the dining_room for 10 minutes.
-8 Jack exited the dining_room and stayed in the waiting_room.
-9 Jackson moved the grapefruit to the blue_box.
-10 Jackson exited the dining_room and stayed in the waiting_room.
-11 Aria made no movements and stayed in the dining_room for 10 minutes.
-12 Aria exited the dining_room and stayed in the waiting_room.
-13 Gracie, Aria and Hannah entered the crawlspace.
-14 The banana is in the blue_treasure_chest.
-15 Gracie moved the banana to the red_bottle.
-16 Gracie exited the crawlspace and stayed in the waiting_room.
-17 Aria moved the banana to the green_cupboard.
-18 Aria exited the crawlspace and stayed in the waiting_room.
-19 Hannah moved the banana to the blue_container.
-20 Hannah exited the crawlspace and stayed in the waiting_room.
-21 Aria publicly claimed that banana is in the blue_basket.
-22 Hannah privately told Aria that the banana is actually in the blue_treasure_chest.
-23 Jack, Gracie, Hannah and Aria entered the closet.
-24 The celery is in the green_crate.
-25 Jack moved the celery to the red_drawer.
-26 Jack exited the closet and stayed in the waiting_room.
-27 Gracie moved the celery to the red_bucket.
-28 Gracie exited the closet and stayed in the waiting_room.
-29 Hannah made no movements and stayed in the closet for 10 minutes.
-30 Hannah exited the closet and stayed in the waiting_room.
-31 Aria moved the celery to the blue_envelope.
-32 Aria exited the closet and stayed in the waiting_room.
-33 Aria and Jack entered the dining_room.
-34 The onion is in the blue_drawer.
-35 Aria made no movements and stayed in the dining_room for 10 minutes.
-36 Aria exited the dining_room and stayed in the waiting_room.
-37 Jack moved the onion to the green_container.
-38 Jack exited the dining_room and stayed in the waiting_room.
-39 Jack publicly claimed that onion is in the green_container.
-40 Aria privately told Jack that the onion is actually in the blue_box.
-Question: Where does Gracie think Aria thinks the grapefruit is?
-Choices: A. green_container, B. blue_drawer, C. red_bathtub, D. blue_box, E. red_treasure_chest, F. red_drawer, G. green_crate, H. blue_envelope, I. red_container, J. red_bucket, K. blue_basket, L. blue_treasure_chest, M. blue_container, N. red_bottle, O. green_cupboard
+1 Emily, Logan, Aiden, Jacob and Charlotte entered the study.
+2 Emily dislikes the peas.
+3 The peas is in the green_envelope.
+4 Emily made no movements and stayed in the study for 10 minutes.
+5 Emily exited the study and stayed in the waiting_room.
+6 Logan moved the peas to the blue_envelope.
+7 Logan exited the study and stayed in the waiting_room.
+8 Aiden moved the peas to the blue_cupboard.
+9 Aiden exited the study and stayed in the waiting_room.
+10 Jacob made no movements and stayed in the study for 10 minutes.
+11 Jacob exited the study and stayed in the waiting_room.
+12 Charlotte moved the peas to the green_envelope.
+13 Charlotte exited the study and stayed in the waiting_room.
+14 Logan, Emily and Jacob entered the study.
+15 The onion is in the blue_envelope.
+16 Logan made no movements and stayed in the study for 10 minutes.
+17 Logan exited the study and stayed in the waiting_room.
+18 Emily moved the onion to the red_crate.
+19 Emily exited the study and stayed in the waiting_room.
+20 Jacob made no movements and stayed in the study for 10 minutes.
+21 Jacob exited the study and stayed in the waiting_room.
+22 Logan publicly claimed that onion is in the blue_envelope.
+23 Jacob privately told Charlotte that the onion is actually in the red_crate.
+24 Charlotte, Emily, Logan and Aiden entered the den.
+25 The celery is in the red_bottle.
+26 Charlotte moved the celery to the green_bathtub.
+27 Charlotte exited the den and stayed in the waiting_room.
+28 Emily made no movements and stayed in the den for 10 minutes.
+29 Emily exited the den and stayed in the waiting_room.
+30 Logan made no movements and stayed in the den for 10 minutes.
+31 Logan exited the den and stayed in the waiting_room.
+32 Aiden moved the celery to the blue_bottle.
+33 Aiden exited the den and stayed in the waiting_room.
+34 Logan saw a dog.
+35 Logan and Emily entered the garden.
+36 The tomato is in the red_envelope.
+37 Logan made no movements and stayed in the garden for 10 minutes.
+38 Logan exited the garden and stayed in the waiting_room.
+39 Emily saw a cat.
+40 Emily made no movements and stayed in the garden for 10 minutes.
+41 Emily exited the garden and stayed in the waiting_room.
+42 Logan publicly claimed that tomato is in the red_box.
+43 Emily privately told Logan that the tomato is actually in the green_cupboard.
+Question: Where does Jacob think Logan thinks the peas is?
+45 Charlotte saw a mouse.
+Choices: A. blue_envelope, B. green_envelope, C. red_pantry, D. blue_cupboard, E. red_crate, F. red_bottle, G. blue_crate, H. blue_bottle, I. green_bathtub, J. blue_bathtub, K. red_envelope, L. blue_suitcase, M. red_box, N. green_cupboard, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

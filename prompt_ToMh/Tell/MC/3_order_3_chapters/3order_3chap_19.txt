@@ -1,39 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Ella, Mila, Jackson and Jack entered the crawlspace.
-2 The pineapple is in the green_treasure_chest.
-3 Emma made no movements and stayed in the crawlspace for 10 minutes.
-4 Emma exited the crawlspace and stayed in the waiting_room.
-5 Ella moved the pineapple to the green_crate.
-6 Ella exited the crawlspace and stayed in the waiting_room.
-7 Mila moved the pineapple to the blue_bathtub.
-8 Mila exited the crawlspace and stayed in the waiting_room.
-9 Jackson moved the pineapple to the blue_bucket.
-10 Jackson exited the crawlspace and stayed in the waiting_room.
-11 Jack made no movements and stayed in the crawlspace for 10 minutes.
-12 Jack exited the crawlspace and stayed in the waiting_room.
-13 Mila privately told Emma that the pineapple is actually in the red_envelope.
-14 Ella privately told Jackson that the pineapple is actually in the green_treasure_chest.
-15 Jack, Ella and Emma entered the attic.
-16 The asparagus is in the red_crate.
-17 Jack made no movements and stayed in the attic for 10 minutes.
-18 Jack exited the attic and stayed in the waiting_room.
-19 Ella made no movements and stayed in the attic for 10 minutes.
-20 Ella exited the attic and stayed in the waiting_room.
-21 Emma made no movements and stayed in the attic for 10 minutes.
-22 Emma exited the attic and stayed in the waiting_room.
-23 Emma, Jack, Ella and Jackson entered the crawlspace.
-24 The pineapple is in the blue_bucket.
-25 Emma moved the pineapple to the green_treasure_chest.
-26 Emma exited the crawlspace and stayed in the waiting_room.
-27 Jack moved the pineapple to the green_crate.
-28 Jack exited the crawlspace and stayed in the waiting_room.
-29 Ella moved the pineapple to the red_envelope.
-30 Ella exited the crawlspace and stayed in the waiting_room.
-31 Jackson moved the pineapple to the blue_bathtub.
-32 Jackson exited the crawlspace and stayed in the waiting_room.
-33 Ella publicly claimed that pineapple is in the blue_bucket.
-34 Emma privately told Jackson that the pineapple is actually in the green_treasure_chest.
-Question: Where does Mila think Emma thinks Jack thinks the pineapple is?
-Choices: A. blue_box, B. red_crate, C. red_drawer, D. red_basket, E. red_bathtub, F. blue_pantry, G. blue_suitcase, H. red_suitcase, I. blue_drawer, J. blue_crate, K. green_treasure_chest, L. blue_bucket, M. red_envelope, N. green_crate, O. blue_bathtub
+1 Gracie, Owen, Jacob, Chloe and Mason entered the lounge.
+2 The grapefruit is in the red_box.
+3 Gracie moved the grapefruit to the green_basket.
+4 Gracie exited the lounge and stayed in the waiting_room.
+5 Owen made no movements and stayed in the lounge for 10 minutes.
+6 Owen exited the lounge and stayed in the waiting_room.
+7 Jacob moved the grapefruit to the green_bucket.
+8 Jacob exited the lounge and stayed in the waiting_room.
+9 Chloe moved the grapefruit to the blue_cupboard.
+10 Mason saw a mouse.
+11 Chloe exited the lounge and stayed in the waiting_room.
+12 Mason moved the grapefruit to the red_box.
+13 Mason exited the lounge and stayed in the waiting_room.
+14 Jacob privately told Gracie that the grapefruit is actually in the green_bucket.
+15 Owen privately told Chloe that the grapefruit is actually in the blue_cupboard.
+16 Jacob, Gracie and Owen entered the lounge.
+17 The grapefruit is in the red_box.
+18 Jacob made no movements and stayed in the lounge for 10 minutes.
+19 Jacob exited the lounge and stayed in the waiting_room.
+20 Gracie moved the grapefruit to the blue_cupboard.
+21 Gracie exited the lounge and stayed in the waiting_room.
+22 Owen made no movements and stayed in the lounge for 10 minutes.
+23 Owen exited the lounge and stayed in the waiting_room.
+24 Gracie, Mason, Jacob and Owen entered the TV_room.
+25 The tomato is in the blue_envelope.
+26 Gracie lost his phone.
+27 Gracie made no movements and stayed in the TV_room for 10 minutes.
+28 Gracie exited the TV_room and stayed in the waiting_room.
+29 Mason made no movements and stayed in the TV_room for 10 minutes.
+30 Owen dislikes the apple.
+31 Mason exited the TV_room and stayed in the waiting_room.
+32 Jacob moved the tomato to the blue_bathtub.
+33 Jacob exited the TV_room and stayed in the waiting_room.
+34 Owen moved the tomato to the red_basket.
+35 Owen exited the TV_room and stayed in the waiting_room.
+36 Chloe lost his watch.
+37 Mason publicly claimed that tomato is in the green_pantry.
+38 Owen privately told Jacob that the tomato is actually in the green_suitcase.
+39 Chloe lost his phone.
+Question: Where does Jacob think Owen thinks Gracie thinks the grapefruit is?
+41 Mason dislikes the tomato.
+Choices: A. green_pantry, B. blue_envelope, C. green_suitcase, D. blue_bathtub, E. red_basket, F. red_cupboard, G. red_box, H. green_basket, I. green_bucket, J. blue_cupboard, K. blue_crate, L. blue_bucket, M. red_treasure_chest, N. blue_treasure_chest, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

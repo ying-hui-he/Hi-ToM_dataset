@@ -1,35 +1,38 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Jayden, Noah, William and Carter entered the bedroom.
-2 The corn is in the red_container.
-3 Logan made no movements and stayed in the bedroom for 10 minutes.
-4 Logan exited the bedroom and stayed in the waiting_room.
-5 Jayden moved the corn to the green_bottle.
-6 Jayden exited the bedroom and stayed in the waiting_room.
-7 Noah moved the corn to the green_envelope.
-8 Noah exited the bedroom and stayed in the waiting_room.
-9 William made no movements and stayed in the bedroom for 10 minutes.
-10 William exited the bedroom and stayed in the waiting_room.
-11 Carter made no movements and stayed in the bedroom for 10 minutes.
-12 Carter exited the bedroom and stayed in the waiting_room.
-13 Carter, William and Noah entered the back_yard.
-14 The plum is in the green_crate.
-15 Carter made no movements and stayed in the back_yard for 10 minutes.
-16 Carter exited the back_yard and stayed in the waiting_room.
-17 William made no movements and stayed in the back_yard for 10 minutes.
-18 William exited the back_yard and stayed in the waiting_room.
-19 Noah made no movements and stayed in the back_yard for 10 minutes.
-20 Noah exited the back_yard and stayed in the waiting_room.
-21 Jayden, Logan, William and Carter entered the bedroom.
-22 The corn is in the green_envelope.
-23 Jayden moved the corn to the green_bottle.
-24 Jayden exited the bedroom and stayed in the waiting_room.
-25 Logan moved the corn to the blue_drawer.
-26 Logan exited the bedroom and stayed in the waiting_room.
-27 William moved the corn to the blue_bathtub.
-28 William exited the bedroom and stayed in the waiting_room.
-29 Carter made no movements and stayed in the bedroom for 10 minutes.
-30 Carter exited the bedroom and stayed in the waiting_room.
-Question: Where is the corn really?
-Answer: blue_bathtub
-Choices: A. green_crate, B. blue_envelope, C. red_crate, D. blue_crate, E. red_drawer, F. blue_bucket, G. green_container, H. blue_suitcase, I. green_cupboard, J. blue_pantry, K. green_envelope, L. red_container, M. blue_bathtub, N. green_bottle, O. blue_drawer
+1 Nathan, Logan, Emma, Emily and Gracie entered the back_yard.
+2 The cabbage is in the red_crate.
+3 Nathan moved the cabbage to the blue_drawer.
+4 Nathan exited the back_yard and stayed in the waiting_room.
+5 Logan made no movements and stayed in the back_yard for 10 minutes.
+6 Logan exited the back_yard and stayed in the waiting_room.
+7 Emma moved the cabbage to the blue_crate.
+8 Emma exited the back_yard and stayed in the waiting_room.
+9 Emily made no movements and stayed in the back_yard for 10 minutes.
+10 Emily exited the back_yard and stayed in the waiting_room.
+11 Logan saw a monkey.
+12 Gracie moved the cabbage to the red_crate.
+13 Gracie exited the back_yard and stayed in the waiting_room.
+14 Nathan, Logan and Gracie entered the porch.
+15 The cucumber is in the green_treasure_chest.
+16 Nathan made no movements and stayed in the porch for 10 minutes.
+17 Nathan exited the porch and stayed in the waiting_room.
+18 Nathan saw a dog.
+19 Logan made no movements and stayed in the porch for 10 minutes.
+20 Gracie saw a dog.
+21 Logan exited the porch and stayed in the waiting_room.
+22 Gracie made no movements and stayed in the porch for 10 minutes.
+23 Gracie exited the porch and stayed in the waiting_room.
+24 Gracie, Emily, Nathan and Emma entered the porch.
+25 The cucumber is in the green_treasure_chest.
+26 Gracie made no movements and stayed in the porch for 10 minutes.
+27 Gracie exited the porch and stayed in the waiting_room.
+28 Emily made no movements and stayed in the porch for 10 minutes.
+29 Emily exited the porch and stayed in the waiting_room.
+30 Nathan moved the cucumber to the green_suitcase.
+31 Nathan exited the porch and stayed in the waiting_room.
+32 Emma moved the cucumber to the red_treasure_chest.
+33 Emma exited the porch and stayed in the waiting_room.
+Question: Where is the cabbage really?
+Answer: red_crate
+Choices: A. red_crate, B. red_container, C. blue_crate, D. blue_drawer, E. blue_bucket, F. red_pantry, G. green_treasure_chest, H. green_box, I. red_treasure_chest, J. green_suitcase, K. blue_bottle, L. green_pantry, M. red_cupboard, N. red_bottle, O. green_bottle

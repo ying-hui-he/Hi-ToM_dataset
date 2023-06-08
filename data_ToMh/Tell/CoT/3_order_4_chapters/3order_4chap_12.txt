@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Hannah, Ella, Jack and Owen entered the porch.
-2 The radish is in the red_bathtub.
-3 Emma moved the radish to the green_envelope.
-4 Emma exited the porch and stayed in the waiting_room.
-5 Hannah moved the radish to the blue_envelope.
-6 Hannah exited the porch and stayed in the waiting_room.
-7 Ella moved the radish to the red_basket.
-8 Ella exited the porch and stayed in the waiting_room.
-9 Jack made no movements and stayed in the porch for 10 minutes.
-10 Jack exited the porch and stayed in the waiting_room.
-11 Owen moved the radish to the red_bathtub.
-12 Owen exited the porch and stayed in the waiting_room.
-13 Jack, Emma and Ella entered the cellar.
-14 The melon is in the red_crate.
-15 Jack moved the melon to the red_treasure_chest.
-16 Jack exited the cellar and stayed in the waiting_room.
-17 Emma made no movements and stayed in the cellar for 10 minutes.
-18 Emma exited the cellar and stayed in the waiting_room.
-19 Ella moved the melon to the blue_pantry.
-20 Ella exited the cellar and stayed in the waiting_room.
-21 Emma publicly claimed that melon is in the red_container.
-22 Ella privately told Emma that the melon is actually in the blue_pantry.
-23 Hannah, Emma, Owen and Jack entered the porch.
-24 The beans is in the red_basket.
-25 Hannah moved the beans to the blue_bottle.
-26 Hannah exited the porch and stayed in the waiting_room.
-27 Emma made no movements and stayed in the porch for 10 minutes.
-28 Emma exited the porch and stayed in the waiting_room.
-29 Owen made no movements and stayed in the porch for 10 minutes.
-30 Owen exited the porch and stayed in the waiting_room.
-31 Jack moved the beans to the red_bathtub.
-32 Jack exited the porch and stayed in the waiting_room.
-33 Ella and Hannah entered the cellar.
-34 The melon is in the blue_pantry.
-35 Ella moved the melon to the red_treasure_chest.
-36 Ella exited the cellar and stayed in the waiting_room.
-37 Hannah moved the melon to the red_crate.
-38 Hannah exited the cellar and stayed in the waiting_room.
-39 Hannah publicly claimed that melon is in the red_crate.
-40 Ella privately told Hannah that the melon is actually in the blue_box.
-Question: Where does Emma think Hannah thinks Ella thinks the radish is?
-Answer: red_bathtub
-Choices: A. green_crate, B. blue_drawer, C. blue_bucket, D. red_bucket, E. red_bottle, F. red_bathtub, G. red_basket, H. blue_envelope, I. green_envelope, J. blue_bottle, K. blue_pantry, L. red_crate, M. red_container, N. blue_box, O. red_treasure_chest
+1 Mia, Owen, Ethan, Liam and Emily entered the office.
+2 The grapes is in the green_suitcase.
+3 Mia made no movements and stayed in the office for 10 minutes.
+4 Mia exited the office and stayed in the waiting_room.
+5 Owen made no movements and stayed in the office for 10 minutes.
+6 Owen exited the office and stayed in the waiting_room.
+7 Emily saw a dog.
+8 Ethan moved the grapes to the blue_crate.
+9 Ethan exited the office and stayed in the waiting_room.
+10 Liam made no movements and stayed in the office for 10 minutes.
+11 Liam exited the office and stayed in the waiting_room.
+12 Emily made no movements and stayed in the office for 10 minutes.
+13 Emily exited the office and stayed in the waiting_room.
+14 Emily, Owen and Ethan entered the office.
+15 The lettuce is in the blue_crate.
+16 Emily moved the lettuce to the green_treasure_chest.
+17 Emily exited the office and stayed in the waiting_room.
+18 Owen lost his phone.
+19 Owen made no movements and stayed in the office for 10 minutes.
+20 Owen exited the office and stayed in the waiting_room.
+21 Ethan made no movements and stayed in the office for 10 minutes.
+22 Ethan exited the office and stayed in the waiting_room.
+23 Owen privately told Ethan that the lettuce is actually in the green_treasure_chest.
+24 Ethan privately told Mia that the lettuce is actually in the green_treasure_chest.
+25 Ethan, Liam, Mia and Emily entered the porch.
+26 The corn is in the green_box.
+27 Ethan made no movements and stayed in the porch for 10 minutes.
+28 Ethan exited the porch and stayed in the waiting_room.
+29 Mia likes the green_cupboard.
+30 Liam moved the corn to the green_pantry.
+31 Liam exited the porch and stayed in the waiting_room.
+32 Mia moved the corn to the blue_envelope.
+33 Owen likes the green_box.
+34 Mia exited the porch and stayed in the waiting_room.
+35 Ethan dislikes the cucumber.
+36 Emily moved the corn to the green_bucket.
+37 Emily exited the porch and stayed in the waiting_room.
+38 Liam and Mia entered the porch.
+39 The cucumber is in the green_bucket.
+40 Liam made no movements and stayed in the porch for 10 minutes.
+41 Liam exited the porch and stayed in the waiting_room.
+42 Mia made no movements and stayed in the porch for 10 minutes.
+43 Mia exited the porch and stayed in the waiting_room.
+44 Mia publicly claimed that cucumber is in the green_box.
+45 Liam privately told Mia that the cucumber is actually in the blue_bucket.
+Question: Where does Mia think Ethan thinks Liam thinks the grapes is?
+Answer: green_suitcase
+Choices: A. green_bucket, B. green_box, C. green_pantry, D. blue_envelope, E. blue_bucket, F. blue_bottle, G. blue_cupboard, H. red_box, I. green_bathtub, J. green_basket, K. blue_crate, L. green_suitcase, M. red_container, N. green_cupboard, O. green_treasure_chest

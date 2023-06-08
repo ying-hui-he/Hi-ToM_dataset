@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Ava, Aria, Olivia and Emily entered the playroom.
-2 The peach is in the red_treasure_chest.
-3 Amelia made no movements and stayed in the playroom for 10 minutes.
-4 Amelia exited the playroom and stayed in the waiting_room.
-5 Ava made no movements and stayed in the playroom for 10 minutes.
-6 Ava exited the playroom and stayed in the waiting_room.
-7 Aria made no movements and stayed in the playroom for 10 minutes.
-8 Aria exited the playroom and stayed in the waiting_room.
-9 Olivia made no movements and stayed in the playroom for 10 minutes.
-10 Olivia exited the playroom and stayed in the waiting_room.
-11 Emily moved the peach to the red_treasure_chest.
-12 Emily exited the playroom and stayed in the waiting_room.
-13 Aria privately told Amelia that the peach is actually in the green_envelope.
-14 Ava privately told Olivia that the peach is actually in the red_treasure_chest.
-15 Amelia, Ava and Emily entered the office.
-16 The banana is in the red_envelope.
-17 Amelia moved the banana to the green_bottle.
-18 Amelia exited the office and stayed in the waiting_room.
-19 Ava made no movements and stayed in the office for 10 minutes.
-20 Ava exited the office and stayed in the waiting_room.
-21 Emily made no movements and stayed in the office for 10 minutes.
-22 Emily exited the office and stayed in the waiting_room.
-23 Ava, Emily, Olivia and Amelia entered the pantry.
-24 The plum is in the red_container.
-25 Ava made no movements and stayed in the pantry for 10 minutes.
-26 Ava exited the pantry and stayed in the waiting_room.
-27 Emily made no movements and stayed in the pantry for 10 minutes.
-28 Emily exited the pantry and stayed in the waiting_room.
-29 Olivia moved the plum to the red_bucket.
-30 Olivia exited the pantry and stayed in the waiting_room.
-31 Amelia made no movements and stayed in the pantry for 10 minutes.
-32 Amelia exited the pantry and stayed in the waiting_room.
-33 Emily privately told Olivia that the plum is actually in the red_suitcase.
-34 Amelia privately told Aria that the plum is actually in the red_bucket.
-Question: Where does Olivia think the peach is?
-Answer: red_treasure_chest
-Choices: A. red_treasure_chest, B. blue_bucket, C. red_bathtub, D. green_envelope, E. blue_container, F. red_bucket, G. red_container, H. green_container, I. red_suitcase, J. green_crate, K. red_envelope, L. green_bottle, M. blue_bottle, N. blue_suitcase, O. red_crate
+1 Ella, Isabella, Ava, Emily and Ethan entered the playroom.
+2 The corn is in the blue_bucket.
+3 Ella moved the corn to the red_bathtub.
+4 Ella exited the playroom and stayed in the waiting_room.
+5 Isabella moved the corn to the blue_envelope.
+6 Isabella exited the playroom and stayed in the waiting_room.
+7 Ava made no movements and stayed in the playroom for 10 minutes.
+8 Ava exited the playroom and stayed in the waiting_room.
+9 Emily made no movements and stayed in the playroom for 10 minutes.
+10 Emily exited the playroom and stayed in the waiting_room.
+11 Ethan dislikes the tangerine.
+12 Ethan moved the corn to the blue_bucket.
+13 Ethan exited the playroom and stayed in the waiting_room.
+14 Emily publicly claimed that corn is in the blue_bucket.
+15 Ella lost his watch.
+16 Ethan privately told Ella that the corn is actually in the blue_bucket.
+17 Ethan, Ella and Ava entered the playroom.
+18 The corn is in the blue_bucket.
+19 Ethan moved the corn to the green_treasure_chest.
+20 Ethan exited the playroom and stayed in the waiting_room.
+21 Ella moved the corn to the red_bathtub.
+22 Ella exited the playroom and stayed in the waiting_room.
+23 Ava moved the corn to the red_envelope.
+24 Ava exited the playroom and stayed in the waiting_room.
+25 Ethan, Emily, Ava and Ella entered the attic.
+26 The banana is in the blue_drawer.
+27 Ethan lost his phone.
+28 Ethan moved the banana to the red_basket.
+29 Ethan exited the attic and stayed in the waiting_room.
+30 Emily moved the banana to the green_envelope.
+31 Emily exited the attic and stayed in the waiting_room.
+32 Ava moved the banana to the green_bottle.
+33 Ava exited the attic and stayed in the waiting_room.
+34 Ella made no movements and stayed in the attic for 10 minutes.
+35 Ella exited the attic and stayed in the waiting_room.
+36 Emily publicly claimed that banana is in the green_envelope.
+37 Ella privately told Ava that the banana is actually in the red_box.
+38 Ava likes the red_bathtub.
+Question: Where does Ava think the corn is?
+Answer: red_envelope
+Choices: A. red_treasure_chest, B. red_cupboard, C. blue_suitcase, D. green_bathtub, E. red_container, F. blue_bucket, G. red_envelope, H. red_bathtub, I. green_treasure_chest, J. blue_envelope, K. blue_drawer, L. green_envelope, M. red_box, N. red_basket, O. green_bottle

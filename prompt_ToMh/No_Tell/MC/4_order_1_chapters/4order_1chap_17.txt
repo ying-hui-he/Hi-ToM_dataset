@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Jackson, Charlotte, Jayden and Emily entered the workshop.
-2 The lettuce is in the green_envelope.
-3 Carter made no movements and stayed in the workshop for 10 minutes.
-4 Carter exited the workshop and stayed in the waiting_room.
-5 Jackson made no movements and stayed in the workshop for 10 minutes.
-6 Jackson exited the workshop and stayed in the waiting_room.
-7 Charlotte moved the lettuce to the green_cupboard.
-8 Charlotte exited the workshop and stayed in the waiting_room.
-9 Jayden made no movements and stayed in the workshop for 10 minutes.
-10 Jayden exited the workshop and stayed in the waiting_room.
-11 Emily made no movements and stayed in the workshop for 10 minutes.
-12 Emily exited the workshop and stayed in the waiting_room.
-Question: Where does Jayden think Jackson thinks Charlotte thinks Carter thinks the lettuce is?
-Choices: A. red_drawer, B. blue_bucket, C. blue_suitcase, D. red_envelope, E. blue_envelope, F. green_cupboard, G. green_envelope, H. blue_box, I. red_bucket, J. green_bottle, K. red_treasure_chest, L. red_crate, M. green_suitcase, N. red_suitcase, O. red_bathtub
+1 Isla, Ava, Jacob, Mason and Jack entered the hall.
+2 The lemon is in the green_box.
+3 Isla made no movements and stayed in the hall for 10 minutes.
+4 Isla exited the hall and stayed in the waiting_room.
+5 Ava made no movements and stayed in the hall for 10 minutes.
+6 Ava exited the hall and stayed in the waiting_room.
+7 Jacob made no movements and stayed in the hall for 10 minutes.
+8 Jacob exited the hall and stayed in the waiting_room.
+9 Mason moved the lemon to the red_bucket.
+10 Mason exited the hall and stayed in the waiting_room.
+11 Jack moved the lemon to the green_box.
+12 Jack dislikes the pineapple.
+13 Jack exited the hall and stayed in the waiting_room.
+Question: Where does Jacob think Mason thinks Ava thinks Isla thinks the lemon is?
+Choices: A. red_box, B. blue_envelope, C. red_container, D. green_bottle, E. red_cupboard, F. blue_bucket, G. green_bucket, H. green_suitcase, I. red_basket, J. red_bathtub, K. red_bucket, L. green_box, M. green_pantry, N. red_envelope, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

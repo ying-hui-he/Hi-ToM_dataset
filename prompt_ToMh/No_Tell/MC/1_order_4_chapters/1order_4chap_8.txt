@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Ethan, Olivia, Oliver and Ella entered the garage.
-2 The pumpkin is in the green_cupboard.
-3 James moved the pumpkin to the red_treasure_chest.
-4 James exited the garage and stayed in the waiting_room.
-5 Ethan moved the pumpkin to the green_container.
-6 Ethan exited the garage and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the garage for 10 minutes.
-8 Olivia exited the garage and stayed in the waiting_room.
-9 Oliver moved the pumpkin to the blue_suitcase.
-10 Oliver exited the garage and stayed in the waiting_room.
-11 Ella made no movements and stayed in the garage for 10 minutes.
-12 Ella exited the garage and stayed in the waiting_room.
-13 Oliver, Ethan and Olivia entered the master_bedroom.
-14 The lime is in the red_container.
-15 Oliver moved the lime to the blue_envelope.
-16 Oliver exited the master_bedroom and stayed in the waiting_room.
-17 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
-18 Ethan exited the master_bedroom and stayed in the waiting_room.
-19 Olivia moved the lime to the blue_bottle.
-20 Olivia exited the master_bedroom and stayed in the waiting_room.
-21 Ella, Oliver, Olivia and James entered the master_bedroom.
-22 The plum is in the blue_envelope.
-23 Ella moved the plum to the blue_bottle.
-24 Ella exited the master_bedroom and stayed in the waiting_room.
-25 Oliver made no movements and stayed in the master_bedroom for 10 minutes.
-26 Oliver exited the master_bedroom and stayed in the waiting_room.
-27 Olivia moved the plum to the green_bottle.
-28 Olivia exited the master_bedroom and stayed in the waiting_room.
-29 James moved the plum to the blue_drawer.
-30 James exited the master_bedroom and stayed in the waiting_room.
-31 Ethan and James entered the garage.
-32 The pumpkin is in the blue_suitcase.
-33 Ethan made no movements and stayed in the garage for 10 minutes.
-34 Ethan exited the garage and stayed in the waiting_room.
-35 James moved the pumpkin to the red_bucket.
-36 James exited the garage and stayed in the waiting_room.
-Question: Where does Ella think the pumpkin is?
-Choices: A. blue_envelope, B. red_container, C. blue_drawer, D. blue_bottle, E. green_bottle, F. blue_box, G. green_bathtub, H. blue_container, I. blue_bathtub, J. blue_basket, K. blue_suitcase, L. green_cupboard, M. red_treasure_chest, N. green_container, O. red_bucket
+1 Emma dislikes the grapefruit.
+2 Isabella, Jack, Mila, Emma and Sophia entered the kitchen.
+3 The tomato is in the blue_cupboard.
+4 Isabella made no movements and stayed in the kitchen for 10 minutes.
+5 Mila dislikes the banana.
+6 Isabella exited the kitchen and stayed in the waiting_room.
+7 Jack made no movements and stayed in the kitchen for 10 minutes.
+8 Jack exited the kitchen and stayed in the waiting_room.
+9 Mila made no movements and stayed in the kitchen for 10 minutes.
+10 Mila exited the kitchen and stayed in the waiting_room.
+11 Emma moved the tomato to the red_pantry.
+12 Emma exited the kitchen and stayed in the waiting_room.
+13 Sophia made no movements and stayed in the kitchen for 10 minutes.
+14 Sophia exited the kitchen and stayed in the waiting_room.
+15 Emma, Jack and Isabella entered the hallway.
+16 The lettuce is in the blue_drawer.
+17 Emma moved the lettuce to the green_bucket.
+18 Emma exited the hallway and stayed in the waiting_room.
+19 Jack moved the lettuce to the blue_suitcase.
+20 Jack exited the hallway and stayed in the waiting_room.
+21 Isabella made no movements and stayed in the hallway for 10 minutes.
+22 Isabella exited the hallway and stayed in the waiting_room.
+23 Emma, Jack, Mila and Isabella entered the pantry.
+24 The grapes is in the red_envelope.
+25 Emma moved the grapes to the red_treasure_chest.
+26 Emma exited the pantry and stayed in the waiting_room.
+27 Mila likes the blue_bottle.
+28 Jack made no movements and stayed in the pantry for 10 minutes.
+29 Jack exited the pantry and stayed in the waiting_room.
+30 Mila made no movements and stayed in the pantry for 10 minutes.
+31 Mila exited the pantry and stayed in the waiting_room.
+32 Isabella moved the grapes to the blue_bottle.
+33 Isabella exited the pantry and stayed in the waiting_room.
+34 Emma and Mila entered the kitchen.
+35 The melon is in the green_bathtub.
+36 Sophia saw a mouse.
+37 Emma made no movements and stayed in the kitchen for 10 minutes.
+38 Emma exited the kitchen and stayed in the waiting_room.
+39 Mila moved the melon to the red_bathtub.
+40 Mila exited the kitchen and stayed in the waiting_room.
+Question: Where does Isabella think the tomato is?
+Choices: A. blue_cupboard, B. green_bathtub, C. red_container, D. red_pantry, E. red_bathtub, F. blue_bottle, G. red_envelope, H. green_cupboard, I. red_treasure_chest, J. blue_bucket, K. blue_drawer, L. red_crate, M. blue_suitcase, N. green_bucket, O. red_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

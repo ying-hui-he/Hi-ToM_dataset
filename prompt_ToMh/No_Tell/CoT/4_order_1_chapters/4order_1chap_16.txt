@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, Owen, Jack, Aria and Olivia entered the TV_room.
-2 The cucumber is in the red_crate.
-3 Oliver made no movements and stayed in the TV_room for 10 minutes.
-4 Oliver exited the TV_room and stayed in the waiting_room.
-5 Owen made no movements and stayed in the TV_room for 10 minutes.
-6 Owen exited the TV_room and stayed in the waiting_room.
-7 Jack moved the cucumber to the red_basket.
-8 Jack exited the TV_room and stayed in the waiting_room.
-9 Aria made no movements and stayed in the TV_room for 10 minutes.
-10 Aria exited the TV_room and stayed in the waiting_room.
-11 Olivia moved the cucumber to the red_crate.
-12 Olivia exited the TV_room and stayed in the waiting_room.
-Question: Where does Olivia think Jack thinks Oliver thinks Aria thinks the cucumber is?
-Choices: A. blue_suitcase, B. blue_treasure_chest, C. blue_drawer, D. red_drawer, E. blue_basket, F. blue_pantry, G. red_suitcase, H. red_envelope, I. blue_box, J. blue_bathtub, K. red_crate, L. green_crate, M. blue_bucket, N. red_container, O. red_basket
+1 Abigail, Sophia, Logan, Nathan and Charlotte entered the porch.
+2 The lemon is in the red_cupboard.
+3 Abigail made no movements and stayed in the porch for 10 minutes.
+4 Abigail exited the porch and stayed in the waiting_room.
+5 Sophia moved the lemon to the green_bottle.
+6 Sophia exited the porch and stayed in the waiting_room.
+7 Logan made no movements and stayed in the porch for 10 minutes.
+8 Logan exited the porch and stayed in the waiting_room.
+9 Nathan made no movements and stayed in the porch for 10 minutes.
+10 Nathan exited the porch and stayed in the waiting_room.
+11 Charlotte moved the lemon to the red_cupboard.
+12 Charlotte exited the porch and stayed in the waiting_room.
+Question: Where does Sophia think Abigail thinks Nathan thinks Logan thinks the lemon is?
+Choices: A. green_suitcase, B. green_bathtub, C. green_basket, D. blue_envelope, E. red_crate, F. green_envelope, G. blue_drawer, H. red_envelope, I. red_treasure_chest, J. green_pantry, K. red_cupboard, L. red_bottle, M. red_bucket, N. green_bottle, O. blue_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

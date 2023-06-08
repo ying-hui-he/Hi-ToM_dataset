@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Isla, Jayden, Amelia and Jackson entered the office.
-2 The grapefruit is in the blue_suitcase.
-3 Emily made no movements and stayed in the office for 10 minutes.
-4 Emily exited the office and stayed in the waiting_room.
-5 Isla moved the grapefruit to the red_suitcase.
-6 Isla exited the office and stayed in the waiting_room.
-7 Jayden moved the grapefruit to the red_crate.
-8 Jayden exited the office and stayed in the waiting_room.
-9 Amelia moved the grapefruit to the blue_envelope.
-10 Amelia exited the office and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the office for 10 minutes.
-12 Jackson exited the office and stayed in the waiting_room.
-13 Isla, Jackson and Amelia entered the office.
-14 The grapefruit is in the blue_envelope.
-15 Isla moved the grapefruit to the red_suitcase.
-16 Isla exited the office and stayed in the waiting_room.
-17 Jackson made no movements and stayed in the office for 10 minutes.
-18 Jackson exited the office and stayed in the waiting_room.
-19 Amelia moved the grapefruit to the red_crate.
-20 Amelia exited the office and stayed in the waiting_room.
-21 Jackson publicly claimed that grapefruit is in the red_suitcase.
-22 Amelia privately told Jackson that the grapefruit is actually in the blue_suitcase.
-23 Jackson, Emily, Isla and Jayden entered the patio.
-24 The melon is in the blue_box.
-25 Jackson moved the melon to the green_bathtub.
-26 Jackson exited the patio and stayed in the waiting_room.
-27 Emily moved the melon to the green_suitcase.
-28 Emily exited the patio and stayed in the waiting_room.
-29 Isla made no movements and stayed in the patio for 10 minutes.
-30 Isla exited the patio and stayed in the waiting_room.
-31 Jayden moved the melon to the red_container.
-32 Jayden exited the patio and stayed in the waiting_room.
-33 Jayden and Jackson entered the patio.
-34 The turnip is in the green_bathtub.
-35 Jayden moved the turnip to the red_container.
-36 Jayden exited the patio and stayed in the waiting_room.
-37 Jackson made no movements and stayed in the patio for 10 minutes.
-38 Jackson exited the patio and stayed in the waiting_room.
-39 Jackson publicly claimed that turnip is in the red_container.
-40 Jayden privately told Jackson that the turnip is actually in the red_drawer.
-Question: Where does Emily think Jayden thinks the grapefruit is?
-Answer: red_suitcase
-Choices: A. red_bottle, B. green_bottle, C. red_bathtub, D. blue_basket, E. blue_pantry, F. blue_suitcase, G. red_crate, H. red_suitcase, I. green_container, J. blue_envelope, K. green_bathtub, L. blue_box, M. red_container, N. green_suitcase, O. red_drawer
+1 Aiden, Amelia, Jayden, Mila and Emma entered the study.
+2 The peach is in the blue_envelope.
+3 Jayden saw a monkey.
+4 Aiden made no movements and stayed in the study for 10 minutes.
+5 Aiden exited the study and stayed in the waiting_room.
+6 Amelia made no movements and stayed in the study for 10 minutes.
+7 Amelia exited the study and stayed in the waiting_room.
+8 Amelia dislikes the cabbage.
+9 Jayden moved the peach to the green_bathtub.
+10 Jayden exited the study and stayed in the waiting_room.
+11 Mila moved the peach to the red_bucket.
+12 Mila exited the study and stayed in the waiting_room.
+13 Amelia saw a mouse.
+14 Emma moved the peach to the blue_envelope.
+15 Emma exited the study and stayed in the waiting_room.
+16 Emma, Amelia and Mila entered the master_bedroom.
+17 The celery is in the red_container.
+18 Emma made no movements and stayed in the master_bedroom for 10 minutes.
+19 Emma exited the master_bedroom and stayed in the waiting_room.
+20 Amelia moved the celery to the red_treasure_chest.
+21 Amelia exited the master_bedroom and stayed in the waiting_room.
+22 Mila moved the celery to the blue_drawer.
+23 Emma likes the red_bucket.
+24 Mila exited the master_bedroom and stayed in the waiting_room.
+25 Aiden saw a monkey.
+26 Emma publicly claimed that celery is in the red_treasure_chest.
+27 Mila privately told Jayden that the celery is actually in the blue_drawer.
+28 Aiden, Emma, Jayden and Amelia entered the study.
+29 The peach is in the blue_envelope.
+30 Aiden made no movements and stayed in the study for 10 minutes.
+31 Aiden exited the study and stayed in the waiting_room.
+32 Emma made no movements and stayed in the study for 10 minutes.
+33 Emma exited the study and stayed in the waiting_room.
+34 Jayden made no movements and stayed in the study for 10 minutes.
+35 Jayden lost his phone.
+36 Jayden exited the study and stayed in the waiting_room.
+37 Amelia made no movements and stayed in the study for 10 minutes.
+38 Amelia exited the study and stayed in the waiting_room.
+39 Mila and Jayden entered the master_bedroom.
+40 The carrot is in the red_crate.
+41 Mila moved the carrot to the red_container.
+42 Mila exited the master_bedroom and stayed in the waiting_room.
+43 Jayden moved the carrot to the blue_drawer.
+44 Jayden exited the master_bedroom and stayed in the waiting_room.
+45 Mila privately told Amelia that the carrot is actually in the green_bucket.
+Question: Where does Mila think Jayden thinks the peach is?
+Answer: green_bathtub
+Choices: A. green_pantry, B. red_pantry, C. red_envelope, D. blue_cupboard, E. red_basket, F. green_bathtub, G. blue_envelope, H. red_bucket, I. blue_bottle, J. red_cupboard, K. red_container, L. red_crate, M. red_treasure_chest, N. green_bucket, O. blue_drawer

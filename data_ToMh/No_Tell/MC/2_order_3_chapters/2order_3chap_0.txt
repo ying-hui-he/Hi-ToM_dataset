@@ -1,35 +1,36 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Ella, Logan, Oliver and Aria entered the TV_room.
-2 The cucumber is in the blue_drawer.
-3 Jackson made no movements and stayed in the TV_room for 10 minutes.
-4 Jackson exited the TV_room and stayed in the waiting_room.
-5 Ella made no movements and stayed in the TV_room for 10 minutes.
-6 Ella exited the TV_room and stayed in the waiting_room.
-7 Logan moved the cucumber to the blue_pantry.
-8 Logan exited the TV_room and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the TV_room for 10 minutes.
-10 Oliver exited the TV_room and stayed in the waiting_room.
-11 Aria moved the cucumber to the blue_drawer.
-12 Aria exited the TV_room and stayed in the waiting_room.
-13 Jackson, Logan and Oliver entered the garden.
-14 The turnip is in the green_crate.
-15 Jackson made no movements and stayed in the garden for 10 minutes.
-16 Jackson exited the garden and stayed in the waiting_room.
-17 Logan made no movements and stayed in the garden for 10 minutes.
-18 Logan exited the garden and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the garden for 10 minutes.
-20 Oliver exited the garden and stayed in the waiting_room.
-21 Aria, Ella, Jackson and Logan entered the TV_room.
-22 The pumpkin is in the green_bottle.
-23 Aria moved the pumpkin to the blue_bucket.
-24 Aria exited the TV_room and stayed in the waiting_room.
-25 Ella moved the pumpkin to the blue_drawer.
-26 Ella exited the TV_room and stayed in the waiting_room.
-27 Jackson made no movements and stayed in the TV_room for 10 minutes.
-28 Jackson exited the TV_room and stayed in the waiting_room.
-29 Logan made no movements and stayed in the TV_room for 10 minutes.
-30 Logan exited the TV_room and stayed in the waiting_room.
-Question: Where does Oliver think Ella thinks the cucumber is?
-Answer: None
-Choices: A. blue_basket, B. green_crate, C. blue_container, D. green_cupboard, E. red_bucket, F. green_bottle, G. blue_drawer, H. blue_bucket, I. blue_pantry, J. green_suitcase, K. green_treasure_chest, L. blue_envelope, M. red_bottle, N. green_container, O. blue_suitcase
+1 Emily, Lucas, Sophia, Abigail and Gracie entered the workshop.
+2 The green_pepper is in the red_cupboard.
+3 Emily made no movements and stayed in the workshop for 10 minutes.
+4 Emily exited the workshop and stayed in the waiting_room.
+5 Lucas made no movements and stayed in the workshop for 10 minutes.
+6 Lucas exited the workshop and stayed in the waiting_room.
+7 Sophia made no movements and stayed in the workshop for 10 minutes.
+8 Sophia exited the workshop and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the workshop for 10 minutes.
+10 Abigail exited the workshop and stayed in the waiting_room.
+11 Gracie moved the green_pepper to the red_cupboard.
+12 Gracie exited the workshop and stayed in the waiting_room.
+13 Gracie, Emily and Sophia entered the lounge.
+14 The peas is in the green_basket.
+15 Gracie moved the peas to the green_bucket.
+16 Gracie exited the lounge and stayed in the waiting_room.
+17 Emily made no movements and stayed in the lounge for 10 minutes.
+18 Lucas likes the green_pantry.
+19 Emily exited the lounge and stayed in the waiting_room.
+20 Sophia moved the peas to the blue_crate.
+21 Sophia exited the lounge and stayed in the waiting_room.
+22 Abigail, Emily, Lucas and Sophia entered the porch.
+23 The turnip is in the green_bottle.
+24 Abigail made no movements and stayed in the porch for 10 minutes.
+25 Abigail exited the porch and stayed in the waiting_room.
+26 Emily made no movements and stayed in the porch for 10 minutes.
+27 Emily exited the porch and stayed in the waiting_room.
+28 Lucas made no movements and stayed in the porch for 10 minutes.
+29 Lucas exited the porch and stayed in the waiting_room.
+30 Sophia made no movements and stayed in the porch for 10 minutes.
+31 Sophia exited the porch and stayed in the waiting_room.
+Question: Where does Lucas think Sophia thinks the green_pepper is?
+Answer: red_cupboard
+Choices: A. green_basket, B. green_bucket, C. red_basket, D. blue_crate, E. green_pantry, F. green_bottle, G. red_bathtub, H. red_treasure_chest, I. red_crate, J. blue_drawer, K. red_bucket, L. red_cupboard, M. red_envelope, N. blue_bathtub, O. blue_bucket

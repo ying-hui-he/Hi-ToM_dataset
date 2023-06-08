@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Noah, William, Abigail, James and Avery entered the attic.
-2 The cherry is in the blue_crate.
-3 Noah moved the cherry to the green_treasure_chest.
-4 Noah exited the attic and stayed in the waiting_room.
-5 William made no movements and stayed in the attic for 10 minutes.
-6 William exited the attic and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the attic for 10 minutes.
-8 Abigail exited the attic and stayed in the waiting_room.
-9 James moved the cherry to the green_bottle.
-10 James exited the attic and stayed in the waiting_room.
-11 Avery moved the cherry to the blue_crate.
-12 Avery exited the attic and stayed in the waiting_room.
-13 Abigail publicly claimed that cherry is in the green_bottle.
-14 Avery privately told Abigail that the cherry is actually in the blue_crate.
-Question: Where does Noah think the cherry is?
-Choices: A. red_bucket, B. blue_suitcase, C. red_basket, D. green_container, E. green_bathtub, F. red_suitcase, G. green_suitcase, H. blue_pantry, I. green_crate, J. green_envelope, K. blue_crate, L. blue_drawer, M. green_bottle, N. blue_bucket, O. green_treasure_chest
+1 Jackson, Sophia, Mia, Alexander and Jacob entered the front_yard.
+2 The radish is in the red_bucket.
+3 Jackson made no movements and stayed in the front_yard for 10 minutes.
+4 Jackson exited the front_yard and stayed in the waiting_room.
+5 Sophia moved the radish to the red_envelope.
+6 Sophia exited the front_yard and stayed in the waiting_room.
+7 Mia moved the radish to the red_treasure_chest.
+8 Mia exited the front_yard and stayed in the waiting_room.
+9 Alexander made no movements and stayed in the front_yard for 10 minutes.
+10 Alexander exited the front_yard and stayed in the waiting_room.
+11 Jacob moved the radish to the red_bucket.
+12 Jacob exited the front_yard and stayed in the waiting_room.
+13 Mia privately told Jackson that the radish is actually in the red_treasure_chest.
+14 Sophia privately told Alexander that the radish is actually in the green_bucket.
+Question: Where does Jackson think the radish is?
+Choices: A. blue_bathtub, B. green_bathtub, C. blue_drawer, D. blue_cupboard, E. red_basket, F. red_treasure_chest, G. red_bucket, H. blue_crate, I. green_bucket, J. red_envelope, K. blue_suitcase, L. green_basket, M. red_bottle, N. green_suitcase, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

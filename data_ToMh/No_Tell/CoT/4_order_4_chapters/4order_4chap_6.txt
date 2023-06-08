@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Oliver, Jackson, Abigail and Ava entered the lounge.
-2 The onion is in the red_bathtub.
-3 Jack moved the onion to the red_container.
-4 Jack exited the lounge and stayed in the waiting_room.
-5 Oliver moved the onion to the blue_basket.
-6 Oliver exited the lounge and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the lounge for 10 minutes.
-8 Jackson exited the lounge and stayed in the waiting_room.
-9 Abigail moved the onion to the red_suitcase.
-10 Abigail exited the lounge and stayed in the waiting_room.
-11 Ava moved the onion to the red_bathtub.
-12 Ava exited the lounge and stayed in the waiting_room.
-13 Abigail, Oliver and Ava entered the lounge.
-14 The apple is in the green_container.
-15 Abigail made no movements and stayed in the lounge for 10 minutes.
-16 Abigail exited the lounge and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the lounge for 10 minutes.
-18 Oliver exited the lounge and stayed in the waiting_room.
-19 Ava made no movements and stayed in the lounge for 10 minutes.
-20 Ava exited the lounge and stayed in the waiting_room.
-21 Abigail, Jackson, Jack and Oliver entered the cellar.
-22 The radish is in the blue_bucket.
-23 Abigail made no movements and stayed in the cellar for 10 minutes.
-24 Abigail exited the cellar and stayed in the waiting_room.
-25 Jackson made no movements and stayed in the cellar for 10 minutes.
-26 Jackson exited the cellar and stayed in the waiting_room.
-27 Jack made no movements and stayed in the cellar for 10 minutes.
-28 Jack exited the cellar and stayed in the waiting_room.
-29 Oliver moved the radish to the red_bucket.
-30 Oliver exited the cellar and stayed in the waiting_room.
-31 Oliver and Jackson entered the lounge.
-32 The onion is in the red_bathtub.
-33 Oliver moved the onion to the red_suitcase.
-34 Oliver exited the lounge and stayed in the waiting_room.
-35 Jackson made no movements and stayed in the lounge for 10 minutes.
-36 Jackson exited the lounge and stayed in the waiting_room.
-Question: Where does Ava think Jack thinks Jackson thinks Oliver thinks the onion is?
+1 Emma, Liam, Gracie, Jayden and Aria entered the bathroom.
+2 The asparagus is in the red_crate.
+3 Emma made no movements and stayed in the bathroom for 10 minutes.
+4 Emma exited the bathroom and stayed in the waiting_room.
+5 Liam saw a mouse.
+6 Liam moved the asparagus to the green_bucket.
+7 Liam exited the bathroom and stayed in the waiting_room.
+8 Gracie moved the asparagus to the red_cupboard.
+9 Gracie exited the bathroom and stayed in the waiting_room.
+10 Jayden made no movements and stayed in the bathroom for 10 minutes.
+11 Jayden exited the bathroom and stayed in the waiting_room.
+12 Aria made no movements and stayed in the bathroom for 10 minutes.
+13 Aria exited the bathroom and stayed in the waiting_room.
+14 Emma, Jayden and Gracie entered the bathroom.
+15 The asparagus is in the red_cupboard.
+16 Emma moved the asparagus to the green_treasure_chest.
+17 Emma exited the bathroom and stayed in the waiting_room.
+18 Jayden moved the asparagus to the red_crate.
+19 Jayden exited the bathroom and stayed in the waiting_room.
+20 Gracie moved the asparagus to the blue_cupboard.
+21 Gracie exited the bathroom and stayed in the waiting_room.
+22 Liam, Emma, Aria and Gracie entered the bathroom.
+23 The asparagus is in the blue_cupboard.
+24 Liam made no movements and stayed in the bathroom for 10 minutes.
+25 Liam exited the bathroom and stayed in the waiting_room.
+26 Emma made no movements and stayed in the bathroom for 10 minutes.
+27 Emma exited the bathroom and stayed in the waiting_room.
+28 Aria moved the asparagus to the green_bucket.
+29 Aria exited the bathroom and stayed in the waiting_room.
+30 Emma saw a mouse.
+31 Gracie moved the asparagus to the red_cupboard.
+32 Gracie exited the bathroom and stayed in the waiting_room.
+33 Jayden and Aria entered the bathroom.
+34 Aria saw a cat.
+35 The banana is in the green_bucket.
+36 Jayden made no movements and stayed in the bathroom for 10 minutes.
+37 Jayden exited the bathroom and stayed in the waiting_room.
+38 Aria moved the banana to the green_treasure_chest.
+39 Aria exited the bathroom and stayed in the waiting_room.
+Question: Where does Liam think Aria thinks Jayden thinks Gracie thinks the asparagus is?
 Answer: None
-Choices: A. red_bathtub, B. green_container, C. red_suitcase, D. blue_basket, E. red_container, F. blue_treasure_chest, G. blue_bucket, H. green_bathtub, I. red_bucket, J. blue_bottle, K. red_bottle, L. red_basket, M. blue_box, N. blue_drawer, O. blue_suitcase
+Choices: A. blue_drawer, B. blue_envelope, C. red_treasure_chest, D. blue_bottle, E. green_bathtub, F. red_envelope, G. red_bucket, H. blue_crate, I. red_pantry, J. red_bottle, K. red_crate, L. green_bucket, M. red_cupboard, N. green_treasure_chest, O. blue_cupboard

@@ -1,17 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, James, Ethan, Isla and Aria entered the attic.
-2 The tomato is in the green_crate.
-3 Abigail made no movements and stayed in the attic for 10 minutes.
-4 Abigail exited the attic and stayed in the waiting_room.
-5 James made no movements and stayed in the attic for 10 minutes.
-6 James exited the attic and stayed in the waiting_room.
-7 Ethan made no movements and stayed in the attic for 10 minutes.
-8 Ethan exited the attic and stayed in the waiting_room.
-9 Isla moved the tomato to the blue_pantry.
-10 Isla exited the attic and stayed in the waiting_room.
-11 Aria made no movements and stayed in the attic for 10 minutes.
-12 Aria exited the attic and stayed in the waiting_room.
-Question: Where does Abigail think Aria thinks Isla thinks the tomato is?
-Choices: A. blue_container, B. red_crate, C. green_bathtub, D. green_cupboard, E. red_bottle, F. green_treasure_chest, G. green_bottle, H. red_envelope, I. blue_crate, J. blue_treasure_chest, K. blue_pantry, L. green_crate, M. blue_bottle, N. red_bathtub, O. green_container
+1 Jackson, Mia, Lucas, Carter and Ava entered the dining_room.
+2 Carter likes the green_box.
+3 The lemon is in the blue_crate.
+4 Jackson made no movements and stayed in the dining_room for 10 minutes.
+5 Jackson exited the dining_room and stayed in the waiting_room.
+6 Mia moved the lemon to the red_container.
+7 Mia exited the dining_room and stayed in the waiting_room.
+8 Lucas moved the lemon to the blue_bathtub.
+9 Lucas dislikes the melon.
+10 Lucas exited the dining_room and stayed in the waiting_room.
+11 Carter made no movements and stayed in the dining_room for 10 minutes.
+12 Carter exited the dining_room and stayed in the waiting_room.
+13 Ava lost his watch.
+14 Ava moved the lemon to the blue_crate.
+15 Ava exited the dining_room and stayed in the waiting_room.
+Question: Where does Lucas think Mia thinks Jackson thinks the lemon is?
+Choices: A. blue_bottle, B. red_box, C. red_pantry, D. green_pantry, E. red_treasure_chest, F. blue_crate, G. red_bucket, H. blue_bathtub, I. green_box, J. red_container, K. green_bottle, L. green_suitcase, M. blue_drawer, N. green_basket, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

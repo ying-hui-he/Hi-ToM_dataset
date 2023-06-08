@@ -1,45 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Noah, Isla, Aiden and Emma entered the crawlspace.
-2 The pineapple is in the blue_bottle.
-3 Mila moved the pineapple to the blue_drawer.
-4 Mila exited the crawlspace and stayed in the waiting_room.
-5 Noah made no movements and stayed in the crawlspace for 10 minutes.
-6 Noah exited the crawlspace and stayed in the waiting_room.
-7 Isla moved the pineapple to the green_suitcase.
-8 Isla exited the crawlspace and stayed in the waiting_room.
-9 Aiden moved the pineapple to the red_envelope.
-10 Aiden exited the crawlspace and stayed in the waiting_room.
-11 Emma made no movements and stayed in the crawlspace for 10 minutes.
-12 Emma exited the crawlspace and stayed in the waiting_room.
-13 Aiden, Mila and Noah entered the porch.
-14 The tomato is in the blue_pantry.
-15 Aiden made no movements and stayed in the porch for 10 minutes.
-16 Aiden exited the porch and stayed in the waiting_room.
-17 Mila moved the tomato to the red_container.
-18 Mila exited the porch and stayed in the waiting_room.
-19 Noah moved the tomato to the green_crate.
-20 Noah exited the porch and stayed in the waiting_room.
-21 Aiden publicly claimed that tomato is in the blue_pantry.
-22 Noah privately told Isla that the tomato is actually in the green_crate.
-23 Isla, Mila, Emma and Aiden entered the crawlspace.
-24 The pineapple is in the red_envelope.
-25 Isla moved the pineapple to the green_suitcase.
-26 Isla exited the crawlspace and stayed in the waiting_room.
-27 Mila moved the pineapple to the green_bathtub.
-28 Mila exited the crawlspace and stayed in the waiting_room.
-29 Emma made no movements and stayed in the crawlspace for 10 minutes.
-30 Emma exited the crawlspace and stayed in the waiting_room.
-31 Aiden moved the pineapple to the blue_drawer.
-32 Aiden exited the crawlspace and stayed in the waiting_room.
-33 Isla and Emma entered the crawlspace.
-34 The spinach is in the blue_drawer.
-35 Isla made no movements and stayed in the crawlspace for 10 minutes.
-36 Isla exited the crawlspace and stayed in the waiting_room.
-37 Emma moved the spinach to the red_envelope.
-38 Emma exited the crawlspace and stayed in the waiting_room.
-39 Emma publicly claimed that spinach is in the green_bathtub.
-40 Isla privately told Emma that the spinach is actually in the green_suitcase.
-Question: Where does Emma think Aiden thinks the pineapple is?
-Answer: green_bathtub
-Choices: A. blue_bottle, B. blue_drawer, C. green_suitcase, D. red_envelope, E. green_bathtub, F. blue_bathtub, G. blue_crate, H. blue_envelope, I. red_bottle, J. red_crate, K. blue_pantry, L. red_treasure_chest, M. red_bucket, N. green_crate, O. red_container
+1 Chloe, Isabella, Logan, Emma and Mason entered the master_bedroom.
+2 The carrot is in the blue_bathtub.
+3 Chloe made no movements and stayed in the master_bedroom for 10 minutes.
+4 Chloe exited the master_bedroom and stayed in the waiting_room.
+5 Emma saw a cat.
+6 Isabella moved the carrot to the red_bathtub.
+7 Isabella exited the master_bedroom and stayed in the waiting_room.
+8 Logan moved the carrot to the red_container.
+9 Logan exited the master_bedroom and stayed in the waiting_room.
+10 Logan likes the green_treasure_chest.
+11 Emma made no movements and stayed in the master_bedroom for 10 minutes.
+12 Isabella likes the red_bucket.
+13 Emma exited the master_bedroom and stayed in the waiting_room.
+14 Mason made no movements and stayed in the master_bedroom for 10 minutes.
+15 Mason exited the master_bedroom and stayed in the waiting_room.
+16 Mason, Isabella and Logan entered the garden.
+17 The corn is in the red_crate.
+18 Mason made no movements and stayed in the garden for 10 minutes.
+19 Isabella saw a cat.
+20 Mason exited the garden and stayed in the waiting_room.
+21 Isabella made no movements and stayed in the garden for 10 minutes.
+22 Isabella exited the garden and stayed in the waiting_room.
+23 Logan moved the corn to the blue_drawer.
+24 Logan exited the garden and stayed in the waiting_room.
+25 Logan publicly claimed that corn is in the green_treasure_chest.
+26 Mason privately told Logan that the corn is actually in the red_crate.
+27 Chloe, Logan, Emma and Isabella entered the garden.
+28 The corn is in the blue_drawer.
+29 Chloe made no movements and stayed in the garden for 10 minutes.
+30 Chloe exited the garden and stayed in the waiting_room.
+31 Logan moved the corn to the red_crate.
+32 Logan exited the garden and stayed in the waiting_room.
+33 Emma made no movements and stayed in the garden for 10 minutes.
+34 Emma exited the garden and stayed in the waiting_room.
+35 Isabella moved the corn to the blue_envelope.
+36 Isabella exited the garden and stayed in the waiting_room.
+37 Chloe and Isabella entered the garden.
+38 The eggplant is in the blue_envelope.
+39 Chloe moved the eggplant to the red_crate.
+40 Chloe exited the garden and stayed in the waiting_room.
+41 Isabella made no movements and stayed in the garden for 10 minutes.
+42 Isabella exited the garden and stayed in the waiting_room.
+43 Chloe privately told Mason that the eggplant is actually in the blue_envelope.
+Question: Where does Isabella think Chloe thinks the carrot is?
+Answer: None
+Choices: A. blue_bathtub, B. blue_suitcase, C. red_bottle, D. red_bathtub, E. red_container, F. blue_envelope, G. red_crate, H. blue_crate, I. green_treasure_chest, J. blue_drawer, K. green_pantry, L. red_bucket, M. red_box, N. red_cupboard, O. blue_cupboard

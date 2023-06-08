@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Abigail, Oliver, Evelyn and Carter entered the staircase.
-2 The pumpkin is in the green_bottle.
-3 Jackson made no movements and stayed in the staircase for 10 minutes.
-4 Jackson exited the staircase and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the staircase for 10 minutes.
-6 Abigail exited the staircase and stayed in the waiting_room.
-7 Oliver moved the pumpkin to the blue_bathtub.
-8 Oliver exited the staircase and stayed in the waiting_room.
-9 Evelyn made no movements and stayed in the staircase for 10 minutes.
-10 Evelyn exited the staircase and stayed in the waiting_room.
-11 Carter made no movements and stayed in the staircase for 10 minutes.
-12 Carter exited the staircase and stayed in the waiting_room.
-Question: Where does Abigail think the pumpkin is?
-Choices: A. green_bottle, B. red_envelope, C. green_treasure_chest, D. blue_bathtub, E. red_bucket, F. blue_bucket, G. red_basket, H. green_crate, I. blue_basket, J. green_suitcase, K. red_treasure_chest, L. green_envelope, M. green_bathtub, N. blue_drawer, O. green_container
+1 Chloe, Alexander, Liam, Emma and Charlotte entered the garden.
+2 The banana is in the blue_bucket.
+3 Chloe moved the banana to the blue_bottle.
+4 Chloe exited the garden and stayed in the waiting_room.
+5 Alexander made no movements and stayed in the garden for 10 minutes.
+6 Alexander exited the garden and stayed in the waiting_room.
+7 Liam moved the banana to the red_container.
+8 Liam exited the garden and stayed in the waiting_room.
+9 Emma moved the banana to the red_treasure_chest.
+10 Emma exited the garden and stayed in the waiting_room.
+11 Charlotte moved the banana to the blue_bucket.
+12 Charlotte exited the garden and stayed in the waiting_room.
+Question: Where does Charlotte think the banana is?
+Choices: A. blue_crate, B. green_pantry, C. blue_drawer, D. green_bathtub, E. green_envelope, F. blue_bucket, G. green_cupboard, H. red_container, I. red_treasure_chest, J. blue_bottle, K. green_basket, L. red_envelope, M. red_bathtub, N. blue_bathtub, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

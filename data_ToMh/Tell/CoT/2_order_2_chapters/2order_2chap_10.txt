@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Gracie, Owen, Ava and Mila entered the staircase.
-2 The tomato is in the red_container.
-3 Aria made no movements and stayed in the staircase for 10 minutes.
-4 Aria exited the staircase and stayed in the waiting_room.
-5 Gracie moved the tomato to the red_envelope.
-6 Gracie exited the staircase and stayed in the waiting_room.
-7 Owen made no movements and stayed in the staircase for 10 minutes.
-8 Owen exited the staircase and stayed in the waiting_room.
-9 Ava made no movements and stayed in the staircase for 10 minutes.
-10 Ava exited the staircase and stayed in the waiting_room.
-11 Mila made no movements and stayed in the staircase for 10 minutes.
-12 Mila exited the staircase and stayed in the waiting_room.
-13 Aria, Gracie and Ava entered the garage.
-14 The radish is in the red_bucket.
-15 Aria made no movements and stayed in the garage for 10 minutes.
-16 Aria exited the garage and stayed in the waiting_room.
-17 Gracie moved the radish to the blue_envelope.
-18 Gracie exited the garage and stayed in the waiting_room.
-19 Ava moved the radish to the blue_bathtub.
-20 Ava exited the garage and stayed in the waiting_room.
-21 Ava publicly claimed that radish is in the blue_envelope.
-22 Aria privately told Ava that the radish is actually in the blue_treasure_chest.
-Question: Where does Mila think Aria thinks the tomato is?
-Answer: None
-Choices: A. red_container, B. red_envelope, C. blue_bottle, D. blue_container, E. green_bottle, F. blue_crate, G. green_bathtub, H. red_bathtub, I. red_treasure_chest, J. blue_pantry, K. red_bucket, L. blue_envelope, M. green_treasure_chest, N. blue_bathtub, O. blue_treasure_chest
+1 Mason, Lucas, Carter, Emma and Abigail entered the laundry.
+2 The asparagus is in the green_pantry.
+3 Mason moved the asparagus to the green_bathtub.
+4 Mason exited the laundry and stayed in the waiting_room.
+5 Lucas moved the asparagus to the red_bathtub.
+6 Mason dislikes the tomato.
+7 Lucas exited the laundry and stayed in the waiting_room.
+8 Carter moved the asparagus to the red_bucket.
+9 Carter exited the laundry and stayed in the waiting_room.
+10 Emma moved the asparagus to the blue_drawer.
+11 Emma exited the laundry and stayed in the waiting_room.
+12 Abigail made no movements and stayed in the laundry for 10 minutes.
+13 Abigail exited the laundry and stayed in the waiting_room.
+14 Emma, Abigail and Lucas entered the sunroom.
+15 The cucumber is in the red_treasure_chest.
+16 Emma made no movements and stayed in the sunroom for 10 minutes.
+17 Emma exited the sunroom and stayed in the waiting_room.
+18 Abigail made no movements and stayed in the sunroom for 10 minutes.
+19 Abigail exited the sunroom and stayed in the waiting_room.
+20 Lucas moved the cucumber to the red_container.
+21 Lucas exited the sunroom and stayed in the waiting_room.
+22 Emma publicly claimed that cucumber is in the red_treasure_chest.
+23 Lucas privately told Carter that the cucumber is actually in the red_container.
+Question: Where does Mason think Carter thinks the asparagus is?
+Answer: green_pantry
+Choices: A. green_pantry, B. green_bathtub, C. red_bathtub, D. red_bucket, E. blue_drawer, F. red_treasure_chest, G. red_container, H. blue_bathtub, I. blue_bottle, J. blue_envelope, K. red_crate, L. red_pantry, M. blue_cupboard, N. blue_suitcase, O. green_suitcase

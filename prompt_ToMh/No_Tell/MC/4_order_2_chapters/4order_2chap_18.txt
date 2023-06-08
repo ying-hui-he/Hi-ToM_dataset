@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Logan, Abigail, Ava and Evelyn entered the pantry.
-2 The carrot is in the green_treasure_chest.
-3 Gracie made no movements and stayed in the pantry for 10 minutes.
-4 Gracie exited the pantry and stayed in the waiting_room.
-5 Logan moved the carrot to the blue_container.
-6 Logan exited the pantry and stayed in the waiting_room.
-7 Abigail moved the carrot to the red_drawer.
-8 Abigail exited the pantry and stayed in the waiting_room.
-9 Ava moved the carrot to the red_crate.
-10 Ava exited the pantry and stayed in the waiting_room.
-11 Evelyn moved the carrot to the green_treasure_chest.
-12 Evelyn exited the pantry and stayed in the waiting_room.
-13 Evelyn, Ava and Logan entered the pantry.
-14 The orange is in the red_drawer.
-15 Evelyn made no movements and stayed in the pantry for 10 minutes.
-16 Evelyn exited the pantry and stayed in the waiting_room.
-17 Ava made no movements and stayed in the pantry for 10 minutes.
-18 Ava exited the pantry and stayed in the waiting_room.
-19 Logan moved the orange to the blue_treasure_chest.
-20 Logan exited the pantry and stayed in the waiting_room.
-Question: Where does Ava think Logan thinks Evelyn thinks Gracie thinks the carrot is?
-Choices: A. green_treasure_chest, B. red_drawer, C. blue_container, D. blue_treasure_chest, E. red_crate, F. green_bottle, G. red_bucket, H. green_cupboard, I. blue_basket, J. red_bottle, K. blue_box, L. red_suitcase, M. blue_envelope, N. blue_bathtub, O. red_basket
+1 Amelia, Owen, Sophia, Aiden and Jacob entered the basement.
+2 The cabbage is in the green_bottle.
+3 Amelia moved the cabbage to the green_pantry.
+4 Amelia exited the basement and stayed in the waiting_room.
+5 Owen moved the cabbage to the blue_treasure_chest.
+6 Owen exited the basement and stayed in the waiting_room.
+7 Sophia made no movements and stayed in the basement for 10 minutes.
+8 Sophia exited the basement and stayed in the waiting_room.
+9 Aiden moved the cabbage to the blue_bucket.
+10 Aiden exited the basement and stayed in the waiting_room.
+11 Jacob moved the cabbage to the green_bottle.
+12 Jacob exited the basement and stayed in the waiting_room.
+13 Owen, Aiden and Amelia entered the basement.
+14 The watermelon is in the blue_bucket.
+15 Sophia dislikes the peas.
+16 Owen made no movements and stayed in the basement for 10 minutes.
+17 Owen exited the basement and stayed in the waiting_room.
+18 Aiden made no movements and stayed in the basement for 10 minutes.
+19 Aiden exited the basement and stayed in the waiting_room.
+20 Amelia moved the watermelon to the green_pantry.
+21 Amelia exited the basement and stayed in the waiting_room.
+Question: Where does Owen think Amelia thinks Sophia thinks Jacob thinks the cabbage is?
+Choices: A. blue_bucket, B. green_bottle, C. red_bottle, D. green_pantry, E. blue_treasure_chest, F. red_cupboard, G. blue_envelope, H. blue_bathtub, I. blue_cupboard, J. green_bathtub, K. blue_bottle, L. green_cupboard, M. blue_suitcase, N. green_basket, O. blue_drawer
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

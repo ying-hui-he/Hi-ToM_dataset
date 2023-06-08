@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mia, Ethan, Jacob, Aiden and Owen entered the bathroom.
-2 The green_pepper is in the blue_basket.
-3 Mia made no movements and stayed in the bathroom for 10 minutes.
-4 Mia exited the bathroom and stayed in the waiting_room.
-5 Ethan made no movements and stayed in the bathroom for 10 minutes.
-6 Ethan exited the bathroom and stayed in the waiting_room.
-7 Jacob moved the green_pepper to the green_treasure_chest.
-8 Jacob exited the bathroom and stayed in the waiting_room.
-9 Aiden made no movements and stayed in the bathroom for 10 minutes.
-10 Aiden exited the bathroom and stayed in the waiting_room.
-11 Owen made no movements and stayed in the bathroom for 10 minutes.
-12 Owen exited the bathroom and stayed in the waiting_room.
-13 Aiden, Ethan and Owen entered the crawlspace.
-14 The lettuce is in the green_bottle.
-15 Aiden moved the lettuce to the red_envelope.
-16 Aiden exited the crawlspace and stayed in the waiting_room.
-17 Ethan moved the lettuce to the blue_crate.
-18 Ethan exited the crawlspace and stayed in the waiting_room.
-19 Owen made no movements and stayed in the crawlspace for 10 minutes.
-20 Owen exited the crawlspace and stayed in the waiting_room.
-Question: Where does Aiden think the green_pepper is?
-Choices: A. green_bottle, B. blue_crate, C. red_envelope, D. blue_pantry, E. red_crate, F. blue_basket, G. red_basket, H. green_treasure_chest, I. green_bathtub, J. blue_drawer, K. blue_bathtub, L. red_drawer, M. green_suitcase, N. red_treasure_chest, O. blue_box
+1 Owen, Mason, Sophia, Logan and Aiden entered the closet.
+2 The tomato is in the red_pantry.
+3 Owen moved the tomato to the blue_bottle.
+4 Owen exited the closet and stayed in the waiting_room.
+5 Mason moved the tomato to the blue_cupboard.
+6 Mason exited the closet and stayed in the waiting_room.
+7 Sophia moved the tomato to the red_bucket.
+8 Aiden likes the green_bottle.
+9 Sophia exited the closet and stayed in the waiting_room.
+10 Logan moved the tomato to the blue_drawer.
+11 Logan exited the closet and stayed in the waiting_room.
+12 Aiden moved the tomato to the red_pantry.
+13 Aiden exited the closet and stayed in the waiting_room.
+14 Aiden, Logan and Owen entered the basement.
+15 The corn is in the red_bottle.
+16 Aiden moved the corn to the green_treasure_chest.
+17 Aiden exited the basement and stayed in the waiting_room.
+18 Logan made no movements and stayed in the basement for 10 minutes.
+19 Logan exited the basement and stayed in the waiting_room.
+20 Owen moved the corn to the green_bottle.
+21 Owen exited the basement and stayed in the waiting_room.
+Question: Where does Sophia think the tomato is?
+Choices: A. red_cupboard, B. red_bathtub, C. green_envelope, D. green_cupboard, E. green_suitcase, F. red_pantry, G. blue_cupboard, H. red_bucket, I. blue_drawer, J. blue_bottle, K. blue_envelope, L. red_bottle, M. green_basket, N. green_treasure_chest, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

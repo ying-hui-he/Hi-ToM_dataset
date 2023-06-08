@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Amelia, Logan, Ella and Ethan entered the laundry.
-2 The pear is in the blue_box.
-3 Emma moved the pear to the green_treasure_chest.
-4 Emma exited the laundry and stayed in the waiting_room.
-5 Amelia made no movements and stayed in the laundry for 10 minutes.
-6 Amelia exited the laundry and stayed in the waiting_room.
-7 Logan moved the pear to the green_container.
-8 Logan exited the laundry and stayed in the waiting_room.
-9 Ella made no movements and stayed in the laundry for 10 minutes.
-10 Ella exited the laundry and stayed in the waiting_room.
-11 Ethan moved the pear to the blue_box.
-12 Ethan exited the laundry and stayed in the waiting_room.
-13 Logan publicly claimed that pear is in the green_container.
-14 Ethan privately told Logan that the pear is actually in the red_container.
-15 Amelia, Ella and Emma entered the closet.
-16 The persimmon is in the blue_suitcase.
-17 Amelia moved the persimmon to the blue_pantry.
-18 Amelia exited the closet and stayed in the waiting_room.
-19 Ella made no movements and stayed in the closet for 10 minutes.
-20 Ella exited the closet and stayed in the waiting_room.
-21 Emma moved the persimmon to the red_drawer.
-22 Emma exited the closet and stayed in the waiting_room.
-23 Ethan, Amelia, Ella and Logan entered the hallway.
-24 The carrot is in the red_treasure_chest.
-25 Ethan moved the carrot to the blue_crate.
-26 Ethan exited the hallway and stayed in the waiting_room.
-27 Amelia moved the carrot to the green_cupboard.
-28 Amelia exited the hallway and stayed in the waiting_room.
-29 Ella moved the carrot to the red_bottle.
-30 Ella exited the hallway and stayed in the waiting_room.
-31 Logan made no movements and stayed in the hallway for 10 minutes.
-32 Logan exited the hallway and stayed in the waiting_room.
-33 Amelia privately told Ella that the carrot is actually in the red_treasure_chest.
-34 Logan privately told Emma that the carrot is actually in the red_bottle.
-Question: Where does Amelia think Logan thinks the pear is?
-Choices: A. blue_bucket, B. blue_suitcase, C. blue_pantry, D. red_drawer, E. blue_bathtub, F. blue_box, G. green_treasure_chest, H. red_container, I. blue_treasure_chest, J. green_container, K. red_treasure_chest, L. blue_crate, M. red_bathtub, N. green_cupboard, O. red_bottle
+1 Ella likes the blue_bucket.
+2 Nathan, Chloe, Ella, Isla and Ethan entered the patio.
+3 The grapes is in the blue_bucket.
+4 Nathan moved the grapes to the red_bathtub.
+5 Nathan exited the patio and stayed in the waiting_room.
+6 Chloe moved the grapes to the blue_treasure_chest.
+7 Chloe exited the patio and stayed in the waiting_room.
+8 Ella made no movements and stayed in the patio for 10 minutes.
+9 Ella exited the patio and stayed in the waiting_room.
+10 Isla moved the grapes to the green_cupboard.
+11 Isla exited the patio and stayed in the waiting_room.
+12 Ethan moved the grapes to the blue_bucket.
+13 Ethan exited the patio and stayed in the waiting_room.
+14 Isla publicly claimed that grapes is in the blue_bucket.
+15 Ethan privately told Nathan that the grapes is actually in the blue_bucket.
+16 Nathan, Chloe and Ella entered the garden.
+17 The strawberry is in the green_bucket.
+18 Nathan moved the strawberry to the red_box.
+19 Nathan exited the garden and stayed in the waiting_room.
+20 Chloe made no movements and stayed in the garden for 10 minutes.
+21 Chloe exited the garden and stayed in the waiting_room.
+22 Ella made no movements and stayed in the garden for 10 minutes.
+23 Ella exited the garden and stayed in the waiting_room.
+24 Ella, Ethan, Nathan and Chloe entered the garden.
+25 The carrot is in the green_treasure_chest.
+26 Ella made no movements and stayed in the garden for 10 minutes.
+27 Ella exited the garden and stayed in the waiting_room.
+28 Ethan moved the carrot to the red_box.
+29 Ethan exited the garden and stayed in the waiting_room.
+30 Nathan made no movements and stayed in the garden for 10 minutes.
+31 Nathan exited the garden and stayed in the waiting_room.
+32 Chloe made no movements and stayed in the garden for 10 minutes.
+33 Chloe exited the garden and stayed in the waiting_room.
+34 Ethan privately told Nathan that the carrot is actually in the red_pantry.
+35 Chloe privately told Isla that the carrot is actually in the red_box.
+Question: Where does Chloe think Isla thinks the grapes is?
+37 Nathan dislikes the celery.
+Choices: A. green_bucket, B. green_treasure_chest, C. red_pantry, D. red_box, E. red_container, F. blue_treasure_chest, G. blue_bucket, H. blue_envelope, I. red_bathtub, J. green_cupboard, K. red_envelope, L. green_bathtub, M. blue_suitcase, N. blue_crate, O. green_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

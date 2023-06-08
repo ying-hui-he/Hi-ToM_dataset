@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Ethan, Carter, Evelyn and James entered the study.
-2 The carrot is in the blue_treasure_chest.
-3 Aria made no movements and stayed in the study for 10 minutes.
-4 Aria exited the study and stayed in the waiting_room.
-5 Ethan moved the carrot to the red_bucket.
-6 Ethan exited the study and stayed in the waiting_room.
-7 Carter made no movements and stayed in the study for 10 minutes.
-8 Carter exited the study and stayed in the waiting_room.
-9 Evelyn made no movements and stayed in the study for 10 minutes.
-10 Evelyn exited the study and stayed in the waiting_room.
-11 James made no movements and stayed in the study for 10 minutes.
-12 James exited the study and stayed in the waiting_room.
-13 Carter publicly claimed that carrot is in the red_crate.
-14 James privately told Carter that the carrot is actually in the red_bucket.
-Question: Where does Ethan think the carrot is?
-Choices: A. red_basket, B. blue_bucket, C. green_treasure_chest, D. green_bathtub, E. green_crate, F. red_suitcase, G. blue_basket, H. green_container, I. blue_bathtub, J. green_bottle, K. red_bucket, L. blue_treasure_chest, M. red_crate, N. red_bottle, O. green_suitcase
+1 Alexander, Ethan, Gracie, Liam and Aiden entered the closet.
+2 The potato is in the red_basket.
+3 Alexander moved the potato to the red_box.
+4 Alexander exited the closet and stayed in the waiting_room.
+5 Ethan moved the potato to the green_suitcase.
+6 Ethan exited the closet and stayed in the waiting_room.
+7 Gracie made no movements and stayed in the closet for 10 minutes.
+8 Gracie exited the closet and stayed in the waiting_room.
+9 Liam moved the potato to the red_bathtub.
+10 Liam exited the closet and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the closet for 10 minutes.
+12 Aiden exited the closet and stayed in the waiting_room.
+13 Liam publicly claimed that potato is in the red_bathtub.
+14 Gracie saw a cat.
+15 Aiden privately told Alexander that the potato is actually in the red_bathtub.
+Question: Where does Liam think the potato is?
+Choices: A. blue_suitcase, B. blue_envelope, C. red_bottle, D. blue_drawer, E. green_bottle, F. red_basket, G. red_box, H. blue_cupboard, I. red_bathtub, J. green_suitcase, K. green_bucket, L. red_bucket, M. green_envelope, N. red_treasure_chest, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

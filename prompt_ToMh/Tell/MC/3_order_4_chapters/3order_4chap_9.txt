@@ -1,44 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Oliver, Charlotte, Noah and Logan entered the kitchen.
-2 The potato is in the green_cupboard.
-3 Emma made no movements and stayed in the kitchen for 10 minutes.
-4 Emma exited the kitchen and stayed in the waiting_room.
-5 Oliver made no movements and stayed in the kitchen for 10 minutes.
-6 Oliver exited the kitchen and stayed in the waiting_room.
-7 Charlotte made no movements and stayed in the kitchen for 10 minutes.
-8 Charlotte exited the kitchen and stayed in the waiting_room.
-9 Noah made no movements and stayed in the kitchen for 10 minutes.
-10 Noah exited the kitchen and stayed in the waiting_room.
-11 Logan moved the potato to the green_cupboard.
-12 Logan exited the kitchen and stayed in the waiting_room.
-13 Oliver, Charlotte and Emma entered the crawlspace.
-14 The orange is in the red_envelope.
-15 Oliver made no movements and stayed in the crawlspace for 10 minutes.
-16 Oliver exited the crawlspace and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
-18 Charlotte exited the crawlspace and stayed in the waiting_room.
-19 Emma made no movements and stayed in the crawlspace for 10 minutes.
-20 Emma exited the crawlspace and stayed in the waiting_room.
-21 Emma publicly claimed that orange is in the red_drawer.
-22 Oliver privately told Emma that the orange is actually in the blue_bathtub.
-23 Logan, Noah, Emma and Oliver entered the TV_room.
-24 The pumpkin is in the blue_bottle.
-25 Logan made no movements and stayed in the TV_room for 10 minutes.
-26 Logan exited the TV_room and stayed in the waiting_room.
-27 Noah made no movements and stayed in the TV_room for 10 minutes.
-28 Noah exited the TV_room and stayed in the waiting_room.
-29 Emma moved the pumpkin to the red_bottle.
-30 Emma exited the TV_room and stayed in the waiting_room.
-31 Oliver made no movements and stayed in the TV_room for 10 minutes.
-32 Oliver exited the TV_room and stayed in the waiting_room.
-33 Oliver and Noah entered the kitchen.
-34 The tomato is in the blue_drawer.
-35 Oliver moved the tomato to the green_envelope.
-36 Oliver exited the kitchen and stayed in the waiting_room.
-37 Noah made no movements and stayed in the kitchen for 10 minutes.
-38 Noah exited the kitchen and stayed in the waiting_room.
-39 Oliver privately told Logan that the tomato is actually in the blue_envelope.
-Question: Where does Logan think Emma thinks Oliver thinks the potato is?
-Choices: A. green_crate, B. blue_bottle, C. red_bottle, D. green_container, E. red_bathtub, F. green_treasure_chest, G. red_envelope, H. red_crate, I. red_drawer, J. blue_bathtub, K. blue_drawer, L. green_cupboard, M. blue_crate, N. green_envelope, O. blue_envelope
+1 Amelia, Hannah, Emma, Carter and Jacob entered the attic.
+2 The pumpkin is in the red_cupboard.
+3 Amelia made no movements and stayed in the attic for 10 minutes.
+4 Amelia exited the attic and stayed in the waiting_room.
+5 Hannah moved the pumpkin to the red_basket.
+6 Hannah exited the attic and stayed in the waiting_room.
+7 Emma made no movements and stayed in the attic for 10 minutes.
+8 Emma exited the attic and stayed in the waiting_room.
+9 Carter moved the pumpkin to the blue_bottle.
+10 Carter exited the attic and stayed in the waiting_room.
+11 Jacob moved the pumpkin to the red_cupboard.
+12 Jacob exited the attic and stayed in the waiting_room.
+13 Amelia, Emma and Hannah entered the attic.
+14 The potato is in the red_basket.
+15 Amelia made no movements and stayed in the attic for 10 minutes.
+16 Amelia exited the attic and stayed in the waiting_room.
+17 Emma made no movements and stayed in the attic for 10 minutes.
+18 Jacob lost his bottle.
+19 Emma exited the attic and stayed in the waiting_room.
+20 Hannah made no movements and stayed in the attic for 10 minutes.
+21 Hannah exited the attic and stayed in the waiting_room.
+22 Amelia publicly claimed that potato is in the green_bucket.
+23 Jacob lost his phone.
+24 Hannah privately told Jacob that the potato is actually in the red_basket.
+25 Carter saw a monkey.
+26 Hannah, Jacob, Carter and Amelia entered the bedroom.
+27 The strawberry is in the green_envelope.
+28 Hannah moved the strawberry to the red_box.
+29 Hannah exited the bedroom and stayed in the waiting_room.
+30 Jacob made no movements and stayed in the bedroom for 10 minutes.
+31 Jacob exited the bedroom and stayed in the waiting_room.
+32 Carter made no movements and stayed in the bedroom for 10 minutes.
+33 Carter exited the bedroom and stayed in the waiting_room.
+34 Amelia moved the strawberry to the green_treasure_chest.
+35 Amelia exited the bedroom and stayed in the waiting_room.
+36 Jacob and Carter entered the bedroom.
+37 The strawberry is in the green_treasure_chest.
+38 Jacob made no movements and stayed in the bedroom for 10 minutes.
+39 Jacob exited the bedroom and stayed in the waiting_room.
+40 Carter moved the strawberry to the green_envelope.
+41 Carter exited the bedroom and stayed in the waiting_room.
+42 Jacob privately told Hannah that the strawberry is actually in the red_box.
+Question: Where does Emma think Amelia thinks Jacob thinks the pumpkin is?
+44 Amelia likes the red_treasure_chest.
+Choices: A. red_cupboard, B. red_basket, C. blue_bottle, D. green_suitcase, E. green_bucket, F. green_envelope, G. green_treasure_chest, H. blue_treasure_chest, I. red_box, J. blue_drawer, K. green_bottle, L. blue_bucket, M. green_cupboard, N. red_crate, O. red_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

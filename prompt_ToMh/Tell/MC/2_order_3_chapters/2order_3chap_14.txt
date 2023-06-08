@@ -1,39 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Jackson, Emily, Owen and Noah entered the kitchen.
-2 The melon is in the blue_suitcase.
-3 Jacob moved the melon to the green_suitcase.
-4 Jacob exited the kitchen and stayed in the waiting_room.
-5 Jackson made no movements and stayed in the kitchen for 10 minutes.
-6 Jackson exited the kitchen and stayed in the waiting_room.
-7 Emily moved the melon to the green_envelope.
-8 Emily exited the kitchen and stayed in the waiting_room.
-9 Owen made no movements and stayed in the kitchen for 10 minutes.
-10 Owen exited the kitchen and stayed in the waiting_room.
-11 Noah moved the melon to the blue_suitcase.
-12 Noah exited the kitchen and stayed in the waiting_room.
-13 Emily publicly claimed that melon is in the green_envelope.
-14 Noah privately told Emily that the melon is actually in the blue_suitcase.
-15 Jackson, Noah and Owen entered the hallway.
-16 The onion is in the blue_bathtub.
-17 Jackson made no movements and stayed in the hallway for 10 minutes.
-18 Jackson exited the hallway and stayed in the waiting_room.
-19 Noah moved the onion to the green_cupboard.
-20 Noah exited the hallway and stayed in the waiting_room.
-21 Owen moved the onion to the blue_container.
-22 Owen exited the hallway and stayed in the waiting_room.
-23 Owen, Emily, Noah and Jacob entered the workshop.
-24 The strawberry is in the blue_crate.
-25 Owen moved the strawberry to the blue_treasure_chest.
-26 Owen exited the workshop and stayed in the waiting_room.
-27 Emily made no movements and stayed in the workshop for 10 minutes.
-28 Emily exited the workshop and stayed in the waiting_room.
-29 Noah made no movements and stayed in the workshop for 10 minutes.
-30 Noah exited the workshop and stayed in the waiting_room.
-31 Jacob moved the strawberry to the blue_basket.
-32 Jacob exited the workshop and stayed in the waiting_room.
-33 Noah publicly claimed that strawberry is in the blue_bottle.
-34 Owen privately told Jacob that the strawberry is actually in the blue_basket.
-Question: Where does Emily think Jacob thinks the melon is?
-Choices: A. blue_crate, B. blue_basket, C. blue_bottle, D. blue_envelope, E. blue_treasure_chest, F. blue_suitcase, G. green_envelope, H. red_envelope, I. red_crate, J. green_suitcase, K. green_cupboard, L. blue_bathtub, M. blue_container, N. red_bathtub, O. red_bottle
+1 Emily, Gracie, Jacob, Sophia and Aria entered the closet.
+2 Jacob lost his bottle.
+3 The radish is in the red_bottle.
+4 Emily made no movements and stayed in the closet for 10 minutes.
+5 Emily exited the closet and stayed in the waiting_room.
+6 Gracie made no movements and stayed in the closet for 10 minutes.
+7 Gracie exited the closet and stayed in the waiting_room.
+8 Jacob moved the radish to the red_crate.
+9 Jacob exited the closet and stayed in the waiting_room.
+10 Sophia made no movements and stayed in the closet for 10 minutes.
+11 Sophia exited the closet and stayed in the waiting_room.
+12 Sophia dislikes the potato.
+13 Aria moved the radish to the red_bottle.
+14 Aria exited the closet and stayed in the waiting_room.
+15 Jacob publicly claimed that radish is in the red_bottle.
+16 Aria privately told Jacob that the radish is actually in the blue_suitcase.
+17 Jacob, Aria and Emily entered the closet.
+18 The melon is in the green_envelope.
+19 Jacob made no movements and stayed in the closet for 10 minutes.
+20 Jacob lost his phone.
+21 Jacob exited the closet and stayed in the waiting_room.
+22 Aria made no movements and stayed in the closet for 10 minutes.
+23 Aria exited the closet and stayed in the waiting_room.
+24 Emily made no movements and stayed in the closet for 10 minutes.
+25 Emily exited the closet and stayed in the waiting_room.
+26 Gracie, Sophia, Jacob and Emily entered the porch.
+27 The lettuce is in the blue_treasure_chest.
+28 Jacob lost his watch.
+29 Gracie moved the lettuce to the blue_crate.
+30 Gracie exited the porch and stayed in the waiting_room.
+31 Sophia moved the lettuce to the green_pantry.
+32 Sophia exited the porch and stayed in the waiting_room.
+33 Jacob made no movements and stayed in the porch for 10 minutes.
+34 Jacob exited the porch and stayed in the waiting_room.
+35 Emily moved the lettuce to the red_container.
+36 Emily exited the porch and stayed in the waiting_room.
+37 Jacob publicly claimed that lettuce is in the blue_crate.
+38 Gracie privately told Emily that the lettuce is actually in the green_pantry.
+Question: Where does Emily think Aria thinks the radish is?
+40 Sophia dislikes the potato.
+Choices: A. blue_bathtub, B. blue_bucket, C. blue_bottle, D. blue_envelope, E. red_box, F. blue_treasure_chest, G. red_container, H. green_pantry, I. red_bucket, J. blue_crate, K. red_bottle, L. green_envelope, M. green_bucket, N. red_crate, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

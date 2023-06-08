@@ -1,39 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Benjamin, Mia, Olivia, Ava and Carter entered the TV_room.
-2 The tomato is in the red_treasure_chest.
-3 Benjamin moved the tomato to the green_bottle.
-4 Benjamin exited the TV_room and stayed in the waiting_room.
-5 Mia made no movements and stayed in the TV_room for 10 minutes.
-6 Mia exited the TV_room and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the TV_room for 10 minutes.
-8 Olivia exited the TV_room and stayed in the waiting_room.
-9 Ava moved the tomato to the green_crate.
-10 Ava exited the TV_room and stayed in the waiting_room.
-11 Carter moved the tomato to the red_treasure_chest.
-12 Carter exited the TV_room and stayed in the waiting_room.
-13 Olivia publicly claimed that tomato is in the green_crate.
-14 Carter privately told Olivia that the tomato is actually in the red_bathtub.
-15 Benjamin, Mia and Carter entered the dining_room.
-16 The cucumber is in the blue_crate.
-17 Benjamin moved the cucumber to the blue_suitcase.
-18 Benjamin exited the dining_room and stayed in the waiting_room.
-19 Mia made no movements and stayed in the dining_room for 10 minutes.
-20 Mia exited the dining_room and stayed in the waiting_room.
-21 Carter made no movements and stayed in the dining_room for 10 minutes.
-22 Carter exited the dining_room and stayed in the waiting_room.
-23 Carter, Ava, Mia and Benjamin entered the hallway.
-24 The pear is in the red_drawer.
-25 Carter made no movements and stayed in the hallway for 10 minutes.
-26 Carter exited the hallway and stayed in the waiting_room.
-27 Ava moved the pear to the red_crate.
-28 Ava exited the hallway and stayed in the waiting_room.
-29 Mia moved the pear to the red_basket.
-30 Mia exited the hallway and stayed in the waiting_room.
-31 Benjamin made no movements and stayed in the hallway for 10 minutes.
-32 Benjamin exited the hallway and stayed in the waiting_room.
-33 Ava privately told Mia that the pear is actually in the blue_envelope.
-34 Benjamin privately told Olivia that the pear is actually in the red_basket.
-Question: Where does Olivia think Benjamin thinks Mia thinks the tomato is?
-Choices: A. red_drawer, B. blue_envelope, C. red_bottle, D. red_basket, E. red_crate, F. green_container, G. blue_crate, H. red_container, I. green_suitcase, J. blue_suitcase, K. red_treasure_chest, L. red_bathtub, M. green_bottle, N. blue_basket, O. green_crate
+1 Mason, Emily, Emma, Gracie and Amelia entered the porch.
+2 The celery is in the blue_envelope.
+3 Mason moved the celery to the red_crate.
+4 Mason exited the porch and stayed in the waiting_room.
+5 Emily made no movements and stayed in the porch for 10 minutes.
+6 Emily exited the porch and stayed in the waiting_room.
+7 Emma moved the celery to the blue_bottle.
+8 Gracie lost his watch.
+9 Emma exited the porch and stayed in the waiting_room.
+10 Gracie saw a cat.
+11 Gracie made no movements and stayed in the porch for 10 minutes.
+12 Gracie exited the porch and stayed in the waiting_room.
+13 Amelia moved the celery to the blue_envelope.
+14 Amelia exited the porch and stayed in the waiting_room.
+15 Gracie publicly claimed that celery is in the blue_bottle.
+16 Amelia privately told Mason that the celery is actually in the blue_envelope.
+17 Emma saw a dog.
+18 Emma, Mason and Emily entered the den.
+19 The potato is in the green_pantry.
+20 Emma made no movements and stayed in the den for 10 minutes.
+21 Emma exited the den and stayed in the waiting_room.
+22 Mason moved the potato to the blue_suitcase.
+23 Mason exited the den and stayed in the waiting_room.
+24 Amelia likes the blue_cupboard.
+25 Emily made no movements and stayed in the den for 10 minutes.
+26 Gracie lost his watch.
+27 Emily exited the den and stayed in the waiting_room.
+28 Mason, Gracie, Emma and Amelia entered the porch.
+29 Emily likes the red_container.
+30 The celery is in the blue_envelope.
+31 Mason made no movements and stayed in the porch for 10 minutes.
+32 Mason exited the porch and stayed in the waiting_room.
+33 Emma lost his bottle.
+34 Gracie moved the celery to the red_crate.
+35 Gracie exited the porch and stayed in the waiting_room.
+36 Emma moved the celery to the blue_bottle.
+37 Emma exited the porch and stayed in the waiting_room.
+38 Amelia made no movements and stayed in the porch for 10 minutes.
+39 Amelia exited the porch and stayed in the waiting_room.
+40 Mason publicly claimed that celery is in the red_crate.
+41 Amelia privately told Emily that the celery is actually in the blue_bottle.
+Question: Where does Gracie think Emma thinks Amelia thinks the celery is?
+Choices: A. blue_bottle, B. blue_envelope, C. red_crate, D. red_container, E. red_treasure_chest, F. green_pantry, G. red_bottle, H. blue_cupboard, I. blue_treasure_chest, J. blue_suitcase, K. red_bathtub, L. green_cupboard, M. blue_bathtub, N. red_pantry, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Charlotte, Olivia, Evelyn, Jackson and Emma entered the hall.
-2 The lemon is in the blue_pantry.
-3 Charlotte moved the lemon to the green_crate.
-4 Charlotte exited the hall and stayed in the waiting_room.
-5 Olivia moved the lemon to the green_container.
-6 Olivia exited the hall and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the hall for 10 minutes.
-8 Evelyn exited the hall and stayed in the waiting_room.
-9 Jackson made no movements and stayed in the hall for 10 minutes.
-10 Jackson exited the hall and stayed in the waiting_room.
-11 Emma moved the lemon to the blue_pantry.
-12 Emma exited the hall and stayed in the waiting_room.
-13 Jackson, Emma and Charlotte entered the living_room.
-14 The persimmon is in the green_suitcase.
-15 Jackson made no movements and stayed in the living_room for 10 minutes.
-16 Jackson exited the living_room and stayed in the waiting_room.
-17 Emma moved the persimmon to the blue_bucket.
-18 Emma exited the living_room and stayed in the waiting_room.
-19 Charlotte moved the persimmon to the blue_drawer.
-20 Charlotte exited the living_room and stayed in the waiting_room.
-21 Jackson publicly claimed that persimmon is in the blue_basket.
-22 Charlotte privately told Evelyn that the persimmon is actually in the blue_drawer.
-23 Emma, Jackson, Evelyn and Charlotte entered the living_room.
-24 The persimmon is in the blue_drawer.
-25 Emma moved the persimmon to the blue_bucket.
-26 Emma exited the living_room and stayed in the waiting_room.
-27 Jackson made no movements and stayed in the living_room for 10 minutes.
-28 Jackson exited the living_room and stayed in the waiting_room.
-29 Evelyn moved the persimmon to the blue_basket.
-30 Evelyn exited the living_room and stayed in the waiting_room.
-31 Charlotte made no movements and stayed in the living_room for 10 minutes.
-32 Charlotte exited the living_room and stayed in the waiting_room.
-33 Charlotte and Emma entered the office.
-34 The asparagus is in the red_bucket.
-35 Charlotte moved the asparagus to the blue_bathtub.
-36 Charlotte exited the office and stayed in the waiting_room.
-37 Emma made no movements and stayed in the office for 10 minutes.
-38 Emma exited the office and stayed in the waiting_room.
-39 Charlotte publicly claimed that asparagus is in the green_treasure_chest.
-40 Emma privately told Charlotte that the asparagus is actually in the blue_bottle.
-Question: Where does Jackson think Charlotte thinks the lemon is?
-Choices: A. blue_drawer, B. green_suitcase, C. red_suitcase, D. blue_bucket, E. blue_basket, F. green_crate, G. blue_pantry, H. blue_container, I. green_container, J. red_container, K. red_bucket, L. green_bathtub, M. blue_bathtub, N. green_treasure_chest, O. blue_bottle
+1 Isla, Sophia, Jacob, Emily and Jayden entered the lounge.
+2 The pumpkin is in the blue_bathtub.
+3 Sophia dislikes the pumpkin.
+4 Isla made no movements and stayed in the lounge for 10 minutes.
+5 Isla exited the lounge and stayed in the waiting_room.
+6 Sophia moved the pumpkin to the green_pantry.
+7 Jayden lost his watch.
+8 Sophia exited the lounge and stayed in the waiting_room.
+9 Jacob made no movements and stayed in the lounge for 10 minutes.
+10 Jacob exited the lounge and stayed in the waiting_room.
+11 Emily made no movements and stayed in the lounge for 10 minutes.
+12 Emily exited the lounge and stayed in the waiting_room.
+13 Jayden made no movements and stayed in the lounge for 10 minutes.
+14 Jayden exited the lounge and stayed in the waiting_room.
+15 Jayden, Isla and Jacob entered the office.
+16 Sophia saw a monkey.
+17 The onion is in the red_box.
+18 Jayden made no movements and stayed in the office for 10 minutes.
+19 Jayden exited the office and stayed in the waiting_room.
+20 Isla moved the onion to the blue_suitcase.
+21 Isla exited the office and stayed in the waiting_room.
+22 Jacob moved the onion to the green_bucket.
+23 Jacob exited the office and stayed in the waiting_room.
+24 Jayden publicly claimed that onion is in the green_bucket.
+25 Sophia likes the green_basket.
+26 Jacob privately told Emily that the onion is actually in the green_bucket.
+27 Jacob, Jayden, Sophia and Isla entered the office.
+28 The green_pepper is in the green_basket.
+29 Jacob moved the green_pepper to the blue_suitcase.
+30 Jacob exited the office and stayed in the waiting_room.
+31 Jayden moved the green_pepper to the green_box.
+32 Isla likes the red_cupboard.
+33 Jayden exited the office and stayed in the waiting_room.
+34 Sophia moved the green_pepper to the red_box.
+35 Sophia exited the office and stayed in the waiting_room.
+36 Isla made no movements and stayed in the office for 10 minutes.
+37 Isla exited the office and stayed in the waiting_room.
+38 Jayden and Jacob entered the porch.
+39 The corn is in the red_bucket.
+40 Jayden made no movements and stayed in the porch for 10 minutes.
+41 Jayden exited the porch and stayed in the waiting_room.
+42 Jacob made no movements and stayed in the porch for 10 minutes.
+43 Jacob exited the porch and stayed in the waiting_room.
+44 Jayden publicly claimed that corn is in the red_cupboard.
+45 Jacob privately told Jayden that the corn is actually in the red_basket.
+Question: Where does Isla think Emily thinks the pumpkin is?
+Choices: A. blue_crate, B. blue_bathtub, C. green_pantry, D. blue_cupboard, E. green_suitcase, F. green_basket, G. red_box, H. blue_suitcase, I. green_box, J. green_bucket, K. red_container, L. red_bucket, M. red_treasure_chest, N. red_cupboard, O. red_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

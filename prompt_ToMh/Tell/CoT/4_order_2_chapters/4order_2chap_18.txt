@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Aiden, Isla, Aria and Charlotte entered the kitchen.
-2 The pear is in the blue_envelope.
-3 Avery made no movements and stayed in the kitchen for 10 minutes.
-4 Avery exited the kitchen and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the kitchen for 10 minutes.
-6 Aiden exited the kitchen and stayed in the waiting_room.
-7 Isla moved the pear to the blue_pantry.
-8 Isla exited the kitchen and stayed in the waiting_room.
-9 Aria moved the pear to the red_bathtub.
-10 Aria exited the kitchen and stayed in the waiting_room.
-11 Charlotte made no movements and stayed in the kitchen for 10 minutes.
-12 Charlotte exited the kitchen and stayed in the waiting_room.
-13 Isla, Charlotte and Aiden entered the study.
-14 The banana is in the blue_box.
-15 Isla moved the banana to the green_bottle.
-16 Isla exited the study and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the study for 10 minutes.
-18 Charlotte exited the study and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the study for 10 minutes.
-20 Aiden exited the study and stayed in the waiting_room.
-21 Charlotte publicly claimed that banana is in the green_bottle.
-22 Aiden privately told Charlotte that the banana is actually in the green_bathtub.
-Question: Where does Aiden think Charlotte thinks Avery thinks Isla thinks the pear is?
-Choices: A. red_basket, B. blue_bottle, C. blue_drawer, D. green_envelope, E. green_cupboard, F. blue_box, G. green_suitcase, H. green_bottle, I. green_bathtub, J. blue_treasure_chest, K. blue_envelope, L. red_treasure_chest, M. blue_pantry, N. red_bathtub, O. red_crate
+1 Ella, Jayden, Mila, Isla and Jack entered the pantry.
+2 The cabbage is in the green_suitcase.
+3 Ella made no movements and stayed in the pantry for 10 minutes.
+4 Ella exited the pantry and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the pantry for 10 minutes.
+6 Jack saw a monkey.
+7 Jayden exited the pantry and stayed in the waiting_room.
+8 Mila made no movements and stayed in the pantry for 10 minutes.
+9 Mila exited the pantry and stayed in the waiting_room.
+10 Isla made no movements and stayed in the pantry for 10 minutes.
+11 Isla exited the pantry and stayed in the waiting_room.
+12 Jack moved the cabbage to the green_suitcase.
+13 Jack exited the pantry and stayed in the waiting_room.
+14 Isla, Jack and Ella entered the bathroom.
+15 The apple is in the green_bucket.
+16 Isla made no movements and stayed in the bathroom for 10 minutes.
+17 Isla exited the bathroom and stayed in the waiting_room.
+18 Jack moved the apple to the green_bottle.
+19 Jack exited the bathroom and stayed in the waiting_room.
+20 Ella moved the apple to the green_basket.
+21 Ella exited the bathroom and stayed in the waiting_room.
+22 Jack publicly claimed that apple is in the green_bottle.
+23 Ella privately told Jack that the apple is actually in the green_basket.
+Question: Where does Mila think Jayden thinks Ella thinks Isla thinks the cabbage is?
+Choices: A. green_bathtub, B. green_suitcase, C. red_bucket, D. blue_bathtub, E. blue_bucket, F. green_bucket, G. green_basket, H. green_bottle, I. green_pantry, J. green_treasure_chest, K. red_pantry, L. red_cupboard, M. blue_envelope, N. red_bathtub, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

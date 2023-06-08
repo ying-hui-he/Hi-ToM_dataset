@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Evelyn, Hannah, Jayden and Avery entered the den.
-2 The plum is in the blue_box.
-3 Emily moved the plum to the red_bottle.
-4 Emily exited the den and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the den for 10 minutes.
-6 Evelyn exited the den and stayed in the waiting_room.
-7 Hannah moved the plum to the green_bottle.
-8 Hannah exited the den and stayed in the waiting_room.
-9 Jayden made no movements and stayed in the den for 10 minutes.
-10 Jayden exited the den and stayed in the waiting_room.
-11 Avery moved the plum to the blue_box.
-12 Avery exited the den and stayed in the waiting_room.
-Question: Where does Emily think the plum is?
-Choices: A. green_suitcase, B. blue_box, C. green_bottle, D. blue_basket, E. red_bottle, F. blue_drawer, G. blue_treasure_chest, H. red_container, I. green_cupboard, J. green_container, K. green_crate, L. blue_pantry, M. blue_suitcase, N. green_envelope, O. red_basket
+1 Carter, Emma, Ethan, Jackson and Mila entered the kitchen.
+2 The radish is in the green_treasure_chest.
+3 Carter moved the radish to the red_crate.
+4 Carter exited the kitchen and stayed in the waiting_room.
+5 Emma moved the radish to the red_bathtub.
+6 Emma exited the kitchen and stayed in the waiting_room.
+7 Ethan made no movements and stayed in the kitchen for 10 minutes.
+8 Ethan exited the kitchen and stayed in the waiting_room.
+9 Mila saw a cat.
+10 Jackson made no movements and stayed in the kitchen for 10 minutes.
+11 Jackson exited the kitchen and stayed in the waiting_room.
+12 Mila moved the radish to the green_treasure_chest.
+13 Emma lost his bottle.
+14 Mila exited the kitchen and stayed in the waiting_room.
+Question: Where does Ethan think the radish is?
+Choices: A. blue_envelope, B. green_cupboard, C. blue_cupboard, D. green_bottle, E. green_box, F. red_container, G. red_bucket, H. blue_crate, I. blue_suitcase, J. red_envelope, K. green_treasure_chest, L. red_crate, M. green_suitcase, N. red_basket, O. red_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

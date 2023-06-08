@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Hannah, Olivia, Evelyn, Oliver and Emily entered the office.
-2 The turnip is in the green_cupboard.
-3 Hannah moved the turnip to the blue_container.
-4 Hannah exited the office and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the office for 10 minutes.
-6 Olivia exited the office and stayed in the waiting_room.
-7 Evelyn moved the turnip to the red_envelope.
-8 Evelyn exited the office and stayed in the waiting_room.
-9 Oliver moved the turnip to the red_crate.
-10 Oliver exited the office and stayed in the waiting_room.
-11 Emily made no movements and stayed in the office for 10 minutes.
-12 Emily exited the office and stayed in the waiting_room.
-13 Oliver, Evelyn and Hannah entered the office.
-14 The carrot is in the red_envelope.
-15 Oliver made no movements and stayed in the office for 10 minutes.
-16 Oliver exited the office and stayed in the waiting_room.
-17 Evelyn moved the carrot to the blue_container.
-18 Evelyn exited the office and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the office for 10 minutes.
-20 Hannah exited the office and stayed in the waiting_room.
-21 Hannah publicly claimed that carrot is in the red_envelope.
-22 Oliver privately told Hannah that the carrot is actually in the blue_treasure_chest.
-23 Evelyn, Olivia, Hannah and Emily entered the sunroom.
-24 The tomato is in the blue_box.
-25 Evelyn made no movements and stayed in the sunroom for 10 minutes.
-26 Evelyn exited the sunroom and stayed in the waiting_room.
-27 Olivia made no movements and stayed in the sunroom for 10 minutes.
-28 Olivia exited the sunroom and stayed in the waiting_room.
-29 Hannah made no movements and stayed in the sunroom for 10 minutes.
-30 Hannah exited the sunroom and stayed in the waiting_room.
-31 Emily made no movements and stayed in the sunroom for 10 minutes.
-32 Emily exited the sunroom and stayed in the waiting_room.
-33 Evelyn and Emily entered the office.
-34 The carrot is in the blue_container.
-35 Evelyn made no movements and stayed in the office for 10 minutes.
-36 Evelyn exited the office and stayed in the waiting_room.
-37 Emily moved the carrot to the green_cupboard.
-38 Emily exited the office and stayed in the waiting_room.
-39 Emily publicly claimed that carrot is in the red_envelope.
-40 Evelyn privately told Emily that the carrot is actually in the green_cupboard.
-Question: Where does Oliver think the turnip is?
-Choices: A. red_basket, B. blue_bottle, C. red_bathtub, D. green_suitcase, E. blue_bathtub, F. blue_box, G. green_envelope, H. red_drawer, I. green_crate, J. red_container, K. green_cupboard, L. red_envelope, M. red_crate, N. blue_container, O. blue_treasure_chest
+1 Emma lost his bottle.
+2 Emma, Jacob, Nathan, Amelia and Emily entered the garage.
+3 The apple is in the green_basket.
+4 Emma made no movements and stayed in the garage for 10 minutes.
+5 Emma exited the garage and stayed in the waiting_room.
+6 Jacob made no movements and stayed in the garage for 10 minutes.
+7 Jacob exited the garage and stayed in the waiting_room.
+8 Nathan made no movements and stayed in the garage for 10 minutes.
+9 Nathan exited the garage and stayed in the waiting_room.
+10 Amelia moved the apple to the blue_envelope.
+11 Amelia exited the garage and stayed in the waiting_room.
+12 Emily made no movements and stayed in the garage for 10 minutes.
+13 Emily exited the garage and stayed in the waiting_room.
+14 Amelia, Emily and Nathan entered the patio.
+15 The potato is in the green_envelope.
+16 Amelia moved the potato to the red_envelope.
+17 Nathan lost his bottle.
+18 Amelia exited the patio and stayed in the waiting_room.
+19 Emily moved the potato to the green_bottle.
+20 Emily exited the patio and stayed in the waiting_room.
+21 Nathan made no movements and stayed in the patio for 10 minutes.
+22 Nathan exited the patio and stayed in the waiting_room.
+23 Emily publicly claimed that potato is in the red_envelope.
+24 Nathan privately told Emily that the potato is actually in the green_envelope.
+25 Nathan, Amelia, Jacob and Emily entered the attic.
+26 The radish is in the blue_cupboard.
+27 Nathan made no movements and stayed in the attic for 10 minutes.
+28 Nathan exited the attic and stayed in the waiting_room.
+29 Amelia moved the radish to the blue_drawer.
+30 Amelia exited the attic and stayed in the waiting_room.
+31 Jacob dislikes the apple.
+32 Jacob moved the radish to the green_cupboard.
+33 Jacob lost his watch.
+34 Jacob exited the attic and stayed in the waiting_room.
+35 Emily moved the radish to the blue_suitcase.
+36 Emily exited the attic and stayed in the waiting_room.
+37 Emily and Jacob entered the attic.
+38 The radish is in the blue_suitcase.
+39 Emily made no movements and stayed in the attic for 10 minutes.
+40 Emily exited the attic and stayed in the waiting_room.
+41 Jacob made no movements and stayed in the attic for 10 minutes.
+42 Jacob exited the attic and stayed in the waiting_room.
+43 Emily publicly claimed that radish is in the blue_cupboard.
+44 Jacob privately told Emily that the radish is actually in the red_treasure_chest.
+Question: Where does Amelia think the apple is?
+Choices: A. green_envelope, B. green_bottle, C. red_envelope, D. blue_bathtub, E. red_bucket, F. green_cupboard, G. blue_cupboard, H. blue_suitcase, I. red_treasure_chest, J. blue_drawer, K. blue_envelope, L. green_basket, M. green_treasure_chest, N. red_bottle, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

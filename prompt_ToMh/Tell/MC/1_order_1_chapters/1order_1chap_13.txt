@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Noah, Ava, Amelia and Avery entered the lounge.
-2 The lime is in the green_bottle.
-3 Carter moved the lime to the red_suitcase.
-4 Carter exited the lounge and stayed in the waiting_room.
-5 Noah moved the lime to the blue_box.
-6 Noah exited the lounge and stayed in the waiting_room.
-7 Ava made no movements and stayed in the lounge for 10 minutes.
-8 Ava exited the lounge and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the lounge for 10 minutes.
-10 Amelia exited the lounge and stayed in the waiting_room.
-11 Avery moved the lime to the green_bottle.
-12 Avery exited the lounge and stayed in the waiting_room.
-13 Ava privately told Carter that the lime is actually in the red_treasure_chest.
-14 Noah privately told Amelia that the lime is actually in the blue_box.
-Question: Where does Ava think the lime is?
-Choices: A. green_treasure_chest, B. blue_pantry, C. blue_container, D. blue_crate, E. red_envelope, F. red_suitcase, G. green_bottle, H. red_treasure_chest, I. blue_suitcase, J. blue_box, K. red_bathtub, L. green_container, M. blue_bottle, N. red_container, O. green_bathtub
+1 Lucas, Amelia, Isabella, Charlotte and Sophia entered the TV_room.
+2 The lemon is in the red_container.
+3 Lucas made no movements and stayed in the TV_room for 10 minutes.
+4 Lucas exited the TV_room and stayed in the waiting_room.
+5 Amelia moved the lemon to the blue_bathtub.
+6 Amelia exited the TV_room and stayed in the waiting_room.
+7 Isabella made no movements and stayed in the TV_room for 10 minutes.
+8 Isabella exited the TV_room and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the TV_room for 10 minutes.
+10 Charlotte exited the TV_room and stayed in the waiting_room.
+11 Sophia moved the lemon to the red_container.
+12 Sophia exited the TV_room and stayed in the waiting_room.
+13 Isabella publicly claimed that lemon is in the blue_bathtub.
+14 Sophia privately told Isabella that the lemon is actually in the blue_envelope.
+Question: Where does Sophia think the lemon is?
+Choices: A. green_treasure_chest, B. red_basket, C. blue_suitcase, D. blue_treasure_chest, E. blue_bottle, F. red_bottle, G. green_box, H. green_pantry, I. blue_drawer, J. green_suitcase, K. red_container, L. green_bottle, M. red_pantry, N. blue_envelope, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

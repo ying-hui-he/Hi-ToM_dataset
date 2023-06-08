@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, Charlotte, Hannah, Aria and Amelia entered the den.
-2 The pear is in the blue_bathtub.
-3 Jayden made no movements and stayed in the den for 10 minutes.
-4 Jayden exited the den and stayed in the waiting_room.
-5 Charlotte made no movements and stayed in the den for 10 minutes.
-6 Charlotte exited the den and stayed in the waiting_room.
-7 Hannah moved the pear to the red_treasure_chest.
-8 Hannah exited the den and stayed in the waiting_room.
-9 Aria made no movements and stayed in the den for 10 minutes.
-10 Aria exited the den and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the den for 10 minutes.
-12 Amelia exited the den and stayed in the waiting_room.
-13 Aria publicly claimed that pear is in the blue_bathtub.
-14 Amelia privately told Jayden that the pear is actually in the red_treasure_chest.
-15 Amelia, Charlotte and Jayden entered the bathroom.
-16 The apple is in the blue_bucket.
-17 Amelia made no movements and stayed in the bathroom for 10 minutes.
-18 Amelia exited the bathroom and stayed in the waiting_room.
-19 Charlotte moved the apple to the red_crate.
-20 Charlotte exited the bathroom and stayed in the waiting_room.
-21 Jayden moved the apple to the blue_envelope.
-22 Jayden exited the bathroom and stayed in the waiting_room.
-23 Aria, Hannah, Charlotte and Jayden entered the bathroom.
-24 The apple is in the blue_envelope.
-25 Aria moved the apple to the red_crate.
-26 Aria exited the bathroom and stayed in the waiting_room.
-27 Hannah moved the apple to the blue_bucket.
-28 Hannah exited the bathroom and stayed in the waiting_room.
-29 Charlotte moved the apple to the blue_bottle.
-30 Charlotte exited the bathroom and stayed in the waiting_room.
-31 Jayden moved the apple to the blue_suitcase.
-32 Jayden exited the bathroom and stayed in the waiting_room.
-33 Aria publicly claimed that apple is in the blue_envelope.
-34 Jayden privately told Amelia that the apple is actually in the blue_suitcase.
-Question: Where does Amelia think Aria thinks the pear is?
-Answer: None
-Choices: A. blue_bucket, B. blue_suitcase, C. blue_bottle, D. red_crate, E. blue_envelope, F. red_treasure_chest, G. blue_bathtub, H. blue_crate, I. red_suitcase, J. red_container, K. green_envelope, L. red_bucket, M. red_bottle, N. blue_pantry, O. blue_drawer
+1 Carter, Amelia, Liam, Emily and Ella entered the crawlspace.
+2 The eggplant is in the red_bucket.
+3 Carter moved the eggplant to the blue_bucket.
+4 Carter exited the crawlspace and stayed in the waiting_room.
+5 Amelia moved the eggplant to the green_envelope.
+6 Amelia exited the crawlspace and stayed in the waiting_room.
+7 Liam moved the eggplant to the blue_suitcase.
+8 Liam exited the crawlspace and stayed in the waiting_room.
+9 Emily moved the eggplant to the red_basket.
+10 Emily exited the crawlspace and stayed in the waiting_room.
+11 Ella made no movements and stayed in the crawlspace for 10 minutes.
+12 Ella exited the crawlspace and stayed in the waiting_room.
+13 Liam publicly claimed that eggplant is in the green_envelope.
+14 Ella privately told Liam that the eggplant is actually in the red_bucket.
+15 Carter, Emily and Ella entered the porch.
+16 Carter likes the red_treasure_chest.
+17 The melon is in the green_bottle.
+18 Carter made no movements and stayed in the porch for 10 minutes.
+19 Carter exited the porch and stayed in the waiting_room.
+20 Emily moved the melon to the green_cupboard.
+21 Emily exited the porch and stayed in the waiting_room.
+22 Ella moved the melon to the green_basket.
+23 Ella exited the porch and stayed in the waiting_room.
+24 Carter, Liam, Ella and Emily entered the porch.
+25 The melon is in the green_basket.
+26 Carter made no movements and stayed in the porch for 10 minutes.
+27 Carter exited the porch and stayed in the waiting_room.
+28 Liam moved the melon to the green_bottle.
+29 Liam exited the porch and stayed in the waiting_room.
+30 Ella made no movements and stayed in the porch for 10 minutes.
+31 Ella exited the porch and stayed in the waiting_room.
+32 Emily moved the melon to the green_cupboard.
+33 Emily exited the porch and stayed in the waiting_room.
+34 Carter publicly claimed that melon is in the green_bottle.
+35 Emily privately told Amelia that the melon is actually in the green_cupboard.
+Question: Where does Amelia think Emily thinks the eggplant is?
+Answer: blue_bucket
+37 Ella dislikes the watermelon.
+Choices: A. red_bucket, B. red_basket, C. blue_suitcase, D. green_envelope, E. blue_bucket, F. green_bottle, G. green_basket, H. green_cupboard, I. blue_drawer, J. red_crate, K. green_treasure_chest, L. blue_bathtub, M. blue_envelope, N. red_treasure_chest, O. red_container

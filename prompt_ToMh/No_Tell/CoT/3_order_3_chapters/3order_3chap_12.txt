@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Logan, Abigail, Avery and Jackson entered the back_yard.
-2 The apple is in the blue_box.
-3 Evelyn moved the apple to the blue_envelope.
-4 Evelyn exited the back_yard and stayed in the waiting_room.
-5 Logan moved the apple to the red_bathtub.
-6 Logan exited the back_yard and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the back_yard for 10 minutes.
-8 Abigail exited the back_yard and stayed in the waiting_room.
-9 Avery made no movements and stayed in the back_yard for 10 minutes.
-10 Avery exited the back_yard and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the back_yard for 10 minutes.
-12 Jackson exited the back_yard and stayed in the waiting_room.
-13 Jackson, Avery and Abigail entered the back_yard.
-14 The tangerine is in the red_bathtub.
-15 Jackson moved the tangerine to the blue_envelope.
-16 Jackson exited the back_yard and stayed in the waiting_room.
-17 Avery moved the tangerine to the blue_bathtub.
-18 Avery exited the back_yard and stayed in the waiting_room.
-19 Abigail moved the tangerine to the blue_crate.
-20 Abigail exited the back_yard and stayed in the waiting_room.
-21 Evelyn, Jackson, Avery and Abigail entered the back_yard.
-22 The tangerine is in the blue_crate.
-23 Evelyn moved the tangerine to the red_bathtub.
-24 Evelyn exited the back_yard and stayed in the waiting_room.
-25 Jackson made no movements and stayed in the back_yard for 10 minutes.
-26 Jackson exited the back_yard and stayed in the waiting_room.
-27 Avery made no movements and stayed in the back_yard for 10 minutes.
-28 Avery exited the back_yard and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the back_yard for 10 minutes.
-30 Abigail exited the back_yard and stayed in the waiting_room.
-Question: Where does Jackson think Abigail thinks Logan thinks the apple is?
-Choices: A. blue_suitcase, B. green_treasure_chest, C. green_bottle, D. green_container, E. red_drawer, F. blue_box, G. red_bathtub, H. blue_bathtub, I. blue_crate, J. blue_envelope, K. red_treasure_chest, L. green_cupboard, M. red_basket, N. blue_basket, O. blue_treasure_chest
+1 Jacob, Charlotte, Mila, Nathan and Isla entered the playroom.
+2 Isla lost his bottle.
+3 The green_pepper is in the blue_bathtub.
+4 Jacob made no movements and stayed in the playroom for 10 minutes.
+5 Jacob exited the playroom and stayed in the waiting_room.
+6 Charlotte made no movements and stayed in the playroom for 10 minutes.
+7 Charlotte exited the playroom and stayed in the waiting_room.
+8 Mila moved the green_pepper to the green_cupboard.
+9 Mila exited the playroom and stayed in the waiting_room.
+10 Nathan moved the green_pepper to the green_box.
+11 Nathan exited the playroom and stayed in the waiting_room.
+12 Isla moved the green_pepper to the blue_bathtub.
+13 Isla exited the playroom and stayed in the waiting_room.
+14 Charlotte, Isla and Jacob entered the playroom.
+15 The green_pepper is in the blue_bathtub.
+16 Charlotte moved the green_pepper to the red_pantry.
+17 Charlotte exited the playroom and stayed in the waiting_room.
+18 Isla moved the green_pepper to the blue_treasure_chest.
+19 Isla exited the playroom and stayed in the waiting_room.
+20 Jacob moved the green_pepper to the green_box.
+21 Isla lost his watch.
+22 Jacob exited the playroom and stayed in the waiting_room.
+23 Charlotte, Mila, Jacob and Isla entered the study.
+24 The strawberry is in the green_bathtub.
+25 Charlotte made no movements and stayed in the study for 10 minutes.
+26 Charlotte exited the study and stayed in the waiting_room.
+27 Mila made no movements and stayed in the study for 10 minutes.
+28 Mila exited the study and stayed in the waiting_room.
+29 Jacob made no movements and stayed in the study for 10 minutes.
+30 Jacob exited the study and stayed in the waiting_room.
+31 Isla made no movements and stayed in the study for 10 minutes.
+32 Isla exited the study and stayed in the waiting_room.
+Question: Where does Jacob think Isla thinks Nathan thinks the green_pepper is?
+Choices: A. red_crate, B. blue_bottle, C. red_bucket, D. green_suitcase, E. blue_envelope, F. green_box, G. blue_bathtub, H. red_pantry, I. blue_treasure_chest, J. green_cupboard, K. green_envelope, L. green_bathtub, M. red_bottle, N. green_bucket, O. red_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

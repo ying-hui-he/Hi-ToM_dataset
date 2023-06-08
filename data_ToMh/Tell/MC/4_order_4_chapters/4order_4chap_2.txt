@@ -1,45 +1,51 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Carter, Aiden, Owen, Ethan and Ella entered the lounge.
-2 The persimmon is in the red_bottle.
-3 Carter made no movements and stayed in the lounge for 10 minutes.
-4 Carter exited the lounge and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the lounge for 10 minutes.
-6 Aiden exited the lounge and stayed in the waiting_room.
-7 Owen moved the persimmon to the red_suitcase.
-8 Owen exited the lounge and stayed in the waiting_room.
-9 Ethan moved the persimmon to the red_treasure_chest.
-10 Ethan exited the lounge and stayed in the waiting_room.
-11 Ella moved the persimmon to the red_bottle.
-12 Ella exited the lounge and stayed in the waiting_room.
-13 Carter, Ella and Owen entered the master_bedroom.
-14 The cherry is in the red_crate.
-15 Carter made no movements and stayed in the master_bedroom for 10 minutes.
-16 Carter exited the master_bedroom and stayed in the waiting_room.
-17 Ella made no movements and stayed in the master_bedroom for 10 minutes.
-18 Ella exited the master_bedroom and stayed in the waiting_room.
-19 Owen moved the cherry to the red_bathtub.
-20 Owen exited the master_bedroom and stayed in the waiting_room.
-21 Carter publicly claimed that cherry is in the red_crate.
-22 Owen privately told Aiden that the cherry is actually in the red_bathtub.
-23 Carter, Owen, Aiden and Ethan entered the lounge.
-24 The persimmon is in the red_bottle.
-25 Carter moved the persimmon to the blue_bucket.
-26 Carter exited the lounge and stayed in the waiting_room.
-27 Owen moved the persimmon to the red_treasure_chest.
-28 Owen exited the lounge and stayed in the waiting_room.
-29 Aiden made no movements and stayed in the lounge for 10 minutes.
-30 Aiden exited the lounge and stayed in the waiting_room.
-31 Ethan moved the persimmon to the red_suitcase.
-32 Ethan exited the lounge and stayed in the waiting_room.
-33 Owen and Ethan entered the lounge.
-34 The persimmon is in the red_suitcase.
-35 Owen moved the persimmon to the red_bottle.
-36 Owen exited the lounge and stayed in the waiting_room.
-37 Ethan made no movements and stayed in the lounge for 10 minutes.
-38 Ethan exited the lounge and stayed in the waiting_room.
-39 Ethan publicly claimed that persimmon is in the red_treasure_chest.
-40 Owen privately told Ethan that the persimmon is actually in the blue_bucket.
-Question: Where does Owen think Ella thinks Ethan thinks Carter thinks the persimmon is?
+1 Jackson, Aria, Ethan, Ava and Aiden entered the hallway.
+2 The lettuce is in the red_bottle.
+3 Jackson moved the lettuce to the red_basket.
+4 Ethan lost his watch.
+5 Jackson exited the hallway and stayed in the waiting_room.
+6 Aria made no movements and stayed in the hallway for 10 minutes.
+7 Ava saw a monkey.
+8 Aria exited the hallway and stayed in the waiting_room.
+9 Ethan made no movements and stayed in the hallway for 10 minutes.
+10 Aiden dislikes the pumpkin.
+11 Ethan exited the hallway and stayed in the waiting_room.
+12 Ava moved the lettuce to the red_envelope.
+13 Ava exited the hallway and stayed in the waiting_room.
+14 Aiden made no movements and stayed in the hallway for 10 minutes.
+15 Aiden exited the hallway and stayed in the waiting_room.
+16 Aiden, Ethan and Aria entered the patio.
+17 The grapes is in the red_box.
+18 Aiden moved the grapes to the green_bottle.
+19 Aiden exited the patio and stayed in the waiting_room.
+20 Ethan moved the grapes to the blue_cupboard.
+21 Ethan exited the patio and stayed in the waiting_room.
+22 Aria made no movements and stayed in the patio for 10 minutes.
+23 Aria exited the patio and stayed in the waiting_room.
+24 Aiden publicly claimed that grapes is in the blue_cupboard.
+25 Aria privately told Jackson that the grapes is actually in the blue_cupboard.
+26 Jackson likes the red_bottle.
+27 Aria, Ava, Aiden and Jackson entered the hallway.
+28 The peach is in the blue_bathtub.
+29 Aiden saw a cat.
+30 Aria moved the peach to the red_envelope.
+31 Aria exited the hallway and stayed in the waiting_room.
+32 Ethan likes the blue_cupboard.
+33 Ava moved the peach to the red_bottle.
+34 Ava exited the hallway and stayed in the waiting_room.
+35 Aiden moved the peach to the red_basket.
+36 Aiden exited the hallway and stayed in the waiting_room.
+37 Jackson moved the peach to the red_bucket.
+38 Jackson exited the hallway and stayed in the waiting_room.
+39 Ethan and Jackson entered the patio.
+40 The grapes is in the blue_cupboard.
+41 Ethan moved the grapes to the green_bottle.
+42 Ethan exited the patio and stayed in the waiting_room.
+43 Jackson made no movements and stayed in the patio for 10 minutes.
+44 Jackson exited the patio and stayed in the waiting_room.
+45 Ethan publicly claimed that grapes is in the green_bottle.
+46 Jackson privately told Ethan that the grapes is actually in the blue_cupboard.
+Question: Where does Aiden think Jackson thinks Ethan thinks Ava thinks the lettuce is?
 Answer: None
-Choices: A. blue_basket, B. red_bottle, C. red_treasure_chest, D. red_suitcase, E. blue_bucket, F. blue_bathtub, G. red_crate, H. green_cupboard, I. red_bathtub, J. red_basket, K. blue_drawer, L. blue_crate, M. blue_treasure_chest, N. green_bathtub, O. green_container
+Choices: A. blue_bathtub, B. red_bottle, C. red_envelope, D. red_basket, E. red_bucket, F. red_box, G. blue_suitcase, H. green_box, I. blue_cupboard, J. green_bottle, K. blue_envelope, L. red_treasure_chest, M. red_cupboard, N. green_treasure_chest, O. green_bucket

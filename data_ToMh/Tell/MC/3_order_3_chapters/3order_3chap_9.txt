@@ -1,39 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, Aiden, Jackson, Mila and Ella entered the crawlspace.
-2 The banana is in the red_envelope.
-3 Ava made no movements and stayed in the crawlspace for 10 minutes.
-4 Ava exited the crawlspace and stayed in the waiting_room.
-5 Aiden moved the banana to the red_basket.
-6 Aiden exited the crawlspace and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the crawlspace for 10 minutes.
-8 Jackson exited the crawlspace and stayed in the waiting_room.
-9 Mila made no movements and stayed in the crawlspace for 10 minutes.
-10 Mila exited the crawlspace and stayed in the waiting_room.
-11 Ella made no movements and stayed in the crawlspace for 10 minutes.
-12 Ella exited the crawlspace and stayed in the waiting_room.
-13 Mila publicly claimed that banana is in the red_crate.
-14 Ella privately told Ava that the banana is actually in the red_basket.
-15 Mila, Ava and Ella entered the crawlspace.
-16 The onion is in the blue_envelope.
-17 Mila made no movements and stayed in the crawlspace for 10 minutes.
-18 Mila exited the crawlspace and stayed in the waiting_room.
-19 Ava moved the onion to the red_crate.
-20 Ava exited the crawlspace and stayed in the waiting_room.
-21 Ella moved the onion to the red_envelope.
-22 Ella exited the crawlspace and stayed in the waiting_room.
-23 Jackson, Mila, Ava and Aiden entered the crawlspace.
-24 The onion is in the red_envelope.
-25 Jackson moved the onion to the blue_bucket.
-26 Jackson exited the crawlspace and stayed in the waiting_room.
-27 Mila moved the onion to the red_basket.
-28 Mila exited the crawlspace and stayed in the waiting_room.
-29 Ava made no movements and stayed in the crawlspace for 10 minutes.
-30 Ava exited the crawlspace and stayed in the waiting_room.
-31 Aiden moved the onion to the red_crate.
-32 Aiden exited the crawlspace and stayed in the waiting_room.
-33 Jackson publicly claimed that onion is in the red_basket.
-34 Aiden privately told Ella that the onion is actually in the red_crate.
-Question: Where does Mila think Jackson thinks Ava thinks the banana is?
-Answer: None
-Choices: A. blue_drawer, B. green_bathtub, C. red_suitcase, D. green_bottle, E. blue_crate, F. blue_envelope, G. red_envelope, H. red_crate, I. red_basket, J. blue_bucket, K. green_cupboard, L. blue_container, M. red_bathtub, N. blue_pantry, O. blue_basket
+1 Jayden, Sophia, Logan, Charlotte and Jacob entered the garage.
+2 Charlotte dislikes the pumpkin.
+3 The celery is in the red_treasure_chest.
+4 Jayden moved the celery to the green_cupboard.
+5 Jayden exited the garage and stayed in the waiting_room.
+6 Sophia made no movements and stayed in the garage for 10 minutes.
+7 Jayden likes the green_cupboard.
+8 Sophia exited the garage and stayed in the waiting_room.
+9 Logan moved the celery to the blue_bucket.
+10 Logan exited the garage and stayed in the waiting_room.
+11 Charlotte made no movements and stayed in the garage for 10 minutes.
+12 Charlotte exited the garage and stayed in the waiting_room.
+13 Jacob moved the celery to the red_treasure_chest.
+14 Jacob exited the garage and stayed in the waiting_room.
+15 Logan privately told Jayden that the celery is actually in the red_box.
+16 Sophia privately told Charlotte that the celery is actually in the red_treasure_chest.
+17 Jacob, Sophia and Charlotte entered the garage.
+18 The celery is in the red_treasure_chest.
+19 Jacob moved the celery to the red_box.
+20 Jacob exited the garage and stayed in the waiting_room.
+21 Sophia made no movements and stayed in the garage for 10 minutes.
+22 Sophia exited the garage and stayed in the waiting_room.
+23 Charlotte moved the celery to the green_bucket.
+24 Charlotte exited the garage and stayed in the waiting_room.
+25 Sophia, Jayden, Logan and Jacob entered the study.
+26 The cucumber is in the green_pantry.
+27 Jayden saw a mouse.
+28 Sophia made no movements and stayed in the study for 10 minutes.
+29 Charlotte likes the blue_bottle.
+30 Sophia exited the study and stayed in the waiting_room.
+31 Jayden moved the cucumber to the blue_bottle.
+32 Jayden exited the study and stayed in the waiting_room.
+33 Logan made no movements and stayed in the study for 10 minutes.
+34 Logan exited the study and stayed in the waiting_room.
+35 Jayden likes the blue_envelope.
+36 Jacob moved the cucumber to the blue_envelope.
+37 Jacob exited the study and stayed in the waiting_room.
+38 Jayden publicly claimed that cucumber is in the blue_bottle.
+39 Jacob privately told Logan that the cucumber is actually in the green_pantry.
+40 Jayden saw a mouse.
+Question: Where does Logan think Charlotte thinks Jayden thinks the celery is?
+Answer: green_cupboard
+42 Jacob likes the green_pantry.
+Choices: A. green_pantry, B. blue_drawer, C. blue_bottle, D. green_box, E. blue_envelope, F. red_envelope, G. blue_cupboard, H. green_bottle, I. blue_suitcase, J. blue_crate, K. red_treasure_chest, L. green_bucket, M. green_cupboard, N. red_box, O. blue_bucket

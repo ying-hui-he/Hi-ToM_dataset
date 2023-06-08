@@ -1,27 +1,31 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 William, Mia, Charlotte, Jayden and Hannah entered the patio.
-2 The turnip is in the green_suitcase.
-3 William moved the turnip to the red_container.
-4 William exited the patio and stayed in the waiting_room.
-5 Mia made no movements and stayed in the patio for 10 minutes.
-6 Mia exited the patio and stayed in the waiting_room.
-7 Charlotte moved the turnip to the green_cupboard.
-8 Charlotte exited the patio and stayed in the waiting_room.
-9 Jayden made no movements and stayed in the patio for 10 minutes.
-10 Jayden exited the patio and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the patio for 10 minutes.
-12 Hannah exited the patio and stayed in the waiting_room.
-13 William, Jayden and Hannah entered the crawlspace.
-14 The cherry is in the red_suitcase.
-15 William made no movements and stayed in the crawlspace for 10 minutes.
-16 William exited the crawlspace and stayed in the waiting_room.
-17 Jayden moved the cherry to the blue_basket.
-18 Jayden exited the crawlspace and stayed in the waiting_room.
-19 Hannah made no movements and stayed in the crawlspace for 10 minutes.
-20 Hannah exited the crawlspace and stayed in the waiting_room.
-21 Jayden privately told Hannah that the cherry is actually in the blue_basket.
-22 Hannah privately told Mia that the cherry is actually in the blue_basket.
-Question: Where does Jayden think William thinks Hannah thinks the turnip is?
-Answer: None
-Choices: A. blue_bucket, B. red_suitcase, C. green_bathtub, D. blue_basket, E. blue_pantry, F. red_bottle, G. green_suitcase, H. red_container, I. green_cupboard, J. blue_crate, K. red_envelope, L. red_crate, M. red_basket, N. blue_suitcase, O. green_bottle
+1 Ethan, Aria, Isabella, Alexander and Jacob entered the kitchen.
+2 The peas is in the green_treasure_chest.
+3 Ethan moved the peas to the blue_suitcase.
+4 Ethan exited the kitchen and stayed in the waiting_room.
+5 Aria made no movements and stayed in the kitchen for 10 minutes.
+6 Aria exited the kitchen and stayed in the waiting_room.
+7 Ethan saw a dog.
+8 Isabella moved the peas to the green_bottle.
+9 Isabella exited the kitchen and stayed in the waiting_room.
+10 Aria likes the blue_envelope.
+11 Alexander made no movements and stayed in the kitchen for 10 minutes.
+12 Alexander exited the kitchen and stayed in the waiting_room.
+13 Isabella dislikes the peas.
+14 Jacob made no movements and stayed in the kitchen for 10 minutes.
+15 Jacob exited the kitchen and stayed in the waiting_room.
+16 Jacob saw a monkey.
+17 Jacob, Ethan and Aria entered the master_bedroom.
+18 The asparagus is in the green_bathtub.
+19 Jacob moved the asparagus to the green_basket.
+20 Jacob exited the master_bedroom and stayed in the waiting_room.
+21 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
+22 Ethan exited the master_bedroom and stayed in the waiting_room.
+23 Aria moved the asparagus to the blue_crate.
+24 Aria exited the master_bedroom and stayed in the waiting_room.
+25 Ethan privately told Aria that the asparagus is actually in the green_basket.
+26 Aria privately told Alexander that the asparagus is actually in the blue_crate.
+Question: Where does Aria think Isabella thinks Alexander thinks the peas is?
+Answer: blue_suitcase
+Choices: A. blue_envelope, B. green_box, C. blue_bucket, D. green_envelope, E. green_suitcase, F. green_bathtub, G. red_bathtub, H. green_basket, I. blue_bathtub, J. blue_crate, K. green_bottle, L. green_treasure_chest, M. blue_suitcase, N. red_bucket, O. red_treasure_chest

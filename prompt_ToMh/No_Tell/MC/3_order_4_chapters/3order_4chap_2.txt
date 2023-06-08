@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Avery, Evelyn, Jack and Ava entered the den.
-2 The corn is in the green_treasure_chest.
-3 Mia made no movements and stayed in the den for 10 minutes.
-4 Mia exited the den and stayed in the waiting_room.
-5 Avery made no movements and stayed in the den for 10 minutes.
-6 Avery exited the den and stayed in the waiting_room.
-7 Evelyn moved the corn to the green_suitcase.
-8 Evelyn exited the den and stayed in the waiting_room.
-9 Jack made no movements and stayed in the den for 10 minutes.
-10 Jack exited the den and stayed in the waiting_room.
-11 Ava made no movements and stayed in the den for 10 minutes.
-12 Ava exited the den and stayed in the waiting_room.
-13 Jack, Avery and Evelyn entered the kitchen.
-14 The lime is in the blue_drawer.
-15 Jack moved the lime to the blue_suitcase.
-16 Jack exited the kitchen and stayed in the waiting_room.
-17 Avery made no movements and stayed in the kitchen for 10 minutes.
-18 Avery exited the kitchen and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the kitchen for 10 minutes.
-20 Evelyn exited the kitchen and stayed in the waiting_room.
-21 Evelyn, Ava, Jack and Avery entered the kitchen.
-22 The lime is in the blue_suitcase.
-23 Evelyn made no movements and stayed in the kitchen for 10 minutes.
-24 Evelyn exited the kitchen and stayed in the waiting_room.
-25 Ava moved the lime to the blue_crate.
-26 Ava exited the kitchen and stayed in the waiting_room.
-27 Jack moved the lime to the green_bottle.
-28 Jack exited the kitchen and stayed in the waiting_room.
-29 Avery moved the lime to the green_cupboard.
-30 Avery exited the kitchen and stayed in the waiting_room.
-31 Ava and Jack entered the playroom.
-32 The strawberry is in the blue_bottle.
-33 Ava made no movements and stayed in the playroom for 10 minutes.
-34 Ava exited the playroom and stayed in the waiting_room.
-35 Jack made no movements and stayed in the playroom for 10 minutes.
-36 Jack exited the playroom and stayed in the waiting_room.
-Question: Where does Mia think Avery thinks Evelyn thinks the corn is?
-Choices: A. red_bottle, B. green_treasure_chest, C. green_crate, D. green_suitcase, E. blue_bathtub, F. blue_bottle, G. red_bucket, H. green_bathtub, I. blue_bucket, J. red_bathtub, K. blue_drawer, L. blue_crate, M. green_cupboard, N. green_bottle, O. blue_suitcase
+1 Aria, Aiden, Nathan, Mia and Mila entered the bathroom.
+2 The apple is in the blue_bathtub.
+3 Nathan likes the red_bucket.
+4 Aria made no movements and stayed in the bathroom for 10 minutes.
+5 Aria exited the bathroom and stayed in the waiting_room.
+6 Aiden moved the apple to the green_bathtub.
+7 Aiden exited the bathroom and stayed in the waiting_room.
+8 Nathan made no movements and stayed in the bathroom for 10 minutes.
+9 Aiden lost his bottle.
+10 Nathan exited the bathroom and stayed in the waiting_room.
+11 Mia made no movements and stayed in the bathroom for 10 minutes.
+12 Mia exited the bathroom and stayed in the waiting_room.
+13 Mila made no movements and stayed in the bathroom for 10 minutes.
+14 Mila exited the bathroom and stayed in the waiting_room.
+15 Aiden, Aria and Mia entered the back_yard.
+16 The potato is in the red_bottle.
+17 Aiden moved the potato to the green_bucket.
+18 Aiden exited the back_yard and stayed in the waiting_room.
+19 Aria moved the potato to the green_box.
+20 Aria exited the back_yard and stayed in the waiting_room.
+21 Mia made no movements and stayed in the back_yard for 10 minutes.
+22 Mia exited the back_yard and stayed in the waiting_room.
+23 Mia, Aria, Mila and Aiden entered the back_yard.
+24 The potato is in the green_box.
+25 Nathan saw a mouse.
+26 Mia moved the potato to the blue_treasure_chest.
+27 Mia exited the back_yard and stayed in the waiting_room.
+28 Aria made no movements and stayed in the back_yard for 10 minutes.
+29 Aria exited the back_yard and stayed in the waiting_room.
+30 Mila made no movements and stayed in the back_yard for 10 minutes.
+31 Mila exited the back_yard and stayed in the waiting_room.
+32 Aiden moved the potato to the green_bucket.
+33 Aiden exited the back_yard and stayed in the waiting_room.
+34 Aiden and Nathan entered the bathroom.
+35 The persimmon is in the red_bucket.
+36 Aiden made no movements and stayed in the bathroom for 10 minutes.
+37 Aiden exited the bathroom and stayed in the waiting_room.
+38 Nathan made no movements and stayed in the bathroom for 10 minutes.
+39 Nathan exited the bathroom and stayed in the waiting_room.
+Question: Where does Mia think Aria thinks Nathan thinks the apple is?
+Choices: A. blue_bathtub, B. red_bucket, C. green_bathtub, D. blue_crate, E. blue_drawer, F. red_bottle, G. blue_suitcase, H. green_bucket, I. blue_treasure_chest, J. green_box, K. green_cupboard, L. blue_envelope, M. red_crate, N. red_box, O. red_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,35 +1,37 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Owen, James, Ella and Jayden entered the attic.
-2 The pear is in the blue_pantry.
-3 Jackson made no movements and stayed in the attic for 10 minutes.
-4 Jackson exited the attic and stayed in the waiting_room.
-5 Owen made no movements and stayed in the attic for 10 minutes.
-6 Owen exited the attic and stayed in the waiting_room.
-7 James moved the pear to the red_treasure_chest.
-8 James exited the attic and stayed in the waiting_room.
-9 Ella made no movements and stayed in the attic for 10 minutes.
-10 Ella exited the attic and stayed in the waiting_room.
-11 Jayden made no movements and stayed in the attic for 10 minutes.
-12 Jayden exited the attic and stayed in the waiting_room.
-13 Jackson, Owen and James entered the back_yard.
-14 The peach is in the red_crate.
-15 Jackson made no movements and stayed in the back_yard for 10 minutes.
-16 Jackson exited the back_yard and stayed in the waiting_room.
-17 Owen moved the peach to the green_crate.
-18 Owen exited the back_yard and stayed in the waiting_room.
-19 James moved the peach to the green_suitcase.
-20 James exited the back_yard and stayed in the waiting_room.
-21 Owen, Ella, Jayden and Jackson entered the basement.
-22 The beans is in the green_bathtub.
-23 Owen made no movements and stayed in the basement for 10 minutes.
-24 Owen exited the basement and stayed in the waiting_room.
-25 Ella made no movements and stayed in the basement for 10 minutes.
-26 Ella exited the basement and stayed in the waiting_room.
-27 Jayden moved the beans to the green_envelope.
-28 Jayden exited the basement and stayed in the waiting_room.
-29 Jackson moved the beans to the blue_crate.
-30 Jackson exited the basement and stayed in the waiting_room.
-Question: Where does Jayden think the pear is?
-Choices: A. blue_pantry, B. red_basket, C. blue_box, D. red_treasure_chest, E. green_cupboard, F. red_crate, G. green_crate, H. green_bottle, I. green_suitcase, J. blue_bathtub, K. blue_crate, L. green_bathtub, M. green_envelope, N. green_treasure_chest, O. blue_bucket
+1 Emily, Charlotte, Jack, Mia and Carter entered the basement.
+2 The green_pepper is in the red_bathtub.
+3 Emily moved the green_pepper to the red_treasure_chest.
+4 Emily exited the basement and stayed in the waiting_room.
+5 Charlotte moved the green_pepper to the blue_bathtub.
+6 Charlotte exited the basement and stayed in the waiting_room.
+7 Jack moved the green_pepper to the red_envelope.
+8 Jack exited the basement and stayed in the waiting_room.
+9 Charlotte dislikes the persimmon.
+10 Mia made no movements and stayed in the basement for 10 minutes.
+11 Mia exited the basement and stayed in the waiting_room.
+12 Carter made no movements and stayed in the basement for 10 minutes.
+13 Carter exited the basement and stayed in the waiting_room.
+14 Mia, Emily and Charlotte entered the bedroom.
+15 The onion is in the green_bottle.
+16 Mia made no movements and stayed in the bedroom for 10 minutes.
+17 Mia exited the bedroom and stayed in the waiting_room.
+18 Emily made no movements and stayed in the bedroom for 10 minutes.
+19 Emily exited the bedroom and stayed in the waiting_room.
+20 Charlotte made no movements and stayed in the bedroom for 10 minutes.
+21 Carter saw a mouse.
+22 Charlotte exited the bedroom and stayed in the waiting_room.
+23 Carter, Charlotte, Emily and Mia entered the bedroom.
+24 The onion is in the green_bottle.
+25 Carter moved the onion to the blue_drawer.
+26 Carter exited the bedroom and stayed in the waiting_room.
+27 Charlotte made no movements and stayed in the bedroom for 10 minutes.
+28 Charlotte exited the bedroom and stayed in the waiting_room.
+29 Emily moved the onion to the red_crate.
+30 Emily exited the bedroom and stayed in the waiting_room.
+31 Mia made no movements and stayed in the bedroom for 10 minutes.
+32 Mia exited the bedroom and stayed in the waiting_room.
+Question: Where does Mia think the green_pepper is?
+Choices: A. green_basket, B. blue_bottle, C. red_cupboard, D. blue_crate, E. blue_bucket, F. blue_bathtub, G. red_bathtub, H. red_treasure_chest, I. red_envelope, J. green_bathtub, K. blue_drawer, L. green_bottle, M. green_cupboard, N. red_bucket, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

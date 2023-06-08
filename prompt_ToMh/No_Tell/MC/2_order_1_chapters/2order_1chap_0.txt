@@ -1,17 +1,18 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Jayden, Carter, Jacob and Emily entered the porch.
-2 The tomato is in the green_cupboard.
-3 Abigail moved the tomato to the green_envelope.
-4 Abigail exited the porch and stayed in the waiting_room.
-5 Jayden moved the tomato to the green_treasure_chest.
-6 Jayden exited the porch and stayed in the waiting_room.
-7 Carter made no movements and stayed in the porch for 10 minutes.
-8 Carter exited the porch and stayed in the waiting_room.
-9 Jacob made no movements and stayed in the porch for 10 minutes.
-10 Jacob exited the porch and stayed in the waiting_room.
-11 Emily moved the tomato to the green_cupboard.
-12 Emily exited the porch and stayed in the waiting_room.
-Question: Where does Jacob think Emily thinks the tomato is?
-Choices: A. red_crate, B. green_bathtub, C. red_basket, D. blue_box, E. blue_bottle, F. red_envelope, G. red_bathtub, H. red_drawer, I. blue_container, J. blue_crate, K. blue_suitcase, L. green_cupboard, M. green_envelope, N. green_crate, O. green_treasure_chest
+1 Ethan, Aiden, Emma, Jayden and Jackson entered the bathroom.
+2 The pineapple is in the blue_bucket.
+3 Ethan made no movements and stayed in the bathroom for 10 minutes.
+4 Ethan exited the bathroom and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the bathroom for 10 minutes.
+6 Aiden exited the bathroom and stayed in the waiting_room.
+7 Emma moved the pineapple to the blue_envelope.
+8 Emma exited the bathroom and stayed in the waiting_room.
+9 Jayden moved the pineapple to the blue_cupboard.
+10 Jayden exited the bathroom and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the bathroom for 10 minutes.
+12 Jackson exited the bathroom and stayed in the waiting_room.
+13 Ethan likes the blue_bucket.
+Question: Where does Emma think Jackson thinks the pineapple is?
+Choices: A. blue_bucket, B. green_bucket, C. blue_cupboard, D. blue_envelope, E. red_basket, F. red_bathtub, G. red_crate, H. green_suitcase, I. green_envelope, J. blue_bathtub, K. red_bottle, L. green_cupboard, M. red_box, N. red_treasure_chest, O. red_cupboard
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

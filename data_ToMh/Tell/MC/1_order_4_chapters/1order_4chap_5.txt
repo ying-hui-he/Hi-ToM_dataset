@@ -1,44 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, William, Gracie, Oliver and Jayden entered the hall.
-2 The carrot is in the red_bucket.
-3 Ava moved the carrot to the blue_bathtub.
-4 Ava exited the hall and stayed in the waiting_room.
-5 William moved the carrot to the green_container.
-6 William exited the hall and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the hall for 10 minutes.
-8 Gracie exited the hall and stayed in the waiting_room.
-9 Oliver moved the carrot to the blue_box.
-10 Oliver exited the hall and stayed in the waiting_room.
-11 Jayden moved the carrot to the red_bucket.
-12 Jayden exited the hall and stayed in the waiting_room.
-13 Jayden, Gracie and Oliver entered the workshop.
-14 The radish is in the green_bathtub.
-15 Jayden moved the radish to the blue_suitcase.
-16 Jayden exited the workshop and stayed in the waiting_room.
-17 Gracie moved the radish to the blue_basket.
-18 Gracie exited the workshop and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the workshop for 10 minutes.
-20 Oliver exited the workshop and stayed in the waiting_room.
-21 Gracie publicly claimed that radish is in the red_basket.
-22 Oliver privately told Gracie that the radish is actually in the red_envelope.
-23 William, Oliver, Gracie and Jayden entered the lounge.
-24 The potato is in the blue_treasure_chest.
-25 William moved the potato to the green_envelope.
-26 William exited the lounge and stayed in the waiting_room.
-27 Oliver moved the potato to the blue_envelope.
-28 Oliver exited the lounge and stayed in the waiting_room.
-29 Gracie made no movements and stayed in the lounge for 10 minutes.
-30 Gracie exited the lounge and stayed in the waiting_room.
-31 Jayden moved the potato to the blue_container.
-32 Jayden exited the lounge and stayed in the waiting_room.
-33 Oliver and Jayden entered the workshop.
-34 The radish is in the blue_basket.
-35 Oliver made no movements and stayed in the workshop for 10 minutes.
-36 Oliver exited the workshop and stayed in the waiting_room.
-37 Jayden made no movements and stayed in the workshop for 10 minutes.
-38 Jayden exited the workshop and stayed in the waiting_room.
-39 Oliver privately told Ava that the radish is actually in the blue_basket.
-Question: Where does Ava think the carrot is?
+1 Ethan, Ella, Emma, Amelia and Alexander entered the front_yard.
+2 Emma lost his phone.
+3 The cucumber is in the green_bathtub.
+4 Ethan moved the cucumber to the red_bottle.
+5 Ethan exited the front_yard and stayed in the waiting_room.
+6 Ella moved the cucumber to the green_basket.
+7 Ella exited the front_yard and stayed in the waiting_room.
+8 Emma made no movements and stayed in the front_yard for 10 minutes.
+9 Emma exited the front_yard and stayed in the waiting_room.
+10 Amelia moved the cucumber to the blue_bathtub.
+11 Amelia exited the front_yard and stayed in the waiting_room.
+12 Alexander made no movements and stayed in the front_yard for 10 minutes.
+13 Alexander exited the front_yard and stayed in the waiting_room.
+14 Alexander, Emma and Ethan entered the back_yard.
+15 The peach is in the green_envelope.
+16 Alexander made no movements and stayed in the back_yard for 10 minutes.
+17 Alexander exited the back_yard and stayed in the waiting_room.
+18 Emma moved the peach to the red_basket.
+19 Emma exited the back_yard and stayed in the waiting_room.
+20 Ethan made no movements and stayed in the back_yard for 10 minutes.
+21 Ethan exited the back_yard and stayed in the waiting_room.
+22 Alexander publicly claimed that peach is in the blue_suitcase.
+23 Ethan privately told Ella that the peach is actually in the red_basket.
+24 Ella, Ethan, Alexander and Amelia entered the front_yard.
+25 The grapefruit is in the blue_bathtub.
+26 Ella made no movements and stayed in the front_yard for 10 minutes.
+27 Ella exited the front_yard and stayed in the waiting_room.
+28 Ethan made no movements and stayed in the front_yard for 10 minutes.
+29 Ethan exited the front_yard and stayed in the waiting_room.
+30 Alexander moved the grapefruit to the green_basket.
+31 Alexander exited the front_yard and stayed in the waiting_room.
+32 Amelia made no movements and stayed in the front_yard for 10 minutes.
+33 Amelia exited the front_yard and stayed in the waiting_room.
+34 Emma and Amelia entered the basement.
+35 The strawberry is in the red_container.
+36 Emma moved the strawberry to the green_box.
+37 Emma exited the basement and stayed in the waiting_room.
+38 Amelia moved the strawberry to the green_treasure_chest.
+39 Amelia exited the basement and stayed in the waiting_room.
+40 Amelia publicly claimed that strawberry is in the red_bucket.
+41 Emma privately told Amelia that the strawberry is actually in the green_box.
+Question: Where does Amelia think the cucumber is?
 Answer: blue_bathtub
-Choices: A. blue_envelope, B. blue_treasure_chest, C. blue_bottle, D. blue_container, E. green_envelope, F. green_bathtub, G. blue_basket, H. red_basket, I. red_envelope, J. blue_suitcase, K. blue_box, L. red_bucket, M. blue_bathtub, N. green_container, O. red_bathtub
+Choices: A. blue_drawer, B. green_envelope, C. red_cupboard, D. blue_suitcase, E. red_basket, F. blue_bathtub, G. green_bathtub, H. green_bucket, I. red_bottle, J. green_basket, K. red_bucket, L. red_container, M. green_box, N. green_treasure_chest, O. red_envelope

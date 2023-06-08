@@ -1,45 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Aria, Ella, Evelyn and Hannah entered the hallway.
-2 The celery is in the green_suitcase.
-3 Avery made no movements and stayed in the hallway for 10 minutes.
-4 Avery exited the hallway and stayed in the waiting_room.
-5 Aria made no movements and stayed in the hallway for 10 minutes.
-6 Aria exited the hallway and stayed in the waiting_room.
-7 Ella made no movements and stayed in the hallway for 10 minutes.
-8 Ella exited the hallway and stayed in the waiting_room.
-9 Evelyn moved the celery to the red_bottle.
-10 Evelyn exited the hallway and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the hallway for 10 minutes.
-12 Hannah exited the hallway and stayed in the waiting_room.
-13 Avery, Evelyn and Ella entered the hallway.
-14 The celery is in the red_bottle.
-15 Avery moved the celery to the blue_bucket.
-16 Avery exited the hallway and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the hallway for 10 minutes.
-18 Evelyn exited the hallway and stayed in the waiting_room.
-19 Ella moved the celery to the green_treasure_chest.
-20 Ella exited the hallway and stayed in the waiting_room.
-21 Evelyn privately told Ella that the celery is actually in the blue_bucket.
-22 Ella privately told Aria that the celery is actually in the green_treasure_chest.
-23 Avery, Ella, Hannah and Evelyn entered the TV_room.
-24 The strawberry is in the blue_treasure_chest.
-25 Avery made no movements and stayed in the TV_room for 10 minutes.
-26 Avery exited the TV_room and stayed in the waiting_room.
-27 Ella moved the strawberry to the red_suitcase.
-28 Ella exited the TV_room and stayed in the waiting_room.
-29 Hannah made no movements and stayed in the TV_room for 10 minutes.
-30 Hannah exited the TV_room and stayed in the waiting_room.
-31 Evelyn moved the strawberry to the blue_container.
-32 Evelyn exited the TV_room and stayed in the waiting_room.
-33 Avery and Evelyn entered the TV_room.
-34 The corn is in the red_treasure_chest.
-35 Avery moved the corn to the red_drawer.
-36 Avery exited the TV_room and stayed in the waiting_room.
-37 Evelyn made no movements and stayed in the TV_room for 10 minutes.
-38 Evelyn exited the TV_room and stayed in the waiting_room.
-39 Evelyn publicly claimed that corn is in the blue_container.
-40 Avery privately told Evelyn that the corn is actually in the red_drawer.
-Question: Where does Avery think Aria thinks the celery is?
-Choices: A. blue_treasure_chest, B. red_treasure_chest, C. red_suitcase, D. red_drawer, E. blue_container, F. green_suitcase, G. red_container, H. green_treasure_chest, I. red_bottle, J. blue_bucket, K. blue_envelope, L. blue_drawer, M. green_envelope, N. red_envelope, O. blue_box
+1 Ava, Emma, Logan, Liam and Nathan entered the porch.
+2 The watermelon is in the blue_cupboard.
+3 Ava moved the watermelon to the blue_bottle.
+4 Ava exited the porch and stayed in the waiting_room.
+5 Emma made no movements and stayed in the porch for 10 minutes.
+6 Emma exited the porch and stayed in the waiting_room.
+7 Logan moved the watermelon to the red_crate.
+8 Logan exited the porch and stayed in the waiting_room.
+9 Ava likes the red_bottle.
+10 Liam moved the watermelon to the red_bottle.
+11 Liam exited the porch and stayed in the waiting_room.
+12 Nathan made no movements and stayed in the porch for 10 minutes.
+13 Nathan exited the porch and stayed in the waiting_room.
+14 Logan, Ava and Liam entered the porch.
+15 The tangerine is in the red_crate.
+16 Logan moved the tangerine to the blue_bottle.
+17 Logan exited the porch and stayed in the waiting_room.
+18 Ava made no movements and stayed in the porch for 10 minutes.
+19 Ava exited the porch and stayed in the waiting_room.
+20 Liam made no movements and stayed in the porch for 10 minutes.
+21 Liam exited the porch and stayed in the waiting_room.
+22 Logan publicly claimed that tangerine is in the red_bottle.
+23 Liam privately told Emma that the tangerine is actually in the blue_bottle.
+24 Logan, Ava, Emma and Nathan entered the porch.
+25 The tangerine is in the blue_bottle.
+26 Logan made no movements and stayed in the porch for 10 minutes.
+27 Logan exited the porch and stayed in the waiting_room.
+28 Ava made no movements and stayed in the porch for 10 minutes.
+29 Ava exited the porch and stayed in the waiting_room.
+30 Emma moved the tangerine to the red_crate.
+31 Emma exited the porch and stayed in the waiting_room.
+32 Nathan moved the tangerine to the green_pantry.
+33 Nathan exited the porch and stayed in the waiting_room.
+34 Logan and Liam entered the porch.
+35 The watermelon is in the red_bottle.
+36 Logan moved the watermelon to the red_crate.
+37 Logan exited the porch and stayed in the waiting_room.
+38 Liam moved the watermelon to the green_pantry.
+39 Liam exited the porch and stayed in the waiting_room.
+40 Logan privately told Ava that the watermelon is actually in the green_pantry.
+Question: Where does Ava think Nathan thinks the watermelon is?
+Choices: A. red_container, B. blue_crate, C. blue_suitcase, D. red_bucket, E. red_treasure_chest, F. blue_cupboard, G. red_crate, H. blue_bottle, I. green_pantry, J. red_bottle, K. green_suitcase, L. blue_treasure_chest, M. green_cupboard, N. green_box, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

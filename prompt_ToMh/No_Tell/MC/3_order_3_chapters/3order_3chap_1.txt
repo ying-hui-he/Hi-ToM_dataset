@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 William, Aiden, Abigail, Owen and Jacob entered the master_bedroom.
-2 The onion is in the green_bottle.
-3 William made no movements and stayed in the master_bedroom for 10 minutes.
-4 William exited the master_bedroom and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the master_bedroom for 10 minutes.
-6 Aiden exited the master_bedroom and stayed in the waiting_room.
-7 Abigail moved the onion to the blue_suitcase.
-8 Abigail exited the master_bedroom and stayed in the waiting_room.
-9 Owen made no movements and stayed in the master_bedroom for 10 minutes.
-10 Owen exited the master_bedroom and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
-12 Jacob exited the master_bedroom and stayed in the waiting_room.
-13 Aiden, Abigail and Jacob entered the master_bedroom.
-14 The lime is in the blue_suitcase.
-15 Aiden made no movements and stayed in the master_bedroom for 10 minutes.
-16 Aiden exited the master_bedroom and stayed in the waiting_room.
-17 Abigail moved the lime to the red_crate.
-18 Abigail exited the master_bedroom and stayed in the waiting_room.
-19 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
-20 Jacob exited the master_bedroom and stayed in the waiting_room.
-21 William, Jacob, Aiden and Abigail entered the staircase.
-22 The strawberry is in the red_basket.
-23 William made no movements and stayed in the staircase for 10 minutes.
-24 William exited the staircase and stayed in the waiting_room.
-25 Jacob made no movements and stayed in the staircase for 10 minutes.
-26 Jacob exited the staircase and stayed in the waiting_room.
-27 Aiden moved the strawberry to the red_container.
-28 Aiden exited the staircase and stayed in the waiting_room.
-29 Abigail made no movements and stayed in the staircase for 10 minutes.
-30 Abigail exited the staircase and stayed in the waiting_room.
-Question: Where does Jacob think William thinks Aiden thinks the onion is?
-Choices: A. blue_suitcase, B. green_bottle, C. red_bathtub, D. red_crate, E. blue_envelope, F. blue_basket, G. green_treasure_chest, H. green_envelope, I. red_drawer, J. green_crate, K. red_container, L. red_basket, M. blue_treasure_chest, N. red_treasure_chest, O. red_bottle
+1 Mila, Charlotte, Jayden, Owen and Alexander entered the study.
+2 The watermelon is in the blue_treasure_chest.
+3 Mila made no movements and stayed in the study for 10 minutes.
+4 Alexander dislikes the peach.
+5 Mila exited the study and stayed in the waiting_room.
+6 Charlotte made no movements and stayed in the study for 10 minutes.
+7 Charlotte exited the study and stayed in the waiting_room.
+8 Jayden moved the watermelon to the red_crate.
+9 Jayden exited the study and stayed in the waiting_room.
+10 Owen moved the watermelon to the blue_bottle.
+11 Owen exited the study and stayed in the waiting_room.
+12 Alexander moved the watermelon to the blue_treasure_chest.
+13 Jayden saw a mouse.
+14 Alexander exited the study and stayed in the waiting_room.
+15 Owen, Jayden and Mila entered the patio.
+16 The strawberry is in the blue_bathtub.
+17 Owen made no movements and stayed in the patio for 10 minutes.
+18 Owen exited the patio and stayed in the waiting_room.
+19 Jayden moved the strawberry to the red_basket.
+20 Jayden likes the blue_treasure_chest.
+21 Jayden exited the patio and stayed in the waiting_room.
+22 Mila moved the strawberry to the blue_envelope.
+23 Mila exited the patio and stayed in the waiting_room.
+24 Jayden, Mila, Alexander and Owen entered the study.
+25 The cucumber is in the green_bottle.
+26 Jayden moved the cucumber to the blue_treasure_chest.
+27 Jayden exited the study and stayed in the waiting_room.
+28 Mila made no movements and stayed in the study for 10 minutes.
+29 Mila exited the study and stayed in the waiting_room.
+30 Alexander made no movements and stayed in the study for 10 minutes.
+31 Alexander exited the study and stayed in the waiting_room.
+32 Owen moved the cucumber to the green_cupboard.
+33 Owen exited the study and stayed in the waiting_room.
+34 Charlotte saw a mouse.
+Question: Where does Mila think Charlotte thinks Alexander thinks the watermelon is?
+Choices: A. green_bucket, B. blue_cupboard, C. red_bucket, D. blue_suitcase, E. green_envelope, F. blue_bathtub, G. red_container, H. blue_envelope, I. red_basket, J. red_pantry, K. blue_treasure_chest, L. green_bottle, M. green_cupboard, N. blue_bottle, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

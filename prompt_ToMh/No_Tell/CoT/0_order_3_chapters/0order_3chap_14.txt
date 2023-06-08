@@ -1,35 +1,36 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jack, Amelia, Evelyn, Mila and Gracie entered the closet.
-2 The asparagus is in the blue_basket.
-3 Jack made no movements and stayed in the closet for 10 minutes.
-4 Jack exited the closet and stayed in the waiting_room.
-5 Amelia made no movements and stayed in the closet for 10 minutes.
-6 Amelia exited the closet and stayed in the waiting_room.
-7 Evelyn moved the asparagus to the blue_treasure_chest.
-8 Evelyn exited the closet and stayed in the waiting_room.
-9 Mila moved the asparagus to the red_envelope.
-10 Mila exited the closet and stayed in the waiting_room.
-11 Gracie moved the asparagus to the blue_basket.
-12 Gracie exited the closet and stayed in the waiting_room.
-13 Amelia, Mila and Jack entered the hall.
-14 The banana is in the blue_bathtub.
-15 Amelia moved the banana to the red_drawer.
-16 Amelia exited the hall and stayed in the waiting_room.
-17 Mila moved the banana to the blue_drawer.
-18 Mila exited the hall and stayed in the waiting_room.
-19 Jack moved the banana to the blue_suitcase.
-20 Jack exited the hall and stayed in the waiting_room.
-21 Gracie, Jack, Amelia and Evelyn entered the study.
-22 The cherry is in the green_bottle.
-23 Gracie moved the cherry to the red_bottle.
-24 Gracie exited the study and stayed in the waiting_room.
-25 Jack moved the cherry to the red_container.
-26 Jack exited the study and stayed in the waiting_room.
-27 Amelia moved the cherry to the green_envelope.
-28 Amelia exited the study and stayed in the waiting_room.
-29 Evelyn moved the cherry to the blue_bottle.
-30 Evelyn exited the study and stayed in the waiting_room.
-Question: Where is the asparagus really?
-Choices: A. green_suitcase, B. blue_basket, C. red_bucket, D. blue_treasure_chest, E. red_envelope, F. blue_bottle, G. green_bottle, H. green_envelope, I. red_container, J. red_bottle, K. blue_suitcase, L. blue_bathtub, M. blue_bucket, N. blue_drawer, O. red_drawer
+1 Jackson, Jacob, Ella, Charlotte and Liam entered the lounge.
+2 The corn is in the green_basket.
+3 Jackson moved the corn to the blue_envelope.
+4 Jackson exited the lounge and stayed in the waiting_room.
+5 Jacob moved the corn to the green_envelope.
+6 Jacob exited the lounge and stayed in the waiting_room.
+7 Ella made no movements and stayed in the lounge for 10 minutes.
+8 Ella exited the lounge and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the lounge for 10 minutes.
+10 Charlotte exited the lounge and stayed in the waiting_room.
+11 Liam moved the corn to the green_basket.
+12 Liam exited the lounge and stayed in the waiting_room.
+13 Jackson, Charlotte and Jacob entered the cellar.
+14 The pineapple is in the green_suitcase.
+15 Jackson made no movements and stayed in the cellar for 10 minutes.
+16 Jackson exited the cellar and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the cellar for 10 minutes.
+18 Charlotte exited the cellar and stayed in the waiting_room.
+19 Jacob made no movements and stayed in the cellar for 10 minutes.
+20 Jacob exited the cellar and stayed in the waiting_room.
+21 Jackson, Charlotte, Liam and Jacob entered the lounge.
+22 Ella likes the red_envelope.
+23 The corn is in the green_basket.
+24 Jackson made no movements and stayed in the lounge for 10 minutes.
+25 Jackson exited the lounge and stayed in the waiting_room.
+26 Charlotte moved the corn to the red_envelope.
+27 Charlotte exited the lounge and stayed in the waiting_room.
+28 Liam made no movements and stayed in the lounge for 10 minutes.
+29 Liam exited the lounge and stayed in the waiting_room.
+30 Jacob moved the corn to the blue_envelope.
+31 Jacob exited the lounge and stayed in the waiting_room.
+Question: Where is the corn really?
+Choices: A. red_envelope, B. green_basket, C. blue_envelope, D. green_box, E. green_envelope, F. green_suitcase, G. red_bucket, H. blue_cupboard, I. blue_crate, J. red_basket, K. green_bucket, L. red_bathtub, M. blue_bucket, N. green_bottle, O. blue_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

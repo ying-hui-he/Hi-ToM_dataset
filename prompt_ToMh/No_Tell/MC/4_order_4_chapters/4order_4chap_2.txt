@@ -1,41 +1,46 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Benjamin, Emma, Carter and Abigail entered the attic.
-2 The spinach is in the green_treasure_chest.
-3 Gracie moved the spinach to the blue_treasure_chest.
-4 Gracie exited the attic and stayed in the waiting_room.
-5 Benjamin moved the spinach to the green_cupboard.
-6 Benjamin exited the attic and stayed in the waiting_room.
-7 Emma made no movements and stayed in the attic for 10 minutes.
-8 Emma exited the attic and stayed in the waiting_room.
-9 Carter moved the spinach to the blue_crate.
-10 Carter exited the attic and stayed in the waiting_room.
-11 Abigail moved the spinach to the green_treasure_chest.
-12 Abigail exited the attic and stayed in the waiting_room.
-13 Carter, Abigail and Emma entered the attic.
-14 The pineapple is in the blue_crate.
-15 Carter made no movements and stayed in the attic for 10 minutes.
-16 Carter exited the attic and stayed in the waiting_room.
-17 Abigail made no movements and stayed in the attic for 10 minutes.
-18 Abigail exited the attic and stayed in the waiting_room.
-19 Emma moved the pineapple to the blue_box.
-20 Emma exited the attic and stayed in the waiting_room.
-21 Benjamin, Gracie, Carter and Emma entered the sunroom.
-22 The plum is in the red_crate.
-23 Benjamin made no movements and stayed in the sunroom for 10 minutes.
-24 Benjamin exited the sunroom and stayed in the waiting_room.
-25 Gracie moved the plum to the blue_bottle.
-26 Gracie exited the sunroom and stayed in the waiting_room.
-27 Carter made no movements and stayed in the sunroom for 10 minutes.
-28 Carter exited the sunroom and stayed in the waiting_room.
-29 Emma moved the plum to the red_bucket.
-30 Emma exited the sunroom and stayed in the waiting_room.
-31 Gracie and Benjamin entered the sunroom.
-32 The plum is in the red_bucket.
-33 Gracie moved the plum to the red_treasure_chest.
-34 Gracie exited the sunroom and stayed in the waiting_room.
-35 Benjamin moved the plum to the red_crate.
-36 Benjamin exited the sunroom and stayed in the waiting_room.
-Question: Where does Emma think Gracie thinks Benjamin thinks Carter thinks the spinach is?
-Choices: A. green_bottle, B. green_container, C. blue_bathtub, D. green_envelope, E. green_suitcase, F. green_treasure_chest, G. blue_crate, H. blue_box, I. green_cupboard, J. blue_treasure_chest, K. red_crate, L. red_drawer, M. red_bucket, N. blue_bottle, O. red_treasure_chest
+1 Mila likes the red_bathtub.
+2 Liam, Mila, Owen, Gracie and Logan entered the dining_room.
+3 The apple is in the red_bucket.
+4 Mila dislikes the tomato.
+5 Liam made no movements and stayed in the dining_room for 10 minutes.
+6 Liam exited the dining_room and stayed in the waiting_room.
+7 Mila moved the apple to the green_box.
+8 Mila exited the dining_room and stayed in the waiting_room.
+9 Owen moved the apple to the red_basket.
+10 Logan dislikes the lettuce.
+11 Owen exited the dining_room and stayed in the waiting_room.
+12 Gracie moved the apple to the green_bathtub.
+13 Gracie exited the dining_room and stayed in the waiting_room.
+14 Logan made no movements and stayed in the dining_room for 10 minutes.
+15 Logan exited the dining_room and stayed in the waiting_room.
+16 Owen, Mila and Liam entered the dining_room.
+17 Liam likes the red_box.
+18 The apple is in the green_bathtub.
+19 Owen made no movements and stayed in the dining_room for 10 minutes.
+20 Owen exited the dining_room and stayed in the waiting_room.
+21 Mila moved the apple to the red_bucket.
+22 Mila exited the dining_room and stayed in the waiting_room.
+23 Liam moved the apple to the red_basket.
+24 Liam exited the dining_room and stayed in the waiting_room.
+25 Liam, Owen, Mila and Logan entered the dining_room.
+26 The banana is in the red_basket.
+27 Liam moved the banana to the red_bathtub.
+28 Gracie saw a dog.
+29 Liam exited the dining_room and stayed in the waiting_room.
+30 Owen moved the banana to the green_bathtub.
+31 Owen exited the dining_room and stayed in the waiting_room.
+32 Mila made no movements and stayed in the dining_room for 10 minutes.
+33 Mila exited the dining_room and stayed in the waiting_room.
+34 Logan made no movements and stayed in the dining_room for 10 minutes.
+35 Logan exited the dining_room and stayed in the waiting_room.
+36 Logan and Gracie entered the cellar.
+37 The tomato is in the green_bucket.
+38 Logan made no movements and stayed in the cellar for 10 minutes.
+39 Logan exited the cellar and stayed in the waiting_room.
+40 Gracie made no movements and stayed in the cellar for 10 minutes.
+41 Gracie exited the cellar and stayed in the waiting_room.
+Question: Where does Owen think Logan thinks Mila thinks Gracie thinks the apple is?
+Choices: A. red_container, B. red_pantry, C. red_cupboard, D. red_envelope, E. green_suitcase, F. green_cupboard, G. green_bucket, H. blue_cupboard, I. red_treasure_chest, J. red_box, K. red_basket, L. red_bucket, M. green_bathtub, N. red_bathtub, O. green_box
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

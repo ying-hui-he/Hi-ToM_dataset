@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 William, Olivia, Jacob, Hannah and Charlotte entered the bedroom.
-2 The lemon is in the green_crate.
-3 William made no movements and stayed in the bedroom for 10 minutes.
-4 William exited the bedroom and stayed in the waiting_room.
-5 Olivia made no movements and stayed in the bedroom for 10 minutes.
-6 Olivia exited the bedroom and stayed in the waiting_room.
-7 Jacob moved the lemon to the green_bottle.
-8 Jacob exited the bedroom and stayed in the waiting_room.
-9 Hannah moved the lemon to the blue_suitcase.
-10 Hannah exited the bedroom and stayed in the waiting_room.
-11 Charlotte moved the lemon to the green_crate.
-12 Charlotte exited the bedroom and stayed in the waiting_room.
-13 Jacob, Charlotte and Hannah entered the crawlspace.
-14 The potato is in the blue_crate.
-15 Jacob made no movements and stayed in the crawlspace for 10 minutes.
-16 Jacob exited the crawlspace and stayed in the waiting_room.
-17 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
-18 Charlotte exited the crawlspace and stayed in the waiting_room.
-19 Hannah moved the potato to the blue_pantry.
-20 Hannah exited the crawlspace and stayed in the waiting_room.
-21 Charlotte publicly claimed that potato is in the blue_crate.
-22 Hannah privately told Charlotte that the potato is actually in the green_container.
-Question: Where is the lemon really?
-Answer: green_crate
-Choices: A. blue_bucket, B. blue_drawer, C. red_bottle, D. red_crate, E. blue_box, F. blue_crate, G. green_suitcase, H. blue_pantry, I. red_suitcase, J. green_container, K. green_bottle, L. green_crate, M. red_bucket, N. blue_suitcase, O. blue_basket
+1 Owen, Sophia, Logan, Mila and Nathan entered the lounge.
+2 The cucumber is in the green_treasure_chest.
+3 Owen moved the cucumber to the red_crate.
+4 Owen exited the lounge and stayed in the waiting_room.
+5 Sophia made no movements and stayed in the lounge for 10 minutes.
+6 Sophia exited the lounge and stayed in the waiting_room.
+7 Mila dislikes the radish.
+8 Logan moved the cucumber to the red_treasure_chest.
+9 Logan exited the lounge and stayed in the waiting_room.
+10 Mila moved the cucumber to the green_bottle.
+11 Mila exited the lounge and stayed in the waiting_room.
+12 Nathan made no movements and stayed in the lounge for 10 minutes.
+13 Nathan exited the lounge and stayed in the waiting_room.
+14 Owen, Mila and Nathan entered the lounge.
+15 The cucumber is in the green_bottle.
+16 Owen moved the cucumber to the red_pantry.
+17 Owen exited the lounge and stayed in the waiting_room.
+18 Mila made no movements and stayed in the lounge for 10 minutes.
+19 Mila exited the lounge and stayed in the waiting_room.
+20 Nathan moved the cucumber to the red_treasure_chest.
+21 Nathan exited the lounge and stayed in the waiting_room.
+22 Mila publicly claimed that cucumber is in the red_crate.
+23 Nathan privately told Mila that the cucumber is actually in the green_bottle.
+Question: Where is the cucumber really?
+Answer: red_treasure_chest
+Choices: A. green_treasure_chest, B. red_pantry, C. green_bottle, D. red_crate, E. red_treasure_chest, F. green_envelope, G. blue_suitcase, H. red_box, I. blue_bottle, J. red_container, K. red_bottle, L. red_envelope, M. green_cupboard, N. red_cupboard, O. blue_envelope

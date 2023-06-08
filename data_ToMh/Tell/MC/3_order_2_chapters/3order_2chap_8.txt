@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, Isla, Oliver, Jacob and James entered the attic.
-2 The corn is in the green_container.
-3 Jayden moved the corn to the blue_basket.
-4 Jayden exited the attic and stayed in the waiting_room.
-5 Isla made no movements and stayed in the attic for 10 minutes.
-6 Isla exited the attic and stayed in the waiting_room.
-7 Oliver moved the corn to the blue_bottle.
-8 Oliver exited the attic and stayed in the waiting_room.
-9 Jacob moved the corn to the blue_crate.
-10 Jacob exited the attic and stayed in the waiting_room.
-11 James made no movements and stayed in the attic for 10 minutes.
-12 James exited the attic and stayed in the waiting_room.
-13 James, Isla and Jayden entered the laundry.
-14 The strawberry is in the green_bathtub.
-15 James made no movements and stayed in the laundry for 10 minutes.
-16 James exited the laundry and stayed in the waiting_room.
-17 Isla moved the strawberry to the red_bathtub.
-18 Isla exited the laundry and stayed in the waiting_room.
-19 Jayden moved the strawberry to the blue_box.
-20 Jayden exited the laundry and stayed in the waiting_room.
-21 Isla publicly claimed that strawberry is in the blue_box.
-22 Jayden privately told Isla that the strawberry is actually in the green_bathtub.
-Question: Where does Oliver think Jayden thinks James thinks the corn is?
-Answer: None
-Choices: A. blue_crate, B. green_container, C. blue_bottle, D. blue_basket, E. blue_bathtub, F. red_bathtub, G. green_bathtub, H. red_bottle, I. blue_box, J. green_treasure_chest, K. red_crate, L. red_bucket, M. blue_container, N. red_drawer, O. red_container
+1 Isla, Jack, Owen, Mila and Aiden entered the pantry.
+2 The radish is in the blue_bucket.
+3 Isla made no movements and stayed in the pantry for 10 minutes.
+4 Isla exited the pantry and stayed in the waiting_room.
+5 Jack made no movements and stayed in the pantry for 10 minutes.
+6 Jack lost his phone.
+7 Jack exited the pantry and stayed in the waiting_room.
+8 Owen moved the radish to the green_bathtub.
+9 Owen likes the green_bathtub.
+10 Owen exited the pantry and stayed in the waiting_room.
+11 Mila moved the radish to the red_pantry.
+12 Mila exited the pantry and stayed in the waiting_room.
+13 Aiden made no movements and stayed in the pantry for 10 minutes.
+14 Jack saw a monkey.
+15 Aiden exited the pantry and stayed in the waiting_room.
+16 Isla, Aiden and Jack entered the hall.
+17 The cabbage is in the green_bucket.
+18 Isla moved the cabbage to the green_cupboard.
+19 Isla exited the hall and stayed in the waiting_room.
+20 Aiden moved the cabbage to the blue_treasure_chest.
+21 Aiden exited the hall and stayed in the waiting_room.
+22 Jack made no movements and stayed in the hall for 10 minutes.
+23 Jack exited the hall and stayed in the waiting_room.
+24 Jack publicly claimed that cabbage is in the blue_treasure_chest.
+25 Isla privately told Jack that the cabbage is actually in the green_cupboard.
+Question: Where does Isla think Jack thinks Aiden thinks the radish is?
+Answer: blue_bucket
+Choices: A. green_cupboard, B. green_bucket, C. blue_treasure_chest, D. red_envelope, E. green_suitcase, F. blue_bucket, G. blue_drawer, H. red_pantry, I. green_box, J. green_bathtub, K. red_treasure_chest, L. blue_cupboard, M. blue_crate, N. red_bathtub, O. blue_bottle

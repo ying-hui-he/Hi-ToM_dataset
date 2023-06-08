@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Aria, Jacob, Benjamin and Isla entered the staircase.
-2 The grapefruit is in the blue_pantry.
-3 Abigail moved the grapefruit to the green_suitcase.
-4 Abigail exited the staircase and stayed in the waiting_room.
-5 Aria made no movements and stayed in the staircase for 10 minutes.
-6 Aria exited the staircase and stayed in the waiting_room.
-7 Jacob made no movements and stayed in the staircase for 10 minutes.
-8 Jacob exited the staircase and stayed in the waiting_room.
-9 Benjamin made no movements and stayed in the staircase for 10 minutes.
-10 Benjamin exited the staircase and stayed in the waiting_room.
-11 Isla made no movements and stayed in the staircase for 10 minutes.
-12 Isla exited the staircase and stayed in the waiting_room.
-13 Jacob publicly claimed that grapefruit is in the blue_basket.
-14 Isla privately told Jacob that the grapefruit is actually in the green_suitcase.
-15 Abigail, Aria and Benjamin entered the laundry.
-16 The persimmon is in the blue_envelope.
-17 Abigail made no movements and stayed in the laundry for 10 minutes.
-18 Abigail exited the laundry and stayed in the waiting_room.
-19 Aria made no movements and stayed in the laundry for 10 minutes.
-20 Aria exited the laundry and stayed in the waiting_room.
-21 Benjamin made no movements and stayed in the laundry for 10 minutes.
-22 Benjamin exited the laundry and stayed in the waiting_room.
-23 Isla, Benjamin, Aria and Jacob entered the lounge.
-24 The beans is in the red_container.
-25 Isla moved the beans to the green_envelope.
-26 Isla exited the lounge and stayed in the waiting_room.
-27 Benjamin moved the beans to the blue_bucket.
-28 Benjamin exited the lounge and stayed in the waiting_room.
-29 Aria made no movements and stayed in the lounge for 10 minutes.
-30 Aria exited the lounge and stayed in the waiting_room.
-31 Jacob made no movements and stayed in the lounge for 10 minutes.
-32 Jacob exited the lounge and stayed in the waiting_room.
-33 Isla publicly claimed that beans is in the green_envelope.
-34 Jacob privately told Abigail that the beans is actually in the blue_bucket.
-Question: Where does Abigail think Aria thinks Jacob thinks the grapefruit is?
-Choices: A. blue_drawer, B. blue_envelope, C. red_envelope, D. blue_treasure_chest, E. blue_container, F. blue_pantry, G. blue_basket, H. green_suitcase, I. blue_suitcase, J. green_cupboard, K. red_container, L. green_envelope, M. blue_bucket, N. green_bottle, O. red_bathtub
+1 Emily lost his phone.
+2 Aiden, Emma, Jackson, Emily and Owen entered the kitchen.
+3 The peach is in the red_container.
+4 Aiden made no movements and stayed in the kitchen for 10 minutes.
+5 Aiden exited the kitchen and stayed in the waiting_room.
+6 Emma made no movements and stayed in the kitchen for 10 minutes.
+7 Emma exited the kitchen and stayed in the waiting_room.
+8 Jackson made no movements and stayed in the kitchen for 10 minutes.
+9 Jackson exited the kitchen and stayed in the waiting_room.
+10 Jackson likes the blue_treasure_chest.
+11 Emily made no movements and stayed in the kitchen for 10 minutes.
+12 Emily exited the kitchen and stayed in the waiting_room.
+13 Owen made no movements and stayed in the kitchen for 10 minutes.
+14 Owen exited the kitchen and stayed in the waiting_room.
+15 Jackson publicly claimed that peach is in the red_pantry.
+16 Owen privately told Jackson that the peach is actually in the blue_cupboard.
+17 Aiden, Emma and Emily entered the kitchen.
+18 The tomato is in the red_pantry.
+19 Aiden made no movements and stayed in the kitchen for 10 minutes.
+20 Aiden exited the kitchen and stayed in the waiting_room.
+21 Emma made no movements and stayed in the kitchen for 10 minutes.
+22 Emma exited the kitchen and stayed in the waiting_room.
+23 Emily made no movements and stayed in the kitchen for 10 minutes.
+24 Emily exited the kitchen and stayed in the waiting_room.
+25 Jackson, Emma, Owen and Emily entered the front_yard.
+26 The peas is in the green_envelope.
+27 Jackson made no movements and stayed in the front_yard for 10 minutes.
+28 Jackson exited the front_yard and stayed in the waiting_room.
+29 Emma moved the peas to the blue_suitcase.
+30 Emma exited the front_yard and stayed in the waiting_room.
+31 Owen made no movements and stayed in the front_yard for 10 minutes.
+32 Owen exited the front_yard and stayed in the waiting_room.
+33 Jackson dislikes the cabbage.
+34 Emily moved the peas to the green_box.
+35 Emily exited the front_yard and stayed in the waiting_room.
+36 Owen publicly claimed that peas is in the green_box.
+37 Emma likes the green_pantry.
+38 Jackson privately told Emily that the peas is actually in the blue_crate.
+Question: Where does Owen think Emily thinks Emma thinks the peach is?
+Choices: A. red_pantry, B. red_container, C. blue_cupboard, D. green_bucket, E. red_bucket, F. red_envelope, G. green_pantry, H. blue_bucket, I. blue_treasure_chest, J. red_box, K. green_envelope, L. green_box, M. blue_crate, N. red_crate, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

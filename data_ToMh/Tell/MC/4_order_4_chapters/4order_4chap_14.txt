@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Carter, Logan, Noah and Jacob entered the sunroom.
-2 The spinach is in the red_suitcase.
-3 Olivia made no movements and stayed in the sunroom for 10 minutes.
-4 Olivia exited the sunroom and stayed in the waiting_room.
-5 Carter made no movements and stayed in the sunroom for 10 minutes.
-6 Carter exited the sunroom and stayed in the waiting_room.
-7 Logan moved the spinach to the red_drawer.
-8 Logan exited the sunroom and stayed in the waiting_room.
-9 Noah moved the spinach to the green_crate.
-10 Noah exited the sunroom and stayed in the waiting_room.
-11 Jacob moved the spinach to the red_suitcase.
-12 Jacob exited the sunroom and stayed in the waiting_room.
-13 Carter, Logan and Jacob entered the sunroom.
-14 The melon is in the red_envelope.
-15 Carter moved the melon to the red_suitcase.
-16 Carter exited the sunroom and stayed in the waiting_room.
-17 Logan moved the melon to the red_crate.
-18 Logan exited the sunroom and stayed in the waiting_room.
-19 Jacob moved the melon to the green_crate.
-20 Jacob exited the sunroom and stayed in the waiting_room.
-21 Logan publicly claimed that melon is in the green_crate.
-22 Jacob privately told Logan that the melon is actually in the red_envelope.
-23 Noah, Olivia, Logan and Jacob entered the TV_room.
-24 The peach is in the red_bucket.
-25 Noah made no movements and stayed in the TV_room for 10 minutes.
-26 Noah exited the TV_room and stayed in the waiting_room.
-27 Olivia moved the peach to the green_treasure_chest.
-28 Olivia exited the TV_room and stayed in the waiting_room.
-29 Logan made no movements and stayed in the TV_room for 10 minutes.
-30 Logan exited the TV_room and stayed in the waiting_room.
-31 Jacob made no movements and stayed in the TV_room for 10 minutes.
-32 Jacob exited the TV_room and stayed in the waiting_room.
-33 Noah and Jacob entered the sunroom.
-34 The melon is in the green_crate.
-35 Noah made no movements and stayed in the sunroom for 10 minutes.
-36 Noah exited the sunroom and stayed in the waiting_room.
-37 Jacob moved the melon to the red_suitcase.
-38 Jacob exited the sunroom and stayed in the waiting_room.
-39 Jacob publicly claimed that melon is in the red_drawer.
-40 Noah privately told Jacob that the melon is actually in the red_crate.
-Question: Where does Logan think Noah thinks Jacob thinks Olivia thinks the spinach is?
+1 Emma, Nathan, Jacob, Isabella and Jack entered the crawlspace.
+2 The melon is in the blue_suitcase.
+3 Emma made no movements and stayed in the crawlspace for 10 minutes.
+4 Emma exited the crawlspace and stayed in the waiting_room.
+5 Nathan made no movements and stayed in the crawlspace for 10 minutes.
+6 Nathan exited the crawlspace and stayed in the waiting_room.
+7 Jacob made no movements and stayed in the crawlspace for 10 minutes.
+8 Jacob exited the crawlspace and stayed in the waiting_room.
+9 Isabella made no movements and stayed in the crawlspace for 10 minutes.
+10 Isabella exited the crawlspace and stayed in the waiting_room.
+11 Jack made no movements and stayed in the crawlspace for 10 minutes.
+12 Jack exited the crawlspace and stayed in the waiting_room.
+13 Isabella, Nathan and Jack entered the crawlspace.
+14 The apple is in the green_cupboard.
+15 Isabella made no movements and stayed in the crawlspace for 10 minutes.
+16 Isabella exited the crawlspace and stayed in the waiting_room.
+17 Nathan made no movements and stayed in the crawlspace for 10 minutes.
+18 Nathan exited the crawlspace and stayed in the waiting_room.
+19 Jack moved the apple to the red_treasure_chest.
+20 Jack exited the crawlspace and stayed in the waiting_room.
+21 Nathan publicly claimed that apple is in the red_box.
+22 Jack privately told Nathan that the apple is actually in the green_cupboard.
+23 Isabella, Emma, Nathan and Jacob entered the living_room.
+24 The eggplant is in the red_cupboard.
+25 Isabella moved the eggplant to the green_pantry.
+26 Isabella exited the living_room and stayed in the waiting_room.
+27 Emma moved the eggplant to the green_bottle.
+28 Emma exited the living_room and stayed in the waiting_room.
+29 Nathan moved the eggplant to the green_bathtub.
+30 Nathan exited the living_room and stayed in the waiting_room.
+31 Jacob made no movements and stayed in the living_room for 10 minutes.
+32 Jacob exited the living_room and stayed in the waiting_room.
+33 Emma and Jack entered the living_room.
+34 The corn is in the green_bottle.
+35 Nathan dislikes the eggplant.
+36 Emma moved the corn to the red_cupboard.
+37 Emma exited the living_room and stayed in the waiting_room.
+38 Jack moved the corn to the green_bucket.
+39 Emma likes the blue_envelope.
+40 Jack exited the living_room and stayed in the waiting_room.
+41 Emma publicly claimed that corn is in the red_cupboard.
+42 Jack privately told Emma that the corn is actually in the green_bathtub.
+Question: Where does Isabella think Jack thinks Emma thinks Jacob thinks the melon is?
 Answer: None
-Choices: A. red_container, B. red_bucket, C. blue_pantry, D. blue_bathtub, E. green_treasure_chest, F. blue_crate, G. green_envelope, H. blue_bucket, I. green_bottle, J. green_cupboard, K. red_envelope, L. red_suitcase, M. red_crate, N. red_drawer, O. green_crate
+Choices: A. red_envelope, B. red_crate, C. blue_treasure_chest, D. red_bottle, E. green_treasure_chest, F. green_cupboard, G. blue_suitcase, H. blue_envelope, I. red_treasure_chest, J. red_box, K. green_bottle, L. red_cupboard, M. green_bathtub, N. green_bucket, O. green_pantry

@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Carter, Ava, Charlotte and Hannah entered the hall.
-2 The orange is in the red_suitcase.
-3 Evelyn made no movements and stayed in the hall for 10 minutes.
-4 Evelyn exited the hall and stayed in the waiting_room.
-5 Carter made no movements and stayed in the hall for 10 minutes.
-6 Carter exited the hall and stayed in the waiting_room.
-7 Ava moved the orange to the blue_envelope.
-8 Ava exited the hall and stayed in the waiting_room.
-9 Charlotte made no movements and stayed in the hall for 10 minutes.
-10 Charlotte exited the hall and stayed in the waiting_room.
-11 Hannah made no movements and stayed in the hall for 10 minutes.
-12 Hannah exited the hall and stayed in the waiting_room.
-13 Hannah, Ava and Evelyn entered the attic.
-14 The beans is in the red_bathtub.
-15 Hannah moved the beans to the green_suitcase.
-16 Hannah exited the attic and stayed in the waiting_room.
-17 Ava moved the beans to the blue_container.
-18 Ava exited the attic and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the attic for 10 minutes.
-20 Evelyn exited the attic and stayed in the waiting_room.
-21 Charlotte, Carter, Hannah and Evelyn entered the attic.
-22 The cherry is in the blue_crate.
-23 Charlotte moved the cherry to the blue_container.
-24 Charlotte exited the attic and stayed in the waiting_room.
-25 Carter made no movements and stayed in the attic for 10 minutes.
-26 Carter exited the attic and stayed in the waiting_room.
-27 Hannah moved the cherry to the green_suitcase.
-28 Hannah exited the attic and stayed in the waiting_room.
-29 Evelyn moved the cherry to the red_bathtub.
-30 Evelyn exited the attic and stayed in the waiting_room.
-31 Hannah and Charlotte entered the hall.
-32 The tomato is in the blue_envelope.
-33 Hannah made no movements and stayed in the hall for 10 minutes.
-34 Hannah exited the hall and stayed in the waiting_room.
-35 Charlotte moved the tomato to the red_crate.
-36 Charlotte exited the hall and stayed in the waiting_room.
-Question: Where does Charlotte think Ava thinks Evelyn thinks Carter thinks the orange is?
-Choices: A. blue_envelope, B. red_suitcase, C. red_crate, D. blue_pantry, E. red_bottle, F. green_envelope, G. red_envelope, H. green_container, I. blue_treasure_chest, J. blue_suitcase, K. red_bathtub, L. blue_crate, M. green_suitcase, N. blue_container, O. red_treasure_chest
+1 Gracie, Abigail, Isabella, Hannah and Ella entered the hallway.
+2 The melon is in the green_pantry.
+3 Gracie moved the melon to the red_bathtub.
+4 Gracie exited the hallway and stayed in the waiting_room.
+5 Abigail moved the melon to the red_treasure_chest.
+6 Abigail exited the hallway and stayed in the waiting_room.
+7 Isabella moved the melon to the green_bathtub.
+8 Isabella exited the hallway and stayed in the waiting_room.
+9 Hannah moved the melon to the green_box.
+10 Abigail dislikes the tangerine.
+11 Hannah exited the hallway and stayed in the waiting_room.
+12 Ella moved the melon to the green_pantry.
+13 Ella exited the hallway and stayed in the waiting_room.
+14 Ella, Gracie and Isabella entered the front_yard.
+15 The grapefruit is in the blue_bathtub.
+16 Ella moved the grapefruit to the blue_drawer.
+17 Ella exited the front_yard and stayed in the waiting_room.
+18 Gracie moved the grapefruit to the green_treasure_chest.
+19 Gracie exited the front_yard and stayed in the waiting_room.
+20 Isabella made no movements and stayed in the front_yard for 10 minutes.
+21 Isabella exited the front_yard and stayed in the waiting_room.
+22 Abigail, Isabella, Hannah and Ella entered the hallway.
+23 The pineapple is in the red_treasure_chest.
+24 Abigail made no movements and stayed in the hallway for 10 minutes.
+25 Abigail lost his bottle.
+26 Abigail exited the hallway and stayed in the waiting_room.
+27 Isabella made no movements and stayed in the hallway for 10 minutes.
+28 Abigail likes the green_bathtub.
+29 Isabella exited the hallway and stayed in the waiting_room.
+30 Hannah moved the pineapple to the green_pantry.
+31 Hannah exited the hallway and stayed in the waiting_room.
+32 Ella moved the pineapple to the green_box.
+33 Ella exited the hallway and stayed in the waiting_room.
+34 Ella and Hannah entered the hallway.
+35 The pineapple is in the green_box.
+36 Ella moved the pineapple to the green_pantry.
+37 Ella exited the hallway and stayed in the waiting_room.
+38 Hannah made no movements and stayed in the hallway for 10 minutes.
+39 Hannah exited the hallway and stayed in the waiting_room.
+40 Isabella saw a monkey.
+Question: Where does Hannah think Gracie thinks Isabella thinks Abigail thinks the melon is?
+Choices: A. green_treasure_chest, B. blue_bathtub, C. green_envelope, D. red_envelope, E. blue_drawer, F. green_pantry, G. red_treasure_chest, H. red_bathtub, I. green_bathtub, J. green_box, K. blue_bottle, L. blue_treasure_chest, M. red_bucket, N. red_pantry, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

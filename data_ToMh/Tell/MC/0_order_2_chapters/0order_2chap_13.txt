@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Charlotte, Amelia, Noah and Logan entered the workshop.
-2 The potato is in the red_drawer.
-3 Mila made no movements and stayed in the workshop for 10 minutes.
-4 Mila exited the workshop and stayed in the waiting_room.
-5 Charlotte made no movements and stayed in the workshop for 10 minutes.
-6 Charlotte exited the workshop and stayed in the waiting_room.
-7 Amelia moved the potato to the red_suitcase.
-8 Amelia exited the workshop and stayed in the waiting_room.
-9 Noah made no movements and stayed in the workshop for 10 minutes.
-10 Noah exited the workshop and stayed in the waiting_room.
-11 Logan made no movements and stayed in the workshop for 10 minutes.
-12 Logan exited the workshop and stayed in the waiting_room.
-13 Amelia, Logan and Charlotte entered the laundry.
-14 The banana is in the blue_box.
-15 Amelia moved the banana to the green_container.
-16 Amelia exited the laundry and stayed in the waiting_room.
-17 Logan made no movements and stayed in the laundry for 10 minutes.
-18 Logan exited the laundry and stayed in the waiting_room.
-19 Charlotte made no movements and stayed in the laundry for 10 minutes.
-20 Charlotte exited the laundry and stayed in the waiting_room.
-21 Logan privately told Charlotte that the banana is actually in the blue_box.
-22 Charlotte privately told Mila that the banana is actually in the green_container.
-Question: Where is the potato really?
-Answer: red_suitcase
-Choices: A. green_bathtub, B. red_drawer, C. red_suitcase, D. green_crate, E. blue_envelope, F. blue_box, G. blue_treasure_chest, H. blue_crate, I. green_container, J. green_suitcase, K. blue_basket, L. blue_bathtub, M. green_envelope, N. red_envelope, O. red_crate
+1 Lucas, Carter, Mia, Aria and Mila entered the playroom.
+2 The broccoli is in the blue_bucket.
+3 Lucas moved the broccoli to the green_box.
+4 Lucas exited the playroom and stayed in the waiting_room.
+5 Carter moved the broccoli to the green_pantry.
+6 Carter exited the playroom and stayed in the waiting_room.
+7 Mia made no movements and stayed in the playroom for 10 minutes.
+8 Mia exited the playroom and stayed in the waiting_room.
+9 Aria made no movements and stayed in the playroom for 10 minutes.
+10 Aria exited the playroom and stayed in the waiting_room.
+11 Mila moved the broccoli to the blue_bucket.
+12 Mila exited the playroom and stayed in the waiting_room.
+13 Aria, Mia and Lucas entered the playroom.
+14 The peach is in the red_bathtub.
+15 Mia dislikes the peach.
+16 Aria made no movements and stayed in the playroom for 10 minutes.
+17 Aria exited the playroom and stayed in the waiting_room.
+18 Mia made no movements and stayed in the playroom for 10 minutes.
+19 Mia exited the playroom and stayed in the waiting_room.
+20 Lucas moved the peach to the blue_bucket.
+21 Lucas exited the playroom and stayed in the waiting_room.
+22 Mia publicly claimed that peach is in the blue_bucket.
+23 Lucas privately told Mia that the peach is actually in the green_pantry.
+24 Mila lost his watch.
+Question: Where is the broccoli really?
+Answer: blue_bucket
+Choices: A. blue_bucket, B. red_bathtub, C. green_pantry, D. green_box, E. blue_suitcase, F. green_cupboard, G. green_envelope, H. red_basket, I. red_treasure_chest, J. red_bottle, K. red_crate, L. green_bathtub, M. blue_crate, N. blue_bottle, O. blue_drawer

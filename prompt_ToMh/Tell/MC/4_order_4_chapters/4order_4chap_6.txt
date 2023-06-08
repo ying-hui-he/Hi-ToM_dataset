@@ -1,45 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aiden, Avery, Amelia, Emma and Logan entered the workshop.
-2 The orange is in the red_container.
-3 Aiden moved the orange to the green_container.
-4 Aiden exited the workshop and stayed in the waiting_room.
-5 Avery made no movements and stayed in the workshop for 10 minutes.
-6 Avery exited the workshop and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the workshop for 10 minutes.
-8 Amelia exited the workshop and stayed in the waiting_room.
-9 Emma made no movements and stayed in the workshop for 10 minutes.
-10 Emma exited the workshop and stayed in the waiting_room.
-11 Logan moved the orange to the red_container.
-12 Logan exited the workshop and stayed in the waiting_room.
-13 Amelia, Aiden and Avery entered the pantry.
-14 The tangerine is in the red_bucket.
-15 Amelia moved the tangerine to the green_suitcase.
-16 Amelia exited the pantry and stayed in the waiting_room.
-17 Aiden moved the tangerine to the red_basket.
-18 Aiden exited the pantry and stayed in the waiting_room.
-19 Avery made no movements and stayed in the pantry for 10 minutes.
-20 Avery exited the pantry and stayed in the waiting_room.
-21 Aiden privately told Avery that the tangerine is actually in the red_drawer.
-22 Avery privately told Logan that the tangerine is actually in the red_basket.
-23 Amelia, Avery, Emma and Logan entered the workshop.
-24 The orange is in the red_container.
-25 Amelia made no movements and stayed in the workshop for 10 minutes.
-26 Amelia exited the workshop and stayed in the waiting_room.
-27 Avery moved the orange to the green_container.
-28 Avery exited the workshop and stayed in the waiting_room.
-29 Emma made no movements and stayed in the workshop for 10 minutes.
-30 Emma exited the workshop and stayed in the waiting_room.
-31 Logan made no movements and stayed in the workshop for 10 minutes.
-32 Logan exited the workshop and stayed in the waiting_room.
-33 Emma and Avery entered the workshop.
-34 The onion is in the blue_box.
-35 Emma moved the onion to the red_container.
-36 Emma exited the workshop and stayed in the waiting_room.
-37 Avery moved the onion to the blue_basket.
-38 Avery exited the workshop and stayed in the waiting_room.
-39 Avery publicly claimed that onion is in the green_container.
-40 Emma privately told Avery that the onion is actually in the blue_box.
-Question: Where does Amelia think Avery thinks Aiden thinks Logan thinks the orange is?
-Choices: A. red_drawer, B. red_bucket, C. red_basket, D. green_suitcase, E. red_envelope, F. green_envelope, G. green_bathtub, H. blue_drawer, I. green_bottle, J. blue_bottle, K. blue_box, L. red_container, M. green_container, N. blue_treasure_chest, O. blue_basket
+1 Owen, Lucas, Amelia, Hannah and Emily entered the patio.
+2 The tomato is in the green_box.
+3 Owen made no movements and stayed in the patio for 10 minutes.
+4 Owen exited the patio and stayed in the waiting_room.
+5 Lucas made no movements and stayed in the patio for 10 minutes.
+6 Lucas exited the patio and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the patio for 10 minutes.
+8 Amelia exited the patio and stayed in the waiting_room.
+9 Hannah moved the tomato to the blue_treasure_chest.
+10 Hannah exited the patio and stayed in the waiting_room.
+11 Emily moved the tomato to the green_box.
+12 Emily exited the patio and stayed in the waiting_room.
+13 Lucas, Amelia and Hannah entered the dining_room.
+14 The corn is in the red_container.
+15 Lucas moved the corn to the blue_envelope.
+16 Lucas exited the dining_room and stayed in the waiting_room.
+17 Amelia moved the corn to the blue_crate.
+18 Amelia exited the dining_room and stayed in the waiting_room.
+19 Hannah moved the corn to the red_bathtub.
+20 Hannah exited the dining_room and stayed in the waiting_room.
+21 Amelia privately told Hannah that the corn is actually in the red_bathtub.
+22 Hannah privately told Owen that the corn is actually in the red_bathtub.
+23 Lucas, Amelia, Owen and Hannah entered the garden.
+24 The grapes is in the green_bucket.
+25 Lucas moved the grapes to the green_bottle.
+26 Lucas exited the garden and stayed in the waiting_room.
+27 Amelia made no movements and stayed in the garden for 10 minutes.
+28 Amelia exited the garden and stayed in the waiting_room.
+29 Owen made no movements and stayed in the garden for 10 minutes.
+30 Owen exited the garden and stayed in the waiting_room.
+31 Hannah moved the grapes to the green_basket.
+32 Hannah exited the garden and stayed in the waiting_room.
+33 Emily and Owen entered the garden.
+34 The grapes is in the green_basket.
+35 Emily made no movements and stayed in the garden for 10 minutes.
+36 Emily exited the garden and stayed in the waiting_room.
+37 Owen moved the grapes to the green_bottle.
+38 Hannah dislikes the strawberry.
+39 Owen exited the garden and stayed in the waiting_room.
+40 Emily privately told Lucas that the grapes is actually in the red_box.
+Question: Where does Owen think Hannah thinks Amelia thinks Lucas thinks the tomato is?
+Choices: A. red_container, B. blue_crate, C. red_bathtub, D. blue_envelope, E. red_pantry, F. green_box, G. blue_drawer, H. blue_treasure_chest, I. blue_bottle, J. blue_bathtub, K. green_basket, L. green_bucket, M. red_cupboard, N. red_box, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

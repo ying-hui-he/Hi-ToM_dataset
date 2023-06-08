@@ -1,45 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Carter, Owen, Evelyn and Aiden entered the garden.
-2 The lemon is in the red_bottle.
-3 Aria made no movements and stayed in the garden for 10 minutes.
-4 Aria exited the garden and stayed in the waiting_room.
-5 Carter moved the lemon to the red_bucket.
-6 Carter exited the garden and stayed in the waiting_room.
-7 Owen moved the lemon to the green_bathtub.
-8 Owen exited the garden and stayed in the waiting_room.
-9 Evelyn made no movements and stayed in the garden for 10 minutes.
-10 Evelyn exited the garden and stayed in the waiting_room.
-11 Aiden moved the lemon to the red_bottle.
-12 Aiden exited the garden and stayed in the waiting_room.
-13 Aria, Evelyn and Aiden entered the sunroom.
-14 The potato is in the green_suitcase.
-15 Aria made no movements and stayed in the sunroom for 10 minutes.
-16 Aria exited the sunroom and stayed in the waiting_room.
-17 Evelyn moved the potato to the red_crate.
-18 Evelyn exited the sunroom and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the sunroom for 10 minutes.
-20 Aiden exited the sunroom and stayed in the waiting_room.
-21 Aria publicly claimed that potato is in the blue_crate.
-22 Aiden privately told Carter that the potato is actually in the red_crate.
-23 Evelyn, Aiden, Aria and Carter entered the cellar.
-24 The strawberry is in the green_treasure_chest.
-25 Evelyn made no movements and stayed in the cellar for 10 minutes.
-26 Evelyn exited the cellar and stayed in the waiting_room.
-27 Aiden moved the strawberry to the green_container.
-28 Aiden exited the cellar and stayed in the waiting_room.
-29 Aria made no movements and stayed in the cellar for 10 minutes.
-30 Aria exited the cellar and stayed in the waiting_room.
-31 Carter moved the strawberry to the blue_bottle.
-32 Carter exited the cellar and stayed in the waiting_room.
-33 Evelyn and Aria entered the cellar.
-34 The strawberry is in the blue_bottle.
-35 Evelyn made no movements and stayed in the cellar for 10 minutes.
-36 Evelyn exited the cellar and stayed in the waiting_room.
-37 Aria moved the strawberry to the green_crate.
-38 Aria exited the cellar and stayed in the waiting_room.
-39 Aria publicly claimed that strawberry is in the blue_bottle.
-40 Evelyn privately told Aria that the strawberry is actually in the green_crate.
-Question: Where does Aria think Owen thinks the lemon is?
-Answer: red_bottle
-Choices: A. green_container, B. green_treasure_chest, C. green_bottle, D. green_crate, E. blue_bottle, F. red_bottle, G. blue_treasure_chest, H. red_bucket, I. blue_bathtub, J. green_bathtub, K. blue_crate, L. green_suitcase, M. red_container, N. red_suitcase, O. red_crate
+1 Carter, Mila, Abigail, Amelia and Owen entered the attic.
+2 The cucumber is in the green_basket.
+3 Carter moved the cucumber to the green_box.
+4 Carter exited the attic and stayed in the waiting_room.
+5 Mila made no movements and stayed in the attic for 10 minutes.
+6 Mila exited the attic and stayed in the waiting_room.
+7 Abigail moved the cucumber to the green_bucket.
+8 Abigail exited the attic and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the attic for 10 minutes.
+10 Amelia exited the attic and stayed in the waiting_room.
+11 Owen moved the cucumber to the green_basket.
+12 Mila lost his watch.
+13 Owen exited the attic and stayed in the waiting_room.
+14 Mila, Amelia and Owen entered the attic.
+15 The strawberry is in the green_pantry.
+16 Mila made no movements and stayed in the attic for 10 minutes.
+17 Mila exited the attic and stayed in the waiting_room.
+18 Amelia made no movements and stayed in the attic for 10 minutes.
+19 Abigail dislikes the cucumber.
+20 Amelia exited the attic and stayed in the waiting_room.
+21 Owen moved the strawberry to the red_bathtub.
+22 Owen exited the attic and stayed in the waiting_room.
+23 Mila publicly claimed that strawberry is in the green_basket.
+24 Owen privately told Abigail that the strawberry is actually in the red_bathtub.
+25 Abigail, Carter, Mila and Amelia entered the TV_room.
+26 The pineapple is in the green_bathtub.
+27 Abigail made no movements and stayed in the TV_room for 10 minutes.
+28 Abigail exited the TV_room and stayed in the waiting_room.
+29 Carter made no movements and stayed in the TV_room for 10 minutes.
+30 Carter exited the TV_room and stayed in the waiting_room.
+31 Mila moved the pineapple to the red_bucket.
+32 Mila exited the TV_room and stayed in the waiting_room.
+33 Amelia moved the pineapple to the red_crate.
+34 Abigail lost his watch.
+35 Amelia exited the TV_room and stayed in the waiting_room.
+36 Abigail and Owen entered the lounge.
+37 The beans is in the blue_bottle.
+38 Abigail saw a dog.
+39 Abigail moved the beans to the blue_envelope.
+40 Abigail exited the lounge and stayed in the waiting_room.
+41 Owen made no movements and stayed in the lounge for 10 minutes.
+42 Owen exited the lounge and stayed in the waiting_room.
+43 Abigail publicly claimed that beans is in the red_treasure_chest.
+44 Owen privately told Abigail that the beans is actually in the green_envelope.
+Question: Where does Amelia think Carter thinks the cucumber is?
+Answer: green_box
+Choices: A. green_pantry, B. green_basket, C. green_bucket, D. green_box, E. red_bathtub, F. blue_envelope, G. blue_bottle, H. red_box, I. green_envelope, J. red_treasure_chest, K. blue_drawer, L. green_bathtub, M. green_suitcase, N. red_bucket, O. red_crate

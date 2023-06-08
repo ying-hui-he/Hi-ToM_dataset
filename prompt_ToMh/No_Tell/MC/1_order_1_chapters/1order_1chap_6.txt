@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Gracie, Jacob, Aria and Avery entered the study.
-2 The pumpkin is in the green_bathtub.
-3 Logan made no movements and stayed in the study for 10 minutes.
-4 Logan exited the study and stayed in the waiting_room.
-5 Gracie moved the pumpkin to the green_crate.
-6 Gracie exited the study and stayed in the waiting_room.
-7 Jacob moved the pumpkin to the red_envelope.
-8 Jacob exited the study and stayed in the waiting_room.
-9 Aria moved the pumpkin to the red_bottle.
-10 Aria exited the study and stayed in the waiting_room.
-11 Avery moved the pumpkin to the green_bathtub.
-12 Avery exited the study and stayed in the waiting_room.
-Question: Where does Avery think the pumpkin is?
-Choices: A. blue_container, B. red_treasure_chest, C. red_crate, D. blue_treasure_chest, E. blue_crate, F. red_drawer, G. green_treasure_chest, H. blue_bottle, I. blue_bathtub, J. blue_bucket, K. green_bathtub, L. red_container, M. red_bottle, N. red_envelope, O. green_crate
+1 Hannah, Jayden, Aiden, Gracie and Abigail entered the garage.
+2 Hannah lost his bottle.
+3 The tangerine is in the blue_bottle.
+4 Hannah moved the tangerine to the green_envelope.
+5 Hannah exited the garage and stayed in the waiting_room.
+6 Jayden made no movements and stayed in the garage for 10 minutes.
+7 Jayden exited the garage and stayed in the waiting_room.
+8 Aiden moved the tangerine to the red_container.
+9 Aiden exited the garage and stayed in the waiting_room.
+10 Gracie made no movements and stayed in the garage for 10 minutes.
+11 Gracie exited the garage and stayed in the waiting_room.
+12 Abigail made no movements and stayed in the garage for 10 minutes.
+13 Abigail exited the garage and stayed in the waiting_room.
+14 Aiden lost his watch.
+Question: Where does Hannah think the tangerine is?
+Choices: A. blue_crate, B. red_bucket, C. green_bottle, D. blue_cupboard, E. red_treasure_chest, F. blue_drawer, G. red_envelope, H. red_bathtub, I. red_bottle, J. green_pantry, K. green_treasure_chest, L. blue_bottle, M. green_envelope, N. blue_treasure_chest, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

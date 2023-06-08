@@ -1,35 +1,36 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jack, Logan, Aiden, Ethan and Abigail entered the playroom.
-2 The turnip is in the green_crate.
-3 Jack made no movements and stayed in the playroom for 10 minutes.
-4 Jack exited the playroom and stayed in the waiting_room.
-5 Logan moved the turnip to the blue_container.
-6 Logan exited the playroom and stayed in the waiting_room.
-7 Aiden moved the turnip to the red_bathtub.
-8 Aiden exited the playroom and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the playroom for 10 minutes.
-10 Ethan exited the playroom and stayed in the waiting_room.
-11 Abigail moved the turnip to the green_crate.
-12 Abigail exited the playroom and stayed in the waiting_room.
-13 Jack, Logan and Aiden entered the TV_room.
-14 The melon is in the green_cupboard.
-15 Jack moved the melon to the red_envelope.
-16 Jack exited the TV_room and stayed in the waiting_room.
-17 Logan moved the melon to the blue_pantry.
-18 Logan exited the TV_room and stayed in the waiting_room.
-19 Aiden moved the melon to the red_container.
-20 Aiden exited the TV_room and stayed in the waiting_room.
-21 Ethan, Aiden, Abigail and Logan entered the study.
-22 The beans is in the red_drawer.
-23 Ethan moved the beans to the green_container.
-24 Ethan exited the study and stayed in the waiting_room.
-25 Aiden made no movements and stayed in the study for 10 minutes.
-26 Aiden exited the study and stayed in the waiting_room.
-27 Abigail made no movements and stayed in the study for 10 minutes.
-28 Abigail exited the study and stayed in the waiting_room.
-29 Logan moved the beans to the red_bottle.
-30 Logan exited the study and stayed in the waiting_room.
-Question: Where is the turnip really?
-Choices: A. red_bathtub, B. green_crate, C. red_suitcase, D. green_suitcase, E. blue_container, F. green_cupboard, G. blue_pantry, H. red_container, I. red_envelope, J. blue_bathtub, K. red_drawer, L. blue_bottle, M. blue_bucket, N. green_container, O. red_bottle
+1 Charlotte, Gracie, Abigail, Mason and Jacob entered the office.
+2 The lettuce is in the green_envelope.
+3 Charlotte moved the lettuce to the blue_envelope.
+4 Charlotte exited the office and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the office for 10 minutes.
+6 Gracie exited the office and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the office for 10 minutes.
+8 Abigail exited the office and stayed in the waiting_room.
+9 Mason moved the lettuce to the green_box.
+10 Mason exited the office and stayed in the waiting_room.
+11 Jacob moved the lettuce to the green_envelope.
+12 Jacob exited the office and stayed in the waiting_room.
+13 Abigail, Gracie and Jacob entered the garage.
+14 The corn is in the blue_suitcase.
+15 Abigail made no movements and stayed in the garage for 10 minutes.
+16 Abigail exited the garage and stayed in the waiting_room.
+17 Gracie made no movements and stayed in the garage for 10 minutes.
+18 Gracie exited the garage and stayed in the waiting_room.
+19 Jacob moved the corn to the red_crate.
+20 Jacob exited the garage and stayed in the waiting_room.
+21 Gracie, Mason, Charlotte and Abigail entered the office.
+22 The lettuce is in the green_envelope.
+23 Gracie made no movements and stayed in the office for 10 minutes.
+24 Gracie exited the office and stayed in the waiting_room.
+25 Mason moved the lettuce to the green_pantry.
+26 Mason exited the office and stayed in the waiting_room.
+27 Abigail lost his watch.
+28 Charlotte moved the lettuce to the green_box.
+29 Charlotte exited the office and stayed in the waiting_room.
+30 Abigail made no movements and stayed in the office for 10 minutes.
+31 Abigail exited the office and stayed in the waiting_room.
+Question: Where is the lettuce really?
+Choices: A. red_bathtub, B. blue_drawer, C. blue_bathtub, D. green_treasure_chest, E. red_pantry, F. green_pantry, G. green_envelope, H. green_bottle, I. blue_envelope, J. green_box, K. blue_suitcase, L. red_box, M. green_suitcase, N. green_basket, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,45 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Logan, Jackson, Ethan and Emma entered the bedroom.
-2 The celery is in the blue_box.
-3 Mila moved the celery to the red_bottle.
-4 Mila exited the bedroom and stayed in the waiting_room.
-5 Logan made no movements and stayed in the bedroom for 10 minutes.
-6 Logan exited the bedroom and stayed in the waiting_room.
-7 Jackson made no movements and stayed in the bedroom for 10 minutes.
-8 Jackson exited the bedroom and stayed in the waiting_room.
-9 Ethan moved the celery to the blue_crate.
-10 Ethan exited the bedroom and stayed in the waiting_room.
-11 Emma made no movements and stayed in the bedroom for 10 minutes.
-12 Emma exited the bedroom and stayed in the waiting_room.
-13 Ethan, Jackson and Emma entered the den.
-14 The radish is in the green_envelope.
-15 Ethan made no movements and stayed in the den for 10 minutes.
-16 Ethan exited the den and stayed in the waiting_room.
-17 Jackson made no movements and stayed in the den for 10 minutes.
-18 Jackson exited the den and stayed in the waiting_room.
-19 Emma made no movements and stayed in the den for 10 minutes.
-20 Emma exited the den and stayed in the waiting_room.
-21 Jackson privately told Emma that the radish is actually in the blue_drawer.
-22 Emma privately told Logan that the radish is actually in the green_envelope.
-23 Jackson, Logan, Mila and Emma entered the kitchen.
-24 The apple is in the green_treasure_chest.
-25 Jackson moved the apple to the blue_bucket.
-26 Jackson exited the kitchen and stayed in the waiting_room.
-27 Logan made no movements and stayed in the kitchen for 10 minutes.
-28 Logan exited the kitchen and stayed in the waiting_room.
-29 Mila made no movements and stayed in the kitchen for 10 minutes.
-30 Mila exited the kitchen and stayed in the waiting_room.
-31 Emma made no movements and stayed in the kitchen for 10 minutes.
-32 Emma exited the kitchen and stayed in the waiting_room.
-33 Logan and Jackson entered the den.
-34 The strawberry is in the green_container.
-35 Logan moved the strawberry to the red_container.
-36 Logan exited the den and stayed in the waiting_room.
-37 Jackson made no movements and stayed in the den for 10 minutes.
-38 Jackson exited the den and stayed in the waiting_room.
-39 Logan publicly claimed that strawberry is in the red_envelope.
-40 Jackson privately told Logan that the strawberry is actually in the green_envelope.
-Question: Where does Emma think Ethan thinks Mila thinks the celery is?
-Answer: None
-Choices: A. green_container, B. green_envelope, C. red_envelope, D. red_container, E. blue_drawer, F. blue_box, G. red_bottle, H. blue_crate, I. red_suitcase, J. green_bathtub, K. green_treasure_chest, L. blue_bucket, M. blue_basket, N. blue_treasure_chest, O. red_drawer
+1 Emily, Sophia, Ella, Liam and Gracie entered the playroom.
+2 The pumpkin is in the green_box.
+3 Emily made no movements and stayed in the playroom for 10 minutes.
+4 Emily exited the playroom and stayed in the waiting_room.
+5 Sophia made no movements and stayed in the playroom for 10 minutes.
+6 Sophia exited the playroom and stayed in the waiting_room.
+7 Emily dislikes the cucumber.
+8 Ella made no movements and stayed in the playroom for 10 minutes.
+9 Ella exited the playroom and stayed in the waiting_room.
+10 Liam made no movements and stayed in the playroom for 10 minutes.
+11 Liam exited the playroom and stayed in the waiting_room.
+12 Gracie dislikes the corn.
+13 Gracie moved the pumpkin to the green_box.
+14 Gracie exited the playroom and stayed in the waiting_room.
+15 Sophia, Emily and Liam entered the sunroom.
+16 The cucumber is in the red_bottle.
+17 Sophia made no movements and stayed in the sunroom for 10 minutes.
+18 Sophia exited the sunroom and stayed in the waiting_room.
+19 Emily made no movements and stayed in the sunroom for 10 minutes.
+20 Emily exited the sunroom and stayed in the waiting_room.
+21 Liam moved the cucumber to the blue_bucket.
+22 Liam exited the sunroom and stayed in the waiting_room.
+23 Liam publicly claimed that cucumber is in the blue_crate.
+24 Sophia privately told Liam that the cucumber is actually in the blue_suitcase.
+25 Sophia, Ella, Emily and Gracie entered the front_yard.
+26 The broccoli is in the blue_bathtub.
+27 Sophia moved the broccoli to the green_envelope.
+28 Ella likes the red_basket.
+29 Sophia exited the front_yard and stayed in the waiting_room.
+30 Ella made no movements and stayed in the front_yard for 10 minutes.
+31 Ella likes the blue_bottle.
+32 Ella exited the front_yard and stayed in the waiting_room.
+33 Emily made no movements and stayed in the front_yard for 10 minutes.
+34 Emily exited the front_yard and stayed in the waiting_room.
+35 Gracie moved the broccoli to the green_bathtub.
+36 Gracie exited the front_yard and stayed in the waiting_room.
+37 Liam and Gracie entered the front_yard.
+38 Ella dislikes the corn.
+39 The green_pepper is in the green_bathtub.
+40 Liam made no movements and stayed in the front_yard for 10 minutes.
+41 Liam exited the front_yard and stayed in the waiting_room.
+42 Gracie moved the green_pepper to the green_treasure_chest.
+43 Gracie exited the front_yard and stayed in the waiting_room.
+44 Gracie publicly claimed that green_pepper is in the green_bathtub.
+45 Liam privately told Gracie that the green_pepper is actually in the green_treasure_chest.
+Question: Where does Ella think Liam thinks Gracie thinks the pumpkin is?
+Answer: green_box
+Choices: A. green_bathtub, B. blue_bathtub, C. green_bucket, D. green_envelope, E. green_treasure_chest, F. green_box, G. blue_cupboard, H. red_envelope, I. green_bottle, J. red_basket, K. blue_bottle, L. red_bottle, M. blue_bucket, N. blue_suitcase, O. blue_crate

@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jack, Ava, Amelia, Charlotte and Logan entered the study.
-2 The spinach is in the green_bottle.
-3 Jack moved the spinach to the blue_pantry.
-4 Jack exited the study and stayed in the waiting_room.
-5 Ava made no movements and stayed in the study for 10 minutes.
-6 Ava exited the study and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the study for 10 minutes.
-8 Amelia exited the study and stayed in the waiting_room.
-9 Charlotte made no movements and stayed in the study for 10 minutes.
-10 Charlotte exited the study and stayed in the waiting_room.
-11 Logan made no movements and stayed in the study for 10 minutes.
-12 Logan exited the study and stayed in the waiting_room.
-13 Logan, Ava and Amelia entered the patio.
-14 The asparagus is in the blue_crate.
-15 Logan made no movements and stayed in the patio for 10 minutes.
-16 Logan exited the patio and stayed in the waiting_room.
-17 Ava made no movements and stayed in the patio for 10 minutes.
-18 Ava exited the patio and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the patio for 10 minutes.
-20 Amelia exited the patio and stayed in the waiting_room.
-21 Logan publicly claimed that asparagus is in the green_cupboard.
-22 Amelia privately told Jack that the asparagus is actually in the blue_crate.
-23 Charlotte, Amelia, Logan and Ava entered the patio.
-24 The lemon is in the red_suitcase.
-25 Charlotte made no movements and stayed in the patio for 10 minutes.
-26 Charlotte exited the patio and stayed in the waiting_room.
-27 Amelia made no movements and stayed in the patio for 10 minutes.
-28 Amelia exited the patio and stayed in the waiting_room.
-29 Logan made no movements and stayed in the patio for 10 minutes.
-30 Logan exited the patio and stayed in the waiting_room.
-31 Ava moved the lemon to the blue_crate.
-32 Ava exited the patio and stayed in the waiting_room.
-33 Amelia and Charlotte entered the study.
-34 The spinach is in the blue_pantry.
-35 Amelia moved the spinach to the blue_bottle.
-36 Amelia exited the study and stayed in the waiting_room.
-37 Charlotte moved the spinach to the green_bottle.
-38 Charlotte exited the study and stayed in the waiting_room.
-39 Amelia publicly claimed that spinach is in the blue_bottle.
-40 Charlotte privately told Amelia that the spinach is actually in the red_drawer.
-Question: Where does Charlotte think Jack thinks Amelia thinks Ava thinks the spinach is?
+1 Amelia, Mila, Jack, Sophia and Charlotte entered the dining_room.
+2 The green_pepper is in the blue_treasure_chest.
+3 Amelia moved the green_pepper to the green_box.
+4 Amelia exited the dining_room and stayed in the waiting_room.
+5 Mila moved the green_pepper to the red_cupboard.
+6 Mila exited the dining_room and stayed in the waiting_room.
+7 Jack made no movements and stayed in the dining_room for 10 minutes.
+8 Jack exited the dining_room and stayed in the waiting_room.
+9 Sophia moved the green_pepper to the red_crate.
+10 Sophia exited the dining_room and stayed in the waiting_room.
+11 Charlotte moved the green_pepper to the blue_treasure_chest.
+12 Charlotte exited the dining_room and stayed in the waiting_room.
+13 Mila, Amelia and Sophia entered the porch.
+14 The carrot is in the red_bathtub.
+15 Mila made no movements and stayed in the porch for 10 minutes.
+16 Charlotte lost his watch.
+17 Mila exited the porch and stayed in the waiting_room.
+18 Amelia made no movements and stayed in the porch for 10 minutes.
+19 Amelia exited the porch and stayed in the waiting_room.
+20 Sophia made no movements and stayed in the porch for 10 minutes.
+21 Sophia exited the porch and stayed in the waiting_room.
+22 Sophia publicly claimed that carrot is in the green_bathtub.
+23 Mila privately told Sophia that the carrot is actually in the blue_drawer.
+24 Mila, Amelia, Charlotte and Jack entered the kitchen.
+25 The broccoli is in the green_treasure_chest.
+26 Mila made no movements and stayed in the kitchen for 10 minutes.
+27 Mila exited the kitchen and stayed in the waiting_room.
+28 Amelia moved the broccoli to the green_suitcase.
+29 Amelia exited the kitchen and stayed in the waiting_room.
+30 Mila saw a dog.
+31 Charlotte moved the broccoli to the blue_bucket.
+32 Charlotte exited the kitchen and stayed in the waiting_room.
+33 Jack moved the broccoli to the red_bucket.
+34 Jack exited the kitchen and stayed in the waiting_room.
+35 Sophia and Jack entered the porch.
+36 The apple is in the red_box.
+37 Sophia made no movements and stayed in the porch for 10 minutes.
+38 Sophia exited the porch and stayed in the waiting_room.
+39 Jack made no movements and stayed in the porch for 10 minutes.
+40 Jack exited the porch and stayed in the waiting_room.
+41 Sophia publicly claimed that apple is in the red_box.
+42 Jack privately told Sophia that the apple is actually in the red_treasure_chest.
+Question: Where does Charlotte think Jack thinks Amelia thinks Mila thinks the green_pepper is?
 Answer: None
-Choices: A. red_suitcase, B. blue_crate, C. blue_drawer, D. green_cupboard, E. red_bucket, F. red_envelope, G. red_treasure_chest, H. blue_suitcase, I. blue_treasure_chest, J. blue_envelope, K. red_bathtub, L. green_bottle, M. red_drawer, N. blue_bottle, O. blue_pantry
+Choices: A. blue_treasure_chest, B. green_box, C. red_cupboard, D. blue_envelope, E. red_crate, F. red_box, G. red_bathtub, H. green_bathtub, I. red_treasure_chest, J. blue_drawer, K. blue_bottle, L. green_treasure_chest, M. green_suitcase, N. blue_bucket, O. red_bucket

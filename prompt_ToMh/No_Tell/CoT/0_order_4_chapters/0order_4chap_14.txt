@@ -1,41 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Noah, Hannah, Aria, Olivia and Mila entered the kitchen.
-2 The tomato is in the blue_pantry.
-3 Noah made no movements and stayed in the kitchen for 10 minutes.
-4 Noah exited the kitchen and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the kitchen for 10 minutes.
-6 Hannah exited the kitchen and stayed in the waiting_room.
-7 Aria made no movements and stayed in the kitchen for 10 minutes.
-8 Aria exited the kitchen and stayed in the waiting_room.
-9 Olivia moved the tomato to the green_bottle.
-10 Olivia exited the kitchen and stayed in the waiting_room.
-11 Mila moved the tomato to the blue_pantry.
-12 Mila exited the kitchen and stayed in the waiting_room.
-13 Mila, Olivia and Noah entered the front_yard.
-14 The radish is in the red_treasure_chest.
-15 Mila made no movements and stayed in the front_yard for 10 minutes.
-16 Mila exited the front_yard and stayed in the waiting_room.
-17 Olivia made no movements and stayed in the front_yard for 10 minutes.
-18 Olivia exited the front_yard and stayed in the waiting_room.
-19 Noah moved the radish to the red_bucket.
-20 Noah exited the front_yard and stayed in the waiting_room.
-21 Aria, Mila, Noah and Olivia entered the kitchen.
-22 The celery is in the blue_container.
-23 Aria moved the celery to the blue_bucket.
-24 Aria exited the kitchen and stayed in the waiting_room.
-25 Mila moved the celery to the red_container.
-26 Mila exited the kitchen and stayed in the waiting_room.
-27 Noah made no movements and stayed in the kitchen for 10 minutes.
-28 Noah exited the kitchen and stayed in the waiting_room.
-29 Olivia moved the celery to the green_bottle.
-30 Olivia exited the kitchen and stayed in the waiting_room.
-31 Noah and Mila entered the front_yard.
-32 The radish is in the red_bucket.
-33 Noah made no movements and stayed in the front_yard for 10 minutes.
-34 Noah exited the front_yard and stayed in the waiting_room.
-35 Mila made no movements and stayed in the front_yard for 10 minutes.
-36 Mila exited the front_yard and stayed in the waiting_room.
-Question: Where is the tomato really?
-Choices: A. blue_bottle, B. red_treasure_chest, C. blue_crate, D. red_basket, E. red_bucket, F. green_crate, G. green_container, H. blue_envelope, I. blue_bathtub, J. blue_drawer, K. blue_container, L. blue_pantry, M. red_container, N. green_bottle, O. blue_bucket
+1 Liam, Jack, Jacob, Ethan and Chloe entered the hall.
+2 The strawberry is in the blue_bucket.
+3 Liam made no movements and stayed in the hall for 10 minutes.
+4 Liam exited the hall and stayed in the waiting_room.
+5 Jack moved the strawberry to the red_bathtub.
+6 Jack exited the hall and stayed in the waiting_room.
+7 Jacob moved the strawberry to the red_cupboard.
+8 Jacob exited the hall and stayed in the waiting_room.
+9 Ethan moved the strawberry to the blue_drawer.
+10 Ethan exited the hall and stayed in the waiting_room.
+11 Chloe moved the strawberry to the blue_bucket.
+12 Chloe exited the hall and stayed in the waiting_room.
+13 Jack, Ethan and Chloe entered the hall.
+14 The lemon is in the blue_drawer.
+15 Jack made no movements and stayed in the hall for 10 minutes.
+16 Jack exited the hall and stayed in the waiting_room.
+17 Ethan made no movements and stayed in the hall for 10 minutes.
+18 Ethan exited the hall and stayed in the waiting_room.
+19 Chloe made no movements and stayed in the hall for 10 minutes.
+20 Chloe exited the hall and stayed in the waiting_room.
+21 Liam, Chloe, Jacob and Jack entered the attic.
+22 The apple is in the green_suitcase.
+23 Liam moved the apple to the green_bathtub.
+24 Liam exited the attic and stayed in the waiting_room.
+25 Chloe moved the apple to the green_basket.
+26 Chloe exited the attic and stayed in the waiting_room.
+27 Chloe dislikes the cucumber.
+28 Jacob moved the apple to the green_bottle.
+29 Jacob exited the attic and stayed in the waiting_room.
+30 Jack made no movements and stayed in the attic for 10 minutes.
+31 Jack exited the attic and stayed in the waiting_room.
+32 Liam saw a mouse.
+33 Jacob and Ethan entered the hall.
+34 The lemon is in the blue_drawer.
+35 Jacob made no movements and stayed in the hall for 10 minutes.
+36 Jacob exited the hall and stayed in the waiting_room.
+37 Ethan made no movements and stayed in the hall for 10 minutes.
+38 Jack saw a cat.
+39 Ethan exited the hall and stayed in the waiting_room.
+Question: Where is the strawberry really?
+41 Jack dislikes the apple.
+Choices: A. green_basket, B. green_suitcase, C. green_bathtub, D. red_pantry, E. green_bottle, F. blue_crate, G. red_bucket, H. red_bottle, I. blue_bottle, J. red_envelope, K. blue_drawer, L. blue_bucket, M. red_bathtub, N. red_cupboard, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,25 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, James, Benjamin, Isla and Mila entered the kitchen.
-2 The tangerine is in the blue_container.
-3 Abigail moved the tangerine to the green_suitcase.
-4 Abigail exited the kitchen and stayed in the waiting_room.
-5 James made no movements and stayed in the kitchen for 10 minutes.
-6 James exited the kitchen and stayed in the waiting_room.
-7 Benjamin made no movements and stayed in the kitchen for 10 minutes.
-8 Benjamin exited the kitchen and stayed in the waiting_room.
-9 Isla made no movements and stayed in the kitchen for 10 minutes.
-10 Isla exited the kitchen and stayed in the waiting_room.
-11 Mila made no movements and stayed in the kitchen for 10 minutes.
-12 Mila exited the kitchen and stayed in the waiting_room.
-13 Isla, Mila and Abigail entered the bathroom.
-14 The melon is in the green_bathtub.
-15 Isla made no movements and stayed in the bathroom for 10 minutes.
-16 Isla exited the bathroom and stayed in the waiting_room.
-17 Mila made no movements and stayed in the bathroom for 10 minutes.
-18 Mila exited the bathroom and stayed in the waiting_room.
-19 Abigail made no movements and stayed in the bathroom for 10 minutes.
-20 Abigail exited the bathroom and stayed in the waiting_room.
-Question: Where does Mila think Abigail thinks the tangerine is?
-Choices: A. green_container, B. blue_container, C. blue_drawer, D. green_cupboard, E. green_suitcase, F. blue_box, G. red_crate, H. blue_envelope, I. red_bathtub, J. red_bucket, K. green_crate, L. green_bathtub, M. blue_bucket, N. blue_treasure_chest, O. blue_crate
+1 Isabella, Mason, Ava, Sophia and Emma entered the den.
+2 Sophia lost his phone.
+3 The tangerine is in the green_box.
+4 Isabella moved the tangerine to the blue_bathtub.
+5 Isabella exited the den and stayed in the waiting_room.
+6 Mason made no movements and stayed in the den for 10 minutes.
+7 Mason exited the den and stayed in the waiting_room.
+8 Ava moved the tangerine to the blue_crate.
+9 Ava exited the den and stayed in the waiting_room.
+10 Sophia made no movements and stayed in the den for 10 minutes.
+11 Sophia exited the den and stayed in the waiting_room.
+12 Emma moved the tangerine to the green_box.
+13 Emma exited the den and stayed in the waiting_room.
+14 Mason, Emma and Ava entered the den.
+15 The tangerine is in the green_box.
+16 Mason moved the tangerine to the red_box.
+17 Mason exited the den and stayed in the waiting_room.
+18 Emma made no movements and stayed in the den for 10 minutes.
+19 Sophia lost his phone.
+20 Emma exited the den and stayed in the waiting_room.
+21 Ava moved the tangerine to the blue_bathtub.
+22 Ava exited the den and stayed in the waiting_room.
+Question: Where does Sophia think Ava thinks the tangerine is?
+Choices: A. blue_drawer, B. green_cupboard, C. blue_treasure_chest, D. red_envelope, E. red_bottle, F. green_suitcase, G. red_basket, H. red_crate, I. blue_bucket, J. blue_bottle, K. blue_bathtub, L. green_box, M. blue_crate, N. red_box, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

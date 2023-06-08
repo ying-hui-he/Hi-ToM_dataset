@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Emily, Aiden, Abigail and Emma entered the hallway.
-2 The pear is in the red_bucket.
-3 Aria moved the pear to the blue_bathtub.
-4 Aria exited the hallway and stayed in the waiting_room.
-5 Emily moved the pear to the green_crate.
-6 Emily exited the hallway and stayed in the waiting_room.
-7 Aiden moved the pear to the blue_suitcase.
-8 Aiden exited the hallway and stayed in the waiting_room.
-9 Abigail moved the pear to the red_bathtub.
-10 Abigail exited the hallway and stayed in the waiting_room.
-11 Emma moved the pear to the red_bucket.
-12 Emma exited the hallway and stayed in the waiting_room.
-13 Aiden publicly claimed that pear is in the blue_suitcase.
-14 Emma privately told Aiden that the pear is actually in the blue_bathtub.
-Question: Where does Aiden think the pear is?
-Choices: A. blue_drawer, B. blue_treasure_chest, C. green_bottle, D. red_drawer, E. green_envelope, F. green_crate, G. red_bucket, H. blue_bathtub, I. red_bathtub, J. blue_suitcase, K. red_container, L. blue_basket, M. blue_box, N. green_bathtub, O. blue_bucket
+1 Hannah, Abigail, Liam, Gracie and Jack entered the master_bedroom.
+2 The asparagus is in the red_basket.
+3 Hannah made no movements and stayed in the master_bedroom for 10 minutes.
+4 Hannah exited the master_bedroom and stayed in the waiting_room.
+5 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
+6 Abigail exited the master_bedroom and stayed in the waiting_room.
+7 Liam moved the asparagus to the green_cupboard.
+8 Liam exited the master_bedroom and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the master_bedroom for 10 minutes.
+10 Gracie exited the master_bedroom and stayed in the waiting_room.
+11 Jack made no movements and stayed in the master_bedroom for 10 minutes.
+12 Jack exited the master_bedroom and stayed in the waiting_room.
+13 Liam publicly claimed that asparagus is in the green_pantry.
+14 Jack privately told Liam that the asparagus is actually in the red_basket.
+Question: Where does Gracie think the asparagus is?
+Choices: A. green_suitcase, B. green_basket, C. red_bucket, D. red_cupboard, E. red_pantry, F. red_basket, G. blue_suitcase, H. green_pantry, I. green_cupboard, J. red_envelope, K. green_bottle, L. red_container, M. blue_bottle, N. blue_bathtub, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

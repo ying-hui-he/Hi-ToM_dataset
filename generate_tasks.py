@@ -43,7 +43,7 @@ def generate_story_with_specified_chapters(
             for length_of_story in num_chapters:
                 # Create folder to contain data
                 folder_name = f'{order_of_story}_order_{length_of_story}_chapters'
-                # logging.info("Creating New task in %s..." % folder_name)
+                logging.info("Creating New task in %s..." % folder_name)
                 mkdir_p(os.path.join(output_dir_path, folder_name))
 
                 for i in range(n):
@@ -54,7 +54,7 @@ def generate_story_with_specified_chapters(
                         story = task.generate_story_qs_at_end(
                             w, length_of_story, tasks_per_length[length_of_story -
                                                                  1], num_agents=5,
-                            num_locations=3, statement_noise=0, order=order_of_story, exist_tell_in_story=exist_tell_in_story
+                            num_locations=3, statement_noise=noise, order=order_of_story, exist_tell_in_story=exist_tell_in_story
                         )
                         if prompt == 'MC':
                             f.write(

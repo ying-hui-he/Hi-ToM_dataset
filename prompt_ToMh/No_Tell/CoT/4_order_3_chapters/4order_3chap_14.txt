@@ -1,35 +1,40 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jayden, Owen, Olivia, Oliver and Noah entered the bedroom.
-2 The radish is in the red_container.
-3 Jayden moved the radish to the blue_crate.
-4 Jayden exited the bedroom and stayed in the waiting_room.
-5 Owen moved the radish to the blue_bucket.
-6 Owen exited the bedroom and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the bedroom for 10 minutes.
-8 Olivia exited the bedroom and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the bedroom for 10 minutes.
-10 Oliver exited the bedroom and stayed in the waiting_room.
-11 Noah made no movements and stayed in the bedroom for 10 minutes.
-12 Noah exited the bedroom and stayed in the waiting_room.
-13 Owen, Oliver and Jayden entered the bedroom.
-14 The tangerine is in the blue_crate.
-15 Owen moved the tangerine to the blue_drawer.
-16 Owen exited the bedroom and stayed in the waiting_room.
-17 Oliver moved the tangerine to the red_treasure_chest.
-18 Oliver exited the bedroom and stayed in the waiting_room.
-19 Jayden moved the tangerine to the blue_bucket.
-20 Jayden exited the bedroom and stayed in the waiting_room.
-21 Owen, Jayden, Oliver and Noah entered the study.
-22 The onion is in the blue_treasure_chest.
-23 Owen made no movements and stayed in the study for 10 minutes.
-24 Owen exited the study and stayed in the waiting_room.
-25 Jayden moved the onion to the red_basket.
-26 Jayden exited the study and stayed in the waiting_room.
-27 Oliver moved the onion to the red_bathtub.
-28 Oliver exited the study and stayed in the waiting_room.
-29 Noah made no movements and stayed in the study for 10 minutes.
-30 Noah exited the study and stayed in the waiting_room.
-Question: Where does Oliver think Jayden thinks Noah thinks Owen thinks the radish is?
-Choices: A. blue_pantry, B. green_crate, C. red_drawer, D. red_bucket, E. red_suitcase, F. red_basket, G. blue_treasure_chest, H. blue_box, I. blue_basket, J. red_bathtub, K. red_container, L. blue_crate, M. blue_drawer, N. blue_bucket, O. red_treasure_chest
+1 Sophia, Charlotte, Ava, Abigail and Mia entered the front_yard.
+2 The potato is in the green_basket.
+3 Sophia made no movements and stayed in the front_yard for 10 minutes.
+4 Sophia exited the front_yard and stayed in the waiting_room.
+5 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+6 Charlotte exited the front_yard and stayed in the waiting_room.
+7 Ava moved the potato to the red_basket.
+8 Ava exited the front_yard and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the front_yard for 10 minutes.
+10 Abigail exited the front_yard and stayed in the waiting_room.
+11 Mia made no movements and stayed in the front_yard for 10 minutes.
+12 Mia exited the front_yard and stayed in the waiting_room.
+13 Charlotte, Ava and Mia entered the front_yard.
+14 The potato is in the red_basket.
+15 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+16 Charlotte exited the front_yard and stayed in the waiting_room.
+17 Sophia lost his phone.
+18 Ava moved the potato to the green_basket.
+19 Ava exited the front_yard and stayed in the waiting_room.
+20 Mia moved the potato to the blue_treasure_chest.
+21 Mia exited the front_yard and stayed in the waiting_room.
+22 Sophia, Ava, Abigail and Charlotte entered the front_yard.
+23 The potato is in the blue_treasure_chest.
+24 Sophia moved the potato to the green_suitcase.
+25 Abigail dislikes the banana.
+26 Sophia exited the front_yard and stayed in the waiting_room.
+27 Ava made no movements and stayed in the front_yard for 10 minutes.
+28 Sophia likes the blue_suitcase.
+29 Ava exited the front_yard and stayed in the waiting_room.
+30 Abigail moved the potato to the red_bucket.
+31 Sophia lost his phone.
+32 Abigail exited the front_yard and stayed in the waiting_room.
+33 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+34 Charlotte exited the front_yard and stayed in the waiting_room.
+35 Mia lost his watch.
+Question: Where does Abigail think Ava thinks Mia thinks Sophia thinks the potato is?
+Choices: A. green_bucket, B. green_box, C. red_container, D. blue_suitcase, E. blue_bucket, F. green_basket, G. red_basket, H. green_suitcase, I. red_bucket, J. blue_treasure_chest, K. red_treasure_chest, L. green_treasure_chest, M. green_bathtub, N. red_crate, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

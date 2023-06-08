@@ -1,25 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emily, James, Owen, Isla and Jackson entered the closet.
-2 The onion is in the green_container.
-3 Emily made no movements and stayed in the closet for 10 minutes.
-4 Emily exited the closet and stayed in the waiting_room.
-5 James moved the onion to the green_cupboard.
-6 James exited the closet and stayed in the waiting_room.
-7 Owen moved the onion to the green_bathtub.
-8 Owen exited the closet and stayed in the waiting_room.
-9 Isla made no movements and stayed in the closet for 10 minutes.
-10 Isla exited the closet and stayed in the waiting_room.
-11 Jackson moved the onion to the green_container.
-12 Jackson exited the closet and stayed in the waiting_room.
-13 Owen, James and Jackson entered the attic.
-14 The pineapple is in the red_suitcase.
-15 Owen made no movements and stayed in the attic for 10 minutes.
-16 Owen exited the attic and stayed in the waiting_room.
-17 James moved the pineapple to the blue_crate.
-18 James exited the attic and stayed in the waiting_room.
-19 Jackson made no movements and stayed in the attic for 10 minutes.
-20 Jackson exited the attic and stayed in the waiting_room.
-Question: Where does Owen think Isla thinks Jackson thinks the onion is?
-Answer: green_cupboard
-Choices: A. red_basket, B. blue_bucket, C. green_crate, D. blue_treasure_chest, E. red_container, F. green_container, G. green_bathtub, H. green_suitcase, I. blue_pantry, J. green_cupboard, K. red_suitcase, L. blue_crate, M. blue_suitcase, N. red_bottle, O. red_treasure_chest
+1 Owen, Lucas, Aria, Jayden and Nathan entered the lounge.
+2 The grapefruit is in the red_box.
+3 Owen moved the grapefruit to the green_box.
+4 Owen exited the lounge and stayed in the waiting_room.
+5 Jayden saw a dog.
+6 Lucas moved the grapefruit to the red_crate.
+7 Jayden saw a monkey.
+8 Lucas exited the lounge and stayed in the waiting_room.
+9 Aria moved the grapefruit to the green_basket.
+10 Aria exited the lounge and stayed in the waiting_room.
+11 Jayden moved the grapefruit to the green_envelope.
+12 Jayden exited the lounge and stayed in the waiting_room.
+13 Nathan made no movements and stayed in the lounge for 10 minutes.
+14 Aria dislikes the broccoli.
+15 Nathan exited the lounge and stayed in the waiting_room.
+16 Aria, Nathan and Owen entered the lounge.
+17 The pineapple is in the green_envelope.
+18 Aria made no movements and stayed in the lounge for 10 minutes.
+19 Aria exited the lounge and stayed in the waiting_room.
+20 Aria lost his watch.
+21 Nathan made no movements and stayed in the lounge for 10 minutes.
+22 Nathan exited the lounge and stayed in the waiting_room.
+23 Owen moved the pineapple to the red_box.
+24 Owen exited the lounge and stayed in the waiting_room.
+Question: Where does Nathan think Jayden thinks Aria thinks the grapefruit is?
+Answer: None
+Choices: A. red_box, B. green_envelope, C. green_box, D. green_basket, E. red_crate, F. blue_envelope, G. blue_crate, H. red_basket, I. red_bucket, J. green_cupboard, K. blue_suitcase, L. blue_bottle, M. blue_treasure_chest, N. blue_cupboard, O. blue_bucket

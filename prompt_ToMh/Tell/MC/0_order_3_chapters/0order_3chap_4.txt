@@ -1,39 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Isla, Evelyn, Oliver, Jayden and Hannah entered the kitchen.
-2 The plum is in the blue_bottle.
-3 Isla made no movements and stayed in the kitchen for 10 minutes.
-4 Isla exited the kitchen and stayed in the waiting_room.
-5 Evelyn moved the plum to the red_envelope.
-6 Evelyn exited the kitchen and stayed in the waiting_room.
-7 Oliver made no movements and stayed in the kitchen for 10 minutes.
-8 Oliver exited the kitchen and stayed in the waiting_room.
-9 Jayden moved the plum to the blue_crate.
-10 Jayden exited the kitchen and stayed in the waiting_room.
-11 Hannah moved the plum to the blue_bottle.
-12 Hannah exited the kitchen and stayed in the waiting_room.
-13 Oliver publicly claimed that plum is in the blue_crate.
-14 Hannah privately told Oliver that the plum is actually in the red_envelope.
-15 Isla, Evelyn and Hannah entered the laundry.
-16 The cucumber is in the green_cupboard.
-17 Isla moved the cucumber to the blue_envelope.
-18 Isla exited the laundry and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the laundry for 10 minutes.
-20 Evelyn exited the laundry and stayed in the waiting_room.
-21 Hannah moved the cucumber to the red_treasure_chest.
-22 Hannah exited the laundry and stayed in the waiting_room.
-23 Evelyn, Oliver, Isla and Hannah entered the cellar.
-24 The orange is in the red_suitcase.
-25 Evelyn moved the orange to the blue_bathtub.
-26 Evelyn exited the cellar and stayed in the waiting_room.
-27 Oliver moved the orange to the red_drawer.
-28 Oliver exited the cellar and stayed in the waiting_room.
-29 Isla made no movements and stayed in the cellar for 10 minutes.
-30 Isla exited the cellar and stayed in the waiting_room.
-31 Hannah moved the orange to the blue_suitcase.
-32 Hannah exited the cellar and stayed in the waiting_room.
-33 Isla publicly claimed that orange is in the blue_suitcase.
-34 Evelyn privately told Hannah that the orange is actually in the red_drawer.
-Question: Where is the plum really?
-Choices: A. blue_crate, B. blue_bottle, C. red_envelope, D. blue_container, E. green_suitcase, F. red_suitcase, G. blue_suitcase, H. red_container, I. blue_bathtub, J. red_drawer, K. green_treasure_chest, L. green_cupboard, M. red_crate, N. blue_envelope, O. red_treasure_chest
+1 Charlotte dislikes the tomato.
+2 Mila, Logan, Mia, Charlotte and Jack entered the back_yard.
+3 The corn is in the red_pantry.
+4 Mila moved the corn to the green_bathtub.
+5 Mila exited the back_yard and stayed in the waiting_room.
+6 Logan moved the corn to the red_container.
+7 Logan exited the back_yard and stayed in the waiting_room.
+8 Mia made no movements and stayed in the back_yard for 10 minutes.
+9 Mia exited the back_yard and stayed in the waiting_room.
+10 Charlotte moved the corn to the blue_suitcase.
+11 Charlotte exited the back_yard and stayed in the waiting_room.
+12 Jack made no movements and stayed in the back_yard for 10 minutes.
+13 Jack exited the back_yard and stayed in the waiting_room.
+14 Charlotte publicly claimed that corn is in the red_container.
+15 Jack privately told Mila that the corn is actually in the blue_suitcase.
+16 Logan, Mila and Mia entered the back_yard.
+17 The banana is in the green_bathtub.
+18 Logan made no movements and stayed in the back_yard for 10 minutes.
+19 Logan exited the back_yard and stayed in the waiting_room.
+20 Mila made no movements and stayed in the back_yard for 10 minutes.
+21 Mila exited the back_yard and stayed in the waiting_room.
+22 Mia moved the banana to the green_treasure_chest.
+23 Mia exited the back_yard and stayed in the waiting_room.
+24 Logan, Mila, Jack and Charlotte entered the sunroom.
+25 The pumpkin is in the blue_crate.
+26 Logan made no movements and stayed in the sunroom for 10 minutes.
+27 Logan exited the sunroom and stayed in the waiting_room.
+28 Mila lost his bottle.
+29 Mila made no movements and stayed in the sunroom for 10 minutes.
+30 Mila exited the sunroom and stayed in the waiting_room.
+31 Jack moved the pumpkin to the red_bottle.
+32 Jack exited the sunroom and stayed in the waiting_room.
+33 Charlotte moved the pumpkin to the red_basket.
+34 Charlotte exited the sunroom and stayed in the waiting_room.
+35 Logan publicly claimed that pumpkin is in the green_bottle.
+36 Charlotte privately told Mia that the pumpkin is actually in the red_basket.
+Question: Where is the corn really?
+Choices: A. red_pantry, B. green_bathtub, C. red_container, D. blue_suitcase, E. green_treasure_chest, F. blue_crate, G. red_bottle, H. green_bottle, I. red_basket, J. red_cupboard, K. red_bathtub, L. blue_envelope, M. red_treasure_chest, N. green_basket, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

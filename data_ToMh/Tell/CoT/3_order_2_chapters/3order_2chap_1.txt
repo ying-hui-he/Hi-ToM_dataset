@@ -1,27 +1,28 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Aria, Ethan, Jack and Noah entered the master_bedroom.
-2 The onion is in the red_treasure_chest.
-3 Emma moved the onion to the blue_drawer.
-4 Emma exited the master_bedroom and stayed in the waiting_room.
-5 Aria moved the onion to the blue_envelope.
-6 Aria exited the master_bedroom and stayed in the waiting_room.
-7 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
-8 Ethan exited the master_bedroom and stayed in the waiting_room.
-9 Jack made no movements and stayed in the master_bedroom for 10 minutes.
-10 Jack exited the master_bedroom and stayed in the waiting_room.
-11 Noah made no movements and stayed in the master_bedroom for 10 minutes.
-12 Noah exited the master_bedroom and stayed in the waiting_room.
-13 Aria, Emma and Ethan entered the master_bedroom.
-14 The onion is in the blue_envelope.
-15 Aria moved the onion to the blue_drawer.
-16 Aria exited the master_bedroom and stayed in the waiting_room.
-17 Emma made no movements and stayed in the master_bedroom for 10 minutes.
-18 Emma exited the master_bedroom and stayed in the waiting_room.
-19 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
-20 Ethan exited the master_bedroom and stayed in the waiting_room.
-21 Emma publicly claimed that onion is in the red_treasure_chest.
-22 Ethan privately told Emma that the onion is actually in the blue_drawer.
-Question: Where does Ethan think Emma thinks Noah thinks the onion is?
+1 Mia, Owen, Amelia, Ethan and Logan entered the bathroom.
+2 The onion is in the red_box.
+3 Mia made no movements and stayed in the bathroom for 10 minutes.
+4 Mia exited the bathroom and stayed in the waiting_room.
+5 Owen made no movements and stayed in the bathroom for 10 minutes.
+6 Owen exited the bathroom and stayed in the waiting_room.
+7 Logan dislikes the grapes.
+8 Amelia moved the onion to the red_crate.
+9 Amelia exited the bathroom and stayed in the waiting_room.
+10 Ethan moved the onion to the green_cupboard.
+11 Ethan exited the bathroom and stayed in the waiting_room.
+12 Logan moved the onion to the red_box.
+13 Logan exited the bathroom and stayed in the waiting_room.
+14 Owen, Logan and Ethan entered the bathroom.
+15 The grapes is in the red_crate.
+16 Owen moved the grapes to the red_box.
+17 Owen exited the bathroom and stayed in the waiting_room.
+18 Logan made no movements and stayed in the bathroom for 10 minutes.
+19 Logan exited the bathroom and stayed in the waiting_room.
+20 Ethan moved the grapes to the red_container.
+21 Ethan exited the bathroom and stayed in the waiting_room.
+22 Logan privately told Ethan that the grapes is actually in the blue_crate.
+23 Ethan privately told Amelia that the grapes is actually in the red_container.
+Question: Where does Amelia think Owen thinks Ethan thinks the onion is?
 Answer: None
-Choices: A. red_container, B. red_treasure_chest, C. blue_envelope, D. blue_drawer, E. blue_bottle, F. green_bathtub, G. green_container, H. blue_bathtub, I. red_envelope, J. blue_basket, K. green_bottle, L. red_bucket, M. green_suitcase, N. red_bathtub, O. blue_box
+Choices: A. red_box, B. red_crate, C. red_container, D. blue_crate, E. green_cupboard, F. green_envelope, G. green_box, H. red_bathtub, I. green_bathtub, J. blue_bathtub, K. red_cupboard, L. green_suitcase, M. green_bucket, N. blue_bucket, O. red_basket

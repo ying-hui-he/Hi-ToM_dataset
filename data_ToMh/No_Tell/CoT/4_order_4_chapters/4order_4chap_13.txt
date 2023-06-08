@@ -1,41 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 James, Jayden, Avery, Aria and Amelia entered the porch.
-2 The melon is in the red_envelope.
-3 James moved the melon to the green_treasure_chest.
-4 James exited the porch and stayed in the waiting_room.
-5 Jayden moved the melon to the blue_drawer.
-6 Jayden exited the porch and stayed in the waiting_room.
-7 Avery moved the melon to the blue_pantry.
-8 Avery exited the porch and stayed in the waiting_room.
-9 Aria moved the melon to the red_bathtub.
-10 Aria exited the porch and stayed in the waiting_room.
-11 Amelia moved the melon to the red_envelope.
-12 Amelia exited the porch and stayed in the waiting_room.
-13 Aria, Jayden and Amelia entered the porch.
-14 The melon is in the red_envelope.
-15 Aria moved the melon to the blue_pantry.
-16 Aria exited the porch and stayed in the waiting_room.
-17 Jayden made no movements and stayed in the porch for 10 minutes.
-18 Jayden exited the porch and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the porch for 10 minutes.
-20 Amelia exited the porch and stayed in the waiting_room.
-21 Amelia, Jayden, Avery and Aria entered the office.
-22 The corn is in the red_crate.
-23 Amelia moved the corn to the green_container.
-24 Amelia exited the office and stayed in the waiting_room.
-25 Jayden moved the corn to the green_bottle.
-26 Jayden exited the office and stayed in the waiting_room.
-27 Avery moved the corn to the red_bottle.
-28 Avery exited the office and stayed in the waiting_room.
-29 Aria moved the corn to the green_bathtub.
-30 Aria exited the office and stayed in the waiting_room.
-31 Avery and Amelia entered the porch.
-32 The plum is in the blue_drawer.
-33 Avery made no movements and stayed in the porch for 10 minutes.
-34 Avery exited the porch and stayed in the waiting_room.
-35 Amelia moved the plum to the red_bathtub.
-36 Amelia exited the porch and stayed in the waiting_room.
-Question: Where does James think Jayden thinks Aria thinks Amelia thinks the melon is?
-Answer: red_envelope
-Choices: A. blue_drawer, B. red_envelope, C. red_bathtub, D. green_treasure_chest, E. blue_pantry, F. blue_suitcase, G. red_drawer, H. blue_bucket, I. green_envelope, J. green_suitcase, K. red_crate, L. red_bottle, M. green_bottle, N. green_bathtub, O. green_container
+1 Mia, Hannah, Carter, Amelia and Mason entered the hallway.
+2 Mia saw a mouse.
+3 The banana is in the blue_envelope.
+4 Mia moved the banana to the red_bucket.
+5 Mia exited the hallway and stayed in the waiting_room.
+6 Hannah moved the banana to the red_bottle.
+7 Hannah exited the hallway and stayed in the waiting_room.
+8 Carter moved the banana to the green_envelope.
+9 Carter exited the hallway and stayed in the waiting_room.
+10 Amelia moved the banana to the green_pantry.
+11 Amelia exited the hallway and stayed in the waiting_room.
+12 Mason made no movements and stayed in the hallway for 10 minutes.
+13 Mason exited the hallway and stayed in the waiting_room.
+14 Amelia, Mia and Carter entered the kitchen.
+15 The potato is in the red_basket.
+16 Amelia moved the potato to the green_bottle.
+17 Amelia lost his watch.
+18 Amelia exited the kitchen and stayed in the waiting_room.
+19 Mia made no movements and stayed in the kitchen for 10 minutes.
+20 Mia exited the kitchen and stayed in the waiting_room.
+21 Carter made no movements and stayed in the kitchen for 10 minutes.
+22 Carter exited the kitchen and stayed in the waiting_room.
+23 Mia, Carter, Mason and Amelia entered the bedroom.
+24 The pineapple is in the green_cupboard.
+25 Carter dislikes the broccoli.
+26 Mia made no movements and stayed in the bedroom for 10 minutes.
+27 Mia exited the bedroom and stayed in the waiting_room.
+28 Carter moved the pineapple to the blue_bucket.
+29 Carter exited the bedroom and stayed in the waiting_room.
+30 Mason moved the pineapple to the green_box.
+31 Mason exited the bedroom and stayed in the waiting_room.
+32 Amelia made no movements and stayed in the bedroom for 10 minutes.
+33 Amelia exited the bedroom and stayed in the waiting_room.
+34 Amelia and Carter entered the kitchen.
+35 The potato is in the green_bottle.
+36 Amelia moved the potato to the blue_treasure_chest.
+37 Amelia exited the kitchen and stayed in the waiting_room.
+38 Carter made no movements and stayed in the kitchen for 10 minutes.
+39 Carter exited the kitchen and stayed in the waiting_room.
+Question: Where does Amelia think Mia thinks Carter thinks Hannah thinks the banana is?
+Answer: None
+Choices: A. green_cupboard, B. green_box, C. green_suitcase, D. blue_bucket, E. green_basket, F. red_basket, G. red_crate, H. blue_treasure_chest, I. red_cupboard, J. green_bottle, K. blue_envelope, L. green_pantry, M. red_bottle, N. red_bucket, O. green_envelope

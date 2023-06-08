@@ -1,25 +1,31 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Gracie, Benjamin, Evelyn, Amelia and Jacob entered the garage.
-2 The tomato is in the green_bathtub.
-3 Gracie moved the tomato to the blue_suitcase.
-4 Gracie exited the garage and stayed in the waiting_room.
-5 Benjamin moved the tomato to the blue_envelope.
-6 Benjamin exited the garage and stayed in the waiting_room.
-7 Evelyn moved the tomato to the blue_bucket.
-8 Evelyn exited the garage and stayed in the waiting_room.
-9 Amelia moved the tomato to the red_bucket.
-10 Amelia exited the garage and stayed in the waiting_room.
-11 Jacob made no movements and stayed in the garage for 10 minutes.
-12 Jacob exited the garage and stayed in the waiting_room.
-13 Gracie, Amelia and Evelyn entered the crawlspace.
-14 The pumpkin is in the green_bottle.
-15 Gracie made no movements and stayed in the crawlspace for 10 minutes.
-16 Gracie exited the crawlspace and stayed in the waiting_room.
-17 Amelia made no movements and stayed in the crawlspace for 10 minutes.
-18 Amelia exited the crawlspace and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the crawlspace for 10 minutes.
-20 Evelyn exited the crawlspace and stayed in the waiting_room.
-Question: Where does Jacob think Evelyn thinks Gracie thinks the tomato is?
-Answer: None
-Choices: A. green_bathtub, B. blue_envelope, C. blue_suitcase, D. blue_bucket, E. red_bucket, F. green_bottle, G. blue_crate, H. green_treasure_chest, I. red_basket, J. blue_basket, K. blue_box, L. green_envelope, M. red_drawer, N. green_suitcase, O. green_container
+1 Gracie, Abigail, Ethan, Nathan and Aiden entered the laundry.
+2 The watermelon is in the red_bucket.
+3 Abigail dislikes the peach.
+4 Gracie made no movements and stayed in the laundry for 10 minutes.
+5 Ethan likes the blue_cupboard.
+6 Gracie exited the laundry and stayed in the waiting_room.
+7 Abigail moved the watermelon to the blue_drawer.
+8 Gracie likes the blue_bathtub.
+9 Abigail exited the laundry and stayed in the waiting_room.
+10 Ethan likes the red_envelope.
+11 Ethan moved the watermelon to the blue_cupboard.
+12 Ethan exited the laundry and stayed in the waiting_room.
+13 Nathan moved the watermelon to the blue_bottle.
+14 Nathan exited the laundry and stayed in the waiting_room.
+15 Aiden moved the watermelon to the red_bucket.
+16 Nathan likes the red_envelope.
+17 Aiden exited the laundry and stayed in the waiting_room.
+18 Aiden, Nathan and Gracie entered the lounge.
+19 The onion is in the green_treasure_chest.
+20 Aiden moved the onion to the green_suitcase.
+21 Aiden exited the lounge and stayed in the waiting_room.
+22 Nathan moved the onion to the green_cupboard.
+23 Nathan exited the lounge and stayed in the waiting_room.
+24 Aiden lost his bottle.
+25 Gracie made no movements and stayed in the lounge for 10 minutes.
+26 Gracie exited the lounge and stayed in the waiting_room.
+Question: Where does Gracie think Abigail thinks Nathan thinks the watermelon is?
+Answer: red_bucket
+Choices: A. green_bottle, B. red_cupboard, C. red_container, D. red_envelope, E. green_bathtub, F. blue_cupboard, G. red_bucket, H. red_box, I. blue_bottle, J. blue_drawer, K. green_treasure_chest, L. blue_bathtub, M. green_suitcase, N. green_cupboard, O. green_basket

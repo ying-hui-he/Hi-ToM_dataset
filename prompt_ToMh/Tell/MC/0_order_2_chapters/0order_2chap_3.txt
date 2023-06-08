@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Hannah, James, Benjamin, Olivia and Evelyn entered the garage.
-2 The cherry is in the blue_box.
-3 Hannah made no movements and stayed in the garage for 10 minutes.
-4 Hannah exited the garage and stayed in the waiting_room.
-5 James made no movements and stayed in the garage for 10 minutes.
-6 James exited the garage and stayed in the waiting_room.
-7 Benjamin moved the cherry to the green_bottle.
-8 Benjamin exited the garage and stayed in the waiting_room.
-9 Olivia moved the cherry to the red_envelope.
-10 Olivia exited the garage and stayed in the waiting_room.
-11 Evelyn made no movements and stayed in the garage for 10 minutes.
-12 Evelyn exited the garage and stayed in the waiting_room.
-13 Hannah, Benjamin and Evelyn entered the den.
-14 The cucumber is in the red_container.
-15 Hannah made no movements and stayed in the den for 10 minutes.
-16 Hannah exited the den and stayed in the waiting_room.
-17 Benjamin moved the cucumber to the blue_treasure_chest.
-18 Benjamin exited the den and stayed in the waiting_room.
-19 Evelyn made no movements and stayed in the den for 10 minutes.
-20 Evelyn exited the den and stayed in the waiting_room.
-21 Benjamin privately told Evelyn that the cucumber is actually in the blue_treasure_chest.
-22 Evelyn privately told Olivia that the cucumber is actually in the blue_treasure_chest.
-Question: Where is the cherry really?
-Choices: A. blue_box, B. blue_bucket, C. green_bathtub, D. green_bottle, E. red_envelope, F. blue_bathtub, G. blue_pantry, H. red_bucket, I. green_treasure_chest, J. blue_suitcase, K. blue_bottle, L. red_container, M. blue_treasure_chest, N. blue_basket, O. red_basket
+1 Charlotte, Logan, Jackson, Chloe and Jayden entered the cellar.
+2 The radish is in the blue_cupboard.
+3 Charlotte moved the radish to the red_basket.
+4 Charlotte exited the cellar and stayed in the waiting_room.
+5 Logan made no movements and stayed in the cellar for 10 minutes.
+6 Logan exited the cellar and stayed in the waiting_room.
+7 Jackson moved the radish to the green_bucket.
+8 Jackson exited the cellar and stayed in the waiting_room.
+9 Chloe made no movements and stayed in the cellar for 10 minutes.
+10 Chloe exited the cellar and stayed in the waiting_room.
+11 Jayden dislikes the pumpkin.
+12 Jayden made no movements and stayed in the cellar for 10 minutes.
+13 Jayden exited the cellar and stayed in the waiting_room.
+14 Charlotte, Jackson and Logan entered the garden.
+15 The celery is in the green_treasure_chest.
+16 Charlotte made no movements and stayed in the garden for 10 minutes.
+17 Charlotte exited the garden and stayed in the waiting_room.
+18 Jackson made no movements and stayed in the garden for 10 minutes.
+19 Jackson exited the garden and stayed in the waiting_room.
+20 Logan dislikes the pumpkin.
+21 Logan made no movements and stayed in the garden for 10 minutes.
+22 Logan exited the garden and stayed in the waiting_room.
+23 Charlotte publicly claimed that celery is in the green_treasure_chest.
+24 Logan privately told Jayden that the celery is actually in the green_treasure_chest.
+Question: Where is the radish really?
+Choices: A. green_envelope, B. blue_bucket, C. red_container, D. blue_bottle, E. red_bucket, F. blue_bathtub, G. green_treasure_chest, H. green_basket, I. green_suitcase, J. green_box, K. blue_cupboard, L. red_bottle, M. red_basket, N. red_crate, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

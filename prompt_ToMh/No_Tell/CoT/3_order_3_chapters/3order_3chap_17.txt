@@ -1,35 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aiden, Emma, Gracie, Ethan and Owen entered the closet.
-2 The onion is in the green_crate.
-3 Aiden moved the onion to the red_bottle.
-4 Aiden exited the closet and stayed in the waiting_room.
-5 Emma moved the onion to the red_basket.
-6 Emma exited the closet and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the closet for 10 minutes.
-8 Gracie exited the closet and stayed in the waiting_room.
-9 Ethan moved the onion to the blue_bucket.
-10 Ethan exited the closet and stayed in the waiting_room.
-11 Owen made no movements and stayed in the closet for 10 minutes.
-12 Owen exited the closet and stayed in the waiting_room.
-13 Gracie, Owen and Ethan entered the garage.
-14 The tomato is in the blue_suitcase.
-15 Gracie moved the tomato to the blue_container.
-16 Gracie exited the garage and stayed in the waiting_room.
-17 Owen moved the tomato to the red_suitcase.
-18 Owen exited the garage and stayed in the waiting_room.
-19 Ethan moved the tomato to the red_crate.
-20 Ethan exited the garage and stayed in the waiting_room.
-21 Ethan, Aiden, Owen and Gracie entered the closet.
-22 The onion is in the blue_bucket.
-23 Ethan moved the onion to the red_basket.
-24 Ethan exited the closet and stayed in the waiting_room.
-25 Aiden made no movements and stayed in the closet for 10 minutes.
-26 Aiden exited the closet and stayed in the waiting_room.
-27 Owen made no movements and stayed in the closet for 10 minutes.
-28 Owen exited the closet and stayed in the waiting_room.
-29 Gracie moved the onion to the red_bottle.
-30 Gracie exited the closet and stayed in the waiting_room.
-Question: Where does Owen think Gracie thinks Emma thinks the onion is?
-Choices: A. green_crate, B. red_basket, C. blue_bucket, D. red_bottle, E. red_envelope, F. red_crate, G. blue_suitcase, H. blue_container, I. blue_drawer, J. red_suitcase, K. blue_box, L. blue_bottle, M. blue_envelope, N. green_bathtub, O. green_bottle
+1 Mia, Isabella, Jacob, Carter and Isla entered the closet.
+2 The watermelon is in the red_bottle.
+3 Mia moved the watermelon to the red_bucket.
+4 Mia exited the closet and stayed in the waiting_room.
+5 Isabella moved the watermelon to the green_treasure_chest.
+6 Isabella exited the closet and stayed in the waiting_room.
+7 Isabella likes the blue_envelope.
+8 Jacob moved the watermelon to the blue_drawer.
+9 Jacob exited the closet and stayed in the waiting_room.
+10 Carter moved the watermelon to the red_bathtub.
+11 Carter exited the closet and stayed in the waiting_room.
+12 Isla moved the watermelon to the red_bottle.
+13 Isla exited the closet and stayed in the waiting_room.
+14 Isla, Carter and Mia entered the closet.
+15 The celery is in the green_treasure_chest.
+16 Isla made no movements and stayed in the closet for 10 minutes.
+17 Isla exited the closet and stayed in the waiting_room.
+18 Carter moved the celery to the red_bottle.
+19 Carter exited the closet and stayed in the waiting_room.
+20 Mia made no movements and stayed in the closet for 10 minutes.
+21 Mia exited the closet and stayed in the waiting_room.
+22 Isla dislikes the watermelon.
+23 Isabella, Mia, Carter and Isla entered the living_room.
+24 Isla saw a mouse.
+25 The persimmon is in the blue_crate.
+26 Isabella made no movements and stayed in the living_room for 10 minutes.
+27 Isabella exited the living_room and stayed in the waiting_room.
+28 Mia made no movements and stayed in the living_room for 10 minutes.
+29 Carter likes the blue_bottle.
+30 Mia exited the living_room and stayed in the waiting_room.
+31 Carter made no movements and stayed in the living_room for 10 minutes.
+32 Carter exited the living_room and stayed in the waiting_room.
+33 Isla made no movements and stayed in the living_room for 10 minutes.
+34 Isla exited the living_room and stayed in the waiting_room.
+Question: Where does Mia think Carter thinks Isabella thinks the watermelon is?
+Choices: A. red_container, B. blue_crate, C. green_basket, D. blue_bottle, E. blue_suitcase, F. green_treasure_chest, G. red_bottle, H. blue_drawer, I. red_bathtub, J. red_bucket, K. red_basket, L. green_suitcase, M. green_box, N. red_envelope, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

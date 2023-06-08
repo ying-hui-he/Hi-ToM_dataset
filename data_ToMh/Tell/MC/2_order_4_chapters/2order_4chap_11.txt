@@ -1,44 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Isla, Aiden, William, Mia and Abigail entered the TV_room.
-2 The peach is in the blue_bucket.
-3 Isla made no movements and stayed in the TV_room for 10 minutes.
-4 Isla exited the TV_room and stayed in the waiting_room.
-5 Aiden moved the peach to the blue_bottle.
-6 Aiden exited the TV_room and stayed in the waiting_room.
-7 William made no movements and stayed in the TV_room for 10 minutes.
-8 William exited the TV_room and stayed in the waiting_room.
-9 Mia moved the peach to the green_cupboard.
-10 Mia exited the TV_room and stayed in the waiting_room.
-11 Abigail moved the peach to the blue_bucket.
-12 Abigail exited the TV_room and stayed in the waiting_room.
-13 Abigail, William and Aiden entered the TV_room.
-14 The peach is in the blue_bucket.
-15 Abigail moved the peach to the red_bucket.
-16 Abigail exited the TV_room and stayed in the waiting_room.
-17 William made no movements and stayed in the TV_room for 10 minutes.
-18 William exited the TV_room and stayed in the waiting_room.
-19 Aiden made no movements and stayed in the TV_room for 10 minutes.
-20 Aiden exited the TV_room and stayed in the waiting_room.
-21 William privately told Aiden that the peach is actually in the green_cupboard.
-22 Aiden privately told Mia that the peach is actually in the red_bucket.
-23 Abigail, Aiden, Mia and Isla entered the garage.
-24 The pumpkin is in the red_crate.
-25 Abigail moved the pumpkin to the blue_bathtub.
-26 Abigail exited the garage and stayed in the waiting_room.
-27 Aiden moved the pumpkin to the blue_pantry.
-28 Aiden exited the garage and stayed in the waiting_room.
-29 Mia moved the pumpkin to the green_container.
-30 Mia exited the garage and stayed in the waiting_room.
-31 Isla made no movements and stayed in the garage for 10 minutes.
-32 Isla exited the garage and stayed in the waiting_room.
-33 William and Isla entered the garage.
-34 The pumpkin is in the green_container.
-35 William made no movements and stayed in the garage for 10 minutes.
-36 William exited the garage and stayed in the waiting_room.
-37 Isla moved the pumpkin to the blue_bathtub.
-38 Isla exited the garage and stayed in the waiting_room.
-39 William privately told Abigail that the pumpkin is actually in the blue_pantry.
-Question: Where does Isla think Aiden thinks the peach is?
-Answer: blue_bucket
-Choices: A. green_cupboard, B. blue_bucket, C. red_bucket, D. blue_bottle, E. green_bottle, F. red_crate, G. blue_pantry, H. green_container, I. green_envelope, J. blue_bathtub, K. blue_container, L. red_suitcase, M. red_drawer, N. blue_treasure_chest, O. blue_box
+1 Gracie, Jackson, Jack, Jacob and Mia entered the living_room.
+2 The watermelon is in the blue_crate.
+3 Gracie moved the watermelon to the red_cupboard.
+4 Gracie exited the living_room and stayed in the waiting_room.
+5 Jackson moved the watermelon to the green_pantry.
+6 Jackson exited the living_room and stayed in the waiting_room.
+7 Jacob likes the blue_drawer.
+8 Jack moved the watermelon to the red_basket.
+9 Jack exited the living_room and stayed in the waiting_room.
+10 Jacob made no movements and stayed in the living_room for 10 minutes.
+11 Jacob exited the living_room and stayed in the waiting_room.
+12 Mia moved the watermelon to the blue_crate.
+13 Mia exited the living_room and stayed in the waiting_room.
+14 Mia, Jack and Jackson entered the living_room.
+15 Mia saw a dog.
+16 The potato is in the blue_bottle.
+17 Mia moved the potato to the green_pantry.
+18 Mia exited the living_room and stayed in the waiting_room.
+19 Jack moved the potato to the red_basket.
+20 Jack exited the living_room and stayed in the waiting_room.
+21 Jackson moved the potato to the red_cupboard.
+22 Jacob likes the green_pantry.
+23 Jackson exited the living_room and stayed in the waiting_room.
+24 Jackson publicly claimed that potato is in the blue_bottle.
+25 Mia privately told Jackson that the potato is actually in the green_pantry.
+26 Mia, Jacob, Jackson and Jack entered the garden.
+27 The beans is in the red_treasure_chest.
+28 Mia moved the beans to the blue_suitcase.
+29 Mia exited the garden and stayed in the waiting_room.
+30 Jacob made no movements and stayed in the garden for 10 minutes.
+31 Jacob exited the garden and stayed in the waiting_room.
+32 Jackson moved the beans to the green_bucket.
+33 Jackson exited the garden and stayed in the waiting_room.
+34 Jack made no movements and stayed in the garden for 10 minutes.
+35 Jack exited the garden and stayed in the waiting_room.
+36 Jacob and Mia entered the garden.
+37 The beans is in the green_bucket.
+38 Jacob made no movements and stayed in the garden for 10 minutes.
+39 Jacob exited the garden and stayed in the waiting_room.
+40 Mia moved the beans to the blue_drawer.
+41 Mia exited the garden and stayed in the waiting_room.
+42 Jack saw a dog.
+43 Mia publicly claimed that beans is in the blue_drawer.
+44 Jacob privately told Mia that the beans is actually in the green_bucket.
+Question: Where does Mia think Jackson thinks the watermelon is?
+Answer: blue_crate
+Choices: A. blue_cupboard, B. red_box, C. blue_treasure_chest, D. red_pantry, E. red_bathtub, F. blue_crate, G. blue_bottle, H. red_basket, I. green_pantry, J. red_cupboard, K. red_treasure_chest, L. green_bucket, M. blue_drawer, N. blue_suitcase, O. blue_envelope

@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Benjamin, Olivia, Aria, Jackson and Aiden entered the cellar.
-2 The orange is in the green_suitcase.
-3 Benjamin moved the orange to the blue_bottle.
-4 Benjamin exited the cellar and stayed in the waiting_room.
-5 Olivia moved the orange to the green_crate.
-6 Olivia exited the cellar and stayed in the waiting_room.
-7 Aria moved the orange to the red_envelope.
-8 Aria exited the cellar and stayed in the waiting_room.
-9 Jackson moved the orange to the blue_treasure_chest.
-10 Jackson exited the cellar and stayed in the waiting_room.
-11 Aiden moved the orange to the green_suitcase.
-12 Aiden exited the cellar and stayed in the waiting_room.
-13 Aria publicly claimed that orange is in the red_envelope.
-14 Aiden privately told Aria that the orange is actually in the blue_bottle.
-Question: Where does Aiden think Jackson thinks Olivia thinks Aria thinks the orange is?
-Choices: A. red_drawer, B. blue_bathtub, C. green_treasure_chest, D. red_crate, E. red_treasure_chest, F. red_bottle, G. blue_drawer, H. red_basket, I. red_container, J. blue_crate, K. green_suitcase, L. green_crate, M. blue_bottle, N. red_envelope, O. blue_treasure_chest
+1 Abigail, Carter, Emily, Charlotte and Alexander entered the hall.
+2 The strawberry is in the red_treasure_chest.
+3 Abigail moved the strawberry to the red_bottle.
+4 Abigail exited the hall and stayed in the waiting_room.
+5 Carter made no movements and stayed in the hall for 10 minutes.
+6 Carter exited the hall and stayed in the waiting_room.
+7 Emily made no movements and stayed in the hall for 10 minutes.
+8 Emily exited the hall and stayed in the waiting_room.
+9 Charlotte moved the strawberry to the red_bathtub.
+10 Charlotte exited the hall and stayed in the waiting_room.
+11 Alexander made no movements and stayed in the hall for 10 minutes.
+12 Alexander exited the hall and stayed in the waiting_room.
+13 Emily privately told Abigail that the strawberry is actually in the red_bottle.
+14 Carter privately told Charlotte that the strawberry is actually in the blue_envelope.
+Question: Where does Abigail think Charlotte thinks Emily thinks Carter thinks the strawberry is?
+Choices: A. blue_suitcase, B. red_basket, C. blue_bucket, D. green_basket, E. blue_drawer, F. green_cupboard, G. green_suitcase, H. green_envelope, I. red_pantry, J. green_box, K. red_bottle, L. red_treasure_chest, M. red_bathtub, N. blue_envelope, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

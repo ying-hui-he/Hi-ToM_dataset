@@ -1,17 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Jayden, Emily, Mila and Ava entered the study.
-2 The pumpkin is in the red_suitcase.
-3 Benjamin moved the pumpkin to the green_cupboard.
-4 Benjamin exited the study and stayed in the waiting_room.
-5 Jayden made no movements and stayed in the study for 10 minutes.
-6 Jayden exited the study and stayed in the waiting_room.
-7 Emily made no movements and stayed in the study for 10 minutes.
-8 Emily exited the study and stayed in the waiting_room.
-9 Mila moved the pumpkin to the blue_treasure_chest.
-10 Mila exited the study and stayed in the waiting_room.
-11 Ava made no movements and stayed in the study for 10 minutes.
-12 Ava exited the study and stayed in the waiting_room.
-Question: Where does Mila think Emily thinks Benjamin thinks the pumpkin is?
-Choices: A. blue_basket, B. green_treasure_chest, C. green_envelope, D. red_envelope, E. blue_crate, F. blue_bucket, G. red_suitcase, H. red_basket, I. green_cupboard, J. blue_treasure_chest, K. blue_bottle, L. blue_pantry, M. green_bathtub, N. red_drawer, O. red_bathtub
+1 Sophia, Mason, Nathan, Emily and Aiden entered the cellar.
+2 Nathan saw a mouse.
+3 The radish is in the blue_bottle.
+4 Sophia moved the radish to the blue_bucket.
+5 Sophia exited the cellar and stayed in the waiting_room.
+6 Mason made no movements and stayed in the cellar for 10 minutes.
+7 Mason exited the cellar and stayed in the waiting_room.
+8 Nathan made no movements and stayed in the cellar for 10 minutes.
+9 Nathan exited the cellar and stayed in the waiting_room.
+10 Emily moved the radish to the green_pantry.
+11 Emily exited the cellar and stayed in the waiting_room.
+12 Emily dislikes the potato.
+13 Aiden moved the radish to the blue_bottle.
+14 Aiden exited the cellar and stayed in the waiting_room.
+Question: Where does Sophia think Nathan thinks Aiden thinks the radish is?
+Choices: A. blue_bottle, B. blue_bucket, C. red_bucket, D. green_pantry, E. blue_treasure_chest, F. blue_bathtub, G. blue_cupboard, H. red_cupboard, I. green_bathtub, J. green_suitcase, K. blue_envelope, L. blue_suitcase, M. red_crate, N. green_envelope, O. red_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

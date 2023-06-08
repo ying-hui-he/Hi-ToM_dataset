@@ -1,41 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Aria, Mila, Ava and Noah entered the patio.
-2 The grapefruit is in the blue_container.
-3 Jackson made no movements and stayed in the patio for 10 minutes.
-4 Jackson exited the patio and stayed in the waiting_room.
-5 Aria made no movements and stayed in the patio for 10 minutes.
-6 Aria exited the patio and stayed in the waiting_room.
-7 Mila made no movements and stayed in the patio for 10 minutes.
-8 Mila exited the patio and stayed in the waiting_room.
-9 Ava moved the grapefruit to the red_bottle.
-10 Ava exited the patio and stayed in the waiting_room.
-11 Noah moved the grapefruit to the blue_container.
-12 Noah exited the patio and stayed in the waiting_room.
-13 Noah, Ava and Aria entered the staircase.
-14 The pineapple is in the red_suitcase.
-15 Noah moved the pineapple to the red_bathtub.
-16 Noah exited the staircase and stayed in the waiting_room.
-17 Ava moved the pineapple to the blue_crate.
-18 Ava exited the staircase and stayed in the waiting_room.
-19 Aria moved the pineapple to the red_crate.
-20 Aria exited the staircase and stayed in the waiting_room.
-21 Noah, Mila, Aria and Jackson entered the patio.
-22 The grapefruit is in the blue_container.
-23 Noah made no movements and stayed in the patio for 10 minutes.
-24 Noah exited the patio and stayed in the waiting_room.
-25 Mila made no movements and stayed in the patio for 10 minutes.
-26 Mila exited the patio and stayed in the waiting_room.
-27 Aria moved the grapefruit to the green_treasure_chest.
-28 Aria exited the patio and stayed in the waiting_room.
-29 Jackson moved the grapefruit to the red_bottle.
-30 Jackson exited the patio and stayed in the waiting_room.
-31 Jackson and Aria entered the patio.
-32 The cherry is in the red_basket.
-33 Jackson moved the cherry to the green_treasure_chest.
-34 Jackson exited the patio and stayed in the waiting_room.
-35 Aria made no movements and stayed in the patio for 10 minutes.
-36 Aria exited the patio and stayed in the waiting_room.
-Question: Where does Aria think the grapefruit is?
-Choices: A. blue_crate, B. red_suitcase, C. red_crate, D. blue_pantry, E. red_bathtub, F. blue_treasure_chest, G. green_container, H. blue_bucket, I. blue_basket, J. red_drawer, K. red_basket, L. blue_container, M. red_envelope, N. green_treasure_chest, O. red_bottle
+1 Liam, Charlotte, Nathan, Emily and Ethan entered the staircase.
+2 Liam saw a mouse.
+3 The banana is in the blue_treasure_chest.
+4 Liam moved the banana to the blue_bucket.
+5 Liam exited the staircase and stayed in the waiting_room.
+6 Charlotte made no movements and stayed in the staircase for 10 minutes.
+7 Charlotte exited the staircase and stayed in the waiting_room.
+8 Nathan made no movements and stayed in the staircase for 10 minutes.
+9 Nathan exited the staircase and stayed in the waiting_room.
+10 Emily moved the banana to the green_basket.
+11 Emily exited the staircase and stayed in the waiting_room.
+12 Ethan made no movements and stayed in the staircase for 10 minutes.
+13 Ethan exited the staircase and stayed in the waiting_room.
+14 Charlotte, Nathan and Emily entered the staircase.
+15 The banana is in the green_basket.
+16 Charlotte made no movements and stayed in the staircase for 10 minutes.
+17 Charlotte exited the staircase and stayed in the waiting_room.
+18 Nathan made no movements and stayed in the staircase for 10 minutes.
+19 Nathan likes the red_container.
+20 Nathan exited the staircase and stayed in the waiting_room.
+21 Emily lost his watch.
+22 Emily moved the banana to the red_basket.
+23 Emily exited the staircase and stayed in the waiting_room.
+24 Charlotte, Ethan, Nathan and Liam entered the den.
+25 The lemon is in the green_bucket.
+26 Charlotte made no movements and stayed in the den for 10 minutes.
+27 Charlotte exited the den and stayed in the waiting_room.
+28 Ethan made no movements and stayed in the den for 10 minutes.
+29 Ethan exited the den and stayed in the waiting_room.
+30 Nathan made no movements and stayed in the den for 10 minutes.
+31 Nathan exited the den and stayed in the waiting_room.
+32 Liam made no movements and stayed in the den for 10 minutes.
+33 Charlotte dislikes the banana.
+34 Liam exited the den and stayed in the waiting_room.
+35 Emily and Charlotte entered the closet.
+36 The potato is in the red_bathtub.
+37 Emily made no movements and stayed in the closet for 10 minutes.
+38 Charlotte lost his phone.
+39 Emily exited the closet and stayed in the waiting_room.
+40 Charlotte moved the potato to the green_suitcase.
+41 Charlotte exited the closet and stayed in the waiting_room.
+42 Charlotte lost his watch.
+Question: Where does Charlotte think the banana is?
+Choices: A. red_bathtub, B. green_pantry, C. green_suitcase, D. blue_cupboard, E. blue_bottle, F. red_container, G. green_bucket, H. red_crate, I. green_cupboard, J. red_bottle, K. blue_treasure_chest, L. green_bottle, M. blue_bucket, N. red_basket, O. green_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

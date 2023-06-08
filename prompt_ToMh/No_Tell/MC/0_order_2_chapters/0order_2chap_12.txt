@@ -1,25 +1,26 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Mila, Aiden, Jackson and Ethan entered the pantry.
-2 The radish is in the green_suitcase.
-3 Evelyn made no movements and stayed in the pantry for 10 minutes.
-4 Evelyn exited the pantry and stayed in the waiting_room.
-5 Mila moved the radish to the green_crate.
-6 Mila exited the pantry and stayed in the waiting_room.
-7 Aiden moved the radish to the blue_treasure_chest.
-8 Aiden exited the pantry and stayed in the waiting_room.
-9 Jackson moved the radish to the blue_suitcase.
-10 Jackson exited the pantry and stayed in the waiting_room.
-11 Ethan moved the radish to the green_suitcase.
-12 Ethan exited the pantry and stayed in the waiting_room.
-13 Aiden, Jackson and Mila entered the pantry.
-14 The radish is in the green_suitcase.
-15 Aiden made no movements and stayed in the pantry for 10 minutes.
-16 Aiden exited the pantry and stayed in the waiting_room.
-17 Jackson moved the radish to the blue_treasure_chest.
-18 Jackson exited the pantry and stayed in the waiting_room.
-19 Mila moved the radish to the blue_suitcase.
-20 Mila exited the pantry and stayed in the waiting_room.
-Question: Where is the radish really?
-Choices: A. blue_envelope, B. blue_crate, C. green_cupboard, D. blue_bucket, E. blue_drawer, F. green_container, G. red_bottle, H. red_basket, I. green_bottle, J. red_bathtub, K. green_suitcase, L. green_crate, M. blue_suitcase, N. blue_treasure_chest, O. blue_container
+1 Amelia, Ella, Nathan, Aiden and Logan entered the workshop.
+2 The persimmon is in the red_treasure_chest.
+3 Amelia moved the persimmon to the green_pantry.
+4 Amelia exited the workshop and stayed in the waiting_room.
+5 Ella made no movements and stayed in the workshop for 10 minutes.
+6 Ella exited the workshop and stayed in the waiting_room.
+7 Nathan made no movements and stayed in the workshop for 10 minutes.
+8 Nathan exited the workshop and stayed in the waiting_room.
+9 Aiden moved the persimmon to the green_suitcase.
+10 Logan lost his bottle.
+11 Aiden exited the workshop and stayed in the waiting_room.
+12 Logan moved the persimmon to the red_treasure_chest.
+13 Logan exited the workshop and stayed in the waiting_room.
+14 Amelia, Aiden and Ella entered the bathroom.
+15 The pineapple is in the blue_crate.
+16 Amelia made no movements and stayed in the bathroom for 10 minutes.
+17 Amelia exited the bathroom and stayed in the waiting_room.
+18 Aiden made no movements and stayed in the bathroom for 10 minutes.
+19 Aiden exited the bathroom and stayed in the waiting_room.
+20 Ella moved the pineapple to the green_envelope.
+21 Ella exited the bathroom and stayed in the waiting_room.
+Question: Where is the persimmon really?
+Choices: A. green_pantry, B. red_treasure_chest, C. green_basket, D. green_suitcase, E. red_pantry, F. green_bucket, G. blue_bottle, H. blue_cupboard, I. green_treasure_chest, J. red_crate, K. green_cupboard, L. blue_crate, M. red_cupboard, N. green_envelope, O. red_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

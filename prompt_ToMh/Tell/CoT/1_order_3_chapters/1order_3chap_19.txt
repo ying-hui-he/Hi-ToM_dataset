@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Aria, Hannah, William, Ella and Abigail entered the porch.
-2 The beans is in the red_crate.
-3 Aria moved the beans to the blue_treasure_chest.
-4 Aria exited the porch and stayed in the waiting_room.
-5 Hannah moved the beans to the blue_bottle.
-6 Hannah exited the porch and stayed in the waiting_room.
-7 William moved the beans to the blue_pantry.
-8 William exited the porch and stayed in the waiting_room.
-9 Ella made no movements and stayed in the porch for 10 minutes.
-10 Ella exited the porch and stayed in the waiting_room.
-11 Abigail moved the beans to the red_crate.
-12 Abigail exited the porch and stayed in the waiting_room.
-13 Ella publicly claimed that beans is in the red_crate.
-14 Abigail privately told Aria that the beans is actually in the red_crate.
-15 Abigail, William and Hannah entered the sunroom.
-16 The cucumber is in the blue_box.
-17 Abigail made no movements and stayed in the sunroom for 10 minutes.
-18 Abigail exited the sunroom and stayed in the waiting_room.
-19 William moved the cucumber to the blue_basket.
-20 William exited the sunroom and stayed in the waiting_room.
-21 Hannah moved the cucumber to the red_bathtub.
-22 Hannah exited the sunroom and stayed in the waiting_room.
-23 Aria, Hannah, William and Ella entered the sunroom.
-24 The peach is in the red_drawer.
-25 Aria made no movements and stayed in the sunroom for 10 minutes.
-26 Aria exited the sunroom and stayed in the waiting_room.
-27 Hannah moved the peach to the blue_box.
-28 Hannah exited the sunroom and stayed in the waiting_room.
-29 William moved the peach to the blue_envelope.
-30 William exited the sunroom and stayed in the waiting_room.
-31 Ella moved the peach to the red_bathtub.
-32 Ella exited the sunroom and stayed in the waiting_room.
-33 Hannah publicly claimed that peach is in the blue_envelope.
-34 Ella privately told William that the peach is actually in the blue_basket.
-Question: Where does Hannah think the beans is?
-Choices: A. green_envelope, B. blue_bathtub, C. green_cupboard, D. red_basket, E. red_container, F. red_drawer, G. blue_box, H. blue_basket, I. blue_envelope, J. red_bathtub, K. red_crate, L. blue_suitcase, M. blue_treasure_chest, N. blue_pantry, O. blue_bottle
+1 Logan likes the red_bottle.
+2 Logan, Jayden, Aria, Jacob and Isabella entered the den.
+3 The grapes is in the red_bottle.
+4 Jacob lost his phone.
+5 Logan moved the grapes to the green_envelope.
+6 Logan exited the den and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the den for 10 minutes.
+8 Jayden exited the den and stayed in the waiting_room.
+9 Aria moved the grapes to the blue_treasure_chest.
+10 Aria exited the den and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the den for 10 minutes.
+12 Jacob exited the den and stayed in the waiting_room.
+13 Isabella moved the grapes to the red_bottle.
+14 Isabella exited the den and stayed in the waiting_room.
+15 Aria privately told Logan that the grapes is actually in the red_bottle.
+16 Jayden privately told Jacob that the grapes is actually in the blue_treasure_chest.
+17 Logan, Isabella and Jacob entered the attic.
+18 The lettuce is in the red_bucket.
+19 Logan moved the lettuce to the green_suitcase.
+20 Logan exited the attic and stayed in the waiting_room.
+21 Isabella moved the lettuce to the blue_bathtub.
+22 Isabella exited the attic and stayed in the waiting_room.
+23 Jacob moved the lettuce to the red_basket.
+24 Jacob exited the attic and stayed in the waiting_room.
+25 Isabella, Jayden, Logan and Jacob entered the den.
+26 The radish is in the green_basket.
+27 Isabella made no movements and stayed in the den for 10 minutes.
+28 Isabella exited the den and stayed in the waiting_room.
+29 Jayden moved the radish to the blue_bottle.
+30 Jayden exited the den and stayed in the waiting_room.
+31 Logan moved the radish to the green_envelope.
+32 Logan exited the den and stayed in the waiting_room.
+33 Jacob made no movements and stayed in the den for 10 minutes.
+34 Jacob exited the den and stayed in the waiting_room.
+35 Logan publicly claimed that radish is in the green_envelope.
+36 Isabella privately told Jacob that the radish is actually in the blue_treasure_chest.
+37 Jayden saw a monkey.
+Question: Where does Jacob think the grapes is?
+39 Jayden saw a monkey.
+Choices: A. green_suitcase, B. red_bucket, C. blue_bathtub, D. red_basket, E. green_cupboard, F. green_basket, G. red_bottle, H. green_envelope, I. blue_bottle, J. blue_treasure_chest, K. blue_bucket, L. red_bathtub, M. red_treasure_chest, N. green_treasure_chest, O. green_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

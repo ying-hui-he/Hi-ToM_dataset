@@ -1,39 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Aiden, Ava, Emily and Ella entered the pantry.
-2 The pumpkin is in the red_envelope.
-3 Jackson made no movements and stayed in the pantry for 10 minutes.
-4 Jackson exited the pantry and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the pantry for 10 minutes.
-6 Aiden exited the pantry and stayed in the waiting_room.
-7 Ava moved the pumpkin to the red_bucket.
-8 Ava exited the pantry and stayed in the waiting_room.
-9 Emily moved the pumpkin to the blue_container.
-10 Emily exited the pantry and stayed in the waiting_room.
-11 Ella made no movements and stayed in the pantry for 10 minutes.
-12 Ella exited the pantry and stayed in the waiting_room.
-13 Ava privately told Jackson that the pumpkin is actually in the red_envelope.
-14 Aiden privately told Emily that the pumpkin is actually in the red_bucket.
-15 Ava, Emily and Ella entered the garden.
-16 The pear is in the green_cupboard.
-17 Ava made no movements and stayed in the garden for 10 minutes.
-18 Ava exited the garden and stayed in the waiting_room.
-19 Emily made no movements and stayed in the garden for 10 minutes.
-20 Emily exited the garden and stayed in the waiting_room.
-21 Ella made no movements and stayed in the garden for 10 minutes.
-22 Ella exited the garden and stayed in the waiting_room.
-23 Ella, Jackson, Ava and Aiden entered the pantry.
-24 The onion is in the blue_pantry.
-25 Ella made no movements and stayed in the pantry for 10 minutes.
-26 Ella exited the pantry and stayed in the waiting_room.
-27 Jackson moved the onion to the red_bucket.
-28 Jackson exited the pantry and stayed in the waiting_room.
-29 Ava made no movements and stayed in the pantry for 10 minutes.
-30 Ava exited the pantry and stayed in the waiting_room.
-31 Aiden moved the onion to the red_envelope.
-32 Aiden exited the pantry and stayed in the waiting_room.
-33 Jackson privately told Ava that the onion is actually in the red_envelope.
-34 Aiden privately told Emily that the onion is actually in the red_envelope.
-Question: Where does Ella think Aiden thinks Jackson thinks Emily thinks the pumpkin is?
+1 Lucas, Sophia, Isla, Ethan and Abigail entered the kitchen.
+2 The green_pepper is in the red_pantry.
+3 Lucas moved the green_pepper to the red_treasure_chest.
+4 Lucas exited the kitchen and stayed in the waiting_room.
+5 Sophia made no movements and stayed in the kitchen for 10 minutes.
+6 Sophia exited the kitchen and stayed in the waiting_room.
+7 Sophia saw a cat.
+8 Isla moved the green_pepper to the blue_bathtub.
+9 Isla exited the kitchen and stayed in the waiting_room.
+10 Ethan moved the green_pepper to the blue_treasure_chest.
+11 Ethan exited the kitchen and stayed in the waiting_room.
+12 Abigail moved the green_pepper to the red_pantry.
+13 Abigail exited the kitchen and stayed in the waiting_room.
+14 Ethan publicly claimed that green_pepper is in the red_treasure_chest.
+15 Abigail privately told Lucas that the green_pepper is actually in the red_pantry.
+16 Ethan, Lucas and Isla entered the kitchen.
+17 The radish is in the red_treasure_chest.
+18 Ethan likes the green_envelope.
+19 Ethan moved the radish to the blue_envelope.
+20 Ethan exited the kitchen and stayed in the waiting_room.
+21 Isla lost his phone.
+22 Lucas moved the radish to the blue_treasure_chest.
+23 Lucas exited the kitchen and stayed in the waiting_room.
+24 Abigail saw a mouse.
+25 Isla made no movements and stayed in the kitchen for 10 minutes.
+26 Isla exited the kitchen and stayed in the waiting_room.
+27 Sophia, Lucas, Abigail and Isla entered the TV_room.
+28 The onion is in the blue_bucket.
+29 Sophia made no movements and stayed in the TV_room for 10 minutes.
+30 Sophia exited the TV_room and stayed in the waiting_room.
+31 Lucas moved the onion to the green_suitcase.
+32 Lucas exited the TV_room and stayed in the waiting_room.
+33 Abigail made no movements and stayed in the TV_room for 10 minutes.
+34 Abigail exited the TV_room and stayed in the waiting_room.
+35 Isla moved the onion to the green_bathtub.
+36 Isla exited the TV_room and stayed in the waiting_room.
+37 Abigail publicly claimed that onion is in the green_suitcase.
+38 Sophia privately told Isla that the onion is actually in the green_envelope.
+Question: Where does Abigail think Isla thinks Sophia thinks Ethan thinks the green_pepper is?
 Answer: None
-Choices: A. blue_bathtub, B. green_suitcase, C. blue_treasure_chest, D. blue_crate, E. blue_drawer, F. blue_pantry, G. red_envelope, H. red_bucket, I. red_drawer, J. blue_container, K. red_container, L. green_cupboard, M. blue_bucket, N. red_treasure_chest, O. blue_envelope
+Choices: A. blue_bucket, B. green_basket, C. green_envelope, D. green_suitcase, E. green_bathtub, F. red_envelope, G. green_bucket, H. green_pantry, I. red_bottle, J. green_treasure_chest, K. red_pantry, L. red_treasure_chest, M. blue_envelope, N. blue_bathtub, O. blue_treasure_chest

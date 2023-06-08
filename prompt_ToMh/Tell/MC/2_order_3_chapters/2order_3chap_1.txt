@@ -1,39 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Isla, Aiden, Oliver, Benjamin and Olivia entered the closet.
-2 The peach is in the green_bottle.
-3 Isla made no movements and stayed in the closet for 10 minutes.
-4 Isla exited the closet and stayed in the waiting_room.
-5 Aiden made no movements and stayed in the closet for 10 minutes.
-6 Aiden exited the closet and stayed in the waiting_room.
-7 Oliver moved the peach to the red_bathtub.
-8 Oliver exited the closet and stayed in the waiting_room.
-9 Benjamin moved the peach to the green_container.
-10 Benjamin exited the closet and stayed in the waiting_room.
-11 Olivia made no movements and stayed in the closet for 10 minutes.
-12 Olivia exited the closet and stayed in the waiting_room.
-13 Benjamin publicly claimed that peach is in the green_container.
-14 Olivia privately told Isla that the peach is actually in the green_container.
-15 Oliver, Aiden and Benjamin entered the closet.
-16 The strawberry is in the red_bathtub.
-17 Oliver moved the strawberry to the green_container.
-18 Oliver exited the closet and stayed in the waiting_room.
-19 Aiden moved the strawberry to the green_bottle.
-20 Aiden exited the closet and stayed in the waiting_room.
-21 Benjamin made no movements and stayed in the closet for 10 minutes.
-22 Benjamin exited the closet and stayed in the waiting_room.
-23 Olivia, Benjamin, Oliver and Aiden entered the closet.
-24 The peach is in the green_container.
-25 Olivia made no movements and stayed in the closet for 10 minutes.
-26 Olivia exited the closet and stayed in the waiting_room.
-27 Benjamin moved the peach to the green_treasure_chest.
-28 Benjamin exited the closet and stayed in the waiting_room.
-29 Oliver moved the peach to the green_bottle.
-30 Oliver exited the closet and stayed in the waiting_room.
-31 Aiden moved the peach to the red_bathtub.
-32 Aiden exited the closet and stayed in the waiting_room.
-33 Olivia publicly claimed that peach is in the green_treasure_chest.
-34 Aiden privately told Isla that the peach is actually in the red_bathtub.
-Question: Where does Aiden think Oliver thinks the peach is?
-Choices: A. green_bottle, B. red_bathtub, C. green_envelope, D. green_treasure_chest, E. green_container, F. red_basket, G. green_bathtub, H. blue_bathtub, I. blue_crate, J. green_cupboard, K. blue_bucket, L. blue_drawer, M. red_crate, N. red_bottle, O. red_suitcase
+1 Aria, Aiden, Amelia, Nathan and Ethan entered the master_bedroom.
+2 Ethan lost his watch.
+3 The apple is in the green_suitcase.
+4 Aria made no movements and stayed in the master_bedroom for 10 minutes.
+5 Aria exited the master_bedroom and stayed in the waiting_room.
+6 Aiden moved the apple to the green_treasure_chest.
+7 Aiden exited the master_bedroom and stayed in the waiting_room.
+8 Amelia moved the apple to the green_envelope.
+9 Amelia exited the master_bedroom and stayed in the waiting_room.
+10 Nathan moved the apple to the green_bottle.
+11 Nathan exited the master_bedroom and stayed in the waiting_room.
+12 Ethan made no movements and stayed in the master_bedroom for 10 minutes.
+13 Ethan exited the master_bedroom and stayed in the waiting_room.
+14 Nathan publicly claimed that apple is in the green_bottle.
+15 Ethan privately told Aria that the apple is actually in the green_bottle.
+16 Aiden, Ethan and Nathan entered the patio.
+17 The beans is in the red_treasure_chest.
+18 Ethan lost his bottle.
+19 Aiden moved the beans to the blue_drawer.
+20 Aiden exited the patio and stayed in the waiting_room.
+21 Ethan moved the beans to the blue_bucket.
+22 Ethan exited the patio and stayed in the waiting_room.
+23 Nathan moved the beans to the red_bucket.
+24 Aiden dislikes the beans.
+25 Nathan exited the patio and stayed in the waiting_room.
+26 Aiden, Amelia, Ethan and Aria entered the patio.
+27 The beans is in the red_bucket.
+28 Aiden moved the beans to the blue_bucket.
+29 Aiden exited the patio and stayed in the waiting_room.
+30 Amelia moved the beans to the red_treasure_chest.
+31 Amelia lost his phone.
+32 Amelia exited the patio and stayed in the waiting_room.
+33 Ethan made no movements and stayed in the patio for 10 minutes.
+34 Ethan exited the patio and stayed in the waiting_room.
+35 Aria moved the beans to the red_crate.
+36 Ethan likes the blue_treasure_chest.
+37 Aria exited the patio and stayed in the waiting_room.
+38 Amelia privately told Ethan that the beans is actually in the red_treasure_chest.
+39 Aria privately told Nathan that the beans is actually in the red_crate.
+Question: Where does Amelia think Nathan thinks the apple is?
+Choices: A. green_envelope, B. green_suitcase, C. green_treasure_chest, D. green_bottle, E. blue_treasure_chest, F. red_treasure_chest, G. blue_bucket, H. red_bucket, I. blue_drawer, J. red_crate, K. green_cupboard, L. red_pantry, M. red_box, N. red_container, O. red_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

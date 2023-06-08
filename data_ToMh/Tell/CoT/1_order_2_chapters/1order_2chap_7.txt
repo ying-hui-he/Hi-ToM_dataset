@@ -1,27 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Carter, Jackson, Jacob, Hannah and Logan entered the patio.
-2 The spinach is in the blue_bucket.
-3 Carter made no movements and stayed in the patio for 10 minutes.
-4 Carter exited the patio and stayed in the waiting_room.
-5 Jackson made no movements and stayed in the patio for 10 minutes.
-6 Jackson exited the patio and stayed in the waiting_room.
-7 Jacob made no movements and stayed in the patio for 10 minutes.
-8 Jacob exited the patio and stayed in the waiting_room.
-9 Hannah moved the spinach to the green_bottle.
-10 Hannah exited the patio and stayed in the waiting_room.
-11 Logan made no movements and stayed in the patio for 10 minutes.
-12 Logan exited the patio and stayed in the waiting_room.
-13 Carter, Jackson and Jacob entered the office.
-14 The lemon is in the green_envelope.
-15 Carter made no movements and stayed in the office for 10 minutes.
-16 Carter exited the office and stayed in the waiting_room.
-17 Jackson moved the lemon to the red_treasure_chest.
-18 Jackson exited the office and stayed in the waiting_room.
-19 Jacob moved the lemon to the blue_drawer.
-20 Jacob exited the office and stayed in the waiting_room.
-21 Jackson privately told Jacob that the lemon is actually in the blue_drawer.
-22 Jacob privately told Logan that the lemon is actually in the blue_drawer.
-Question: Where does Logan think the spinach is?
-Answer: green_bottle
-Choices: A. red_container, B. red_bathtub, C. red_suitcase, D. blue_container, E. blue_basket, F. green_container, G. green_envelope, H. blue_drawer, I. red_treasure_chest, J. red_envelope, K. blue_bucket, L. green_bottle, M. blue_treasure_chest, N. green_bathtub, O. red_bucket
+1 Emily, Abigail, Ava, Carter and Mia entered the pantry.
+2 Emily likes the green_bucket.
+3 The banana is in the green_envelope.
+4 Emily moved the banana to the red_box.
+5 Emily exited the pantry and stayed in the waiting_room.
+6 Abigail moved the banana to the green_treasure_chest.
+7 Abigail exited the pantry and stayed in the waiting_room.
+8 Ava made no movements and stayed in the pantry for 10 minutes.
+9 Mia lost his phone.
+10 Ava exited the pantry and stayed in the waiting_room.
+11 Carter made no movements and stayed in the pantry for 10 minutes.
+12 Carter exited the pantry and stayed in the waiting_room.
+13 Mia made no movements and stayed in the pantry for 10 minutes.
+14 Mia exited the pantry and stayed in the waiting_room.
+15 Emily, Mia and Carter entered the pantry.
+16 The banana is in the green_treasure_chest.
+17 Emily made no movements and stayed in the pantry for 10 minutes.
+18 Emily exited the pantry and stayed in the waiting_room.
+19 Mia made no movements and stayed in the pantry for 10 minutes.
+20 Mia exited the pantry and stayed in the waiting_room.
+21 Carter made no movements and stayed in the pantry for 10 minutes.
+22 Carter exited the pantry and stayed in the waiting_room.
+23 Ava dislikes the potato.
+24 Mia publicly claimed that banana is in the red_treasure_chest.
+25 Carter privately told Mia that the banana is actually in the green_treasure_chest.
+Question: Where does Abigail think the banana is?
+Answer: red_treasure_chest
+Choices: A. red_container, B. blue_bucket, C. green_bathtub, D. blue_crate, E. green_bucket, F. blue_bathtub, G. blue_envelope, H. blue_bottle, I. blue_suitcase, J. red_bathtub, K. red_envelope, L. green_envelope, M. green_treasure_chest, N. red_treasure_chest, O. red_box

@@ -1,39 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Benjamin, Abigail, Avery, Charlotte and James entered the closet.
-2 The orange is in the blue_basket.
-3 Benjamin moved the orange to the red_envelope.
-4 Benjamin exited the closet and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the closet for 10 minutes.
-6 Abigail exited the closet and stayed in the waiting_room.
-7 Avery moved the orange to the green_container.
-8 Avery exited the closet and stayed in the waiting_room.
-9 Charlotte made no movements and stayed in the closet for 10 minutes.
-10 Charlotte exited the closet and stayed in the waiting_room.
-11 James moved the orange to the blue_basket.
-12 James exited the closet and stayed in the waiting_room.
-13 Charlotte publicly claimed that orange is in the blue_basket.
-14 James privately told Benjamin that the orange is actually in the blue_basket.
-15 Charlotte, Abigail and Avery entered the master_bedroom.
-16 The asparagus is in the blue_container.
-17 Charlotte moved the asparagus to the green_suitcase.
-18 Charlotte exited the master_bedroom and stayed in the waiting_room.
-19 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
-20 Abigail exited the master_bedroom and stayed in the waiting_room.
-21 Avery moved the asparagus to the green_bottle.
-22 Avery exited the master_bedroom and stayed in the waiting_room.
-23 James, Charlotte, Benjamin and Abigail entered the master_bedroom.
-24 The asparagus is in the green_bottle.
-25 James moved the asparagus to the blue_treasure_chest.
-26 James exited the master_bedroom and stayed in the waiting_room.
-27 Charlotte made no movements and stayed in the master_bedroom for 10 minutes.
-28 Charlotte exited the master_bedroom and stayed in the waiting_room.
-29 Benjamin made no movements and stayed in the master_bedroom for 10 minutes.
-30 Benjamin exited the master_bedroom and stayed in the waiting_room.
-31 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
-32 Abigail exited the master_bedroom and stayed in the waiting_room.
-33 Charlotte publicly claimed that asparagus is in the green_bottle.
-34 Abigail privately told Benjamin that the asparagus is actually in the blue_treasure_chest.
-Question: Where is the orange really?
-Answer: blue_basket
-Choices: A. blue_drawer, B. blue_bucket, C. blue_envelope, D. red_crate, E. red_basket, F. blue_suitcase, G. blue_basket, H. blue_bathtub, I. red_envelope, J. green_container, K. green_bottle, L. blue_container, M. green_suitcase, N. red_suitcase, O. blue_treasure_chest
+1 Jayden, Emily, Amelia, Hannah and Logan entered the living_room.
+2 The grapes is in the green_bathtub.
+3 Logan saw a cat.
+4 Jayden moved the grapes to the red_cupboard.
+5 Jayden exited the living_room and stayed in the waiting_room.
+6 Emily made no movements and stayed in the living_room for 10 minutes.
+7 Emily exited the living_room and stayed in the waiting_room.
+8 Amelia made no movements and stayed in the living_room for 10 minutes.
+9 Amelia exited the living_room and stayed in the waiting_room.
+10 Jayden lost his watch.
+11 Hannah moved the grapes to the green_bottle.
+12 Logan lost his watch.
+13 Hannah exited the living_room and stayed in the waiting_room.
+14 Logan made no movements and stayed in the living_room for 10 minutes.
+15 Logan exited the living_room and stayed in the waiting_room.
+16 Amelia publicly claimed that grapes is in the blue_cupboard.
+17 Logan privately told Amelia that the grapes is actually in the red_cupboard.
+18 Amelia, Logan and Emily entered the living_room.
+19 The grapes is in the green_bottle.
+20 Amelia made no movements and stayed in the living_room for 10 minutes.
+21 Amelia exited the living_room and stayed in the waiting_room.
+22 Emily dislikes the apple.
+23 Logan made no movements and stayed in the living_room for 10 minutes.
+24 Logan exited the living_room and stayed in the waiting_room.
+25 Emily made no movements and stayed in the living_room for 10 minutes.
+26 Emily exited the living_room and stayed in the waiting_room.
+27 Amelia, Hannah, Logan and Jayden entered the living_room.
+28 The grapes is in the green_bottle.
+29 Amelia made no movements and stayed in the living_room for 10 minutes.
+30 Amelia exited the living_room and stayed in the waiting_room.
+31 Hannah made no movements and stayed in the living_room for 10 minutes.
+32 Hannah exited the living_room and stayed in the waiting_room.
+33 Logan moved the grapes to the blue_cupboard.
+34 Logan exited the living_room and stayed in the waiting_room.
+35 Jayden moved the grapes to the green_bathtub.
+36 Jayden exited the living_room and stayed in the waiting_room.
+37 Hannah privately told Logan that the grapes is actually in the blue_cupboard.
+38 Jayden privately told Emily that the grapes is actually in the green_bathtub.
+39 Jayden likes the green_bathtub.
+Question: Where is the grapes really?
+Answer: green_bathtub
+Choices: A. green_bottle, B. green_bathtub, C. red_cupboard, D. blue_cupboard, E. red_container, F. red_bathtub, G. blue_drawer, H. green_bucket, I. red_envelope, J. red_box, K. red_bottle, L. green_envelope, M. green_box, N. green_treasure_chest, O. green_suitcase
