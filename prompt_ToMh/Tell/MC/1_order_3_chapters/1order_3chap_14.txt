@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Oliver, Evelyn, Olivia, William and Emily entered the basement.
+2 The pear is in the blue_bucket.
+3 Oliver made no movements and stayed in the basement for 10 minutes.
+4 Oliver exited the basement and stayed in the waiting_room.
+5 Evelyn made no movements and stayed in the basement for 10 minutes.
+6 Evelyn exited the basement and stayed in the waiting_room.
+7 Olivia made no movements and stayed in the basement for 10 minutes.
+8 Olivia exited the basement and stayed in the waiting_room.
+9 William made no movements and stayed in the basement for 10 minutes.
+10 William exited the basement and stayed in the waiting_room.
+11 Emily made no movements and stayed in the basement for 10 minutes.
+12 Emily exited the basement and stayed in the waiting_room.
+13 William publicly claimed that pear is in the blue_bucket.
+14 Emily privately told Oliver that the pear is actually in the blue_bucket.
+15 Emily, Oliver and Olivia entered the garage.
+16 The potato is in the green_bathtub.
+17 Emily moved the potato to the blue_pantry.
+18 Emily exited the garage and stayed in the waiting_room.
+19 Oliver made no movements and stayed in the garage for 10 minutes.
+20 Oliver exited the garage and stayed in the waiting_room.
+21 Olivia moved the potato to the red_bathtub.
+22 Olivia exited the garage and stayed in the waiting_room.
+23 Emily, Oliver, Olivia and William entered the lounge.
+24 The cherry is in the green_envelope.
+25 Emily moved the cherry to the green_container.
+26 Emily exited the lounge and stayed in the waiting_room.
+27 Oliver moved the cherry to the red_treasure_chest.
+28 Oliver exited the lounge and stayed in the waiting_room.
+29 Olivia made no movements and stayed in the lounge for 10 minutes.
+30 Olivia exited the lounge and stayed in the waiting_room.
+31 William made no movements and stayed in the lounge for 10 minutes.
+32 William exited the lounge and stayed in the waiting_room.
+33 Emily publicly claimed that cherry is in the green_envelope.
+34 William privately told Evelyn that the cherry is actually in the red_treasure_chest.
+Question: Where does Evelyn think the pear is?
+Choices: A. blue_bucket, B. blue_suitcase, C. red_drawer, D. red_envelope, E. red_basket, F. green_envelope, G. green_container, H. red_suitcase, I. red_treasure_chest, J. blue_bottle, K. blue_pantry, L. green_bathtub, M. red_bathtub, N. red_crate, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

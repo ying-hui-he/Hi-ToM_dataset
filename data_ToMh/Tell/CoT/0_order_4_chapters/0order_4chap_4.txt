@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 William, Jackson, Amelia, James and Isla entered the pantry.
+2 The banana is in the green_crate.
+3 William made no movements and stayed in the pantry for 10 minutes.
+4 William exited the pantry and stayed in the waiting_room.
+5 Jackson moved the banana to the red_bathtub.
+6 Jackson exited the pantry and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the pantry for 10 minutes.
+8 Amelia exited the pantry and stayed in the waiting_room.
+9 James moved the banana to the red_basket.
+10 James exited the pantry and stayed in the waiting_room.
+11 Isla moved the banana to the green_crate.
+12 Isla exited the pantry and stayed in the waiting_room.
+13 James, Isla and Amelia entered the closet.
+14 The cucumber is in the green_cupboard.
+15 James moved the cucumber to the blue_bottle.
+16 James exited the closet and stayed in the waiting_room.
+17 Isla moved the cucumber to the green_bottle.
+18 Isla exited the closet and stayed in the waiting_room.
+19 Amelia moved the cucumber to the blue_box.
+20 Amelia exited the closet and stayed in the waiting_room.
+21 Amelia publicly claimed that cucumber is in the green_bottle.
+22 James privately told Amelia that the cucumber is actually in the red_drawer.
+23 Isla, Amelia, William and James entered the closet.
+24 The cucumber is in the blue_box.
+25 Isla made no movements and stayed in the closet for 10 minutes.
+26 Isla exited the closet and stayed in the waiting_room.
+27 Amelia moved the cucumber to the red_drawer.
+28 Amelia exited the closet and stayed in the waiting_room.
+29 William made no movements and stayed in the closet for 10 minutes.
+30 William exited the closet and stayed in the waiting_room.
+31 James moved the cucumber to the green_bottle.
+32 James exited the closet and stayed in the waiting_room.
+33 Isla and James entered the TV_room.
+34 The carrot is in the red_treasure_chest.
+35 Isla moved the carrot to the blue_bathtub.
+36 Isla exited the TV_room and stayed in the waiting_room.
+37 James made no movements and stayed in the TV_room for 10 minutes.
+38 James exited the TV_room and stayed in the waiting_room.
+39 James publicly claimed that carrot is in the blue_suitcase.
+40 Isla privately told James that the carrot is actually in the red_treasure_chest.
+Question: Where is the banana really?
+Answer: green_crate
+Choices: A. green_crate, B. blue_treasure_chest, C. green_bathtub, D. red_basket, E. red_bathtub, F. red_drawer, G. green_cupboard, H. green_bottle, I. blue_box, J. blue_bottle, K. red_suitcase, L. red_treasure_chest, M. blue_bathtub, N. red_crate, O. blue_suitcase

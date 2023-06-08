@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Gracie, Benjamin, Charlotte, Ella and Jack entered the lounge.
+2 The green_pepper is in the green_envelope.
+3 Gracie made no movements and stayed in the lounge for 10 minutes.
+4 Gracie exited the lounge and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the lounge for 10 minutes.
+6 Benjamin exited the lounge and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the lounge for 10 minutes.
+8 Charlotte exited the lounge and stayed in the waiting_room.
+9 Ella moved the green_pepper to the green_bottle.
+10 Ella exited the lounge and stayed in the waiting_room.
+11 Jack moved the green_pepper to the green_envelope.
+12 Jack exited the lounge and stayed in the waiting_room.
+13 Gracie, Charlotte and Jack entered the lounge.
+14 The strawberry is in the blue_suitcase.
+15 Gracie made no movements and stayed in the lounge for 10 minutes.
+16 Gracie exited the lounge and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the lounge for 10 minutes.
+18 Charlotte exited the lounge and stayed in the waiting_room.
+19 Jack moved the strawberry to the green_envelope.
+20 Jack exited the lounge and stayed in the waiting_room.
+21 Charlotte privately told Jack that the strawberry is actually in the blue_suitcase.
+22 Jack privately told Ella that the strawberry is actually in the green_envelope.
+Question: Where does Benjamin think Jack thinks the green_pepper is?
+Choices: A. red_crate, B. green_cupboard, C. red_bottle, D. green_container, E. green_suitcase, F. blue_container, G. green_treasure_chest, H. blue_crate, I. red_bucket, J. red_suitcase, K. green_envelope, L. blue_suitcase, M. blue_bathtub, N. blue_treasure_chest, O. green_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

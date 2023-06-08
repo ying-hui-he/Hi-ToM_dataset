@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Jacob, Noah, William and Jackson entered the front_yard.
+2 The cucumber is in the green_envelope.
+3 Owen moved the cucumber to the green_cupboard.
+4 Owen exited the front_yard and stayed in the waiting_room.
+5 Jacob moved the cucumber to the blue_crate.
+6 Jacob exited the front_yard and stayed in the waiting_room.
+7 Noah made no movements and stayed in the front_yard for 10 minutes.
+8 Noah exited the front_yard and stayed in the waiting_room.
+9 William moved the cucumber to the blue_box.
+10 William exited the front_yard and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the front_yard for 10 minutes.
+12 Jackson exited the front_yard and stayed in the waiting_room.
+Question: Where does Owen think William thinks Jacob thinks Jackson thinks the cucumber is?
+Choices: A. green_treasure_chest, B. green_bottle, C. blue_drawer, D. blue_container, E. green_bathtub, F. green_container, G. red_suitcase, H. red_bucket, I. red_treasure_chest, J. green_crate, K. green_envelope, L. blue_crate, M. blue_bottle, N. green_cupboard, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

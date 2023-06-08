@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emily, Ava, Emma, Jack and Benjamin entered the staircase.
+2 The apple is in the green_container.
+3 Emily moved the apple to the red_bottle.
+4 Emily exited the staircase and stayed in the waiting_room.
+5 Ava moved the apple to the red_envelope.
+6 Ava exited the staircase and stayed in the waiting_room.
+7 Emma made no movements and stayed in the staircase for 10 minutes.
+8 Emma exited the staircase and stayed in the waiting_room.
+9 Jack moved the apple to the blue_container.
+10 Jack exited the staircase and stayed in the waiting_room.
+11 Benjamin made no movements and stayed in the staircase for 10 minutes.
+12 Benjamin exited the staircase and stayed in the waiting_room.
+13 Emily, Emma and Benjamin entered the bathroom.
+14 The tangerine is in the red_bucket.
+15 Emily moved the tangerine to the green_crate.
+16 Emily exited the bathroom and stayed in the waiting_room.
+17 Emma made no movements and stayed in the bathroom for 10 minutes.
+18 Emma exited the bathroom and stayed in the waiting_room.
+19 Benjamin made no movements and stayed in the bathroom for 10 minutes.
+20 Benjamin exited the bathroom and stayed in the waiting_room.
+21 Benjamin publicly claimed that tangerine is in the red_bucket.
+22 Emily privately told Benjamin that the tangerine is actually in the red_container.
+23 Ava, Benjamin, Emily and Emma entered the bathroom.
+24 The spinach is in the blue_suitcase.
+25 Ava made no movements and stayed in the bathroom for 10 minutes.
+26 Ava exited the bathroom and stayed in the waiting_room.
+27 Benjamin moved the spinach to the blue_treasure_chest.
+28 Benjamin exited the bathroom and stayed in the waiting_room.
+29 Emily moved the spinach to the red_container.
+30 Emily exited the bathroom and stayed in the waiting_room.
+31 Emma moved the spinach to the green_crate.
+32 Emma exited the bathroom and stayed in the waiting_room.
+33 Emily and Jack entered the staircase.
+34 The orange is in the red_envelope.
+35 Emily made no movements and stayed in the staircase for 10 minutes.
+36 Emily exited the staircase and stayed in the waiting_room.
+37 Jack made no movements and stayed in the staircase for 10 minutes.
+38 Jack exited the staircase and stayed in the waiting_room.
+39 Emily privately told Ava that the orange is actually in the red_bottle.
+Question: Where is the apple really?
+Answer: blue_container
+Choices: A. green_container, B. red_envelope, C. green_envelope, D. blue_container, E. red_bottle, F. blue_suitcase, G. red_bucket, H. red_container, I. blue_treasure_chest, J. green_crate, K. green_bottle, L. red_drawer, M. blue_box, N. blue_bucket, O. blue_envelope

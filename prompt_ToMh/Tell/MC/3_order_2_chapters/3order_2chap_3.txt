@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella, Logan, Jayden, Mia and Jack entered the bathroom.
+2 The persimmon is in the green_bathtub.
+3 Ella made no movements and stayed in the bathroom for 10 minutes.
+4 Ella exited the bathroom and stayed in the waiting_room.
+5 Logan moved the persimmon to the red_bucket.
+6 Logan exited the bathroom and stayed in the waiting_room.
+7 Jayden moved the persimmon to the blue_bathtub.
+8 Jayden exited the bathroom and stayed in the waiting_room.
+9 Mia made no movements and stayed in the bathroom for 10 minutes.
+10 Mia exited the bathroom and stayed in the waiting_room.
+11 Jack moved the persimmon to the green_bathtub.
+12 Jack exited the bathroom and stayed in the waiting_room.
+13 Logan, Ella and Jack entered the hallway.
+14 The asparagus is in the blue_pantry.
+15 Logan made no movements and stayed in the hallway for 10 minutes.
+16 Logan exited the hallway and stayed in the waiting_room.
+17 Ella moved the asparagus to the green_container.
+18 Ella exited the hallway and stayed in the waiting_room.
+19 Jack made no movements and stayed in the hallway for 10 minutes.
+20 Jack exited the hallway and stayed in the waiting_room.
+21 Logan publicly claimed that asparagus is in the blue_basket.
+22 Jack privately told Jayden that the asparagus is actually in the green_container.
+Question: Where does Jack think Ella thinks Jayden thinks the persimmon is?
+Choices: A. red_treasure_chest, B. green_envelope, C. blue_crate, D. red_container, E. red_basket, F. blue_basket, G. blue_pantry, H. green_container, I. blue_drawer, J. blue_treasure_chest, K. green_bathtub, L. blue_bottle, M. red_bottle, N. red_bucket, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

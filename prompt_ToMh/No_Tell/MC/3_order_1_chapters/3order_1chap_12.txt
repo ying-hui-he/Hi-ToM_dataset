@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ethan, Evelyn, Emma, Olivia and Logan entered the sunroom.
+2 The orange is in the red_bottle.
+3 Ethan made no movements and stayed in the sunroom for 10 minutes.
+4 Ethan exited the sunroom and stayed in the waiting_room.
+5 Evelyn moved the orange to the green_crate.
+6 Evelyn exited the sunroom and stayed in the waiting_room.
+7 Emma moved the orange to the blue_container.
+8 Emma exited the sunroom and stayed in the waiting_room.
+9 Olivia moved the orange to the blue_treasure_chest.
+10 Olivia exited the sunroom and stayed in the waiting_room.
+11 Logan moved the orange to the red_bottle.
+12 Logan exited the sunroom and stayed in the waiting_room.
+Question: Where does Olivia think Ethan thinks Emma thinks the orange is?
+Choices: A. blue_treasure_chest, B. red_bottle, C. green_crate, D. red_drawer, E. blue_container, F. green_bathtub, G. blue_bucket, H. blue_crate, I. green_container, J. green_treasure_chest, K. red_container, L. green_suitcase, M. red_envelope, N. blue_basket, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

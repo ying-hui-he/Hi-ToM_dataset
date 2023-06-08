@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Avery, James, Carter and Olivia entered the laundry.
+2 The radish is in the green_treasure_chest.
+3 Owen moved the radish to the blue_envelope.
+4 Owen exited the laundry and stayed in the waiting_room.
+5 Avery made no movements and stayed in the laundry for 10 minutes.
+6 Avery exited the laundry and stayed in the waiting_room.
+7 James moved the radish to the red_envelope.
+8 James exited the laundry and stayed in the waiting_room.
+9 Carter made no movements and stayed in the laundry for 10 minutes.
+10 Carter exited the laundry and stayed in the waiting_room.
+11 Olivia moved the radish to the green_treasure_chest.
+12 Olivia exited the laundry and stayed in the waiting_room.
+13 James privately told Owen that the radish is actually in the blue_envelope.
+14 Avery privately told Carter that the radish is actually in the green_treasure_chest.
+15 Carter, Avery and Owen entered the front_yard.
+16 The potato is in the red_bucket.
+17 Carter moved the potato to the red_crate.
+18 Carter exited the front_yard and stayed in the waiting_room.
+19 Avery moved the potato to the green_cupboard.
+20 Avery exited the front_yard and stayed in the waiting_room.
+21 Owen moved the potato to the blue_crate.
+22 Owen exited the front_yard and stayed in the waiting_room.
+23 Avery, Owen, Carter and James entered the front_yard.
+24 The potato is in the blue_crate.
+25 Avery moved the potato to the red_bucket.
+26 Avery exited the front_yard and stayed in the waiting_room.
+27 Owen moved the potato to the red_crate.
+28 Owen exited the front_yard and stayed in the waiting_room.
+29 Carter moved the potato to the green_cupboard.
+30 Carter exited the front_yard and stayed in the waiting_room.
+31 James moved the potato to the green_suitcase.
+32 James exited the front_yard and stayed in the waiting_room.
+33 Avery publicly claimed that potato is in the blue_crate.
+34 James privately told Olivia that the potato is actually in the green_suitcase.
+Question: Where does James think Owen thinks the radish is?
+Choices: A. blue_pantry, B. red_basket, C. green_crate, D. blue_container, E. green_bathtub, F. red_bucket, G. blue_crate, H. red_crate, I. green_suitcase, J. green_cupboard, K. green_container, L. green_treasure_chest, M. blue_envelope, N. red_envelope, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

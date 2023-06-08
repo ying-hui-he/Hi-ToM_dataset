@@ -1,45 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, Charlotte, Isla, Emily and Alexander entered the garage.
-2 The banana is in the blue_basket.
-3 Oliver made no movements and stayed in the garage for 10 minutes.
-4 Oliver exited the garage and stayed in the waiting_room.
-5 Charlotte made no movements and stayed in the garage for 10 minutes.
-6 Charlotte exited the garage and stayed in the waiting_room.
-7 Isla made no movements and stayed in the garage for 10 minutes.
-8 Isla exited the garage and stayed in the waiting_room.
-9 Emily moved the banana to the green_bucket.
-10 Emily exited the garage and stayed in the waiting_room.
-11 Alexander moved the banana to the blue_basket.
-12 Alexander exited the garage and stayed in the waiting_room.
-13 Alexander, Emily and Oliver entered the kitchen.
-14 The pineapple is in the red_bottle.
-15 Alexander moved the pineapple to the green_bathtub.
-16 Alexander exited the kitchen and stayed in the waiting_room.
-17 Emily made no movements and stayed in the kitchen for 10 minutes.
-18 Emily exited the kitchen and stayed in the waiting_room.
-19 Oliver made no movements and stayed in the kitchen for 10 minutes.
-20 Oliver exited the kitchen and stayed in the waiting_room.
-21 Emily privately told Oliver that the pineapple is actually in the blue_bucket.
-22 Oliver privately told Charlotte that the pineapple is actually in the green_bathtub.
-23 Emily, Oliver, Isla and Charlotte entered the TV_room.
-24 The potato is in the green_treasure_chest.
-25 Emily moved the potato to the green_drawer.
-26 Emily exited the TV_room and stayed in the waiting_room.
-27 Oliver made no movements and stayed in the TV_room for 10 minutes.
-28 Oliver exited the TV_room and stayed in the waiting_room.
-29 Isla moved the potato to the red_envelope.
-30 Isla exited the TV_room and stayed in the waiting_room.
-31 Charlotte moved the potato to the red_container.
-32 Charlotte exited the TV_room and stayed in the waiting_room.
-33 Isla and Emily entered the TV_room.
-34 The potato is in the red_container.
-35 Isla moved the potato to the green_pantry.
-36 Isla exited the TV_room and stayed in the waiting_room.
-37 Emily moved the potato to the red_envelope.
-38 Emily exited the TV_room and stayed in the waiting_room.
-39 Emily publicly claimed that potato is in the red_envelope.
-40 Isla privately told Emily that the potato is actually in the red_container.
-Question: Where does Oliver think Emily thinks Alexander thinks Isla thinks the banana is?
-Choices: A. red_basket, B. blue_basket, C. green_bucket, D. blue_treasure_chest, E. red_treasure_chest, F. red_bottle, G. green_bathtub, H. red_box, I. red_cupboard, J. blue_bucket, K. red_container, L. green_treasure_chest, M. red_envelope, N. green_pantry, O. green_drawer
+1 James, Jacob, Emily, Jayden and Owen entered the basement.
+2 The strawberry is in the green_bathtub.
+3 James made no movements and stayed in the basement for 10 minutes.
+4 James exited the basement and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the basement for 10 minutes.
+6 Jacob exited the basement and stayed in the waiting_room.
+7 Emily moved the strawberry to the green_crate.
+8 Emily exited the basement and stayed in the waiting_room.
+9 Jayden moved the strawberry to the blue_crate.
+10 Jayden exited the basement and stayed in the waiting_room.
+11 Owen moved the strawberry to the green_bathtub.
+12 Owen exited the basement and stayed in the waiting_room.
+13 Emily, James and Jayden entered the front_yard.
+14 The orange is in the blue_suitcase.
+15 Emily made no movements and stayed in the front_yard for 10 minutes.
+16 Emily exited the front_yard and stayed in the waiting_room.
+17 James moved the orange to the blue_treasure_chest.
+18 James exited the front_yard and stayed in the waiting_room.
+19 Jayden made no movements and stayed in the front_yard for 10 minutes.
+20 Jayden exited the front_yard and stayed in the waiting_room.
+21 James privately told Jayden that the orange is actually in the red_bathtub.
+22 Jayden privately told Owen that the orange is actually in the blue_treasure_chest.
+23 Emily, Owen, Jayden and Jacob entered the basement.
+24 The grapefruit is in the red_treasure_chest.
+25 Emily moved the grapefruit to the red_suitcase.
+26 Emily exited the basement and stayed in the waiting_room.
+27 Owen made no movements and stayed in the basement for 10 minutes.
+28 Owen exited the basement and stayed in the waiting_room.
+29 Jayden made no movements and stayed in the basement for 10 minutes.
+30 Jayden exited the basement and stayed in the waiting_room.
+31 Jacob made no movements and stayed in the basement for 10 minutes.
+32 Jacob exited the basement and stayed in the waiting_room.
+33 James and Emily entered the basement.
+34 The strawberry is in the green_bathtub.
+35 James moved the strawberry to the blue_crate.
+36 James exited the basement and stayed in the waiting_room.
+37 Emily moved the strawberry to the green_crate.
+38 Emily exited the basement and stayed in the waiting_room.
+39 James privately told Owen that the strawberry is actually in the green_crate.
+Question: Where does Emily think Jacob thinks Jayden thinks James thinks the strawberry is?
+Choices: A. blue_suitcase, B. red_bucket, C. blue_container, D. blue_treasure_chest, E. red_bathtub, F. red_container, G. red_basket, H. red_drawer, I. blue_box, J. blue_envelope, K. green_bathtub, L. red_treasure_chest, M. green_crate, N. red_suitcase, O. blue_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

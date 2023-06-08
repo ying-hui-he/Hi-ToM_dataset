@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jackson, Evelyn, Abigail, Emily and Benjamin entered the basement.
+2 The turnip is in the red_container.
+3 Jackson made no movements and stayed in the basement for 10 minutes.
+4 Jackson exited the basement and stayed in the waiting_room.
+5 Evelyn made no movements and stayed in the basement for 10 minutes.
+6 Evelyn exited the basement and stayed in the waiting_room.
+7 Abigail moved the turnip to the red_suitcase.
+8 Abigail exited the basement and stayed in the waiting_room.
+9 Emily made no movements and stayed in the basement for 10 minutes.
+10 Emily exited the basement and stayed in the waiting_room.
+11 Benjamin moved the turnip to the red_container.
+12 Benjamin exited the basement and stayed in the waiting_room.
+13 Jackson, Emily and Evelyn entered the master_bedroom.
+14 The pear is in the red_bucket.
+15 Jackson moved the pear to the green_container.
+16 Jackson exited the master_bedroom and stayed in the waiting_room.
+17 Emily made no movements and stayed in the master_bedroom for 10 minutes.
+18 Emily exited the master_bedroom and stayed in the waiting_room.
+19 Evelyn moved the pear to the green_crate.
+20 Evelyn exited the master_bedroom and stayed in the waiting_room.
+21 Emily privately told Evelyn that the pear is actually in the red_drawer.
+22 Evelyn privately told Benjamin that the pear is actually in the green_crate.
+23 Abigail, Evelyn, Emily and Benjamin entered the master_bedroom.
+24 The melon is in the red_drawer.
+25 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
+26 Abigail exited the master_bedroom and stayed in the waiting_room.
+27 Evelyn made no movements and stayed in the master_bedroom for 10 minutes.
+28 Evelyn exited the master_bedroom and stayed in the waiting_room.
+29 Emily moved the melon to the red_bucket.
+30 Emily exited the master_bedroom and stayed in the waiting_room.
+31 Benjamin made no movements and stayed in the master_bedroom for 10 minutes.
+32 Benjamin exited the master_bedroom and stayed in the waiting_room.
+33 Jackson and Emily entered the master_bedroom.
+34 The pear is in the green_crate.
+35 Jackson moved the pear to the red_envelope.
+36 Jackson exited the master_bedroom and stayed in the waiting_room.
+37 Emily moved the pear to the red_bucket.
+38 Emily exited the master_bedroom and stayed in the waiting_room.
+39 Emily publicly claimed that pear is in the red_bucket.
+40 Jackson privately told Emily that the pear is actually in the red_envelope.
+Question: Where does Evelyn think Benjamin thinks Abigail thinks Emily thinks the turnip is?
+Answer: None
+Choices: A. red_bucket, B. red_drawer, C. red_envelope, D. green_crate, E. green_container, F. red_container, G. blue_treasure_chest, H. blue_drawer, I. green_suitcase, J. red_suitcase, K. red_basket, L. blue_box, M. blue_bottle, N. blue_crate, O. blue_suitcase

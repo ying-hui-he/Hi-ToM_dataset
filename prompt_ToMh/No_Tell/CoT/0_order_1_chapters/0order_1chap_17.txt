@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ava, Hannah, Emily, Olivia and Gracie entered the den.
+2 The corn is in the red_bathtub.
+3 Ava moved the corn to the blue_suitcase.
+4 Ava exited the den and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the den for 10 minutes.
+6 Hannah exited the den and stayed in the waiting_room.
+7 Emily moved the corn to the green_bottle.
+8 Emily exited the den and stayed in the waiting_room.
+9 Olivia moved the corn to the red_drawer.
+10 Olivia exited the den and stayed in the waiting_room.
+11 Gracie moved the corn to the red_bathtub.
+12 Gracie exited the den and stayed in the waiting_room.
+Question: Where is the corn really?
+Choices: A. green_bathtub, B. red_bottle, C. blue_envelope, D. blue_crate, E. blue_basket, F. red_bathtub, G. red_drawer, H. blue_bottle, I. green_bottle, J. blue_suitcase, K. blue_box, L. green_treasure_chest, M. red_envelope, N. red_suitcase, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

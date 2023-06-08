@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Benjamin, Jack, Mila, Avery and Mia entered the hallway.
+2 The cherry is in the blue_basket.
+3 Benjamin made no movements and stayed in the hallway for 10 minutes.
+4 Benjamin exited the hallway and stayed in the waiting_room.
+5 Jack moved the cherry to the red_suitcase.
+6 Jack exited the hallway and stayed in the waiting_room.
+7 Mila made no movements and stayed in the hallway for 10 minutes.
+8 Mila exited the hallway and stayed in the waiting_room.
+9 Avery moved the cherry to the red_treasure_chest.
+10 Avery exited the hallway and stayed in the waiting_room.
+11 Mia moved the cherry to the blue_basket.
+12 Mia exited the hallway and stayed in the waiting_room.
+13 Jack, Mila and Avery entered the garden.
+14 The turnip is in the red_bathtub.
+15 Jack moved the turnip to the green_cupboard.
+16 Jack exited the garden and stayed in the waiting_room.
+17 Mila moved the turnip to the green_suitcase.
+18 Mila exited the garden and stayed in the waiting_room.
+19 Avery moved the turnip to the blue_bottle.
+20 Avery exited the garden and stayed in the waiting_room.
+21 Jack publicly claimed that turnip is in the green_suitcase.
+22 Avery privately told Mia that the turnip is actually in the blue_bottle.
+Question: Where is the cherry really?
+Choices: A. red_suitcase, B. blue_basket, C. green_bottle, D. green_crate, E. red_treasure_chest, F. blue_treasure_chest, G. red_bathtub, H. green_cupboard, I. green_suitcase, J. blue_bottle, K. red_bottle, L. red_drawer, M. green_container, N. blue_envelope, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aiden, Ella, Aria, Mia and Mila entered the attic.
+2 The tomato is in the blue_bottle.
+3 Aiden moved the tomato to the red_suitcase.
+4 Aiden exited the attic and stayed in the waiting_room.
+5 Ella made no movements and stayed in the attic for 10 minutes.
+6 Ella exited the attic and stayed in the waiting_room.
+7 Aria moved the tomato to the red_treasure_chest.
+8 Aria exited the attic and stayed in the waiting_room.
+9 Mia made no movements and stayed in the attic for 10 minutes.
+10 Mia exited the attic and stayed in the waiting_room.
+11 Mila moved the tomato to the blue_bottle.
+12 Mila exited the attic and stayed in the waiting_room.
+13 Aria, Mia and Aiden entered the kitchen.
+14 The plum is in the red_crate.
+15 Aria made no movements and stayed in the kitchen for 10 minutes.
+16 Aria exited the kitchen and stayed in the waiting_room.
+17 Mia moved the plum to the red_drawer.
+18 Mia exited the kitchen and stayed in the waiting_room.
+19 Aiden moved the plum to the blue_drawer.
+20 Aiden exited the kitchen and stayed in the waiting_room.
+21 Aiden publicly claimed that plum is in the blue_drawer.
+22 Aria privately told Aiden that the plum is actually in the red_drawer.
+23 Mila, Aria, Ella and Mia entered the kitchen.
+24 The grapefruit is in the red_drawer.
+25 Mila moved the grapefruit to the blue_bucket.
+26 Mila exited the kitchen and stayed in the waiting_room.
+27 Aria made no movements and stayed in the kitchen for 10 minutes.
+28 Aria exited the kitchen and stayed in the waiting_room.
+29 Ella made no movements and stayed in the kitchen for 10 minutes.
+30 Ella exited the kitchen and stayed in the waiting_room.
+31 Mia made no movements and stayed in the kitchen for 10 minutes.
+32 Mia exited the kitchen and stayed in the waiting_room.
+33 Aiden and Mila entered the attic.
+34 The lime is in the blue_envelope.
+35 Aiden moved the lime to the red_treasure_chest.
+36 Aiden exited the attic and stayed in the waiting_room.
+37 Mila made no movements and stayed in the attic for 10 minutes.
+38 Mila exited the attic and stayed in the waiting_room.
+39 Aiden publicly claimed that lime is in the red_suitcase.
+40 Mila privately told Aiden that the lime is actually in the blue_suitcase.
+Question: Where does Aiden think Mia thinks Aria thinks Mila thinks the tomato is?
+Choices: A. green_cupboard, B. blue_crate, C. red_bucket, D. green_envelope, E. blue_box, F. red_crate, G. red_drawer, H. blue_drawer, I. blue_container, J. blue_bucket, K. blue_bottle, L. blue_envelope, M. red_treasure_chest, N. blue_suitcase, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

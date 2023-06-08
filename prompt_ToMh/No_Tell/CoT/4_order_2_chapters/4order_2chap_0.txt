@@ -1,25 +1,25 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Oliver, Avery, Gracie, Ethan and Mila entered the garage.
-2 The potato is in the red_drawer.
-3 Oliver moved the potato to the red_treasure_chest.
-4 Oliver exited the garage and stayed in the waiting_room.
-5 Avery moved the potato to the green_bucket.
-6 Avery exited the garage and stayed in the waiting_room.
-7 Gracie moved the potato to the red_bucket.
-8 Gracie exited the garage and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the garage for 10 minutes.
-10 Ethan exited the garage and stayed in the waiting_room.
-11 Mila moved the potato to the red_drawer.
-12 Mila exited the garage and stayed in the waiting_room.
-13 Avery, Mila and Oliver entered the den.
-14 The peach is in the blue_bottle.
-15 Avery made no movements and stayed in the den for 10 minutes.
-16 Avery exited the den and stayed in the waiting_room.
-17 Mila made no movements and stayed in the den for 10 minutes.
-18 Mila exited the den and stayed in the waiting_room.
-19 Oliver moved the peach to the blue_drawer.
-20 Oliver exited the den and stayed in the waiting_room.
-Question: Where does Mila think Oliver thinks Avery thinks Gracie thinks the potato is?
-Choices: A. blue_box, B. red_drawer, C. green_bucket, D. red_treasure_chest, E. red_bucket, F. blue_bottle, G. red_bathtub, H. red_envelope, I. blue_drawer, J. green_box, K. blue_suitcase, L. green_drawer, M. green_pantry, N. blue_container, O. blue_cupboard
+1 Olivia, Ava, Gracie, Jayden and Ella entered the den.
+2 The apple is in the red_suitcase.
+3 Olivia made no movements and stayed in the den for 10 minutes.
+4 Olivia exited the den and stayed in the waiting_room.
+5 Ava made no movements and stayed in the den for 10 minutes.
+6 Ava exited the den and stayed in the waiting_room.
+7 Gracie moved the apple to the red_drawer.
+8 Gracie exited the den and stayed in the waiting_room.
+9 Jayden moved the apple to the red_treasure_chest.
+10 Jayden exited the den and stayed in the waiting_room.
+11 Ella moved the apple to the red_suitcase.
+12 Ella exited the den and stayed in the waiting_room.
+13 Jayden, Ava and Gracie entered the front_yard.
+14 The potato is in the green_container.
+15 Jayden moved the potato to the green_bathtub.
+16 Jayden exited the front_yard and stayed in the waiting_room.
+17 Ava made no movements and stayed in the front_yard for 10 minutes.
+18 Ava exited the front_yard and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the front_yard for 10 minutes.
+20 Gracie exited the front_yard and stayed in the waiting_room.
+Question: Where does Ava think Gracie thinks Olivia thinks Jayden thinks the apple is?
+Choices: A. red_bathtub, B. green_treasure_chest, C. blue_bucket, D. blue_pantry, E. blue_drawer, F. red_suitcase, G. blue_suitcase, H. red_drawer, I. red_treasure_chest, J. blue_box, K. green_container, L. blue_basket, M. green_bathtub, N. red_envelope, O. green_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

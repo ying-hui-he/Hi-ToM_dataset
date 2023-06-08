@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jacob, Jack, Carter, Emily and Oliver entered the closet.
+2 The turnip is in the blue_drawer.
+3 Jacob made no movements and stayed in the closet for 10 minutes.
+4 Jacob exited the closet and stayed in the waiting_room.
+5 Jack made no movements and stayed in the closet for 10 minutes.
+6 Jack exited the closet and stayed in the waiting_room.
+7 Carter made no movements and stayed in the closet for 10 minutes.
+8 Carter exited the closet and stayed in the waiting_room.
+9 Emily made no movements and stayed in the closet for 10 minutes.
+10 Emily exited the closet and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the closet for 10 minutes.
+12 Oliver exited the closet and stayed in the waiting_room.
+Question: Where does Jack think the turnip is?
+Choices: A. blue_drawer, B. blue_box, C. red_container, D. blue_suitcase, E. green_container, F. blue_treasure_chest, G. blue_basket, H. red_drawer, I. blue_envelope, J. red_basket, K. red_suitcase, L. blue_bucket, M. green_bottle, N. blue_container, O. green_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

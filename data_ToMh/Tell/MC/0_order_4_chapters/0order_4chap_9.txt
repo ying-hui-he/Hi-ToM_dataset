@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, Benjamin, Emily, James and Ethan entered the basement.
+2 The radish is in the blue_crate.
+3 Logan made no movements and stayed in the basement for 10 minutes.
+4 Logan exited the basement and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the basement for 10 minutes.
+6 Benjamin exited the basement and stayed in the waiting_room.
+7 Emily moved the radish to the blue_suitcase.
+8 Emily exited the basement and stayed in the waiting_room.
+9 James moved the radish to the red_basket.
+10 James exited the basement and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the basement for 10 minutes.
+12 Ethan exited the basement and stayed in the waiting_room.
+13 Logan, Emily and James entered the office.
+14 The turnip is in the red_envelope.
+15 Logan moved the turnip to the red_drawer.
+16 Logan exited the office and stayed in the waiting_room.
+17 Emily made no movements and stayed in the office for 10 minutes.
+18 Emily exited the office and stayed in the waiting_room.
+19 James moved the turnip to the green_bathtub.
+20 James exited the office and stayed in the waiting_room.
+21 Emily privately told James that the turnip is actually in the green_bathtub.
+22 James privately told Ethan that the turnip is actually in the green_bathtub.
+23 Logan, Emily, James and Ethan entered the staircase.
+24 The strawberry is in the green_crate.
+25 Logan moved the strawberry to the green_container.
+26 Logan exited the staircase and stayed in the waiting_room.
+27 Emily made no movements and stayed in the staircase for 10 minutes.
+28 Emily exited the staircase and stayed in the waiting_room.
+29 James moved the strawberry to the red_bathtub.
+30 James exited the staircase and stayed in the waiting_room.
+31 Ethan made no movements and stayed in the staircase for 10 minutes.
+32 Ethan exited the staircase and stayed in the waiting_room.
+33 Benjamin and Ethan entered the staircase.
+34 The strawberry is in the red_bathtub.
+35 Benjamin moved the strawberry to the green_container.
+36 Benjamin exited the staircase and stayed in the waiting_room.
+37 Ethan made no movements and stayed in the staircase for 10 minutes.
+38 Ethan exited the staircase and stayed in the waiting_room.
+39 Ethan publicly claimed that strawberry is in the red_bathtub.
+40 Benjamin privately told Ethan that the strawberry is actually in the red_crate.
+Question: Where is the radish really?
+Answer: red_basket
+Choices: A. blue_crate, B. red_basket, C. green_cupboard, D. blue_envelope, E. blue_suitcase, F. red_crate, G. green_crate, H. red_bathtub, I. green_container, J. blue_pantry, K. red_envelope, L. green_bathtub, M. blue_bucket, N. red_drawer, O. green_bottle

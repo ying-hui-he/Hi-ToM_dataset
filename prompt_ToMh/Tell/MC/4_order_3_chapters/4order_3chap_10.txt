@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, Jacob, Owen, Amelia and Emily entered the master_bedroom.
+2 The beans is in the green_bathtub.
+3 Logan moved the beans to the green_bottle.
+4 Logan exited the master_bedroom and stayed in the waiting_room.
+5 Jacob moved the beans to the red_crate.
+6 Jacob exited the master_bedroom and stayed in the waiting_room.
+7 Owen made no movements and stayed in the master_bedroom for 10 minutes.
+8 Owen exited the master_bedroom and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the master_bedroom for 10 minutes.
+10 Amelia exited the master_bedroom and stayed in the waiting_room.
+11 Emily made no movements and stayed in the master_bedroom for 10 minutes.
+12 Emily exited the master_bedroom and stayed in the waiting_room.
+13 Owen publicly claimed that beans is in the green_bottle.
+14 Emily privately told Owen that the beans is actually in the green_bathtub.
+15 Jacob, Amelia and Emily entered the patio.
+16 The potato is in the red_bucket.
+17 Jacob moved the potato to the red_suitcase.
+18 Jacob exited the patio and stayed in the waiting_room.
+19 Amelia moved the potato to the blue_bucket.
+20 Amelia exited the patio and stayed in the waiting_room.
+21 Emily moved the potato to the blue_container.
+22 Emily exited the patio and stayed in the waiting_room.
+23 Logan, Owen, Amelia and Jacob entered the master_bedroom.
+24 The melon is in the green_bottle.
+25 Logan made no movements and stayed in the master_bedroom for 10 minutes.
+26 Logan exited the master_bedroom and stayed in the waiting_room.
+27 Owen moved the melon to the green_cupboard.
+28 Owen exited the master_bedroom and stayed in the waiting_room.
+29 Amelia moved the melon to the green_bathtub.
+30 Amelia exited the master_bedroom and stayed in the waiting_room.
+31 Jacob made no movements and stayed in the master_bedroom for 10 minutes.
+32 Jacob exited the master_bedroom and stayed in the waiting_room.
+33 Amelia publicly claimed that melon is in the green_bathtub.
+34 Logan privately told Jacob that the melon is actually in the green_cupboard.
+Question: Where does Amelia think Owen thinks Logan thinks Emily thinks the beans is?
+Choices: A. blue_suitcase, B. blue_treasure_chest, C. green_suitcase, D. blue_basket, E. green_container, F. red_bathtub, G. red_bucket, H. red_suitcase, I. blue_bucket, J. blue_container, K. green_bottle, L. green_bathtub, M. green_cupboard, N. red_crate, O. blue_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

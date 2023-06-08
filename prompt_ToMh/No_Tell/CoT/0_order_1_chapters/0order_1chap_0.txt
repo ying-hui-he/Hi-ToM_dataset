@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Liam, Avery, Sophia, Alexander and Aria entered the study.
-2 The banana is in the blue_basket.
-3 Liam moved the banana to the green_bottle.
-4 Liam exited the study and stayed in the waiting_room.
-5 Avery made no movements and stayed in the study for 10 minutes.
-6 Avery exited the study and stayed in the waiting_room.
-7 Sophia made no movements and stayed in the study for 10 minutes.
-8 Sophia exited the study and stayed in the waiting_room.
-9 Alexander moved the banana to the blue_box.
-10 Alexander exited the study and stayed in the waiting_room.
-11 Aria made no movements and stayed in the study for 10 minutes.
-12 Aria exited the study and stayed in the waiting_room.
-Question: Where is the banana really?
-Choices: A. blue_basket, B. green_bottle, C. green_envelope, D. blue_box, E. blue_container, F. blue_bucket, G. green_pantry, H. red_cupboard, I. green_drawer, J. green_box, K. red_container, L. red_bathtub, M. blue_drawer, N. blue_cupboard, O. blue_crate
+1 Aria, Carter, Emma, Olivia and Logan entered the crawlspace.
+2 The turnip is in the green_crate.
+3 Aria made no movements and stayed in the crawlspace for 10 minutes.
+4 Aria exited the crawlspace and stayed in the waiting_room.
+5 Carter made no movements and stayed in the crawlspace for 10 minutes.
+6 Carter exited the crawlspace and stayed in the waiting_room.
+7 Emma made no movements and stayed in the crawlspace for 10 minutes.
+8 Emma exited the crawlspace and stayed in the waiting_room.
+9 Olivia moved the turnip to the blue_treasure_chest.
+10 Olivia exited the crawlspace and stayed in the waiting_room.
+11 Logan made no movements and stayed in the crawlspace for 10 minutes.
+12 Logan exited the crawlspace and stayed in the waiting_room.
+Question: Where is the turnip really?
+Choices: A. green_crate, B. red_suitcase, C. blue_treasure_chest, D. red_crate, E. blue_suitcase, F. green_treasure_chest, G. green_container, H. green_suitcase, I. blue_pantry, J. red_basket, K. red_treasure_chest, L. blue_box, M. blue_basket, N. green_bathtub, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

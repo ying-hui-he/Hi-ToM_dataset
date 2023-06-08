@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emma, Jacob, Ethan, Carter and Emily entered the staircase.
+2 The asparagus is in the red_bucket.
+3 Emma moved the asparagus to the red_envelope.
+4 Emma exited the staircase and stayed in the waiting_room.
+5 Jacob moved the asparagus to the green_cupboard.
+6 Jacob exited the staircase and stayed in the waiting_room.
+7 Ethan moved the asparagus to the red_drawer.
+8 Ethan exited the staircase and stayed in the waiting_room.
+9 Carter moved the asparagus to the red_bottle.
+10 Carter exited the staircase and stayed in the waiting_room.
+11 Emily moved the asparagus to the red_bucket.
+12 Emily exited the staircase and stayed in the waiting_room.
+Question: Where does Jacob think Ethan thinks the asparagus is?
+Choices: A. red_container, B. blue_bucket, C. blue_bathtub, D. blue_bottle, E. blue_box, F. red_treasure_chest, G. green_treasure_chest, H. red_crate, I. green_bottle, J. green_envelope, K. red_bucket, L. red_drawer, M. red_bottle, N. red_envelope, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

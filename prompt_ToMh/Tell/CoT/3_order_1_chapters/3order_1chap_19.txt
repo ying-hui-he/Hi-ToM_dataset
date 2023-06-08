@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emma, Abigail, Oliver, Owen and Noah entered the back_yard.
+2 The beans is in the blue_container.
+3 Emma moved the beans to the green_cupboard.
+4 Emma exited the back_yard and stayed in the waiting_room.
+5 Abigail moved the beans to the green_suitcase.
+6 Abigail exited the back_yard and stayed in the waiting_room.
+7 Oliver made no movements and stayed in the back_yard for 10 minutes.
+8 Oliver exited the back_yard and stayed in the waiting_room.
+9 Owen moved the beans to the blue_envelope.
+10 Owen exited the back_yard and stayed in the waiting_room.
+11 Noah made no movements and stayed in the back_yard for 10 minutes.
+12 Noah exited the back_yard and stayed in the waiting_room.
+13 Oliver publicly claimed that beans is in the green_bottle.
+14 Noah privately told Oliver that the beans is actually in the green_suitcase.
+Question: Where does Abigail think Emma thinks Noah thinks the beans is?
+Choices: A. red_container, B. red_bathtub, C. green_envelope, D. blue_drawer, E. red_drawer, F. blue_envelope, G. blue_container, H. green_cupboard, I. green_bottle, J. green_suitcase, K. blue_bathtub, L. red_treasure_chest, M. green_crate, N. blue_bucket, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Benjamin, Owen, Charlotte and Abigail entered the study.
+2 The pineapple is in the green_crate.
+3 Evelyn made no movements and stayed in the study for 10 minutes.
+4 Evelyn exited the study and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the study for 10 minutes.
+6 Benjamin exited the study and stayed in the waiting_room.
+7 Owen moved the pineapple to the blue_bathtub.
+8 Owen exited the study and stayed in the waiting_room.
+9 Charlotte moved the pineapple to the red_crate.
+10 Charlotte exited the study and stayed in the waiting_room.
+11 Abigail moved the pineapple to the green_crate.
+12 Abigail exited the study and stayed in the waiting_room.
+13 Evelyn, Charlotte and Benjamin entered the dining_room.
+14 The celery is in the green_cupboard.
+15 Evelyn moved the celery to the red_container.
+16 Evelyn exited the dining_room and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the dining_room for 10 minutes.
+18 Charlotte exited the dining_room and stayed in the waiting_room.
+19 Benjamin moved the celery to the blue_drawer.
+20 Benjamin exited the dining_room and stayed in the waiting_room.
+Question: Where is the pineapple really?
+Choices: A. blue_bathtub, B. green_crate, C. red_bathtub, D. red_crate, E. red_suitcase, F. red_bucket, G. red_envelope, H. blue_basket, I. blue_suitcase, J. blue_bucket, K. green_cupboard, L. green_container, M. blue_bottle, N. red_container, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aria, William, Hannah, Gracie and Amelia entered the den.
+2 The green_pepper is in the red_bathtub.
+3 Aria made no movements and stayed in the den for 10 minutes.
+4 Aria exited the den and stayed in the waiting_room.
+5 William moved the green_pepper to the blue_bathtub.
+6 William exited the den and stayed in the waiting_room.
+7 Hannah moved the green_pepper to the blue_envelope.
+8 Hannah exited the den and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the den for 10 minutes.
+10 Gracie exited the den and stayed in the waiting_room.
+11 Amelia moved the green_pepper to the red_bathtub.
+12 Amelia exited the den and stayed in the waiting_room.
+13 William, Aria and Hannah entered the bedroom.
+14 The pineapple is in the red_bottle.
+15 William moved the pineapple to the blue_basket.
+16 William exited the bedroom and stayed in the waiting_room.
+17 Aria moved the pineapple to the red_crate.
+18 Aria exited the bedroom and stayed in the waiting_room.
+19 Hannah moved the pineapple to the green_suitcase.
+20 Hannah exited the bedroom and stayed in the waiting_room.
+21 William, Aria, Gracie and Amelia entered the den.
+22 The green_pepper is in the red_bathtub.
+23 William made no movements and stayed in the den for 10 minutes.
+24 William exited the den and stayed in the waiting_room.
+25 Aria made no movements and stayed in the den for 10 minutes.
+26 Aria exited the den and stayed in the waiting_room.
+27 Gracie made no movements and stayed in the den for 10 minutes.
+28 Gracie exited the den and stayed in the waiting_room.
+29 Amelia moved the green_pepper to the green_bathtub.
+30 Amelia exited the den and stayed in the waiting_room.
+31 Aria and Amelia entered the bedroom.
+32 The pineapple is in the green_suitcase.
+33 Aria made no movements and stayed in the bedroom for 10 minutes.
+34 Aria exited the bedroom and stayed in the waiting_room.
+35 Amelia moved the pineapple to the red_crate.
+36 Amelia exited the bedroom and stayed in the waiting_room.
+Question: Where does William think the green_pepper is?
+Choices: A. red_bathtub, B. red_treasure_chest, C. blue_bathtub, D. blue_envelope, E. green_bathtub, F. red_envelope, G. red_basket, H. blue_bucket, I. red_container, J. blue_drawer, K. red_crate, L. red_bottle, M. blue_basket, N. blue_pantry, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Jackson, Amelia, Emily and Nathan entered the front_yard.
-2 The melon is in the red_box.
-3 Avery moved the melon to the blue_treasure_chest.
-4 Avery exited the front_yard and stayed in the waiting_room.
-5 Jackson moved the melon to the blue_drawer.
-6 Jackson exited the front_yard and stayed in the waiting_room.
-7 Amelia moved the melon to the green_box.
-8 Amelia exited the front_yard and stayed in the waiting_room.
-9 Emily made no movements and stayed in the front_yard for 10 minutes.
-10 Emily exited the front_yard and stayed in the waiting_room.
-11 Nathan made no movements and stayed in the front_yard for 10 minutes.
-12 Nathan exited the front_yard and stayed in the waiting_room.
-13 Emily, Nathan and Amelia entered the front_yard.
-14 The cucumber is in the blue_bucket.
-15 Emily moved the cucumber to the blue_drawer.
-16 Emily exited the front_yard and stayed in the waiting_room.
-17 Nathan made no movements and stayed in the front_yard for 10 minutes.
-18 Nathan exited the front_yard and stayed in the waiting_room.
-19 Amelia made no movements and stayed in the front_yard for 10 minutes.
-20 Amelia exited the front_yard and stayed in the waiting_room.
-21 Amelia publicly claimed that cucumber is in the blue_drawer.
-22 Emily privately told Amelia that the cucumber is actually in the red_box.
-Question: Where does Jackson think Avery thinks the melon is?
-Choices: A. blue_bucket, B. red_box, C. green_box, D. blue_drawer, E. blue_treasure_chest, F. blue_suitcase, G. blue_cupboard, H. green_cupboard, I. blue_container, J. red_bottle, K. green_bucket, L. blue_basket, M. blue_box, N. red_treasure_chest, O. red_drawer
+1 Abigail, Aria, Avery, James and Owen entered the attic.
+2 The beans is in the green_container.
+3 Abigail moved the beans to the blue_pantry.
+4 Abigail exited the attic and stayed in the waiting_room.
+5 Aria made no movements and stayed in the attic for 10 minutes.
+6 Aria exited the attic and stayed in the waiting_room.
+7 Avery made no movements and stayed in the attic for 10 minutes.
+8 Avery exited the attic and stayed in the waiting_room.
+9 James made no movements and stayed in the attic for 10 minutes.
+10 James exited the attic and stayed in the waiting_room.
+11 Owen made no movements and stayed in the attic for 10 minutes.
+12 Owen exited the attic and stayed in the waiting_room.
+13 Aria, Abigail and James entered the lounge.
+14 The turnip is in the blue_bottle.
+15 Aria made no movements and stayed in the lounge for 10 minutes.
+16 Aria exited the lounge and stayed in the waiting_room.
+17 Abigail moved the turnip to the green_cupboard.
+18 Abigail exited the lounge and stayed in the waiting_room.
+19 James moved the turnip to the red_crate.
+20 James exited the lounge and stayed in the waiting_room.
+21 Aria publicly claimed that turnip is in the red_crate.
+22 James privately told Avery that the turnip is actually in the red_crate.
+Question: Where does Avery think James thinks the beans is?
+Choices: A. green_suitcase, B. blue_basket, C. blue_drawer, D. blue_bucket, E. green_treasure_chest, F. blue_bottle, G. red_bathtub, H. green_cupboard, I. red_drawer, J. red_crate, K. green_container, L. red_suitcase, M. blue_pantry, N. red_bottle, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

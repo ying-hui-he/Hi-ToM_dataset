@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Charlotte, Noah, Mila, William and Aria entered the office.
+2 The cherry is in the green_bathtub.
+3 Charlotte moved the cherry to the red_crate.
+4 Charlotte exited the office and stayed in the waiting_room.
+5 Noah moved the cherry to the blue_box.
+6 Noah exited the office and stayed in the waiting_room.
+7 Mila made no movements and stayed in the office for 10 minutes.
+8 Mila exited the office and stayed in the waiting_room.
+9 William made no movements and stayed in the office for 10 minutes.
+10 William exited the office and stayed in the waiting_room.
+11 Aria moved the cherry to the green_bathtub.
+12 Aria exited the office and stayed in the waiting_room.
+13 Aria, Charlotte and Mila entered the crawlspace.
+14 The corn is in the blue_pantry.
+15 Aria made no movements and stayed in the crawlspace for 10 minutes.
+16 Aria exited the crawlspace and stayed in the waiting_room.
+17 Charlotte moved the corn to the green_container.
+18 Charlotte exited the crawlspace and stayed in the waiting_room.
+19 Mila moved the corn to the red_container.
+20 Mila exited the crawlspace and stayed in the waiting_room.
+21 Aria, Mila, Noah and Charlotte entered the office.
+22 The cherry is in the green_bathtub.
+23 Aria made no movements and stayed in the office for 10 minutes.
+24 Aria exited the office and stayed in the waiting_room.
+25 Mila moved the cherry to the red_crate.
+26 Mila exited the office and stayed in the waiting_room.
+27 Noah made no movements and stayed in the office for 10 minutes.
+28 Noah exited the office and stayed in the waiting_room.
+29 Charlotte made no movements and stayed in the office for 10 minutes.
+30 Charlotte exited the office and stayed in the waiting_room.
+31 Charlotte and Aria entered the closet.
+32 The potato is in the red_drawer.
+33 Charlotte moved the potato to the blue_bottle.
+34 Charlotte exited the closet and stayed in the waiting_room.
+35 Aria made no movements and stayed in the closet for 10 minutes.
+36 Aria exited the closet and stayed in the waiting_room.
+Question: Where does William think Noah thinks the cherry is?
+Choices: A. blue_basket, B. blue_pantry, C. green_container, D. red_container, E. red_treasure_chest, F. red_suitcase, G. red_drawer, H. red_bottle, I. red_bucket, J. blue_bottle, K. green_bathtub, L. green_envelope, M. red_crate, N. green_crate, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

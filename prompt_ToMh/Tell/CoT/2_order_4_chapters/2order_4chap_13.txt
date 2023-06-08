@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Hannah, Gracie, Jack, Jackson and Aria entered the dining_room.
+2 The grapefruit is in the green_container.
+3 Hannah moved the grapefruit to the red_treasure_chest.
+4 Hannah exited the dining_room and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the dining_room for 10 minutes.
+6 Gracie exited the dining_room and stayed in the waiting_room.
+7 Jack made no movements and stayed in the dining_room for 10 minutes.
+8 Jack exited the dining_room and stayed in the waiting_room.
+9 Jackson moved the grapefruit to the blue_box.
+10 Jackson exited the dining_room and stayed in the waiting_room.
+11 Aria made no movements and stayed in the dining_room for 10 minutes.
+12 Aria exited the dining_room and stayed in the waiting_room.
+13 Gracie, Aria and Hannah entered the crawlspace.
+14 The banana is in the blue_treasure_chest.
+15 Gracie moved the banana to the red_bottle.
+16 Gracie exited the crawlspace and stayed in the waiting_room.
+17 Aria moved the banana to the green_cupboard.
+18 Aria exited the crawlspace and stayed in the waiting_room.
+19 Hannah moved the banana to the blue_container.
+20 Hannah exited the crawlspace and stayed in the waiting_room.
+21 Aria publicly claimed that banana is in the blue_basket.
+22 Hannah privately told Aria that the banana is actually in the blue_treasure_chest.
+23 Jack, Gracie, Hannah and Aria entered the closet.
+24 The celery is in the green_crate.
+25 Jack moved the celery to the red_drawer.
+26 Jack exited the closet and stayed in the waiting_room.
+27 Gracie moved the celery to the red_bucket.
+28 Gracie exited the closet and stayed in the waiting_room.
+29 Hannah made no movements and stayed in the closet for 10 minutes.
+30 Hannah exited the closet and stayed in the waiting_room.
+31 Aria moved the celery to the blue_envelope.
+32 Aria exited the closet and stayed in the waiting_room.
+33 Aria and Jack entered the dining_room.
+34 The onion is in the blue_drawer.
+35 Aria made no movements and stayed in the dining_room for 10 minutes.
+36 Aria exited the dining_room and stayed in the waiting_room.
+37 Jack moved the onion to the green_container.
+38 Jack exited the dining_room and stayed in the waiting_room.
+39 Jack publicly claimed that onion is in the green_container.
+40 Aria privately told Jack that the onion is actually in the blue_box.
+Question: Where does Gracie think Aria thinks the grapefruit is?
+Choices: A. green_container, B. blue_drawer, C. red_bathtub, D. blue_box, E. red_treasure_chest, F. red_drawer, G. green_crate, H. blue_envelope, I. red_container, J. red_bucket, K. blue_basket, L. blue_treasure_chest, M. blue_container, N. red_bottle, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

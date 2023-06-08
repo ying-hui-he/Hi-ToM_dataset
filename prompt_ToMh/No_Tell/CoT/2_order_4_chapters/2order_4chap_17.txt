@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Noah, Jacob, Aiden, Jack and Evelyn entered the master_bedroom.
+2 The onion is in the red_drawer.
+3 Noah moved the onion to the red_envelope.
+4 Noah exited the master_bedroom and stayed in the waiting_room.
+5 Jacob moved the onion to the blue_crate.
+6 Jacob exited the master_bedroom and stayed in the waiting_room.
+7 Aiden moved the onion to the blue_bucket.
+8 Aiden exited the master_bedroom and stayed in the waiting_room.
+9 Jack moved the onion to the blue_envelope.
+10 Jack exited the master_bedroom and stayed in the waiting_room.
+11 Evelyn moved the onion to the red_drawer.
+12 Evelyn exited the master_bedroom and stayed in the waiting_room.
+13 Noah, Jacob and Aiden entered the garage.
+14 The persimmon is in the blue_treasure_chest.
+15 Noah moved the persimmon to the green_cupboard.
+16 Noah exited the garage and stayed in the waiting_room.
+17 Jacob moved the persimmon to the blue_box.
+18 Jacob exited the garage and stayed in the waiting_room.
+19 Aiden made no movements and stayed in the garage for 10 minutes.
+20 Aiden exited the garage and stayed in the waiting_room.
+21 Jack, Aiden, Jacob and Noah entered the bedroom.
+22 The cucumber is in the red_crate.
+23 Jack moved the cucumber to the red_suitcase.
+24 Jack exited the bedroom and stayed in the waiting_room.
+25 Aiden made no movements and stayed in the bedroom for 10 minutes.
+26 Aiden exited the bedroom and stayed in the waiting_room.
+27 Jacob moved the cucumber to the green_bottle.
+28 Jacob exited the bedroom and stayed in the waiting_room.
+29 Noah made no movements and stayed in the bedroom for 10 minutes.
+30 Noah exited the bedroom and stayed in the waiting_room.
+31 Evelyn and Aiden entered the garage.
+32 The strawberry is in the blue_box.
+33 Evelyn moved the strawberry to the green_envelope.
+34 Evelyn exited the garage and stayed in the waiting_room.
+35 Aiden made no movements and stayed in the garage for 10 minutes.
+36 Aiden exited the garage and stayed in the waiting_room.
+Question: Where does Aiden think Jacob thinks the onion is?
+Choices: A. red_envelope, B. red_drawer, C. blue_envelope, D. blue_bucket, E. blue_crate, F. red_crate, G. red_suitcase, H. red_bottle, I. green_bottle, J. red_treasure_chest, K. blue_box, L. blue_treasure_chest, M. green_cupboard, N. green_treasure_chest, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

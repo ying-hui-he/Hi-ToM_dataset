@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aiden, Aria, Owen, Mia and Gracie entered the garage.
+2 The asparagus is in the green_bathtub.
+3 Aiden moved the asparagus to the red_basket.
+4 Aiden exited the garage and stayed in the waiting_room.
+5 Aria moved the asparagus to the green_crate.
+6 Aria exited the garage and stayed in the waiting_room.
+7 Owen moved the asparagus to the blue_suitcase.
+8 Owen exited the garage and stayed in the waiting_room.
+9 Mia moved the asparagus to the red_envelope.
+10 Mia exited the garage and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the garage for 10 minutes.
+12 Gracie exited the garage and stayed in the waiting_room.
+13 Owen publicly claimed that asparagus is in the red_basket.
+14 Gracie privately told Owen that the asparagus is actually in the green_crate.
+Question: Where does Aiden think Aria thinks Gracie thinks Mia thinks the asparagus is?
+Choices: A. red_drawer, B. red_bathtub, C. blue_bucket, D. blue_bottle, E. green_suitcase, F. green_container, G. red_treasure_chest, H. blue_treasure_chest, I. red_bucket, J. blue_container, K. green_bathtub, L. red_basket, M. blue_suitcase, N. red_envelope, O. green_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

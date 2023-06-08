@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Noah, Jacob, Charlotte, Carter and Hannah entered the office.
+2 The lettuce is in the blue_crate.
+3 Noah moved the lettuce to the blue_drawer.
+4 Noah exited the office and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the office for 10 minutes.
+6 Jacob exited the office and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the office for 10 minutes.
+8 Charlotte exited the office and stayed in the waiting_room.
+9 Carter moved the lettuce to the blue_bucket.
+10 Carter exited the office and stayed in the waiting_room.
+11 Hannah moved the lettuce to the blue_crate.
+12 Hannah exited the office and stayed in the waiting_room.
+Question: Where does Charlotte think the lettuce is?
+Choices: A. blue_crate, B. blue_bucket, C. blue_drawer, D. blue_bottle, E. red_basket, F. blue_container, G. blue_box, H. blue_bathtub, I. blue_treasure_chest, J. red_bucket, K. green_crate, L. blue_basket, M. blue_pantry, N. red_bathtub, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

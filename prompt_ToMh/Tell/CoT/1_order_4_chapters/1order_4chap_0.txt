@@ -1,44 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Isla, Emily, Ella, Ethan and Alexander entered the cellar.
-2 The pumpkin is in the red_container.
-3 Isla moved the pumpkin to the green_pantry.
-4 Isla exited the cellar and stayed in the waiting_room.
-5 Emily moved the pumpkin to the blue_bottle.
-6 Emily exited the cellar and stayed in the waiting_room.
-7 Ella made no movements and stayed in the cellar for 10 minutes.
-8 Ella exited the cellar and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the cellar for 10 minutes.
-10 Ethan exited the cellar and stayed in the waiting_room.
-11 Alexander made no movements and stayed in the cellar for 10 minutes.
-12 Alexander exited the cellar and stayed in the waiting_room.
-13 Ethan, Ella and Emily entered the staircase.
-14 The grapefruit is in the red_drawer.
-15 Ethan moved the grapefruit to the blue_box.
-16 Ethan exited the staircase and stayed in the waiting_room.
-17 Ella made no movements and stayed in the staircase for 10 minutes.
-18 Ella exited the staircase and stayed in the waiting_room.
-19 Emily moved the grapefruit to the red_cupboard.
-20 Emily exited the staircase and stayed in the waiting_room.
-21 Emily publicly claimed that grapefruit is in the red_envelope.
-22 Ethan privately told Emily that the grapefruit is actually in the blue_suitcase.
-23 Ella, Emily, Ethan and Alexander entered the staircase.
-24 The grapefruit is in the red_cupboard.
-25 Ella made no movements and stayed in the staircase for 10 minutes.
-26 Ella exited the staircase and stayed in the waiting_room.
-27 Emily moved the grapefruit to the red_envelope.
-28 Emily exited the staircase and stayed in the waiting_room.
-29 Ethan moved the grapefruit to the blue_suitcase.
-30 Ethan exited the staircase and stayed in the waiting_room.
-31 Alexander moved the grapefruit to the blue_box.
-32 Alexander exited the staircase and stayed in the waiting_room.
-33 Ethan and Emily entered the study.
-34 The carrot is in the green_box.
-35 Ethan moved the carrot to the green_suitcase.
-36 Ethan exited the study and stayed in the waiting_room.
-37 Emily made no movements and stayed in the study for 10 minutes.
-38 Emily exited the study and stayed in the waiting_room.
-39 Ethan privately told Isla that the carrot is actually in the red_bucket.
-Question: Where does Isla think the pumpkin is?
-Choices: A. red_envelope, B. red_drawer, C. blue_box, D. blue_suitcase, E. red_cupboard, F. red_container, G. green_pantry, H. blue_bottle, I. blue_treasure_chest, J. green_envelope, K. green_box, L. red_bucket, M. green_drawer, N. blue_bucket, O. green_suitcase
+1 Charlotte, Jack, Amelia, Mia and Emily entered the playroom.
+2 The pineapple is in the red_envelope.
+3 Charlotte made no movements and stayed in the playroom for 10 minutes.
+4 Charlotte exited the playroom and stayed in the waiting_room.
+5 Jack made no movements and stayed in the playroom for 10 minutes.
+6 Jack exited the playroom and stayed in the waiting_room.
+7 Amelia moved the pineapple to the blue_bathtub.
+8 Amelia exited the playroom and stayed in the waiting_room.
+9 Mia moved the pineapple to the red_suitcase.
+10 Mia exited the playroom and stayed in the waiting_room.
+11 Emily made no movements and stayed in the playroom for 10 minutes.
+12 Emily exited the playroom and stayed in the waiting_room.
+13 Emily, Amelia and Charlotte entered the playroom.
+14 The corn is in the blue_bathtub.
+15 Emily moved the corn to the red_bucket.
+16 Emily exited the playroom and stayed in the waiting_room.
+17 Amelia made no movements and stayed in the playroom for 10 minutes.
+18 Amelia exited the playroom and stayed in the waiting_room.
+19 Charlotte made no movements and stayed in the playroom for 10 minutes.
+20 Charlotte exited the playroom and stayed in the waiting_room.
+21 Emily publicly claimed that corn is in the red_envelope.
+22 Charlotte privately told Mia that the corn is actually in the red_bucket.
+23 Emily, Charlotte, Jack and Amelia entered the playroom.
+24 The pineapple is in the red_suitcase.
+25 Emily made no movements and stayed in the playroom for 10 minutes.
+26 Emily exited the playroom and stayed in the waiting_room.
+27 Charlotte moved the pineapple to the blue_bathtub.
+28 Charlotte exited the playroom and stayed in the waiting_room.
+29 Jack moved the pineapple to the red_bucket.
+30 Jack exited the playroom and stayed in the waiting_room.
+31 Amelia moved the pineapple to the red_envelope.
+32 Amelia exited the playroom and stayed in the waiting_room.
+33 Charlotte and Jack entered the playroom.
+34 The pineapple is in the red_envelope.
+35 Charlotte moved the pineapple to the red_suitcase.
+36 Charlotte exited the playroom and stayed in the waiting_room.
+37 Jack moved the pineapple to the blue_bathtub.
+38 Jack exited the playroom and stayed in the waiting_room.
+39 Jack publicly claimed that pineapple is in the blue_envelope.
+40 Charlotte privately told Jack that the pineapple is actually in the red_suitcase.
+Question: Where does Mia think the pineapple is?
+Choices: A. blue_container, B. green_bathtub, C. red_crate, D. red_drawer, E. green_crate, F. red_envelope, G. blue_bathtub, H. red_suitcase, I. blue_envelope, J. red_bucket, K. red_treasure_chest, L. green_treasure_chest, M. blue_pantry, N. green_envelope, O. blue_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

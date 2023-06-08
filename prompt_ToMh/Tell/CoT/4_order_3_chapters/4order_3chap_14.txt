@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emily, Amelia, Mila, Aiden and Abigail entered the dining_room.
+2 The persimmon is in the red_bottle.
+3 Emily made no movements and stayed in the dining_room for 10 minutes.
+4 Emily exited the dining_room and stayed in the waiting_room.
+5 Amelia moved the persimmon to the green_crate.
+6 Amelia exited the dining_room and stayed in the waiting_room.
+7 Mila made no movements and stayed in the dining_room for 10 minutes.
+8 Mila exited the dining_room and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the dining_room for 10 minutes.
+10 Aiden exited the dining_room and stayed in the waiting_room.
+11 Abigail moved the persimmon to the red_bottle.
+12 Abigail exited the dining_room and stayed in the waiting_room.
+13 Mila publicly claimed that persimmon is in the red_bottle.
+14 Abigail privately told Mila that the persimmon is actually in the green_crate.
+15 Mila, Aiden and Emily entered the dining_room.
+16 The persimmon is in the red_bottle.
+17 Mila made no movements and stayed in the dining_room for 10 minutes.
+18 Mila exited the dining_room and stayed in the waiting_room.
+19 Aiden moved the persimmon to the green_bathtub.
+20 Aiden exited the dining_room and stayed in the waiting_room.
+21 Emily made no movements and stayed in the dining_room for 10 minutes.
+22 Emily exited the dining_room and stayed in the waiting_room.
+23 Emily, Abigail, Mila and Aiden entered the front_yard.
+24 The celery is in the blue_treasure_chest.
+25 Emily moved the celery to the green_cupboard.
+26 Emily exited the front_yard and stayed in the waiting_room.
+27 Abigail made no movements and stayed in the front_yard for 10 minutes.
+28 Abigail exited the front_yard and stayed in the waiting_room.
+29 Mila moved the celery to the blue_basket.
+30 Mila exited the front_yard and stayed in the waiting_room.
+31 Aiden moved the celery to the blue_drawer.
+32 Aiden exited the front_yard and stayed in the waiting_room.
+33 Emily publicly claimed that celery is in the red_suitcase.
+34 Aiden privately told Amelia that the celery is actually in the blue_drawer.
+Question: Where does Aiden think Amelia thinks Emily thinks Mila thinks the persimmon is?
+Choices: A. green_envelope, B. red_bottle, C. blue_bathtub, D. green_bathtub, E. green_crate, F. blue_treasure_chest, G. red_suitcase, H. blue_basket, I. green_cupboard, J. blue_drawer, K. red_crate, L. blue_crate, M. blue_bucket, N. blue_suitcase, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

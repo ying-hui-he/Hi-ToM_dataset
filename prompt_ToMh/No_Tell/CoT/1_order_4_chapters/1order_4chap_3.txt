@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Amelia, Ethan, Carter, James and Jack entered the attic.
+2 The orange is in the red_bathtub.
+3 Amelia moved the orange to the green_suitcase.
+4 Amelia exited the attic and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the attic for 10 minutes.
+6 Ethan exited the attic and stayed in the waiting_room.
+7 Carter made no movements and stayed in the attic for 10 minutes.
+8 Carter exited the attic and stayed in the waiting_room.
+9 James made no movements and stayed in the attic for 10 minutes.
+10 James exited the attic and stayed in the waiting_room.
+11 Jack made no movements and stayed in the attic for 10 minutes.
+12 Jack exited the attic and stayed in the waiting_room.
+13 Ethan, Jack and James entered the pantry.
+14 The green_pepper is in the blue_drawer.
+15 Ethan moved the green_pepper to the green_container.
+16 Ethan exited the pantry and stayed in the waiting_room.
+17 Jack made no movements and stayed in the pantry for 10 minutes.
+18 Jack exited the pantry and stayed in the waiting_room.
+19 James made no movements and stayed in the pantry for 10 minutes.
+20 James exited the pantry and stayed in the waiting_room.
+21 Carter, James, Amelia and Ethan entered the pantry.
+22 The green_pepper is in the green_container.
+23 Carter moved the green_pepper to the blue_envelope.
+24 Carter exited the pantry and stayed in the waiting_room.
+25 James moved the green_pepper to the blue_drawer.
+26 James exited the pantry and stayed in the waiting_room.
+27 Amelia moved the green_pepper to the green_cupboard.
+28 Amelia exited the pantry and stayed in the waiting_room.
+29 Ethan moved the green_pepper to the blue_bottle.
+30 Ethan exited the pantry and stayed in the waiting_room.
+31 Amelia and James entered the bathroom.
+32 The plum is in the red_drawer.
+33 Amelia made no movements and stayed in the bathroom for 10 minutes.
+34 Amelia exited the bathroom and stayed in the waiting_room.
+35 James made no movements and stayed in the bathroom for 10 minutes.
+36 James exited the bathroom and stayed in the waiting_room.
+Question: Where does Carter think the orange is?
+Choices: A. blue_envelope, B. blue_drawer, C. blue_bottle, D. green_cupboard, E. green_container, F. green_crate, G. red_bathtub, H. red_container, I. green_treasure_chest, J. green_suitcase, K. blue_crate, L. red_drawer, M. green_envelope, N. red_bottle, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aiden, William, Avery, Logan and Emily entered the hall.
+2 The potato is in the red_bathtub.
+3 Aiden made no movements and stayed in the hall for 10 minutes.
+4 Aiden exited the hall and stayed in the waiting_room.
+5 William moved the potato to the green_container.
+6 William exited the hall and stayed in the waiting_room.
+7 Avery made no movements and stayed in the hall for 10 minutes.
+8 Avery exited the hall and stayed in the waiting_room.
+9 Logan moved the potato to the blue_bathtub.
+10 Logan exited the hall and stayed in the waiting_room.
+11 Emily moved the potato to the red_bathtub.
+12 Emily exited the hall and stayed in the waiting_room.
+Question: Where does Logan think William thinks Aiden thinks the potato is?
+Choices: A. red_bathtub, B. blue_bathtub, C. green_container, D. blue_crate, E. red_basket, F. green_envelope, G. green_bathtub, H. green_crate, I. blue_suitcase, J. blue_drawer, K. green_suitcase, L. blue_container, M. red_suitcase, N. blue_bottle, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

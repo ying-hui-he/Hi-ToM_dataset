@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Avery, Mia, Aiden and William entered the basement.
+2 The beans is in the red_container.
+3 Owen moved the beans to the blue_box.
+4 Owen exited the basement and stayed in the waiting_room.
+5 Avery made no movements and stayed in the basement for 10 minutes.
+6 Avery exited the basement and stayed in the waiting_room.
+7 Mia moved the beans to the blue_drawer.
+8 Mia exited the basement and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the basement for 10 minutes.
+10 Aiden exited the basement and stayed in the waiting_room.
+11 William made no movements and stayed in the basement for 10 minutes.
+12 William exited the basement and stayed in the waiting_room.
+13 Mia, Aiden and Avery entered the kitchen.
+14 The melon is in the green_treasure_chest.
+15 Mia made no movements and stayed in the kitchen for 10 minutes.
+16 Mia exited the kitchen and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the kitchen for 10 minutes.
+18 Aiden exited the kitchen and stayed in the waiting_room.
+19 Avery made no movements and stayed in the kitchen for 10 minutes.
+20 Avery exited the kitchen and stayed in the waiting_room.
+21 Aiden publicly claimed that melon is in the green_suitcase.
+22 Avery privately told Aiden that the melon is actually in the green_treasure_chest.
+23 Aiden, William, Avery and Owen entered the kitchen.
+24 The asparagus is in the blue_bucket.
+25 Aiden made no movements and stayed in the kitchen for 10 minutes.
+26 Aiden exited the kitchen and stayed in the waiting_room.
+27 William made no movements and stayed in the kitchen for 10 minutes.
+28 William exited the kitchen and stayed in the waiting_room.
+29 Avery moved the asparagus to the red_suitcase.
+30 Avery exited the kitchen and stayed in the waiting_room.
+31 Owen moved the asparagus to the green_suitcase.
+32 Owen exited the kitchen and stayed in the waiting_room.
+33 Aiden and Avery entered the dining_room.
+34 The grapefruit is in the red_envelope.
+35 Aiden made no movements and stayed in the dining_room for 10 minutes.
+36 Aiden exited the dining_room and stayed in the waiting_room.
+37 Avery moved the grapefruit to the green_bottle.
+38 Avery exited the dining_room and stayed in the waiting_room.
+39 Avery publicly claimed that grapefruit is in the green_cupboard.
+40 Aiden privately told Avery that the grapefruit is actually in the red_envelope.
+Question: Where is the beans really?
+Answer: blue_drawer
+Choices: A. green_treasure_chest, B. blue_bucket, C. green_suitcase, D. red_bottle, E. red_suitcase, F. blue_box, G. red_container, H. blue_drawer, I. red_treasure_chest, J. green_bathtub, K. red_envelope, L. green_bottle, M. blue_bathtub, N. blue_suitcase, O. green_cupboard

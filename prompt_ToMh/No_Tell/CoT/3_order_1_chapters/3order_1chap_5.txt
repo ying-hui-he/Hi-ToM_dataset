@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 William, Ella, Noah, Owen and Aria entered the master_bedroom.
+2 The green_pepper is in the blue_suitcase.
+3 William moved the green_pepper to the red_bathtub.
+4 William exited the master_bedroom and stayed in the waiting_room.
+5 Ella moved the green_pepper to the green_container.
+6 Ella exited the master_bedroom and stayed in the waiting_room.
+7 Noah moved the green_pepper to the green_bathtub.
+8 Noah exited the master_bedroom and stayed in the waiting_room.
+9 Owen made no movements and stayed in the master_bedroom for 10 minutes.
+10 Owen exited the master_bedroom and stayed in the waiting_room.
+11 Aria made no movements and stayed in the master_bedroom for 10 minutes.
+12 Aria exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Aria think Noah thinks Owen thinks the green_pepper is?
+Choices: A. red_envelope, B. red_container, C. red_basket, D. red_suitcase, E. blue_basket, F. blue_pantry, G. blue_drawer, H. blue_bottle, I. red_treasure_chest, J. red_crate, K. red_bathtub, L. blue_suitcase, M. green_bathtub, N. green_container, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

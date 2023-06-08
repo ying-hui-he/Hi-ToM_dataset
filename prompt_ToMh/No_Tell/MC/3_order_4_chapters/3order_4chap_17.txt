@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Avery, Mia, Aiden, Benjamin and Emma entered the hallway.
+2 The grapefruit is in the red_drawer.
+3 Avery made no movements and stayed in the hallway for 10 minutes.
+4 Avery exited the hallway and stayed in the waiting_room.
+5 Mia made no movements and stayed in the hallway for 10 minutes.
+6 Mia exited the hallway and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the hallway for 10 minutes.
+8 Aiden exited the hallway and stayed in the waiting_room.
+9 Benjamin moved the grapefruit to the red_envelope.
+10 Benjamin exited the hallway and stayed in the waiting_room.
+11 Emma moved the grapefruit to the red_drawer.
+12 Emma exited the hallway and stayed in the waiting_room.
+13 Aiden, Mia and Emma entered the front_yard.
+14 The onion is in the green_container.
+15 Aiden made no movements and stayed in the front_yard for 10 minutes.
+16 Aiden exited the front_yard and stayed in the waiting_room.
+17 Mia moved the onion to the green_crate.
+18 Mia exited the front_yard and stayed in the waiting_room.
+19 Emma moved the onion to the blue_box.
+20 Emma exited the front_yard and stayed in the waiting_room.
+21 Emma, Mia, Benjamin and Aiden entered the front_yard.
+22 The turnip is in the red_basket.
+23 Emma made no movements and stayed in the front_yard for 10 minutes.
+24 Emma exited the front_yard and stayed in the waiting_room.
+25 Mia moved the turnip to the blue_box.
+26 Mia exited the front_yard and stayed in the waiting_room.
+27 Benjamin made no movements and stayed in the front_yard for 10 minutes.
+28 Benjamin exited the front_yard and stayed in the waiting_room.
+29 Aiden moved the turnip to the green_container.
+30 Aiden exited the front_yard and stayed in the waiting_room.
+31 Aiden and Mia entered the hallway.
+32 The grapefruit is in the red_drawer.
+33 Aiden moved the grapefruit to the blue_drawer.
+34 Aiden exited the hallway and stayed in the waiting_room.
+35 Mia made no movements and stayed in the hallway for 10 minutes.
+36 Mia exited the hallway and stayed in the waiting_room.
+Question: Where does Aiden think Mia thinks Emma thinks the grapefruit is?
+Choices: A. red_basket, B. green_container, C. blue_box, D. green_crate, E. blue_suitcase, F. red_bathtub, G. red_bucket, H. green_envelope, I. blue_container, J. red_suitcase, K. green_bathtub, L. red_drawer, M. red_envelope, N. red_crate, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

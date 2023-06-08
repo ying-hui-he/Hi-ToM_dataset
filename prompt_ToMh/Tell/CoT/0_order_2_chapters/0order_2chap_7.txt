@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mia, Charlotte, Gracie, Jack and Carter entered the kitchen.
+2 The turnip is in the red_container.
+3 Mia made no movements and stayed in the kitchen for 10 minutes.
+4 Mia exited the kitchen and stayed in the waiting_room.
+5 Charlotte moved the turnip to the blue_bucket.
+6 Charlotte exited the kitchen and stayed in the waiting_room.
+7 Gracie made no movements and stayed in the kitchen for 10 minutes.
+8 Gracie exited the kitchen and stayed in the waiting_room.
+9 Jack made no movements and stayed in the kitchen for 10 minutes.
+10 Jack exited the kitchen and stayed in the waiting_room.
+11 Carter made no movements and stayed in the kitchen for 10 minutes.
+12 Carter exited the kitchen and stayed in the waiting_room.
+13 Mia, Charlotte and Jack entered the hall.
+14 The spinach is in the green_suitcase.
+15 Mia moved the spinach to the red_treasure_chest.
+16 Mia exited the hall and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the hall for 10 minutes.
+18 Charlotte exited the hall and stayed in the waiting_room.
+19 Jack moved the spinach to the green_bathtub.
+20 Jack exited the hall and stayed in the waiting_room.
+21 Charlotte privately told Jack that the spinach is actually in the red_treasure_chest.
+22 Jack privately told Carter that the spinach is actually in the green_bathtub.
+Question: Where is the turnip really?
+Choices: A. red_container, B. green_treasure_chest, C. red_bucket, D. red_drawer, E. blue_bucket, F. green_suitcase, G. green_bathtub, H. red_treasure_chest, I. blue_crate, J. red_suitcase, K. blue_treasure_chest, L. blue_basket, M. blue_envelope, N. green_cupboard, O. red_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

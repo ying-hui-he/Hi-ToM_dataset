@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William, Jayden, Evelyn, Avery and Jacob entered the TV_room.
+2 The pumpkin is in the red_bottle.
+3 William moved the pumpkin to the blue_bathtub.
+4 William exited the TV_room and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the TV_room for 10 minutes.
+6 Jayden exited the TV_room and stayed in the waiting_room.
+7 Evelyn moved the pumpkin to the red_treasure_chest.
+8 Evelyn exited the TV_room and stayed in the waiting_room.
+9 Avery made no movements and stayed in the TV_room for 10 minutes.
+10 Avery exited the TV_room and stayed in the waiting_room.
+11 Jacob moved the pumpkin to the red_bottle.
+12 Jacob exited the TV_room and stayed in the waiting_room.
+13 Jayden, William and Jacob entered the patio.
+14 The persimmon is in the blue_crate.
+15 Jayden moved the persimmon to the red_bathtub.
+16 Jayden exited the patio and stayed in the waiting_room.
+17 William made no movements and stayed in the patio for 10 minutes.
+18 William exited the patio and stayed in the waiting_room.
+19 Jacob made no movements and stayed in the patio for 10 minutes.
+20 Jacob exited the patio and stayed in the waiting_room.
+Question: Where does William think the pumpkin is?
+Choices: A. blue_crate, B. red_basket, C. blue_drawer, D. red_bathtub, E. blue_bucket, F. green_crate, G. red_bottle, H. blue_bathtub, I. blue_suitcase, J. red_treasure_chest, K. red_envelope, L. green_container, M. blue_container, N. green_bottle, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

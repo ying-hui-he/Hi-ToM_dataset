@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, James, Ava, Ella and Avery entered the attic.
+2 The potato is in the blue_treasure_chest.
+3 Jackson made no movements and stayed in the attic for 10 minutes.
+4 Jackson exited the attic and stayed in the waiting_room.
+5 James moved the potato to the blue_crate.
+6 James exited the attic and stayed in the waiting_room.
+7 Ava moved the potato to the blue_bucket.
+8 Ava exited the attic and stayed in the waiting_room.
+9 Ella moved the potato to the green_bathtub.
+10 Ella exited the attic and stayed in the waiting_room.
+11 Avery moved the potato to the blue_treasure_chest.
+12 Avery exited the attic and stayed in the waiting_room.
+13 Avery, James and Ava entered the laundry.
+14 The tangerine is in the green_treasure_chest.
+15 Avery made no movements and stayed in the laundry for 10 minutes.
+16 Avery exited the laundry and stayed in the waiting_room.
+17 James moved the tangerine to the green_bottle.
+18 James exited the laundry and stayed in the waiting_room.
+19 Ava moved the tangerine to the red_suitcase.
+20 Ava exited the laundry and stayed in the waiting_room.
+Question: Where does Avery think the potato is?
+Choices: A. green_treasure_chest, B. red_envelope, C. green_bottle, D. red_suitcase, E. green_envelope, F. blue_drawer, G. red_drawer, H. blue_basket, I. red_crate, J. blue_bottle, K. green_bathtub, L. blue_treasure_chest, M. blue_bucket, N. green_crate, O. blue_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

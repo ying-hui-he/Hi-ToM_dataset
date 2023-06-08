@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Evelyn, Emma, Lucas and Benjamin entered the living_room.
-2 The beans is in the green_bottle.
-3 Abigail moved the beans to the blue_crate.
-4 Abigail exited the living_room and stayed in the waiting_room.
-5 Evelyn moved the beans to the green_bathtub.
-6 Evelyn exited the living_room and stayed in the waiting_room.
-7 Emma moved the beans to the blue_drawer.
-8 Emma exited the living_room and stayed in the waiting_room.
-9 Lucas made no movements and stayed in the living_room for 10 minutes.
-10 Lucas exited the living_room and stayed in the waiting_room.
-11 Benjamin moved the beans to the green_bottle.
-12 Benjamin exited the living_room and stayed in the waiting_room.
-13 Lucas, Benjamin and Abigail entered the lounge.
-14 The pear is in the red_treasure_chest.
-15 Lucas made no movements and stayed in the lounge for 10 minutes.
-16 Lucas exited the lounge and stayed in the waiting_room.
-17 Benjamin moved the pear to the green_box.
-18 Benjamin exited the lounge and stayed in the waiting_room.
-19 Abigail moved the pear to the green_cupboard.
-20 Abigail exited the lounge and stayed in the waiting_room.
-21 Benjamin publicly claimed that pear is in the green_cupboard.
-22 Abigail privately told Benjamin that the pear is actually in the red_treasure_chest.
-Question: Where does Emma think Abigail thinks Benjamin thinks Lucas thinks the beans is?
-Choices: A. red_cupboard, B. red_container, C. blue_container, D. blue_suitcase, E. green_drawer, F. green_bottle, G. red_drawer, H. green_bathtub, I. blue_drawer, J. blue_crate, K. red_treasure_chest, L. green_cupboard, M. red_bottle, N. red_envelope, O. green_box
+1 Avery, Olivia, James, Jack and Amelia entered the cellar.
+2 The melon is in the blue_treasure_chest.
+3 Avery moved the melon to the blue_suitcase.
+4 Avery exited the cellar and stayed in the waiting_room.
+5 Olivia made no movements and stayed in the cellar for 10 minutes.
+6 Olivia exited the cellar and stayed in the waiting_room.
+7 James made no movements and stayed in the cellar for 10 minutes.
+8 James exited the cellar and stayed in the waiting_room.
+9 Jack made no movements and stayed in the cellar for 10 minutes.
+10 Jack exited the cellar and stayed in the waiting_room.
+11 Amelia made no movements and stayed in the cellar for 10 minutes.
+12 Amelia exited the cellar and stayed in the waiting_room.
+13 James, Avery and Jack entered the cellar.
+14 The tomato is in the blue_suitcase.
+15 James moved the tomato to the blue_treasure_chest.
+16 James exited the cellar and stayed in the waiting_room.
+17 Avery moved the tomato to the green_crate.
+18 Avery exited the cellar and stayed in the waiting_room.
+19 Jack made no movements and stayed in the cellar for 10 minutes.
+20 Jack exited the cellar and stayed in the waiting_room.
+21 Avery privately told Jack that the tomato is actually in the red_suitcase.
+22 Jack privately told Olivia that the tomato is actually in the green_crate.
+Question: Where does James think Olivia thinks Jack thinks Avery thinks the melon is?
+Choices: A. blue_treasure_chest, B. blue_suitcase, C. green_crate, D. red_suitcase, E. blue_bottle, F. blue_box, G. green_cupboard, H. blue_pantry, I. red_bottle, J. green_envelope, K. red_container, L. green_bathtub, M. blue_drawer, N. blue_crate, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

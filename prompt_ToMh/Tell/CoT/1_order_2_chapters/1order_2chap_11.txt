@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ella, Amelia, Isla, Evelyn and Emily entered the back_yard.
+2 The green_pepper is in the red_suitcase.
+3 Ella moved the green_pepper to the blue_drawer.
+4 Ella exited the back_yard and stayed in the waiting_room.
+5 Amelia moved the green_pepper to the green_bathtub.
+6 Amelia exited the back_yard and stayed in the waiting_room.
+7 Isla made no movements and stayed in the back_yard for 10 minutes.
+8 Isla exited the back_yard and stayed in the waiting_room.
+9 Evelyn moved the green_pepper to the blue_crate.
+10 Evelyn exited the back_yard and stayed in the waiting_room.
+11 Emily made no movements and stayed in the back_yard for 10 minutes.
+12 Emily exited the back_yard and stayed in the waiting_room.
+13 Ella, Evelyn and Emily entered the back_yard.
+14 The peach is in the red_bottle.
+15 Ella moved the peach to the red_suitcase.
+16 Ella exited the back_yard and stayed in the waiting_room.
+17 Evelyn made no movements and stayed in the back_yard for 10 minutes.
+18 Evelyn exited the back_yard and stayed in the waiting_room.
+19 Emily made no movements and stayed in the back_yard for 10 minutes.
+20 Emily exited the back_yard and stayed in the waiting_room.
+21 Emily publicly claimed that peach is in the red_suitcase.
+22 Ella privately told Emily that the peach is actually in the red_bottle.
+Question: Where does Emily think the green_pepper is?
+Choices: A. red_bottle, B. red_suitcase, C. green_bathtub, D. blue_crate, E. blue_drawer, F. green_bottle, G. blue_envelope, H. red_bathtub, I. green_treasure_chest, J. green_crate, K. blue_bathtub, L. green_container, M. blue_suitcase, N. red_drawer, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

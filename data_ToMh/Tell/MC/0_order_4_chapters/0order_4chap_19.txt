@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jacob, Ella, Olivia, Jack and Abigail entered the cellar.
+2 The grapefruit is in the green_container.
+3 Jacob moved the grapefruit to the blue_crate.
+4 Jacob exited the cellar and stayed in the waiting_room.
+5 Ella moved the grapefruit to the red_drawer.
+6 Ella exited the cellar and stayed in the waiting_room.
+7 Olivia made no movements and stayed in the cellar for 10 minutes.
+8 Olivia exited the cellar and stayed in the waiting_room.
+9 Jack made no movements and stayed in the cellar for 10 minutes.
+10 Jack exited the cellar and stayed in the waiting_room.
+11 Abigail moved the grapefruit to the green_container.
+12 Abigail exited the cellar and stayed in the waiting_room.
+13 Abigail, Jacob and Jack entered the patio.
+14 The celery is in the green_bathtub.
+15 Abigail moved the celery to the red_crate.
+16 Abigail exited the patio and stayed in the waiting_room.
+17 Jacob moved the celery to the green_bottle.
+18 Jacob exited the patio and stayed in the waiting_room.
+19 Jack moved the celery to the blue_basket.
+20 Jack exited the patio and stayed in the waiting_room.
+21 Jacob privately told Jack that the celery is actually in the green_bottle.
+22 Jack privately told Olivia that the celery is actually in the blue_basket.
+23 Ella, Olivia, Abigail and Jack entered the patio.
+24 The celery is in the blue_basket.
+25 Ella made no movements and stayed in the patio for 10 minutes.
+26 Ella exited the patio and stayed in the waiting_room.
+27 Olivia moved the celery to the green_bottle.
+28 Olivia exited the patio and stayed in the waiting_room.
+29 Abigail moved the celery to the green_bathtub.
+30 Abigail exited the patio and stayed in the waiting_room.
+31 Jack made no movements and stayed in the patio for 10 minutes.
+32 Jack exited the patio and stayed in the waiting_room.
+33 Abigail and Jacob entered the master_bedroom.
+34 The carrot is in the red_suitcase.
+35 Abigail moved the carrot to the red_treasure_chest.
+36 Abigail exited the master_bedroom and stayed in the waiting_room.
+37 Jacob moved the carrot to the red_bottle.
+38 Jacob exited the master_bedroom and stayed in the waiting_room.
+39 Jacob publicly claimed that carrot is in the red_suitcase.
+40 Abigail privately told Jacob that the carrot is actually in the green_crate.
+Question: Where is the grapefruit really?
+Answer: green_container
+Choices: A. red_suitcase, B. green_crate, C. red_bottle, D. blue_bucket, E. red_treasure_chest, F. green_bathtub, G. green_bottle, H. red_bucket, I. blue_basket, J. red_crate, K. red_drawer, L. green_container, M. blue_pantry, N. blue_crate, O. blue_treasure_chest

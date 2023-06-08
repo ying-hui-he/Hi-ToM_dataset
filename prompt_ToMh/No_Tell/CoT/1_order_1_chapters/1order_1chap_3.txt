@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Isla, Ella, Benjamin and Mila entered the back_yard.
+2 The cherry is in the green_suitcase.
+3 Aria moved the cherry to the red_suitcase.
+4 Aria exited the back_yard and stayed in the waiting_room.
+5 Isla made no movements and stayed in the back_yard for 10 minutes.
+6 Isla exited the back_yard and stayed in the waiting_room.
+7 Ella made no movements and stayed in the back_yard for 10 minutes.
+8 Ella exited the back_yard and stayed in the waiting_room.
+9 Benjamin made no movements and stayed in the back_yard for 10 minutes.
+10 Benjamin exited the back_yard and stayed in the waiting_room.
+11 Mila moved the cherry to the green_suitcase.
+12 Mila exited the back_yard and stayed in the waiting_room.
+Question: Where does Isla think the cherry is?
+Choices: A. red_basket, B. green_suitcase, C. blue_bottle, D. blue_envelope, E. red_suitcase, F. blue_bucket, G. blue_pantry, H. green_envelope, I. red_bottle, J. green_bathtub, K. blue_drawer, L. blue_treasure_chest, M. blue_basket, N. green_container, O. blue_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

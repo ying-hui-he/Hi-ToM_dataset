@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William, Evelyn, Aiden, Emily and Benjamin entered the sunroom.
+2 The peach is in the blue_bucket.
+3 William made no movements and stayed in the sunroom for 10 minutes.
+4 William exited the sunroom and stayed in the waiting_room.
+5 Evelyn made no movements and stayed in the sunroom for 10 minutes.
+6 Evelyn exited the sunroom and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the sunroom for 10 minutes.
+8 Aiden exited the sunroom and stayed in the waiting_room.
+9 Emily moved the peach to the blue_container.
+10 Emily exited the sunroom and stayed in the waiting_room.
+11 Benjamin made no movements and stayed in the sunroom for 10 minutes.
+12 Benjamin exited the sunroom and stayed in the waiting_room.
+13 Emily, William and Evelyn entered the sunroom.
+14 The pear is in the blue_container.
+15 Emily made no movements and stayed in the sunroom for 10 minutes.
+16 Emily exited the sunroom and stayed in the waiting_room.
+17 William made no movements and stayed in the sunroom for 10 minutes.
+18 William exited the sunroom and stayed in the waiting_room.
+19 Evelyn made no movements and stayed in the sunroom for 10 minutes.
+20 Evelyn exited the sunroom and stayed in the waiting_room.
+Question: Where does Benjamin think the peach is?
+Choices: A. blue_bucket, B. blue_container, C. red_crate, D. green_cupboard, E. green_bottle, F. green_envelope, G. red_basket, H. blue_drawer, I. red_drawer, J. blue_crate, K. green_treasure_chest, L. green_container, M. green_bathtub, N. green_suitcase, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

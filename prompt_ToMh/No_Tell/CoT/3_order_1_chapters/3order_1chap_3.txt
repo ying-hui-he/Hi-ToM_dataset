@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Isla, Evelyn, Jackson, Hannah and Amelia entered the TV_room.
+2 The pineapple is in the red_treasure_chest.
+3 Isla moved the pineapple to the green_cupboard.
+4 Isla exited the TV_room and stayed in the waiting_room.
+5 Evelyn moved the pineapple to the green_envelope.
+6 Evelyn exited the TV_room and stayed in the waiting_room.
+7 Jackson moved the pineapple to the red_container.
+8 Jackson exited the TV_room and stayed in the waiting_room.
+9 Hannah moved the pineapple to the red_bathtub.
+10 Hannah exited the TV_room and stayed in the waiting_room.
+11 Amelia made no movements and stayed in the TV_room for 10 minutes.
+12 Amelia exited the TV_room and stayed in the waiting_room.
+Question: Where does Jackson think Hannah thinks Amelia thinks the pineapple is?
+Choices: A. green_treasure_chest, B. blue_bottle, C. red_drawer, D. red_bottle, E. green_container, F. blue_envelope, G. blue_bucket, H. green_bathtub, I. red_suitcase, J. blue_container, K. green_cupboard, L. red_treasure_chest, M. green_envelope, N. red_container, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

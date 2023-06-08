@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Noah, Emma, Hannah, Aria and Olivia entered the crawlspace.
+2 The tomato is in the blue_bathtub.
+3 Noah moved the tomato to the green_treasure_chest.
+4 Noah exited the crawlspace and stayed in the waiting_room.
+5 Emma moved the tomato to the green_bathtub.
+6 Emma exited the crawlspace and stayed in the waiting_room.
+7 Hannah made no movements and stayed in the crawlspace for 10 minutes.
+8 Hannah exited the crawlspace and stayed in the waiting_room.
+9 Aria made no movements and stayed in the crawlspace for 10 minutes.
+10 Aria exited the crawlspace and stayed in the waiting_room.
+11 Olivia moved the tomato to the blue_bathtub.
+12 Olivia exited the crawlspace and stayed in the waiting_room.
+13 Emma, Olivia and Noah entered the dining_room.
+14 The pineapple is in the red_bathtub.
+15 Emma made no movements and stayed in the dining_room for 10 minutes.
+16 Emma exited the dining_room and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the dining_room for 10 minutes.
+18 Olivia exited the dining_room and stayed in the waiting_room.
+19 Noah moved the pineapple to the red_container.
+20 Noah exited the dining_room and stayed in the waiting_room.
+21 Noah publicly claimed that pineapple is in the red_bathtub.
+22 Emma privately told Noah that the pineapple is actually in the red_container.
+Question: Where does Olivia think Hannah thinks Emma thinks Noah thinks the tomato is?
+Choices: A. green_treasure_chest, B. blue_bathtub, C. blue_bottle, D. green_container, E. green_bathtub, F. red_bathtub, G. red_container, H. blue_envelope, I. red_crate, J. red_treasure_chest, K. green_bottle, L. blue_drawer, M. red_envelope, N. blue_container, O. red_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

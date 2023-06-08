@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jacob, Noah, Carter, Jackson and Aiden entered the basement.
+2 The apple is in the red_basket.
+3 Jacob moved the apple to the red_container.
+4 Jacob exited the basement and stayed in the waiting_room.
+5 Noah made no movements and stayed in the basement for 10 minutes.
+6 Noah exited the basement and stayed in the waiting_room.
+7 Carter made no movements and stayed in the basement for 10 minutes.
+8 Carter exited the basement and stayed in the waiting_room.
+9 Jackson moved the apple to the red_crate.
+10 Jackson exited the basement and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the basement for 10 minutes.
+12 Aiden exited the basement and stayed in the waiting_room.
+13 Jackson publicly claimed that apple is in the red_crate.
+14 Aiden privately told Jacob that the apple is actually in the red_crate.
+15 Jacob, Noah and Carter entered the patio.
+16 The persimmon is in the green_container.
+17 Jacob moved the persimmon to the blue_bucket.
+18 Jacob exited the patio and stayed in the waiting_room.
+19 Noah moved the persimmon to the blue_crate.
+20 Noah exited the patio and stayed in the waiting_room.
+21 Carter made no movements and stayed in the patio for 10 minutes.
+22 Carter exited the patio and stayed in the waiting_room.
+23 Aiden, Jacob, Noah and Carter entered the patio.
+24 The persimmon is in the blue_crate.
+25 Aiden moved the persimmon to the blue_bucket.
+26 Aiden exited the patio and stayed in the waiting_room.
+27 Jacob made no movements and stayed in the patio for 10 minutes.
+28 Jacob exited the patio and stayed in the waiting_room.
+29 Noah made no movements and stayed in the patio for 10 minutes.
+30 Noah exited the patio and stayed in the waiting_room.
+31 Carter made no movements and stayed in the patio for 10 minutes.
+32 Carter exited the patio and stayed in the waiting_room.
+33 Jacob publicly claimed that persimmon is in the blue_bucket.
+34 Carter privately told Noah that the persimmon is actually in the red_envelope.
+Question: Where does Aiden think Jacob thinks Noah thinks Carter thinks the apple is?
+Choices: A. green_container, B. green_crate, C. blue_crate, D. red_envelope, E. blue_bucket, F. red_container, G. red_basket, H. red_crate, I. green_treasure_chest, J. red_bottle, K. green_bottle, L. green_suitcase, M. green_cupboard, N. blue_basket, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

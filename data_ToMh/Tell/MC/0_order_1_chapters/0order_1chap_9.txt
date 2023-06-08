@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Carter, Emily, Emma, Charlotte and Jacob entered the kitchen.
+2 The cucumber is in the blue_crate.
+3 Carter made no movements and stayed in the kitchen for 10 minutes.
+4 Carter exited the kitchen and stayed in the waiting_room.
+5 Emily made no movements and stayed in the kitchen for 10 minutes.
+6 Emily exited the kitchen and stayed in the waiting_room.
+7 Emma made no movements and stayed in the kitchen for 10 minutes.
+8 Emma exited the kitchen and stayed in the waiting_room.
+9 Charlotte moved the cucumber to the blue_box.
+10 Charlotte exited the kitchen and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the kitchen for 10 minutes.
+12 Jacob exited the kitchen and stayed in the waiting_room.
+13 Emma privately told Carter that the cucumber is actually in the blue_crate.
+14 Emily privately told Charlotte that the cucumber is actually in the blue_basket.
+Question: Where is the cucumber really?
+Answer: blue_box
+Choices: A. green_bathtub, B. green_container, C. red_crate, D. green_envelope, E. red_bathtub, F. green_suitcase, G. red_suitcase, H. red_bucket, I. red_treasure_chest, J. green_cupboard, K. green_crate, L. blue_crate, M. blue_box, N. blue_basket, O. red_envelope

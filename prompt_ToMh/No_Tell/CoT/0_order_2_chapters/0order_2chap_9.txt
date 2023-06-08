@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Aiden, Hannah, Jack and James entered the study.
+2 The potato is in the blue_basket.
+3 Evelyn moved the potato to the blue_pantry.
+4 Evelyn exited the study and stayed in the waiting_room.
+5 Aiden moved the potato to the green_container.
+6 Aiden exited the study and stayed in the waiting_room.
+7 Hannah made no movements and stayed in the study for 10 minutes.
+8 Hannah exited the study and stayed in the waiting_room.
+9 Jack moved the potato to the blue_bathtub.
+10 Jack exited the study and stayed in the waiting_room.
+11 James moved the potato to the blue_basket.
+12 James exited the study and stayed in the waiting_room.
+13 Jack, Aiden and Hannah entered the kitchen.
+14 The pumpkin is in the red_suitcase.
+15 Jack made no movements and stayed in the kitchen for 10 minutes.
+16 Jack exited the kitchen and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the kitchen for 10 minutes.
+18 Aiden exited the kitchen and stayed in the waiting_room.
+19 Hannah moved the pumpkin to the blue_bottle.
+20 Hannah exited the kitchen and stayed in the waiting_room.
+Question: Where is the potato really?
+Choices: A. blue_bucket, B. red_suitcase, C. blue_box, D. blue_bottle, E. red_crate, F. blue_basket, G. blue_pantry, H. blue_crate, I. blue_bathtub, J. green_container, K. blue_suitcase, L. blue_drawer, M. green_suitcase, N. blue_container, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

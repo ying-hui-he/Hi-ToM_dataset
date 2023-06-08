@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Noah, William, Ava, Jack and Jayden entered the lounge.
+2 The carrot is in the red_envelope.
+3 Noah moved the carrot to the blue_suitcase.
+4 Noah exited the lounge and stayed in the waiting_room.
+5 William made no movements and stayed in the lounge for 10 minutes.
+6 William exited the lounge and stayed in the waiting_room.
+7 Ava made no movements and stayed in the lounge for 10 minutes.
+8 Ava exited the lounge and stayed in the waiting_room.
+9 Jack moved the carrot to the green_cupboard.
+10 Jack exited the lounge and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the lounge for 10 minutes.
+12 Jayden exited the lounge and stayed in the waiting_room.
+13 Noah, Jayden and Jack entered the lounge.
+14 The beans is in the blue_bottle.
+15 Noah moved the beans to the green_treasure_chest.
+16 Noah exited the lounge and stayed in the waiting_room.
+17 Jayden made no movements and stayed in the lounge for 10 minutes.
+18 Jayden exited the lounge and stayed in the waiting_room.
+19 Jack made no movements and stayed in the lounge for 10 minutes.
+20 Jack exited the lounge and stayed in the waiting_room.
+21 Noah, Jack, William and Ava entered the workshop.
+22 The green_pepper is in the blue_bucket.
+23 Noah moved the green_pepper to the red_crate.
+24 Noah exited the workshop and stayed in the waiting_room.
+25 Jack moved the green_pepper to the blue_container.
+26 Jack exited the workshop and stayed in the waiting_room.
+27 William moved the green_pepper to the red_treasure_chest.
+28 William exited the workshop and stayed in the waiting_room.
+29 Ava made no movements and stayed in the workshop for 10 minutes.
+30 Ava exited the workshop and stayed in the waiting_room.
+Question: Where does Noah think Ava thinks Jack thinks the carrot is?
+Choices: A. green_envelope, B. blue_envelope, C. green_container, D. blue_pantry, E. blue_box, F. blue_bucket, G. blue_container, H. red_treasure_chest, I. red_crate, J. red_bucket, K. red_envelope, L. blue_bottle, M. blue_suitcase, N. green_treasure_chest, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

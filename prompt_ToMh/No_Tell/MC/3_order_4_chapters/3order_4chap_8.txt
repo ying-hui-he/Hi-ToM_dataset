@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Noah, Ethan, Mia, Ella and Emma entered the workshop.
+2 The pumpkin is in the red_crate.
+3 Noah made no movements and stayed in the workshop for 10 minutes.
+4 Noah exited the workshop and stayed in the waiting_room.
+5 Ethan moved the pumpkin to the red_basket.
+6 Ethan exited the workshop and stayed in the waiting_room.
+7 Mia moved the pumpkin to the blue_container.
+8 Mia exited the workshop and stayed in the waiting_room.
+9 Ella made no movements and stayed in the workshop for 10 minutes.
+10 Ella exited the workshop and stayed in the waiting_room.
+11 Emma made no movements and stayed in the workshop for 10 minutes.
+12 Emma exited the workshop and stayed in the waiting_room.
+13 Emma, Ella and Noah entered the sunroom.
+14 The corn is in the blue_bathtub.
+15 Emma made no movements and stayed in the sunroom for 10 minutes.
+16 Emma exited the sunroom and stayed in the waiting_room.
+17 Ella moved the corn to the blue_basket.
+18 Ella exited the sunroom and stayed in the waiting_room.
+19 Noah made no movements and stayed in the sunroom for 10 minutes.
+20 Noah exited the sunroom and stayed in the waiting_room.
+21 Mia, Emma, Ethan and Noah entered the workshop.
+22 The beans is in the red_basket.
+23 Mia moved the beans to the green_envelope.
+24 Mia exited the workshop and stayed in the waiting_room.
+25 Emma moved the beans to the blue_crate.
+26 Emma exited the workshop and stayed in the waiting_room.
+27 Ethan made no movements and stayed in the workshop for 10 minutes.
+28 Ethan exited the workshop and stayed in the waiting_room.
+29 Noah made no movements and stayed in the workshop for 10 minutes.
+30 Noah exited the workshop and stayed in the waiting_room.
+31 Noah and Mia entered the playroom.
+32 The grapefruit is in the blue_envelope.
+33 Noah moved the grapefruit to the blue_suitcase.
+34 Noah exited the playroom and stayed in the waiting_room.
+35 Mia made no movements and stayed in the playroom for 10 minutes.
+36 Mia exited the playroom and stayed in the waiting_room.
+Question: Where does Emma think Noah thinks Ethan thinks the pumpkin is?
+Choices: A. red_basket, B. red_crate, C. blue_container, D. blue_crate, E. green_envelope, F. green_bottle, G. blue_bathtub, H. blue_box, I. blue_basket, J. blue_drawer, K. red_bottle, L. blue_envelope, M. red_treasure_chest, N. blue_suitcase, O. blue_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mia, Jayden, Gracie, Noah and Jackson entered the kitchen.
+2 The carrot is in the red_bucket.
+3 Mia made no movements and stayed in the kitchen for 10 minutes.
+4 Mia exited the kitchen and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the kitchen for 10 minutes.
+6 Jayden exited the kitchen and stayed in the waiting_room.
+7 Gracie made no movements and stayed in the kitchen for 10 minutes.
+8 Gracie exited the kitchen and stayed in the waiting_room.
+9 Noah made no movements and stayed in the kitchen for 10 minutes.
+10 Noah exited the kitchen and stayed in the waiting_room.
+11 Jackson moved the carrot to the red_bucket.
+12 Jackson exited the kitchen and stayed in the waiting_room.
+13 Jackson, Gracie and Noah entered the kitchen.
+14 The carrot is in the red_bucket.
+15 Jackson moved the carrot to the green_envelope.
+16 Jackson exited the kitchen and stayed in the waiting_room.
+17 Gracie moved the carrot to the red_bathtub.
+18 Gracie exited the kitchen and stayed in the waiting_room.
+19 Noah moved the carrot to the red_container.
+20 Noah exited the kitchen and stayed in the waiting_room.
+21 Noah publicly claimed that carrot is in the green_envelope.
+22 Jackson privately told Noah that the carrot is actually in the red_bathtub.
+23 Jayden, Gracie, Mia and Noah entered the garden.
+24 The apple is in the green_suitcase.
+25 Jayden moved the apple to the blue_bottle.
+26 Jayden exited the garden and stayed in the waiting_room.
+27 Gracie moved the apple to the blue_pantry.
+28 Gracie exited the garden and stayed in the waiting_room.
+29 Mia made no movements and stayed in the garden for 10 minutes.
+30 Mia exited the garden and stayed in the waiting_room.
+31 Noah moved the apple to the blue_box.
+32 Noah exited the garden and stayed in the waiting_room.
+33 Jackson and Jayden entered the kitchen.
+34 The carrot is in the red_container.
+35 Jackson made no movements and stayed in the kitchen for 10 minutes.
+36 Jackson exited the kitchen and stayed in the waiting_room.
+37 Jayden moved the carrot to the red_bucket.
+38 Jayden exited the kitchen and stayed in the waiting_room.
+39 Jackson publicly claimed that carrot is in the red_bucket.
+40 Jayden privately told Jackson that the carrot is actually in the green_envelope.
+Question: Where does Jackson think Gracie thinks Jayden thinks Mia thinks the carrot is?
+Choices: A. green_suitcase, B. blue_bottle, C. blue_crate, D. blue_box, E. blue_pantry, F. green_envelope, G. red_bucket, H. red_bottle, I. red_container, J. red_bathtub, K. blue_bathtub, L. red_envelope, M. red_basket, N. red_suitcase, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

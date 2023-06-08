@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aria, Avery, Owen, Oliver and Ethan entered the front_yard.
+2 The banana is in the red_drawer.
+3 Aria made no movements and stayed in the front_yard for 10 minutes.
+4 Aria exited the front_yard and stayed in the waiting_room.
+5 Avery moved the banana to the green_treasure_chest.
+6 Avery exited the front_yard and stayed in the waiting_room.
+7 Owen moved the banana to the red_container.
+8 Owen exited the front_yard and stayed in the waiting_room.
+9 Oliver moved the banana to the blue_box.
+10 Oliver exited the front_yard and stayed in the waiting_room.
+11 Ethan moved the banana to the red_drawer.
+12 Ethan exited the front_yard and stayed in the waiting_room.
+13 Oliver, Avery and Owen entered the workshop.
+14 The orange is in the blue_treasure_chest.
+15 Oliver moved the orange to the blue_basket.
+16 Oliver exited the workshop and stayed in the waiting_room.
+17 Avery moved the orange to the red_bucket.
+18 Avery exited the workshop and stayed in the waiting_room.
+19 Owen made no movements and stayed in the workshop for 10 minutes.
+20 Owen exited the workshop and stayed in the waiting_room.
+Question: Where is the banana really?
+Choices: A. blue_treasure_chest, B. red_bucket, C. blue_basket, D. red_basket, E. blue_suitcase, F. green_envelope, G. green_bottle, H. blue_bucket, I. green_container, J. green_cupboard, K. red_drawer, L. red_container, M. blue_bathtub, N. green_treasure_chest, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

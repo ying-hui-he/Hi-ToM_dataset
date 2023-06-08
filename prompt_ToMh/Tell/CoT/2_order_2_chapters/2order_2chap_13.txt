@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, William, Ava, Isla and Avery entered the front_yard.
+2 The cherry is in the green_envelope.
+3 Jackson made no movements and stayed in the front_yard for 10 minutes.
+4 Jackson exited the front_yard and stayed in the waiting_room.
+5 William moved the cherry to the green_crate.
+6 William exited the front_yard and stayed in the waiting_room.
+7 Ava moved the cherry to the blue_bucket.
+8 Ava exited the front_yard and stayed in the waiting_room.
+9 Isla made no movements and stayed in the front_yard for 10 minutes.
+10 Isla exited the front_yard and stayed in the waiting_room.
+11 Avery made no movements and stayed in the front_yard for 10 minutes.
+12 Avery exited the front_yard and stayed in the waiting_room.
+13 William, Avery and Isla entered the lounge.
+14 The carrot is in the green_treasure_chest.
+15 William made no movements and stayed in the lounge for 10 minutes.
+16 William exited the lounge and stayed in the waiting_room.
+17 Avery moved the carrot to the blue_pantry.
+18 Avery exited the lounge and stayed in the waiting_room.
+19 Isla moved the carrot to the blue_bathtub.
+20 Isla exited the lounge and stayed in the waiting_room.
+21 Isla publicly claimed that carrot is in the blue_pantry.
+22 William privately told Isla that the carrot is actually in the blue_drawer.
+Question: Where does Jackson think William thinks the cherry is?
+Choices: A. green_envelope, B. green_suitcase, C. blue_bucket, D. green_crate, E. blue_suitcase, F. blue_bathtub, G. green_treasure_chest, H. blue_drawer, I. blue_pantry, J. green_bottle, K. red_crate, L. red_bottle, M. red_drawer, N. blue_treasure_chest, O. red_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

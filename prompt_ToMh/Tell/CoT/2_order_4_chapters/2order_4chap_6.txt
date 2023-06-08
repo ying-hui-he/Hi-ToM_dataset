@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ava, Noah, Isla, Evelyn and Owen entered the bathroom.
+2 The banana is in the green_container.
+3 Ava moved the banana to the green_cupboard.
+4 Ava exited the bathroom and stayed in the waiting_room.
+5 Noah made no movements and stayed in the bathroom for 10 minutes.
+6 Noah exited the bathroom and stayed in the waiting_room.
+7 Isla made no movements and stayed in the bathroom for 10 minutes.
+8 Isla exited the bathroom and stayed in the waiting_room.
+9 Evelyn moved the banana to the green_crate.
+10 Evelyn exited the bathroom and stayed in the waiting_room.
+11 Owen moved the banana to the green_container.
+12 Owen exited the bathroom and stayed in the waiting_room.
+13 Noah, Evelyn and Ava entered the patio.
+14 The grapefruit is in the red_bucket.
+15 Noah made no movements and stayed in the patio for 10 minutes.
+16 Noah exited the patio and stayed in the waiting_room.
+17 Evelyn made no movements and stayed in the patio for 10 minutes.
+18 Evelyn exited the patio and stayed in the waiting_room.
+19 Ava moved the grapefruit to the blue_bucket.
+20 Ava exited the patio and stayed in the waiting_room.
+21 Evelyn privately told Ava that the grapefruit is actually in the green_bottle.
+22 Ava privately told Isla that the grapefruit is actually in the blue_bucket.
+23 Noah, Owen, Evelyn and Ava entered the patio.
+24 The grapefruit is in the blue_bucket.
+25 Noah moved the grapefruit to the red_bucket.
+26 Noah exited the patio and stayed in the waiting_room.
+27 Owen moved the grapefruit to the green_bottle.
+28 Owen exited the patio and stayed in the waiting_room.
+29 Evelyn moved the grapefruit to the red_basket.
+30 Evelyn exited the patio and stayed in the waiting_room.
+31 Ava made no movements and stayed in the patio for 10 minutes.
+32 Ava exited the patio and stayed in the waiting_room.
+33 Evelyn and Ava entered the bathroom.
+34 The banana is in the green_container.
+35 Evelyn made no movements and stayed in the bathroom for 10 minutes.
+36 Evelyn exited the bathroom and stayed in the waiting_room.
+37 Ava moved the banana to the red_suitcase.
+38 Ava exited the bathroom and stayed in the waiting_room.
+39 Evelyn publicly claimed that banana is in the green_cupboard.
+40 Ava privately told Evelyn that the banana is actually in the blue_box.
+Question: Where does Noah think Isla thinks the banana is?
+Choices: A. red_bucket, B. blue_pantry, C. blue_bucket, D. red_basket, E. green_bottle, F. blue_envelope, G. green_treasure_chest, H. red_crate, I. red_drawer, J. red_bathtub, K. red_suitcase, L. green_container, M. blue_box, N. green_crate, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

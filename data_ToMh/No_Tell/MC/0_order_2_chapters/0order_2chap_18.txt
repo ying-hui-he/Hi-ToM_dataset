@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Amelia, Olivia, Ethan and James entered the office.
+2 The pear is in the red_treasure_chest.
+3 Owen made no movements and stayed in the office for 10 minutes.
+4 Owen exited the office and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the office for 10 minutes.
+6 Amelia exited the office and stayed in the waiting_room.
+7 Olivia made no movements and stayed in the office for 10 minutes.
+8 Olivia exited the office and stayed in the waiting_room.
+9 Ethan made no movements and stayed in the office for 10 minutes.
+10 Ethan exited the office and stayed in the waiting_room.
+11 James moved the pear to the red_treasure_chest.
+12 James exited the office and stayed in the waiting_room.
+13 Owen, James and Ethan entered the laundry.
+14 The carrot is in the blue_crate.
+15 Owen made no movements and stayed in the laundry for 10 minutes.
+16 Owen exited the laundry and stayed in the waiting_room.
+17 James moved the carrot to the blue_pantry.
+18 James exited the laundry and stayed in the waiting_room.
+19 Ethan moved the carrot to the green_suitcase.
+20 Ethan exited the laundry and stayed in the waiting_room.
+Question: Where is the pear really?
+Answer: red_treasure_chest
+Choices: A. red_container, B. blue_crate, C. blue_pantry, D. green_suitcase, E. blue_box, F. green_container, G. red_treasure_chest, H. green_bathtub, I. blue_container, J. green_envelope, K. blue_envelope, L. blue_basket, M. red_crate, N. red_basket, O. red_bottle

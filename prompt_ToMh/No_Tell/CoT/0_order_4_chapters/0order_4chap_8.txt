@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ella, Jacob, Emily, Oliver and Isla entered the workshop.
+2 The carrot is in the blue_treasure_chest.
+3 Ella made no movements and stayed in the workshop for 10 minutes.
+4 Ella exited the workshop and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the workshop for 10 minutes.
+6 Jacob exited the workshop and stayed in the waiting_room.
+7 Emily moved the carrot to the green_bathtub.
+8 Emily exited the workshop and stayed in the waiting_room.
+9 Oliver moved the carrot to the blue_drawer.
+10 Oliver exited the workshop and stayed in the waiting_room.
+11 Isla made no movements and stayed in the workshop for 10 minutes.
+12 Isla exited the workshop and stayed in the waiting_room.
+13 Oliver, Emily and Ella entered the crawlspace.
+14 The tomato is in the red_basket.
+15 Oliver moved the tomato to the blue_pantry.
+16 Oliver exited the crawlspace and stayed in the waiting_room.
+17 Emily moved the tomato to the green_suitcase.
+18 Emily exited the crawlspace and stayed in the waiting_room.
+19 Ella moved the tomato to the green_container.
+20 Ella exited the crawlspace and stayed in the waiting_room.
+21 Jacob, Oliver, Emily and Isla entered the crawlspace.
+22 The tomato is in the green_container.
+23 Jacob moved the tomato to the red_bucket.
+24 Jacob exited the crawlspace and stayed in the waiting_room.
+25 Oliver made no movements and stayed in the crawlspace for 10 minutes.
+26 Oliver exited the crawlspace and stayed in the waiting_room.
+27 Emily moved the tomato to the green_suitcase.
+28 Emily exited the crawlspace and stayed in the waiting_room.
+29 Isla moved the tomato to the blue_pantry.
+30 Isla exited the crawlspace and stayed in the waiting_room.
+31 Jacob and Emily entered the TV_room.
+32 The tangerine is in the blue_bucket.
+33 Jacob moved the tangerine to the red_treasure_chest.
+34 Jacob exited the TV_room and stayed in the waiting_room.
+35 Emily made no movements and stayed in the TV_room for 10 minutes.
+36 Emily exited the TV_room and stayed in the waiting_room.
+Question: Where is the carrot really?
+Choices: A. red_treasure_chest, B. blue_bucket, C. green_cupboard, D. red_bottle, E. red_bathtub, F. blue_crate, G. blue_treasure_chest, H. green_bottle, I. green_bathtub, J. blue_drawer, K. red_bucket, L. red_basket, M. green_suitcase, N. blue_pantry, O. green_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

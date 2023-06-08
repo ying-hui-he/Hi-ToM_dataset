@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Logan, Evelyn, Ethan and Jack entered the kitchen.
+2 The pineapple is in the red_bottle.
+3 Mila moved the pineapple to the green_suitcase.
+4 Mila exited the kitchen and stayed in the waiting_room.
+5 Logan made no movements and stayed in the kitchen for 10 minutes.
+6 Logan exited the kitchen and stayed in the waiting_room.
+7 Evelyn made no movements and stayed in the kitchen for 10 minutes.
+8 Evelyn exited the kitchen and stayed in the waiting_room.
+9 Ethan moved the pineapple to the green_container.
+10 Ethan exited the kitchen and stayed in the waiting_room.
+11 Jack moved the pineapple to the red_bottle.
+12 Jack exited the kitchen and stayed in the waiting_room.
+13 Jack, Ethan and Mila entered the bedroom.
+14 The green_pepper is in the red_bathtub.
+15 Jack made no movements and stayed in the bedroom for 10 minutes.
+16 Jack exited the bedroom and stayed in the waiting_room.
+17 Ethan made no movements and stayed in the bedroom for 10 minutes.
+18 Ethan exited the bedroom and stayed in the waiting_room.
+19 Mila moved the green_pepper to the red_crate.
+20 Mila exited the bedroom and stayed in the waiting_room.
+21 Jack publicly claimed that green_pepper is in the red_envelope.
+22 Mila privately told Logan that the green_pepper is actually in the red_crate.
+23 Evelyn, Logan, Mila and Jack entered the hallway.
+24 The radish is in the red_container.
+25 Evelyn moved the radish to the red_bucket.
+26 Evelyn exited the hallway and stayed in the waiting_room.
+27 Logan made no movements and stayed in the hallway for 10 minutes.
+28 Logan exited the hallway and stayed in the waiting_room.
+29 Mila made no movements and stayed in the hallway for 10 minutes.
+30 Mila exited the hallway and stayed in the waiting_room.
+31 Jack made no movements and stayed in the hallway for 10 minutes.
+32 Jack exited the hallway and stayed in the waiting_room.
+33 Evelyn and Ethan entered the bedroom.
+34 The banana is in the red_treasure_chest.
+35 Evelyn moved the banana to the red_bathtub.
+36 Evelyn exited the bedroom and stayed in the waiting_room.
+37 Ethan moved the banana to the blue_treasure_chest.
+38 Ethan exited the bedroom and stayed in the waiting_room.
+39 Evelyn publicly claimed that banana is in the red_envelope.
+40 Ethan privately told Evelyn that the banana is actually in the red_treasure_chest.
+Question: Where does Ethan think Mila thinks the pineapple is?
+Choices: A. red_bottle, B. green_crate, C. blue_bathtub, D. green_container, E. green_suitcase, F. red_container, G. red_bucket, H. blue_crate, I. blue_drawer, J. blue_suitcase, K. red_bathtub, L. red_treasure_chest, M. red_envelope, N. blue_treasure_chest, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

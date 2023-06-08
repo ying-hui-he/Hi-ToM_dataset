@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 James, Mia, Evelyn, Ava and William entered the crawlspace.
+2 The carrot is in the green_suitcase.
+3 James moved the carrot to the red_container.
+4 James exited the crawlspace and stayed in the waiting_room.
+5 Mia moved the carrot to the blue_bucket.
+6 Mia exited the crawlspace and stayed in the waiting_room.
+7 Evelyn made no movements and stayed in the crawlspace for 10 minutes.
+8 Evelyn exited the crawlspace and stayed in the waiting_room.
+9 Ava made no movements and stayed in the crawlspace for 10 minutes.
+10 Ava exited the crawlspace and stayed in the waiting_room.
+11 William moved the carrot to the green_suitcase.
+12 William exited the crawlspace and stayed in the waiting_room.
+13 Evelyn privately told James that the carrot is actually in the blue_bucket.
+14 Mia privately told Ava that the carrot is actually in the green_suitcase.
+15 Evelyn, Ava and William entered the hallway.
+16 The orange is in the green_crate.
+17 Evelyn made no movements and stayed in the hallway for 10 minutes.
+18 Evelyn exited the hallway and stayed in the waiting_room.
+19 Ava moved the orange to the blue_container.
+20 Ava exited the hallway and stayed in the waiting_room.
+21 William moved the orange to the blue_suitcase.
+22 William exited the hallway and stayed in the waiting_room.
+23 Evelyn, Ava, James and Mia entered the hallway.
+24 The melon is in the red_envelope.
+25 Evelyn made no movements and stayed in the hallway for 10 minutes.
+26 Evelyn exited the hallway and stayed in the waiting_room.
+27 Ava made no movements and stayed in the hallway for 10 minutes.
+28 Ava exited the hallway and stayed in the waiting_room.
+29 James made no movements and stayed in the hallway for 10 minutes.
+30 James exited the hallway and stayed in the waiting_room.
+31 Mia made no movements and stayed in the hallway for 10 minutes.
+32 Mia exited the hallway and stayed in the waiting_room.
+33 Ava privately told James that the melon is actually in the green_cupboard.
+34 Mia privately told William that the melon is actually in the red_envelope.
+Question: Where does Evelyn think Ava thinks William thinks Mia thinks the carrot is?
+Answer: blue_bucket
+Choices: A. green_suitcase, B. red_container, C. blue_bucket, D. blue_pantry, E. green_container, F. blue_box, G. red_drawer, H. red_bottle, I. red_basket, J. blue_drawer, K. red_envelope, L. green_crate, M. green_cupboard, N. blue_suitcase, O. blue_container

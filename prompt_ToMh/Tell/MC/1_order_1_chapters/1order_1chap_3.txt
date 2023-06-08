@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella, Ava, Evelyn, Emily and Avery entered the sunroom.
+2 The tangerine is in the red_crate.
+3 Ella made no movements and stayed in the sunroom for 10 minutes.
+4 Ella exited the sunroom and stayed in the waiting_room.
+5 Ava moved the tangerine to the blue_bathtub.
+6 Ava exited the sunroom and stayed in the waiting_room.
+7 Evelyn moved the tangerine to the blue_crate.
+8 Evelyn exited the sunroom and stayed in the waiting_room.
+9 Emily made no movements and stayed in the sunroom for 10 minutes.
+10 Emily exited the sunroom and stayed in the waiting_room.
+11 Avery moved the tangerine to the red_crate.
+12 Avery exited the sunroom and stayed in the waiting_room.
+13 Emily publicly claimed that tangerine is in the red_container.
+14 Avery privately told Ella that the tangerine is actually in the red_crate.
+Question: Where does Evelyn think the tangerine is?
+Choices: A. blue_crate, B. red_crate, C. blue_bathtub, D. red_bucket, E. red_container, F. blue_box, G. red_envelope, H. red_bottle, I. red_drawer, J. blue_drawer, K. blue_treasure_chest, L. blue_container, M. green_bottle, N. green_treasure_chest, O. blue_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

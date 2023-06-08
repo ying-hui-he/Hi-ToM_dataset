@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William, Olivia, Ella, Hannah and Avery entered the bedroom.
+2 The potato is in the green_bathtub.
+3 William moved the potato to the red_container.
+4 William exited the bedroom and stayed in the waiting_room.
+5 Olivia made no movements and stayed in the bedroom for 10 minutes.
+6 Olivia exited the bedroom and stayed in the waiting_room.
+7 Ella made no movements and stayed in the bedroom for 10 minutes.
+8 Ella exited the bedroom and stayed in the waiting_room.
+9 Hannah moved the potato to the blue_pantry.
+10 Hannah exited the bedroom and stayed in the waiting_room.
+11 Avery moved the potato to the green_bathtub.
+12 Avery exited the bedroom and stayed in the waiting_room.
+13 Avery, Olivia and Hannah entered the bedroom.
+14 The potato is in the green_bathtub.
+15 Avery made no movements and stayed in the bedroom for 10 minutes.
+16 Avery exited the bedroom and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the bedroom for 10 minutes.
+18 Olivia exited the bedroom and stayed in the waiting_room.
+19 Hannah moved the potato to the blue_pantry.
+20 Hannah exited the bedroom and stayed in the waiting_room.
+21 Olivia publicly claimed that potato is in the red_container.
+22 Hannah privately told Olivia that the potato is actually in the green_bathtub.
+Question: Where does Avery think Hannah thinks the potato is?
+Choices: A. green_bathtub, B. red_bathtub, C. green_treasure_chest, D. red_container, E. blue_pantry, F. blue_drawer, G. blue_treasure_chest, H. blue_crate, I. green_suitcase, J. blue_bucket, K. green_container, L. red_suitcase, M. red_treasure_chest, N. blue_box, O. red_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

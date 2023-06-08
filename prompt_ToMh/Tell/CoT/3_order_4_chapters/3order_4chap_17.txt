@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ava, Jacob, Olivia, William and Ella entered the basement.
+2 The banana is in the red_crate.
+3 Ava made no movements and stayed in the basement for 10 minutes.
+4 Ava exited the basement and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the basement for 10 minutes.
+6 Jacob exited the basement and stayed in the waiting_room.
+7 Olivia made no movements and stayed in the basement for 10 minutes.
+8 Olivia exited the basement and stayed in the waiting_room.
+9 William made no movements and stayed in the basement for 10 minutes.
+10 William exited the basement and stayed in the waiting_room.
+11 Ella moved the banana to the red_crate.
+12 Ella exited the basement and stayed in the waiting_room.
+13 Olivia, Ava and William entered the study.
+14 The tangerine is in the red_drawer.
+15 Olivia made no movements and stayed in the study for 10 minutes.
+16 Olivia exited the study and stayed in the waiting_room.
+17 Ava made no movements and stayed in the study for 10 minutes.
+18 Ava exited the study and stayed in the waiting_room.
+19 William moved the tangerine to the blue_pantry.
+20 William exited the study and stayed in the waiting_room.
+21 Ava publicly claimed that tangerine is in the blue_pantry.
+22 William privately told Ava that the tangerine is actually in the blue_container.
+23 Jacob, Ava, William and Olivia entered the playroom.
+24 The pumpkin is in the blue_envelope.
+25 Jacob made no movements and stayed in the playroom for 10 minutes.
+26 Jacob exited the playroom and stayed in the waiting_room.
+27 Ava moved the pumpkin to the green_bathtub.
+28 Ava exited the playroom and stayed in the waiting_room.
+29 William moved the pumpkin to the green_cupboard.
+30 William exited the playroom and stayed in the waiting_room.
+31 Olivia made no movements and stayed in the playroom for 10 minutes.
+32 Olivia exited the playroom and stayed in the waiting_room.
+33 William and Olivia entered the basement.
+34 The peach is in the blue_bottle.
+35 William moved the peach to the green_envelope.
+36 William exited the basement and stayed in the waiting_room.
+37 Olivia moved the peach to the red_crate.
+38 Olivia exited the basement and stayed in the waiting_room.
+39 Olivia publicly claimed that peach is in the green_envelope.
+40 William privately told Olivia that the peach is actually in the blue_bucket.
+Question: Where does Jacob think Ella thinks William thinks the banana is?
+Choices: A. red_drawer, B. blue_container, C. blue_pantry, D. green_suitcase, E. red_suitcase, F. red_crate, G. blue_bottle, H. blue_basket, I. blue_bucket, J. green_envelope, K. blue_envelope, L. red_container, M. green_bathtub, N. green_cupboard, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

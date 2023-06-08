@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella, Benjamin, Ethan, Aiden and William entered the dining_room.
+2 The spinach is in the green_container.
+3 Ella made no movements and stayed in the dining_room for 10 minutes.
+4 Ella exited the dining_room and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the dining_room for 10 minutes.
+6 Benjamin exited the dining_room and stayed in the waiting_room.
+7 Ethan moved the spinach to the blue_crate.
+8 Ethan exited the dining_room and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the dining_room for 10 minutes.
+10 Aiden exited the dining_room and stayed in the waiting_room.
+11 William moved the spinach to the green_container.
+12 William exited the dining_room and stayed in the waiting_room.
+13 Benjamin, William and Ella entered the pantry.
+14 The celery is in the green_suitcase.
+15 Benjamin moved the celery to the green_cupboard.
+16 Benjamin exited the pantry and stayed in the waiting_room.
+17 William made no movements and stayed in the pantry for 10 minutes.
+18 William exited the pantry and stayed in the waiting_room.
+19 Ella made no movements and stayed in the pantry for 10 minutes.
+20 Ella exited the pantry and stayed in the waiting_room.
+21 Benjamin publicly claimed that celery is in the blue_bottle.
+22 Ella privately told Ethan that the celery is actually in the green_cupboard.
+23 Ella, Benjamin, William and Ethan entered the pantry.
+24 The pineapple is in the green_envelope.
+25 Ella made no movements and stayed in the pantry for 10 minutes.
+26 Ella exited the pantry and stayed in the waiting_room.
+27 Benjamin moved the pineapple to the blue_box.
+28 Benjamin exited the pantry and stayed in the waiting_room.
+29 William made no movements and stayed in the pantry for 10 minutes.
+30 William exited the pantry and stayed in the waiting_room.
+31 Ethan made no movements and stayed in the pantry for 10 minutes.
+32 Ethan exited the pantry and stayed in the waiting_room.
+33 William and Aiden entered the dining_room.
+34 The turnip is in the blue_bucket.
+35 William made no movements and stayed in the dining_room for 10 minutes.
+36 William exited the dining_room and stayed in the waiting_room.
+37 Aiden made no movements and stayed in the dining_room for 10 minutes.
+38 Aiden exited the dining_room and stayed in the waiting_room.
+39 Aiden publicly claimed that turnip is in the blue_bathtub.
+40 William privately told Aiden that the turnip is actually in the green_container.
+Question: Where does Aiden think William thinks Ethan thinks the spinach is?
+Answer: blue_crate
+Choices: A. red_crate, B. green_crate, C. red_container, D. red_envelope, E. red_treasure_chest, F. green_envelope, G. green_suitcase, H. blue_box, I. blue_bottle, J. green_cupboard, K. green_container, L. blue_bucket, M. red_bathtub, N. blue_bathtub, O. blue_crate

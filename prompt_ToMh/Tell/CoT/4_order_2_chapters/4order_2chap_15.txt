@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, William, Ethan, Aiden and Olivia entered the lounge.
+2 The spinach is in the blue_bathtub.
+3 Jackson made no movements and stayed in the lounge for 10 minutes.
+4 Jackson exited the lounge and stayed in the waiting_room.
+5 William made no movements and stayed in the lounge for 10 minutes.
+6 William exited the lounge and stayed in the waiting_room.
+7 Ethan made no movements and stayed in the lounge for 10 minutes.
+8 Ethan exited the lounge and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the lounge for 10 minutes.
+10 Aiden exited the lounge and stayed in the waiting_room.
+11 Olivia moved the spinach to the blue_bathtub.
+12 Olivia exited the lounge and stayed in the waiting_room.
+13 William, Olivia and Ethan entered the lounge.
+14 The persimmon is in the blue_envelope.
+15 William made no movements and stayed in the lounge for 10 minutes.
+16 William exited the lounge and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the lounge for 10 minutes.
+18 Olivia exited the lounge and stayed in the waiting_room.
+19 Ethan moved the persimmon to the green_treasure_chest.
+20 Ethan exited the lounge and stayed in the waiting_room.
+21 Ethan publicly claimed that persimmon is in the green_treasure_chest.
+22 William privately told Ethan that the persimmon is actually in the green_bathtub.
+Question: Where does Aiden think Ethan thinks Olivia thinks Jackson thinks the spinach is?
+Choices: A. blue_bathtub, B. blue_envelope, C. green_bathtub, D. blue_crate, E. green_treasure_chest, F. blue_treasure_chest, G. red_suitcase, H. blue_basket, I. red_basket, J. green_container, K. blue_bucket, L. blue_box, M. green_suitcase, N. green_envelope, O. blue_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

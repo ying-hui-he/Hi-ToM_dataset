@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Noah, Hannah, Emma and Avery entered the attic.
+2 The peach is in the red_basket.
+3 Ava made no movements and stayed in the attic for 10 minutes.
+4 Ava exited the attic and stayed in the waiting_room.
+5 Noah made no movements and stayed in the attic for 10 minutes.
+6 Noah exited the attic and stayed in the waiting_room.
+7 Hannah made no movements and stayed in the attic for 10 minutes.
+8 Hannah exited the attic and stayed in the waiting_room.
+9 Emma moved the peach to the green_bathtub.
+10 Emma exited the attic and stayed in the waiting_room.
+11 Avery moved the peach to the red_basket.
+12 Avery exited the attic and stayed in the waiting_room.
+13 Hannah publicly claimed that peach is in the green_suitcase.
+14 Avery privately told Hannah that the peach is actually in the green_bathtub.
+15 Noah, Emma and Ava entered the master_bedroom.
+16 The melon is in the blue_container.
+17 Noah made no movements and stayed in the master_bedroom for 10 minutes.
+18 Noah exited the master_bedroom and stayed in the waiting_room.
+19 Emma moved the melon to the blue_bucket.
+20 Emma exited the master_bedroom and stayed in the waiting_room.
+21 Ava made no movements and stayed in the master_bedroom for 10 minutes.
+22 Ava exited the master_bedroom and stayed in the waiting_room.
+23 Noah, Hannah, Avery and Emma entered the master_bedroom.
+24 The lime is in the red_bathtub.
+25 Noah moved the lime to the red_bucket.
+26 Noah exited the master_bedroom and stayed in the waiting_room.
+27 Hannah moved the lime to the blue_container.
+28 Hannah exited the master_bedroom and stayed in the waiting_room.
+29 Avery made no movements and stayed in the master_bedroom for 10 minutes.
+30 Avery exited the master_bedroom and stayed in the waiting_room.
+31 Emma moved the lime to the blue_bucket.
+32 Emma exited the master_bedroom and stayed in the waiting_room.
+33 Noah publicly claimed that lime is in the blue_bucket.
+34 Emma privately told Ava that the lime is actually in the blue_bucket.
+Question: Where does Hannah think the peach is?
+Choices: A. red_bathtub, B. blue_container, C. blue_bucket, D. red_bucket, E. green_bottle, F. red_basket, G. green_suitcase, H. green_bathtub, I. blue_box, J. blue_suitcase, K. red_drawer, L. blue_drawer, M. green_container, N. blue_bottle, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

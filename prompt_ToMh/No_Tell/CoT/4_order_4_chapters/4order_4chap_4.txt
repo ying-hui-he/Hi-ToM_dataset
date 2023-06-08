@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Abigail, Ava, Amelia, Mila and Oliver entered the garden.
+2 The lettuce is in the blue_bottle.
+3 Abigail moved the lettuce to the red_bathtub.
+4 Abigail exited the garden and stayed in the waiting_room.
+5 Ava moved the lettuce to the red_container.
+6 Ava exited the garden and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the garden for 10 minutes.
+8 Amelia exited the garden and stayed in the waiting_room.
+9 Mila made no movements and stayed in the garden for 10 minutes.
+10 Mila exited the garden and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the garden for 10 minutes.
+12 Oliver exited the garden and stayed in the waiting_room.
+13 Abigail, Amelia and Ava entered the den.
+14 The banana is in the green_cupboard.
+15 Abigail moved the banana to the blue_suitcase.
+16 Abigail exited the den and stayed in the waiting_room.
+17 Amelia made no movements and stayed in the den for 10 minutes.
+18 Amelia exited the den and stayed in the waiting_room.
+19 Ava moved the banana to the green_envelope.
+20 Ava exited the den and stayed in the waiting_room.
+21 Amelia, Oliver, Ava and Abigail entered the master_bedroom.
+22 The persimmon is in the red_suitcase.
+23 Amelia moved the persimmon to the blue_container.
+24 Amelia exited the master_bedroom and stayed in the waiting_room.
+25 Oliver moved the persimmon to the red_crate.
+26 Oliver exited the master_bedroom and stayed in the waiting_room.
+27 Ava moved the persimmon to the green_bathtub.
+28 Ava exited the master_bedroom and stayed in the waiting_room.
+29 Abigail moved the persimmon to the red_treasure_chest.
+30 Abigail exited the master_bedroom and stayed in the waiting_room.
+31 Oliver and Amelia entered the garden.
+32 The lettuce is in the red_container.
+33 Oliver made no movements and stayed in the garden for 10 minutes.
+34 Oliver exited the garden and stayed in the waiting_room.
+35 Amelia moved the lettuce to the green_bottle.
+36 Amelia exited the garden and stayed in the waiting_room.
+Question: Where does Mila think Amelia thinks Ava thinks Abigail thinks the lettuce is?
+Choices: A. green_envelope, B. green_cupboard, C. red_bottle, D. blue_suitcase, E. green_container, F. blue_bottle, G. blue_drawer, H. green_bottle, I. red_container, J. red_bathtub, K. red_suitcase, L. red_treasure_chest, M. red_crate, N. blue_container, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

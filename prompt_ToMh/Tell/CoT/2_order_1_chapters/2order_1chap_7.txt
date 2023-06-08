@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Amelia, Mila, Logan, Jackson and Noah entered the attic.
+2 The apple is in the green_bathtub.
+3 Amelia made no movements and stayed in the attic for 10 minutes.
+4 Amelia exited the attic and stayed in the waiting_room.
+5 Mila made no movements and stayed in the attic for 10 minutes.
+6 Mila exited the attic and stayed in the waiting_room.
+7 Logan made no movements and stayed in the attic for 10 minutes.
+8 Logan exited the attic and stayed in the waiting_room.
+9 Jackson made no movements and stayed in the attic for 10 minutes.
+10 Jackson exited the attic and stayed in the waiting_room.
+11 Noah moved the apple to the green_bathtub.
+12 Noah exited the attic and stayed in the waiting_room.
+13 Jackson publicly claimed that apple is in the green_bathtub.
+14 Noah privately told Amelia that the apple is actually in the green_bathtub.
+Question: Where does Amelia think Logan thinks the apple is?
+Choices: A. red_crate, B. green_treasure_chest, C. blue_bottle, D. green_container, E. blue_drawer, F. green_bathtub, G. red_bottle, H. blue_bathtub, I. blue_envelope, J. red_basket, K. blue_suitcase, L. red_envelope, M. red_bucket, N. red_bathtub, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

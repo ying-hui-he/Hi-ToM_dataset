@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Benjamin, Abigail, Mila and Gracie entered the front_yard.
+2 The asparagus is in the green_crate.
+3 Olivia moved the asparagus to the blue_bottle.
+4 Olivia exited the front_yard and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the front_yard for 10 minutes.
+6 Benjamin exited the front_yard and stayed in the waiting_room.
+7 Abigail moved the asparagus to the blue_bathtub.
+8 Abigail exited the front_yard and stayed in the waiting_room.
+9 Mila moved the asparagus to the green_bathtub.
+10 Mila exited the front_yard and stayed in the waiting_room.
+11 Gracie moved the asparagus to the green_crate.
+12 Gracie exited the front_yard and stayed in the waiting_room.
+13 Benjamin, Olivia and Gracie entered the front_yard.
+14 The orange is in the red_bathtub.
+15 Benjamin made no movements and stayed in the front_yard for 10 minutes.
+16 Benjamin exited the front_yard and stayed in the waiting_room.
+17 Olivia moved the orange to the green_bathtub.
+18 Olivia exited the front_yard and stayed in the waiting_room.
+19 Gracie moved the orange to the blue_bottle.
+20 Gracie exited the front_yard and stayed in the waiting_room.
+Question: Where does Olivia think the asparagus is?
+Choices: A. green_cupboard, B. red_suitcase, C. blue_drawer, D. blue_pantry, E. red_basket, F. green_crate, G. red_bathtub, H. green_bathtub, I. blue_bottle, J. blue_bathtub, K. red_bottle, L. green_container, M. red_crate, N. green_envelope, O. green_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

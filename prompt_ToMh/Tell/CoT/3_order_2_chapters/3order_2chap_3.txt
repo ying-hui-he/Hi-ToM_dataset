@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jacob, Carter, Abigail, Evelyn and James entered the den.
+2 The potato is in the green_envelope.
+3 Jacob made no movements and stayed in the den for 10 minutes.
+4 Jacob exited the den and stayed in the waiting_room.
+5 Carter made no movements and stayed in the den for 10 minutes.
+6 Carter exited the den and stayed in the waiting_room.
+7 Abigail moved the potato to the red_drawer.
+8 Abigail exited the den and stayed in the waiting_room.
+9 Evelyn made no movements and stayed in the den for 10 minutes.
+10 Evelyn exited the den and stayed in the waiting_room.
+11 James moved the potato to the green_envelope.
+12 James exited the den and stayed in the waiting_room.
+13 Carter, Jacob and Evelyn entered the sunroom.
+14 The spinach is in the blue_crate.
+15 Carter moved the spinach to the blue_suitcase.
+16 Carter exited the sunroom and stayed in the waiting_room.
+17 Jacob made no movements and stayed in the sunroom for 10 minutes.
+18 Jacob exited the sunroom and stayed in the waiting_room.
+19 Evelyn moved the spinach to the blue_bucket.
+20 Evelyn exited the sunroom and stayed in the waiting_room.
+21 Carter publicly claimed that spinach is in the blue_bucket.
+22 Evelyn privately told Abigail that the spinach is actually in the blue_bucket.
+Question: Where does Evelyn think Jacob thinks James thinks the potato is?
+Choices: A. green_envelope, B. blue_bathtub, C. green_suitcase, D. green_bathtub, E. red_drawer, F. green_crate, G. red_container, H. blue_box, I. blue_basket, J. blue_container, K. blue_crate, L. blue_pantry, M. blue_bucket, N. blue_envelope, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

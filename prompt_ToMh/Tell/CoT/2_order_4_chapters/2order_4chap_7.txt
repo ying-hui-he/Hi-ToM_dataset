@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Charlotte, Ella, Benjamin, Ava and Abigail entered the kitchen.
+2 The orange is in the green_crate.
+3 Charlotte moved the orange to the blue_bathtub.
+4 Charlotte exited the kitchen and stayed in the waiting_room.
+5 Ella moved the orange to the blue_drawer.
+6 Ella exited the kitchen and stayed in the waiting_room.
+7 Benjamin made no movements and stayed in the kitchen for 10 minutes.
+8 Benjamin exited the kitchen and stayed in the waiting_room.
+9 Ava made no movements and stayed in the kitchen for 10 minutes.
+10 Ava exited the kitchen and stayed in the waiting_room.
+11 Abigail made no movements and stayed in the kitchen for 10 minutes.
+12 Abigail exited the kitchen and stayed in the waiting_room.
+13 Charlotte, Abigail and Ella entered the den.
+14 The plum is in the red_envelope.
+15 Charlotte moved the plum to the red_basket.
+16 Charlotte exited the den and stayed in the waiting_room.
+17 Abigail made no movements and stayed in the den for 10 minutes.
+18 Abigail exited the den and stayed in the waiting_room.
+19 Ella moved the plum to the blue_container.
+20 Ella exited the den and stayed in the waiting_room.
+21 Abigail publicly claimed that plum is in the red_envelope.
+22 Ella privately told Abigail that the plum is actually in the red_crate.
+23 Charlotte, Ella, Abigail and Benjamin entered the kitchen.
+24 The carrot is in the blue_drawer.
+25 Charlotte moved the carrot to the blue_bucket.
+26 Charlotte exited the kitchen and stayed in the waiting_room.
+27 Ella made no movements and stayed in the kitchen for 10 minutes.
+28 Ella exited the kitchen and stayed in the waiting_room.
+29 Abigail moved the carrot to the green_crate.
+30 Abigail exited the kitchen and stayed in the waiting_room.
+31 Benjamin moved the carrot to the green_suitcase.
+32 Benjamin exited the kitchen and stayed in the waiting_room.
+33 Ella and Charlotte entered the kitchen.
+34 The orange is in the blue_drawer.
+35 Ella made no movements and stayed in the kitchen for 10 minutes.
+36 Ella exited the kitchen and stayed in the waiting_room.
+37 Charlotte moved the orange to the green_suitcase.
+38 Charlotte exited the kitchen and stayed in the waiting_room.
+39 Ella publicly claimed that orange is in the green_crate.
+40 Charlotte privately told Ella that the orange is actually in the blue_drawer.
+Question: Where does Abigail think Ella thinks the orange is?
+Choices: A. red_treasure_chest, B. blue_basket, C. blue_bottle, D. red_bathtub, E. green_treasure_chest, F. green_crate, G. blue_drawer, H. blue_bucket, I. green_suitcase, J. blue_bathtub, K. red_envelope, L. red_basket, M. red_crate, N. blue_container, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

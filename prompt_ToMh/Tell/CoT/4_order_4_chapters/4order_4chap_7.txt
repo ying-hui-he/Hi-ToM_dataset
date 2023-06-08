@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Ethan, Logan, Evelyn and Jackson entered the den.
+2 The tomato is in the blue_drawer.
+3 Olivia made no movements and stayed in the den for 10 minutes.
+4 Olivia exited the den and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the den for 10 minutes.
+6 Ethan exited the den and stayed in the waiting_room.
+7 Logan moved the tomato to the blue_pantry.
+8 Logan exited the den and stayed in the waiting_room.
+9 Evelyn made no movements and stayed in the den for 10 minutes.
+10 Evelyn exited the den and stayed in the waiting_room.
+11 Jackson moved the tomato to the blue_drawer.
+12 Jackson exited the den and stayed in the waiting_room.
+13 Olivia, Evelyn and Ethan entered the front_yard.
+14 The beans is in the red_bucket.
+15 Olivia moved the beans to the green_envelope.
+16 Olivia exited the front_yard and stayed in the waiting_room.
+17 Evelyn moved the beans to the red_bathtub.
+18 Evelyn exited the front_yard and stayed in the waiting_room.
+19 Ethan made no movements and stayed in the front_yard for 10 minutes.
+20 Ethan exited the front_yard and stayed in the waiting_room.
+21 Evelyn publicly claimed that beans is in the red_crate.
+22 Ethan privately told Evelyn that the beans is actually in the blue_container.
+23 Jackson, Ethan, Logan and Olivia entered the bedroom.
+24 The cherry is in the red_drawer.
+25 Jackson moved the cherry to the red_bottle.
+26 Jackson exited the bedroom and stayed in the waiting_room.
+27 Ethan made no movements and stayed in the bedroom for 10 minutes.
+28 Ethan exited the bedroom and stayed in the waiting_room.
+29 Logan moved the cherry to the blue_bathtub.
+30 Logan exited the bedroom and stayed in the waiting_room.
+31 Olivia moved the cherry to the green_container.
+32 Olivia exited the bedroom and stayed in the waiting_room.
+33 Olivia and Logan entered the bedroom.
+34 The corn is in the red_envelope.
+35 Olivia moved the corn to the green_container.
+36 Olivia exited the bedroom and stayed in the waiting_room.
+37 Logan moved the corn to the red_bottle.
+38 Logan exited the bedroom and stayed in the waiting_room.
+39 Logan publicly claimed that corn is in the blue_bathtub.
+40 Olivia privately told Logan that the corn is actually in the red_bottle.
+Question: Where does Olivia think Ethan thinks Jackson thinks Logan thinks the tomato is?
+Choices: A. red_envelope, B. red_drawer, C. red_bottle, D. blue_bathtub, E. green_container, F. red_crate, G. red_bucket, H. blue_container, I. green_envelope, J. red_bathtub, K. blue_drawer, L. green_treasure_chest, M. blue_pantry, N. blue_envelope, O. blue_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

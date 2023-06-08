@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Emma, Aiden, Logan and Jacob entered the porch.
+2 The pumpkin is in the green_container.
+3 Aria made no movements and stayed in the porch for 10 minutes.
+4 Aria exited the porch and stayed in the waiting_room.
+5 Emma made no movements and stayed in the porch for 10 minutes.
+6 Emma exited the porch and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the porch for 10 minutes.
+8 Aiden exited the porch and stayed in the waiting_room.
+9 Logan moved the pumpkin to the blue_envelope.
+10 Logan exited the porch and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the porch for 10 minutes.
+12 Jacob exited the porch and stayed in the waiting_room.
+13 Emma, Jacob and Logan entered the workshop.
+14 The plum is in the red_crate.
+15 Emma made no movements and stayed in the workshop for 10 minutes.
+16 Emma exited the workshop and stayed in the waiting_room.
+17 Jacob made no movements and stayed in the workshop for 10 minutes.
+18 Jacob exited the workshop and stayed in the waiting_room.
+19 Logan made no movements and stayed in the workshop for 10 minutes.
+20 Logan exited the workshop and stayed in the waiting_room.
+21 Aria, Emma, Aiden and Jacob entered the workshop.
+22 The plum is in the red_crate.
+23 Aria moved the plum to the green_bathtub.
+24 Aria exited the workshop and stayed in the waiting_room.
+25 Emma made no movements and stayed in the workshop for 10 minutes.
+26 Emma exited the workshop and stayed in the waiting_room.
+27 Aiden made no movements and stayed in the workshop for 10 minutes.
+28 Aiden exited the workshop and stayed in the waiting_room.
+29 Jacob moved the plum to the red_drawer.
+30 Jacob exited the workshop and stayed in the waiting_room.
+31 Jacob and Logan entered the porch.
+32 The pumpkin is in the blue_envelope.
+33 Jacob moved the pumpkin to the red_envelope.
+34 Jacob exited the porch and stayed in the waiting_room.
+35 Logan moved the pumpkin to the green_envelope.
+36 Logan exited the porch and stayed in the waiting_room.
+Question: Where does Emma think the pumpkin is?
+Choices: A. red_suitcase, B. blue_crate, C. green_bottle, D. blue_drawer, E. blue_bottle, F. green_container, G. blue_box, H. green_envelope, I. blue_envelope, J. red_envelope, K. red_crate, L. red_basket, M. red_drawer, N. green_bathtub, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

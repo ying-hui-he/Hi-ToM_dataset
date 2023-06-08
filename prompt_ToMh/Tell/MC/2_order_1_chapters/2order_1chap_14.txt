@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Emma, Mia, Hannah, Aiden and Isla entered the garden.
+2 The asparagus is in the green_suitcase.
+3 Emma made no movements and stayed in the garden for 10 minutes.
+4 Emma exited the garden and stayed in the waiting_room.
+5 Mia made no movements and stayed in the garden for 10 minutes.
+6 Mia exited the garden and stayed in the waiting_room.
+7 Hannah moved the asparagus to the green_envelope.
+8 Hannah exited the garden and stayed in the waiting_room.
+9 Aiden moved the asparagus to the blue_pantry.
+10 Aiden exited the garden and stayed in the waiting_room.
+11 Isla made no movements and stayed in the garden for 10 minutes.
+12 Isla exited the garden and stayed in the waiting_room.
+13 Hannah publicly claimed that asparagus is in the green_envelope.
+14 Isla privately told Hannah that the asparagus is actually in the green_suitcase.
+Question: Where does Isla think Emma thinks the asparagus is?
+Choices: A. red_suitcase, B. red_bathtub, C. red_basket, D. green_container, E. blue_crate, F. blue_pantry, G. green_suitcase, H. red_treasure_chest, I. red_envelope, J. green_envelope, K. blue_container, L. blue_bottle, M. blue_envelope, N. blue_drawer, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Carter, Jack, Avery and Gracie entered the staircase.
+2 The plum is in the blue_drawer.
+3 Evelyn made no movements and stayed in the staircase for 10 minutes.
+4 Evelyn exited the staircase and stayed in the waiting_room.
+5 Carter moved the plum to the red_bottle.
+6 Carter exited the staircase and stayed in the waiting_room.
+7 Jack moved the plum to the red_treasure_chest.
+8 Jack exited the staircase and stayed in the waiting_room.
+9 Avery moved the plum to the green_treasure_chest.
+10 Avery exited the staircase and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the staircase for 10 minutes.
+12 Gracie exited the staircase and stayed in the waiting_room.
+13 Avery publicly claimed that plum is in the blue_drawer.
+14 Gracie privately told Evelyn that the plum is actually in the green_treasure_chest.
+Question: Where does Carter think the plum is?
+Choices: A. green_crate, B. red_bucket, C. red_basket, D. blue_suitcase, E. green_cupboard, F. blue_drawer, G. red_bottle, H. red_treasure_chest, I. green_treasure_chest, J. red_container, K. blue_basket, L. green_bottle, M. green_suitcase, N. red_drawer, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Evelyn, Emily, Abigail and Ava entered the laundry.
+2 The orange is in the red_treasure_chest.
+3 Mila moved the orange to the green_bottle.
+4 Mila exited the laundry and stayed in the waiting_room.
+5 Evelyn moved the orange to the red_bottle.
+6 Evelyn exited the laundry and stayed in the waiting_room.
+7 Emily made no movements and stayed in the laundry for 10 minutes.
+8 Emily exited the laundry and stayed in the waiting_room.
+9 Abigail moved the orange to the blue_basket.
+10 Abigail exited the laundry and stayed in the waiting_room.
+11 Ava made no movements and stayed in the laundry for 10 minutes.
+12 Ava exited the laundry and stayed in the waiting_room.
+13 Mila, Emily and Abigail entered the crawlspace.
+14 The tomato is in the blue_crate.
+15 Mila moved the tomato to the blue_bucket.
+16 Mila exited the crawlspace and stayed in the waiting_room.
+17 Emily moved the tomato to the blue_drawer.
+18 Emily exited the crawlspace and stayed in the waiting_room.
+19 Abigail moved the tomato to the green_envelope.
+20 Abigail exited the crawlspace and stayed in the waiting_room.
+21 Emily privately told Abigail that the tomato is actually in the blue_bucket.
+22 Abigail privately told Ava that the tomato is actually in the green_envelope.
+Question: Where does Emily think the orange is?
+Answer: red_bottle
+Choices: A. blue_crate, B. blue_suitcase, C. blue_drawer, D. blue_bucket, E. green_envelope, F. blue_bathtub, G. green_container, H. blue_bottle, I. green_treasure_chest, J. green_cupboard, K. red_bottle, L. red_treasure_chest, M. red_container, N. green_bottle, O. blue_basket

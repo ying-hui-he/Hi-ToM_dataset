@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, Jacob, Abigail, Carter and Charlotte entered the hall.
+2 The plum is in the red_container.
+3 Logan moved the plum to the red_bathtub.
+4 Logan exited the hall and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the hall for 10 minutes.
+6 Jacob exited the hall and stayed in the waiting_room.
+7 Abigail moved the plum to the red_basket.
+8 Abigail exited the hall and stayed in the waiting_room.
+9 Carter moved the plum to the green_bathtub.
+10 Carter exited the hall and stayed in the waiting_room.
+11 Charlotte made no movements and stayed in the hall for 10 minutes.
+12 Charlotte exited the hall and stayed in the waiting_room.
+13 Abigail, Charlotte and Logan entered the garage.
+14 The potato is in the red_treasure_chest.
+15 Abigail made no movements and stayed in the garage for 10 minutes.
+16 Abigail exited the garage and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the garage for 10 minutes.
+18 Charlotte exited the garage and stayed in the waiting_room.
+19 Logan made no movements and stayed in the garage for 10 minutes.
+20 Logan exited the garage and stayed in the waiting_room.
+21 Charlotte publicly claimed that potato is in the blue_bathtub.
+22 Logan privately told Charlotte that the potato is actually in the blue_pantry.
+23 Carter, Logan, Charlotte and Abigail entered the workshop.
+24 The lime is in the green_treasure_chest.
+25 Carter made no movements and stayed in the workshop for 10 minutes.
+26 Carter exited the workshop and stayed in the waiting_room.
+27 Logan moved the lime to the red_crate.
+28 Logan exited the workshop and stayed in the waiting_room.
+29 Charlotte moved the lime to the green_crate.
+30 Charlotte exited the workshop and stayed in the waiting_room.
+31 Abigail moved the lime to the blue_basket.
+32 Abigail exited the workshop and stayed in the waiting_room.
+33 Logan and Charlotte entered the hall.
+34 The plum is in the green_bathtub.
+35 Logan made no movements and stayed in the hall for 10 minutes.
+36 Logan exited the hall and stayed in the waiting_room.
+37 Charlotte moved the plum to the red_basket.
+38 Charlotte exited the hall and stayed in the waiting_room.
+39 Logan privately told Jacob that the plum is actually in the red_basket.
+Question: Where is the plum really?
+Answer: red_basket
+Choices: A. red_container, B. green_bathtub, C. red_bathtub, D. red_basket, E. green_cupboard, F. blue_container, G. green_treasure_chest, H. green_crate, I. blue_basket, J. red_crate, K. red_envelope, L. red_treasure_chest, M. blue_pantry, N. blue_treasure_chest, O. blue_bathtub

@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Amelia, Jackson, Oliver and Aiden entered the study.
+2 The corn is in the green_cupboard.
+3 Evelyn made no movements and stayed in the study for 10 minutes.
+4 Evelyn exited the study and stayed in the waiting_room.
+5 Amelia moved the corn to the green_bathtub.
+6 Amelia exited the study and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the study for 10 minutes.
+8 Jackson exited the study and stayed in the waiting_room.
+9 Oliver made no movements and stayed in the study for 10 minutes.
+10 Oliver exited the study and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the study for 10 minutes.
+12 Aiden exited the study and stayed in the waiting_room.
+Question: Where does Aiden think Jackson thinks the corn is?
+Choices: A. blue_pantry, B. green_container, C. green_bottle, D. blue_box, E. red_bucket, F. blue_bathtub, G. blue_basket, H. red_envelope, I. blue_suitcase, J. red_basket, K. green_cupboard, L. green_envelope, M. green_bathtub, N. red_bathtub, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

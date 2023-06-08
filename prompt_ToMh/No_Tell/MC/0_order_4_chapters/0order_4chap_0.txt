@@ -1,41 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Evelyn, Gracie, Charlotte and Jayden entered the staircase.
-2 The pineapple is in the red_drawer.
-3 Amelia moved the pineapple to the red_bucket.
-4 Amelia exited the staircase and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the staircase for 10 minutes.
-6 Evelyn exited the staircase and stayed in the waiting_room.
-7 Gracie moved the pineapple to the green_cupboard.
-8 Gracie exited the staircase and stayed in the waiting_room.
-9 Charlotte moved the pineapple to the red_basket.
-10 Charlotte exited the staircase and stayed in the waiting_room.
-11 Jayden made no movements and stayed in the staircase for 10 minutes.
-12 Jayden exited the staircase and stayed in the waiting_room.
-13 Evelyn, Jayden and Gracie entered the staircase.
-14 The pineapple is in the red_basket.
-15 Evelyn moved the pineapple to the red_drawer.
-16 Evelyn exited the staircase and stayed in the waiting_room.
-17 Jayden moved the pineapple to the green_cupboard.
-18 Jayden exited the staircase and stayed in the waiting_room.
-19 Gracie made no movements and stayed in the staircase for 10 minutes.
-20 Gracie exited the staircase and stayed in the waiting_room.
-21 Evelyn, Charlotte, Gracie and Jayden entered the staircase.
-22 The spinach is in the green_cupboard.
-23 Evelyn moved the spinach to the red_drawer.
-24 Evelyn exited the staircase and stayed in the waiting_room.
-25 Charlotte made no movements and stayed in the staircase for 10 minutes.
-26 Charlotte exited the staircase and stayed in the waiting_room.
-27 Gracie moved the spinach to the red_bucket.
-28 Gracie exited the staircase and stayed in the waiting_room.
-29 Jayden moved the spinach to the red_basket.
-30 Jayden exited the staircase and stayed in the waiting_room.
-31 Jayden and Amelia entered the staircase.
-32 The pineapple is in the green_cupboard.
-33 Jayden moved the pineapple to the red_basket.
-34 Jayden exited the staircase and stayed in the waiting_room.
-35 Amelia made no movements and stayed in the staircase for 10 minutes.
-36 Amelia exited the staircase and stayed in the waiting_room.
-Question: Where is the pineapple really?
-Choices: A. blue_crate, B. green_bathtub, C. green_drawer, D. green_pantry, E. green_box, F. blue_bucket, G. blue_container, H. red_container, I. blue_cupboard, J. blue_bottle, K. red_drawer, L. green_cupboard, M. red_envelope, N. red_basket, O. red_bucket
+1 Owen, Mila, Logan, Carter and Mia entered the sunroom.
+2 The turnip is in the red_envelope.
+3 Owen moved the turnip to the green_container.
+4 Owen exited the sunroom and stayed in the waiting_room.
+5 Mila moved the turnip to the blue_pantry.
+6 Mila exited the sunroom and stayed in the waiting_room.
+7 Logan moved the turnip to the red_drawer.
+8 Logan exited the sunroom and stayed in the waiting_room.
+9 Carter moved the turnip to the blue_basket.
+10 Carter exited the sunroom and stayed in the waiting_room.
+11 Mia moved the turnip to the red_envelope.
+12 Mia exited the sunroom and stayed in the waiting_room.
+13 Mia, Owen and Logan entered the sunroom.
+14 The lime is in the red_drawer.
+15 Mia made no movements and stayed in the sunroom for 10 minutes.
+16 Mia exited the sunroom and stayed in the waiting_room.
+17 Owen made no movements and stayed in the sunroom for 10 minutes.
+18 Owen exited the sunroom and stayed in the waiting_room.
+19 Logan made no movements and stayed in the sunroom for 10 minutes.
+20 Logan exited the sunroom and stayed in the waiting_room.
+21 Owen, Logan, Mia and Carter entered the sunroom.
+22 The lime is in the red_drawer.
+23 Owen moved the lime to the red_envelope.
+24 Owen exited the sunroom and stayed in the waiting_room.
+25 Logan made no movements and stayed in the sunroom for 10 minutes.
+26 Logan exited the sunroom and stayed in the waiting_room.
+27 Mia moved the lime to the blue_basket.
+28 Mia exited the sunroom and stayed in the waiting_room.
+29 Carter moved the lime to the green_container.
+30 Carter exited the sunroom and stayed in the waiting_room.
+31 Mia and Mila entered the study.
+32 The strawberry is in the blue_treasure_chest.
+33 Mia made no movements and stayed in the study for 10 minutes.
+34 Mia exited the study and stayed in the waiting_room.
+35 Mila made no movements and stayed in the study for 10 minutes.
+36 Mila exited the study and stayed in the waiting_room.
+Question: Where is the turnip really?
+Choices: A. red_drawer, B. red_envelope, C. blue_basket, D. green_container, E. blue_pantry, F. blue_treasure_chest, G. red_treasure_chest, H. blue_bottle, I. green_envelope, J. red_bathtub, K. green_treasure_chest, L. green_bathtub, M. blue_bathtub, N. blue_crate, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

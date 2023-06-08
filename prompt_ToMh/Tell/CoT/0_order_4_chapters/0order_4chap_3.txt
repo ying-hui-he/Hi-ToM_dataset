@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Amelia, Abigail, Avery and Hannah entered the porch.
+2 The lemon is in the green_container.
+3 Olivia moved the lemon to the blue_envelope.
+4 Olivia exited the porch and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the porch for 10 minutes.
+6 Amelia exited the porch and stayed in the waiting_room.
+7 Abigail moved the lemon to the blue_suitcase.
+8 Abigail exited the porch and stayed in the waiting_room.
+9 Avery made no movements and stayed in the porch for 10 minutes.
+10 Avery exited the porch and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the porch for 10 minutes.
+12 Hannah exited the porch and stayed in the waiting_room.
+13 Hannah, Olivia and Amelia entered the bathroom.
+14 The turnip is in the blue_bathtub.
+15 Hannah moved the turnip to the red_container.
+16 Hannah exited the bathroom and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the bathroom for 10 minutes.
+18 Olivia exited the bathroom and stayed in the waiting_room.
+19 Amelia made no movements and stayed in the bathroom for 10 minutes.
+20 Amelia exited the bathroom and stayed in the waiting_room.
+21 Hannah publicly claimed that turnip is in the red_crate.
+22 Amelia privately told Abigail that the turnip is actually in the red_container.
+23 Abigail, Amelia, Avery and Hannah entered the porch.
+24 The banana is in the blue_bucket.
+25 Abigail made no movements and stayed in the porch for 10 minutes.
+26 Abigail exited the porch and stayed in the waiting_room.
+27 Amelia moved the banana to the blue_drawer.
+28 Amelia exited the porch and stayed in the waiting_room.
+29 Avery moved the banana to the green_container.
+30 Avery exited the porch and stayed in the waiting_room.
+31 Hannah made no movements and stayed in the porch for 10 minutes.
+32 Hannah exited the porch and stayed in the waiting_room.
+33 Abigail and Avery entered the porch.
+34 The lemon is in the blue_suitcase.
+35 Abigail made no movements and stayed in the porch for 10 minutes.
+36 Abigail exited the porch and stayed in the waiting_room.
+37 Avery moved the lemon to the green_container.
+38 Avery exited the porch and stayed in the waiting_room.
+39 Avery publicly claimed that lemon is in the blue_suitcase.
+40 Abigail privately told Avery that the lemon is actually in the green_container.
+Question: Where is the lemon really?
+Choices: A. green_treasure_chest, B. blue_bathtub, C. red_suitcase, D. red_crate, E. red_container, F. blue_bucket, G. green_container, H. blue_envelope, I. blue_suitcase, J. blue_drawer, K. red_drawer, L. red_bottle, M. blue_treasure_chest, N. blue_basket, O. blue_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

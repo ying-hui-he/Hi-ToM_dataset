@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Carter, Jackson, Ella and Owen entered the playroom.
+2 The asparagus is in the red_bottle.
+3 Avery made no movements and stayed in the playroom for 10 minutes.
+4 Avery exited the playroom and stayed in the waiting_room.
+5 Carter moved the asparagus to the red_bucket.
+6 Carter exited the playroom and stayed in the waiting_room.
+7 Jackson moved the asparagus to the blue_bathtub.
+8 Jackson exited the playroom and stayed in the waiting_room.
+9 Ella moved the asparagus to the red_basket.
+10 Ella exited the playroom and stayed in the waiting_room.
+11 Owen moved the asparagus to the red_bottle.
+12 Owen exited the playroom and stayed in the waiting_room.
+13 Ella, Avery and Jackson entered the garage.
+14 The celery is in the blue_pantry.
+15 Ella moved the celery to the green_crate.
+16 Ella exited the garage and stayed in the waiting_room.
+17 Avery made no movements and stayed in the garage for 10 minutes.
+18 Avery exited the garage and stayed in the waiting_room.
+19 Jackson moved the celery to the red_crate.
+20 Jackson exited the garage and stayed in the waiting_room.
+21 Avery publicly claimed that celery is in the green_crate.
+22 Jackson privately told Avery that the celery is actually in the red_crate.
+23 Jackson, Avery, Ella and Carter entered the garage.
+24 The celery is in the red_crate.
+25 Jackson made no movements and stayed in the garage for 10 minutes.
+26 Jackson exited the garage and stayed in the waiting_room.
+27 Avery made no movements and stayed in the garage for 10 minutes.
+28 Avery exited the garage and stayed in the waiting_room.
+29 Ella moved the celery to the green_bottle.
+30 Ella exited the garage and stayed in the waiting_room.
+31 Carter moved the celery to the blue_pantry.
+32 Carter exited the garage and stayed in the waiting_room.
+33 Ella and Jackson entered the playroom.
+34 The pineapple is in the blue_bathtub.
+35 Ella made no movements and stayed in the playroom for 10 minutes.
+36 Ella exited the playroom and stayed in the waiting_room.
+37 Jackson made no movements and stayed in the playroom for 10 minutes.
+38 Jackson exited the playroom and stayed in the waiting_room.
+39 Ella publicly claimed that pineapple is in the blue_suitcase.
+40 Jackson privately told Ella that the pineapple is actually in the blue_bathtub.
+Question: Where is the asparagus really?
+Choices: A. red_bottle, B. blue_bathtub, C. red_basket, D. red_bucket, E. blue_suitcase, F. blue_bucket, G. green_cupboard, H. blue_box, I. blue_treasure_chest, J. red_envelope, K. blue_pantry, L. green_crate, M. blue_bottle, N. green_bottle, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

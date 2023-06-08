@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, Gracie, Ethan, Abigail and Oliver entered the closet.
+2 The orange is in the green_container.
+3 Jackson made no movements and stayed in the closet for 10 minutes.
+4 Jackson exited the closet and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the closet for 10 minutes.
+6 Gracie exited the closet and stayed in the waiting_room.
+7 Ethan moved the orange to the red_suitcase.
+8 Ethan exited the closet and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the closet for 10 minutes.
+10 Abigail exited the closet and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the closet for 10 minutes.
+12 Oliver exited the closet and stayed in the waiting_room.
+13 Ethan privately told Jackson that the orange is actually in the green_bottle.
+14 Gracie privately told Abigail that the orange is actually in the green_container.
+15 Ethan, Jackson and Oliver entered the closet.
+16 The turnip is in the blue_bathtub.
+17 Ethan made no movements and stayed in the closet for 10 minutes.
+18 Ethan exited the closet and stayed in the waiting_room.
+19 Jackson moved the turnip to the red_suitcase.
+20 Jackson exited the closet and stayed in the waiting_room.
+21 Oliver made no movements and stayed in the closet for 10 minutes.
+22 Oliver exited the closet and stayed in the waiting_room.
+23 Ethan, Jackson, Oliver and Abigail entered the closet.
+24 The turnip is in the red_suitcase.
+25 Ethan made no movements and stayed in the closet for 10 minutes.
+26 Ethan exited the closet and stayed in the waiting_room.
+27 Jackson made no movements and stayed in the closet for 10 minutes.
+28 Jackson exited the closet and stayed in the waiting_room.
+29 Oliver made no movements and stayed in the closet for 10 minutes.
+30 Oliver exited the closet and stayed in the waiting_room.
+31 Abigail moved the turnip to the green_container.
+32 Abigail exited the closet and stayed in the waiting_room.
+33 Oliver publicly claimed that turnip is in the green_bottle.
+34 Ethan privately told Abigail that the turnip is actually in the green_container.
+Question: Where does Jackson think Abigail thinks Gracie thinks Ethan thinks the orange is?
+Choices: A. green_suitcase, B. blue_pantry, C. blue_basket, D. red_crate, E. blue_bottle, F. blue_bathtub, G. green_container, H. blue_suitcase, I. red_suitcase, J. green_bottle, K. blue_box, L. blue_drawer, M. blue_treasure_chest, N. green_crate, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

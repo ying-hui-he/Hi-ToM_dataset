@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Ethan, William, Aiden and Noah entered the garden.
+2 The orange is in the blue_suitcase.
+3 Olivia moved the orange to the blue_drawer.
+4 Olivia exited the garden and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the garden for 10 minutes.
+6 Ethan exited the garden and stayed in the waiting_room.
+7 William made no movements and stayed in the garden for 10 minutes.
+8 William exited the garden and stayed in the waiting_room.
+9 Aiden moved the orange to the blue_treasure_chest.
+10 Aiden exited the garden and stayed in the waiting_room.
+11 Noah moved the orange to the blue_suitcase.
+12 Noah exited the garden and stayed in the waiting_room.
+13 William publicly claimed that orange is in the blue_bathtub.
+14 Noah privately told William that the orange is actually in the red_envelope.
+15 William, Ethan and Aiden entered the living_room.
+16 The cucumber is in the green_container.
+17 William made no movements and stayed in the living_room for 10 minutes.
+18 William exited the living_room and stayed in the waiting_room.
+19 Ethan made no movements and stayed in the living_room for 10 minutes.
+20 Ethan exited the living_room and stayed in the waiting_room.
+21 Aiden made no movements and stayed in the living_room for 10 minutes.
+22 Aiden exited the living_room and stayed in the waiting_room.
+23 Aiden, Noah, William and Olivia entered the garden.
+24 The lettuce is in the blue_drawer.
+25 Aiden moved the lettuce to the blue_bathtub.
+26 Aiden exited the garden and stayed in the waiting_room.
+27 Noah moved the lettuce to the blue_suitcase.
+28 Noah exited the garden and stayed in the waiting_room.
+29 William moved the lettuce to the red_envelope.
+30 William exited the garden and stayed in the waiting_room.
+31 Olivia made no movements and stayed in the garden for 10 minutes.
+32 Olivia exited the garden and stayed in the waiting_room.
+33 William publicly claimed that lettuce is in the blue_drawer.
+34 Aiden privately told Olivia that the lettuce is actually in the blue_treasure_chest.
+Question: Where does Olivia think Aiden thinks Ethan thinks the orange is?
+Choices: A. green_container, B. green_crate, C. red_basket, D. blue_container, E. blue_basket, F. blue_drawer, G. blue_suitcase, H. blue_treasure_chest, I. red_envelope, J. blue_bathtub, K. green_cupboard, L. red_treasure_chest, M. blue_box, N. green_bathtub, O. blue_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

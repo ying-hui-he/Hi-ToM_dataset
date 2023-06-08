@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 James, Gracie, Isla, Jack and Ethan entered the garage.
+2 The carrot is in the green_suitcase.
+3 James made no movements and stayed in the garage for 10 minutes.
+4 James exited the garage and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the garage for 10 minutes.
+6 Gracie exited the garage and stayed in the waiting_room.
+7 Isla moved the carrot to the blue_basket.
+8 Isla exited the garage and stayed in the waiting_room.
+9 Jack moved the carrot to the red_container.
+10 Jack exited the garage and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the garage for 10 minutes.
+12 Ethan exited the garage and stayed in the waiting_room.
+13 Isla publicly claimed that carrot is in the blue_basket.
+14 Ethan privately told Isla that the carrot is actually in the green_suitcase.
+Question: Where is the carrot really?
+Choices: A. blue_drawer, B. blue_bathtub, C. blue_treasure_chest, D. red_drawer, E. blue_suitcase, F. blue_bucket, G. red_bottle, H. green_treasure_chest, I. green_bathtub, J. red_envelope, K. blue_bottle, L. green_suitcase, M. green_bottle, N. red_container, O. blue_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Charlotte, Amelia, Ethan, Ella and Evelyn entered the patio.
+2 The strawberry is in the green_cupboard.
+3 Charlotte moved the strawberry to the red_crate.
+4 Charlotte exited the patio and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the patio for 10 minutes.
+6 Amelia exited the patio and stayed in the waiting_room.
+7 Ethan moved the strawberry to the blue_drawer.
+8 Ethan exited the patio and stayed in the waiting_room.
+9 Ella made no movements and stayed in the patio for 10 minutes.
+10 Ella exited the patio and stayed in the waiting_room.
+11 Evelyn moved the strawberry to the green_cupboard.
+12 Evelyn exited the patio and stayed in the waiting_room.
+13 Ella, Evelyn and Charlotte entered the patio.
+14 The strawberry is in the green_cupboard.
+15 Ella moved the strawberry to the blue_drawer.
+16 Ella exited the patio and stayed in the waiting_room.
+17 Evelyn moved the strawberry to the red_bathtub.
+18 Evelyn exited the patio and stayed in the waiting_room.
+19 Charlotte made no movements and stayed in the patio for 10 minutes.
+20 Charlotte exited the patio and stayed in the waiting_room.
+21 Ethan, Amelia, Ella and Charlotte entered the dining_room.
+22 The carrot is in the blue_bottle.
+23 Ethan moved the carrot to the blue_suitcase.
+24 Ethan exited the dining_room and stayed in the waiting_room.
+25 Amelia made no movements and stayed in the dining_room for 10 minutes.
+26 Amelia exited the dining_room and stayed in the waiting_room.
+27 Ella moved the carrot to the blue_treasure_chest.
+28 Ella exited the dining_room and stayed in the waiting_room.
+29 Charlotte moved the carrot to the green_bathtub.
+30 Charlotte exited the dining_room and stayed in the waiting_room.
+31 Ethan and Ella entered the dining_room.
+32 The carrot is in the green_bathtub.
+33 Ethan moved the carrot to the blue_bottle.
+34 Ethan exited the dining_room and stayed in the waiting_room.
+35 Ella made no movements and stayed in the dining_room for 10 minutes.
+36 Ella exited the dining_room and stayed in the waiting_room.
+Question: Where is the strawberry really?
+Choices: A. blue_drawer, B. green_cupboard, C. red_bathtub, D. red_crate, E. blue_basket, F. green_container, G. green_envelope, H. red_envelope, I. blue_pantry, J. green_suitcase, K. blue_bottle, L. blue_treasure_chest, M. blue_envelope, N. green_bathtub, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

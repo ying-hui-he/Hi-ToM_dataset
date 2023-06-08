@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Emily, Ella, Avery and Olivia entered the workshop.
+2 The lettuce is in the green_container.
+3 Mila made no movements and stayed in the workshop for 10 minutes.
+4 Mila exited the workshop and stayed in the waiting_room.
+5 Emily moved the lettuce to the blue_basket.
+6 Emily exited the workshop and stayed in the waiting_room.
+7 Ella moved the lettuce to the red_envelope.
+8 Ella exited the workshop and stayed in the waiting_room.
+9 Avery moved the lettuce to the blue_bottle.
+10 Avery exited the workshop and stayed in the waiting_room.
+11 Olivia moved the lettuce to the green_container.
+12 Olivia exited the workshop and stayed in the waiting_room.
+13 Avery, Ella and Mila entered the playroom.
+14 The grapefruit is in the blue_envelope.
+15 Avery moved the grapefruit to the blue_pantry.
+16 Avery exited the playroom and stayed in the waiting_room.
+17 Ella moved the grapefruit to the blue_box.
+18 Ella exited the playroom and stayed in the waiting_room.
+19 Mila made no movements and stayed in the playroom for 10 minutes.
+20 Mila exited the playroom and stayed in the waiting_room.
+Question: Where does Mila think Avery thinks the lettuce is?
+Choices: A. red_envelope, B. green_container, C. blue_treasure_chest, D. blue_bottle, E. blue_basket, F. blue_bathtub, G. blue_envelope, H. blue_box, I. blue_pantry, J. red_basket, K. green_suitcase, L. green_bathtub, M. red_bucket, N. green_bottle, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

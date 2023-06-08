@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Abigail, Charlotte, Benjamin and Mia entered the back_yard.
+2 The lettuce is in the blue_box.
+3 Aria made no movements and stayed in the back_yard for 10 minutes.
+4 Aria exited the back_yard and stayed in the waiting_room.
+5 Abigail moved the lettuce to the green_treasure_chest.
+6 Abigail exited the back_yard and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the back_yard for 10 minutes.
+8 Charlotte exited the back_yard and stayed in the waiting_room.
+9 Benjamin made no movements and stayed in the back_yard for 10 minutes.
+10 Benjamin exited the back_yard and stayed in the waiting_room.
+11 Mia moved the lettuce to the blue_box.
+12 Mia exited the back_yard and stayed in the waiting_room.
+13 Benjamin, Mia and Abigail entered the crawlspace.
+14 The persimmon is in the blue_basket.
+15 Benjamin moved the persimmon to the red_suitcase.
+16 Benjamin exited the crawlspace and stayed in the waiting_room.
+17 Mia made no movements and stayed in the crawlspace for 10 minutes.
+18 Mia exited the crawlspace and stayed in the waiting_room.
+19 Abigail made no movements and stayed in the crawlspace for 10 minutes.
+20 Abigail exited the crawlspace and stayed in the waiting_room.
+21 Mia privately told Abigail that the persimmon is actually in the red_bottle.
+22 Abigail privately told Aria that the persimmon is actually in the red_suitcase.
+Question: Where does Aria think Benjamin thinks the lettuce is?
+Choices: A. blue_basket, B. red_bottle, C. red_suitcase, D. blue_envelope, E. red_bathtub, F. blue_treasure_chest, G. green_container, H. green_crate, I. blue_drawer, J. blue_bottle, K. blue_box, L. green_treasure_chest, M. blue_bathtub, N. blue_suitcase, O. red_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

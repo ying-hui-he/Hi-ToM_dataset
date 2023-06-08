@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Amelia, Charlotte, Jackson, Emily and Noah entered the sunroom.
+2 The persimmon is in the blue_container.
+3 Amelia moved the persimmon to the green_treasure_chest.
+4 Amelia exited the sunroom and stayed in the waiting_room.
+5 Charlotte moved the persimmon to the red_bucket.
+6 Charlotte exited the sunroom and stayed in the waiting_room.
+7 Jackson moved the persimmon to the green_container.
+8 Jackson exited the sunroom and stayed in the waiting_room.
+9 Emily made no movements and stayed in the sunroom for 10 minutes.
+10 Emily exited the sunroom and stayed in the waiting_room.
+11 Noah made no movements and stayed in the sunroom for 10 minutes.
+12 Noah exited the sunroom and stayed in the waiting_room.
+13 Charlotte, Amelia and Noah entered the hallway.
+14 The melon is in the blue_crate.
+15 Charlotte moved the melon to the green_bottle.
+16 Charlotte exited the hallway and stayed in the waiting_room.
+17 Amelia moved the melon to the red_bottle.
+18 Amelia exited the hallway and stayed in the waiting_room.
+19 Noah moved the melon to the blue_pantry.
+20 Noah exited the hallway and stayed in the waiting_room.
+21 Noah, Charlotte, Emily and Amelia entered the living_room.
+22 The pumpkin is in the blue_basket.
+23 Noah made no movements and stayed in the living_room for 10 minutes.
+24 Noah exited the living_room and stayed in the waiting_room.
+25 Charlotte moved the pumpkin to the blue_suitcase.
+26 Charlotte exited the living_room and stayed in the waiting_room.
+27 Emily made no movements and stayed in the living_room for 10 minutes.
+28 Emily exited the living_room and stayed in the waiting_room.
+29 Amelia moved the pumpkin to the red_crate.
+30 Amelia exited the living_room and stayed in the waiting_room.
+Question: Where does Jackson think the persimmon is?
+Choices: A. blue_basket, B. red_crate, C. blue_suitcase, D. blue_drawer, E. green_envelope, F. blue_container, G. red_suitcase, H. green_treasure_chest, I. red_bucket, J. green_container, K. blue_crate, L. green_bottle, M. red_envelope, N. blue_pantry, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Carter, Emily, Ella, James and Ava entered the patio.
+2 The pineapple is in the blue_bathtub.
+3 Carter moved the pineapple to the green_bathtub.
+4 Carter exited the patio and stayed in the waiting_room.
+5 Emily moved the pineapple to the blue_container.
+6 Emily exited the patio and stayed in the waiting_room.
+7 Ella made no movements and stayed in the patio for 10 minutes.
+8 Ella exited the patio and stayed in the waiting_room.
+9 James moved the pineapple to the blue_crate.
+10 James exited the patio and stayed in the waiting_room.
+11 Ava moved the pineapple to the blue_bathtub.
+12 Ava exited the patio and stayed in the waiting_room.
+13 Ella, James and Ava entered the lounge.
+14 The orange is in the blue_pantry.
+15 Ella moved the orange to the blue_drawer.
+16 Ella exited the lounge and stayed in the waiting_room.
+17 James moved the orange to the blue_envelope.
+18 James exited the lounge and stayed in the waiting_room.
+19 Ava moved the orange to the green_cupboard.
+20 Ava exited the lounge and stayed in the waiting_room.
+21 Ava publicly claimed that orange is in the blue_drawer.
+22 Ella privately told Ava that the orange is actually in the red_treasure_chest.
+23 Ella, Ava, Emily and James entered the cellar.
+24 The celery is in the blue_basket.
+25 Ella made no movements and stayed in the cellar for 10 minutes.
+26 Ella exited the cellar and stayed in the waiting_room.
+27 Ava moved the celery to the blue_box.
+28 Ava exited the cellar and stayed in the waiting_room.
+29 Emily moved the celery to the green_container.
+30 Emily exited the cellar and stayed in the waiting_room.
+31 James made no movements and stayed in the cellar for 10 minutes.
+32 James exited the cellar and stayed in the waiting_room.
+33 James and Ava entered the patio.
+34 The cucumber is in the blue_container.
+35 James moved the cucumber to the blue_bathtub.
+36 James exited the patio and stayed in the waiting_room.
+37 Ava moved the cucumber to the blue_crate.
+38 Ava exited the patio and stayed in the waiting_room.
+39 James publicly claimed that cucumber is in the blue_bathtub.
+40 Ava privately told James that the cucumber is actually in the green_bathtub.
+Question: Where does James think Ava thinks Ella thinks the pineapple is?
+Choices: A. blue_container, B. blue_bathtub, C. green_bottle, D. green_bathtub, E. blue_crate, F. green_cupboard, G. blue_pantry, H. blue_envelope, I. red_treasure_chest, J. blue_drawer, K. blue_basket, L. blue_box, M. red_bottle, N. red_drawer, O. green_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

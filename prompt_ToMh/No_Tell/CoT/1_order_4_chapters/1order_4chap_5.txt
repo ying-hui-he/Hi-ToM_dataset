@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Jacob, Abigail, Noah and Ella entered the workshop.
+2 The asparagus is in the green_cupboard.
+3 Avery moved the asparagus to the blue_bottle.
+4 Avery exited the workshop and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the workshop for 10 minutes.
+6 Jacob exited the workshop and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the workshop for 10 minutes.
+8 Abigail exited the workshop and stayed in the waiting_room.
+9 Noah moved the asparagus to the red_basket.
+10 Noah exited the workshop and stayed in the waiting_room.
+11 Ella made no movements and stayed in the workshop for 10 minutes.
+12 Ella exited the workshop and stayed in the waiting_room.
+13 Jacob, Abigail and Avery entered the hallway.
+14 The orange is in the red_crate.
+15 Jacob moved the orange to the blue_box.
+16 Jacob exited the hallway and stayed in the waiting_room.
+17 Abigail moved the orange to the red_suitcase.
+18 Abigail exited the hallway and stayed in the waiting_room.
+19 Avery made no movements and stayed in the hallway for 10 minutes.
+20 Avery exited the hallway and stayed in the waiting_room.
+21 Noah, Jacob, Abigail and Ella entered the workshop.
+22 The strawberry is in the blue_bottle.
+23 Noah made no movements and stayed in the workshop for 10 minutes.
+24 Noah exited the workshop and stayed in the waiting_room.
+25 Jacob moved the strawberry to the red_bottle.
+26 Jacob exited the workshop and stayed in the waiting_room.
+27 Abigail made no movements and stayed in the workshop for 10 minutes.
+28 Abigail exited the workshop and stayed in the waiting_room.
+29 Ella made no movements and stayed in the workshop for 10 minutes.
+30 Ella exited the workshop and stayed in the waiting_room.
+31 Noah and Avery entered the workshop.
+32 The strawberry is in the red_bottle.
+33 Noah made no movements and stayed in the workshop for 10 minutes.
+34 Noah exited the workshop and stayed in the waiting_room.
+35 Avery moved the strawberry to the green_cupboard.
+36 Avery exited the workshop and stayed in the waiting_room.
+Question: Where does Ella think the asparagus is?
+Choices: A. blue_container, B. green_suitcase, C. blue_treasure_chest, D. green_bottle, E. blue_crate, F. blue_bottle, G. green_cupboard, H. red_bottle, I. red_bathtub, J. red_basket, K. red_crate, L. red_treasure_chest, M. blue_box, N. red_container, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

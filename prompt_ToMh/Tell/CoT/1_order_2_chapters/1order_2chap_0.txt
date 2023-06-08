@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Isla, Mila, Hannah, Lily and Noah entered the pantry.
-2 The banana is in the green_bathtub.
-3 Isla moved the banana to the blue_cupboard.
-4 Isla exited the pantry and stayed in the waiting_room.
-5 Mila made no movements and stayed in the pantry for 10 minutes.
-6 Mila exited the pantry and stayed in the waiting_room.
-7 Hannah moved the banana to the blue_treasure_chest.
-8 Hannah exited the pantry and stayed in the waiting_room.
-9 Lily made no movements and stayed in the pantry for 10 minutes.
-10 Lily exited the pantry and stayed in the waiting_room.
-11 Noah made no movements and stayed in the pantry for 10 minutes.
-12 Noah exited the pantry and stayed in the waiting_room.
-13 Noah, Isla and Lily entered the pantry.
-14 The banana is in the blue_treasure_chest.
-15 Noah moved the banana to the red_envelope.
-16 Noah exited the pantry and stayed in the waiting_room.
-17 Isla made no movements and stayed in the pantry for 10 minutes.
-18 Isla exited the pantry and stayed in the waiting_room.
-19 Lily made no movements and stayed in the pantry for 10 minutes.
-20 Lily exited the pantry and stayed in the waiting_room.
-21 Lily publicly claimed that banana is in the green_bathtub.
-22 Noah privately told Lily that the banana is actually in the blue_cupboard.
-Question: Where does Isla think the banana is?
-Choices: A. red_envelope, B. green_bathtub, C. blue_cupboard, D. blue_drawer, E. blue_treasure_chest, F. green_bottle, G. green_treasure_chest, H. green_drawer, I. blue_crate, J. green_pantry, K. red_treasure_chest, L. green_box, M. red_box, N. green_bucket, O. red_bathtub
+1 Ella, Aria, Gracie, Owen and Abigail entered the office.
+2 The cucumber is in the red_bottle.
+3 Ella made no movements and stayed in the office for 10 minutes.
+4 Ella exited the office and stayed in the waiting_room.
+5 Aria made no movements and stayed in the office for 10 minutes.
+6 Aria exited the office and stayed in the waiting_room.
+7 Gracie moved the cucumber to the red_bathtub.
+8 Gracie exited the office and stayed in the waiting_room.
+9 Owen moved the cucumber to the red_envelope.
+10 Owen exited the office and stayed in the waiting_room.
+11 Abigail made no movements and stayed in the office for 10 minutes.
+12 Abigail exited the office and stayed in the waiting_room.
+13 Owen, Aria and Abigail entered the office.
+14 The cucumber is in the red_envelope.
+15 Owen made no movements and stayed in the office for 10 minutes.
+16 Owen exited the office and stayed in the waiting_room.
+17 Aria made no movements and stayed in the office for 10 minutes.
+18 Aria exited the office and stayed in the waiting_room.
+19 Abigail made no movements and stayed in the office for 10 minutes.
+20 Abigail exited the office and stayed in the waiting_room.
+21 Aria privately told Abigail that the cucumber is actually in the red_envelope.
+22 Abigail privately told Ella that the cucumber is actually in the red_envelope.
+Question: Where does Owen think the cucumber is?
+Choices: A. red_drawer, B. green_bottle, C. red_suitcase, D. red_treasure_chest, E. blue_bucket, F. red_bathtub, G. red_bottle, H. red_crate, I. red_envelope, J. blue_envelope, K. blue_treasure_chest, L. blue_drawer, M. blue_bathtub, N. blue_suitcase, O. green_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jayden, Mila, Carter, Ethan and Gracie entered the porch.
+2 The grapefruit is in the green_suitcase.
+3 Jayden made no movements and stayed in the porch for 10 minutes.
+4 Jayden exited the porch and stayed in the waiting_room.
+5 Mila made no movements and stayed in the porch for 10 minutes.
+6 Mila exited the porch and stayed in the waiting_room.
+7 Carter made no movements and stayed in the porch for 10 minutes.
+8 Carter exited the porch and stayed in the waiting_room.
+9 Ethan moved the grapefruit to the red_envelope.
+10 Ethan exited the porch and stayed in the waiting_room.
+11 Gracie moved the grapefruit to the green_suitcase.
+12 Gracie exited the porch and stayed in the waiting_room.
+13 Ethan, Carter and Gracie entered the attic.
+14 The lime is in the red_suitcase.
+15 Ethan made no movements and stayed in the attic for 10 minutes.
+16 Ethan exited the attic and stayed in the waiting_room.
+17 Carter moved the lime to the red_treasure_chest.
+18 Carter exited the attic and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the attic for 10 minutes.
+20 Gracie exited the attic and stayed in the waiting_room.
+21 Carter privately told Gracie that the lime is actually in the red_suitcase.
+22 Gracie privately told Mila that the lime is actually in the red_treasure_chest.
+23 Ethan, Mila, Carter and Gracie entered the attic.
+24 The carrot is in the red_basket.
+25 Ethan moved the carrot to the red_container.
+26 Ethan exited the attic and stayed in the waiting_room.
+27 Mila made no movements and stayed in the attic for 10 minutes.
+28 Mila exited the attic and stayed in the waiting_room.
+29 Carter moved the carrot to the red_treasure_chest.
+30 Carter exited the attic and stayed in the waiting_room.
+31 Gracie made no movements and stayed in the attic for 10 minutes.
+32 Gracie exited the attic and stayed in the waiting_room.
+33 Ethan and Mila entered the porch.
+34 The celery is in the red_crate.
+35 Ethan made no movements and stayed in the porch for 10 minutes.
+36 Ethan exited the porch and stayed in the waiting_room.
+37 Mila moved the celery to the red_bucket.
+38 Mila exited the porch and stayed in the waiting_room.
+39 Mila publicly claimed that celery is in the green_bottle.
+40 Ethan privately told Mila that the celery is actually in the red_bucket.
+Question: Where does Gracie think the grapefruit is?
+Choices: A. blue_bucket, B. green_crate, C. blue_bathtub, D. blue_treasure_chest, E. blue_suitcase, F. red_basket, G. red_suitcase, H. blue_basket, I. red_container, J. red_treasure_chest, K. green_suitcase, L. red_crate, M. green_bottle, N. red_bucket, O. red_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

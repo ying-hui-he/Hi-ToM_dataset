@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Amelia, Isla, Abigail, Gracie and Jacob entered the bathroom.
+2 The radish is in the blue_drawer.
+3 Amelia made no movements and stayed in the bathroom for 10 minutes.
+4 Amelia exited the bathroom and stayed in the waiting_room.
+5 Isla made no movements and stayed in the bathroom for 10 minutes.
+6 Isla exited the bathroom and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the bathroom for 10 minutes.
+8 Abigail exited the bathroom and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the bathroom for 10 minutes.
+10 Gracie exited the bathroom and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the bathroom for 10 minutes.
+12 Jacob exited the bathroom and stayed in the waiting_room.
+13 Jacob, Isla and Gracie entered the bathroom.
+14 The radish is in the blue_drawer.
+15 Jacob made no movements and stayed in the bathroom for 10 minutes.
+16 Jacob exited the bathroom and stayed in the waiting_room.
+17 Isla made no movements and stayed in the bathroom for 10 minutes.
+18 Isla exited the bathroom and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the bathroom for 10 minutes.
+20 Gracie exited the bathroom and stayed in the waiting_room.
+21 Jacob, Abigail, Isla and Gracie entered the bathroom.
+22 The radish is in the blue_drawer.
+23 Jacob made no movements and stayed in the bathroom for 10 minutes.
+24 Jacob exited the bathroom and stayed in the waiting_room.
+25 Abigail made no movements and stayed in the bathroom for 10 minutes.
+26 Abigail exited the bathroom and stayed in the waiting_room.
+27 Isla moved the radish to the red_envelope.
+28 Isla exited the bathroom and stayed in the waiting_room.
+29 Gracie made no movements and stayed in the bathroom for 10 minutes.
+30 Gracie exited the bathroom and stayed in the waiting_room.
+31 Abigail and Amelia entered the bathroom.
+32 The radish is in the red_envelope.
+33 Abigail made no movements and stayed in the bathroom for 10 minutes.
+34 Abigail exited the bathroom and stayed in the waiting_room.
+35 Amelia made no movements and stayed in the bathroom for 10 minutes.
+36 Amelia exited the bathroom and stayed in the waiting_room.
+Question: Where is the radish really?
+Choices: A. red_bottle, B. blue_drawer, C. red_envelope, D. green_treasure_chest, E. blue_treasure_chest, F. red_bathtub, G. red_basket, H. red_treasure_chest, I. blue_crate, J. blue_pantry, K. red_container, L. red_drawer, M. green_suitcase, N. red_bucket, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

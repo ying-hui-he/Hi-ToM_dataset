@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Hannah, William, Emily, Jackson and Alexander entered the workshop.
-2 The radish is in the blue_box.
-3 Hannah moved the radish to the blue_cupboard.
-4 Hannah exited the workshop and stayed in the waiting_room.
-5 William moved the radish to the red_cupboard.
-6 William exited the workshop and stayed in the waiting_room.
-7 Emily moved the radish to the green_envelope.
-8 Emily exited the workshop and stayed in the waiting_room.
-9 Jackson moved the radish to the green_treasure_chest.
-10 Jackson exited the workshop and stayed in the waiting_room.
-11 Alexander made no movements and stayed in the workshop for 10 minutes.
-12 Alexander exited the workshop and stayed in the waiting_room.
-13 Hannah, William and Alexander entered the workshop.
-14 The pineapple is in the green_envelope.
-15 Hannah moved the pineapple to the blue_cupboard.
-16 Hannah exited the workshop and stayed in the waiting_room.
-17 William moved the pineapple to the blue_box.
-18 William exited the workshop and stayed in the waiting_room.
-19 Alexander moved the pineapple to the red_cupboard.
-20 Alexander exited the workshop and stayed in the waiting_room.
-21 Alexander publicly claimed that pineapple is in the green_envelope.
-22 Hannah privately told Alexander that the pineapple is actually in the green_treasure_chest.
-Question: Where is the radish really?
-Choices: A. green_envelope, B. blue_box, C. red_cupboard, D. green_treasure_chest, E. blue_cupboard, F. red_basket, G. red_container, H. green_box, I. blue_basket, J. blue_container, K. blue_bucket, L. red_bucket, M. green_bottle, N. red_box, O. red_treasure_chest
+1 Benjamin, Emily, Avery, Emma and Amelia entered the bathroom.
+2 The persimmon is in the blue_drawer.
+3 Benjamin made no movements and stayed in the bathroom for 10 minutes.
+4 Benjamin exited the bathroom and stayed in the waiting_room.
+5 Emily made no movements and stayed in the bathroom for 10 minutes.
+6 Emily exited the bathroom and stayed in the waiting_room.
+7 Avery made no movements and stayed in the bathroom for 10 minutes.
+8 Avery exited the bathroom and stayed in the waiting_room.
+9 Emma made no movements and stayed in the bathroom for 10 minutes.
+10 Emma exited the bathroom and stayed in the waiting_room.
+11 Amelia moved the persimmon to the blue_drawer.
+12 Amelia exited the bathroom and stayed in the waiting_room.
+13 Emily, Amelia and Emma entered the bathroom.
+14 The green_pepper is in the green_cupboard.
+15 Emily moved the green_pepper to the blue_drawer.
+16 Emily exited the bathroom and stayed in the waiting_room.
+17 Amelia made no movements and stayed in the bathroom for 10 minutes.
+18 Amelia exited the bathroom and stayed in the waiting_room.
+19 Emma made no movements and stayed in the bathroom for 10 minutes.
+20 Emma exited the bathroom and stayed in the waiting_room.
+21 Amelia privately told Emma that the green_pepper is actually in the blue_drawer.
+22 Emma privately told Benjamin that the green_pepper is actually in the blue_drawer.
+Question: Where is the persimmon really?
+Choices: A. red_bucket, B. blue_suitcase, C. green_treasure_chest, D. blue_pantry, E. red_basket, F. green_cupboard, G. blue_drawer, H. red_crate, I. blue_bottle, J. red_drawer, K. red_bathtub, L. blue_treasure_chest, M. green_bottle, N. blue_envelope, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

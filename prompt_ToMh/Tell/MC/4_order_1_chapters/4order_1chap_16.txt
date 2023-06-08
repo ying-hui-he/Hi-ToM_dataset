@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Avery, Gracie, Amelia and Isla entered the playroom.
+2 The asparagus is in the blue_drawer.
+3 Aiden made no movements and stayed in the playroom for 10 minutes.
+4 Aiden exited the playroom and stayed in the waiting_room.
+5 Avery moved the asparagus to the blue_box.
+6 Avery exited the playroom and stayed in the waiting_room.
+7 Gracie moved the asparagus to the red_container.
+8 Gracie exited the playroom and stayed in the waiting_room.
+9 Amelia moved the asparagus to the green_container.
+10 Amelia exited the playroom and stayed in the waiting_room.
+11 Isla made no movements and stayed in the playroom for 10 minutes.
+12 Isla exited the playroom and stayed in the waiting_room.
+13 Gracie privately told Aiden that the asparagus is actually in the blue_drawer.
+14 Avery privately told Amelia that the asparagus is actually in the red_container.
+Question: Where does Gracie think Avery thinks Isla thinks Amelia thinks the asparagus is?
+Choices: A. red_bucket, B. blue_bottle, C. red_bathtub, D. green_treasure_chest, E. blue_container, F. blue_bathtub, G. blue_crate, H. blue_basket, I. red_basket, J. red_drawer, K. red_container, L. blue_drawer, M. green_container, N. blue_box, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

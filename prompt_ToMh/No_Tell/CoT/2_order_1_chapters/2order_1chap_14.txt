@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Noah, William, Carter, Oliver and Evelyn entered the laundry.
+2 The peach is in the green_envelope.
+3 Noah made no movements and stayed in the laundry for 10 minutes.
+4 Noah exited the laundry and stayed in the waiting_room.
+5 William moved the peach to the blue_treasure_chest.
+6 William exited the laundry and stayed in the waiting_room.
+7 Carter made no movements and stayed in the laundry for 10 minutes.
+8 Carter exited the laundry and stayed in the waiting_room.
+9 Oliver made no movements and stayed in the laundry for 10 minutes.
+10 Oliver exited the laundry and stayed in the waiting_room.
+11 Evelyn made no movements and stayed in the laundry for 10 minutes.
+12 Evelyn exited the laundry and stayed in the waiting_room.
+Question: Where does Noah think Evelyn thinks the peach is?
+Choices: A. green_bathtub, B. red_container, C. green_cupboard, D. green_suitcase, E. blue_bottle, F. blue_treasure_chest, G. green_envelope, H. blue_basket, I. blue_envelope, J. blue_bathtub, K. blue_bucket, L. red_bottle, M. red_drawer, N. green_container, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

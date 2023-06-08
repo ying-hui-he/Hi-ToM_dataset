@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 James, Hannah, Gracie, Aria and Mia entered the patio.
+2 The turnip is in the green_envelope.
+3 James moved the turnip to the green_container.
+4 James exited the patio and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the patio for 10 minutes.
+6 Hannah exited the patio and stayed in the waiting_room.
+7 Gracie moved the turnip to the blue_envelope.
+8 Gracie exited the patio and stayed in the waiting_room.
+9 Aria moved the turnip to the blue_treasure_chest.
+10 Aria exited the patio and stayed in the waiting_room.
+11 Mia moved the turnip to the green_envelope.
+12 Mia exited the patio and stayed in the waiting_room.
+13 Hannah, James and Mia entered the patio.
+14 The turnip is in the green_envelope.
+15 Hannah made no movements and stayed in the patio for 10 minutes.
+16 Hannah exited the patio and stayed in the waiting_room.
+17 James moved the turnip to the blue_treasure_chest.
+18 James exited the patio and stayed in the waiting_room.
+19 Mia made no movements and stayed in the patio for 10 minutes.
+20 Mia exited the patio and stayed in the waiting_room.
+21 Hannah publicly claimed that turnip is in the green_container.
+22 Mia privately told Gracie that the turnip is actually in the blue_treasure_chest.
+23 Gracie, Mia, Aria and Hannah entered the living_room.
+24 The melon is in the blue_pantry.
+25 Gracie moved the melon to the blue_suitcase.
+26 Gracie exited the living_room and stayed in the waiting_room.
+27 Mia moved the melon to the blue_bathtub.
+28 Mia exited the living_room and stayed in the waiting_room.
+29 Aria made no movements and stayed in the living_room for 10 minutes.
+30 Aria exited the living_room and stayed in the waiting_room.
+31 Hannah moved the melon to the blue_drawer.
+32 Hannah exited the living_room and stayed in the waiting_room.
+33 Aria and Mia entered the living_room.
+34 The celery is in the blue_bathtub.
+35 Aria moved the celery to the blue_drawer.
+36 Aria exited the living_room and stayed in the waiting_room.
+37 Mia moved the celery to the blue_suitcase.
+38 Mia exited the living_room and stayed in the waiting_room.
+39 Aria privately told Hannah that the celery is actually in the blue_suitcase.
+Question: Where does Hannah think Mia thinks Aria thinks James thinks the turnip is?
+Choices: A. red_drawer, B. green_treasure_chest, C. red_container, D. red_bathtub, E. green_bottle, F. blue_bathtub, G. blue_pantry, H. blue_drawer, I. blue_suitcase, J. green_bathtub, K. blue_envelope, L. green_envelope, M. green_container, N. blue_container, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

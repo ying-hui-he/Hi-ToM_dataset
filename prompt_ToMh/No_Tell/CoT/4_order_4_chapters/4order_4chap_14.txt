@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mia, Aria, Benjamin, Noah and Ethan entered the cellar.
+2 The apple is in the blue_box.
+3 Mia made no movements and stayed in the cellar for 10 minutes.
+4 Mia exited the cellar and stayed in the waiting_room.
+5 Aria made no movements and stayed in the cellar for 10 minutes.
+6 Aria exited the cellar and stayed in the waiting_room.
+7 Benjamin moved the apple to the blue_bathtub.
+8 Benjamin exited the cellar and stayed in the waiting_room.
+9 Noah made no movements and stayed in the cellar for 10 minutes.
+10 Noah exited the cellar and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the cellar for 10 minutes.
+12 Ethan exited the cellar and stayed in the waiting_room.
+13 Aria, Benjamin and Ethan entered the crawlspace.
+14 The cucumber is in the blue_basket.
+15 Aria moved the cucumber to the red_drawer.
+16 Aria exited the crawlspace and stayed in the waiting_room.
+17 Benjamin moved the cucumber to the red_treasure_chest.
+18 Benjamin exited the crawlspace and stayed in the waiting_room.
+19 Ethan moved the cucumber to the blue_bottle.
+20 Ethan exited the crawlspace and stayed in the waiting_room.
+21 Mia, Noah, Benjamin and Aria entered the crawlspace.
+22 The cucumber is in the blue_bottle.
+23 Mia made no movements and stayed in the crawlspace for 10 minutes.
+24 Mia exited the crawlspace and stayed in the waiting_room.
+25 Noah moved the cucumber to the red_treasure_chest.
+26 Noah exited the crawlspace and stayed in the waiting_room.
+27 Benjamin made no movements and stayed in the crawlspace for 10 minutes.
+28 Benjamin exited the crawlspace and stayed in the waiting_room.
+29 Aria moved the cucumber to the red_drawer.
+30 Aria exited the crawlspace and stayed in the waiting_room.
+31 Benjamin and Aria entered the laundry.
+32 The cherry is in the green_cupboard.
+33 Benjamin moved the cherry to the green_container.
+34 Benjamin exited the laundry and stayed in the waiting_room.
+35 Aria moved the cherry to the blue_suitcase.
+36 Aria exited the laundry and stayed in the waiting_room.
+Question: Where does Mia think Benjamin thinks Ethan thinks Noah thinks the apple is?
+Choices: A. blue_suitcase, B. green_cupboard, C. green_bottle, D. green_container, E. red_basket, F. blue_box, G. green_suitcase, H. red_envelope, I. blue_bathtub, J. blue_crate, K. red_treasure_chest, L. blue_basket, M. red_drawer, N. green_treasure_chest, O. blue_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

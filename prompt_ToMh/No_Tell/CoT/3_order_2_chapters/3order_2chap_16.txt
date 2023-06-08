@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Oliver, Owen, Amelia and Ava entered the back_yard.
+2 The turnip is in the blue_basket.
+3 Jack moved the turnip to the blue_bucket.
+4 Jack exited the back_yard and stayed in the waiting_room.
+5 Oliver made no movements and stayed in the back_yard for 10 minutes.
+6 Oliver exited the back_yard and stayed in the waiting_room.
+7 Owen moved the turnip to the green_bathtub.
+8 Owen exited the back_yard and stayed in the waiting_room.
+9 Amelia moved the turnip to the blue_container.
+10 Amelia exited the back_yard and stayed in the waiting_room.
+11 Ava moved the turnip to the blue_basket.
+12 Ava exited the back_yard and stayed in the waiting_room.
+13 Oliver, Jack and Ava entered the back_yard.
+14 The cherry is in the blue_container.
+15 Oliver made no movements and stayed in the back_yard for 10 minutes.
+16 Oliver exited the back_yard and stayed in the waiting_room.
+17 Jack made no movements and stayed in the back_yard for 10 minutes.
+18 Jack exited the back_yard and stayed in the waiting_room.
+19 Ava moved the cherry to the red_container.
+20 Ava exited the back_yard and stayed in the waiting_room.
+Question: Where does Oliver think Ava thinks Jack thinks the turnip is?
+Choices: A. blue_basket, B. blue_container, C. blue_bucket, D. green_bathtub, E. red_container, F. green_container, G. green_treasure_chest, H. blue_crate, I. blue_bathtub, J. red_drawer, K. blue_envelope, L. red_bucket, M. blue_bottle, N. blue_box, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

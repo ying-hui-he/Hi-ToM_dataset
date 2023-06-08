@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Jayden, Evelyn, Charlotte and Oliver entered the playroom.
+2 The pumpkin is in the green_suitcase.
+3 Avery moved the pumpkin to the red_treasure_chest.
+4 Avery exited the playroom and stayed in the waiting_room.
+5 Jayden moved the pumpkin to the red_bottle.
+6 Jayden exited the playroom and stayed in the waiting_room.
+7 Evelyn moved the pumpkin to the blue_bathtub.
+8 Evelyn exited the playroom and stayed in the waiting_room.
+9 Charlotte moved the pumpkin to the blue_drawer.
+10 Charlotte exited the playroom and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the playroom for 10 minutes.
+12 Oliver exited the playroom and stayed in the waiting_room.
+13 Oliver, Charlotte and Evelyn entered the playroom.
+14 The pumpkin is in the blue_drawer.
+15 Oliver made no movements and stayed in the playroom for 10 minutes.
+16 Oliver exited the playroom and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the playroom for 10 minutes.
+18 Charlotte exited the playroom and stayed in the waiting_room.
+19 Evelyn moved the pumpkin to the red_treasure_chest.
+20 Evelyn exited the playroom and stayed in the waiting_room.
+21 Avery, Oliver, Charlotte and Jayden entered the pantry.
+22 The potato is in the red_container.
+23 Avery moved the potato to the blue_container.
+24 Avery exited the pantry and stayed in the waiting_room.
+25 Oliver made no movements and stayed in the pantry for 10 minutes.
+26 Oliver exited the pantry and stayed in the waiting_room.
+27 Charlotte made no movements and stayed in the pantry for 10 minutes.
+28 Charlotte exited the pantry and stayed in the waiting_room.
+29 Jayden made no movements and stayed in the pantry for 10 minutes.
+30 Jayden exited the pantry and stayed in the waiting_room.
+Question: Where does Oliver think Jayden thinks Charlotte thinks the pumpkin is?
+Choices: A. red_container, B. red_envelope, C. blue_container, D. blue_treasure_chest, E. blue_envelope, F. green_suitcase, G. red_treasure_chest, H. blue_drawer, I. blue_bathtub, J. red_bottle, K. green_container, L. green_treasure_chest, M. green_bottle, N. blue_crate, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

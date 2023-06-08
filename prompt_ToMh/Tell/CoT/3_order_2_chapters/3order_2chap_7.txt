@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ethan, Jackson, Aiden, Amelia and Abigail entered the dining_room.
+2 The turnip is in the blue_bucket.
+3 Ethan moved the turnip to the red_bucket.
+4 Ethan exited the dining_room and stayed in the waiting_room.
+5 Jackson moved the turnip to the green_cupboard.
+6 Jackson exited the dining_room and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the dining_room for 10 minutes.
+8 Aiden exited the dining_room and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the dining_room for 10 minutes.
+10 Amelia exited the dining_room and stayed in the waiting_room.
+11 Abigail moved the turnip to the blue_bucket.
+12 Abigail exited the dining_room and stayed in the waiting_room.
+13 Jackson, Aiden and Amelia entered the dining_room.
+14 The turnip is in the blue_bucket.
+15 Jackson moved the turnip to the red_bucket.
+16 Jackson exited the dining_room and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the dining_room for 10 minutes.
+18 Aiden exited the dining_room and stayed in the waiting_room.
+19 Amelia moved the turnip to the red_basket.
+20 Amelia exited the dining_room and stayed in the waiting_room.
+21 Aiden privately told Amelia that the turnip is actually in the green_cupboard.
+22 Amelia privately told Abigail that the turnip is actually in the red_basket.
+Question: Where does Abigail think Jackson thinks Ethan thinks the turnip is?
+Choices: A. green_suitcase, B. red_suitcase, C. red_crate, D. green_envelope, E. red_drawer, F. blue_bucket, G. red_bucket, H. blue_bathtub, I. green_cupboard, J. red_basket, K. green_bathtub, L. blue_envelope, M. blue_container, N. red_bottle, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

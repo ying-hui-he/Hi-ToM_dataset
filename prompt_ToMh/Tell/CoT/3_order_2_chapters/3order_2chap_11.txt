@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Benjamin, Jacob, Jackson, Emma and Owen entered the patio.
+2 The lemon is in the blue_box.
+3 Benjamin made no movements and stayed in the patio for 10 minutes.
+4 Benjamin exited the patio and stayed in the waiting_room.
+5 Jacob moved the lemon to the blue_bathtub.
+6 Jacob exited the patio and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the patio for 10 minutes.
+8 Jackson exited the patio and stayed in the waiting_room.
+9 Emma moved the lemon to the green_crate.
+10 Emma exited the patio and stayed in the waiting_room.
+11 Owen moved the lemon to the blue_box.
+12 Owen exited the patio and stayed in the waiting_room.
+13 Jackson, Benjamin and Emma entered the patio.
+14 The turnip is in the blue_bathtub.
+15 Jackson moved the turnip to the green_crate.
+16 Jackson exited the patio and stayed in the waiting_room.
+17 Benjamin moved the turnip to the red_crate.
+18 Benjamin exited the patio and stayed in the waiting_room.
+19 Emma made no movements and stayed in the patio for 10 minutes.
+20 Emma exited the patio and stayed in the waiting_room.
+21 Benjamin privately told Emma that the turnip is actually in the blue_box.
+22 Emma privately told Owen that the turnip is actually in the red_crate.
+Question: Where does Owen think Jackson thinks Emma thinks the lemon is?
+Choices: A. blue_container, B. blue_envelope, C. blue_drawer, D. blue_basket, E. blue_crate, F. blue_pantry, G. green_treasure_chest, H. green_envelope, I. red_bottle, J. blue_suitcase, K. blue_box, L. blue_bathtub, M. green_crate, N. red_crate, O. red_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, Noah, Jayden, Olivia and Gracie entered the bathroom.
+2 The pear is in the red_basket.
+3 Logan moved the pear to the green_treasure_chest.
+4 Logan exited the bathroom and stayed in the waiting_room.
+5 Noah made no movements and stayed in the bathroom for 10 minutes.
+6 Noah exited the bathroom and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the bathroom for 10 minutes.
+8 Jayden exited the bathroom and stayed in the waiting_room.
+9 Olivia made no movements and stayed in the bathroom for 10 minutes.
+10 Olivia exited the bathroom and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the bathroom for 10 minutes.
+12 Gracie exited the bathroom and stayed in the waiting_room.
+13 Gracie, Noah and Olivia entered the garden.
+14 The potato is in the green_crate.
+15 Gracie made no movements and stayed in the garden for 10 minutes.
+16 Gracie exited the garden and stayed in the waiting_room.
+17 Noah moved the potato to the green_envelope.
+18 Noah exited the garden and stayed in the waiting_room.
+19 Olivia moved the potato to the blue_container.
+20 Olivia exited the garden and stayed in the waiting_room.
+Question: Where does Olivia think the pear is?
+Choices: A. green_container, B. blue_pantry, C. red_container, D. green_bathtub, E. blue_basket, F. red_bottle, G. green_crate, H. blue_bathtub, I. blue_container, J. green_envelope, K. blue_box, L. red_basket, M. green_treasure_chest, N. blue_treasure_chest, O. blue_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

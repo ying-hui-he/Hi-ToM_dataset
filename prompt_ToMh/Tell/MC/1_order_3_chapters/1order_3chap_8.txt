@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Ella, Ethan, Charlotte and Gracie entered the hall.
+2 The plum is in the blue_treasure_chest.
+3 Mila made no movements and stayed in the hall for 10 minutes.
+4 Mila exited the hall and stayed in the waiting_room.
+5 Ella moved the plum to the red_treasure_chest.
+6 Ella exited the hall and stayed in the waiting_room.
+7 Ethan moved the plum to the red_envelope.
+8 Ethan exited the hall and stayed in the waiting_room.
+9 Charlotte moved the plum to the green_cupboard.
+10 Charlotte exited the hall and stayed in the waiting_room.
+11 Gracie moved the plum to the blue_treasure_chest.
+12 Gracie exited the hall and stayed in the waiting_room.
+13 Charlotte publicly claimed that plum is in the green_cupboard.
+14 Gracie privately told Mila that the plum is actually in the blue_treasure_chest.
+15 Mila, Gracie and Ella entered the hall.
+16 The pumpkin is in the red_drawer.
+17 Mila made no movements and stayed in the hall for 10 minutes.
+18 Mila exited the hall and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the hall for 10 minutes.
+20 Gracie exited the hall and stayed in the waiting_room.
+21 Ella made no movements and stayed in the hall for 10 minutes.
+22 Ella exited the hall and stayed in the waiting_room.
+23 Ethan, Charlotte, Ella and Gracie entered the study.
+24 The cucumber is in the red_bottle.
+25 Ethan made no movements and stayed in the study for 10 minutes.
+26 Ethan exited the study and stayed in the waiting_room.
+27 Charlotte made no movements and stayed in the study for 10 minutes.
+28 Charlotte exited the study and stayed in the waiting_room.
+29 Ella moved the cucumber to the blue_drawer.
+30 Ella exited the study and stayed in the waiting_room.
+31 Gracie moved the cucumber to the blue_crate.
+32 Gracie exited the study and stayed in the waiting_room.
+33 Ethan publicly claimed that cucumber is in the blue_drawer.
+34 Gracie privately told Mila that the cucumber is actually in the blue_crate.
+Question: Where does Mila think the plum is?
+Choices: A. green_bathtub, B. blue_suitcase, C. green_crate, D. blue_bottle, E. red_bucket, F. red_bottle, G. blue_crate, H. blue_drawer, I. red_container, J. red_suitcase, K. red_drawer, L. blue_treasure_chest, M. red_treasure_chest, N. red_envelope, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

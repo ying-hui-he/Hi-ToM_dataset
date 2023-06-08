@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Jackson, Isla, Abigail and Emily entered the office.
+2 The plum is in the red_crate.
+3 Jack made no movements and stayed in the office for 10 minutes.
+4 Jack exited the office and stayed in the waiting_room.
+5 Jackson moved the plum to the green_treasure_chest.
+6 Jackson exited the office and stayed in the waiting_room.
+7 Isla made no movements and stayed in the office for 10 minutes.
+8 Isla exited the office and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the office for 10 minutes.
+10 Abigail exited the office and stayed in the waiting_room.
+11 Emily moved the plum to the red_crate.
+12 Emily exited the office and stayed in the waiting_room.
+13 Isla privately told Jack that the plum is actually in the red_crate.
+14 Jackson privately told Abigail that the plum is actually in the red_basket.
+Question: Where does Jack think Abigail thinks Jackson thinks Emily thinks the plum is?
+Choices: A. red_crate, B. green_treasure_chest, C. blue_drawer, D. red_basket, E. blue_pantry, F. blue_container, G. blue_envelope, H. blue_box, I. blue_basket, J. red_treasure_chest, K. green_suitcase, L. blue_crate, M. red_bottle, N. green_container, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

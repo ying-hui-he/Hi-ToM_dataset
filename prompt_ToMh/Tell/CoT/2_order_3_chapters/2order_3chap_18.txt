@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Isla, Noah, Hannah, Mila and Logan entered the study.
+2 The lime is in the red_treasure_chest.
+3 Isla moved the lime to the green_bathtub.
+4 Isla exited the study and stayed in the waiting_room.
+5 Noah made no movements and stayed in the study for 10 minutes.
+6 Noah exited the study and stayed in the waiting_room.
+7 Hannah moved the lime to the red_container.
+8 Hannah exited the study and stayed in the waiting_room.
+9 Mila made no movements and stayed in the study for 10 minutes.
+10 Mila exited the study and stayed in the waiting_room.
+11 Logan moved the lime to the red_treasure_chest.
+12 Logan exited the study and stayed in the waiting_room.
+13 Hannah publicly claimed that lime is in the red_treasure_chest.
+14 Logan privately told Hannah that the lime is actually in the red_container.
+15 Mila, Isla and Logan entered the garage.
+16 The lettuce is in the red_bottle.
+17 Mila moved the lettuce to the blue_envelope.
+18 Mila exited the garage and stayed in the waiting_room.
+19 Isla made no movements and stayed in the garage for 10 minutes.
+20 Isla exited the garage and stayed in the waiting_room.
+21 Logan made no movements and stayed in the garage for 10 minutes.
+22 Logan exited the garage and stayed in the waiting_room.
+23 Logan, Hannah, Noah and Mila entered the study.
+24 The lime is in the red_treasure_chest.
+25 Logan made no movements and stayed in the study for 10 minutes.
+26 Logan exited the study and stayed in the waiting_room.
+27 Hannah moved the lime to the red_envelope.
+28 Hannah exited the study and stayed in the waiting_room.
+29 Noah made no movements and stayed in the study for 10 minutes.
+30 Noah exited the study and stayed in the waiting_room.
+31 Mila moved the lime to the green_container.
+32 Mila exited the study and stayed in the waiting_room.
+33 Noah publicly claimed that lime is in the green_bathtub.
+34 Logan privately told Mila that the lime is actually in the red_treasure_chest.
+Question: Where does Logan think Hannah thinks the lime is?
+Choices: A. green_treasure_chest, B. green_envelope, C. blue_pantry, D. blue_bucket, E. blue_bathtub, F. blue_drawer, G. red_bottle, H. blue_bottle, I. red_bucket, J. blue_envelope, K. red_envelope, L. red_treasure_chest, M. green_bathtub, N. red_container, O. green_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

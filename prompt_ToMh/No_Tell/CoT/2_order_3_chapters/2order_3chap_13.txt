@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emma, Evelyn, Jack, Gracie and Ethan entered the basement.
+2 The spinach is in the red_bathtub.
+3 Emma made no movements and stayed in the basement for 10 minutes.
+4 Emma exited the basement and stayed in the waiting_room.
+5 Evelyn moved the spinach to the green_container.
+6 Evelyn exited the basement and stayed in the waiting_room.
+7 Jack made no movements and stayed in the basement for 10 minutes.
+8 Jack exited the basement and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the basement for 10 minutes.
+10 Gracie exited the basement and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the basement for 10 minutes.
+12 Ethan exited the basement and stayed in the waiting_room.
+13 Ethan, Evelyn and Gracie entered the basement.
+14 The tangerine is in the green_container.
+15 Ethan moved the tangerine to the blue_basket.
+16 Ethan exited the basement and stayed in the waiting_room.
+17 Evelyn moved the tangerine to the blue_pantry.
+18 Evelyn exited the basement and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the basement for 10 minutes.
+20 Gracie exited the basement and stayed in the waiting_room.
+21 Evelyn, Ethan, Jack and Emma entered the basement.
+22 The spinach is in the green_container.
+23 Evelyn made no movements and stayed in the basement for 10 minutes.
+24 Evelyn exited the basement and stayed in the waiting_room.
+25 Ethan moved the spinach to the blue_basket.
+26 Ethan exited the basement and stayed in the waiting_room.
+27 Jack moved the spinach to the red_bathtub.
+28 Jack exited the basement and stayed in the waiting_room.
+29 Emma moved the spinach to the red_drawer.
+30 Emma exited the basement and stayed in the waiting_room.
+Question: Where does Gracie think Ethan thinks the spinach is?
+Choices: A. green_crate, B. blue_bottle, C. red_bucket, D. blue_box, E. blue_bathtub, F. green_container, G. red_bathtub, H. blue_basket, I. blue_pantry, J. red_drawer, K. blue_treasure_chest, L. red_crate, M. green_suitcase, N. red_envelope, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

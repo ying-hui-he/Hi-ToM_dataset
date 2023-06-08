@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emma, Jacob, Benjamin, Aiden and Owen entered the bedroom.
+2 The plum is in the blue_suitcase.
+3 Emma moved the plum to the blue_envelope.
+4 Emma exited the bedroom and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the bedroom for 10 minutes.
+6 Jacob exited the bedroom and stayed in the waiting_room.
+7 Benjamin moved the plum to the red_basket.
+8 Benjamin exited the bedroom and stayed in the waiting_room.
+9 Aiden moved the plum to the red_suitcase.
+10 Aiden exited the bedroom and stayed in the waiting_room.
+11 Owen moved the plum to the blue_suitcase.
+12 Owen exited the bedroom and stayed in the waiting_room.
+13 Jacob, Owen and Benjamin entered the lounge.
+14 The lime is in the blue_drawer.
+15 Jacob made no movements and stayed in the lounge for 10 minutes.
+16 Jacob exited the lounge and stayed in the waiting_room.
+17 Owen made no movements and stayed in the lounge for 10 minutes.
+18 Owen exited the lounge and stayed in the waiting_room.
+19 Benjamin made no movements and stayed in the lounge for 10 minutes.
+20 Benjamin exited the lounge and stayed in the waiting_room.
+21 Benjamin, Owen, Jacob and Aiden entered the garden.
+22 The corn is in the green_envelope.
+23 Benjamin moved the corn to the blue_box.
+24 Benjamin exited the garden and stayed in the waiting_room.
+25 Owen moved the corn to the blue_treasure_chest.
+26 Owen exited the garden and stayed in the waiting_room.
+27 Jacob moved the corn to the red_bathtub.
+28 Jacob exited the garden and stayed in the waiting_room.
+29 Aiden made no movements and stayed in the garden for 10 minutes.
+30 Aiden exited the garden and stayed in the waiting_room.
+Question: Where does Emma think the plum is?
+Choices: A. blue_suitcase, B. blue_envelope, C. red_suitcase, D. red_basket, E. red_treasure_chest, F. green_envelope, G. red_crate, H. blue_box, I. red_bathtub, J. blue_treasure_chest, K. red_bottle, L. blue_drawer, M. green_container, N. blue_bucket, O. green_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Abigail, Amelia, Emma, William and Jayden entered the study.
+2 The spinach is in the green_bathtub.
+3 Abigail made no movements and stayed in the study for 10 minutes.
+4 Abigail exited the study and stayed in the waiting_room.
+5 Amelia moved the spinach to the red_drawer.
+6 Amelia exited the study and stayed in the waiting_room.
+7 Emma made no movements and stayed in the study for 10 minutes.
+8 Emma exited the study and stayed in the waiting_room.
+9 William made no movements and stayed in the study for 10 minutes.
+10 William exited the study and stayed in the waiting_room.
+11 Jayden moved the spinach to the green_bathtub.
+12 Jayden exited the study and stayed in the waiting_room.
+13 Emma privately told Abigail that the spinach is actually in the green_bathtub.
+14 Amelia privately told William that the spinach is actually in the blue_suitcase.
+Question: Where does Emma think Abigail thinks William thinks the spinach is?
+Choices: A. blue_pantry, B. blue_basket, C. blue_bathtub, D. red_envelope, E. blue_bottle, F. green_bathtub, G. green_crate, H. red_drawer, I. blue_suitcase, J. blue_treasure_chest, K. red_suitcase, L. red_crate, M. red_bottle, N. blue_container, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

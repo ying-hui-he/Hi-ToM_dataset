@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Amelia, Jacob, Jayden, Mia and Oliver entered the patio.
+2 The cucumber is in the blue_container.
+3 Amelia made no movements and stayed in the patio for 10 minutes.
+4 Amelia exited the patio and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the patio for 10 minutes.
+6 Jacob exited the patio and stayed in the waiting_room.
+7 Jayden moved the cucumber to the blue_bathtub.
+8 Jayden exited the patio and stayed in the waiting_room.
+9 Mia made no movements and stayed in the patio for 10 minutes.
+10 Mia exited the patio and stayed in the waiting_room.
+11 Oliver moved the cucumber to the blue_container.
+12 Oliver exited the patio and stayed in the waiting_room.
+13 Jacob, Mia and Amelia entered the bathroom.
+14 The orange is in the green_treasure_chest.
+15 Jacob made no movements and stayed in the bathroom for 10 minutes.
+16 Jacob exited the bathroom and stayed in the waiting_room.
+17 Mia made no movements and stayed in the bathroom for 10 minutes.
+18 Mia exited the bathroom and stayed in the waiting_room.
+19 Amelia moved the orange to the green_cupboard.
+20 Amelia exited the bathroom and stayed in the waiting_room.
+21 Mia publicly claimed that orange is in the red_suitcase.
+22 Amelia privately told Mia that the orange is actually in the green_cupboard.
+23 Jayden, Jacob, Oliver and Mia entered the hallway.
+24 The carrot is in the blue_crate.
+25 Jayden made no movements and stayed in the hallway for 10 minutes.
+26 Jayden exited the hallway and stayed in the waiting_room.
+27 Jacob made no movements and stayed in the hallway for 10 minutes.
+28 Jacob exited the hallway and stayed in the waiting_room.
+29 Oliver moved the carrot to the blue_box.
+30 Oliver exited the hallway and stayed in the waiting_room.
+31 Mia moved the carrot to the blue_drawer.
+32 Mia exited the hallway and stayed in the waiting_room.
+33 Oliver and Amelia entered the hallway.
+34 The plum is in the blue_basket.
+35 Oliver moved the plum to the blue_drawer.
+36 Oliver exited the hallway and stayed in the waiting_room.
+37 Amelia made no movements and stayed in the hallway for 10 minutes.
+38 Amelia exited the hallway and stayed in the waiting_room.
+39 Oliver publicly claimed that plum is in the blue_box.
+40 Amelia privately told Oliver that the plum is actually in the blue_crate.
+Question: Where is the cucumber really?
+Choices: A. blue_container, B. blue_bottle, C. red_container, D. green_suitcase, E. blue_bathtub, F. red_suitcase, G. green_treasure_chest, H. red_crate, I. red_bathtub, J. green_cupboard, K. blue_crate, L. blue_basket, M. blue_suitcase, N. blue_box, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

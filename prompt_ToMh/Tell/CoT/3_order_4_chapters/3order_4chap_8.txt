@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Oliver, Hannah, Mia, Benjamin and Avery entered the workshop.
+2 The green_pepper is in the red_bottle.
+3 Oliver made no movements and stayed in the workshop for 10 minutes.
+4 Oliver exited the workshop and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the workshop for 10 minutes.
+6 Hannah exited the workshop and stayed in the waiting_room.
+7 Mia made no movements and stayed in the workshop for 10 minutes.
+8 Mia exited the workshop and stayed in the waiting_room.
+9 Benjamin made no movements and stayed in the workshop for 10 minutes.
+10 Benjamin exited the workshop and stayed in the waiting_room.
+11 Avery made no movements and stayed in the workshop for 10 minutes.
+12 Avery exited the workshop and stayed in the waiting_room.
+13 Mia, Benjamin and Avery entered the dining_room.
+14 The lime is in the blue_bottle.
+15 Mia made no movements and stayed in the dining_room for 10 minutes.
+16 Mia exited the dining_room and stayed in the waiting_room.
+17 Benjamin made no movements and stayed in the dining_room for 10 minutes.
+18 Benjamin exited the dining_room and stayed in the waiting_room.
+19 Avery moved the lime to the blue_envelope.
+20 Avery exited the dining_room and stayed in the waiting_room.
+21 Mia publicly claimed that lime is in the blue_bottle.
+22 Avery privately told Oliver that the lime is actually in the blue_envelope.
+23 Benjamin, Hannah, Mia and Avery entered the workshop.
+24 The green_pepper is in the red_bottle.
+25 Benjamin made no movements and stayed in the workshop for 10 minutes.
+26 Benjamin exited the workshop and stayed in the waiting_room.
+27 Hannah moved the green_pepper to the green_treasure_chest.
+28 Hannah exited the workshop and stayed in the waiting_room.
+29 Mia moved the green_pepper to the red_bucket.
+30 Mia exited the workshop and stayed in the waiting_room.
+31 Avery made no movements and stayed in the workshop for 10 minutes.
+32 Avery exited the workshop and stayed in the waiting_room.
+33 Avery and Benjamin entered the dining_room.
+34 The lime is in the blue_envelope.
+35 Avery made no movements and stayed in the dining_room for 10 minutes.
+36 Avery exited the dining_room and stayed in the waiting_room.
+37 Benjamin made no movements and stayed in the dining_room for 10 minutes.
+38 Benjamin exited the dining_room and stayed in the waiting_room.
+39 Benjamin publicly claimed that lime is in the blue_bottle.
+40 Avery privately told Benjamin that the lime is actually in the blue_basket.
+Question: Where does Hannah think Avery thinks Mia thinks the green_pepper is?
+Choices: A. green_crate, B. red_treasure_chest, C. green_bathtub, D. green_suitcase, E. blue_treasure_chest, F. blue_bottle, G. red_drawer, H. blue_envelope, I. blue_pantry, J. blue_basket, K. blue_drawer, L. red_bottle, M. red_bucket, N. green_treasure_chest, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

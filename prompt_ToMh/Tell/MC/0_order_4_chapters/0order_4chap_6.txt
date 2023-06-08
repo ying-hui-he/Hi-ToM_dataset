@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Amelia, Evelyn, Avery and Jacob entered the pantry.
+2 The plum is in the green_container.
+3 Aiden moved the plum to the red_treasure_chest.
+4 Aiden exited the pantry and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the pantry for 10 minutes.
+6 Amelia exited the pantry and stayed in the waiting_room.
+7 Evelyn moved the plum to the red_bathtub.
+8 Evelyn exited the pantry and stayed in the waiting_room.
+9 Avery moved the plum to the red_bucket.
+10 Avery exited the pantry and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the pantry for 10 minutes.
+12 Jacob exited the pantry and stayed in the waiting_room.
+13 Jacob, Evelyn and Aiden entered the workshop.
+14 The pineapple is in the red_basket.
+15 Jacob moved the pineapple to the blue_pantry.
+16 Jacob exited the workshop and stayed in the waiting_room.
+17 Evelyn moved the pineapple to the blue_bathtub.
+18 Evelyn exited the workshop and stayed in the waiting_room.
+19 Aiden moved the pineapple to the green_bottle.
+20 Aiden exited the workshop and stayed in the waiting_room.
+21 Aiden publicly claimed that pineapple is in the blue_bathtub.
+22 Jacob privately told Aiden that the pineapple is actually in the blue_pantry.
+23 Evelyn, Amelia, Avery and Aiden entered the dining_room.
+24 The persimmon is in the blue_basket.
+25 Evelyn moved the persimmon to the red_crate.
+26 Evelyn exited the dining_room and stayed in the waiting_room.
+27 Amelia moved the persimmon to the green_bathtub.
+28 Amelia exited the dining_room and stayed in the waiting_room.
+29 Avery made no movements and stayed in the dining_room for 10 minutes.
+30 Avery exited the dining_room and stayed in the waiting_room.
+31 Aiden moved the persimmon to the red_drawer.
+32 Aiden exited the dining_room and stayed in the waiting_room.
+33 Aiden and Evelyn entered the pantry.
+34 The plum is in the red_bucket.
+35 Aiden moved the plum to the red_bathtub.
+36 Aiden exited the pantry and stayed in the waiting_room.
+37 Evelyn made no movements and stayed in the pantry for 10 minutes.
+38 Evelyn exited the pantry and stayed in the waiting_room.
+39 Aiden privately told Jacob that the plum is actually in the green_container.
+Question: Where is the plum really?
+Choices: A. blue_basket, B. red_drawer, C. red_crate, D. blue_envelope, E. green_bathtub, F. green_container, G. red_bucket, H. red_treasure_chest, I. blue_container, J. red_bathtub, K. green_bottle, L. red_basket, M. blue_pantry, N. green_suitcase, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

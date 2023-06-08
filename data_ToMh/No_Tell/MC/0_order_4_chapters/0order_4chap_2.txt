@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Avery, Emma, Mia and James entered the bathroom.
+2 The turnip is in the green_container.
+3 Jack made no movements and stayed in the bathroom for 10 minutes.
+4 Jack exited the bathroom and stayed in the waiting_room.
+5 Avery made no movements and stayed in the bathroom for 10 minutes.
+6 Avery exited the bathroom and stayed in the waiting_room.
+7 Emma moved the turnip to the green_bathtub.
+8 Emma exited the bathroom and stayed in the waiting_room.
+9 Mia made no movements and stayed in the bathroom for 10 minutes.
+10 Mia exited the bathroom and stayed in the waiting_room.
+11 James moved the turnip to the green_container.
+12 James exited the bathroom and stayed in the waiting_room.
+13 Jack, Mia and Avery entered the bathroom.
+14 The turnip is in the green_container.
+15 Jack made no movements and stayed in the bathroom for 10 minutes.
+16 Jack exited the bathroom and stayed in the waiting_room.
+17 Mia moved the turnip to the red_treasure_chest.
+18 Mia exited the bathroom and stayed in the waiting_room.
+19 Avery made no movements and stayed in the bathroom for 10 minutes.
+20 Avery exited the bathroom and stayed in the waiting_room.
+21 Jack, James, Avery and Mia entered the front_yard.
+22 The tomato is in the blue_pantry.
+23 Jack moved the tomato to the blue_bucket.
+24 Jack exited the front_yard and stayed in the waiting_room.
+25 James made no movements and stayed in the front_yard for 10 minutes.
+26 James exited the front_yard and stayed in the waiting_room.
+27 Avery made no movements and stayed in the front_yard for 10 minutes.
+28 Avery exited the front_yard and stayed in the waiting_room.
+29 Mia moved the tomato to the blue_box.
+30 Mia exited the front_yard and stayed in the waiting_room.
+31 Jack and Mia entered the master_bedroom.
+32 The cucumber is in the green_suitcase.
+33 Jack moved the cucumber to the red_bucket.
+34 Jack exited the master_bedroom and stayed in the waiting_room.
+35 Mia moved the cucumber to the blue_suitcase.
+36 Mia exited the master_bedroom and stayed in the waiting_room.
+Question: Where is the turnip really?
+Answer: red_treasure_chest
+Choices: A. red_bottle, B. green_suitcase, C. red_bucket, D. blue_suitcase, E. blue_crate, F. blue_box, G. blue_pantry, H. blue_bucket, I. blue_basket, J. green_crate, K. blue_envelope, L. green_container, M. red_treasure_chest, N. green_bathtub, O. red_basket

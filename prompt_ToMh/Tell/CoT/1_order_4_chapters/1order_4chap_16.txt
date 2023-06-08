@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Hannah, Jacob, Mia, Aria and James entered the TV_room.
+2 The lettuce is in the green_envelope.
+3 Hannah made no movements and stayed in the TV_room for 10 minutes.
+4 Hannah exited the TV_room and stayed in the waiting_room.
+5 Jacob moved the lettuce to the blue_box.
+6 Jacob exited the TV_room and stayed in the waiting_room.
+7 Mia made no movements and stayed in the TV_room for 10 minutes.
+8 Mia exited the TV_room and stayed in the waiting_room.
+9 Aria moved the lettuce to the red_drawer.
+10 Aria exited the TV_room and stayed in the waiting_room.
+11 James moved the lettuce to the green_envelope.
+12 James exited the TV_room and stayed in the waiting_room.
+13 Mia, Aria and Jacob entered the hallway.
+14 The turnip is in the blue_crate.
+15 Mia made no movements and stayed in the hallway for 10 minutes.
+16 Mia exited the hallway and stayed in the waiting_room.
+17 Aria moved the turnip to the red_bathtub.
+18 Aria exited the hallway and stayed in the waiting_room.
+19 Jacob made no movements and stayed in the hallway for 10 minutes.
+20 Jacob exited the hallway and stayed in the waiting_room.
+21 Aria publicly claimed that turnip is in the red_bottle.
+22 Jacob privately told Aria that the turnip is actually in the blue_crate.
+23 Aria, Hannah, Mia and Jacob entered the master_bedroom.
+24 The carrot is in the red_bucket.
+25 Aria made no movements and stayed in the master_bedroom for 10 minutes.
+26 Aria exited the master_bedroom and stayed in the waiting_room.
+27 Hannah moved the carrot to the red_crate.
+28 Hannah exited the master_bedroom and stayed in the waiting_room.
+29 Mia made no movements and stayed in the master_bedroom for 10 minutes.
+30 Mia exited the master_bedroom and stayed in the waiting_room.
+31 Jacob moved the carrot to the blue_bucket.
+32 Jacob exited the master_bedroom and stayed in the waiting_room.
+33 James and Hannah entered the master_bedroom.
+34 The carrot is in the blue_bucket.
+35 James moved the carrot to the blue_suitcase.
+36 James exited the master_bedroom and stayed in the waiting_room.
+37 Hannah moved the carrot to the red_bucket.
+38 Hannah exited the master_bedroom and stayed in the waiting_room.
+39 James publicly claimed that carrot is in the red_bucket.
+40 Hannah privately told James that the carrot is actually in the red_crate.
+Question: Where does Mia think the lettuce is?
+Choices: A. red_drawer, B. green_envelope, C. blue_box, D. red_envelope, E. blue_bathtub, F. blue_suitcase, G. red_bucket, H. red_crate, I. red_suitcase, J. blue_bucket, K. red_bottle, L. blue_crate, M. green_container, N. red_bathtub, O. green_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

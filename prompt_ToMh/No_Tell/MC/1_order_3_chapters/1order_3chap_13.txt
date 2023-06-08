@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jayden, Olivia, Ava, Logan and Aria entered the patio.
+2 The turnip is in the red_drawer.
+3 Jayden made no movements and stayed in the patio for 10 minutes.
+4 Jayden exited the patio and stayed in the waiting_room.
+5 Olivia made no movements and stayed in the patio for 10 minutes.
+6 Olivia exited the patio and stayed in the waiting_room.
+7 Ava made no movements and stayed in the patio for 10 minutes.
+8 Ava exited the patio and stayed in the waiting_room.
+9 Logan moved the turnip to the green_suitcase.
+10 Logan exited the patio and stayed in the waiting_room.
+11 Aria made no movements and stayed in the patio for 10 minutes.
+12 Aria exited the patio and stayed in the waiting_room.
+13 Aria, Jayden and Olivia entered the staircase.
+14 The orange is in the green_container.
+15 Aria moved the orange to the blue_bathtub.
+16 Aria exited the staircase and stayed in the waiting_room.
+17 Jayden made no movements and stayed in the staircase for 10 minutes.
+18 Jayden exited the staircase and stayed in the waiting_room.
+19 Olivia made no movements and stayed in the staircase for 10 minutes.
+20 Olivia exited the staircase and stayed in the waiting_room.
+21 Olivia, Logan, Ava and Aria entered the staircase.
+22 The orange is in the blue_bathtub.
+23 Olivia moved the orange to the red_bathtub.
+24 Olivia exited the staircase and stayed in the waiting_room.
+25 Logan moved the orange to the red_suitcase.
+26 Logan exited the staircase and stayed in the waiting_room.
+27 Ava moved the orange to the red_basket.
+28 Ava exited the staircase and stayed in the waiting_room.
+29 Aria moved the orange to the green_container.
+30 Aria exited the staircase and stayed in the waiting_room.
+Question: Where does Aria think the turnip is?
+Choices: A. red_drawer, B. blue_bottle, C. red_crate, D. green_bottle, E. green_suitcase, F. red_container, G. red_envelope, H. blue_suitcase, I. green_bathtub, J. blue_treasure_chest, K. red_bathtub, L. green_container, M. red_suitcase, N. red_basket, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

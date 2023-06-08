@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Hannah, Jack, Ella, Gracie and Noah entered the back_yard.
+2 The banana is in the green_bottle.
+3 Hannah moved the banana to the blue_container.
+4 Hannah exited the back_yard and stayed in the waiting_room.
+5 Jack made no movements and stayed in the back_yard for 10 minutes.
+6 Jack exited the back_yard and stayed in the waiting_room.
+7 Ella moved the banana to the blue_drawer.
+8 Ella exited the back_yard and stayed in the waiting_room.
+9 Gracie moved the banana to the green_crate.
+10 Gracie exited the back_yard and stayed in the waiting_room.
+11 Noah made no movements and stayed in the back_yard for 10 minutes.
+12 Noah exited the back_yard and stayed in the waiting_room.
+Question: Where does Noah think Jack thinks the banana is?
+Choices: A. green_bottle, B. blue_container, C. green_bathtub, D. blue_drawer, E. green_crate, F. blue_suitcase, G. blue_treasure_chest, H. green_container, I. red_treasure_chest, J. blue_bottle, K. red_crate, L. blue_envelope, M. blue_bucket, N. green_suitcase, O. red_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

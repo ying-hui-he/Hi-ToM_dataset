@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Aria, Owen, Gracie and Carter entered the back_yard.
+2 The celery is in the blue_envelope.
+3 Ava made no movements and stayed in the back_yard for 10 minutes.
+4 Ava exited the back_yard and stayed in the waiting_room.
+5 Aria moved the celery to the red_suitcase.
+6 Aria exited the back_yard and stayed in the waiting_room.
+7 Owen made no movements and stayed in the back_yard for 10 minutes.
+8 Owen exited the back_yard and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the back_yard for 10 minutes.
+10 Gracie exited the back_yard and stayed in the waiting_room.
+11 Carter moved the celery to the blue_envelope.
+12 Carter exited the back_yard and stayed in the waiting_room.
+13 Gracie, Aria and Ava entered the patio.
+14 The peach is in the blue_basket.
+15 Gracie made no movements and stayed in the patio for 10 minutes.
+16 Gracie exited the patio and stayed in the waiting_room.
+17 Aria moved the peach to the red_crate.
+18 Aria exited the patio and stayed in the waiting_room.
+19 Ava made no movements and stayed in the patio for 10 minutes.
+20 Ava exited the patio and stayed in the waiting_room.
+21 Carter, Aria, Owen and Ava entered the front_yard.
+22 The melon is in the blue_bathtub.
+23 Carter moved the melon to the red_envelope.
+24 Carter exited the front_yard and stayed in the waiting_room.
+25 Aria moved the melon to the blue_bottle.
+26 Aria exited the front_yard and stayed in the waiting_room.
+27 Owen moved the melon to the blue_treasure_chest.
+28 Owen exited the front_yard and stayed in the waiting_room.
+29 Ava made no movements and stayed in the front_yard for 10 minutes.
+30 Ava exited the front_yard and stayed in the waiting_room.
+31 Aria and Gracie entered the front_yard.
+32 The pineapple is in the red_bottle.
+33 Aria made no movements and stayed in the front_yard for 10 minutes.
+34 Aria exited the front_yard and stayed in the waiting_room.
+35 Gracie made no movements and stayed in the front_yard for 10 minutes.
+36 Gracie exited the front_yard and stayed in the waiting_room.
+Question: Where does Ava think Aria thinks Carter thinks Owen thinks the celery is?
+Choices: A. red_treasure_chest, B. blue_envelope, C. red_suitcase, D. green_treasure_chest, E. blue_box, F. green_container, G. blue_basket, H. red_crate, I. blue_pantry, J. red_drawer, K. blue_bathtub, L. red_bottle, M. blue_treasure_chest, N. red_envelope, O. blue_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

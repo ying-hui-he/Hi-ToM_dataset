@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Noah, Avery, Logan and William entered the lounge.
+2 The pumpkin is in the green_suitcase.
+3 Aria moved the pumpkin to the blue_crate.
+4 Aria exited the lounge and stayed in the waiting_room.
+5 Noah moved the pumpkin to the blue_bucket.
+6 Noah exited the lounge and stayed in the waiting_room.
+7 Avery moved the pumpkin to the blue_pantry.
+8 Avery exited the lounge and stayed in the waiting_room.
+9 Logan moved the pumpkin to the blue_suitcase.
+10 Logan exited the lounge and stayed in the waiting_room.
+11 William made no movements and stayed in the lounge for 10 minutes.
+12 William exited the lounge and stayed in the waiting_room.
+13 Noah, Aria and Avery entered the front_yard.
+14 The banana is in the blue_box.
+15 Noah moved the banana to the blue_bathtub.
+16 Noah exited the front_yard and stayed in the waiting_room.
+17 Aria moved the banana to the blue_drawer.
+18 Aria exited the front_yard and stayed in the waiting_room.
+19 Avery moved the banana to the blue_basket.
+20 Avery exited the front_yard and stayed in the waiting_room.
+21 William, Noah, Logan and Avery entered the front_yard.
+22 The banana is in the blue_basket.
+23 William made no movements and stayed in the front_yard for 10 minutes.
+24 William exited the front_yard and stayed in the waiting_room.
+25 Noah made no movements and stayed in the front_yard for 10 minutes.
+26 Noah exited the front_yard and stayed in the waiting_room.
+27 Logan moved the banana to the blue_bathtub.
+28 Logan exited the front_yard and stayed in the waiting_room.
+29 Avery moved the banana to the red_bucket.
+30 Avery exited the front_yard and stayed in the waiting_room.
+31 William and Avery entered the front_yard.
+32 The plum is in the blue_basket.
+33 William moved the plum to the red_bucket.
+34 William exited the front_yard and stayed in the waiting_room.
+35 Avery made no movements and stayed in the front_yard for 10 minutes.
+36 Avery exited the front_yard and stayed in the waiting_room.
+Question: Where is the pumpkin really?
+Choices: A. blue_box, B. blue_basket, C. blue_bathtub, D. blue_drawer, E. red_bucket, F. blue_container, G. green_cupboard, H. red_envelope, I. green_container, J. green_treasure_chest, K. blue_suitcase, L. green_suitcase, M. blue_crate, N. blue_bucket, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

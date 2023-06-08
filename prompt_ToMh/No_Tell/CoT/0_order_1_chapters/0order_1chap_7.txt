@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jayden, Ella, Emily, Amelia and Abigail entered the office.
+2 The lime is in the blue_bathtub.
+3 Jayden made no movements and stayed in the office for 10 minutes.
+4 Jayden exited the office and stayed in the waiting_room.
+5 Ella made no movements and stayed in the office for 10 minutes.
+6 Ella exited the office and stayed in the waiting_room.
+7 Emily made no movements and stayed in the office for 10 minutes.
+8 Emily exited the office and stayed in the waiting_room.
+9 Amelia moved the lime to the blue_suitcase.
+10 Amelia exited the office and stayed in the waiting_room.
+11 Abigail made no movements and stayed in the office for 10 minutes.
+12 Abigail exited the office and stayed in the waiting_room.
+Question: Where is the lime really?
+Choices: A. blue_basket, B. green_bathtub, C. green_crate, D. blue_treasure_chest, E. green_container, F. blue_bathtub, G. red_suitcase, H. green_envelope, I. blue_container, J. blue_suitcase, K. red_basket, L. blue_pantry, M. blue_drawer, N. red_bathtub, O. blue_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

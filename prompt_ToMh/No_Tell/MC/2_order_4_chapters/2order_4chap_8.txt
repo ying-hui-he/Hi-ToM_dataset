@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Hannah, Evelyn, Isla, Jack and Oliver entered the basement.
+2 The turnip is in the red_bucket.
+3 Hannah made no movements and stayed in the basement for 10 minutes.
+4 Hannah exited the basement and stayed in the waiting_room.
+5 Evelyn made no movements and stayed in the basement for 10 minutes.
+6 Evelyn exited the basement and stayed in the waiting_room.
+7 Isla made no movements and stayed in the basement for 10 minutes.
+8 Isla exited the basement and stayed in the waiting_room.
+9 Jack made no movements and stayed in the basement for 10 minutes.
+10 Jack exited the basement and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the basement for 10 minutes.
+12 Oliver exited the basement and stayed in the waiting_room.
+13 Evelyn, Isla and Hannah entered the basement.
+14 The tangerine is in the red_bathtub.
+15 Evelyn moved the tangerine to the green_cupboard.
+16 Evelyn exited the basement and stayed in the waiting_room.
+17 Isla made no movements and stayed in the basement for 10 minutes.
+18 Isla exited the basement and stayed in the waiting_room.
+19 Hannah made no movements and stayed in the basement for 10 minutes.
+20 Hannah exited the basement and stayed in the waiting_room.
+21 Jack, Hannah, Oliver and Evelyn entered the workshop.
+22 The corn is in the blue_container.
+23 Jack made no movements and stayed in the workshop for 10 minutes.
+24 Jack exited the workshop and stayed in the waiting_room.
+25 Hannah moved the corn to the green_bottle.
+26 Hannah exited the workshop and stayed in the waiting_room.
+27 Oliver moved the corn to the red_container.
+28 Oliver exited the workshop and stayed in the waiting_room.
+29 Evelyn made no movements and stayed in the workshop for 10 minutes.
+30 Evelyn exited the workshop and stayed in the waiting_room.
+31 Hannah and Evelyn entered the basement.
+32 The turnip is in the red_bucket.
+33 Hannah made no movements and stayed in the basement for 10 minutes.
+34 Hannah exited the basement and stayed in the waiting_room.
+35 Evelyn moved the turnip to the green_cupboard.
+36 Evelyn exited the basement and stayed in the waiting_room.
+Question: Where does Isla think Evelyn thinks the turnip is?
+Choices: A. blue_box, B. red_drawer, C. green_envelope, D. green_crate, E. blue_pantry, F. red_bucket, G. red_bathtub, H. blue_basket, I. green_cupboard, J. green_container, K. blue_treasure_chest, L. blue_container, M. green_bottle, N. red_container, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

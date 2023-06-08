@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mila, Jayden, Charlotte, Gracie and Ella entered the garden.
+2 The pineapple is in the red_suitcase.
+3 Mila moved the pineapple to the red_crate.
+4 Mila exited the garden and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the garden for 10 minutes.
+6 Jayden exited the garden and stayed in the waiting_room.
+7 Charlotte moved the pineapple to the blue_suitcase.
+8 Charlotte exited the garden and stayed in the waiting_room.
+9 Gracie moved the pineapple to the green_suitcase.
+10 Gracie exited the garden and stayed in the waiting_room.
+11 Ella moved the pineapple to the red_suitcase.
+12 Ella exited the garden and stayed in the waiting_room.
+13 Jayden, Mila and Ella entered the garden.
+14 The green_pepper is in the green_suitcase.
+15 Jayden moved the green_pepper to the blue_suitcase.
+16 Jayden exited the garden and stayed in the waiting_room.
+17 Mila moved the green_pepper to the red_suitcase.
+18 Mila exited the garden and stayed in the waiting_room.
+19 Ella moved the green_pepper to the red_crate.
+20 Ella exited the garden and stayed in the waiting_room.
+21 Charlotte, Mila, Ella and Jayden entered the garden.
+22 The pineapple is in the red_suitcase.
+23 Charlotte made no movements and stayed in the garden for 10 minutes.
+24 Charlotte exited the garden and stayed in the waiting_room.
+25 Mila moved the pineapple to the red_bathtub.
+26 Mila exited the garden and stayed in the waiting_room.
+27 Ella made no movements and stayed in the garden for 10 minutes.
+28 Ella exited the garden and stayed in the waiting_room.
+29 Jayden made no movements and stayed in the garden for 10 minutes.
+30 Jayden exited the garden and stayed in the waiting_room.
+31 Gracie and Ella entered the garden.
+32 The green_pepper is in the red_crate.
+33 Gracie made no movements and stayed in the garden for 10 minutes.
+34 Gracie exited the garden and stayed in the waiting_room.
+35 Ella moved the green_pepper to the red_suitcase.
+36 Ella exited the garden and stayed in the waiting_room.
+Question: Where is the pineapple really?
+Choices: A. red_bottle, B. blue_box, C. red_bucket, D. red_treasure_chest, E. blue_container, F. blue_bucket, G. blue_pantry, H. green_crate, I. red_envelope, J. green_treasure_chest, K. red_suitcase, L. green_suitcase, M. blue_suitcase, N. red_bathtub, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

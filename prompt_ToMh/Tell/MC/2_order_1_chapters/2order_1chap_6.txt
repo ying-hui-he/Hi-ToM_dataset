@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, Jacob, James, Evelyn and Aria entered the closet.
+2 The spinach is in the red_bathtub.
+3 Logan moved the spinach to the green_container.
+4 Logan exited the closet and stayed in the waiting_room.
+5 Jacob moved the spinach to the green_bottle.
+6 Jacob exited the closet and stayed in the waiting_room.
+7 James moved the spinach to the red_envelope.
+8 James exited the closet and stayed in the waiting_room.
+9 Evelyn moved the spinach to the blue_bucket.
+10 Evelyn exited the closet and stayed in the waiting_room.
+11 Aria made no movements and stayed in the closet for 10 minutes.
+12 Aria exited the closet and stayed in the waiting_room.
+13 Evelyn publicly claimed that spinach is in the green_container.
+14 Aria privately told Logan that the spinach is actually in the blue_bucket.
+Question: Where does Aria think Jacob thinks the spinach is?
+Choices: A. green_bathtub, B. green_crate, C. red_bucket, D. blue_envelope, E. blue_bathtub, F. red_bathtub, G. green_container, H. red_envelope, I. green_bottle, J. blue_bucket, K. red_drawer, L. blue_treasure_chest, M. green_envelope, N. blue_container, O. blue_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Oliver, Logan, Olivia, Amelia and Abigail entered the cellar.
+2 The grapefruit is in the red_crate.
+3 Oliver moved the grapefruit to the blue_bucket.
+4 Oliver exited the cellar and stayed in the waiting_room.
+5 Logan moved the grapefruit to the red_suitcase.
+6 Logan exited the cellar and stayed in the waiting_room.
+7 Olivia moved the grapefruit to the red_envelope.
+8 Olivia exited the cellar and stayed in the waiting_room.
+9 Amelia moved the grapefruit to the green_suitcase.
+10 Amelia exited the cellar and stayed in the waiting_room.
+11 Abigail moved the grapefruit to the red_crate.
+12 Abigail exited the cellar and stayed in the waiting_room.
+13 Olivia, Abigail and Amelia entered the patio.
+14 The strawberry is in the red_bottle.
+15 Olivia made no movements and stayed in the patio for 10 minutes.
+16 Olivia exited the patio and stayed in the waiting_room.
+17 Abigail made no movements and stayed in the patio for 10 minutes.
+18 Abigail exited the patio and stayed in the waiting_room.
+19 Amelia moved the strawberry to the blue_crate.
+20 Amelia exited the patio and stayed in the waiting_room.
+21 Amelia publicly claimed that strawberry is in the red_bottle.
+22 Olivia privately told Amelia that the strawberry is actually in the red_bucket.
+Question: Where does Oliver think Abigail thinks Olivia thinks Amelia thinks the grapefruit is?
+Choices: A. blue_container, B. blue_bathtub, C. blue_basket, D. red_container, E. green_bottle, F. red_crate, G. green_suitcase, H. blue_bucket, I. red_suitcase, J. red_envelope, K. red_bottle, L. red_bucket, M. blue_envelope, N. blue_crate, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

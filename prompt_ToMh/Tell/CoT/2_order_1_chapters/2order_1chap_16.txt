@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jacob, Benjamin, James, Jayden and Avery entered the patio.
+2 The plum is in the blue_envelope.
+3 Jacob made no movements and stayed in the patio for 10 minutes.
+4 Jacob exited the patio and stayed in the waiting_room.
+5 Benjamin moved the plum to the red_envelope.
+6 Benjamin exited the patio and stayed in the waiting_room.
+7 James made no movements and stayed in the patio for 10 minutes.
+8 James exited the patio and stayed in the waiting_room.
+9 Jayden made no movements and stayed in the patio for 10 minutes.
+10 Jayden exited the patio and stayed in the waiting_room.
+11 Avery made no movements and stayed in the patio for 10 minutes.
+12 Avery exited the patio and stayed in the waiting_room.
+13 James privately told Jacob that the plum is actually in the red_bottle.
+14 Benjamin privately told Jayden that the plum is actually in the blue_bucket.
+Question: Where does Avery think James thinks the plum is?
+Choices: A. blue_envelope, B. red_envelope, C. blue_bucket, D. red_bottle, E. red_drawer, F. green_container, G. red_container, H. green_bottle, I. blue_drawer, J. red_suitcase, K. red_crate, L. blue_treasure_chest, M. red_basket, N. blue_bottle, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

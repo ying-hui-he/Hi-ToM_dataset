@@ -1,45 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Liam, Jackson, Aria and Alexander entered the workshop.
-2 The onion is in the blue_cupboard.
-3 Evelyn moved the onion to the blue_crate.
-4 Evelyn exited the workshop and stayed in the waiting_room.
-5 Liam moved the onion to the red_treasure_chest.
-6 Liam exited the workshop and stayed in the waiting_room.
-7 Jackson moved the onion to the green_box.
-8 Jackson exited the workshop and stayed in the waiting_room.
-9 Aria made no movements and stayed in the workshop for 10 minutes.
-10 Aria exited the workshop and stayed in the waiting_room.
-11 Alexander moved the onion to the blue_cupboard.
-12 Alexander exited the workshop and stayed in the waiting_room.
-13 Liam, Evelyn and Alexander entered the office.
-14 The sweet_potato is in the green_drawer.
-15 Liam made no movements and stayed in the office for 10 minutes.
-16 Liam exited the office and stayed in the waiting_room.
-17 Evelyn made no movements and stayed in the office for 10 minutes.
-18 Evelyn exited the office and stayed in the waiting_room.
-19 Alexander moved the sweet_potato to the blue_box.
-20 Alexander exited the office and stayed in the waiting_room.
-21 Alexander publicly claimed that sweet_potato is in the green_drawer.
-22 Liam privately told Alexander that the sweet_potato is actually in the red_bucket.
-23 Liam, Jackson, Aria and Alexander entered the workshop.
-24 The grapes is in the green_box.
-25 Liam made no movements and stayed in the workshop for 10 minutes.
-26 Liam exited the workshop and stayed in the waiting_room.
-27 Jackson moved the grapes to the blue_crate.
-28 Jackson exited the workshop and stayed in the waiting_room.
-29 Aria moved the grapes to the red_treasure_chest.
-30 Aria exited the workshop and stayed in the waiting_room.
-31 Alexander made no movements and stayed in the workshop for 10 minutes.
-32 Alexander exited the workshop and stayed in the waiting_room.
-33 Alexander and Liam entered the workshop.
-34 The onion is in the blue_cupboard.
-35 Alexander moved the onion to the blue_crate.
-36 Alexander exited the workshop and stayed in the waiting_room.
-37 Liam moved the onion to the blue_basket.
-38 Liam exited the workshop and stayed in the waiting_room.
-39 Liam publicly claimed that onion is in the green_box.
-40 Alexander privately told Liam that the onion is actually in the blue_cupboard.
-Question: Where is the onion really?
-Choices: A. blue_drawer, B. blue_container, C. blue_treasure_chest, D. green_bottle, E. green_treasure_chest, F. green_drawer, G. red_bucket, H. red_bathtub, I. blue_box, J. green_cupboard, K. green_box, L. blue_cupboard, M. red_treasure_chest, N. blue_basket, O. blue_crate
+1 Mia, Jackson, Abigail, William and Ethan entered the den.
+2 The lime is in the green_container.
+3 Mia moved the lime to the red_crate.
+4 Mia exited the den and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the den for 10 minutes.
+6 Jackson exited the den and stayed in the waiting_room.
+7 Abigail moved the lime to the blue_pantry.
+8 Abigail exited the den and stayed in the waiting_room.
+9 William moved the lime to the blue_envelope.
+10 William exited the den and stayed in the waiting_room.
+11 Ethan moved the lime to the green_container.
+12 Ethan exited the den and stayed in the waiting_room.
+13 William, Abigail and Jackson entered the patio.
+14 The green_pepper is in the green_envelope.
+15 William made no movements and stayed in the patio for 10 minutes.
+16 William exited the patio and stayed in the waiting_room.
+17 Abigail made no movements and stayed in the patio for 10 minutes.
+18 Abigail exited the patio and stayed in the waiting_room.
+19 Jackson made no movements and stayed in the patio for 10 minutes.
+20 Jackson exited the patio and stayed in the waiting_room.
+21 Abigail publicly claimed that green_pepper is in the red_suitcase.
+22 Jackson privately told Abigail that the green_pepper is actually in the blue_box.
+23 Abigail, Ethan, William and Mia entered the den.
+24 The lemon is in the blue_envelope.
+25 Abigail moved the lemon to the blue_pantry.
+26 Abigail exited the den and stayed in the waiting_room.
+27 Ethan moved the lemon to the red_crate.
+28 Ethan exited the den and stayed in the waiting_room.
+29 William moved the lemon to the green_container.
+30 William exited the den and stayed in the waiting_room.
+31 Mia made no movements and stayed in the den for 10 minutes.
+32 Mia exited the den and stayed in the waiting_room.
+33 Jackson and Abigail entered the den.
+34 The lemon is in the green_container.
+35 Jackson moved the lemon to the blue_pantry.
+36 Jackson exited the den and stayed in the waiting_room.
+37 Abigail made no movements and stayed in the den for 10 minutes.
+38 Abigail exited the den and stayed in the waiting_room.
+39 Jackson publicly claimed that lemon is in the blue_drawer.
+40 Abigail privately told Jackson that the lemon is actually in the red_crate.
+Question: Where is the lime really?
+Choices: A. green_container, B. blue_envelope, C. red_crate, D. blue_pantry, E. blue_drawer, F. red_suitcase, G. green_envelope, H. blue_bucket, I. blue_box, J. red_envelope, K. red_treasure_chest, L. green_bottle, M. red_bottle, N. green_crate, O. red_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ava, Olivia, Mila, Owen and Oliver entered the back_yard.
+2 The green_pepper is in the green_treasure_chest.
+3 Ava moved the green_pepper to the green_cupboard.
+4 Ava exited the back_yard and stayed in the waiting_room.
+5 Olivia made no movements and stayed in the back_yard for 10 minutes.
+6 Olivia exited the back_yard and stayed in the waiting_room.
+7 Mila moved the green_pepper to the blue_pantry.
+8 Mila exited the back_yard and stayed in the waiting_room.
+9 Owen made no movements and stayed in the back_yard for 10 minutes.
+10 Owen exited the back_yard and stayed in the waiting_room.
+11 Oliver moved the green_pepper to the green_treasure_chest.
+12 Oliver exited the back_yard and stayed in the waiting_room.
+13 Oliver, Olivia and Owen entered the study.
+14 The plum is in the red_container.
+15 Oliver made no movements and stayed in the study for 10 minutes.
+16 Oliver exited the study and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the study for 10 minutes.
+18 Olivia exited the study and stayed in the waiting_room.
+19 Owen made no movements and stayed in the study for 10 minutes.
+20 Owen exited the study and stayed in the waiting_room.
+21 Olivia, Mila, Ava and Oliver entered the study.
+22 The plum is in the red_container.
+23 Olivia made no movements and stayed in the study for 10 minutes.
+24 Olivia exited the study and stayed in the waiting_room.
+25 Mila made no movements and stayed in the study for 10 minutes.
+26 Mila exited the study and stayed in the waiting_room.
+27 Ava moved the plum to the green_crate.
+28 Ava exited the study and stayed in the waiting_room.
+29 Oliver moved the plum to the red_suitcase.
+30 Oliver exited the study and stayed in the waiting_room.
+31 Olivia and Ava entered the patio.
+32 The beans is in the blue_crate.
+33 Olivia moved the beans to the blue_bottle.
+34 Olivia exited the patio and stayed in the waiting_room.
+35 Ava moved the beans to the blue_basket.
+36 Ava exited the patio and stayed in the waiting_room.
+Question: Where is the green_pepper really?
+Choices: A. blue_basket, B. blue_crate, C. green_envelope, D. blue_bathtub, E. blue_bottle, F. red_container, G. red_envelope, H. blue_suitcase, I. green_crate, J. red_suitcase, K. green_treasure_chest, L. blue_pantry, M. blue_box, N. red_crate, O. green_cupboard
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

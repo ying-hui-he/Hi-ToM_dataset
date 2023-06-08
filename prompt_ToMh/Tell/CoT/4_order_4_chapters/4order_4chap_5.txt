@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Noah, Amelia, Evelyn, Jayden and Gracie entered the cellar.
+2 The green_pepper is in the green_suitcase.
+3 Noah moved the green_pepper to the blue_crate.
+4 Noah exited the cellar and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the cellar for 10 minutes.
+6 Amelia exited the cellar and stayed in the waiting_room.
+7 Evelyn made no movements and stayed in the cellar for 10 minutes.
+8 Evelyn exited the cellar and stayed in the waiting_room.
+9 Jayden moved the green_pepper to the green_bathtub.
+10 Jayden exited the cellar and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the cellar for 10 minutes.
+12 Gracie exited the cellar and stayed in the waiting_room.
+13 Amelia, Gracie and Noah entered the sunroom.
+14 The orange is in the green_crate.
+15 Amelia moved the orange to the blue_suitcase.
+16 Amelia exited the sunroom and stayed in the waiting_room.
+17 Gracie moved the orange to the green_bottle.
+18 Gracie exited the sunroom and stayed in the waiting_room.
+19 Noah moved the orange to the blue_bottle.
+20 Noah exited the sunroom and stayed in the waiting_room.
+21 Gracie publicly claimed that orange is in the blue_bottle.
+22 Noah privately told Gracie that the orange is actually in the blue_suitcase.
+23 Noah, Amelia, Evelyn and Gracie entered the basement.
+24 The peach is in the blue_box.
+25 Noah moved the peach to the blue_envelope.
+26 Noah exited the basement and stayed in the waiting_room.
+27 Amelia made no movements and stayed in the basement for 10 minutes.
+28 Amelia exited the basement and stayed in the waiting_room.
+29 Evelyn made no movements and stayed in the basement for 10 minutes.
+30 Evelyn exited the basement and stayed in the waiting_room.
+31 Gracie made no movements and stayed in the basement for 10 minutes.
+32 Gracie exited the basement and stayed in the waiting_room.
+33 Noah and Gracie entered the basement.
+34 The peach is in the blue_envelope.
+35 Noah moved the peach to the red_suitcase.
+36 Noah exited the basement and stayed in the waiting_room.
+37 Gracie moved the peach to the blue_box.
+38 Gracie exited the basement and stayed in the waiting_room.
+39 Noah privately told Jayden that the peach is actually in the blue_drawer.
+Question: Where does Noah think Jayden thinks Amelia thinks Gracie thinks the green_pepper is?
+Choices: A. blue_box, B. blue_envelope, C. red_suitcase, D. blue_drawer, E. blue_treasure_chest, F. green_crate, G. green_treasure_chest, H. green_bottle, I. blue_bottle, J. blue_suitcase, K. red_envelope, L. green_suitcase, M. green_bathtub, N. blue_crate, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

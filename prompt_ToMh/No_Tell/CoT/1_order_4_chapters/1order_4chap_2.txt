@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, James, Avery, Mila and Owen entered the back_yard.
+2 The cherry is in the red_suitcase.
+3 Olivia made no movements and stayed in the back_yard for 10 minutes.
+4 Olivia exited the back_yard and stayed in the waiting_room.
+5 James moved the cherry to the blue_bathtub.
+6 James exited the back_yard and stayed in the waiting_room.
+7 Avery made no movements and stayed in the back_yard for 10 minutes.
+8 Avery exited the back_yard and stayed in the waiting_room.
+9 Mila made no movements and stayed in the back_yard for 10 minutes.
+10 Mila exited the back_yard and stayed in the waiting_room.
+11 Owen made no movements and stayed in the back_yard for 10 minutes.
+12 Owen exited the back_yard and stayed in the waiting_room.
+13 James, Avery and Olivia entered the garage.
+14 The cucumber is in the blue_drawer.
+15 James made no movements and stayed in the garage for 10 minutes.
+16 James exited the garage and stayed in the waiting_room.
+17 Avery moved the cucumber to the green_bathtub.
+18 Avery exited the garage and stayed in the waiting_room.
+19 Olivia moved the cucumber to the blue_bottle.
+20 Olivia exited the garage and stayed in the waiting_room.
+21 Owen, Mila, Avery and James entered the garage.
+22 The cucumber is in the blue_bottle.
+23 Owen made no movements and stayed in the garage for 10 minutes.
+24 Owen exited the garage and stayed in the waiting_room.
+25 Mila moved the cucumber to the green_bathtub.
+26 Mila exited the garage and stayed in the waiting_room.
+27 Avery made no movements and stayed in the garage for 10 minutes.
+28 Avery exited the garage and stayed in the waiting_room.
+29 James moved the cucumber to the blue_crate.
+30 James exited the garage and stayed in the waiting_room.
+31 James and Olivia entered the garage.
+32 The cucumber is in the blue_crate.
+33 James moved the cucumber to the blue_bottle.
+34 James exited the garage and stayed in the waiting_room.
+35 Olivia moved the cucumber to the blue_drawer.
+36 Olivia exited the garage and stayed in the waiting_room.
+Question: Where does Avery think the cherry is?
+Choices: A. red_basket, B. red_suitcase, C. green_bottle, D. blue_bathtub, E. blue_suitcase, F. blue_drawer, G. red_bottle, H. blue_bottle, I. green_bathtub, J. blue_crate, K. blue_basket, L. red_bathtub, M. red_envelope, N. green_treasure_chest, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

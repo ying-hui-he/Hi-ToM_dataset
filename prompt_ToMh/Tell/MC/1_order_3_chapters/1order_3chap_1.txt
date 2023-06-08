@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Hannah, William, Noah, Oliver and Isla entered the hallway.
+2 The apple is in the green_suitcase.
+3 Hannah moved the apple to the red_suitcase.
+4 Hannah exited the hallway and stayed in the waiting_room.
+5 William moved the apple to the green_bathtub.
+6 William exited the hallway and stayed in the waiting_room.
+7 Noah made no movements and stayed in the hallway for 10 minutes.
+8 Noah exited the hallway and stayed in the waiting_room.
+9 Oliver made no movements and stayed in the hallway for 10 minutes.
+10 Oliver exited the hallway and stayed in the waiting_room.
+11 Isla moved the apple to the green_suitcase.
+12 Isla exited the hallway and stayed in the waiting_room.
+13 Noah publicly claimed that apple is in the red_suitcase.
+14 Isla privately told Noah that the apple is actually in the red_basket.
+15 Isla, Noah and Oliver entered the patio.
+16 The plum is in the blue_box.
+17 Isla made no movements and stayed in the patio for 10 minutes.
+18 Isla exited the patio and stayed in the waiting_room.
+19 Noah made no movements and stayed in the patio for 10 minutes.
+20 Noah exited the patio and stayed in the waiting_room.
+21 Oliver moved the plum to the red_envelope.
+22 Oliver exited the patio and stayed in the waiting_room.
+23 William, Oliver, Hannah and Noah entered the basement.
+24 The pear is in the blue_envelope.
+25 William moved the pear to the red_treasure_chest.
+26 William exited the basement and stayed in the waiting_room.
+27 Oliver moved the pear to the blue_suitcase.
+28 Oliver exited the basement and stayed in the waiting_room.
+29 Hannah moved the pear to the red_bathtub.
+30 Hannah exited the basement and stayed in the waiting_room.
+31 Noah made no movements and stayed in the basement for 10 minutes.
+32 Noah exited the basement and stayed in the waiting_room.
+33 Oliver privately told Hannah that the pear is actually in the blue_envelope.
+34 Noah privately told Isla that the pear is actually in the red_bathtub.
+Question: Where does Noah think the apple is?
+Choices: A. blue_suitcase, B. blue_envelope, C. green_crate, D. red_bathtub, E. red_treasure_chest, F. blue_box, G. red_bucket, H. blue_bottle, I. red_envelope, J. red_drawer, K. green_suitcase, L. blue_crate, M. green_bathtub, N. red_suitcase, O. red_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

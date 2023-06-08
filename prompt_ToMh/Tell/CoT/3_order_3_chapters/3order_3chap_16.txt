@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Abigail, Jack, Aiden, Emma and Carter entered the garden.
+2 The persimmon is in the red_bathtub.
+3 Abigail moved the persimmon to the green_envelope.
+4 Abigail exited the garden and stayed in the waiting_room.
+5 Jack made no movements and stayed in the garden for 10 minutes.
+6 Jack exited the garden and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the garden for 10 minutes.
+8 Aiden exited the garden and stayed in the waiting_room.
+9 Emma made no movements and stayed in the garden for 10 minutes.
+10 Emma exited the garden and stayed in the waiting_room.
+11 Carter made no movements and stayed in the garden for 10 minutes.
+12 Carter exited the garden and stayed in the waiting_room.
+13 Aiden publicly claimed that persimmon is in the green_envelope.
+14 Carter privately told Aiden that the persimmon is actually in the red_drawer.
+15 Abigail, Jack and Emma entered the garden.
+16 The persimmon is in the green_envelope.
+17 Abigail made no movements and stayed in the garden for 10 minutes.
+18 Abigail exited the garden and stayed in the waiting_room.
+19 Jack made no movements and stayed in the garden for 10 minutes.
+20 Jack exited the garden and stayed in the waiting_room.
+21 Emma moved the persimmon to the blue_box.
+22 Emma exited the garden and stayed in the waiting_room.
+23 Aiden, Emma, Jack and Abigail entered the pantry.
+24 The peach is in the green_suitcase.
+25 Aiden moved the peach to the green_bottle.
+26 Aiden exited the pantry and stayed in the waiting_room.
+27 Emma made no movements and stayed in the pantry for 10 minutes.
+28 Emma exited the pantry and stayed in the waiting_room.
+29 Jack moved the peach to the blue_basket.
+30 Jack exited the pantry and stayed in the waiting_room.
+31 Abigail made no movements and stayed in the pantry for 10 minutes.
+32 Abigail exited the pantry and stayed in the waiting_room.
+33 Aiden publicly claimed that peach is in the green_suitcase.
+34 Abigail privately told Carter that the peach is actually in the blue_basket.
+Question: Where does Carter think Abigail thinks Emma thinks the persimmon is?
+Choices: A. red_bathtub, B. blue_box, C. red_drawer, D. blue_crate, E. green_envelope, F. green_bottle, G. green_suitcase, H. blue_basket, I. red_basket, J. blue_drawer, K. blue_bathtub, L. blue_container, M. green_container, N. green_cupboard, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

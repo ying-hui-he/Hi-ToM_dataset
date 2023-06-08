@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Hannah, Amelia, Jayden and Logan entered the back_yard.
+2 The banana is in the blue_pantry.
+3 Olivia moved the banana to the red_suitcase.
+4 Olivia exited the back_yard and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the back_yard for 10 minutes.
+6 Hannah exited the back_yard and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the back_yard for 10 minutes.
+8 Amelia exited the back_yard and stayed in the waiting_room.
+9 Jayden moved the banana to the blue_crate.
+10 Jayden exited the back_yard and stayed in the waiting_room.
+11 Logan made no movements and stayed in the back_yard for 10 minutes.
+12 Logan exited the back_yard and stayed in the waiting_room.
+13 Jayden publicly claimed that banana is in the blue_pantry.
+14 Logan privately told Olivia that the banana is actually in the blue_crate.
+Question: Where does Olivia think Hannah thinks the banana is?
+Choices: A. blue_pantry, B. blue_treasure_chest, C. blue_bucket, D. blue_crate, E. red_suitcase, F. red_basket, G. red_container, H. green_crate, I. red_bucket, J. blue_box, K. green_container, L. red_bottle, M. green_cupboard, N. red_drawer, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

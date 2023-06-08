@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella, Gracie, James, Olivia and Jack entered the garage.
+2 The pumpkin is in the green_suitcase.
+3 Ella made no movements and stayed in the garage for 10 minutes.
+4 Ella exited the garage and stayed in the waiting_room.
+5 Gracie moved the pumpkin to the green_cupboard.
+6 Gracie exited the garage and stayed in the waiting_room.
+7 James moved the pumpkin to the red_bottle.
+8 James exited the garage and stayed in the waiting_room.
+9 Olivia made no movements and stayed in the garage for 10 minutes.
+10 Olivia exited the garage and stayed in the waiting_room.
+11 Jack moved the pumpkin to the green_suitcase.
+12 Jack exited the garage and stayed in the waiting_room.
+13 James publicly claimed that pumpkin is in the green_suitcase.
+14 Jack privately told James that the pumpkin is actually in the blue_bottle.
+15 Ella, Gracie and James entered the closet.
+16 The apple is in the red_crate.
+17 Ella moved the apple to the red_basket.
+18 Ella exited the closet and stayed in the waiting_room.
+19 Gracie moved the apple to the red_bathtub.
+20 Gracie exited the closet and stayed in the waiting_room.
+21 James moved the apple to the blue_pantry.
+22 James exited the closet and stayed in the waiting_room.
+23 James, Ella, Gracie and Jack entered the garage.
+24 The pumpkin is in the green_suitcase.
+25 James made no movements and stayed in the garage for 10 minutes.
+26 James exited the garage and stayed in the waiting_room.
+27 Ella moved the pumpkin to the blue_drawer.
+28 Ella exited the garage and stayed in the waiting_room.
+29 Gracie moved the pumpkin to the red_bottle.
+30 Gracie exited the garage and stayed in the waiting_room.
+31 Jack made no movements and stayed in the garage for 10 minutes.
+32 Jack exited the garage and stayed in the waiting_room.
+33 Ella publicly claimed that pumpkin is in the green_cupboard.
+34 Jack privately told Gracie that the pumpkin is actually in the blue_drawer.
+Question: Where does Jack think James thinks the pumpkin is?
+Choices: A. blue_box, B. blue_treasure_chest, C. red_drawer, D. blue_basket, E. green_bottle, F. green_suitcase, G. green_cupboard, H. blue_bottle, I. red_bottle, J. blue_drawer, K. red_crate, L. red_basket, M. red_bathtub, N. blue_pantry, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

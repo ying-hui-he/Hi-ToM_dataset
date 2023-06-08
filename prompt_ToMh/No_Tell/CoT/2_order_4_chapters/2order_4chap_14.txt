@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Emily, Charlotte, Owen and Jacob entered the bathroom.
+2 The grapefruit is in the green_bathtub.
+3 Jack moved the grapefruit to the red_basket.
+4 Jack exited the bathroom and stayed in the waiting_room.
+5 Emily moved the grapefruit to the red_treasure_chest.
+6 Emily exited the bathroom and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the bathroom for 10 minutes.
+8 Charlotte exited the bathroom and stayed in the waiting_room.
+9 Owen moved the grapefruit to the red_bucket.
+10 Owen exited the bathroom and stayed in the waiting_room.
+11 Jacob made no movements and stayed in the bathroom for 10 minutes.
+12 Jacob exited the bathroom and stayed in the waiting_room.
+13 Jack, Emily and Jacob entered the bathroom.
+14 The apple is in the blue_box.
+15 Jack moved the apple to the red_bucket.
+16 Jack exited the bathroom and stayed in the waiting_room.
+17 Emily made no movements and stayed in the bathroom for 10 minutes.
+18 Emily exited the bathroom and stayed in the waiting_room.
+19 Jacob made no movements and stayed in the bathroom for 10 minutes.
+20 Jacob exited the bathroom and stayed in the waiting_room.
+21 Owen, Jacob, Charlotte and Jack entered the bathroom.
+22 The apple is in the red_bucket.
+23 Owen made no movements and stayed in the bathroom for 10 minutes.
+24 Owen exited the bathroom and stayed in the waiting_room.
+25 Jacob moved the apple to the green_bathtub.
+26 Jacob exited the bathroom and stayed in the waiting_room.
+27 Charlotte moved the apple to the blue_box.
+28 Charlotte exited the bathroom and stayed in the waiting_room.
+29 Jack made no movements and stayed in the bathroom for 10 minutes.
+30 Jack exited the bathroom and stayed in the waiting_room.
+31 Emily and Jacob entered the cellar.
+32 The spinach is in the red_bottle.
+33 Emily made no movements and stayed in the cellar for 10 minutes.
+34 Emily exited the cellar and stayed in the waiting_room.
+35 Jacob moved the spinach to the red_crate.
+36 Jacob exited the cellar and stayed in the waiting_room.
+Question: Where does Owen think Emily thinks the grapefruit is?
+Choices: A. green_container, B. red_container, C. red_envelope, D. red_bathtub, E. blue_bottle, F. red_bottle, G. red_crate, H. green_bottle, I. blue_treasure_chest, J. red_drawer, K. green_bathtub, L. blue_box, M. red_bucket, N. red_treasure_chest, O. red_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

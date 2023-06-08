@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Avery, Jack, Emily and Jackson entered the TV_room.
+2 The peach is in the red_drawer.
+3 Mila made no movements and stayed in the TV_room for 10 minutes.
+4 Mila exited the TV_room and stayed in the waiting_room.
+5 Avery made no movements and stayed in the TV_room for 10 minutes.
+6 Avery exited the TV_room and stayed in the waiting_room.
+7 Jack made no movements and stayed in the TV_room for 10 minutes.
+8 Jack exited the TV_room and stayed in the waiting_room.
+9 Emily moved the peach to the blue_crate.
+10 Emily exited the TV_room and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the TV_room for 10 minutes.
+12 Jackson exited the TV_room and stayed in the waiting_room.
+13 Jackson, Jack and Mila entered the garage.
+14 The pineapple is in the blue_bathtub.
+15 Jackson moved the pineapple to the red_container.
+16 Jackson exited the garage and stayed in the waiting_room.
+17 Jack moved the pineapple to the red_bottle.
+18 Jack exited the garage and stayed in the waiting_room.
+19 Mila moved the pineapple to the green_container.
+20 Mila exited the garage and stayed in the waiting_room.
+21 Mila, Avery, Jackson and Jack entered the TV_room.
+22 The peach is in the blue_crate.
+23 Mila made no movements and stayed in the TV_room for 10 minutes.
+24 Mila exited the TV_room and stayed in the waiting_room.
+25 Avery moved the peach to the blue_bottle.
+26 Avery exited the TV_room and stayed in the waiting_room.
+27 Jackson made no movements and stayed in the TV_room for 10 minutes.
+28 Jackson exited the TV_room and stayed in the waiting_room.
+29 Jack made no movements and stayed in the TV_room for 10 minutes.
+30 Jack exited the TV_room and stayed in the waiting_room.
+Question: Where does Avery think Jackson thinks the peach is?
+Choices: A. blue_pantry, B. red_drawer, C. blue_envelope, D. blue_bottle, E. blue_crate, F. blue_container, G. blue_bathtub, H. red_bottle, I. green_container, J. red_container, K. green_bottle, L. blue_box, M. red_crate, N. green_envelope, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

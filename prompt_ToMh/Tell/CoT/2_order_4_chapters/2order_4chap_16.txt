@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, Owen, Evelyn, Jack and Avery entered the attic.
+2 The grapefruit is in the blue_bucket.
+3 Jackson moved the grapefruit to the green_container.
+4 Jackson exited the attic and stayed in the waiting_room.
+5 Owen moved the grapefruit to the red_treasure_chest.
+6 Owen exited the attic and stayed in the waiting_room.
+7 Evelyn moved the grapefruit to the red_bucket.
+8 Evelyn exited the attic and stayed in the waiting_room.
+9 Jack moved the grapefruit to the red_bathtub.
+10 Jack exited the attic and stayed in the waiting_room.
+11 Avery moved the grapefruit to the blue_bucket.
+12 Avery exited the attic and stayed in the waiting_room.
+13 Evelyn, Jack and Owen entered the closet.
+14 The pineapple is in the red_suitcase.
+15 Evelyn made no movements and stayed in the closet for 10 minutes.
+16 Evelyn exited the closet and stayed in the waiting_room.
+17 Jack moved the pineapple to the blue_bottle.
+18 Jack exited the closet and stayed in the waiting_room.
+19 Owen made no movements and stayed in the closet for 10 minutes.
+20 Owen exited the closet and stayed in the waiting_room.
+21 Jack publicly claimed that pineapple is in the blue_suitcase.
+22 Owen privately told Jack that the pineapple is actually in the red_container.
+23 Evelyn, Jackson, Owen and Jack entered the attic.
+24 The grapefruit is in the blue_bucket.
+25 Evelyn made no movements and stayed in the attic for 10 minutes.
+26 Evelyn exited the attic and stayed in the waiting_room.
+27 Jackson made no movements and stayed in the attic for 10 minutes.
+28 Jackson exited the attic and stayed in the waiting_room.
+29 Owen made no movements and stayed in the attic for 10 minutes.
+30 Owen exited the attic and stayed in the waiting_room.
+31 Jack made no movements and stayed in the attic for 10 minutes.
+32 Jack exited the attic and stayed in the waiting_room.
+33 Avery and Jackson entered the crawlspace.
+34 The cherry is in the blue_bathtub.
+35 Avery moved the cherry to the blue_box.
+36 Avery exited the crawlspace and stayed in the waiting_room.
+37 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+38 Jackson exited the crawlspace and stayed in the waiting_room.
+39 Avery privately told Owen that the cherry is actually in the blue_bathtub.
+Question: Where does Jack think Owen thinks the grapefruit is?
+Choices: A. red_suitcase, B. blue_bottle, C. red_container, D. blue_suitcase, E. blue_treasure_chest, F. blue_bathtub, G. blue_box, H. green_cupboard, I. green_treasure_chest, J. blue_drawer, K. blue_bucket, L. red_treasure_chest, M. green_container, N. red_bucket, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

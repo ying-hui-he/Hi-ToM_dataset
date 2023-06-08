@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Carter, Ethan, William, Mia and Jack entered the patio.
+2 The spinach is in the green_bottle.
+3 Carter made no movements and stayed in the patio for 10 minutes.
+4 Carter exited the patio and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the patio for 10 minutes.
+6 Ethan exited the patio and stayed in the waiting_room.
+7 William moved the spinach to the blue_suitcase.
+8 William exited the patio and stayed in the waiting_room.
+9 Mia moved the spinach to the red_container.
+10 Mia exited the patio and stayed in the waiting_room.
+11 Jack made no movements and stayed in the patio for 10 minutes.
+12 Jack exited the patio and stayed in the waiting_room.
+13 Ethan, Carter and William entered the master_bedroom.
+14 The strawberry is in the green_treasure_chest.
+15 Ethan moved the strawberry to the red_crate.
+16 Ethan exited the master_bedroom and stayed in the waiting_room.
+17 Carter moved the strawberry to the blue_treasure_chest.
+18 Carter exited the master_bedroom and stayed in the waiting_room.
+19 William made no movements and stayed in the master_bedroom for 10 minutes.
+20 William exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Mia think William thinks Jack thinks Ethan thinks the spinach is?
+Choices: A. blue_box, B. blue_envelope, C. green_cupboard, D. blue_basket, E. red_drawer, F. green_container, G. green_bottle, H. blue_suitcase, I. red_container, J. blue_container, K. blue_bottle, L. green_treasure_chest, M. red_crate, N. blue_treasure_chest, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

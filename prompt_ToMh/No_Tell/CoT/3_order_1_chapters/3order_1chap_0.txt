@@ -1,17 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Mila, Hannah, Amelia, Oliver and Charlotte entered the porch.
-2 The pineapple is in the blue_cupboard.
-3 Mila moved the pineapple to the red_cupboard.
-4 Mila exited the porch and stayed in the waiting_room.
-5 Hannah made no movements and stayed in the porch for 10 minutes.
-6 Hannah exited the porch and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the porch for 10 minutes.
-8 Amelia exited the porch and stayed in the waiting_room.
-9 Oliver moved the pineapple to the green_drawer.
-10 Oliver exited the porch and stayed in the waiting_room.
-11 Charlotte moved the pineapple to the blue_cupboard.
-12 Charlotte exited the porch and stayed in the waiting_room.
-Question: Where does Mila think Charlotte thinks Amelia thinks the pineapple is?
-Choices: A. blue_bottle, B. red_drawer, C. blue_crate, D. red_container, E. red_basket, F. red_bucket, G. red_bottle, H. green_box, I. blue_box, J. blue_drawer, K. red_cupboard, L. blue_cupboard, M. green_drawer, N. green_bucket, O. green_pantry
+1 Charlotte, Mia, Hannah, Abigail and Evelyn entered the pantry.
+2 The beans is in the red_drawer.
+3 Charlotte moved the beans to the red_bucket.
+4 Charlotte exited the pantry and stayed in the waiting_room.
+5 Mia moved the beans to the blue_container.
+6 Mia exited the pantry and stayed in the waiting_room.
+7 Hannah moved the beans to the red_bottle.
+8 Hannah exited the pantry and stayed in the waiting_room.
+9 Abigail moved the beans to the blue_suitcase.
+10 Abigail exited the pantry and stayed in the waiting_room.
+11 Evelyn moved the beans to the red_drawer.
+12 Evelyn exited the pantry and stayed in the waiting_room.
+Question: Where does Mia think Charlotte thinks Abigail thinks the beans is?
+Choices: A. blue_bathtub, B. blue_treasure_chest, C. green_envelope, D. red_container, E. red_crate, F. red_drawer, G. red_bucket, H. blue_container, I. red_bottle, J. blue_suitcase, K. green_crate, L. blue_pantry, M. red_envelope, N. blue_bottle, O. blue_basket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

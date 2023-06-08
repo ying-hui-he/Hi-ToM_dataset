@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jayden, Owen, Aiden, Aria and Emma entered the bedroom.
+2 The apple is in the red_crate.
+3 Jayden made no movements and stayed in the bedroom for 10 minutes.
+4 Jayden exited the bedroom and stayed in the waiting_room.
+5 Owen moved the apple to the blue_bucket.
+6 Owen exited the bedroom and stayed in the waiting_room.
+7 Aiden moved the apple to the green_suitcase.
+8 Aiden exited the bedroom and stayed in the waiting_room.
+9 Aria made no movements and stayed in the bedroom for 10 minutes.
+10 Aria exited the bedroom and stayed in the waiting_room.
+11 Emma made no movements and stayed in the bedroom for 10 minutes.
+12 Emma exited the bedroom and stayed in the waiting_room.
+13 Owen, Aiden and Emma entered the kitchen.
+14 The pineapple is in the green_envelope.
+15 Owen made no movements and stayed in the kitchen for 10 minutes.
+16 Owen exited the kitchen and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the kitchen for 10 minutes.
+18 Aiden exited the kitchen and stayed in the waiting_room.
+19 Emma moved the pineapple to the red_bathtub.
+20 Emma exited the kitchen and stayed in the waiting_room.
+21 Aiden publicly claimed that pineapple is in the red_bottle.
+22 Emma privately told Aiden that the pineapple is actually in the red_bathtub.
+Question: Where does Emma think the apple is?
+Choices: A. blue_basket, B. blue_bottle, C. red_envelope, D. green_cupboard, E. red_drawer, F. green_container, G. red_crate, H. green_suitcase, I. blue_bucket, J. blue_container, K. green_envelope, L. blue_suitcase, M. red_bottle, N. red_basket, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isla, Ethan, Jacob, Benjamin and Evelyn entered the sunroom.
+2 The pineapple is in the blue_basket.
+3 Isla made no movements and stayed in the sunroom for 10 minutes.
+4 Isla exited the sunroom and stayed in the waiting_room.
+5 Ethan moved the pineapple to the green_container.
+6 Ethan exited the sunroom and stayed in the waiting_room.
+7 Jacob moved the pineapple to the blue_envelope.
+8 Jacob exited the sunroom and stayed in the waiting_room.
+9 Benjamin made no movements and stayed in the sunroom for 10 minutes.
+10 Benjamin exited the sunroom and stayed in the waiting_room.
+11 Evelyn made no movements and stayed in the sunroom for 10 minutes.
+12 Evelyn exited the sunroom and stayed in the waiting_room.
+13 Jacob privately told Isla that the pineapple is actually in the blue_container.
+14 Ethan privately told Benjamin that the pineapple is actually in the blue_basket.
+Question: Where does Isla think the pineapple is?
+Choices: A. green_cupboard, B. blue_pantry, C. green_crate, D. blue_bathtub, E. red_bathtub, F. red_suitcase, G. green_treasure_chest, H. red_crate, I. red_basket, J. blue_box, K. blue_envelope, L. blue_basket, M. green_container, N. blue_container, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

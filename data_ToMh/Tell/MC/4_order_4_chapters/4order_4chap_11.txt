@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jackson, Mia, Oliver, Avery and Benjamin entered the porch.
+2 The pear is in the green_cupboard.
+3 Jackson made no movements and stayed in the porch for 10 minutes.
+4 Jackson exited the porch and stayed in the waiting_room.
+5 Mia made no movements and stayed in the porch for 10 minutes.
+6 Mia exited the porch and stayed in the waiting_room.
+7 Oliver made no movements and stayed in the porch for 10 minutes.
+8 Oliver exited the porch and stayed in the waiting_room.
+9 Avery made no movements and stayed in the porch for 10 minutes.
+10 Avery exited the porch and stayed in the waiting_room.
+11 Benjamin made no movements and stayed in the porch for 10 minutes.
+12 Benjamin exited the porch and stayed in the waiting_room.
+13 Jackson, Avery and Oliver entered the porch.
+14 The pear is in the green_cupboard.
+15 Jackson made no movements and stayed in the porch for 10 minutes.
+16 Jackson exited the porch and stayed in the waiting_room.
+17 Avery moved the pear to the green_bathtub.
+18 Avery exited the porch and stayed in the waiting_room.
+19 Oliver moved the pear to the blue_drawer.
+20 Oliver exited the porch and stayed in the waiting_room.
+21 Avery publicly claimed that pear is in the blue_drawer.
+22 Oliver privately told Avery that the pear is actually in the green_bathtub.
+23 Oliver, Jackson, Mia and Benjamin entered the lounge.
+24 The tomato is in the green_envelope.
+25 Oliver moved the tomato to the red_suitcase.
+26 Oliver exited the lounge and stayed in the waiting_room.
+27 Jackson moved the tomato to the red_basket.
+28 Jackson exited the lounge and stayed in the waiting_room.
+29 Mia moved the tomato to the green_treasure_chest.
+30 Mia exited the lounge and stayed in the waiting_room.
+31 Benjamin moved the tomato to the blue_container.
+32 Benjamin exited the lounge and stayed in the waiting_room.
+33 Mia and Benjamin entered the office.
+34 The potato is in the blue_box.
+35 Mia moved the potato to the blue_bucket.
+36 Mia exited the office and stayed in the waiting_room.
+37 Benjamin made no movements and stayed in the office for 10 minutes.
+38 Benjamin exited the office and stayed in the waiting_room.
+39 Mia privately told Avery that the potato is actually in the red_bathtub.
+Question: Where does Avery think Jackson thinks Mia thinks Benjamin thinks the pear is?
+Answer: None
+Choices: A. green_treasure_chest, B. green_envelope, C. red_suitcase, D. blue_container, E. red_basket, F. blue_bucket, G. blue_box, H. blue_bottle, I. red_bathtub, J. blue_treasure_chest, K. green_cupboard, L. red_crate, M. red_envelope, N. blue_drawer, O. green_bathtub

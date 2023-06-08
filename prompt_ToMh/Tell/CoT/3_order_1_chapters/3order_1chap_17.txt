@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Hannah, Carter, Logan, Abigail and Jack entered the sunroom.
+2 The persimmon is in the blue_pantry.
+3 Hannah moved the persimmon to the blue_drawer.
+4 Hannah exited the sunroom and stayed in the waiting_room.
+5 Carter moved the persimmon to the blue_treasure_chest.
+6 Carter exited the sunroom and stayed in the waiting_room.
+7 Logan made no movements and stayed in the sunroom for 10 minutes.
+8 Logan exited the sunroom and stayed in the waiting_room.
+9 Abigail moved the persimmon to the green_envelope.
+10 Abigail exited the sunroom and stayed in the waiting_room.
+11 Jack moved the persimmon to the blue_pantry.
+12 Jack exited the sunroom and stayed in the waiting_room.
+13 Logan publicly claimed that persimmon is in the blue_drawer.
+14 Jack privately told Logan that the persimmon is actually in the blue_pantry.
+Question: Where does Hannah think Carter thinks Abigail thinks the persimmon is?
+Choices: A. red_bottle, B. red_bathtub, C. blue_bathtub, D. green_suitcase, E. blue_container, F. blue_pantry, G. green_envelope, H. red_suitcase, I. blue_treasure_chest, J. blue_drawer, K. red_bucket, L. green_cupboard, M. red_treasure_chest, N. green_bathtub, O. blue_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,41 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Oliver, Liam, Evelyn and Ella entered the patio.
-2 The peach is in the red_bathtub.
-3 Emma made no movements and stayed in the patio for 10 minutes.
-4 Emma exited the patio and stayed in the waiting_room.
-5 Oliver made no movements and stayed in the patio for 10 minutes.
-6 Oliver exited the patio and stayed in the waiting_room.
-7 Liam made no movements and stayed in the patio for 10 minutes.
-8 Liam exited the patio and stayed in the waiting_room.
-9 Evelyn made no movements and stayed in the patio for 10 minutes.
-10 Evelyn exited the patio and stayed in the waiting_room.
-11 Ella moved the peach to the red_bathtub.
-12 Ella exited the patio and stayed in the waiting_room.
-13 Evelyn, Oliver and Emma entered the patio.
-14 The pineapple is in the blue_container.
-15 Evelyn moved the pineapple to the red_cupboard.
-16 Evelyn exited the patio and stayed in the waiting_room.
-17 Oliver made no movements and stayed in the patio for 10 minutes.
-18 Oliver exited the patio and stayed in the waiting_room.
-19 Emma made no movements and stayed in the patio for 10 minutes.
-20 Emma exited the patio and stayed in the waiting_room.
-21 Emma, Liam, Evelyn and Oliver entered the patio.
-22 The pineapple is in the red_cupboard.
-23 Emma made no movements and stayed in the patio for 10 minutes.
-24 Emma exited the patio and stayed in the waiting_room.
-25 Liam made no movements and stayed in the patio for 10 minutes.
-26 Liam exited the patio and stayed in the waiting_room.
-27 Evelyn made no movements and stayed in the patio for 10 minutes.
-28 Evelyn exited the patio and stayed in the waiting_room.
-29 Oliver made no movements and stayed in the patio for 10 minutes.
-30 Oliver exited the patio and stayed in the waiting_room.
-31 Evelyn and Emma entered the patio.
-32 The peach is in the red_bathtub.
-33 Evelyn moved the peach to the red_cupboard.
-34 Evelyn exited the patio and stayed in the waiting_room.
-35 Emma moved the peach to the blue_container.
-36 Emma exited the patio and stayed in the waiting_room.
-Question: Where does Oliver think the peach is?
-Choices: A. green_bottle, B. red_bottle, C. green_box, D. red_treasure_chest, E. green_envelope, F. blue_container, G. red_bathtub, H. blue_cupboard, I. red_cupboard, J. blue_drawer, K. red_drawer, L. blue_treasure_chest, M. blue_box, N. blue_crate, O. green_bucket
+1 Aria, Isla, Jayden, Aiden and Charlotte entered the closet.
+2 The onion is in the red_bottle.
+3 Aria made no movements and stayed in the closet for 10 minutes.
+4 Aria exited the closet and stayed in the waiting_room.
+5 Isla moved the onion to the red_bathtub.
+6 Isla exited the closet and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the closet for 10 minutes.
+8 Jayden exited the closet and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the closet for 10 minutes.
+10 Aiden exited the closet and stayed in the waiting_room.
+11 Charlotte made no movements and stayed in the closet for 10 minutes.
+12 Charlotte exited the closet and stayed in the waiting_room.
+13 Aria, Isla and Charlotte entered the front_yard.
+14 The beans is in the blue_bottle.
+15 Aria moved the beans to the red_treasure_chest.
+16 Aria exited the front_yard and stayed in the waiting_room.
+17 Isla made no movements and stayed in the front_yard for 10 minutes.
+18 Isla exited the front_yard and stayed in the waiting_room.
+19 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+20 Charlotte exited the front_yard and stayed in the waiting_room.
+21 Jayden, Aria, Charlotte and Isla entered the front_yard.
+22 The persimmon is in the red_treasure_chest.
+23 Jayden moved the persimmon to the green_bottle.
+24 Jayden exited the front_yard and stayed in the waiting_room.
+25 Aria moved the persimmon to the blue_pantry.
+26 Aria exited the front_yard and stayed in the waiting_room.
+27 Charlotte moved the persimmon to the blue_bathtub.
+28 Charlotte exited the front_yard and stayed in the waiting_room.
+29 Isla moved the persimmon to the blue_bottle.
+30 Isla exited the front_yard and stayed in the waiting_room.
+31 Jayden and Aiden entered the patio.
+32 The potato is in the green_container.
+33 Jayden moved the potato to the blue_treasure_chest.
+34 Jayden exited the patio and stayed in the waiting_room.
+35 Aiden moved the potato to the red_envelope.
+36 Aiden exited the patio and stayed in the waiting_room.
+Question: Where does Aiden think the onion is?
+Choices: A. green_container, B. red_envelope, C. blue_envelope, D. blue_box, E. blue_treasure_chest, F. blue_bottle, G. red_treasure_chest, H. green_bottle, I. blue_pantry, J. blue_bathtub, K. red_drawer, L. red_bottle, M. red_bathtub, N. red_basket, O. green_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isla, Noah, Logan, Owen and Aiden entered the pantry.
+2 The tomato is in the blue_drawer.
+3 Isla made no movements and stayed in the pantry for 10 minutes.
+4 Isla exited the pantry and stayed in the waiting_room.
+5 Noah made no movements and stayed in the pantry for 10 minutes.
+6 Noah exited the pantry and stayed in the waiting_room.
+7 Logan made no movements and stayed in the pantry for 10 minutes.
+8 Logan exited the pantry and stayed in the waiting_room.
+9 Owen moved the tomato to the red_envelope.
+10 Owen exited the pantry and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the pantry for 10 minutes.
+12 Aiden exited the pantry and stayed in the waiting_room.
+13 Logan privately told Isla that the tomato is actually in the red_drawer.
+14 Noah privately told Owen that the tomato is actually in the red_bucket.
+15 Aiden, Isla and Logan entered the cellar.
+16 The pear is in the green_treasure_chest.
+17 Aiden moved the pear to the blue_suitcase.
+18 Aiden exited the cellar and stayed in the waiting_room.
+19 Isla moved the pear to the blue_treasure_chest.
+20 Isla exited the cellar and stayed in the waiting_room.
+21 Logan made no movements and stayed in the cellar for 10 minutes.
+22 Logan exited the cellar and stayed in the waiting_room.
+23 Noah, Isla, Owen and Logan entered the staircase.
+24 The lettuce is in the red_crate.
+25 Noah moved the lettuce to the blue_envelope.
+26 Noah exited the staircase and stayed in the waiting_room.
+27 Isla made no movements and stayed in the staircase for 10 minutes.
+28 Isla exited the staircase and stayed in the waiting_room.
+29 Owen moved the lettuce to the blue_box.
+30 Owen exited the staircase and stayed in the waiting_room.
+31 Logan moved the lettuce to the green_crate.
+32 Logan exited the staircase and stayed in the waiting_room.
+33 Isla privately told Owen that the lettuce is actually in the blue_box.
+34 Logan privately told Aiden that the lettuce is actually in the green_crate.
+Question: Where does Isla think Owen thinks the tomato is?
+Choices: A. blue_drawer, B. red_envelope, C. blue_container, D. red_bucket, E. red_drawer, F. green_container, G. green_treasure_chest, H. blue_treasure_chest, I. red_basket, J. blue_suitcase, K. blue_bathtub, L. red_crate, M. green_crate, N. blue_envelope, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

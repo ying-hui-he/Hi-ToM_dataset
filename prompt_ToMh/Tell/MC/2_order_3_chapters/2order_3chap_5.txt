@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Emily, Owen, Logan, Jacob and Carter entered the attic.
+2 The radish is in the red_drawer.
+3 Emily moved the radish to the green_crate.
+4 Emily exited the attic and stayed in the waiting_room.
+5 Owen made no movements and stayed in the attic for 10 minutes.
+6 Owen exited the attic and stayed in the waiting_room.
+7 Logan made no movements and stayed in the attic for 10 minutes.
+8 Logan exited the attic and stayed in the waiting_room.
+9 Jacob moved the radish to the blue_treasure_chest.
+10 Jacob exited the attic and stayed in the waiting_room.
+11 Carter moved the radish to the red_drawer.
+12 Carter exited the attic and stayed in the waiting_room.
+13 Logan privately told Emily that the radish is actually in the blue_treasure_chest.
+14 Owen privately told Jacob that the radish is actually in the red_drawer.
+15 Owen, Emily and Logan entered the master_bedroom.
+16 The apple is in the blue_bathtub.
+17 Owen moved the apple to the blue_bucket.
+18 Owen exited the master_bedroom and stayed in the waiting_room.
+19 Emily moved the apple to the green_bottle.
+20 Emily exited the master_bedroom and stayed in the waiting_room.
+21 Logan made no movements and stayed in the master_bedroom for 10 minutes.
+22 Logan exited the master_bedroom and stayed in the waiting_room.
+23 Jacob, Carter, Owen and Emily entered the attic.
+24 The radish is in the red_drawer.
+25 Jacob moved the radish to the blue_treasure_chest.
+26 Jacob exited the attic and stayed in the waiting_room.
+27 Carter moved the radish to the green_crate.
+28 Carter exited the attic and stayed in the waiting_room.
+29 Owen made no movements and stayed in the attic for 10 minutes.
+30 Owen exited the attic and stayed in the waiting_room.
+31 Emily moved the radish to the green_envelope.
+32 Emily exited the attic and stayed in the waiting_room.
+33 Carter publicly claimed that radish is in the green_crate.
+34 Emily privately told Owen that the radish is actually in the blue_treasure_chest.
+Question: Where does Carter think Jacob thinks the radish is?
+Choices: A. blue_suitcase, B. green_cupboard, C. green_container, D. red_bottle, E. blue_bottle, F. green_bottle, G. blue_bathtub, H. red_basket, I. red_treasure_chest, J. blue_bucket, K. red_drawer, L. red_suitcase, M. green_crate, N. green_envelope, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

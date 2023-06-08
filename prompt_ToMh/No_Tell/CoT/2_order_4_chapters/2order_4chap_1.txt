@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emily, William, Hannah, Ava and Gracie entered the TV_room.
+2 The beans is in the green_bathtub.
+3 Emily made no movements and stayed in the TV_room for 10 minutes.
+4 Emily exited the TV_room and stayed in the waiting_room.
+5 William moved the beans to the red_suitcase.
+6 William exited the TV_room and stayed in the waiting_room.
+7 Hannah moved the beans to the red_treasure_chest.
+8 Hannah exited the TV_room and stayed in the waiting_room.
+9 Ava moved the beans to the blue_container.
+10 Ava exited the TV_room and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the TV_room for 10 minutes.
+12 Gracie exited the TV_room and stayed in the waiting_room.
+13 Ava, Emily and Gracie entered the TV_room.
+14 The beans is in the blue_container.
+15 Ava moved the beans to the blue_bucket.
+16 Ava exited the TV_room and stayed in the waiting_room.
+17 Emily made no movements and stayed in the TV_room for 10 minutes.
+18 Emily exited the TV_room and stayed in the waiting_room.
+19 Gracie moved the beans to the red_treasure_chest.
+20 Gracie exited the TV_room and stayed in the waiting_room.
+21 Hannah, William, Emily and Ava entered the TV_room.
+22 The beans is in the red_treasure_chest.
+23 Hannah moved the beans to the blue_bucket.
+24 Hannah exited the TV_room and stayed in the waiting_room.
+25 William moved the beans to the green_bathtub.
+26 William exited the TV_room and stayed in the waiting_room.
+27 Emily moved the beans to the red_suitcase.
+28 Emily exited the TV_room and stayed in the waiting_room.
+29 Ava moved the beans to the blue_container.
+30 Ava exited the TV_room and stayed in the waiting_room.
+31 Ava and William entered the garage.
+32 The melon is in the green_cupboard.
+33 Ava moved the melon to the red_crate.
+34 Ava exited the garage and stayed in the waiting_room.
+35 William moved the melon to the blue_drawer.
+36 William exited the garage and stayed in the waiting_room.
+Question: Where does Hannah think William thinks the beans is?
+Choices: A. red_crate, B. green_cupboard, C. green_treasure_chest, D. green_crate, E. blue_drawer, F. green_bathtub, G. blue_container, H. red_treasure_chest, I. blue_bucket, J. red_suitcase, K. blue_pantry, L. blue_envelope, M. blue_basket, N. green_bottle, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Isabella, Liam, Emma, Lucas and Jayden entered the patio.
-2 The sweet_potato is in the red_basket.
-3 Isabella made no movements and stayed in the patio for 10 minutes.
-4 Isabella exited the patio and stayed in the waiting_room.
-5 Liam moved the sweet_potato to the red_bottle.
-6 Liam exited the patio and stayed in the waiting_room.
-7 Emma moved the sweet_potato to the red_container.
-8 Emma exited the patio and stayed in the waiting_room.
-9 Lucas moved the sweet_potato to the blue_suitcase.
-10 Lucas exited the patio and stayed in the waiting_room.
-11 Jayden made no movements and stayed in the patio for 10 minutes.
-12 Jayden exited the patio and stayed in the waiting_room.
-13 Emma, Lucas and Jayden entered the staircase.
-14 The grapes is in the blue_drawer.
-15 Emma made no movements and stayed in the staircase for 10 minutes.
-16 Emma exited the staircase and stayed in the waiting_room.
-17 Lucas made no movements and stayed in the staircase for 10 minutes.
-18 Lucas exited the staircase and stayed in the waiting_room.
-19 Jayden made no movements and stayed in the staircase for 10 minutes.
-20 Jayden exited the staircase and stayed in the waiting_room.
-21 Lucas privately told Jayden that the grapes is actually in the blue_bucket.
-22 Jayden privately told Isabella that the grapes is actually in the blue_drawer.
-Question: Where is the sweet_potato really?
-Choices: A. red_basket, B. red_bottle, C. green_cupboard, D. blue_suitcase, E. red_container, F. blue_bottle, G. blue_drawer, H. blue_bucket, I. green_bucket, J. red_treasure_chest, K. red_bucket, L. green_suitcase, M. red_bathtub, N. blue_crate, O. blue_cupboard
+1 Mia, Benjamin, Ethan, Mila and Ella entered the hall.
+2 The asparagus is in the green_crate.
+3 Mia made no movements and stayed in the hall for 10 minutes.
+4 Mia exited the hall and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the hall for 10 minutes.
+6 Benjamin exited the hall and stayed in the waiting_room.
+7 Ethan moved the asparagus to the green_bathtub.
+8 Ethan exited the hall and stayed in the waiting_room.
+9 Mila made no movements and stayed in the hall for 10 minutes.
+10 Mila exited the hall and stayed in the waiting_room.
+11 Ella moved the asparagus to the green_crate.
+12 Ella exited the hall and stayed in the waiting_room.
+13 Ella, Ethan and Mila entered the porch.
+14 The apple is in the blue_drawer.
+15 Ella moved the apple to the red_suitcase.
+16 Ella exited the porch and stayed in the waiting_room.
+17 Ethan made no movements and stayed in the porch for 10 minutes.
+18 Ethan exited the porch and stayed in the waiting_room.
+19 Mila moved the apple to the red_bathtub.
+20 Mila exited the porch and stayed in the waiting_room.
+21 Ella publicly claimed that apple is in the red_bathtub.
+22 Mila privately told Benjamin that the apple is actually in the red_bathtub.
+Question: Where is the asparagus really?
+Choices: A. red_bathtub, B. blue_drawer, C. blue_envelope, D. red_suitcase, E. blue_box, F. red_crate, G. red_basket, H. green_cupboard, I. blue_crate, J. red_container, K. green_crate, L. green_bathtub, M. blue_bucket, N. blue_basket, O. green_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

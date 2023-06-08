@@ -1,25 +1,25 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emily, Avery, Abigail, Isla and Elizabeth entered the attic.
-2 The pear is in the green_cupboard.
-3 Emily made no movements and stayed in the attic for 10 minutes.
-4 Emily exited the attic and stayed in the waiting_room.
-5 Avery made no movements and stayed in the attic for 10 minutes.
-6 Avery exited the attic and stayed in the waiting_room.
-7 Abigail made no movements and stayed in the attic for 10 minutes.
-8 Abigail exited the attic and stayed in the waiting_room.
-9 Isla moved the pear to the green_box.
-10 Isla exited the attic and stayed in the waiting_room.
-11 Elizabeth made no movements and stayed in the attic for 10 minutes.
-12 Elizabeth exited the attic and stayed in the waiting_room.
-13 Emily, Avery and Elizabeth entered the bedroom.
-14 The peas is in the red_cupboard.
-15 Emily made no movements and stayed in the bedroom for 10 minutes.
-16 Emily exited the bedroom and stayed in the waiting_room.
-17 Avery made no movements and stayed in the bedroom for 10 minutes.
-18 Avery exited the bedroom and stayed in the waiting_room.
-19 Elizabeth made no movements and stayed in the bedroom for 10 minutes.
-20 Elizabeth exited the bedroom and stayed in the waiting_room.
-Question: Where does Abigail think the pear is?
-Choices: A. red_basket, B. red_cupboard, C. blue_basket, D. green_treasure_chest, E. blue_cupboard, F. green_cupboard, G. red_bathtub, H. red_bottle, I. blue_suitcase, J. green_box, K. blue_crate, L. red_envelope, M. green_envelope, N. green_suitcase, O. red_box
+1 Ethan, Ella, Avery, Emma and Owen entered the cellar.
+2 The tomato is in the red_drawer.
+3 Ethan made no movements and stayed in the cellar for 10 minutes.
+4 Ethan exited the cellar and stayed in the waiting_room.
+5 Ella moved the tomato to the green_bathtub.
+6 Ella exited the cellar and stayed in the waiting_room.
+7 Avery moved the tomato to the blue_envelope.
+8 Avery exited the cellar and stayed in the waiting_room.
+9 Emma made no movements and stayed in the cellar for 10 minutes.
+10 Emma exited the cellar and stayed in the waiting_room.
+11 Owen moved the tomato to the red_drawer.
+12 Owen exited the cellar and stayed in the waiting_room.
+13 Owen, Avery and Emma entered the cellar.
+14 The asparagus is in the green_suitcase.
+15 Owen moved the asparagus to the blue_envelope.
+16 Owen exited the cellar and stayed in the waiting_room.
+17 Avery moved the asparagus to the red_drawer.
+18 Avery exited the cellar and stayed in the waiting_room.
+19 Emma moved the asparagus to the green_bathtub.
+20 Emma exited the cellar and stayed in the waiting_room.
+Question: Where does Ella think the tomato is?
+Choices: A. green_crate, B. blue_box, C. blue_drawer, D. green_envelope, E. green_bottle, F. red_bathtub, G. blue_bucket, H. green_treasure_chest, I. red_basket, J. blue_crate, K. green_suitcase, L. red_drawer, M. green_bathtub, N. red_bottle, O. blue_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

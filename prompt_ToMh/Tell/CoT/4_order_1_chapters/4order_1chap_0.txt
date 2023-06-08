@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emily, Ethan, Evelyn, Alexander and Nathan entered the back_yard.
-2 The banana is in the red_drawer.
-3 Emily moved the banana to the blue_crate.
-4 Emily exited the back_yard and stayed in the waiting_room.
-5 Ethan moved the banana to the green_bucket.
-6 Ethan exited the back_yard and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the back_yard for 10 minutes.
-8 Evelyn exited the back_yard and stayed in the waiting_room.
-9 Alexander made no movements and stayed in the back_yard for 10 minutes.
-10 Alexander exited the back_yard and stayed in the waiting_room.
-11 Nathan made no movements and stayed in the back_yard for 10 minutes.
-12 Nathan exited the back_yard and stayed in the waiting_room.
-13 Evelyn privately told Emily that the banana is actually in the red_bucket.
-14 Ethan privately told Alexander that the banana is actually in the green_envelope.
-Question: Where does Ethan think Emily thinks Evelyn thinks Nathan thinks the banana is?
-Choices: A. green_bottle, B. red_cupboard, C. red_basket, D. red_treasure_chest, E. green_drawer, F. red_drawer, G. green_bucket, H. green_envelope, I. red_bucket, J. blue_crate, K. blue_suitcase, L. blue_bucket, M. blue_cupboard, N. blue_bottle, O. red_bathtub
+1 Emma, Mila, Charlotte, Olivia and Avery entered the laundry.
+2 The spinach is in the red_drawer.
+3 Emma made no movements and stayed in the laundry for 10 minutes.
+4 Emma exited the laundry and stayed in the waiting_room.
+5 Mila moved the spinach to the blue_bathtub.
+6 Mila exited the laundry and stayed in the waiting_room.
+7 Charlotte moved the spinach to the red_bathtub.
+8 Charlotte exited the laundry and stayed in the waiting_room.
+9 Olivia made no movements and stayed in the laundry for 10 minutes.
+10 Olivia exited the laundry and stayed in the waiting_room.
+11 Avery made no movements and stayed in the laundry for 10 minutes.
+12 Avery exited the laundry and stayed in the waiting_room.
+13 Olivia publicly claimed that spinach is in the red_drawer.
+14 Avery privately told Emma that the spinach is actually in the red_bathtub.
+Question: Where does Emma think Olivia thinks Charlotte thinks Avery thinks the spinach is?
+Choices: A. red_bathtub, B. red_drawer, C. red_envelope, D. red_bucket, E. blue_bathtub, F. red_bottle, G. green_bathtub, H. blue_treasure_chest, I. blue_crate, J. red_basket, K. blue_container, L. blue_pantry, M. red_container, N. red_suitcase, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

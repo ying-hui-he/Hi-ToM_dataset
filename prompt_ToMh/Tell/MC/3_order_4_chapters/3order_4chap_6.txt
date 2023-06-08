@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, William, Owen, Jayden and Jack entered the hallway.
+2 The plum is in the red_bottle.
+3 Aiden made no movements and stayed in the hallway for 10 minutes.
+4 Aiden exited the hallway and stayed in the waiting_room.
+5 William moved the plum to the blue_box.
+6 William exited the hallway and stayed in the waiting_room.
+7 Owen moved the plum to the green_suitcase.
+8 Owen exited the hallway and stayed in the waiting_room.
+9 Jayden moved the plum to the red_bucket.
+10 Jayden exited the hallway and stayed in the waiting_room.
+11 Jack made no movements and stayed in the hallway for 10 minutes.
+12 Jack exited the hallway and stayed in the waiting_room.
+13 William, Owen and Jack entered the hallway.
+14 The onion is in the green_envelope.
+15 William made no movements and stayed in the hallway for 10 minutes.
+16 William exited the hallway and stayed in the waiting_room.
+17 Owen moved the onion to the red_bottle.
+18 Owen exited the hallway and stayed in the waiting_room.
+19 Jack moved the onion to the blue_box.
+20 Jack exited the hallway and stayed in the waiting_room.
+21 Owen privately told Jack that the onion is actually in the green_suitcase.
+22 Jack privately told Jayden that the onion is actually in the blue_box.
+23 Aiden, Owen, William and Jayden entered the workshop.
+24 The banana is in the red_envelope.
+25 Aiden made no movements and stayed in the workshop for 10 minutes.
+26 Aiden exited the workshop and stayed in the waiting_room.
+27 Owen made no movements and stayed in the workshop for 10 minutes.
+28 Owen exited the workshop and stayed in the waiting_room.
+29 William made no movements and stayed in the workshop for 10 minutes.
+30 William exited the workshop and stayed in the waiting_room.
+31 Jayden moved the banana to the red_suitcase.
+32 Jayden exited the workshop and stayed in the waiting_room.
+33 Owen and Jack entered the hallway.
+34 The plum is in the red_bucket.
+35 Owen moved the plum to the green_suitcase.
+36 Owen exited the hallway and stayed in the waiting_room.
+37 Jack moved the plum to the red_bottle.
+38 Jack exited the hallway and stayed in the waiting_room.
+39 Jack publicly claimed that plum is in the red_bucket.
+40 Owen privately told Jack that the plum is actually in the blue_box.
+Question: Where does Jayden think Jack thinks William thinks the plum is?
+Choices: A. red_bottle, B. green_envelope, C. red_bucket, D. green_suitcase, E. blue_box, F. red_envelope, G. red_suitcase, H. red_container, I. green_crate, J. green_container, K. blue_bottle, L. blue_envelope, M. red_bathtub, N. blue_bathtub, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

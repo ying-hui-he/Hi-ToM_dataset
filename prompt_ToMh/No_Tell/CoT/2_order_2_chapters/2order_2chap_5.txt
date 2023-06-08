@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Gracie, Emma, Isla, Ethan and William entered the dining_room.
+2 The lime is in the red_drawer.
+3 Gracie moved the lime to the green_treasure_chest.
+4 Gracie exited the dining_room and stayed in the waiting_room.
+5 Emma moved the lime to the red_bucket.
+6 Emma exited the dining_room and stayed in the waiting_room.
+7 Isla made no movements and stayed in the dining_room for 10 minutes.
+8 Isla exited the dining_room and stayed in the waiting_room.
+9 Ethan moved the lime to the blue_bottle.
+10 Ethan exited the dining_room and stayed in the waiting_room.
+11 William moved the lime to the red_drawer.
+12 William exited the dining_room and stayed in the waiting_room.
+13 Isla, Emma and William entered the dining_room.
+14 The orange is in the blue_bottle.
+15 Isla made no movements and stayed in the dining_room for 10 minutes.
+16 Isla exited the dining_room and stayed in the waiting_room.
+17 Emma moved the orange to the red_drawer.
+18 Emma exited the dining_room and stayed in the waiting_room.
+19 William moved the orange to the green_treasure_chest.
+20 William exited the dining_room and stayed in the waiting_room.
+Question: Where does Emma think Isla thinks the lime is?
+Choices: A. green_bottle, B. blue_pantry, C. red_container, D. green_bathtub, E. green_cupboard, F. blue_bottle, G. red_drawer, H. green_treasure_chest, I. red_bucket, J. red_treasure_chest, K. blue_drawer, L. red_bathtub, M. red_crate, N. blue_treasure_chest, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

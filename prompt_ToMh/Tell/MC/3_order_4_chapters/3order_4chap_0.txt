@@ -1,44 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Sophia, Jackson, Jayden, Lily and Gracie entered the master_bedroom.
-2 The peach is in the red_cupboard.
-3 Sophia made no movements and stayed in the master_bedroom for 10 minutes.
-4 Sophia exited the master_bedroom and stayed in the waiting_room.
-5 Jackson moved the peach to the blue_crate.
-6 Jackson exited the master_bedroom and stayed in the waiting_room.
-7 Jayden moved the peach to the blue_box.
-8 Jayden exited the master_bedroom and stayed in the waiting_room.
-9 Lily moved the peach to the red_drawer.
-10 Lily exited the master_bedroom and stayed in the waiting_room.
-11 Gracie moved the peach to the red_cupboard.
-12 Gracie exited the master_bedroom and stayed in the waiting_room.
-13 Jackson, Gracie and Lily entered the hall.
-14 The pineapple is in the red_treasure_chest.
-15 Jackson moved the pineapple to the green_bathtub.
-16 Jackson exited the hall and stayed in the waiting_room.
-17 Gracie made no movements and stayed in the hall for 10 minutes.
-18 Gracie exited the hall and stayed in the waiting_room.
-19 Lily made no movements and stayed in the hall for 10 minutes.
-20 Lily exited the hall and stayed in the waiting_room.
-21 Gracie privately told Lily that the pineapple is actually in the red_treasure_chest.
-22 Lily privately told Sophia that the pineapple is actually in the green_bathtub.
-23 Jayden, Jackson, Lily and Gracie entered the hall.
-24 The pineapple is in the green_bathtub.
-25 Jayden made no movements and stayed in the hall for 10 minutes.
-26 Jayden exited the hall and stayed in the waiting_room.
-27 Jackson made no movements and stayed in the hall for 10 minutes.
-28 Jackson exited the hall and stayed in the waiting_room.
-29 Lily made no movements and stayed in the hall for 10 minutes.
-30 Lily exited the hall and stayed in the waiting_room.
-31 Gracie made no movements and stayed in the hall for 10 minutes.
-32 Gracie exited the hall and stayed in the waiting_room.
-33 Jackson and Sophia entered the basement.
-34 The banana is in the red_envelope.
-35 Jackson moved the banana to the green_box.
-36 Jackson exited the basement and stayed in the waiting_room.
-37 Sophia moved the banana to the red_bathtub.
-38 Sophia exited the basement and stayed in the waiting_room.
-39 Jackson privately told Gracie that the banana is actually in the green_box.
-Question: Where does Lily think Jayden thinks Sophia thinks the peach is?
-Choices: A. red_envelope, B. red_basket, C. red_container, D. red_bathtub, E. green_box, F. blue_bottle, G. red_treasure_chest, H. blue_basket, I. blue_container, J. green_bathtub, K. red_cupboard, L. red_drawer, M. blue_crate, N. green_envelope, O. blue_box
+1 Avery, Hannah, Evelyn, Gracie and Noah entered the cellar.
+2 The melon is in the blue_drawer.
+3 Avery moved the melon to the green_suitcase.
+4 Avery exited the cellar and stayed in the waiting_room.
+5 Hannah moved the melon to the red_basket.
+6 Hannah exited the cellar and stayed in the waiting_room.
+7 Evelyn moved the melon to the blue_bucket.
+8 Evelyn exited the cellar and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the cellar for 10 minutes.
+10 Gracie exited the cellar and stayed in the waiting_room.
+11 Noah made no movements and stayed in the cellar for 10 minutes.
+12 Noah exited the cellar and stayed in the waiting_room.
+13 Evelyn, Gracie and Noah entered the porch.
+14 The lime is in the red_envelope.
+15 Evelyn made no movements and stayed in the porch for 10 minutes.
+16 Evelyn exited the porch and stayed in the waiting_room.
+17 Gracie made no movements and stayed in the porch for 10 minutes.
+18 Gracie exited the porch and stayed in the waiting_room.
+19 Noah made no movements and stayed in the porch for 10 minutes.
+20 Noah exited the porch and stayed in the waiting_room.
+21 Evelyn publicly claimed that lime is in the green_crate.
+22 Noah privately told Hannah that the lime is actually in the red_envelope.
+23 Avery, Gracie, Evelyn and Noah entered the TV_room.
+24 The tangerine is in the green_bathtub.
+25 Avery moved the tangerine to the green_treasure_chest.
+26 Avery exited the TV_room and stayed in the waiting_room.
+27 Gracie moved the tangerine to the blue_basket.
+28 Gracie exited the TV_room and stayed in the waiting_room.
+29 Evelyn made no movements and stayed in the TV_room for 10 minutes.
+30 Evelyn exited the TV_room and stayed in the waiting_room.
+31 Noah made no movements and stayed in the TV_room for 10 minutes.
+32 Noah exited the TV_room and stayed in the waiting_room.
+33 Gracie and Noah entered the TV_room.
+34 The lettuce is in the red_suitcase.
+35 Gracie made no movements and stayed in the TV_room for 10 minutes.
+36 Gracie exited the TV_room and stayed in the waiting_room.
+37 Noah made no movements and stayed in the TV_room for 10 minutes.
+38 Noah exited the TV_room and stayed in the waiting_room.
+39 Gracie publicly claimed that lettuce is in the green_treasure_chest.
+40 Noah privately told Gracie that the lettuce is actually in the blue_basket.
+Question: Where does Evelyn think Noah thinks Gracie thinks the melon is?
+Choices: A. blue_drawer, B. red_basket, C. blue_bucket, D. green_suitcase, E. red_treasure_chest, F. green_crate, G. red_envelope, H. blue_treasure_chest, I. green_envelope, J. blue_suitcase, K. green_bathtub, L. red_suitcase, M. red_bathtub, N. blue_basket, O. green_treasure_chest
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Aiden, Benjamin, Emma and Evelyn entered the study.
+2 The banana is in the green_envelope.
+3 Avery moved the banana to the red_suitcase.
+4 Avery exited the study and stayed in the waiting_room.
+5 Aiden moved the banana to the red_crate.
+6 Aiden exited the study and stayed in the waiting_room.
+7 Benjamin moved the banana to the red_drawer.
+8 Benjamin exited the study and stayed in the waiting_room.
+9 Emma moved the banana to the blue_drawer.
+10 Emma exited the study and stayed in the waiting_room.
+11 Evelyn made no movements and stayed in the study for 10 minutes.
+12 Evelyn exited the study and stayed in the waiting_room.
+13 Avery, Evelyn and Emma entered the study.
+14 The banana is in the blue_drawer.
+15 Avery moved the banana to the red_drawer.
+16 Avery exited the study and stayed in the waiting_room.
+17 Evelyn made no movements and stayed in the study for 10 minutes.
+18 Evelyn exited the study and stayed in the waiting_room.
+19 Emma moved the banana to the red_suitcase.
+20 Emma exited the study and stayed in the waiting_room.
+Question: Where does Benjamin think Aiden thinks the banana is?
+Choices: A. red_drawer, B. green_envelope, C. red_crate, D. blue_drawer, E. red_suitcase, F. green_bottle, G. blue_suitcase, H. red_container, I. blue_crate, J. red_basket, K. red_envelope, L. green_cupboard, M. green_container, N. blue_basket, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

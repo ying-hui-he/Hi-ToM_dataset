@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aiden, Abigail, Noah, William and Evelyn entered the TV_room.
+2 The asparagus is in the blue_treasure_chest.
+3 Aiden moved the asparagus to the blue_container.
+4 Aiden exited the TV_room and stayed in the waiting_room.
+5 Abigail moved the asparagus to the blue_bucket.
+6 Abigail exited the TV_room and stayed in the waiting_room.
+7 Noah made no movements and stayed in the TV_room for 10 minutes.
+8 Noah exited the TV_room and stayed in the waiting_room.
+9 William made no movements and stayed in the TV_room for 10 minutes.
+10 William exited the TV_room and stayed in the waiting_room.
+11 Evelyn made no movements and stayed in the TV_room for 10 minutes.
+12 Evelyn exited the TV_room and stayed in the waiting_room.
+13 Noah privately told Aiden that the asparagus is actually in the red_bucket.
+14 Abigail privately told William that the asparagus is actually in the blue_basket.
+Question: Where does Evelyn think William thinks Noah thinks Aiden thinks the asparagus is?
+Choices: A. red_basket, B. blue_suitcase, C. red_container, D. blue_bottle, E. red_crate, F. red_suitcase, G. green_bathtub, H. green_container, I. blue_envelope, J. blue_bathtub, K. blue_treasure_chest, L. blue_bucket, M. red_bucket, N. blue_basket, O. blue_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

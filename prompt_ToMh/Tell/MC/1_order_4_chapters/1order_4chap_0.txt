@@ -1,45 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Lucas, Gracie, Hannah, Emma and Liam entered the bedroom.
-2 The sweet_potato is in the green_treasure_chest.
-3 Lucas made no movements and stayed in the bedroom for 10 minutes.
-4 Lucas exited the bedroom and stayed in the waiting_room.
-5 Gracie moved the sweet_potato to the red_bathtub.
-6 Gracie exited the bedroom and stayed in the waiting_room.
-7 Hannah moved the sweet_potato to the green_pantry.
-8 Hannah exited the bedroom and stayed in the waiting_room.
-9 Emma moved the sweet_potato to the blue_bottle.
-10 Emma exited the bedroom and stayed in the waiting_room.
-11 Liam moved the sweet_potato to the green_treasure_chest.
-12 Liam exited the bedroom and stayed in the waiting_room.
-13 Hannah, Emma and Lucas entered the bedroom.
-14 The sweet_potato is in the green_treasure_chest.
-15 Hannah made no movements and stayed in the bedroom for 10 minutes.
-16 Hannah exited the bedroom and stayed in the waiting_room.
-17 Emma made no movements and stayed in the bedroom for 10 minutes.
-18 Emma exited the bedroom and stayed in the waiting_room.
-19 Lucas moved the sweet_potato to the green_pantry.
-20 Lucas exited the bedroom and stayed in the waiting_room.
-21 Hannah publicly claimed that sweet_potato is in the green_treasure_chest.
-22 Lucas privately told Liam that the sweet_potato is actually in the green_pantry.
-23 Emma, Liam, Lucas and Hannah entered the bedroom.
-24 The potato is in the blue_drawer.
-25 Emma made no movements and stayed in the bedroom for 10 minutes.
-26 Emma exited the bedroom and stayed in the waiting_room.
-27 Liam moved the potato to the green_treasure_chest.
-28 Liam exited the bedroom and stayed in the waiting_room.
-29 Lucas made no movements and stayed in the bedroom for 10 minutes.
-30 Lucas exited the bedroom and stayed in the waiting_room.
-31 Hannah made no movements and stayed in the bedroom for 10 minutes.
-32 Hannah exited the bedroom and stayed in the waiting_room.
-33 Emma and Liam entered the living_room.
-34 The cherry is in the red_treasure_chest.
-35 Emma made no movements and stayed in the living_room for 10 minutes.
-36 Emma exited the living_room and stayed in the waiting_room.
-37 Liam made no movements and stayed in the living_room for 10 minutes.
-38 Liam exited the living_room and stayed in the waiting_room.
-39 Liam publicly claimed that cherry is in the blue_suitcase.
-40 Emma privately told Liam that the cherry is actually in the red_treasure_chest.
-Question: Where does Emma think the sweet_potato is?
-Choices: A. red_treasure_chest, B. blue_container, C. red_bucket, D. red_cupboard, E. blue_suitcase, F. blue_box, G. red_container, H. blue_basket, I. green_cupboard, J. green_bottle, K. blue_drawer, L. green_treasure_chest, M. red_bathtub, N. green_pantry, O. blue_bottle
+1 Avery, Gracie, Carter, Hannah and Mila entered the hallway.
+2 The peach is in the blue_drawer.
+3 Avery made no movements and stayed in the hallway for 10 minutes.
+4 Avery exited the hallway and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the hallway for 10 minutes.
+6 Gracie exited the hallway and stayed in the waiting_room.
+7 Carter moved the peach to the green_crate.
+8 Carter exited the hallway and stayed in the waiting_room.
+9 Hannah moved the peach to the red_container.
+10 Hannah exited the hallway and stayed in the waiting_room.
+11 Mila made no movements and stayed in the hallway for 10 minutes.
+12 Mila exited the hallway and stayed in the waiting_room.
+13 Carter, Gracie and Avery entered the den.
+14 The melon is in the red_drawer.
+15 Carter made no movements and stayed in the den for 10 minutes.
+16 Carter exited the den and stayed in the waiting_room.
+17 Gracie moved the melon to the red_bucket.
+18 Gracie exited the den and stayed in the waiting_room.
+19 Avery moved the melon to the blue_box.
+20 Avery exited the den and stayed in the waiting_room.
+21 Avery publicly claimed that melon is in the green_container.
+22 Carter privately told Avery that the melon is actually in the blue_box.
+23 Hannah, Gracie, Carter and Avery entered the playroom.
+24 The lettuce is in the blue_suitcase.
+25 Hannah made no movements and stayed in the playroom for 10 minutes.
+26 Hannah exited the playroom and stayed in the waiting_room.
+27 Gracie made no movements and stayed in the playroom for 10 minutes.
+28 Gracie exited the playroom and stayed in the waiting_room.
+29 Carter moved the lettuce to the blue_basket.
+30 Carter exited the playroom and stayed in the waiting_room.
+31 Avery made no movements and stayed in the playroom for 10 minutes.
+32 Avery exited the playroom and stayed in the waiting_room.
+33 Hannah and Gracie entered the hallway.
+34 The green_pepper is in the green_crate.
+35 Hannah made no movements and stayed in the hallway for 10 minutes.
+36 Hannah exited the hallway and stayed in the waiting_room.
+37 Gracie made no movements and stayed in the hallway for 10 minutes.
+38 Gracie exited the hallway and stayed in the waiting_room.
+39 Hannah publicly claimed that green_pepper is in the red_treasure_chest.
+40 Gracie privately told Hannah that the green_pepper is actually in the green_crate.
+Question: Where does Carter think the peach is?
+Choices: A. red_drawer, B. blue_box, C. green_container, D. red_bucket, E. blue_bucket, F. blue_drawer, G. green_crate, H. red_treasure_chest, I. red_container, J. red_bathtub, K. red_envelope, L. blue_suitcase, M. blue_basket, N. red_basket, O. green_envelope
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

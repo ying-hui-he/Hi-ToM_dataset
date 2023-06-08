@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Logan, Emma, Ethan and Hannah entered the bedroom.
-2 The pear is in the blue_basket.
-3 Mila made no movements and stayed in the bedroom for 10 minutes.
-4 Mila exited the bedroom and stayed in the waiting_room.
-5 Logan made no movements and stayed in the bedroom for 10 minutes.
-6 Logan exited the bedroom and stayed in the waiting_room.
-7 Emma moved the pear to the red_cupboard.
-8 Emma exited the bedroom and stayed in the waiting_room.
-9 Ethan made no movements and stayed in the bedroom for 10 minutes.
-10 Ethan exited the bedroom and stayed in the waiting_room.
-11 Hannah moved the pear to the blue_basket.
-12 Hannah exited the bedroom and stayed in the waiting_room.
-13 Emma publicly claimed that pear is in the blue_suitcase.
-14 Hannah privately told Emma that the pear is actually in the red_cupboard.
-Question: Where does Ethan think Emma thinks Logan thinks Hannah thinks the pear is?
-Choices: A. blue_container, B. green_bathtub, C. blue_drawer, D. green_envelope, E. green_pantry, F. red_cupboard, G. blue_basket, H. red_basket, I. green_suitcase, J. blue_suitcase, K. blue_treasure_chest, L. red_container, M. red_drawer, N. red_envelope, O. blue_crate
+1 Isla, Aiden, Noah, Carter and Olivia entered the bathroom.
+2 The orange is in the green_cupboard.
+3 Isla made no movements and stayed in the bathroom for 10 minutes.
+4 Isla exited the bathroom and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the bathroom for 10 minutes.
+6 Aiden exited the bathroom and stayed in the waiting_room.
+7 Noah made no movements and stayed in the bathroom for 10 minutes.
+8 Noah exited the bathroom and stayed in the waiting_room.
+9 Carter moved the orange to the green_treasure_chest.
+10 Carter exited the bathroom and stayed in the waiting_room.
+11 Olivia moved the orange to the green_cupboard.
+12 Olivia exited the bathroom and stayed in the waiting_room.
+13 Noah publicly claimed that orange is in the green_treasure_chest.
+14 Olivia privately told Noah that the orange is actually in the blue_pantry.
+Question: Where does Carter think Isla thinks Olivia thinks Aiden thinks the orange is?
+Choices: A. green_bathtub, B. blue_suitcase, C. red_crate, D. blue_box, E. green_bottle, F. green_envelope, G. red_drawer, H. red_bottle, I. blue_bathtub, J. red_container, K. blue_basket, L. green_cupboard, M. blue_container, N. green_treasure_chest, O. blue_pantry
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

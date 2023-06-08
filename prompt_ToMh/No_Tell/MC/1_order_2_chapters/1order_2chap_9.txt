@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Charlotte, Jacob, Evelyn and Hannah entered the living_room.
+2 The cherry is in the blue_box.
+3 Mila made no movements and stayed in the living_room for 10 minutes.
+4 Mila exited the living_room and stayed in the waiting_room.
+5 Charlotte made no movements and stayed in the living_room for 10 minutes.
+6 Charlotte exited the living_room and stayed in the waiting_room.
+7 Jacob made no movements and stayed in the living_room for 10 minutes.
+8 Jacob exited the living_room and stayed in the waiting_room.
+9 Evelyn made no movements and stayed in the living_room for 10 minutes.
+10 Evelyn exited the living_room and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the living_room for 10 minutes.
+12 Hannah exited the living_room and stayed in the waiting_room.
+13 Evelyn, Hannah and Charlotte entered the living_room.
+14 The peach is in the red_basket.
+15 Evelyn moved the peach to the blue_box.
+16 Evelyn exited the living_room and stayed in the waiting_room.
+17 Hannah made no movements and stayed in the living_room for 10 minutes.
+18 Hannah exited the living_room and stayed in the waiting_room.
+19 Charlotte moved the peach to the green_cupboard.
+20 Charlotte exited the living_room and stayed in the waiting_room.
+Question: Where does Evelyn think the cherry is?
+Choices: A. blue_bottle, B. red_bottle, C. green_suitcase, D. red_treasure_chest, E. red_suitcase, F. blue_box, G. red_basket, H. blue_container, I. red_bucket, J. green_cupboard, K. red_container, L. blue_treasure_chest, M. blue_crate, N. green_bathtub, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

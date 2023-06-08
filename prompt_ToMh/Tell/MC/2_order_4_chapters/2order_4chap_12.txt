@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Charlotte, Isla, Gracie and Ethan entered the pantry.
+2 The potato is in the red_bathtub.
+3 Aiden made no movements and stayed in the pantry for 10 minutes.
+4 Aiden exited the pantry and stayed in the waiting_room.
+5 Charlotte moved the potato to the red_treasure_chest.
+6 Charlotte exited the pantry and stayed in the waiting_room.
+7 Isla made no movements and stayed in the pantry for 10 minutes.
+8 Isla exited the pantry and stayed in the waiting_room.
+9 Gracie moved the potato to the blue_bottle.
+10 Gracie exited the pantry and stayed in the waiting_room.
+11 Ethan moved the potato to the red_bathtub.
+12 Ethan exited the pantry and stayed in the waiting_room.
+13 Aiden, Gracie and Ethan entered the crawlspace.
+14 The banana is in the green_treasure_chest.
+15 Aiden made no movements and stayed in the crawlspace for 10 minutes.
+16 Aiden exited the crawlspace and stayed in the waiting_room.
+17 Gracie moved the banana to the blue_basket.
+18 Gracie exited the crawlspace and stayed in the waiting_room.
+19 Ethan moved the banana to the red_bucket.
+20 Ethan exited the crawlspace and stayed in the waiting_room.
+21 Ethan publicly claimed that banana is in the green_treasure_chest.
+22 Aiden privately told Ethan that the banana is actually in the red_bucket.
+23 Isla, Charlotte, Aiden and Ethan entered the crawlspace.
+24 The lettuce is in the blue_pantry.
+25 Isla moved the lettuce to the blue_basket.
+26 Isla exited the crawlspace and stayed in the waiting_room.
+27 Charlotte moved the lettuce to the green_treasure_chest.
+28 Charlotte exited the crawlspace and stayed in the waiting_room.
+29 Aiden moved the lettuce to the red_bottle.
+30 Aiden exited the crawlspace and stayed in the waiting_room.
+31 Ethan moved the lettuce to the red_bucket.
+32 Ethan exited the crawlspace and stayed in the waiting_room.
+33 Aiden and Ethan entered the pantry.
+34 The strawberry is in the blue_drawer.
+35 Aiden made no movements and stayed in the pantry for 10 minutes.
+36 Aiden exited the pantry and stayed in the waiting_room.
+37 Ethan made no movements and stayed in the pantry for 10 minutes.
+38 Ethan exited the pantry and stayed in the waiting_room.
+39 Aiden privately told Gracie that the strawberry is actually in the blue_drawer.
+Question: Where does Gracie think Isla thinks the potato is?
+Choices: A. blue_drawer, B. red_bathtub, C. blue_bottle, D. red_suitcase, E. red_treasure_chest, F. blue_bucket, G. green_bottle, H. red_drawer, I. blue_crate, J. blue_envelope, K. green_treasure_chest, L. blue_pantry, M. red_bottle, N. red_bucket, O. blue_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

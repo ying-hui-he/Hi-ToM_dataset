@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Emma, Logan, James, Olivia and Owen entered the playroom.
+2 The pineapple is in the blue_envelope.
+3 Emma moved the pineapple to the green_bathtub.
+4 Emma exited the playroom and stayed in the waiting_room.
+5 Logan made no movements and stayed in the playroom for 10 minutes.
+6 Logan exited the playroom and stayed in the waiting_room.
+7 James made no movements and stayed in the playroom for 10 minutes.
+8 James exited the playroom and stayed in the waiting_room.
+9 Olivia moved the pineapple to the red_crate.
+10 Olivia exited the playroom and stayed in the waiting_room.
+11 Owen moved the pineapple to the blue_envelope.
+12 Owen exited the playroom and stayed in the waiting_room.
+13 James, Logan and Owen entered the study.
+14 The plum is in the blue_bucket.
+15 James moved the plum to the red_bathtub.
+16 James exited the study and stayed in the waiting_room.
+17 Logan moved the plum to the blue_treasure_chest.
+18 Logan exited the study and stayed in the waiting_room.
+19 Owen moved the plum to the blue_container.
+20 Owen exited the study and stayed in the waiting_room.
+21 James publicly claimed that plum is in the blue_container.
+22 Owen privately told Emma that the plum is actually in the blue_container.
+23 James, Logan, Emma and Owen entered the playroom.
+24 The pineapple is in the blue_envelope.
+25 James made no movements and stayed in the playroom for 10 minutes.
+26 James exited the playroom and stayed in the waiting_room.
+27 Logan made no movements and stayed in the playroom for 10 minutes.
+28 Logan exited the playroom and stayed in the waiting_room.
+29 Emma made no movements and stayed in the playroom for 10 minutes.
+30 Emma exited the playroom and stayed in the waiting_room.
+31 Owen made no movements and stayed in the playroom for 10 minutes.
+32 Owen exited the playroom and stayed in the waiting_room.
+33 James and Logan entered the study.
+34 The plum is in the blue_container.
+35 James moved the plum to the blue_bucket.
+36 James exited the study and stayed in the waiting_room.
+37 Logan made no movements and stayed in the study for 10 minutes.
+38 Logan exited the study and stayed in the waiting_room.
+39 Logan publicly claimed that plum is in the blue_suitcase.
+40 James privately told Logan that the plum is actually in the blue_treasure_chest.
+Question: Where is the pineapple really?
+Answer: blue_envelope
+Choices: A. red_basket, B. red_drawer, C. blue_box, D. green_crate, E. blue_basket, F. red_crate, G. blue_envelope, H. blue_bottle, I. green_container, J. green_bathtub, K. blue_bucket, L. blue_container, M. blue_treasure_chest, N. red_bathtub, O. blue_suitcase

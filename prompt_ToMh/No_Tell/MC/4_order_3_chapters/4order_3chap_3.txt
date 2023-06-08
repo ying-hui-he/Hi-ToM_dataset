@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, Benjamin, Mia, Oliver and Amelia entered the master_bedroom.
+2 The tomato is in the red_bathtub.
+3 Logan moved the tomato to the blue_treasure_chest.
+4 Logan exited the master_bedroom and stayed in the waiting_room.
+5 Benjamin moved the tomato to the green_cupboard.
+6 Benjamin exited the master_bedroom and stayed in the waiting_room.
+7 Mia moved the tomato to the blue_basket.
+8 Mia exited the master_bedroom and stayed in the waiting_room.
+9 Oliver moved the tomato to the green_treasure_chest.
+10 Oliver exited the master_bedroom and stayed in the waiting_room.
+11 Amelia moved the tomato to the red_bathtub.
+12 Amelia exited the master_bedroom and stayed in the waiting_room.
+13 Oliver, Benjamin and Mia entered the back_yard.
+14 The spinach is in the blue_envelope.
+15 Oliver made no movements and stayed in the back_yard for 10 minutes.
+16 Oliver exited the back_yard and stayed in the waiting_room.
+17 Benjamin made no movements and stayed in the back_yard for 10 minutes.
+18 Benjamin exited the back_yard and stayed in the waiting_room.
+19 Mia made no movements and stayed in the back_yard for 10 minutes.
+20 Mia exited the back_yard and stayed in the waiting_room.
+21 Benjamin, Amelia, Oliver and Logan entered the pantry.
+22 The peach is in the green_bathtub.
+23 Benjamin moved the peach to the red_bottle.
+24 Benjamin exited the pantry and stayed in the waiting_room.
+25 Amelia moved the peach to the green_container.
+26 Amelia exited the pantry and stayed in the waiting_room.
+27 Oliver made no movements and stayed in the pantry for 10 minutes.
+28 Oliver exited the pantry and stayed in the waiting_room.
+29 Logan made no movements and stayed in the pantry for 10 minutes.
+30 Logan exited the pantry and stayed in the waiting_room.
+Question: Where does Oliver think Benjamin thinks Mia thinks Amelia thinks the tomato is?
+Choices: A. green_envelope, B. blue_envelope, C. blue_bucket, D. red_basket, E. blue_bathtub, F. red_bottle, G. green_bathtub, H. blue_suitcase, I. green_container, J. red_crate, K. blue_basket, L. red_bathtub, M. green_cupboard, N. blue_treasure_chest, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

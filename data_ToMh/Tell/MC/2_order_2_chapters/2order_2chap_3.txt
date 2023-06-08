@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Jacob, Emily, Carter and Logan entered the kitchen.
+2 The persimmon is in the blue_container.
+3 Owen made no movements and stayed in the kitchen for 10 minutes.
+4 Owen exited the kitchen and stayed in the waiting_room.
+5 Jacob moved the persimmon to the blue_suitcase.
+6 Jacob exited the kitchen and stayed in the waiting_room.
+7 Emily moved the persimmon to the blue_envelope.
+8 Emily exited the kitchen and stayed in the waiting_room.
+9 Carter moved the persimmon to the red_drawer.
+10 Carter exited the kitchen and stayed in the waiting_room.
+11 Logan moved the persimmon to the blue_container.
+12 Logan exited the kitchen and stayed in the waiting_room.
+13 Owen, Carter and Logan entered the bedroom.
+14 The melon is in the red_crate.
+15 Owen moved the melon to the red_bucket.
+16 Owen exited the bedroom and stayed in the waiting_room.
+17 Carter moved the melon to the green_crate.
+18 Carter exited the bedroom and stayed in the waiting_room.
+19 Logan moved the melon to the blue_treasure_chest.
+20 Logan exited the bedroom and stayed in the waiting_room.
+21 Carter privately told Logan that the melon is actually in the blue_treasure_chest.
+22 Logan privately told Jacob that the melon is actually in the blue_treasure_chest.
+Question: Where does Owen think Carter thinks the persimmon is?
+Answer: blue_container
+Choices: A. blue_bucket, B. blue_container, C. blue_suitcase, D. blue_envelope, E. red_drawer, F. red_crate, G. blue_treasure_chest, H. green_crate, I. blue_drawer, J. red_bucket, K. red_envelope, L. blue_basket, M. green_container, N. green_bottle, O. red_container

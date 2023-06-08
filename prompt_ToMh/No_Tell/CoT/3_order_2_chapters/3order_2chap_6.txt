@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Carter, Aiden, Ethan and Emma entered the bedroom.
+2 The persimmon is in the red_suitcase.
+3 Aria moved the persimmon to the blue_container.
+4 Aria exited the bedroom and stayed in the waiting_room.
+5 Carter made no movements and stayed in the bedroom for 10 minutes.
+6 Carter exited the bedroom and stayed in the waiting_room.
+7 Aiden moved the persimmon to the green_suitcase.
+8 Aiden exited the bedroom and stayed in the waiting_room.
+9 Ethan moved the persimmon to the red_treasure_chest.
+10 Ethan exited the bedroom and stayed in the waiting_room.
+11 Emma moved the persimmon to the red_suitcase.
+12 Emma exited the bedroom and stayed in the waiting_room.
+13 Carter, Aria and Emma entered the garage.
+14 The pear is in the blue_drawer.
+15 Carter made no movements and stayed in the garage for 10 minutes.
+16 Carter exited the garage and stayed in the waiting_room.
+17 Aria moved the pear to the red_drawer.
+18 Aria exited the garage and stayed in the waiting_room.
+19 Emma made no movements and stayed in the garage for 10 minutes.
+20 Emma exited the garage and stayed in the waiting_room.
+Question: Where does Aiden think Carter thinks Emma thinks the persimmon is?
+Choices: A. blue_container, B. red_suitcase, C. red_treasure_chest, D. blue_pantry, E. green_suitcase, F. green_container, G. red_bottle, H. blue_bathtub, I. green_treasure_chest, J. green_bottle, K. blue_envelope, L. blue_drawer, M. red_drawer, N. red_crate, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Gracie, Emily, Carter, Hannah and Oliver entered the cellar.
+2 The strawberry is in the green_treasure_chest.
+3 Gracie moved the strawberry to the red_container.
+4 Gracie exited the cellar and stayed in the waiting_room.
+5 Emily moved the strawberry to the blue_box.
+6 Emily exited the cellar and stayed in the waiting_room.
+7 Carter made no movements and stayed in the cellar for 10 minutes.
+8 Carter exited the cellar and stayed in the waiting_room.
+9 Hannah moved the strawberry to the blue_envelope.
+10 Hannah exited the cellar and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the cellar for 10 minutes.
+12 Oliver exited the cellar and stayed in the waiting_room.
+13 Carter, Oliver and Hannah entered the den.
+14 The spinach is in the green_bottle.
+15 Carter made no movements and stayed in the den for 10 minutes.
+16 Carter exited the den and stayed in the waiting_room.
+17 Oliver moved the spinach to the blue_basket.
+18 Oliver exited the den and stayed in the waiting_room.
+19 Hannah made no movements and stayed in the den for 10 minutes.
+20 Hannah exited the den and stayed in the waiting_room.
+21 Oliver publicly claimed that spinach is in the blue_basket.
+22 Hannah privately told Oliver that the spinach is actually in the blue_suitcase.
+23 Gracie, Oliver, Emily and Hannah entered the den.
+24 The banana is in the blue_suitcase.
+25 Gracie moved the banana to the blue_drawer.
+26 Gracie exited the den and stayed in the waiting_room.
+27 Oliver moved the banana to the red_treasure_chest.
+28 Oliver exited the den and stayed in the waiting_room.
+29 Emily made no movements and stayed in the den for 10 minutes.
+30 Emily exited the den and stayed in the waiting_room.
+31 Hannah moved the banana to the blue_basket.
+32 Hannah exited the den and stayed in the waiting_room.
+33 Carter and Gracie entered the cellar.
+34 The plum is in the blue_envelope.
+35 Carter made no movements and stayed in the cellar for 10 minutes.
+36 Carter exited the cellar and stayed in the waiting_room.
+37 Gracie moved the plum to the blue_box.
+38 Gracie exited the cellar and stayed in the waiting_room.
+39 Gracie publicly claimed that plum is in the blue_envelope.
+40 Carter privately told Gracie that the plum is actually in the blue_box.
+Question: Where is the strawberry really?
+Answer: blue_envelope
+Choices: A. green_bottle, B. blue_suitcase, C. red_treasure_chest, D. blue_basket, E. blue_drawer, F. red_suitcase, G. green_crate, H. blue_pantry, I. green_cupboard, J. blue_treasure_chest, K. blue_envelope, L. green_treasure_chest, M. blue_box, N. blue_crate, O. red_container

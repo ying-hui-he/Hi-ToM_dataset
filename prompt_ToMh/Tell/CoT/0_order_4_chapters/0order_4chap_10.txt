@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Jackson, Jayden, Carter and Gracie entered the lounge.
+2 The peach is in the red_crate.
+3 Aria made no movements and stayed in the lounge for 10 minutes.
+4 Aria exited the lounge and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the lounge for 10 minutes.
+6 Jackson exited the lounge and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the lounge for 10 minutes.
+8 Jayden exited the lounge and stayed in the waiting_room.
+9 Carter moved the peach to the red_envelope.
+10 Carter exited the lounge and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the lounge for 10 minutes.
+12 Gracie exited the lounge and stayed in the waiting_room.
+13 Carter, Aria and Jackson entered the lounge.
+14 The plum is in the green_treasure_chest.
+15 Carter made no movements and stayed in the lounge for 10 minutes.
+16 Carter exited the lounge and stayed in the waiting_room.
+17 Aria made no movements and stayed in the lounge for 10 minutes.
+18 Aria exited the lounge and stayed in the waiting_room.
+19 Jackson moved the plum to the green_crate.
+20 Jackson exited the lounge and stayed in the waiting_room.
+21 Aria publicly claimed that plum is in the blue_container.
+22 Jackson privately told Aria that the plum is actually in the green_treasure_chest.
+23 Aria, Jayden, Jackson and Gracie entered the basement.
+24 The tomato is in the green_cupboard.
+25 Aria made no movements and stayed in the basement for 10 minutes.
+26 Aria exited the basement and stayed in the waiting_room.
+27 Jayden moved the tomato to the red_suitcase.
+28 Jayden exited the basement and stayed in the waiting_room.
+29 Jackson made no movements and stayed in the basement for 10 minutes.
+30 Jackson exited the basement and stayed in the waiting_room.
+31 Gracie moved the tomato to the blue_basket.
+32 Gracie exited the basement and stayed in the waiting_room.
+33 Gracie and Jayden entered the basement.
+34 The potato is in the red_suitcase.
+35 Gracie made no movements and stayed in the basement for 10 minutes.
+36 Gracie exited the basement and stayed in the waiting_room.
+37 Jayden made no movements and stayed in the basement for 10 minutes.
+38 Jayden exited the basement and stayed in the waiting_room.
+39 Gracie publicly claimed that potato is in the red_suitcase.
+40 Jayden privately told Gracie that the potato is actually in the green_cupboard.
+Question: Where is the peach really?
+Choices: A. red_crate, B. green_treasure_chest, C. red_envelope, D. green_crate, E. blue_container, F. green_cupboard, G. red_suitcase, H. blue_suitcase, I. red_bathtub, J. blue_basket, K. blue_treasure_chest, L. blue_crate, M. red_bucket, N. green_bottle, O. green_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Benjamin, Aiden, Jackson, Gracie and Mia entered the bedroom.
+2 The melon is in the blue_pantry.
+3 Benjamin moved the melon to the red_envelope.
+4 Benjamin exited the bedroom and stayed in the waiting_room.
+5 Aiden moved the melon to the blue_box.
+6 Aiden exited the bedroom and stayed in the waiting_room.
+7 Jackson moved the melon to the green_bottle.
+8 Jackson exited the bedroom and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the bedroom for 10 minutes.
+10 Gracie exited the bedroom and stayed in the waiting_room.
+11 Mia moved the melon to the blue_pantry.
+12 Mia exited the bedroom and stayed in the waiting_room.
+13 Gracie, Benjamin and Mia entered the garden.
+14 The lettuce is in the red_bottle.
+15 Gracie made no movements and stayed in the garden for 10 minutes.
+16 Gracie exited the garden and stayed in the waiting_room.
+17 Benjamin made no movements and stayed in the garden for 10 minutes.
+18 Benjamin exited the garden and stayed in the waiting_room.
+19 Mia made no movements and stayed in the garden for 10 minutes.
+20 Mia exited the garden and stayed in the waiting_room.
+Question: Where does Jackson think Aiden thinks Gracie thinks Benjamin thinks the melon is?
+Choices: A. blue_box, B. blue_pantry, C. green_bottle, D. red_envelope, E. green_crate, F. red_treasure_chest, G. blue_bathtub, H. blue_crate, I. red_crate, J. green_treasure_chest, K. red_drawer, L. red_bottle, M. green_bathtub, N. red_bathtub, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

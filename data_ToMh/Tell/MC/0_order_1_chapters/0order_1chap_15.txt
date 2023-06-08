@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William, Logan, Abigail, Ethan and Charlotte entered the cellar.
+2 The carrot is in the green_container.
+3 William made no movements and stayed in the cellar for 10 minutes.
+4 William exited the cellar and stayed in the waiting_room.
+5 Logan made no movements and stayed in the cellar for 10 minutes.
+6 Logan exited the cellar and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the cellar for 10 minutes.
+8 Abigail exited the cellar and stayed in the waiting_room.
+9 Ethan moved the carrot to the red_envelope.
+10 Ethan exited the cellar and stayed in the waiting_room.
+11 Charlotte made no movements and stayed in the cellar for 10 minutes.
+12 Charlotte exited the cellar and stayed in the waiting_room.
+13 Abigail privately told William that the carrot is actually in the green_suitcase.
+14 Logan privately told Ethan that the carrot is actually in the red_suitcase.
+Question: Where is the carrot really?
+Answer: red_envelope
+Choices: A. blue_container, B. green_treasure_chest, C. green_bottle, D. blue_bottle, E. blue_envelope, F. blue_basket, G. red_container, H. green_bathtub, I. blue_bucket, J. red_basket, K. red_envelope, L. green_container, M. green_suitcase, N. red_suitcase, O. red_bottle

@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 James, Ella, Abigail, Oliver and Jayden entered the playroom.
+2 The lime is in the red_envelope.
+3 James made no movements and stayed in the playroom for 10 minutes.
+4 James exited the playroom and stayed in the waiting_room.
+5 Ella moved the lime to the blue_crate.
+6 Ella exited the playroom and stayed in the waiting_room.
+7 Abigail moved the lime to the blue_envelope.
+8 Abigail exited the playroom and stayed in the waiting_room.
+9 Oliver made no movements and stayed in the playroom for 10 minutes.
+10 Oliver exited the playroom and stayed in the waiting_room.
+11 Jayden moved the lime to the red_envelope.
+12 Jayden exited the playroom and stayed in the waiting_room.
+13 Ella, Abigail and James entered the playroom.
+14 The orange is in the blue_bucket.
+15 Ella moved the orange to the blue_treasure_chest.
+16 Ella exited the playroom and stayed in the waiting_room.
+17 Abigail moved the orange to the red_envelope.
+18 Abigail exited the playroom and stayed in the waiting_room.
+19 James made no movements and stayed in the playroom for 10 minutes.
+20 James exited the playroom and stayed in the waiting_room.
+21 Abigail, James, Jayden and Ella entered the patio.
+22 The banana is in the green_bottle.
+23 Abigail moved the banana to the red_bottle.
+24 Abigail exited the patio and stayed in the waiting_room.
+25 James made no movements and stayed in the patio for 10 minutes.
+26 James exited the patio and stayed in the waiting_room.
+27 Jayden made no movements and stayed in the patio for 10 minutes.
+28 Jayden exited the patio and stayed in the waiting_room.
+29 Ella made no movements and stayed in the patio for 10 minutes.
+30 Ella exited the patio and stayed in the waiting_room.
+31 Ella and Jayden entered the study.
+32 The cucumber is in the blue_pantry.
+33 Ella moved the cucumber to the red_container.
+34 Ella exited the study and stayed in the waiting_room.
+35 Jayden moved the cucumber to the blue_bottle.
+36 Jayden exited the study and stayed in the waiting_room.
+Question: Where is the lime really?
+Choices: A. blue_bucket, B. red_envelope, C. blue_treasure_chest, D. blue_envelope, E. blue_crate, F. blue_pantry, G. blue_basket, H. red_container, I. blue_bottle, J. red_bathtub, K. green_bottle, L. green_crate, M. green_bathtub, N. red_bottle, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

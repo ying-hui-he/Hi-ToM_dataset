@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Charlotte, Mia, Amelia, Jackson and Logan entered the TV_room.
+2 The tomato is in the green_bathtub.
+3 Charlotte moved the tomato to the green_container.
+4 Charlotte exited the TV_room and stayed in the waiting_room.
+5 Mia made no movements and stayed in the TV_room for 10 minutes.
+6 Mia exited the TV_room and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the TV_room for 10 minutes.
+8 Amelia exited the TV_room and stayed in the waiting_room.
+9 Jackson moved the tomato to the green_cupboard.
+10 Jackson exited the TV_room and stayed in the waiting_room.
+11 Logan made no movements and stayed in the TV_room for 10 minutes.
+12 Logan exited the TV_room and stayed in the waiting_room.
+13 Logan, Mia and Charlotte entered the pantry.
+14 The onion is in the red_envelope.
+15 Logan moved the onion to the green_envelope.
+16 Logan exited the pantry and stayed in the waiting_room.
+17 Mia moved the onion to the green_crate.
+18 Mia exited the pantry and stayed in the waiting_room.
+19 Charlotte made no movements and stayed in the pantry for 10 minutes.
+20 Charlotte exited the pantry and stayed in the waiting_room.
+21 Logan publicly claimed that onion is in the green_crate.
+22 Charlotte privately told Amelia that the onion is actually in the green_crate.
+23 Charlotte, Mia, Jackson and Logan entered the pantry.
+24 The onion is in the green_crate.
+25 Charlotte moved the onion to the red_envelope.
+26 Charlotte exited the pantry and stayed in the waiting_room.
+27 Mia moved the onion to the green_envelope.
+28 Mia exited the pantry and stayed in the waiting_room.
+29 Jackson made no movements and stayed in the pantry for 10 minutes.
+30 Jackson exited the pantry and stayed in the waiting_room.
+31 Logan made no movements and stayed in the pantry for 10 minutes.
+32 Logan exited the pantry and stayed in the waiting_room.
+33 Charlotte and Logan entered the TV_room.
+34 The tomato is in the green_cupboard.
+35 Charlotte moved the tomato to the blue_bucket.
+36 Charlotte exited the TV_room and stayed in the waiting_room.
+37 Logan made no movements and stayed in the TV_room for 10 minutes.
+38 Logan exited the TV_room and stayed in the waiting_room.
+39 Charlotte privately told Mia that the tomato is actually in the red_container.
+Question: Where does Charlotte think the tomato is?
+Answer: blue_bucket
+Choices: A. blue_container, B. red_basket, C. blue_bottle, D. red_drawer, E. red_suitcase, F. green_bathtub, G. green_container, H. blue_bucket, I. green_cupboard, J. red_container, K. green_crate, L. red_envelope, M. green_bottle, N. green_envelope, O. blue_treasure_chest

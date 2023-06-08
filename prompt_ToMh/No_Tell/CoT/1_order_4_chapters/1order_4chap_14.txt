@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Oliver, James, Amelia, Emma and Abigail entered the kitchen.
+2 The beans is in the green_treasure_chest.
+3 Oliver made no movements and stayed in the kitchen for 10 minutes.
+4 Oliver exited the kitchen and stayed in the waiting_room.
+5 James made no movements and stayed in the kitchen for 10 minutes.
+6 James exited the kitchen and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the kitchen for 10 minutes.
+8 Amelia exited the kitchen and stayed in the waiting_room.
+9 Emma moved the beans to the red_envelope.
+10 Emma exited the kitchen and stayed in the waiting_room.
+11 Abigail moved the beans to the green_treasure_chest.
+12 Abigail exited the kitchen and stayed in the waiting_room.
+13 Oliver, Emma and Abigail entered the garden.
+14 The pumpkin is in the blue_bucket.
+15 Oliver moved the pumpkin to the red_treasure_chest.
+16 Oliver exited the garden and stayed in the waiting_room.
+17 Emma moved the pumpkin to the blue_bathtub.
+18 Emma exited the garden and stayed in the waiting_room.
+19 Abigail made no movements and stayed in the garden for 10 minutes.
+20 Abigail exited the garden and stayed in the waiting_room.
+21 Abigail, Amelia, Emma and Oliver entered the garden.
+22 The pumpkin is in the blue_bathtub.
+23 Abigail made no movements and stayed in the garden for 10 minutes.
+24 Abigail exited the garden and stayed in the waiting_room.
+25 Amelia moved the pumpkin to the blue_bucket.
+26 Amelia exited the garden and stayed in the waiting_room.
+27 Emma moved the pumpkin to the red_treasure_chest.
+28 Emma exited the garden and stayed in the waiting_room.
+29 Oliver moved the pumpkin to the red_bottle.
+30 Oliver exited the garden and stayed in the waiting_room.
+31 Emma and Oliver entered the kitchen.
+32 The carrot is in the green_container.
+33 Emma made no movements and stayed in the kitchen for 10 minutes.
+34 Emma exited the kitchen and stayed in the waiting_room.
+35 Oliver moved the carrot to the green_treasure_chest.
+36 Oliver exited the kitchen and stayed in the waiting_room.
+Question: Where does James think the beans is?
+Choices: A. red_bottle, B. blue_bucket, C. blue_bathtub, D. red_treasure_chest, E. blue_basket, F. blue_drawer, G. green_crate, H. blue_crate, I. green_suitcase, J. red_container, K. green_treasure_chest, L. green_container, M. red_envelope, N. red_bathtub, O. red_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, Aria, James, Evelyn and Ava entered the study.
+2 The lettuce is in the blue_crate.
+3 Jackson made no movements and stayed in the study for 10 minutes.
+4 Jackson exited the study and stayed in the waiting_room.
+5 Aria made no movements and stayed in the study for 10 minutes.
+6 Aria exited the study and stayed in the waiting_room.
+7 James made no movements and stayed in the study for 10 minutes.
+8 James exited the study and stayed in the waiting_room.
+9 Evelyn moved the lettuce to the green_cupboard.
+10 Evelyn exited the study and stayed in the waiting_room.
+11 Ava moved the lettuce to the blue_crate.
+12 Ava exited the study and stayed in the waiting_room.
+13 Evelyn, Jackson and James entered the dining_room.
+14 The peach is in the green_envelope.
+15 Evelyn made no movements and stayed in the dining_room for 10 minutes.
+16 Evelyn exited the dining_room and stayed in the waiting_room.
+17 Jackson moved the peach to the red_suitcase.
+18 Jackson exited the dining_room and stayed in the waiting_room.
+19 James moved the peach to the green_suitcase.
+20 James exited the dining_room and stayed in the waiting_room.
+21 James publicly claimed that peach is in the red_suitcase.
+22 Evelyn privately told James that the peach is actually in the blue_pantry.
+23 Ava, Aria, Evelyn and James entered the study.
+24 The onion is in the red_basket.
+25 Ava moved the onion to the green_treasure_chest.
+26 Ava exited the study and stayed in the waiting_room.
+27 Aria moved the onion to the green_cupboard.
+28 Aria exited the study and stayed in the waiting_room.
+29 Evelyn made no movements and stayed in the study for 10 minutes.
+30 Evelyn exited the study and stayed in the waiting_room.
+31 James made no movements and stayed in the study for 10 minutes.
+32 James exited the study and stayed in the waiting_room.
+33 James and Evelyn entered the basement.
+34 The turnip is in the blue_bottle.
+35 James moved the turnip to the blue_suitcase.
+36 James exited the basement and stayed in the waiting_room.
+37 Evelyn moved the turnip to the red_envelope.
+38 Evelyn exited the basement and stayed in the waiting_room.
+39 James privately told Jackson that the turnip is actually in the blue_treasure_chest.
+Question: Where is the lettuce really?
+Answer: blue_crate
+Choices: A. green_envelope, B. green_suitcase, C. blue_pantry, D. green_bathtub, E. red_suitcase, F. red_basket, G. blue_crate, H. green_cupboard, I. green_crate, J. green_treasure_chest, K. blue_bottle, L. red_envelope, M. blue_suitcase, N. blue_basket, O. blue_treasure_chest

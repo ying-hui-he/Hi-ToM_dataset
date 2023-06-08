@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 William, Hannah, Ava, Amelia and Mila entered the crawlspace.
+2 The lime is in the green_bathtub.
+3 William made no movements and stayed in the crawlspace for 10 minutes.
+4 William exited the crawlspace and stayed in the waiting_room.
+5 Hannah moved the lime to the red_bottle.
+6 Hannah exited the crawlspace and stayed in the waiting_room.
+7 Ava made no movements and stayed in the crawlspace for 10 minutes.
+8 Ava exited the crawlspace and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the crawlspace for 10 minutes.
+10 Amelia exited the crawlspace and stayed in the waiting_room.
+11 Mila moved the lime to the green_bathtub.
+12 Mila exited the crawlspace and stayed in the waiting_room.
+13 William, Hannah and Mila entered the TV_room.
+14 The persimmon is in the blue_bathtub.
+15 William made no movements and stayed in the TV_room for 10 minutes.
+16 William exited the TV_room and stayed in the waiting_room.
+17 Hannah moved the persimmon to the red_crate.
+18 Hannah exited the TV_room and stayed in the waiting_room.
+19 Mila moved the persimmon to the blue_bucket.
+20 Mila exited the TV_room and stayed in the waiting_room.
+21 William publicly claimed that persimmon is in the red_envelope.
+22 Mila privately told Ava that the persimmon is actually in the blue_bucket.
+Question: Where does William think Hannah thinks the lime is?
+Choices: A. blue_envelope, B. green_envelope, C. green_cupboard, D. green_crate, E. red_drawer, F. red_bottle, G. green_bathtub, H. blue_container, I. blue_basket, J. red_basket, K. red_bathtub, L. blue_bathtub, M. blue_bucket, N. red_envelope, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

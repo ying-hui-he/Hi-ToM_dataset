@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Hannah, Aiden, Abigail, Evelyn and Avery entered the crawlspace.
+2 The persimmon is in the green_bathtub.
+3 Hannah made no movements and stayed in the crawlspace for 10 minutes.
+4 Hannah exited the crawlspace and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the crawlspace for 10 minutes.
+6 Aiden exited the crawlspace and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the crawlspace for 10 minutes.
+8 Abigail exited the crawlspace and stayed in the waiting_room.
+9 Evelyn moved the persimmon to the red_bucket.
+10 Evelyn exited the crawlspace and stayed in the waiting_room.
+11 Avery made no movements and stayed in the crawlspace for 10 minutes.
+12 Avery exited the crawlspace and stayed in the waiting_room.
+13 Aiden, Avery and Abigail entered the master_bedroom.
+14 The lime is in the blue_drawer.
+15 Aiden made no movements and stayed in the master_bedroom for 10 minutes.
+16 Aiden exited the master_bedroom and stayed in the waiting_room.
+17 Avery made no movements and stayed in the master_bedroom for 10 minutes.
+18 Avery exited the master_bedroom and stayed in the waiting_room.
+19 Abigail moved the lime to the red_drawer.
+20 Abigail exited the master_bedroom and stayed in the waiting_room.
+21 Avery, Evelyn, Aiden and Abigail entered the crawlspace.
+22 The persimmon is in the red_bucket.
+23 Avery made no movements and stayed in the crawlspace for 10 minutes.
+24 Avery exited the crawlspace and stayed in the waiting_room.
+25 Evelyn made no movements and stayed in the crawlspace for 10 minutes.
+26 Evelyn exited the crawlspace and stayed in the waiting_room.
+27 Aiden made no movements and stayed in the crawlspace for 10 minutes.
+28 Aiden exited the crawlspace and stayed in the waiting_room.
+29 Abigail made no movements and stayed in the crawlspace for 10 minutes.
+30 Abigail exited the crawlspace and stayed in the waiting_room.
+31 Hannah and Evelyn entered the sunroom.
+32 The lettuce is in the red_container.
+33 Hannah made no movements and stayed in the sunroom for 10 minutes.
+34 Hannah exited the sunroom and stayed in the waiting_room.
+35 Evelyn made no movements and stayed in the sunroom for 10 minutes.
+36 Evelyn exited the sunroom and stayed in the waiting_room.
+Question: Where is the persimmon really?
+Choices: A. red_container, B. green_suitcase, C. red_bathtub, D. blue_envelope, E. red_treasure_chest, F. blue_drawer, G. green_crate, H. blue_bucket, I. red_drawer, J. blue_suitcase, K. red_suitcase, L. green_bathtub, M. blue_treasure_chest, N. blue_pantry, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,25 +1,25 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Elizabeth, Lucas, Emma and Noah entered the garden.
-2 The carrot is in the green_envelope.
-3 Gracie made no movements and stayed in the garden for 10 minutes.
-4 Gracie exited the garden and stayed in the waiting_room.
-5 Elizabeth moved the carrot to the red_basket.
-6 Elizabeth exited the garden and stayed in the waiting_room.
-7 Lucas moved the carrot to the blue_suitcase.
-8 Lucas exited the garden and stayed in the waiting_room.
-9 Emma made no movements and stayed in the garden for 10 minutes.
-10 Emma exited the garden and stayed in the waiting_room.
-11 Noah moved the carrot to the green_envelope.
-12 Noah exited the garden and stayed in the waiting_room.
-13 Elizabeth, Lucas and Noah entered the garden.
-14 The pumpkin is in the green_treasure_chest.
-15 Elizabeth made no movements and stayed in the garden for 10 minutes.
-16 Elizabeth exited the garden and stayed in the waiting_room.
-17 Lucas moved the pumpkin to the red_basket.
-18 Lucas exited the garden and stayed in the waiting_room.
-19 Noah moved the pumpkin to the blue_suitcase.
-20 Noah exited the garden and stayed in the waiting_room.
-Question: Where does Noah think Emma thinks Elizabeth thinks Lucas thinks the carrot is?
-Choices: A. green_drawer, B. blue_drawer, C. green_bottle, D. red_drawer, E. green_cupboard, F. green_envelope, G. green_treasure_chest, H. blue_basket, I. blue_suitcase, J. red_basket, K. blue_crate, L. blue_container, M. blue_box, N. red_container, O. red_bucket
+1 Ava, Jackson, Jayden, Owen and William entered the staircase.
+2 The lettuce is in the red_suitcase.
+3 Ava moved the lettuce to the red_bathtub.
+4 Ava exited the staircase and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the staircase for 10 minutes.
+6 Jackson exited the staircase and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the staircase for 10 minutes.
+8 Jayden exited the staircase and stayed in the waiting_room.
+9 Owen made no movements and stayed in the staircase for 10 minutes.
+10 Owen exited the staircase and stayed in the waiting_room.
+11 William moved the lettuce to the red_suitcase.
+12 William exited the staircase and stayed in the waiting_room.
+13 William, Jackson and Jayden entered the garage.
+14 The pineapple is in the blue_container.
+15 William made no movements and stayed in the garage for 10 minutes.
+16 William exited the garage and stayed in the waiting_room.
+17 Jackson made no movements and stayed in the garage for 10 minutes.
+18 Jackson exited the garage and stayed in the waiting_room.
+19 Jayden moved the pineapple to the green_bathtub.
+20 Jayden exited the garage and stayed in the waiting_room.
+Question: Where does William think Ava thinks Owen thinks Jayden thinks the lettuce is?
+Choices: A. blue_container, B. green_bathtub, C. red_envelope, D. blue_bathtub, E. green_crate, F. blue_box, G. blue_bucket, H. red_bucket, I. red_container, J. green_envelope, K. red_suitcase, L. blue_suitcase, M. red_bottle, N. red_crate, O. red_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

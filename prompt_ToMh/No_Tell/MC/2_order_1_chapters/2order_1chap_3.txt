@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Evelyn, Ethan, Aria and William entered the playroom.
+2 The tangerine is in the green_treasure_chest.
+3 Aiden made no movements and stayed in the playroom for 10 minutes.
+4 Aiden exited the playroom and stayed in the waiting_room.
+5 Evelyn made no movements and stayed in the playroom for 10 minutes.
+6 Evelyn exited the playroom and stayed in the waiting_room.
+7 Ethan made no movements and stayed in the playroom for 10 minutes.
+8 Ethan exited the playroom and stayed in the waiting_room.
+9 Aria moved the tangerine to the red_container.
+10 Aria exited the playroom and stayed in the waiting_room.
+11 William made no movements and stayed in the playroom for 10 minutes.
+12 William exited the playroom and stayed in the waiting_room.
+Question: Where does Evelyn think William thinks the tangerine is?
+Choices: A. green_treasure_chest, B. green_bathtub, C. green_bottle, D. red_basket, E. red_container, F. red_suitcase, G. red_drawer, H. blue_bathtub, I. green_crate, J. red_bottle, K. blue_treasure_chest, L. blue_envelope, M. red_envelope, N. blue_crate, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

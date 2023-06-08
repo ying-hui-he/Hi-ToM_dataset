@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ella, Jayden, Carter, Olivia and James entered the kitchen.
+2 The cucumber is in the green_treasure_chest.
+3 Ella made no movements and stayed in the kitchen for 10 minutes.
+4 Ella exited the kitchen and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the kitchen for 10 minutes.
+6 Jayden exited the kitchen and stayed in the waiting_room.
+7 Carter moved the cucumber to the red_bottle.
+8 Carter exited the kitchen and stayed in the waiting_room.
+9 Olivia moved the cucumber to the red_basket.
+10 Olivia exited the kitchen and stayed in the waiting_room.
+11 James made no movements and stayed in the kitchen for 10 minutes.
+12 James exited the kitchen and stayed in the waiting_room.
+Question: Where does Olivia think James thinks the cucumber is?
+Choices: A. blue_pantry, B. green_container, C. red_drawer, D. red_bucket, E. blue_drawer, F. green_cupboard, G. green_treasure_chest, H. red_bottle, I. red_basket, J. blue_crate, K. blue_box, L. blue_container, M. green_suitcase, N. blue_treasure_chest, O. green_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jayden, Hannah, Mia, Emma and Jack entered the garden.
+2 The lemon is in the red_envelope.
+3 Jayden made no movements and stayed in the garden for 10 minutes.
+4 Jayden exited the garden and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the garden for 10 minutes.
+6 Hannah exited the garden and stayed in the waiting_room.
+7 Mia made no movements and stayed in the garden for 10 minutes.
+8 Mia exited the garden and stayed in the waiting_room.
+9 Emma made no movements and stayed in the garden for 10 minutes.
+10 Emma exited the garden and stayed in the waiting_room.
+11 Jack made no movements and stayed in the garden for 10 minutes.
+12 Jack exited the garden and stayed in the waiting_room.
+13 Emma publicly claimed that lemon is in the green_suitcase.
+14 Jack privately told Jayden that the lemon is actually in the red_envelope.
+15 Hannah, Jack and Mia entered the TV_room.
+16 The lettuce is in the red_suitcase.
+17 Hannah moved the lettuce to the green_bottle.
+18 Hannah exited the TV_room and stayed in the waiting_room.
+19 Jack made no movements and stayed in the TV_room for 10 minutes.
+20 Jack exited the TV_room and stayed in the waiting_room.
+21 Mia made no movements and stayed in the TV_room for 10 minutes.
+22 Mia exited the TV_room and stayed in the waiting_room.
+23 Jayden, Jack, Hannah and Mia entered the garden.
+24 The beans is in the red_bathtub.
+25 Jayden made no movements and stayed in the garden for 10 minutes.
+26 Jayden exited the garden and stayed in the waiting_room.
+27 Jack made no movements and stayed in the garden for 10 minutes.
+28 Jack exited the garden and stayed in the waiting_room.
+29 Hannah moved the beans to the red_envelope.
+30 Hannah exited the garden and stayed in the waiting_room.
+31 Mia moved the beans to the red_drawer.
+32 Mia exited the garden and stayed in the waiting_room.
+33 Jayden publicly claimed that beans is in the red_envelope.
+34 Mia privately told Emma that the beans is actually in the red_drawer.
+Question: Where does Mia think the lemon is?
+Choices: A. red_bathtub, B. red_envelope, C. red_drawer, D. red_crate, E. green_suitcase, F. red_suitcase, G. blue_pantry, H. green_envelope, I. green_bottle, J. blue_envelope, K. blue_bucket, L. red_treasure_chest, M. red_basket, N. blue_crate, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

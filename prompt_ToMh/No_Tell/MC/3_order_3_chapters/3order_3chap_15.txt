@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William, Emma, Jack, Avery and Gracie entered the hallway.
+2 The grapefruit is in the red_bathtub.
+3 William made no movements and stayed in the hallway for 10 minutes.
+4 William exited the hallway and stayed in the waiting_room.
+5 Emma moved the grapefruit to the green_container.
+6 Emma exited the hallway and stayed in the waiting_room.
+7 Jack moved the grapefruit to the green_crate.
+8 Jack exited the hallway and stayed in the waiting_room.
+9 Avery made no movements and stayed in the hallway for 10 minutes.
+10 Avery exited the hallway and stayed in the waiting_room.
+11 Gracie moved the grapefruit to the red_bathtub.
+12 Gracie exited the hallway and stayed in the waiting_room.
+13 Jack, Emma and Gracie entered the pantry.
+14 The turnip is in the blue_container.
+15 Jack moved the turnip to the green_bottle.
+16 Jack exited the pantry and stayed in the waiting_room.
+17 Emma moved the turnip to the red_crate.
+18 Emma exited the pantry and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the pantry for 10 minutes.
+20 Gracie exited the pantry and stayed in the waiting_room.
+21 Avery, Gracie, Emma and Jack entered the hallway.
+22 The grapefruit is in the red_bathtub.
+23 Avery moved the grapefruit to the green_container.
+24 Avery exited the hallway and stayed in the waiting_room.
+25 Gracie made no movements and stayed in the hallway for 10 minutes.
+26 Gracie exited the hallway and stayed in the waiting_room.
+27 Emma made no movements and stayed in the hallway for 10 minutes.
+28 Emma exited the hallway and stayed in the waiting_room.
+29 Jack made no movements and stayed in the hallway for 10 minutes.
+30 Jack exited the hallway and stayed in the waiting_room.
+Question: Where does Avery think Emma thinks Jack thinks the grapefruit is?
+Choices: A. blue_container, B. red_crate, C. green_cupboard, D. green_bottle, E. green_bathtub, F. red_bathtub, G. blue_box, H. green_container, I. green_suitcase, J. green_crate, K. blue_suitcase, L. red_container, M. blue_bottle, N. red_treasure_chest, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

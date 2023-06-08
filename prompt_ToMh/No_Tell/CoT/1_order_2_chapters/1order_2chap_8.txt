@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 William, Aria, Mia, Ethan and Amelia entered the bathroom.
+2 The persimmon is in the blue_bathtub.
+3 William moved the persimmon to the blue_bottle.
+4 William exited the bathroom and stayed in the waiting_room.
+5 Aria moved the persimmon to the blue_pantry.
+6 Aria exited the bathroom and stayed in the waiting_room.
+7 Mia moved the persimmon to the red_envelope.
+8 Mia exited the bathroom and stayed in the waiting_room.
+9 Ethan made no movements and stayed in the bathroom for 10 minutes.
+10 Ethan exited the bathroom and stayed in the waiting_room.
+11 Amelia moved the persimmon to the blue_bathtub.
+12 Amelia exited the bathroom and stayed in the waiting_room.
+13 William, Ethan and Amelia entered the playroom.
+14 The carrot is in the red_container.
+15 William made no movements and stayed in the playroom for 10 minutes.
+16 William exited the playroom and stayed in the waiting_room.
+17 Ethan moved the carrot to the green_suitcase.
+18 Ethan exited the playroom and stayed in the waiting_room.
+19 Amelia moved the carrot to the green_crate.
+20 Amelia exited the playroom and stayed in the waiting_room.
+Question: Where does Amelia think the persimmon is?
+Choices: A. blue_pantry, B. blue_bathtub, C. red_bucket, D. blue_bottle, E. red_envelope, F. green_suitcase, G. red_container, H. green_cupboard, I. green_bottle, J. green_crate, K. blue_basket, L. red_bathtub, M. blue_crate, N. red_treasure_chest, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

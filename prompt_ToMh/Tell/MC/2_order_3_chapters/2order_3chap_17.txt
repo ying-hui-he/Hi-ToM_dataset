@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, James, Abigail, Evelyn and Carter entered the closet.
+2 The potato is in the blue_box.
+3 Owen made no movements and stayed in the closet for 10 minutes.
+4 Owen exited the closet and stayed in the waiting_room.
+5 James moved the potato to the green_bathtub.
+6 James exited the closet and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the closet for 10 minutes.
+8 Abigail exited the closet and stayed in the waiting_room.
+9 Evelyn moved the potato to the red_container.
+10 Evelyn exited the closet and stayed in the waiting_room.
+11 Carter made no movements and stayed in the closet for 10 minutes.
+12 Carter exited the closet and stayed in the waiting_room.
+13 Abigail privately told Owen that the potato is actually in the red_crate.
+14 James privately told Evelyn that the potato is actually in the green_bathtub.
+15 Evelyn, Owen and Carter entered the closet.
+16 The potato is in the red_container.
+17 Evelyn made no movements and stayed in the closet for 10 minutes.
+18 Evelyn exited the closet and stayed in the waiting_room.
+19 Owen moved the potato to the blue_treasure_chest.
+20 Owen exited the closet and stayed in the waiting_room.
+21 Carter made no movements and stayed in the closet for 10 minutes.
+22 Carter exited the closet and stayed in the waiting_room.
+23 James, Abigail, Owen and Carter entered the den.
+24 The strawberry is in the green_suitcase.
+25 James made no movements and stayed in the den for 10 minutes.
+26 James exited the den and stayed in the waiting_room.
+27 Abigail moved the strawberry to the green_envelope.
+28 Abigail exited the den and stayed in the waiting_room.
+29 Owen made no movements and stayed in the den for 10 minutes.
+30 Owen exited the den and stayed in the waiting_room.
+31 Carter made no movements and stayed in the den for 10 minutes.
+32 Carter exited the den and stayed in the waiting_room.
+33 Owen publicly claimed that strawberry is in the green_cupboard.
+34 James privately told Carter that the strawberry is actually in the green_envelope.
+Question: Where does Carter think Owen thinks the potato is?
+Choices: A. green_bathtub, B. blue_box, C. blue_treasure_chest, D. red_container, E. red_crate, F. green_envelope, G. green_suitcase, H. green_crate, I. green_cupboard, J. blue_container, K. green_treasure_chest, L. red_bucket, M. red_suitcase, N. red_treasure_chest, O. blue_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

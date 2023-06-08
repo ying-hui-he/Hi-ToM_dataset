@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Ella, Aiden, Mila and Jayden entered the patio.
+2 The apple is in the red_bathtub.
+3 Ava made no movements and stayed in the patio for 10 minutes.
+4 Ava exited the patio and stayed in the waiting_room.
+5 Ella moved the apple to the blue_box.
+6 Ella exited the patio and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the patio for 10 minutes.
+8 Aiden exited the patio and stayed in the waiting_room.
+9 Mila made no movements and stayed in the patio for 10 minutes.
+10 Mila exited the patio and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the patio for 10 minutes.
+12 Jayden exited the patio and stayed in the waiting_room.
+Question: Where does Mila think Aiden thinks Ella thinks Ava thinks the apple is?
+Choices: A. green_crate, B. blue_suitcase, C. red_suitcase, D. blue_container, E. red_crate, F. red_bucket, G. red_bathtub, H. green_cupboard, I. blue_box, J. blue_treasure_chest, K. green_bathtub, L. green_suitcase, M. blue_bottle, N. green_treasure_chest, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

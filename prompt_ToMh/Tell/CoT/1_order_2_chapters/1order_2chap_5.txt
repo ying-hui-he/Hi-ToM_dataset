@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emily, Ethan, Abigail, Aria and Jack entered the hall.
+2 The spinach is in the blue_drawer.
+3 Emily made no movements and stayed in the hall for 10 minutes.
+4 Emily exited the hall and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the hall for 10 minutes.
+6 Ethan exited the hall and stayed in the waiting_room.
+7 Abigail moved the spinach to the blue_box.
+8 Abigail exited the hall and stayed in the waiting_room.
+9 Aria moved the spinach to the red_treasure_chest.
+10 Aria exited the hall and stayed in the waiting_room.
+11 Jack moved the spinach to the blue_drawer.
+12 Jack exited the hall and stayed in the waiting_room.
+13 Abigail, Ethan and Emily entered the back_yard.
+14 The lettuce is in the blue_treasure_chest.
+15 Abigail moved the lettuce to the blue_crate.
+16 Abigail exited the back_yard and stayed in the waiting_room.
+17 Ethan moved the lettuce to the blue_bottle.
+18 Ethan exited the back_yard and stayed in the waiting_room.
+19 Emily moved the lettuce to the red_suitcase.
+20 Emily exited the back_yard and stayed in the waiting_room.
+21 Ethan privately told Emily that the lettuce is actually in the blue_bathtub.
+22 Emily privately told Aria that the lettuce is actually in the red_suitcase.
+Question: Where does Emily think the spinach is?
+Choices: A. red_treasure_chest, B. blue_drawer, C. blue_box, D. blue_basket, E. blue_pantry, F. red_bucket, G. green_cupboard, H. red_drawer, I. green_container, J. red_crate, K. blue_crate, L. blue_treasure_chest, M. blue_bathtub, N. blue_bottle, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Abigail, Owen, Charlotte, Amelia and Avery entered the TV_room.
+2 The beans is in the blue_suitcase.
+3 Abigail moved the beans to the red_envelope.
+4 Abigail exited the TV_room and stayed in the waiting_room.
+5 Owen made no movements and stayed in the TV_room for 10 minutes.
+6 Owen exited the TV_room and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the TV_room for 10 minutes.
+8 Charlotte exited the TV_room and stayed in the waiting_room.
+9 Amelia moved the beans to the green_suitcase.
+10 Amelia exited the TV_room and stayed in the waiting_room.
+11 Avery made no movements and stayed in the TV_room for 10 minutes.
+12 Avery exited the TV_room and stayed in the waiting_room.
+13 Avery, Charlotte and Amelia entered the TV_room.
+14 The beans is in the green_suitcase.
+15 Avery moved the beans to the red_envelope.
+16 Avery exited the TV_room and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the TV_room for 10 minutes.
+18 Charlotte exited the TV_room and stayed in the waiting_room.
+19 Amelia moved the beans to the blue_suitcase.
+20 Amelia exited the TV_room and stayed in the waiting_room.
+21 Charlotte publicly claimed that beans is in the green_envelope.
+22 Amelia privately told Charlotte that the beans is actually in the red_envelope.
+Question: Where does Charlotte think the beans is?
+Choices: A. blue_basket, B. green_container, C. blue_crate, D. green_bottle, E. blue_bottle, F. green_crate, G. blue_pantry, H. blue_bathtub, I. red_bathtub, J. red_treasure_chest, K. green_suitcase, L. blue_suitcase, M. blue_box, N. green_envelope, O. red_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aria, Ava, Aiden, Emily and Carter entered the crawlspace.
+2 The strawberry is in the red_suitcase.
+3 Aria moved the strawberry to the blue_basket.
+4 Aria exited the crawlspace and stayed in the waiting_room.
+5 Ava moved the strawberry to the blue_envelope.
+6 Ava exited the crawlspace and stayed in the waiting_room.
+7 Aiden moved the strawberry to the green_bathtub.
+8 Aiden exited the crawlspace and stayed in the waiting_room.
+9 Emily moved the strawberry to the blue_pantry.
+10 Emily exited the crawlspace and stayed in the waiting_room.
+11 Carter made no movements and stayed in the crawlspace for 10 minutes.
+12 Carter exited the crawlspace and stayed in the waiting_room.
+13 Ava, Emily and Carter entered the crawlspace.
+14 The orange is in the blue_basket.
+15 Ava made no movements and stayed in the crawlspace for 10 minutes.
+16 Ava exited the crawlspace and stayed in the waiting_room.
+17 Emily moved the orange to the green_bathtub.
+18 Emily exited the crawlspace and stayed in the waiting_room.
+19 Carter moved the orange to the blue_envelope.
+20 Carter exited the crawlspace and stayed in the waiting_room.
+21 Emily publicly claimed that orange is in the green_bathtub.
+22 Carter privately told Emily that the orange is actually in the red_suitcase.
+Question: Where does Ava think the strawberry is?
+Choices: A. blue_bucket, B. blue_treasure_chest, C. red_envelope, D. green_suitcase, E. red_treasure_chest, F. blue_suitcase, G. green_container, H. green_treasure_chest, I. blue_drawer, J. red_bathtub, K. blue_basket, L. red_suitcase, M. blue_pantry, N. blue_envelope, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

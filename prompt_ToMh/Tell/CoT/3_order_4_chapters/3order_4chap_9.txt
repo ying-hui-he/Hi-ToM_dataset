@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Hannah, William, Olivia, Ella and Noah entered the garden.
+2 The green_pepper is in the green_suitcase.
+3 Hannah moved the green_pepper to the red_bottle.
+4 Hannah exited the garden and stayed in the waiting_room.
+5 William moved the green_pepper to the green_container.
+6 William exited the garden and stayed in the waiting_room.
+7 Olivia made no movements and stayed in the garden for 10 minutes.
+8 Olivia exited the garden and stayed in the waiting_room.
+9 Ella moved the green_pepper to the red_suitcase.
+10 Ella exited the garden and stayed in the waiting_room.
+11 Noah made no movements and stayed in the garden for 10 minutes.
+12 Noah exited the garden and stayed in the waiting_room.
+13 Noah, Olivia and William entered the crawlspace.
+14 The cucumber is in the green_envelope.
+15 Noah moved the cucumber to the blue_crate.
+16 Noah exited the crawlspace and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the crawlspace for 10 minutes.
+18 Olivia exited the crawlspace and stayed in the waiting_room.
+19 William made no movements and stayed in the crawlspace for 10 minutes.
+20 William exited the crawlspace and stayed in the waiting_room.
+21 William publicly claimed that cucumber is in the red_envelope.
+22 Noah privately told William that the cucumber is actually in the green_bathtub.
+23 Hannah, Ella, William and Noah entered the garden.
+24 The orange is in the green_container.
+25 Hannah made no movements and stayed in the garden for 10 minutes.
+26 Hannah exited the garden and stayed in the waiting_room.
+27 Ella made no movements and stayed in the garden for 10 minutes.
+28 Ella exited the garden and stayed in the waiting_room.
+29 William moved the orange to the blue_container.
+30 William exited the garden and stayed in the waiting_room.
+31 Noah moved the orange to the green_suitcase.
+32 Noah exited the garden and stayed in the waiting_room.
+33 Noah and Hannah entered the laundry.
+34 The pumpkin is in the blue_suitcase.
+35 Noah moved the pumpkin to the blue_bottle.
+36 Noah exited the laundry and stayed in the waiting_room.
+37 Hannah moved the pumpkin to the blue_pantry.
+38 Hannah exited the laundry and stayed in the waiting_room.
+39 Noah privately told Olivia that the pumpkin is actually in the blue_suitcase.
+Question: Where does Noah think Olivia thinks Hannah thinks the green_pepper is?
+Choices: A. blue_bottle, B. blue_suitcase, C. blue_envelope, D. red_crate, E. blue_pantry, F. green_container, G. green_suitcase, H. red_bottle, I. blue_container, J. red_suitcase, K. green_envelope, L. green_bathtub, M. blue_crate, N. red_envelope, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

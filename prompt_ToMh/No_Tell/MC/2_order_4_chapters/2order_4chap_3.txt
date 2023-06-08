@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 James, Emily, Abigail, Olivia and Ella entered the bathroom.
+2 The pear is in the blue_bathtub.
+3 James moved the pear to the red_envelope.
+4 James exited the bathroom and stayed in the waiting_room.
+5 Emily made no movements and stayed in the bathroom for 10 minutes.
+6 Emily exited the bathroom and stayed in the waiting_room.
+7 Abigail moved the pear to the red_bottle.
+8 Abigail exited the bathroom and stayed in the waiting_room.
+9 Olivia made no movements and stayed in the bathroom for 10 minutes.
+10 Olivia exited the bathroom and stayed in the waiting_room.
+11 Ella made no movements and stayed in the bathroom for 10 minutes.
+12 Ella exited the bathroom and stayed in the waiting_room.
+13 Emily, Ella and Abigail entered the attic.
+14 The lemon is in the green_bathtub.
+15 Emily made no movements and stayed in the attic for 10 minutes.
+16 Emily exited the attic and stayed in the waiting_room.
+17 Ella moved the lemon to the red_bucket.
+18 Ella exited the attic and stayed in the waiting_room.
+19 Abigail moved the lemon to the green_treasure_chest.
+20 Abigail exited the attic and stayed in the waiting_room.
+21 Ella, Olivia, James and Emily entered the lounge.
+22 The asparagus is in the green_envelope.
+23 Ella made no movements and stayed in the lounge for 10 minutes.
+24 Ella exited the lounge and stayed in the waiting_room.
+25 Olivia moved the asparagus to the red_suitcase.
+26 Olivia exited the lounge and stayed in the waiting_room.
+27 James moved the asparagus to the red_basket.
+28 James exited the lounge and stayed in the waiting_room.
+29 Emily made no movements and stayed in the lounge for 10 minutes.
+30 Emily exited the lounge and stayed in the waiting_room.
+31 Ella and Emily entered the lounge.
+32 The lime is in the red_bathtub.
+33 Ella moved the lime to the red_basket.
+34 Ella exited the lounge and stayed in the waiting_room.
+35 Emily moved the lime to the red_suitcase.
+36 Emily exited the lounge and stayed in the waiting_room.
+Question: Where does Olivia think James thinks the pear is?
+Choices: A. green_treasure_chest, B. green_bathtub, C. red_bucket, D. red_crate, E. green_suitcase, F. green_envelope, G. red_bathtub, H. red_basket, I. red_suitcase, J. blue_crate, K. blue_bathtub, L. red_treasure_chest, M. red_envelope, N. red_drawer, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

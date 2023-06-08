@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Noah, Emily, Aiden, William and Jayden entered the front_yard.
+2 The grapefruit is in the blue_box.
+3 Noah made no movements and stayed in the front_yard for 10 minutes.
+4 Noah exited the front_yard and stayed in the waiting_room.
+5 Emily made no movements and stayed in the front_yard for 10 minutes.
+6 Emily exited the front_yard and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the front_yard for 10 minutes.
+8 Aiden exited the front_yard and stayed in the waiting_room.
+9 William made no movements and stayed in the front_yard for 10 minutes.
+10 William exited the front_yard and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the front_yard for 10 minutes.
+12 Jayden exited the front_yard and stayed in the waiting_room.
+13 Jayden, Noah and William entered the workshop.
+14 The persimmon is in the green_crate.
+15 Jayden made no movements and stayed in the workshop for 10 minutes.
+16 Jayden exited the workshop and stayed in the waiting_room.
+17 Noah made no movements and stayed in the workshop for 10 minutes.
+18 Noah exited the workshop and stayed in the waiting_room.
+19 William moved the persimmon to the blue_treasure_chest.
+20 William exited the workshop and stayed in the waiting_room.
+Question: Where does William think Aiden thinks Noah thinks Emily thinks the grapefruit is?
+Choices: A. green_crate, B. red_envelope, C. red_basket, D. blue_treasure_chest, E. green_container, F. green_bottle, G. blue_box, H. red_container, I. green_bathtub, J. red_drawer, K. red_bucket, L. green_treasure_chest, M. blue_bucket, N. red_treasure_chest, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

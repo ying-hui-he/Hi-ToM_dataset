@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ethan, James, Emma, Aria and Benjamin entered the office.
+2 The banana is in the green_bathtub.
+3 Ethan made no movements and stayed in the office for 10 minutes.
+4 Ethan exited the office and stayed in the waiting_room.
+5 James moved the banana to the blue_envelope.
+6 James exited the office and stayed in the waiting_room.
+7 Emma moved the banana to the blue_basket.
+8 Emma exited the office and stayed in the waiting_room.
+9 Aria made no movements and stayed in the office for 10 minutes.
+10 Aria exited the office and stayed in the waiting_room.
+11 Benjamin moved the banana to the green_bathtub.
+12 Benjamin exited the office and stayed in the waiting_room.
+13 James, Emma and Benjamin entered the master_bedroom.
+14 The lettuce is in the blue_bathtub.
+15 James made no movements and stayed in the master_bedroom for 10 minutes.
+16 James exited the master_bedroom and stayed in the waiting_room.
+17 Emma made no movements and stayed in the master_bedroom for 10 minutes.
+18 Emma exited the master_bedroom and stayed in the waiting_room.
+19 Benjamin moved the lettuce to the red_envelope.
+20 Benjamin exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Ethan think Benjamin thinks James thinks the banana is?
+Choices: A. blue_bathtub, B. red_basket, C. blue_treasure_chest, D. red_envelope, E. blue_pantry, F. red_crate, G. red_bathtub, H. red_bottle, I. blue_container, J. green_bottle, K. green_bathtub, L. green_suitcase, M. red_bucket, N. blue_envelope, O. blue_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

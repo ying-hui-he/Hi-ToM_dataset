@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Emma, Charlotte, Ava, Benjamin and Ethan entered the patio.
+2 The carrot is in the blue_crate.
+3 Emma moved the carrot to the green_suitcase.
+4 Emma exited the patio and stayed in the waiting_room.
+5 Charlotte moved the carrot to the blue_suitcase.
+6 Charlotte exited the patio and stayed in the waiting_room.
+7 Ava moved the carrot to the green_envelope.
+8 Ava exited the patio and stayed in the waiting_room.
+9 Benjamin made no movements and stayed in the patio for 10 minutes.
+10 Benjamin exited the patio and stayed in the waiting_room.
+11 Ethan moved the carrot to the blue_crate.
+12 Ethan exited the patio and stayed in the waiting_room.
+13 Benjamin publicly claimed that carrot is in the green_envelope.
+14 Ethan privately told Emma that the carrot is actually in the blue_crate.
+Question: Where does Benjamin think Ethan thinks Charlotte thinks the carrot is?
+Answer: blue_suitcase
+Choices: A. red_bathtub, B. blue_box, C. green_crate, D. red_bucket, E. red_treasure_chest, F. blue_suitcase, G. blue_crate, H. blue_bathtub, I. green_suitcase, J. green_envelope, K. green_treasure_chest, L. red_suitcase, M. red_container, N. red_bottle, O. red_drawer

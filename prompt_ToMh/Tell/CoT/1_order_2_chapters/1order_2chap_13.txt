@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 James, Emma, Avery, Ella and Noah entered the den.
+2 The asparagus is in the blue_bathtub.
+3 James moved the asparagus to the red_bathtub.
+4 James exited the den and stayed in the waiting_room.
+5 Emma made no movements and stayed in the den for 10 minutes.
+6 Emma exited the den and stayed in the waiting_room.
+7 Avery made no movements and stayed in the den for 10 minutes.
+8 Avery exited the den and stayed in the waiting_room.
+9 Ella made no movements and stayed in the den for 10 minutes.
+10 Ella exited the den and stayed in the waiting_room.
+11 Noah made no movements and stayed in the den for 10 minutes.
+12 Noah exited the den and stayed in the waiting_room.
+13 Avery, Emma and Ella entered the lounge.
+14 The potato is in the blue_envelope.
+15 Avery made no movements and stayed in the lounge for 10 minutes.
+16 Avery exited the lounge and stayed in the waiting_room.
+17 Emma moved the potato to the red_bottle.
+18 Emma exited the lounge and stayed in the waiting_room.
+19 Ella made no movements and stayed in the lounge for 10 minutes.
+20 Ella exited the lounge and stayed in the waiting_room.
+21 Emma publicly claimed that potato is in the red_crate.
+22 Ella privately told Emma that the potato is actually in the red_envelope.
+Question: Where does James think the asparagus is?
+Choices: A. green_container, B. blue_suitcase, C. red_suitcase, D. red_bucket, E. green_envelope, F. blue_bathtub, G. blue_crate, H. red_bathtub, I. green_suitcase, J. green_crate, K. blue_envelope, L. red_bottle, M. red_basket, N. red_crate, O. red_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

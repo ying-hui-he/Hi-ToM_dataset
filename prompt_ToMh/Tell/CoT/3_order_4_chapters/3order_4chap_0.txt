@@ -1,44 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Emily, Gracie, Lucas and Noah entered the cellar.
-2 The peach is in the blue_treasure_chest.
-3 Evelyn moved the peach to the red_cupboard.
-4 Evelyn exited the cellar and stayed in the waiting_room.
-5 Emily made no movements and stayed in the cellar for 10 minutes.
-6 Emily exited the cellar and stayed in the waiting_room.
-7 Gracie made no movements and stayed in the cellar for 10 minutes.
-8 Gracie exited the cellar and stayed in the waiting_room.
-9 Lucas made no movements and stayed in the cellar for 10 minutes.
-10 Lucas exited the cellar and stayed in the waiting_room.
-11 Noah made no movements and stayed in the cellar for 10 minutes.
-12 Noah exited the cellar and stayed in the waiting_room.
-13 Emily, Lucas and Evelyn entered the cellar.
-14 The peach is in the red_cupboard.
-15 Emily moved the peach to the green_bucket.
-16 Emily exited the cellar and stayed in the waiting_room.
-17 Lucas made no movements and stayed in the cellar for 10 minutes.
-18 Lucas exited the cellar and stayed in the waiting_room.
-19 Evelyn moved the peach to the green_drawer.
-20 Evelyn exited the cellar and stayed in the waiting_room.
-21 Lucas publicly claimed that peach is in the red_drawer.
-22 Evelyn privately told Lucas that the peach is actually in the red_cupboard.
-23 Emily, Lucas, Noah and Evelyn entered the sunroom.
-24 The pineapple is in the red_bottle.
-25 Emily moved the pineapple to the red_treasure_chest.
-26 Emily exited the sunroom and stayed in the waiting_room.
-27 Lucas moved the pineapple to the red_basket.
-28 Lucas exited the sunroom and stayed in the waiting_room.
-29 Noah made no movements and stayed in the sunroom for 10 minutes.
-30 Noah exited the sunroom and stayed in the waiting_room.
-31 Evelyn made no movements and stayed in the sunroom for 10 minutes.
-32 Evelyn exited the sunroom and stayed in the waiting_room.
-33 Gracie and Emily entered the bathroom.
-34 The orange is in the green_cupboard.
-35 Gracie moved the orange to the blue_crate.
-36 Gracie exited the bathroom and stayed in the waiting_room.
-37 Emily made no movements and stayed in the bathroom for 10 minutes.
-38 Emily exited the bathroom and stayed in the waiting_room.
-39 Gracie privately told Lucas that the orange is actually in the green_bathtub.
-Question: Where does Gracie think Evelyn thinks Noah thinks the peach is?
-Choices: A. red_drawer, B. blue_treasure_chest, C. green_drawer, D. green_bucket, E. red_cupboard, F. red_bottle, G. red_treasure_chest, H. blue_suitcase, I. green_treasure_chest, J. red_basket, K. blue_container, L. green_cupboard, M. green_bathtub, N. green_envelope, O. blue_crate
+1 Jayden, Isla, Charlotte, Owen and Logan entered the playroom.
+2 The grapefruit is in the blue_bathtub.
+3 Jayden made no movements and stayed in the playroom for 10 minutes.
+4 Jayden exited the playroom and stayed in the waiting_room.
+5 Isla made no movements and stayed in the playroom for 10 minutes.
+6 Isla exited the playroom and stayed in the waiting_room.
+7 Charlotte moved the grapefruit to the red_basket.
+8 Charlotte exited the playroom and stayed in the waiting_room.
+9 Owen moved the grapefruit to the green_cupboard.
+10 Owen exited the playroom and stayed in the waiting_room.
+11 Logan moved the grapefruit to the blue_bathtub.
+12 Logan exited the playroom and stayed in the waiting_room.
+13 Isla, Owen and Logan entered the playroom.
+14 The grapefruit is in the blue_bathtub.
+15 Isla moved the grapefruit to the green_crate.
+16 Isla exited the playroom and stayed in the waiting_room.
+17 Owen made no movements and stayed in the playroom for 10 minutes.
+18 Owen exited the playroom and stayed in the waiting_room.
+19 Logan moved the grapefruit to the green_cupboard.
+20 Logan exited the playroom and stayed in the waiting_room.
+21 Logan publicly claimed that grapefruit is in the green_cupboard.
+22 Isla privately told Logan that the grapefruit is actually in the green_suitcase.
+23 Owen, Jayden, Isla and Charlotte entered the bedroom.
+24 The banana is in the green_treasure_chest.
+25 Owen moved the banana to the red_suitcase.
+26 Owen exited the bedroom and stayed in the waiting_room.
+27 Jayden moved the banana to the blue_drawer.
+28 Jayden exited the bedroom and stayed in the waiting_room.
+29 Isla moved the banana to the red_container.
+30 Isla exited the bedroom and stayed in the waiting_room.
+31 Charlotte made no movements and stayed in the bedroom for 10 minutes.
+32 Charlotte exited the bedroom and stayed in the waiting_room.
+33 Isla and Logan entered the bedroom.
+34 The cherry is in the red_container.
+35 Isla made no movements and stayed in the bedroom for 10 minutes.
+36 Isla exited the bedroom and stayed in the waiting_room.
+37 Logan made no movements and stayed in the bedroom for 10 minutes.
+38 Logan exited the bedroom and stayed in the waiting_room.
+39 Isla privately told Owen that the cherry is actually in the red_envelope.
+Question: Where does Owen think Isla thinks Logan thinks the grapefruit is?
+Choices: A. blue_bathtub, B. red_basket, C. green_crate, D. green_cupboard, E. green_suitcase, F. blue_bucket, G. blue_container, H. blue_bottle, I. red_treasure_chest, J. blue_treasure_chest, K. green_treasure_chest, L. red_container, M. blue_drawer, N. red_envelope, O. red_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

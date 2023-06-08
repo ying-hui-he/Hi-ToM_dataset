@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Abigail, James, Oliver, Charlotte and Emma entered the garden.
+2 The orange is in the green_crate.
+3 Abigail made no movements and stayed in the garden for 10 minutes.
+4 Abigail exited the garden and stayed in the waiting_room.
+5 James made no movements and stayed in the garden for 10 minutes.
+6 James exited the garden and stayed in the waiting_room.
+7 Oliver moved the orange to the green_bottle.
+8 Oliver exited the garden and stayed in the waiting_room.
+9 Charlotte moved the orange to the red_bucket.
+10 Charlotte exited the garden and stayed in the waiting_room.
+11 Emma moved the orange to the green_crate.
+12 Emma exited the garden and stayed in the waiting_room.
+13 Oliver, Charlotte and James entered the garden.
+14 The orange is in the green_crate.
+15 Oliver made no movements and stayed in the garden for 10 minutes.
+16 Oliver exited the garden and stayed in the waiting_room.
+17 Charlotte made no movements and stayed in the garden for 10 minutes.
+18 Charlotte exited the garden and stayed in the waiting_room.
+19 James moved the orange to the blue_bucket.
+20 James exited the garden and stayed in the waiting_room.
+21 Emma, Abigail, Oliver and James entered the den.
+22 The onion is in the red_crate.
+23 Emma moved the onion to the blue_drawer.
+24 Emma exited the den and stayed in the waiting_room.
+25 Abigail made no movements and stayed in the den for 10 minutes.
+26 Abigail exited the den and stayed in the waiting_room.
+27 Oliver moved the onion to the green_treasure_chest.
+28 Oliver exited the den and stayed in the waiting_room.
+29 James moved the onion to the blue_box.
+30 James exited the den and stayed in the waiting_room.
+31 Emma and James entered the dining_room.
+32 The spinach is in the blue_suitcase.
+33 Emma moved the spinach to the green_container.
+34 Emma exited the dining_room and stayed in the waiting_room.
+35 James moved the spinach to the blue_envelope.
+36 James exited the dining_room and stayed in the waiting_room.
+Question: Where does Oliver think Charlotte thinks Emma thinks the orange is?
+Choices: A. green_crate, B. green_bottle, C. blue_bucket, D. blue_treasure_chest, E. red_bucket, F. red_crate, G. blue_box, H. red_bottle, I. green_treasure_chest, J. blue_drawer, K. green_cupboard, L. blue_suitcase, M. green_container, N. blue_bottle, O. blue_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

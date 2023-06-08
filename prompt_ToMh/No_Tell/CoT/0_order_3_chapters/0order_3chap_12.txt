@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Mila, Amelia, Aiden and William entered the basement.
+2 The tomato is in the red_envelope.
+3 Aria made no movements and stayed in the basement for 10 minutes.
+4 Aria exited the basement and stayed in the waiting_room.
+5 Mila made no movements and stayed in the basement for 10 minutes.
+6 Mila exited the basement and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the basement for 10 minutes.
+8 Amelia exited the basement and stayed in the waiting_room.
+9 Aiden made no movements and stayed in the basement for 10 minutes.
+10 Aiden exited the basement and stayed in the waiting_room.
+11 William made no movements and stayed in the basement for 10 minutes.
+12 William exited the basement and stayed in the waiting_room.
+13 Amelia, Aria and William entered the basement.
+14 The beans is in the blue_bathtub.
+15 Amelia moved the beans to the blue_container.
+16 Amelia exited the basement and stayed in the waiting_room.
+17 Aria moved the beans to the blue_box.
+18 Aria exited the basement and stayed in the waiting_room.
+19 William made no movements and stayed in the basement for 10 minutes.
+20 William exited the basement and stayed in the waiting_room.
+21 Aria, Aiden, Amelia and Mila entered the basement.
+22 The beans is in the blue_box.
+23 Aria made no movements and stayed in the basement for 10 minutes.
+24 Aria exited the basement and stayed in the waiting_room.
+25 Aiden made no movements and stayed in the basement for 10 minutes.
+26 Aiden exited the basement and stayed in the waiting_room.
+27 Amelia made no movements and stayed in the basement for 10 minutes.
+28 Amelia exited the basement and stayed in the waiting_room.
+29 Mila moved the beans to the blue_bathtub.
+30 Mila exited the basement and stayed in the waiting_room.
+Question: Where is the tomato really?
+Choices: A. blue_crate, B. green_container, C. red_basket, D. blue_bottle, E. green_suitcase, F. blue_bathtub, G. red_envelope, H. blue_box, I. blue_container, J. red_bathtub, K. blue_treasure_chest, L. green_crate, M. blue_basket, N. red_bottle, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

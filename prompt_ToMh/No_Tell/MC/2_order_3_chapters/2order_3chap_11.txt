@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Benjamin, Emily, Evelyn, Ella and Ava entered the basement.
+2 The beans is in the red_crate.
+3 Benjamin made no movements and stayed in the basement for 10 minutes.
+4 Benjamin exited the basement and stayed in the waiting_room.
+5 Emily made no movements and stayed in the basement for 10 minutes.
+6 Emily exited the basement and stayed in the waiting_room.
+7 Evelyn made no movements and stayed in the basement for 10 minutes.
+8 Evelyn exited the basement and stayed in the waiting_room.
+9 Ella made no movements and stayed in the basement for 10 minutes.
+10 Ella exited the basement and stayed in the waiting_room.
+11 Ava moved the beans to the red_crate.
+12 Ava exited the basement and stayed in the waiting_room.
+13 Ava, Evelyn and Benjamin entered the basement.
+14 The green_pepper is in the red_basket.
+15 Ava made no movements and stayed in the basement for 10 minutes.
+16 Ava exited the basement and stayed in the waiting_room.
+17 Evelyn moved the green_pepper to the green_envelope.
+18 Evelyn exited the basement and stayed in the waiting_room.
+19 Benjamin made no movements and stayed in the basement for 10 minutes.
+20 Benjamin exited the basement and stayed in the waiting_room.
+21 Emily, Ava, Evelyn and Ella entered the basement.
+22 The beans is in the red_crate.
+23 Emily moved the beans to the green_envelope.
+24 Emily exited the basement and stayed in the waiting_room.
+25 Ava made no movements and stayed in the basement for 10 minutes.
+26 Ava exited the basement and stayed in the waiting_room.
+27 Evelyn made no movements and stayed in the basement for 10 minutes.
+28 Evelyn exited the basement and stayed in the waiting_room.
+29 Ella made no movements and stayed in the basement for 10 minutes.
+30 Ella exited the basement and stayed in the waiting_room.
+Question: Where does Ava think Evelyn thinks the beans is?
+Choices: A. red_crate, B. red_basket, C. red_bucket, D. green_envelope, E. red_treasure_chest, F. red_drawer, G. green_suitcase, H. red_bathtub, I. red_suitcase, J. green_crate, K. blue_crate, L. blue_box, M. blue_drawer, N. green_treasure_chest, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

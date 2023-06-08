@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Mia, Amelia, Charlotte and James entered the pantry.
+2 The potato is in the blue_bottle.
+3 Owen made no movements and stayed in the pantry for 10 minutes.
+4 Owen exited the pantry and stayed in the waiting_room.
+5 Mia moved the potato to the blue_container.
+6 Mia exited the pantry and stayed in the waiting_room.
+7 Amelia moved the potato to the red_bucket.
+8 Amelia exited the pantry and stayed in the waiting_room.
+9 Charlotte moved the potato to the red_container.
+10 Charlotte exited the pantry and stayed in the waiting_room.
+11 James moved the potato to the blue_bottle.
+12 James exited the pantry and stayed in the waiting_room.
+13 Amelia, Owen and James entered the lounge.
+14 The strawberry is in the green_crate.
+15 Amelia made no movements and stayed in the lounge for 10 minutes.
+16 Amelia exited the lounge and stayed in the waiting_room.
+17 Owen made no movements and stayed in the lounge for 10 minutes.
+18 Owen exited the lounge and stayed in the waiting_room.
+19 James made no movements and stayed in the lounge for 10 minutes.
+20 James exited the lounge and stayed in the waiting_room.
+21 James publicly claimed that strawberry is in the green_crate.
+22 Amelia privately told James that the strawberry is actually in the green_treasure_chest.
+23 Charlotte, Amelia, Owen and Mia entered the pantry.
+24 The pear is in the red_container.
+25 Charlotte made no movements and stayed in the pantry for 10 minutes.
+26 Charlotte exited the pantry and stayed in the waiting_room.
+27 Amelia moved the pear to the blue_bottle.
+28 Amelia exited the pantry and stayed in the waiting_room.
+29 Owen made no movements and stayed in the pantry for 10 minutes.
+30 Owen exited the pantry and stayed in the waiting_room.
+31 Mia moved the pear to the red_bucket.
+32 Mia exited the pantry and stayed in the waiting_room.
+33 Amelia and Mia entered the lounge.
+34 The tomato is in the red_drawer.
+35 Amelia moved the tomato to the blue_drawer.
+36 Amelia exited the lounge and stayed in the waiting_room.
+37 Mia moved the tomato to the green_cupboard.
+38 Mia exited the lounge and stayed in the waiting_room.
+39 Mia publicly claimed that tomato is in the green_crate.
+40 Amelia privately told Mia that the tomato is actually in the green_treasure_chest.
+Question: Where is the potato really?
+Choices: A. red_crate, B. blue_envelope, C. red_basket, D. blue_pantry, E. green_bathtub, F. green_crate, G. red_drawer, H. green_treasure_chest, I. green_cupboard, J. blue_drawer, K. blue_bottle, L. red_container, M. blue_container, N. blue_crate, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

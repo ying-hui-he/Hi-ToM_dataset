@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Isla, Abigail, Avery, Mila and Oliver entered the dining_room.
+2 The melon is in the blue_drawer.
+3 Isla made no movements and stayed in the dining_room for 10 minutes.
+4 Isla exited the dining_room and stayed in the waiting_room.
+5 Abigail made no movements and stayed in the dining_room for 10 minutes.
+6 Abigail exited the dining_room and stayed in the waiting_room.
+7 Avery made no movements and stayed in the dining_room for 10 minutes.
+8 Avery exited the dining_room and stayed in the waiting_room.
+9 Mila made no movements and stayed in the dining_room for 10 minutes.
+10 Mila exited the dining_room and stayed in the waiting_room.
+11 Oliver moved the melon to the blue_drawer.
+12 Oliver exited the dining_room and stayed in the waiting_room.
+13 Oliver, Avery and Isla entered the dining_room.
+14 The tangerine is in the red_basket.
+15 Oliver made no movements and stayed in the dining_room for 10 minutes.
+16 Oliver exited the dining_room and stayed in the waiting_room.
+17 Avery made no movements and stayed in the dining_room for 10 minutes.
+18 Avery exited the dining_room and stayed in the waiting_room.
+19 Isla moved the tangerine to the blue_bathtub.
+20 Isla exited the dining_room and stayed in the waiting_room.
+21 Avery, Mila, Isla and Oliver entered the staircase.
+22 The orange is in the blue_bottle.
+23 Avery moved the orange to the green_container.
+24 Avery exited the staircase and stayed in the waiting_room.
+25 Mila made no movements and stayed in the staircase for 10 minutes.
+26 Mila exited the staircase and stayed in the waiting_room.
+27 Isla moved the orange to the blue_crate.
+28 Isla exited the staircase and stayed in the waiting_room.
+29 Oliver moved the orange to the red_suitcase.
+30 Oliver exited the staircase and stayed in the waiting_room.
+Question: Where does Mila think the melon is?
+Choices: A. blue_drawer, B. red_basket, C. blue_bathtub, D. red_envelope, E. red_bottle, F. blue_bucket, G. green_bottle, H. red_bucket, I. red_container, J. green_suitcase, K. blue_bottle, L. blue_basket, M. green_container, N. blue_crate, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

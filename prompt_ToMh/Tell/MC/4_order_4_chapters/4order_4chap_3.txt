@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Carter, Isla, Emily and Hannah entered the bedroom.
+2 The pineapple is in the blue_treasure_chest.
+3 Aiden moved the pineapple to the blue_pantry.
+4 Aiden exited the bedroom and stayed in the waiting_room.
+5 Carter made no movements and stayed in the bedroom for 10 minutes.
+6 Carter exited the bedroom and stayed in the waiting_room.
+7 Isla moved the pineapple to the red_bucket.
+8 Isla exited the bedroom and stayed in the waiting_room.
+9 Emily made no movements and stayed in the bedroom for 10 minutes.
+10 Emily exited the bedroom and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the bedroom for 10 minutes.
+12 Hannah exited the bedroom and stayed in the waiting_room.
+13 Isla, Carter and Emily entered the closet.
+14 The peach is in the red_bathtub.
+15 Isla made no movements and stayed in the closet for 10 minutes.
+16 Isla exited the closet and stayed in the waiting_room.
+17 Carter made no movements and stayed in the closet for 10 minutes.
+18 Carter exited the closet and stayed in the waiting_room.
+19 Emily moved the peach to the red_drawer.
+20 Emily exited the closet and stayed in the waiting_room.
+21 Emily publicly claimed that peach is in the blue_box.
+22 Isla privately told Emily that the peach is actually in the red_drawer.
+23 Emily, Carter, Aiden and Hannah entered the bedroom.
+24 The pineapple is in the red_bucket.
+25 Emily moved the pineapple to the blue_bottle.
+26 Emily exited the bedroom and stayed in the waiting_room.
+27 Carter made no movements and stayed in the bedroom for 10 minutes.
+28 Carter exited the bedroom and stayed in the waiting_room.
+29 Aiden made no movements and stayed in the bedroom for 10 minutes.
+30 Aiden exited the bedroom and stayed in the waiting_room.
+31 Hannah moved the pineapple to the blue_crate.
+32 Hannah exited the bedroom and stayed in the waiting_room.
+33 Hannah and Aiden entered the bedroom.
+34 The green_pepper is in the red_bucket.
+35 Hannah moved the green_pepper to the blue_crate.
+36 Hannah exited the bedroom and stayed in the waiting_room.
+37 Aiden moved the green_pepper to the blue_bottle.
+38 Aiden exited the bedroom and stayed in the waiting_room.
+39 Aiden publicly claimed that green_pepper is in the red_bucket.
+40 Hannah privately told Aiden that the green_pepper is actually in the blue_pantry.
+Question: Where does Carter think Emily thinks Aiden thinks Hannah thinks the pineapple is?
+Choices: A. blue_basket, B. blue_suitcase, C. green_container, D. green_crate, E. red_crate, F. blue_treasure_chest, G. red_bucket, H. blue_bottle, I. blue_pantry, J. blue_crate, K. red_bathtub, L. red_treasure_chest, M. red_drawer, N. red_bottle, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

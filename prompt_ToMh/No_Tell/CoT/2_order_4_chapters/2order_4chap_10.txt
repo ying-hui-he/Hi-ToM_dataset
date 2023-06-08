@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Jayden, Ava, Abigail and Ella entered the basement.
+2 The orange is in the red_basket.
+3 Jack made no movements and stayed in the basement for 10 minutes.
+4 Jack exited the basement and stayed in the waiting_room.
+5 Jayden moved the orange to the green_crate.
+6 Jayden exited the basement and stayed in the waiting_room.
+7 Ava moved the orange to the blue_bucket.
+8 Ava exited the basement and stayed in the waiting_room.
+9 Abigail moved the orange to the blue_box.
+10 Abigail exited the basement and stayed in the waiting_room.
+11 Ella made no movements and stayed in the basement for 10 minutes.
+12 Ella exited the basement and stayed in the waiting_room.
+13 Jack, Ella and Abigail entered the study.
+14 The strawberry is in the green_cupboard.
+15 Jack made no movements and stayed in the study for 10 minutes.
+16 Jack exited the study and stayed in the waiting_room.
+17 Ella made no movements and stayed in the study for 10 minutes.
+18 Ella exited the study and stayed in the waiting_room.
+19 Abigail moved the strawberry to the blue_bottle.
+20 Abigail exited the study and stayed in the waiting_room.
+21 Ava, Abigail, Ella and Jayden entered the back_yard.
+22 The lime is in the green_bathtub.
+23 Ava made no movements and stayed in the back_yard for 10 minutes.
+24 Ava exited the back_yard and stayed in the waiting_room.
+25 Abigail made no movements and stayed in the back_yard for 10 minutes.
+26 Abigail exited the back_yard and stayed in the waiting_room.
+27 Ella moved the lime to the blue_basket.
+28 Ella exited the back_yard and stayed in the waiting_room.
+29 Jayden made no movements and stayed in the back_yard for 10 minutes.
+30 Jayden exited the back_yard and stayed in the waiting_room.
+31 Ella and Abigail entered the basement.
+32 The orange is in the blue_box.
+33 Ella made no movements and stayed in the basement for 10 minutes.
+34 Ella exited the basement and stayed in the waiting_room.
+35 Abigail moved the orange to the red_bottle.
+36 Abigail exited the basement and stayed in the waiting_room.
+Question: Where does Ella think Jayden thinks the orange is?
+Choices: A. green_cupboard, B. red_suitcase, C. green_treasure_chest, D. blue_envelope, E. blue_bottle, F. red_basket, G. red_bottle, H. blue_bucket, I. green_crate, J. blue_box, K. red_bucket, L. green_bathtub, M. blue_bathtub, N. blue_basket, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

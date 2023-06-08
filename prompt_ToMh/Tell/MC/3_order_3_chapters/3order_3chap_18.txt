@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Carter, William, Hannah and Oliver entered the sunroom.
+2 The strawberry is in the red_envelope.
+3 Jack moved the strawberry to the green_bathtub.
+4 Jack exited the sunroom and stayed in the waiting_room.
+5 Carter made no movements and stayed in the sunroom for 10 minutes.
+6 Carter exited the sunroom and stayed in the waiting_room.
+7 William made no movements and stayed in the sunroom for 10 minutes.
+8 William exited the sunroom and stayed in the waiting_room.
+9 Hannah made no movements and stayed in the sunroom for 10 minutes.
+10 Hannah exited the sunroom and stayed in the waiting_room.
+11 Oliver moved the strawberry to the red_envelope.
+12 Oliver exited the sunroom and stayed in the waiting_room.
+13 William privately told Jack that the strawberry is actually in the blue_envelope.
+14 Carter privately told Hannah that the strawberry is actually in the blue_container.
+15 Oliver, Hannah and Carter entered the den.
+16 The persimmon is in the green_bottle.
+17 Oliver moved the persimmon to the blue_bathtub.
+18 Oliver exited the den and stayed in the waiting_room.
+19 Hannah moved the persimmon to the blue_box.
+20 Hannah exited the den and stayed in the waiting_room.
+21 Carter moved the persimmon to the red_crate.
+22 Carter exited the den and stayed in the waiting_room.
+23 William, Hannah, Carter and Jack entered the den.
+24 The banana is in the green_cupboard.
+25 William moved the banana to the blue_box.
+26 William exited the den and stayed in the waiting_room.
+27 Hannah made no movements and stayed in the den for 10 minutes.
+28 Hannah exited the den and stayed in the waiting_room.
+29 Carter made no movements and stayed in the den for 10 minutes.
+30 Carter exited the den and stayed in the waiting_room.
+31 Jack made no movements and stayed in the den for 10 minutes.
+32 Jack exited the den and stayed in the waiting_room.
+33 William publicly claimed that banana is in the blue_box.
+34 Jack privately told Oliver that the banana is actually in the blue_box.
+Question: Where does Jack think Oliver thinks William thinks the strawberry is?
+Choices: A. red_suitcase, B. blue_drawer, C. red_bottle, D. red_drawer, E. blue_bucket, F. green_bottle, G. green_cupboard, H. blue_box, I. blue_bathtub, J. red_crate, K. blue_container, L. red_envelope, M. blue_envelope, N. green_bathtub, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

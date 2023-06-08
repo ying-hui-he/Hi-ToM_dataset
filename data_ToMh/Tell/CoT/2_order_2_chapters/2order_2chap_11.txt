@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Abigail, Evelyn, Charlotte, Owen and Mila entered the front_yard.
+2 The asparagus is in the green_container.
+3 Abigail moved the asparagus to the red_suitcase.
+4 Abigail exited the front_yard and stayed in the waiting_room.
+5 Evelyn moved the asparagus to the blue_container.
+6 Evelyn exited the front_yard and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+8 Charlotte exited the front_yard and stayed in the waiting_room.
+9 Owen made no movements and stayed in the front_yard for 10 minutes.
+10 Owen exited the front_yard and stayed in the waiting_room.
+11 Mila made no movements and stayed in the front_yard for 10 minutes.
+12 Mila exited the front_yard and stayed in the waiting_room.
+13 Mila, Owen and Evelyn entered the front_yard.
+14 The asparagus is in the blue_container.
+15 Mila moved the asparagus to the green_container.
+16 Mila exited the front_yard and stayed in the waiting_room.
+17 Owen made no movements and stayed in the front_yard for 10 minutes.
+18 Owen exited the front_yard and stayed in the waiting_room.
+19 Evelyn moved the asparagus to the red_treasure_chest.
+20 Evelyn exited the front_yard and stayed in the waiting_room.
+21 Evelyn publicly claimed that asparagus is in the red_treasure_chest.
+22 Mila privately told Evelyn that the asparagus is actually in the green_bottle.
+Question: Where does Mila think Abigail thinks the asparagus is?
+Answer: red_treasure_chest
+Choices: A. blue_treasure_chest, B. blue_drawer, C. red_basket, D. red_bottle, E. blue_pantry, F. blue_envelope, G. red_bathtub, H. green_cupboard, I. blue_bucket, J. blue_crate, K. green_container, L. red_suitcase, M. green_bottle, N. blue_container, O. red_treasure_chest

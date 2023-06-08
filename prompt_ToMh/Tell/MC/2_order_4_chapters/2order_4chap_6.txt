@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jayden, Amelia, Ella, Hannah and Jack entered the front_yard.
+2 The radish is in the blue_basket.
+3 Jayden made no movements and stayed in the front_yard for 10 minutes.
+4 Jayden exited the front_yard and stayed in the waiting_room.
+5 Amelia moved the radish to the red_bathtub.
+6 Amelia exited the front_yard and stayed in the waiting_room.
+7 Ella made no movements and stayed in the front_yard for 10 minutes.
+8 Ella exited the front_yard and stayed in the waiting_room.
+9 Hannah moved the radish to the blue_box.
+10 Hannah exited the front_yard and stayed in the waiting_room.
+11 Jack made no movements and stayed in the front_yard for 10 minutes.
+12 Jack exited the front_yard and stayed in the waiting_room.
+13 Amelia, Jayden and Jack entered the master_bedroom.
+14 The cherry is in the blue_treasure_chest.
+15 Amelia moved the cherry to the blue_bottle.
+16 Amelia exited the master_bedroom and stayed in the waiting_room.
+17 Jayden made no movements and stayed in the master_bedroom for 10 minutes.
+18 Jayden exited the master_bedroom and stayed in the waiting_room.
+19 Jack made no movements and stayed in the master_bedroom for 10 minutes.
+20 Jack exited the master_bedroom and stayed in the waiting_room.
+21 Jayden publicly claimed that cherry is in the blue_treasure_chest.
+22 Jack privately told Jayden that the cherry is actually in the green_envelope.
+23 Jayden, Hannah, Amelia and Jack entered the kitchen.
+24 The banana is in the red_basket.
+25 Jayden made no movements and stayed in the kitchen for 10 minutes.
+26 Jayden exited the kitchen and stayed in the waiting_room.
+27 Hannah made no movements and stayed in the kitchen for 10 minutes.
+28 Hannah exited the kitchen and stayed in the waiting_room.
+29 Amelia moved the banana to the red_crate.
+30 Amelia exited the kitchen and stayed in the waiting_room.
+31 Jack made no movements and stayed in the kitchen for 10 minutes.
+32 Jack exited the kitchen and stayed in the waiting_room.
+33 Ella and Hannah entered the master_bedroom.
+34 The cherry is in the blue_bottle.
+35 Ella made no movements and stayed in the master_bedroom for 10 minutes.
+36 Ella exited the master_bedroom and stayed in the waiting_room.
+37 Hannah moved the cherry to the blue_treasure_chest.
+38 Hannah exited the master_bedroom and stayed in the waiting_room.
+39 Ella privately told Amelia that the cherry is actually in the green_suitcase.
+Question: Where does Hannah think Jack thinks the radish is?
+Choices: A. red_bathtub, B. blue_basket, C. blue_box, D. green_container, E. green_bathtub, F. red_envelope, G. red_basket, H. red_crate, I. blue_pantry, J. red_bottle, K. blue_treasure_chest, L. blue_bottle, M. green_envelope, N. green_suitcase, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

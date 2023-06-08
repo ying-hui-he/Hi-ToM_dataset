@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Benjamin, Ethan, Evelyn, Amelia and Aiden entered the cellar.
+2 The lettuce is in the red_treasure_chest.
+3 Benjamin made no movements and stayed in the cellar for 10 minutes.
+4 Benjamin exited the cellar and stayed in the waiting_room.
+5 Ethan moved the lettuce to the green_envelope.
+6 Ethan exited the cellar and stayed in the waiting_room.
+7 Evelyn moved the lettuce to the green_bottle.
+8 Evelyn exited the cellar and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the cellar for 10 minutes.
+10 Amelia exited the cellar and stayed in the waiting_room.
+11 Aiden moved the lettuce to the red_treasure_chest.
+12 Aiden exited the cellar and stayed in the waiting_room.
+13 Aiden, Ethan and Evelyn entered the playroom.
+14 The spinach is in the green_cupboard.
+15 Aiden made no movements and stayed in the playroom for 10 minutes.
+16 Aiden exited the playroom and stayed in the waiting_room.
+17 Ethan moved the spinach to the blue_pantry.
+18 Ethan exited the playroom and stayed in the waiting_room.
+19 Evelyn moved the spinach to the green_bathtub.
+20 Evelyn exited the playroom and stayed in the waiting_room.
+21 Aiden, Amelia, Benjamin and Ethan entered the study.
+22 The persimmon is in the blue_crate.
+23 Aiden moved the persimmon to the green_container.
+24 Aiden exited the study and stayed in the waiting_room.
+25 Amelia moved the persimmon to the red_drawer.
+26 Amelia exited the study and stayed in the waiting_room.
+27 Benjamin made no movements and stayed in the study for 10 minutes.
+28 Benjamin exited the study and stayed in the waiting_room.
+29 Ethan made no movements and stayed in the study for 10 minutes.
+30 Ethan exited the study and stayed in the waiting_room.
+Question: Where does Aiden think Ethan thinks Amelia thinks the lettuce is?
+Choices: A. red_drawer, B. blue_crate, C. green_container, D. blue_container, E. green_crate, F. red_treasure_chest, G. green_bottle, H. red_suitcase, I. blue_basket, J. green_envelope, K. blue_pantry, L. green_cupboard, M. green_bathtub, N. red_crate, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

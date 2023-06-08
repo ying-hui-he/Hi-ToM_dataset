@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Emily, Aria, William, Mila and Jack entered the pantry.
+2 The melon is in the red_treasure_chest.
+3 Emily moved the melon to the green_suitcase.
+4 Emily exited the pantry and stayed in the waiting_room.
+5 Aria moved the melon to the blue_treasure_chest.
+6 Aria exited the pantry and stayed in the waiting_room.
+7 William made no movements and stayed in the pantry for 10 minutes.
+8 William exited the pantry and stayed in the waiting_room.
+9 Mila made no movements and stayed in the pantry for 10 minutes.
+10 Mila exited the pantry and stayed in the waiting_room.
+11 Jack made no movements and stayed in the pantry for 10 minutes.
+12 Jack exited the pantry and stayed in the waiting_room.
+13 Mila, Jack and William entered the pantry.
+14 The melon is in the blue_treasure_chest.
+15 Mila made no movements and stayed in the pantry for 10 minutes.
+16 Mila exited the pantry and stayed in the waiting_room.
+17 Jack moved the melon to the green_crate.
+18 Jack exited the pantry and stayed in the waiting_room.
+19 William moved the melon to the green_suitcase.
+20 William exited the pantry and stayed in the waiting_room.
+21 Jack, William, Emily and Mila entered the porch.
+22 The cucumber is in the green_bottle.
+23 Jack moved the cucumber to the blue_crate.
+24 Jack exited the porch and stayed in the waiting_room.
+25 William moved the cucumber to the blue_bathtub.
+26 William exited the porch and stayed in the waiting_room.
+27 Emily made no movements and stayed in the porch for 10 minutes.
+28 Emily exited the porch and stayed in the waiting_room.
+29 Mila made no movements and stayed in the porch for 10 minutes.
+30 Mila exited the porch and stayed in the waiting_room.
+31 Emily and Aria entered the front_yard.
+32 The lemon is in the red_basket.
+33 Emily made no movements and stayed in the front_yard for 10 minutes.
+34 Emily exited the front_yard and stayed in the waiting_room.
+35 Aria moved the lemon to the red_bucket.
+36 Aria exited the front_yard and stayed in the waiting_room.
+Question: Where does William think the melon is?
+Answer: green_suitcase
+Choices: A. red_container, B. red_basket, C. green_envelope, D. red_bucket, E. blue_pantry, F. blue_bathtub, G. green_bottle, H. blue_crate, I. red_envelope, J. red_bottle, K. red_treasure_chest, L. blue_bucket, M. green_crate, N. blue_treasure_chest, O. green_suitcase

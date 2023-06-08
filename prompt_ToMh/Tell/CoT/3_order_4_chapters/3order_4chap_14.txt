@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Mia, William, Mila and Carter entered the TV_room.
+2 The melon is in the blue_box.
+3 Olivia moved the melon to the blue_bucket.
+4 Olivia exited the TV_room and stayed in the waiting_room.
+5 Mia moved the melon to the red_drawer.
+6 Mia exited the TV_room and stayed in the waiting_room.
+7 William made no movements and stayed in the TV_room for 10 minutes.
+8 William exited the TV_room and stayed in the waiting_room.
+9 Mila moved the melon to the green_treasure_chest.
+10 Mila exited the TV_room and stayed in the waiting_room.
+11 Carter made no movements and stayed in the TV_room for 10 minutes.
+12 Carter exited the TV_room and stayed in the waiting_room.
+13 Mia, Mila and Carter entered the hall.
+14 The cherry is in the green_envelope.
+15 Mia made no movements and stayed in the hall for 10 minutes.
+16 Mia exited the hall and stayed in the waiting_room.
+17 Mila made no movements and stayed in the hall for 10 minutes.
+18 Mila exited the hall and stayed in the waiting_room.
+19 Carter made no movements and stayed in the hall for 10 minutes.
+20 Carter exited the hall and stayed in the waiting_room.
+21 Mila privately told Carter that the cherry is actually in the blue_suitcase.
+22 Carter privately told William that the cherry is actually in the green_envelope.
+23 Mia, Carter, Olivia and William entered the hall.
+24 The cucumber is in the red_container.
+25 Mia made no movements and stayed in the hall for 10 minutes.
+26 Mia exited the hall and stayed in the waiting_room.
+27 Carter moved the cucumber to the green_bottle.
+28 Carter exited the hall and stayed in the waiting_room.
+29 Olivia made no movements and stayed in the hall for 10 minutes.
+30 Olivia exited the hall and stayed in the waiting_room.
+31 William made no movements and stayed in the hall for 10 minutes.
+32 William exited the hall and stayed in the waiting_room.
+33 William and Carter entered the hall.
+34 The cherry is in the green_envelope.
+35 William made no movements and stayed in the hall for 10 minutes.
+36 William exited the hall and stayed in the waiting_room.
+37 Carter made no movements and stayed in the hall for 10 minutes.
+38 Carter exited the hall and stayed in the waiting_room.
+39 Carter publicly claimed that cherry is in the green_envelope.
+40 William privately told Carter that the cherry is actually in the green_bottle.
+Question: Where does Mila think Carter thinks Olivia thinks the melon is?
+Choices: A. blue_box, B. red_drawer, C. blue_bucket, D. blue_basket, E. green_treasure_chest, F. red_container, G. green_envelope, H. blue_suitcase, I. green_container, J. green_bottle, K. red_suitcase, L. blue_bottle, M. red_bucket, N. green_crate, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

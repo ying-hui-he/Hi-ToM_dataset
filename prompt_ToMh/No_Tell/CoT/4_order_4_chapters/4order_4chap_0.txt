@@ -1,41 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jayden, Emily, William, Liam and Sophia entered the office.
-2 The celery is in the red_basket.
-3 Jayden moved the celery to the red_bathtub.
-4 Jayden exited the office and stayed in the waiting_room.
-5 Emily made no movements and stayed in the office for 10 minutes.
-6 Emily exited the office and stayed in the waiting_room.
-7 William moved the celery to the green_bottle.
-8 William exited the office and stayed in the waiting_room.
-9 Liam moved the celery to the blue_drawer.
-10 Liam exited the office and stayed in the waiting_room.
-11 Sophia made no movements and stayed in the office for 10 minutes.
-12 Sophia exited the office and stayed in the waiting_room.
-13 Liam, Sophia and Emily entered the living_room.
-14 The spinach is in the red_bottle.
-15 Liam moved the spinach to the green_pantry.
-16 Liam exited the living_room and stayed in the waiting_room.
-17 Sophia made no movements and stayed in the living_room for 10 minutes.
-18 Sophia exited the living_room and stayed in the waiting_room.
-19 Emily moved the spinach to the green_envelope.
-20 Emily exited the living_room and stayed in the waiting_room.
-21 William, Liam, Jayden and Emily entered the garden.
-22 The melon is in the green_drawer.
-23 William made no movements and stayed in the garden for 10 minutes.
-24 William exited the garden and stayed in the waiting_room.
-25 Liam moved the melon to the blue_container.
-26 Liam exited the garden and stayed in the waiting_room.
-27 Jayden moved the melon to the green_bathtub.
-28 Jayden exited the garden and stayed in the waiting_room.
-29 Emily made no movements and stayed in the garden for 10 minutes.
-30 Emily exited the garden and stayed in the waiting_room.
-31 Liam and William entered the garden.
-32 The melon is in the green_bathtub.
-33 Liam made no movements and stayed in the garden for 10 minutes.
-34 Liam exited the garden and stayed in the waiting_room.
-35 William moved the melon to the red_box.
-36 William exited the garden and stayed in the waiting_room.
-Question: Where does Sophia think Jayden thinks Emily thinks Liam thinks the celery is?
-Choices: A. green_box, B. red_bottle, C. green_envelope, D. green_pantry, E. red_drawer, F. green_treasure_chest, G. green_drawer, H. red_box, I. green_bathtub, J. blue_container, K. red_bathtub, L. red_basket, M. blue_drawer, N. green_bottle, O. blue_bucket
+1 Jack, Ethan, Noah, Evelyn and Ava entered the attic.
+2 The cherry is in the blue_container.
+3 Jack made no movements and stayed in the attic for 10 minutes.
+4 Jack exited the attic and stayed in the waiting_room.
+5 Ethan moved the cherry to the red_basket.
+6 Ethan exited the attic and stayed in the waiting_room.
+7 Noah moved the cherry to the red_bucket.
+8 Noah exited the attic and stayed in the waiting_room.
+9 Evelyn moved the cherry to the green_treasure_chest.
+10 Evelyn exited the attic and stayed in the waiting_room.
+11 Ava made no movements and stayed in the attic for 10 minutes.
+12 Ava exited the attic and stayed in the waiting_room.
+13 Noah, Evelyn and Jack entered the attic.
+14 The corn is in the red_basket.
+15 Noah made no movements and stayed in the attic for 10 minutes.
+16 Noah exited the attic and stayed in the waiting_room.
+17 Evelyn made no movements and stayed in the attic for 10 minutes.
+18 Evelyn exited the attic and stayed in the waiting_room.
+19 Jack made no movements and stayed in the attic for 10 minutes.
+20 Jack exited the attic and stayed in the waiting_room.
+21 Noah, Ethan, Evelyn and Ava entered the closet.
+22 The peach is in the red_bottle.
+23 Noah made no movements and stayed in the closet for 10 minutes.
+24 Noah exited the closet and stayed in the waiting_room.
+25 Ethan made no movements and stayed in the closet for 10 minutes.
+26 Ethan exited the closet and stayed in the waiting_room.
+27 Evelyn made no movements and stayed in the closet for 10 minutes.
+28 Evelyn exited the closet and stayed in the waiting_room.
+29 Ava made no movements and stayed in the closet for 10 minutes.
+30 Ava exited the closet and stayed in the waiting_room.
+31 Evelyn and Ava entered the playroom.
+32 The tomato is in the blue_drawer.
+33 Evelyn made no movements and stayed in the playroom for 10 minutes.
+34 Evelyn exited the playroom and stayed in the waiting_room.
+35 Ava moved the tomato to the blue_crate.
+36 Ava exited the playroom and stayed in the waiting_room.
+Question: Where does Jack think Noah thinks Evelyn thinks Ava thinks the cherry is?
+Choices: A. red_crate, B. red_bottle, C. red_drawer, D. blue_bathtub, E. green_container, F. blue_drawer, G. blue_crate, H. blue_bucket, I. blue_pantry, J. green_cupboard, K. blue_container, L. red_basket, M. red_bucket, N. green_treasure_chest, O. blue_suitcase
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

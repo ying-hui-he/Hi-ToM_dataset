@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella, Isla, Jack, Jackson and Gracie entered the attic.
+2 The radish is in the blue_box.
+3 Ella moved the radish to the green_cupboard.
+4 Ella exited the attic and stayed in the waiting_room.
+5 Isla made no movements and stayed in the attic for 10 minutes.
+6 Isla exited the attic and stayed in the waiting_room.
+7 Jack made no movements and stayed in the attic for 10 minutes.
+8 Jack exited the attic and stayed in the waiting_room.
+9 Jackson made no movements and stayed in the attic for 10 minutes.
+10 Jackson exited the attic and stayed in the waiting_room.
+11 Gracie moved the radish to the blue_box.
+12 Gracie exited the attic and stayed in the waiting_room.
+13 Ella, Jackson and Gracie entered the attic.
+14 The radish is in the blue_box.
+15 Ella made no movements and stayed in the attic for 10 minutes.
+16 Ella exited the attic and stayed in the waiting_room.
+17 Jackson made no movements and stayed in the attic for 10 minutes.
+18 Jackson exited the attic and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the attic for 10 minutes.
+20 Gracie exited the attic and stayed in the waiting_room.
+Question: Where does Ella think the radish is?
+Choices: A. blue_box, B. green_cupboard, C. blue_crate, D. red_suitcase, E. green_bathtub, F. blue_envelope, G. green_envelope, H. red_drawer, I. red_bottle, J. blue_treasure_chest, K. red_bucket, L. red_crate, M. blue_container, N. blue_pantry, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

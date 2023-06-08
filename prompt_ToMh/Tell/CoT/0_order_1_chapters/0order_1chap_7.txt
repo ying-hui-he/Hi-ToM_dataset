@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emily, Ethan, Avery, Jack and Aria entered the den.
+2 The lettuce is in the green_container.
+3 Emily made no movements and stayed in the den for 10 minutes.
+4 Emily exited the den and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the den for 10 minutes.
+6 Ethan exited the den and stayed in the waiting_room.
+7 Avery made no movements and stayed in the den for 10 minutes.
+8 Avery exited the den and stayed in the waiting_room.
+9 Jack made no movements and stayed in the den for 10 minutes.
+10 Jack exited the den and stayed in the waiting_room.
+11 Aria made no movements and stayed in the den for 10 minutes.
+12 Aria exited the den and stayed in the waiting_room.
+13 Jack publicly claimed that lettuce is in the red_bucket.
+14 Aria privately told Emily that the lettuce is actually in the green_container.
+Question: Where is the lettuce really?
+Choices: A. green_container, B. red_bucket, C. green_suitcase, D. green_envelope, E. blue_bucket, F. red_crate, G. blue_container, H. red_bathtub, I. blue_pantry, J. red_envelope, K. green_bathtub, L. blue_basket, M. red_basket, N. green_cupboard, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Abigail, Aria, Oliver, Jack and Ella entered the pantry.
+2 The turnip is in the green_bathtub.
+3 Abigail moved the turnip to the red_bottle.
+4 Abigail exited the pantry and stayed in the waiting_room.
+5 Aria moved the turnip to the green_suitcase.
+6 Aria exited the pantry and stayed in the waiting_room.
+7 Oliver made no movements and stayed in the pantry for 10 minutes.
+8 Oliver exited the pantry and stayed in the waiting_room.
+9 Jack moved the turnip to the green_container.
+10 Jack exited the pantry and stayed in the waiting_room.
+11 Ella made no movements and stayed in the pantry for 10 minutes.
+12 Ella exited the pantry and stayed in the waiting_room.
+13 Oliver, Ella and Aria entered the workshop.
+14 The spinach is in the red_treasure_chest.
+15 Oliver made no movements and stayed in the workshop for 10 minutes.
+16 Oliver exited the workshop and stayed in the waiting_room.
+17 Ella moved the spinach to the blue_envelope.
+18 Ella exited the workshop and stayed in the waiting_room.
+19 Aria made no movements and stayed in the workshop for 10 minutes.
+20 Aria exited the workshop and stayed in the waiting_room.
+21 Aria, Oliver, Abigail and Jack entered the workshop.
+22 The spinach is in the blue_envelope.
+23 Aria moved the spinach to the red_treasure_chest.
+24 Aria exited the workshop and stayed in the waiting_room.
+25 Oliver made no movements and stayed in the workshop for 10 minutes.
+26 Oliver exited the workshop and stayed in the waiting_room.
+27 Abigail made no movements and stayed in the workshop for 10 minutes.
+28 Abigail exited the workshop and stayed in the waiting_room.
+29 Jack made no movements and stayed in the workshop for 10 minutes.
+30 Jack exited the workshop and stayed in the waiting_room.
+Question: Where does Jack think Oliver thinks Aria thinks the turnip is?
+Choices: A. red_treasure_chest, B. blue_envelope, C. red_suitcase, D. green_crate, E. blue_bathtub, F. blue_pantry, G. blue_basket, H. red_container, I. blue_suitcase, J. blue_drawer, K. green_bathtub, L. green_suitcase, M. red_bottle, N. green_container, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

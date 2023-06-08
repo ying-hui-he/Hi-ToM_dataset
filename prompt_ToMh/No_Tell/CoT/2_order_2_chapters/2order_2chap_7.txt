@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ethan, Mia, Logan, Hannah and Ella entered the dining_room.
+2 The green_pepper is in the green_cupboard.
+3 Ethan made no movements and stayed in the dining_room for 10 minutes.
+4 Ethan exited the dining_room and stayed in the waiting_room.
+5 Mia made no movements and stayed in the dining_room for 10 minutes.
+6 Mia exited the dining_room and stayed in the waiting_room.
+7 Logan moved the green_pepper to the blue_envelope.
+8 Logan exited the dining_room and stayed in the waiting_room.
+9 Hannah made no movements and stayed in the dining_room for 10 minutes.
+10 Hannah exited the dining_room and stayed in the waiting_room.
+11 Ella made no movements and stayed in the dining_room for 10 minutes.
+12 Ella exited the dining_room and stayed in the waiting_room.
+13 Hannah, Ethan and Ella entered the dining_room.
+14 The green_pepper is in the blue_envelope.
+15 Hannah moved the green_pepper to the blue_suitcase.
+16 Hannah exited the dining_room and stayed in the waiting_room.
+17 Ethan made no movements and stayed in the dining_room for 10 minutes.
+18 Ethan exited the dining_room and stayed in the waiting_room.
+19 Ella made no movements and stayed in the dining_room for 10 minutes.
+20 Ella exited the dining_room and stayed in the waiting_room.
+Question: Where does Ethan think Logan thinks the green_pepper is?
+Choices: A. green_bathtub, B. red_bucket, C. blue_pantry, D. green_bottle, E. red_treasure_chest, F. red_bathtub, G. blue_bottle, H. green_suitcase, I. blue_crate, J. red_suitcase, K. green_cupboard, L. blue_envelope, M. blue_suitcase, N. green_crate, O. green_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

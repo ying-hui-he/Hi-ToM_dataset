@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Avery, Ethan, Emily and Ella entered the kitchen.
+2 The apple is in the blue_crate.
+3 Jack made no movements and stayed in the kitchen for 10 minutes.
+4 Jack exited the kitchen and stayed in the waiting_room.
+5 Avery made no movements and stayed in the kitchen for 10 minutes.
+6 Avery exited the kitchen and stayed in the waiting_room.
+7 Ethan made no movements and stayed in the kitchen for 10 minutes.
+8 Ethan exited the kitchen and stayed in the waiting_room.
+9 Emily made no movements and stayed in the kitchen for 10 minutes.
+10 Emily exited the kitchen and stayed in the waiting_room.
+11 Ella moved the apple to the blue_crate.
+12 Ella exited the kitchen and stayed in the waiting_room.
+13 Ethan privately told Jack that the apple is actually in the blue_crate.
+14 Avery privately told Emily that the apple is actually in the blue_bathtub.
+15 Ethan, Avery and Ella entered the hall.
+16 The radish is in the red_drawer.
+17 Ethan moved the radish to the green_container.
+18 Ethan exited the hall and stayed in the waiting_room.
+19 Avery made no movements and stayed in the hall for 10 minutes.
+20 Avery exited the hall and stayed in the waiting_room.
+21 Ella moved the radish to the red_bottle.
+22 Ella exited the hall and stayed in the waiting_room.
+23 Avery, Jack, Ethan and Ella entered the bedroom.
+24 The persimmon is in the red_basket.
+25 Avery moved the persimmon to the red_crate.
+26 Avery exited the bedroom and stayed in the waiting_room.
+27 Jack made no movements and stayed in the bedroom for 10 minutes.
+28 Jack exited the bedroom and stayed in the waiting_room.
+29 Ethan moved the persimmon to the red_envelope.
+30 Ethan exited the bedroom and stayed in the waiting_room.
+31 Ella moved the persimmon to the red_bathtub.
+32 Ella exited the bedroom and stayed in the waiting_room.
+33 Jack publicly claimed that persimmon is in the red_bathtub.
+34 Ella privately told Ethan that the persimmon is actually in the red_envelope.
+Question: Where does Avery think Ethan thinks the apple is?
+Answer: blue_crate
+Choices: A. red_basket, B. red_crate, C. blue_pantry, D. red_bathtub, E. red_envelope, F. blue_container, G. red_drawer, H. red_bottle, I. green_container, J. red_container, K. blue_bathtub, L. blue_crate, M. green_suitcase, N. blue_drawer, O. green_envelope

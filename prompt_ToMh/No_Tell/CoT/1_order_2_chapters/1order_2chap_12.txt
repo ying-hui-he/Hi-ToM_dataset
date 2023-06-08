@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Aria, Amelia, Jackson and Oliver entered the dining_room.
+2 The turnip is in the blue_bathtub.
+3 Avery moved the turnip to the red_bottle.
+4 Avery exited the dining_room and stayed in the waiting_room.
+5 Aria made no movements and stayed in the dining_room for 10 minutes.
+6 Aria exited the dining_room and stayed in the waiting_room.
+7 Amelia moved the turnip to the blue_suitcase.
+8 Amelia exited the dining_room and stayed in the waiting_room.
+9 Jackson made no movements and stayed in the dining_room for 10 minutes.
+10 Jackson exited the dining_room and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the dining_room for 10 minutes.
+12 Oliver exited the dining_room and stayed in the waiting_room.
+13 Aria, Amelia and Jackson entered the patio.
+14 The peach is in the blue_crate.
+15 Aria moved the peach to the green_envelope.
+16 Aria exited the patio and stayed in the waiting_room.
+17 Amelia made no movements and stayed in the patio for 10 minutes.
+18 Amelia exited the patio and stayed in the waiting_room.
+19 Jackson made no movements and stayed in the patio for 10 minutes.
+20 Jackson exited the patio and stayed in the waiting_room.
+Question: Where does Avery think the turnip is?
+Choices: A. green_bathtub, B. green_cupboard, C. green_bottle, D. red_suitcase, E. blue_bottle, F. blue_suitcase, G. blue_bathtub, H. red_bottle, I. green_suitcase, J. red_drawer, K. blue_pantry, L. blue_crate, M. green_envelope, N. green_container, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

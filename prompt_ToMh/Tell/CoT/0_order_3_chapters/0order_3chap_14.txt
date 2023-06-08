@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mila, Evelyn, Hannah, Carter and Olivia entered the workshop.
+2 The potato is in the red_bathtub.
+3 Mila made no movements and stayed in the workshop for 10 minutes.
+4 Mila exited the workshop and stayed in the waiting_room.
+5 Evelyn made no movements and stayed in the workshop for 10 minutes.
+6 Evelyn exited the workshop and stayed in the waiting_room.
+7 Hannah made no movements and stayed in the workshop for 10 minutes.
+8 Hannah exited the workshop and stayed in the waiting_room.
+9 Carter moved the potato to the red_treasure_chest.
+10 Carter exited the workshop and stayed in the waiting_room.
+11 Olivia moved the potato to the red_bathtub.
+12 Olivia exited the workshop and stayed in the waiting_room.
+13 Hannah privately told Mila that the potato is actually in the red_bucket.
+14 Evelyn privately told Carter that the potato is actually in the green_crate.
+15 Evelyn, Hannah and Olivia entered the workshop.
+16 The potato is in the red_bathtub.
+17 Evelyn made no movements and stayed in the workshop for 10 minutes.
+18 Evelyn exited the workshop and stayed in the waiting_room.
+19 Hannah moved the potato to the blue_bucket.
+20 Hannah exited the workshop and stayed in the waiting_room.
+21 Olivia made no movements and stayed in the workshop for 10 minutes.
+22 Olivia exited the workshop and stayed in the waiting_room.
+23 Evelyn, Mila, Hannah and Carter entered the workshop.
+24 The pumpkin is in the blue_bucket.
+25 Evelyn moved the pumpkin to the green_crate.
+26 Evelyn exited the workshop and stayed in the waiting_room.
+27 Mila made no movements and stayed in the workshop for 10 minutes.
+28 Mila exited the workshop and stayed in the waiting_room.
+29 Hannah made no movements and stayed in the workshop for 10 minutes.
+30 Hannah exited the workshop and stayed in the waiting_room.
+31 Carter made no movements and stayed in the workshop for 10 minutes.
+32 Carter exited the workshop and stayed in the waiting_room.
+33 Mila privately told Hannah that the pumpkin is actually in the green_crate.
+34 Carter privately told Olivia that the pumpkin is actually in the green_crate.
+Question: Where is the potato really?
+Choices: A. red_container, B. blue_box, C. red_crate, D. red_basket, E. green_container, F. green_bathtub, G. green_treasure_chest, H. blue_container, I. blue_basket, J. green_cupboard, K. blue_bucket, L. red_bathtub, M. red_treasure_chest, N. green_crate, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

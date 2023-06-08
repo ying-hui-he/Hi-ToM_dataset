@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Carter, Ava, Charlotte and Hannah entered the hall.
+2 The orange is in the red_suitcase.
+3 Evelyn made no movements and stayed in the hall for 10 minutes.
+4 Evelyn exited the hall and stayed in the waiting_room.
+5 Carter made no movements and stayed in the hall for 10 minutes.
+6 Carter exited the hall and stayed in the waiting_room.
+7 Ava moved the orange to the blue_envelope.
+8 Ava exited the hall and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the hall for 10 minutes.
+10 Charlotte exited the hall and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the hall for 10 minutes.
+12 Hannah exited the hall and stayed in the waiting_room.
+13 Hannah, Ava and Evelyn entered the attic.
+14 The beans is in the red_bathtub.
+15 Hannah moved the beans to the green_suitcase.
+16 Hannah exited the attic and stayed in the waiting_room.
+17 Ava moved the beans to the blue_container.
+18 Ava exited the attic and stayed in the waiting_room.
+19 Evelyn made no movements and stayed in the attic for 10 minutes.
+20 Evelyn exited the attic and stayed in the waiting_room.
+21 Charlotte, Carter, Hannah and Evelyn entered the attic.
+22 The cherry is in the blue_crate.
+23 Charlotte moved the cherry to the blue_container.
+24 Charlotte exited the attic and stayed in the waiting_room.
+25 Carter made no movements and stayed in the attic for 10 minutes.
+26 Carter exited the attic and stayed in the waiting_room.
+27 Hannah moved the cherry to the green_suitcase.
+28 Hannah exited the attic and stayed in the waiting_room.
+29 Evelyn moved the cherry to the red_bathtub.
+30 Evelyn exited the attic and stayed in the waiting_room.
+31 Hannah and Charlotte entered the hall.
+32 The tomato is in the blue_envelope.
+33 Hannah made no movements and stayed in the hall for 10 minutes.
+34 Hannah exited the hall and stayed in the waiting_room.
+35 Charlotte moved the tomato to the red_crate.
+36 Charlotte exited the hall and stayed in the waiting_room.
+Question: Where does Charlotte think Ava thinks Evelyn thinks Carter thinks the orange is?
+Choices: A. blue_envelope, B. red_suitcase, C. red_crate, D. blue_pantry, E. red_bottle, F. green_envelope, G. red_envelope, H. green_container, I. blue_treasure_chest, J. blue_suitcase, K. red_bathtub, L. blue_crate, M. green_suitcase, N. blue_container, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

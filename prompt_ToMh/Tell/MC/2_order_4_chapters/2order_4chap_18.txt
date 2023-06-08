@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Jayden, Benjamin, Logan and Isla entered the closet.
+2 The potato is in the red_bottle.
+3 Jack made no movements and stayed in the closet for 10 minutes.
+4 Jack exited the closet and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the closet for 10 minutes.
+6 Jayden exited the closet and stayed in the waiting_room.
+7 Benjamin made no movements and stayed in the closet for 10 minutes.
+8 Benjamin exited the closet and stayed in the waiting_room.
+9 Logan made no movements and stayed in the closet for 10 minutes.
+10 Logan exited the closet and stayed in the waiting_room.
+11 Isla moved the potato to the red_bottle.
+12 Isla exited the closet and stayed in the waiting_room.
+13 Jack, Benjamin and Logan entered the den.
+14 The peach is in the red_bucket.
+15 Jack made no movements and stayed in the den for 10 minutes.
+16 Jack exited the den and stayed in the waiting_room.
+17 Benjamin moved the peach to the green_container.
+18 Benjamin exited the den and stayed in the waiting_room.
+19 Logan made no movements and stayed in the den for 10 minutes.
+20 Logan exited the den and stayed in the waiting_room.
+21 Benjamin privately told Logan that the peach is actually in the red_bucket.
+22 Logan privately told Isla that the peach is actually in the green_container.
+23 Jayden, Jack, Logan and Isla entered the hall.
+24 The lettuce is in the green_suitcase.
+25 Jayden moved the lettuce to the blue_crate.
+26 Jayden exited the hall and stayed in the waiting_room.
+27 Jack made no movements and stayed in the hall for 10 minutes.
+28 Jack exited the hall and stayed in the waiting_room.
+29 Logan moved the lettuce to the red_treasure_chest.
+30 Logan exited the hall and stayed in the waiting_room.
+31 Isla moved the lettuce to the green_bottle.
+32 Isla exited the hall and stayed in the waiting_room.
+33 Jayden and Isla entered the closet.
+34 The potato is in the red_bottle.
+35 Jayden made no movements and stayed in the closet for 10 minutes.
+36 Jayden exited the closet and stayed in the waiting_room.
+37 Isla made no movements and stayed in the closet for 10 minutes.
+38 Isla exited the closet and stayed in the waiting_room.
+39 Isla publicly claimed that potato is in the blue_bottle.
+40 Jayden privately told Isla that the potato is actually in the green_envelope.
+Question: Where does Benjamin think Isla thinks the potato is?
+Choices: A. blue_bottle, B. red_bottle, C. green_envelope, D. green_bathtub, E. blue_suitcase, F. green_cupboard, G. red_bucket, H. blue_bucket, I. green_container, J. red_suitcase, K. green_suitcase, L. red_container, M. green_bottle, N. blue_crate, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

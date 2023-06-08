@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Logan, Carter, Isla and Noah entered the porch.
+2 The peach is in the green_envelope.
+3 Avery moved the peach to the blue_envelope.
+4 Avery exited the porch and stayed in the waiting_room.
+5 Logan moved the peach to the green_treasure_chest.
+6 Logan exited the porch and stayed in the waiting_room.
+7 Carter made no movements and stayed in the porch for 10 minutes.
+8 Carter exited the porch and stayed in the waiting_room.
+9 Isla made no movements and stayed in the porch for 10 minutes.
+10 Isla exited the porch and stayed in the waiting_room.
+11 Noah moved the peach to the green_envelope.
+12 Noah exited the porch and stayed in the waiting_room.
+13 Avery, Noah and Logan entered the porch.
+14 The peach is in the green_envelope.
+15 Avery made no movements and stayed in the porch for 10 minutes.
+16 Avery exited the porch and stayed in the waiting_room.
+17 Noah made no movements and stayed in the porch for 10 minutes.
+18 Noah exited the porch and stayed in the waiting_room.
+19 Logan made no movements and stayed in the porch for 10 minutes.
+20 Logan exited the porch and stayed in the waiting_room.
+21 Avery publicly claimed that peach is in the red_container.
+22 Logan privately told Isla that the peach is actually in the green_envelope.
+Question: Where does Carter think Isla thinks the peach is?
+Choices: A. blue_drawer, B. green_cupboard, C. blue_bottle, D. red_drawer, E. blue_treasure_chest, F. green_bottle, G. blue_suitcase, H. blue_box, I. red_basket, J. blue_pantry, K. green_envelope, L. blue_envelope, M. green_crate, N. red_container, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

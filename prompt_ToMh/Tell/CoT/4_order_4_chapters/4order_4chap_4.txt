@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Amelia, Noah, Jacob, Mila and Oliver entered the patio.
+2 The cherry is in the blue_envelope.
+3 Amelia moved the cherry to the green_container.
+4 Amelia exited the patio and stayed in the waiting_room.
+5 Noah moved the cherry to the blue_bucket.
+6 Noah exited the patio and stayed in the waiting_room.
+7 Jacob made no movements and stayed in the patio for 10 minutes.
+8 Jacob exited the patio and stayed in the waiting_room.
+9 Mila moved the cherry to the blue_box.
+10 Mila exited the patio and stayed in the waiting_room.
+11 Oliver moved the cherry to the blue_envelope.
+12 Oliver exited the patio and stayed in the waiting_room.
+13 Noah, Mila and Amelia entered the back_yard.
+14 The peach is in the blue_container.
+15 Noah moved the peach to the green_bathtub.
+16 Noah exited the back_yard and stayed in the waiting_room.
+17 Mila made no movements and stayed in the back_yard for 10 minutes.
+18 Mila exited the back_yard and stayed in the waiting_room.
+19 Amelia moved the peach to the red_container.
+20 Amelia exited the back_yard and stayed in the waiting_room.
+21 Mila privately told Amelia that the peach is actually in the red_container.
+22 Amelia privately told Oliver that the peach is actually in the red_container.
+23 Mila, Oliver, Noah and Jacob entered the back_yard.
+24 The pear is in the blue_pantry.
+25 Mila moved the pear to the red_container.
+26 Mila exited the back_yard and stayed in the waiting_room.
+27 Oliver moved the pear to the blue_container.
+28 Oliver exited the back_yard and stayed in the waiting_room.
+29 Noah made no movements and stayed in the back_yard for 10 minutes.
+30 Noah exited the back_yard and stayed in the waiting_room.
+31 Jacob made no movements and stayed in the back_yard for 10 minutes.
+32 Jacob exited the back_yard and stayed in the waiting_room.
+33 Amelia and Mila entered the back_yard.
+34 The pear is in the blue_container.
+35 Amelia made no movements and stayed in the back_yard for 10 minutes.
+36 Amelia exited the back_yard and stayed in the waiting_room.
+37 Mila moved the pear to the green_bathtub.
+38 Mila exited the back_yard and stayed in the waiting_room.
+39 Amelia privately told Noah that the pear is actually in the blue_container.
+Question: Where does Oliver think Mila thinks Amelia thinks Jacob thinks the cherry is?
+Choices: A. red_suitcase, B. blue_envelope, C. blue_box, D. green_container, E. blue_bucket, F. blue_pantry, G. blue_container, H. red_bottle, I. green_bathtub, J. red_container, K. blue_bottle, L. green_bottle, M. red_treasure_chest, N. red_bucket, O. green_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

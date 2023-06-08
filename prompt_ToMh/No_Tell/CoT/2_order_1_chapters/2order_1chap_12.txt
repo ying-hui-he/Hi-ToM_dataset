@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Hannah, Noah, Jayden, Aria and Olivia entered the hallway.
+2 The carrot is in the green_envelope.
+3 Hannah made no movements and stayed in the hallway for 10 minutes.
+4 Hannah exited the hallway and stayed in the waiting_room.
+5 Noah made no movements and stayed in the hallway for 10 minutes.
+6 Noah exited the hallway and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the hallway for 10 minutes.
+8 Jayden exited the hallway and stayed in the waiting_room.
+9 Aria moved the carrot to the red_drawer.
+10 Aria exited the hallway and stayed in the waiting_room.
+11 Olivia moved the carrot to the green_envelope.
+12 Olivia exited the hallway and stayed in the waiting_room.
+Question: Where does Olivia think Jayden thinks the carrot is?
+Choices: A. green_envelope, B. red_container, C. red_drawer, D. green_treasure_chest, E. blue_bottle, F. blue_crate, G. blue_box, H. red_treasure_chest, I. blue_basket, J. green_crate, K. green_bathtub, L. blue_treasure_chest, M. blue_bucket, N. blue_suitcase, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

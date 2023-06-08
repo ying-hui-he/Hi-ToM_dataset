@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mia, Ava, Aria, Owen and Emily entered the bedroom.
+2 The onion is in the blue_basket.
+3 Mia moved the onion to the green_bottle.
+4 Mia exited the bedroom and stayed in the waiting_room.
+5 Ava moved the onion to the green_envelope.
+6 Ava exited the bedroom and stayed in the waiting_room.
+7 Aria moved the onion to the red_envelope.
+8 Aria exited the bedroom and stayed in the waiting_room.
+9 Owen moved the onion to the green_container.
+10 Owen exited the bedroom and stayed in the waiting_room.
+11 Emily made no movements and stayed in the bedroom for 10 minutes.
+12 Emily exited the bedroom and stayed in the waiting_room.
+13 Emily, Aria and Owen entered the dining_room.
+14 The tangerine is in the red_drawer.
+15 Emily moved the tangerine to the blue_bottle.
+16 Emily exited the dining_room and stayed in the waiting_room.
+17 Aria moved the tangerine to the blue_suitcase.
+18 Aria exited the dining_room and stayed in the waiting_room.
+19 Owen moved the tangerine to the red_bucket.
+20 Owen exited the dining_room and stayed in the waiting_room.
+21 Emily publicly claimed that tangerine is in the green_bathtub.
+22 Owen privately told Mia that the tangerine is actually in the red_bucket.
+23 Mia, Ava, Emily and Aria entered the bedroom.
+24 The grapefruit is in the green_bottle.
+25 Mia made no movements and stayed in the bedroom for 10 minutes.
+26 Mia exited the bedroom and stayed in the waiting_room.
+27 Ava moved the grapefruit to the green_container.
+28 Ava exited the bedroom and stayed in the waiting_room.
+29 Emily made no movements and stayed in the bedroom for 10 minutes.
+30 Emily exited the bedroom and stayed in the waiting_room.
+31 Aria made no movements and stayed in the bedroom for 10 minutes.
+32 Aria exited the bedroom and stayed in the waiting_room.
+33 Aria and Emily entered the bedroom.
+34 The grapefruit is in the green_container.
+35 Aria moved the grapefruit to the red_envelope.
+36 Aria exited the bedroom and stayed in the waiting_room.
+37 Emily moved the grapefruit to the blue_basket.
+38 Emily exited the bedroom and stayed in the waiting_room.
+39 Aria publicly claimed that grapefruit is in the blue_basket.
+40 Emily privately told Aria that the grapefruit is actually in the green_bottle.
+Question: Where does Aria think Emily thinks Mia thinks Owen thinks the onion is?
+Choices: A. red_drawer, B. blue_bottle, C. red_bucket, D. green_bathtub, E. blue_suitcase, F. blue_crate, G. green_suitcase, H. blue_bucket, I. blue_box, J. red_bottle, K. blue_basket, L. green_bottle, M. green_envelope, N. red_envelope, O. green_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

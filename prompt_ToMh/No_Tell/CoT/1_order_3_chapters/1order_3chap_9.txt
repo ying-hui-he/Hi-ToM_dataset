@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Abigail, Avery, Ethan, Carter and Emily entered the playroom.
+2 The beans is in the blue_box.
+3 Abigail moved the beans to the red_crate.
+4 Abigail exited the playroom and stayed in the waiting_room.
+5 Avery made no movements and stayed in the playroom for 10 minutes.
+6 Avery exited the playroom and stayed in the waiting_room.
+7 Ethan moved the beans to the blue_envelope.
+8 Ethan exited the playroom and stayed in the waiting_room.
+9 Carter moved the beans to the blue_drawer.
+10 Carter exited the playroom and stayed in the waiting_room.
+11 Emily made no movements and stayed in the playroom for 10 minutes.
+12 Emily exited the playroom and stayed in the waiting_room.
+13 Ethan, Avery and Abigail entered the playroom.
+14 The cucumber is in the red_crate.
+15 Ethan made no movements and stayed in the playroom for 10 minutes.
+16 Ethan exited the playroom and stayed in the waiting_room.
+17 Avery made no movements and stayed in the playroom for 10 minutes.
+18 Avery exited the playroom and stayed in the waiting_room.
+19 Abigail moved the cucumber to the blue_envelope.
+20 Abigail exited the playroom and stayed in the waiting_room.
+21 Carter, Abigail, Ethan and Avery entered the staircase.
+22 The turnip is in the green_bottle.
+23 Carter made no movements and stayed in the staircase for 10 minutes.
+24 Carter exited the staircase and stayed in the waiting_room.
+25 Abigail moved the turnip to the red_bottle.
+26 Abigail exited the staircase and stayed in the waiting_room.
+27 Ethan moved the turnip to the red_drawer.
+28 Ethan exited the staircase and stayed in the waiting_room.
+29 Avery made no movements and stayed in the staircase for 10 minutes.
+30 Avery exited the staircase and stayed in the waiting_room.
+Question: Where does Abigail think the beans is?
+Choices: A. red_crate, B. blue_box, C. blue_envelope, D. red_treasure_chest, E. blue_drawer, F. green_treasure_chest, G. green_crate, H. red_bucket, I. green_bathtub, J. blue_bottle, K. green_bottle, L. green_cupboard, M. red_drawer, N. red_bottle, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

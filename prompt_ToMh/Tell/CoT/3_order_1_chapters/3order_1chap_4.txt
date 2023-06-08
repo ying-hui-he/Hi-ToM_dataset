@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Mia, Olivia, Oliver and James entered the basement.
+2 The plum is in the blue_basket.
+3 Jack made no movements and stayed in the basement for 10 minutes.
+4 Jack exited the basement and stayed in the waiting_room.
+5 Mia moved the plum to the red_suitcase.
+6 Mia exited the basement and stayed in the waiting_room.
+7 Olivia moved the plum to the blue_bucket.
+8 Olivia exited the basement and stayed in the waiting_room.
+9 Oliver moved the plum to the blue_bathtub.
+10 Oliver exited the basement and stayed in the waiting_room.
+11 James moved the plum to the blue_basket.
+12 James exited the basement and stayed in the waiting_room.
+13 Olivia privately told Jack that the plum is actually in the blue_basket.
+14 Mia privately told Oliver that the plum is actually in the red_suitcase.
+Question: Where does Jack think Oliver thinks Olivia thinks the plum is?
+Choices: A. red_bottle, B. green_cupboard, C. red_bathtub, D. red_basket, E. red_crate, F. red_container, G. blue_box, H. green_bathtub, I. red_bucket, J. blue_container, K. blue_pantry, L. blue_basket, M. blue_bucket, N. blue_bathtub, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

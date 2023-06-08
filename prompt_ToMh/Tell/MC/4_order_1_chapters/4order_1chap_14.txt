@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Amelia, Evelyn, Jacob and Emily entered the bathroom.
+2 The beans is in the green_cupboard.
+3 Ava moved the beans to the red_envelope.
+4 Ava exited the bathroom and stayed in the waiting_room.
+5 Amelia made no movements and stayed in the bathroom for 10 minutes.
+6 Amelia exited the bathroom and stayed in the waiting_room.
+7 Evelyn made no movements and stayed in the bathroom for 10 minutes.
+8 Evelyn exited the bathroom and stayed in the waiting_room.
+9 Jacob moved the beans to the blue_box.
+10 Jacob exited the bathroom and stayed in the waiting_room.
+11 Emily made no movements and stayed in the bathroom for 10 minutes.
+12 Emily exited the bathroom and stayed in the waiting_room.
+13 Evelyn publicly claimed that beans is in the green_bottle.
+14 Emily privately told Evelyn that the beans is actually in the green_bathtub.
+Question: Where does Amelia think Evelyn thinks Emily thinks Ava thinks the beans is?
+Choices: A. red_basket, B. blue_container, C. green_crate, D. red_container, E. red_bottle, F. red_envelope, G. green_cupboard, H. green_bathtub, I. blue_box, J. green_bottle, K. blue_treasure_chest, L. blue_drawer, M. red_crate, N. blue_envelope, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

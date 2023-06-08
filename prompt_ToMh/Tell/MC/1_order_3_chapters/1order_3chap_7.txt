@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Avery, Olivia, Emma and Jack entered the sunroom.
+2 The beans is in the blue_pantry.
+3 Ava moved the beans to the blue_treasure_chest.
+4 Ava exited the sunroom and stayed in the waiting_room.
+5 Avery moved the beans to the green_container.
+6 Avery exited the sunroom and stayed in the waiting_room.
+7 Olivia made no movements and stayed in the sunroom for 10 minutes.
+8 Olivia exited the sunroom and stayed in the waiting_room.
+9 Emma made no movements and stayed in the sunroom for 10 minutes.
+10 Emma exited the sunroom and stayed in the waiting_room.
+11 Jack made no movements and stayed in the sunroom for 10 minutes.
+12 Jack exited the sunroom and stayed in the waiting_room.
+13 Olivia publicly claimed that beans is in the green_container.
+14 Jack privately told Olivia that the beans is actually in the blue_pantry.
+15 Emma, Avery and Ava entered the porch.
+16 The persimmon is in the red_crate.
+17 Emma made no movements and stayed in the porch for 10 minutes.
+18 Emma exited the porch and stayed in the waiting_room.
+19 Avery made no movements and stayed in the porch for 10 minutes.
+20 Avery exited the porch and stayed in the waiting_room.
+21 Ava moved the persimmon to the green_cupboard.
+22 Ava exited the porch and stayed in the waiting_room.
+23 Jack, Olivia, Emma and Avery entered the porch.
+24 The persimmon is in the green_cupboard.
+25 Jack made no movements and stayed in the porch for 10 minutes.
+26 Jack exited the porch and stayed in the waiting_room.
+27 Olivia made no movements and stayed in the porch for 10 minutes.
+28 Olivia exited the porch and stayed in the waiting_room.
+29 Emma made no movements and stayed in the porch for 10 minutes.
+30 Emma exited the porch and stayed in the waiting_room.
+31 Avery moved the persimmon to the red_crate.
+32 Avery exited the porch and stayed in the waiting_room.
+33 Olivia publicly claimed that persimmon is in the green_cupboard.
+34 Avery privately told Emma that the persimmon is actually in the red_drawer.
+Question: Where does Olivia think the beans is?
+Choices: A. red_suitcase, B. red_crate, C. blue_bucket, D. green_cupboard, E. red_drawer, F. red_basket, G. blue_pantry, H. blue_treasure_chest, I. green_container, J. blue_crate, K. green_bathtub, L. green_treasure_chest, M. red_bottle, N. blue_envelope, O. blue_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

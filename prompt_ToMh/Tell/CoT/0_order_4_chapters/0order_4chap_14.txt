@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Logan, Amelia, Jayden, Evelyn and Jackson entered the living_room.
+2 The corn is in the blue_suitcase.
+3 Logan moved the corn to the green_bathtub.
+4 Logan exited the living_room and stayed in the waiting_room.
+5 Amelia moved the corn to the blue_bathtub.
+6 Amelia exited the living_room and stayed in the waiting_room.
+7 Jayden moved the corn to the blue_drawer.
+8 Jayden exited the living_room and stayed in the waiting_room.
+9 Evelyn moved the corn to the blue_box.
+10 Evelyn exited the living_room and stayed in the waiting_room.
+11 Jackson moved the corn to the blue_suitcase.
+12 Jackson exited the living_room and stayed in the waiting_room.
+13 Jackson, Amelia and Jayden entered the back_yard.
+14 The carrot is in the green_cupboard.
+15 Jackson made no movements and stayed in the back_yard for 10 minutes.
+16 Jackson exited the back_yard and stayed in the waiting_room.
+17 Amelia made no movements and stayed in the back_yard for 10 minutes.
+18 Amelia exited the back_yard and stayed in the waiting_room.
+19 Jayden made no movements and stayed in the back_yard for 10 minutes.
+20 Jayden exited the back_yard and stayed in the waiting_room.
+21 Amelia publicly claimed that carrot is in the blue_bottle.
+22 Jayden privately told Amelia that the carrot is actually in the blue_envelope.
+23 Evelyn, Jayden, Jackson and Amelia entered the living_room.
+24 The corn is in the blue_suitcase.
+25 Evelyn moved the corn to the green_bathtub.
+26 Evelyn exited the living_room and stayed in the waiting_room.
+27 Jayden moved the corn to the blue_box.
+28 Jayden exited the living_room and stayed in the waiting_room.
+29 Jackson moved the corn to the blue_drawer.
+30 Jackson exited the living_room and stayed in the waiting_room.
+31 Amelia made no movements and stayed in the living_room for 10 minutes.
+32 Amelia exited the living_room and stayed in the waiting_room.
+33 Jayden and Logan entered the attic.
+34 The turnip is in the green_crate.
+35 Jayden moved the turnip to the green_treasure_chest.
+36 Jayden exited the attic and stayed in the waiting_room.
+37 Logan moved the turnip to the red_bathtub.
+38 Logan exited the attic and stayed in the waiting_room.
+39 Jayden publicly claimed that turnip is in the green_treasure_chest.
+40 Logan privately told Jayden that the turnip is actually in the red_crate.
+Question: Where is the corn really?
+Choices: A. green_cupboard, B. blue_crate, C. blue_envelope, D. blue_basket, E. blue_bottle, F. blue_bucket, G. green_crate, H. green_treasure_chest, I. red_bathtub, J. red_crate, K. green_bathtub, L. blue_suitcase, M. blue_drawer, N. blue_box, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

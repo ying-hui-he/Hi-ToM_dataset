@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Oliver, Carter, William and Evelyn entered the garage.
+2 The grapefruit is in the blue_envelope.
+3 Jack moved the grapefruit to the red_suitcase.
+4 Jack exited the garage and stayed in the waiting_room.
+5 Oliver moved the grapefruit to the red_basket.
+6 Oliver exited the garage and stayed in the waiting_room.
+7 Carter made no movements and stayed in the garage for 10 minutes.
+8 Carter exited the garage and stayed in the waiting_room.
+9 William moved the grapefruit to the red_bathtub.
+10 William exited the garage and stayed in the waiting_room.
+11 Evelyn made no movements and stayed in the garage for 10 minutes.
+12 Evelyn exited the garage and stayed in the waiting_room.
+13 William, Oliver and Jack entered the garage.
+14 The pineapple is in the red_basket.
+15 William moved the pineapple to the blue_envelope.
+16 William exited the garage and stayed in the waiting_room.
+17 Oliver made no movements and stayed in the garage for 10 minutes.
+18 Oliver exited the garage and stayed in the waiting_room.
+19 Jack moved the pineapple to the red_suitcase.
+20 Jack exited the garage and stayed in the waiting_room.
+21 William publicly claimed that pineapple is in the red_bathtub.
+22 Jack privately told Carter that the pineapple is actually in the red_suitcase.
+Question: Where does Oliver think the grapefruit is?
+Choices: A. blue_drawer, B. green_envelope, C. green_cupboard, D. green_treasure_chest, E. red_crate, F. green_bottle, G. blue_crate, H. red_envelope, I. blue_basket, J. green_crate, K. blue_envelope, L. red_basket, M. red_bathtub, N. blue_bucket, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

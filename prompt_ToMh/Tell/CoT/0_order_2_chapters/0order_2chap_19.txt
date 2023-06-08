@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Charlotte, Mia, Jacob, Jackson and Isla entered the cellar.
+2 The corn is in the green_container.
+3 Charlotte moved the corn to the blue_crate.
+4 Charlotte exited the cellar and stayed in the waiting_room.
+5 Mia moved the corn to the blue_envelope.
+6 Mia exited the cellar and stayed in the waiting_room.
+7 Jacob moved the corn to the green_suitcase.
+8 Jacob exited the cellar and stayed in the waiting_room.
+9 Jackson made no movements and stayed in the cellar for 10 minutes.
+10 Jackson exited the cellar and stayed in the waiting_room.
+11 Isla moved the corn to the green_container.
+12 Isla exited the cellar and stayed in the waiting_room.
+13 Isla, Mia and Charlotte entered the cellar.
+14 The melon is in the green_suitcase.
+15 Isla made no movements and stayed in the cellar for 10 minutes.
+16 Isla exited the cellar and stayed in the waiting_room.
+17 Mia moved the melon to the blue_crate.
+18 Mia exited the cellar and stayed in the waiting_room.
+19 Charlotte moved the melon to the green_container.
+20 Charlotte exited the cellar and stayed in the waiting_room.
+21 Charlotte publicly claimed that melon is in the green_container.
+22 Isla privately told Charlotte that the melon is actually in the blue_crate.
+Question: Where is the corn really?
+Choices: A. green_suitcase, B. green_container, C. blue_crate, D. blue_container, E. blue_envelope, F. blue_bottle, G. blue_bucket, H. red_container, I. red_crate, J. green_envelope, K. red_drawer, L. green_bathtub, M. blue_box, N. blue_suitcase, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

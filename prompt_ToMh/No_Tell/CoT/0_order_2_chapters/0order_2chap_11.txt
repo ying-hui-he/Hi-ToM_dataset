@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Carter, Logan, Ella, Jack and Ava entered the patio.
+2 The persimmon is in the red_container.
+3 Carter moved the persimmon to the blue_pantry.
+4 Carter exited the patio and stayed in the waiting_room.
+5 Logan moved the persimmon to the blue_bathtub.
+6 Logan exited the patio and stayed in the waiting_room.
+7 Ella moved the persimmon to the green_suitcase.
+8 Ella exited the patio and stayed in the waiting_room.
+9 Jack moved the persimmon to the green_cupboard.
+10 Jack exited the patio and stayed in the waiting_room.
+11 Ava moved the persimmon to the red_container.
+12 Ava exited the patio and stayed in the waiting_room.
+13 Logan, Ava and Ella entered the garage.
+14 The asparagus is in the green_envelope.
+15 Logan moved the asparagus to the green_container.
+16 Logan exited the garage and stayed in the waiting_room.
+17 Ava moved the asparagus to the blue_treasure_chest.
+18 Ava exited the garage and stayed in the waiting_room.
+19 Ella made no movements and stayed in the garage for 10 minutes.
+20 Ella exited the garage and stayed in the waiting_room.
+Question: Where is the persimmon really?
+Choices: A. blue_pantry, B. red_container, C. green_cupboard, D. green_suitcase, E. blue_bathtub, F. red_basket, G. green_crate, H. green_bathtub, I. blue_basket, J. green_bottle, K. green_envelope, L. blue_treasure_chest, M. red_suitcase, N. green_container, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

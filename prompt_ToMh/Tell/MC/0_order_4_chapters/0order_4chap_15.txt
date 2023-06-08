@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Avery, Olivia, Isla, Logan and Hannah entered the attic.
+2 The radish is in the blue_pantry.
+3 Avery made no movements and stayed in the attic for 10 minutes.
+4 Avery exited the attic and stayed in the waiting_room.
+5 Olivia made no movements and stayed in the attic for 10 minutes.
+6 Olivia exited the attic and stayed in the waiting_room.
+7 Isla made no movements and stayed in the attic for 10 minutes.
+8 Isla exited the attic and stayed in the waiting_room.
+9 Logan made no movements and stayed in the attic for 10 minutes.
+10 Logan exited the attic and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the attic for 10 minutes.
+12 Hannah exited the attic and stayed in the waiting_room.
+13 Logan, Hannah and Avery entered the attic.
+14 The corn is in the blue_bucket.
+15 Logan moved the corn to the blue_envelope.
+16 Logan exited the attic and stayed in the waiting_room.
+17 Hannah made no movements and stayed in the attic for 10 minutes.
+18 Hannah exited the attic and stayed in the waiting_room.
+19 Avery moved the corn to the blue_pantry.
+20 Avery exited the attic and stayed in the waiting_room.
+21 Logan publicly claimed that corn is in the blue_basket.
+22 Avery privately told Isla that the corn is actually in the blue_pantry.
+23 Logan, Olivia, Isla and Avery entered the pantry.
+24 The onion is in the green_envelope.
+25 Logan made no movements and stayed in the pantry for 10 minutes.
+26 Logan exited the pantry and stayed in the waiting_room.
+27 Olivia made no movements and stayed in the pantry for 10 minutes.
+28 Olivia exited the pantry and stayed in the waiting_room.
+29 Isla moved the onion to the green_bottle.
+30 Isla exited the pantry and stayed in the waiting_room.
+31 Avery made no movements and stayed in the pantry for 10 minutes.
+32 Avery exited the pantry and stayed in the waiting_room.
+33 Isla and Hannah entered the pantry.
+34 The potato is in the green_bottle.
+35 Isla moved the potato to the green_envelope.
+36 Isla exited the pantry and stayed in the waiting_room.
+37 Hannah moved the potato to the blue_bottle.
+38 Hannah exited the pantry and stayed in the waiting_room.
+39 Isla privately told Olivia that the potato is actually in the blue_drawer.
+Question: Where is the radish really?
+Choices: A. red_crate, B. green_suitcase, C. red_basket, D. blue_treasure_chest, E. green_treasure_chest, F. green_bottle, G. green_envelope, H. blue_bottle, I. green_crate, J. blue_drawer, K. blue_pantry, L. blue_bucket, M. blue_envelope, N. blue_bathtub, O. blue_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

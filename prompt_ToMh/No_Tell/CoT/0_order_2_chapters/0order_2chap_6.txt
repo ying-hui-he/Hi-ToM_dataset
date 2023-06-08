@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Gracie, Jack, Oliver, Jayden and Noah entered the den.
+2 The grapefruit is in the red_basket.
+3 Gracie made no movements and stayed in the den for 10 minutes.
+4 Gracie exited the den and stayed in the waiting_room.
+5 Jack moved the grapefruit to the blue_basket.
+6 Jack exited the den and stayed in the waiting_room.
+7 Oliver made no movements and stayed in the den for 10 minutes.
+8 Oliver exited the den and stayed in the waiting_room.
+9 Jayden moved the grapefruit to the green_bathtub.
+10 Jayden exited the den and stayed in the waiting_room.
+11 Noah moved the grapefruit to the red_basket.
+12 Noah exited the den and stayed in the waiting_room.
+13 Jayden, Gracie and Jack entered the patio.
+14 The peach is in the green_container.
+15 Jayden made no movements and stayed in the patio for 10 minutes.
+16 Jayden exited the patio and stayed in the waiting_room.
+17 Gracie moved the peach to the red_envelope.
+18 Gracie exited the patio and stayed in the waiting_room.
+19 Jack moved the peach to the blue_bathtub.
+20 Jack exited the patio and stayed in the waiting_room.
+Question: Where is the grapefruit really?
+Choices: A. green_container, B. blue_crate, C. red_envelope, D. blue_bottle, E. blue_bathtub, F. green_bottle, G. red_bathtub, H. green_suitcase, I. blue_box, J. blue_treasure_chest, K. blue_drawer, L. red_basket, M. blue_basket, N. green_bathtub, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

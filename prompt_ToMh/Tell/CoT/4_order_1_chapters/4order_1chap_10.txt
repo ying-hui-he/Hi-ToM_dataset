@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Logan, Evelyn, Ethan, Ella and Avery entered the cellar.
+2 The strawberry is in the blue_basket.
+3 Logan moved the strawberry to the red_envelope.
+4 Logan exited the cellar and stayed in the waiting_room.
+5 Evelyn moved the strawberry to the red_treasure_chest.
+6 Evelyn exited the cellar and stayed in the waiting_room.
+7 Ethan moved the strawberry to the blue_crate.
+8 Ethan exited the cellar and stayed in the waiting_room.
+9 Ella moved the strawberry to the red_bottle.
+10 Ella exited the cellar and stayed in the waiting_room.
+11 Avery moved the strawberry to the blue_basket.
+12 Avery exited the cellar and stayed in the waiting_room.
+13 Ethan privately told Logan that the strawberry is actually in the red_envelope.
+14 Evelyn privately told Ella that the strawberry is actually in the red_treasure_chest.
+Question: Where does Ethan think Logan thinks Ella thinks Evelyn thinks the strawberry is?
+Choices: A. blue_pantry, B. red_container, C. green_crate, D. blue_suitcase, E. blue_bucket, F. red_bottle, G. blue_basket, H. red_envelope, I. red_treasure_chest, J. blue_crate, K. blue_bathtub, L. green_cupboard, M. blue_treasure_chest, N. red_bathtub, O. green_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

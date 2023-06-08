@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Oliver, William, Avery, Mia and Emma entered the lounge.
+2 The pear is in the blue_envelope.
+3 Oliver made no movements and stayed in the lounge for 10 minutes.
+4 Oliver exited the lounge and stayed in the waiting_room.
+5 William made no movements and stayed in the lounge for 10 minutes.
+6 William exited the lounge and stayed in the waiting_room.
+7 Avery moved the pear to the green_bathtub.
+8 Avery exited the lounge and stayed in the waiting_room.
+9 Mia moved the pear to the blue_drawer.
+10 Mia exited the lounge and stayed in the waiting_room.
+11 Emma moved the pear to the blue_envelope.
+12 Emma exited the lounge and stayed in the waiting_room.
+13 Oliver, William and Emma entered the lounge.
+14 The pear is in the blue_envelope.
+15 Oliver moved the pear to the blue_bottle.
+16 Oliver exited the lounge and stayed in the waiting_room.
+17 William made no movements and stayed in the lounge for 10 minutes.
+18 William exited the lounge and stayed in the waiting_room.
+19 Emma moved the pear to the green_bathtub.
+20 Emma exited the lounge and stayed in the waiting_room.
+21 Oliver, William, Mia and Emma entered the front_yard.
+22 The potato is in the blue_bathtub.
+23 Oliver moved the potato to the red_container.
+24 Oliver exited the front_yard and stayed in the waiting_room.
+25 William moved the potato to the blue_suitcase.
+26 William exited the front_yard and stayed in the waiting_room.
+27 Mia made no movements and stayed in the front_yard for 10 minutes.
+28 Mia exited the front_yard and stayed in the waiting_room.
+29 Emma moved the potato to the blue_pantry.
+30 Emma exited the front_yard and stayed in the waiting_room.
+Question: Where does Emma think the pear is?
+Choices: A. blue_container, B. red_bathtub, C. red_basket, D. green_crate, E. green_container, F. green_bathtub, G. blue_envelope, H. red_treasure_chest, I. blue_bottle, J. blue_drawer, K. red_drawer, L. blue_bathtub, M. blue_pantry, N. blue_suitcase, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

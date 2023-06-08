@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Hannah, Mila, Jackson, Benjamin and Jayden entered the playroom.
+2 The grapefruit is in the blue_crate.
+3 Hannah made no movements and stayed in the playroom for 10 minutes.
+4 Hannah exited the playroom and stayed in the waiting_room.
+5 Mila moved the grapefruit to the blue_envelope.
+6 Mila exited the playroom and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the playroom for 10 minutes.
+8 Jackson exited the playroom and stayed in the waiting_room.
+9 Benjamin moved the grapefruit to the green_suitcase.
+10 Benjamin exited the playroom and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the playroom for 10 minutes.
+12 Jayden exited the playroom and stayed in the waiting_room.
+13 Jackson privately told Hannah that the grapefruit is actually in the green_bottle.
+14 Mila privately told Benjamin that the grapefruit is actually in the blue_crate.
+Question: Where does Hannah think the grapefruit is?
+Choices: A. blue_crate, B. blue_basket, C. green_suitcase, D. green_bottle, E. blue_envelope, F. blue_pantry, G. red_basket, H. red_crate, I. red_drawer, J. green_envelope, K. blue_bathtub, L. red_bottle, M. red_bathtub, N. blue_suitcase, O. green_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

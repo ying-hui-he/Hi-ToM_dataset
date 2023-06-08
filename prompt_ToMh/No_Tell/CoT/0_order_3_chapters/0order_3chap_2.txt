@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Isla, Mia, James, Oliver and Carter entered the back_yard.
+2 The green_pepper is in the green_treasure_chest.
+3 Isla moved the green_pepper to the red_container.
+4 Isla exited the back_yard and stayed in the waiting_room.
+5 Mia moved the green_pepper to the red_basket.
+6 Mia exited the back_yard and stayed in the waiting_room.
+7 James moved the green_pepper to the blue_crate.
+8 James exited the back_yard and stayed in the waiting_room.
+9 Oliver moved the green_pepper to the blue_suitcase.
+10 Oliver exited the back_yard and stayed in the waiting_room.
+11 Carter made no movements and stayed in the back_yard for 10 minutes.
+12 Carter exited the back_yard and stayed in the waiting_room.
+13 Oliver, Isla and James entered the staircase.
+14 The carrot is in the blue_basket.
+15 Oliver made no movements and stayed in the staircase for 10 minutes.
+16 Oliver exited the staircase and stayed in the waiting_room.
+17 Isla made no movements and stayed in the staircase for 10 minutes.
+18 Isla exited the staircase and stayed in the waiting_room.
+19 James made no movements and stayed in the staircase for 10 minutes.
+20 James exited the staircase and stayed in the waiting_room.
+21 James, Isla, Carter and Oliver entered the back_yard.
+22 The green_pepper is in the blue_suitcase.
+23 James moved the green_pepper to the red_container.
+24 James exited the back_yard and stayed in the waiting_room.
+25 Isla moved the green_pepper to the blue_crate.
+26 Isla exited the back_yard and stayed in the waiting_room.
+27 Carter moved the green_pepper to the green_treasure_chest.
+28 Carter exited the back_yard and stayed in the waiting_room.
+29 Oliver made no movements and stayed in the back_yard for 10 minutes.
+30 Oliver exited the back_yard and stayed in the waiting_room.
+Question: Where is the green_pepper really?
+Choices: A. blue_suitcase, B. green_treasure_chest, C. red_basket, D. blue_crate, E. red_container, F. red_envelope, G. green_suitcase, H. red_suitcase, I. red_bottle, J. blue_box, K. blue_pantry, L. blue_basket, M. green_bottle, N. green_envelope, O. blue_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

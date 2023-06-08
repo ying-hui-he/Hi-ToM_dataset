@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Owen, James, Carter, Emma and Evelyn entered the sunroom.
+2 The onion is in the red_bathtub.
+3 Owen made no movements and stayed in the sunroom for 10 minutes.
+4 Owen exited the sunroom and stayed in the waiting_room.
+5 James made no movements and stayed in the sunroom for 10 minutes.
+6 James exited the sunroom and stayed in the waiting_room.
+7 Carter moved the onion to the red_bucket.
+8 Carter exited the sunroom and stayed in the waiting_room.
+9 Emma moved the onion to the blue_treasure_chest.
+10 Emma exited the sunroom and stayed in the waiting_room.
+11 Evelyn made no movements and stayed in the sunroom for 10 minutes.
+12 Evelyn exited the sunroom and stayed in the waiting_room.
+13 Owen, Emma and James entered the sunroom.
+14 The onion is in the blue_treasure_chest.
+15 Owen made no movements and stayed in the sunroom for 10 minutes.
+16 Owen exited the sunroom and stayed in the waiting_room.
+17 Emma made no movements and stayed in the sunroom for 10 minutes.
+18 Emma exited the sunroom and stayed in the waiting_room.
+19 James moved the onion to the red_bathtub.
+20 James exited the sunroom and stayed in the waiting_room.
+21 Emma privately told James that the onion is actually in the red_bottle.
+22 James privately told Evelyn that the onion is actually in the red_bathtub.
+Question: Where does James think Carter thinks the onion is?
+Choices: A. green_bottle, B. red_drawer, C. red_basket, D. green_suitcase, E. green_treasure_chest, F. blue_bucket, G. red_container, H. red_envelope, I. blue_suitcase, J. red_treasure_chest, K. red_bathtub, L. blue_treasure_chest, M. blue_envelope, N. red_bottle, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

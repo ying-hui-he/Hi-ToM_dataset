@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jackson, Logan, Charlotte, James and Abigail entered the patio.
+2 The celery is in the red_bathtub.
+3 Jackson moved the celery to the green_bathtub.
+4 Jackson exited the patio and stayed in the waiting_room.
+5 Logan made no movements and stayed in the patio for 10 minutes.
+6 Logan exited the patio and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the patio for 10 minutes.
+8 Charlotte exited the patio and stayed in the waiting_room.
+9 James moved the celery to the blue_basket.
+10 James exited the patio and stayed in the waiting_room.
+11 Abigail moved the celery to the red_bathtub.
+12 Abigail exited the patio and stayed in the waiting_room.
+13 James, Charlotte and Logan entered the bedroom.
+14 The cherry is in the red_bucket.
+15 James moved the cherry to the green_envelope.
+16 James exited the bedroom and stayed in the waiting_room.
+17 Charlotte moved the cherry to the blue_pantry.
+18 Charlotte exited the bedroom and stayed in the waiting_room.
+19 Logan moved the cherry to the red_container.
+20 Logan exited the bedroom and stayed in the waiting_room.
+21 Charlotte publicly claimed that cherry is in the blue_pantry.
+22 Logan privately told Charlotte that the cherry is actually in the green_envelope.
+23 Logan, Charlotte, Jackson and James entered the pantry.
+24 The beans is in the blue_bathtub.
+25 Logan moved the beans to the green_suitcase.
+26 Logan exited the pantry and stayed in the waiting_room.
+27 Charlotte moved the beans to the red_crate.
+28 Charlotte exited the pantry and stayed in the waiting_room.
+29 Jackson made no movements and stayed in the pantry for 10 minutes.
+30 Jackson exited the pantry and stayed in the waiting_room.
+31 James made no movements and stayed in the pantry for 10 minutes.
+32 James exited the pantry and stayed in the waiting_room.
+33 Abigail and Jackson entered the pantry.
+34 The asparagus is in the red_bottle.
+35 Abigail made no movements and stayed in the pantry for 10 minutes.
+36 Abigail exited the pantry and stayed in the waiting_room.
+37 Jackson moved the asparagus to the red_crate.
+38 Jackson exited the pantry and stayed in the waiting_room.
+39 Abigail privately told Logan that the asparagus is actually in the blue_bathtub.
+Question: Where does Logan think Charlotte thinks Abigail thinks James thinks the celery is?
+Choices: A. red_bottle, B. blue_bathtub, C. green_treasure_chest, D. green_suitcase, E. red_crate, F. blue_envelope, G. red_bathtub, H. green_bathtub, I. red_drawer, J. blue_basket, K. red_bucket, L. green_envelope, M. red_treasure_chest, N. red_container, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

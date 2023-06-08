@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Isla, William, Logan, Oliver and Benjamin entered the attic.
+2 The lettuce is in the blue_drawer.
+3 Isla made no movements and stayed in the attic for 10 minutes.
+4 Isla exited the attic and stayed in the waiting_room.
+5 William made no movements and stayed in the attic for 10 minutes.
+6 William exited the attic and stayed in the waiting_room.
+7 Logan made no movements and stayed in the attic for 10 minutes.
+8 Logan exited the attic and stayed in the waiting_room.
+9 Oliver moved the lettuce to the green_envelope.
+10 Oliver exited the attic and stayed in the waiting_room.
+11 Benjamin made no movements and stayed in the attic for 10 minutes.
+12 Benjamin exited the attic and stayed in the waiting_room.
+13 Oliver publicly claimed that lettuce is in the blue_drawer.
+14 Benjamin privately told Isla that the lettuce is actually in the green_envelope.
+Question: Where is the lettuce really?
+Choices: A. red_suitcase, B. blue_envelope, C. red_treasure_chest, D. red_container, E. blue_container, F. blue_bucket, G. green_treasure_chest, H. blue_box, I. green_cupboard, J. green_container, K. blue_drawer, L. red_bottle, M. green_envelope, N. blue_bottle, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

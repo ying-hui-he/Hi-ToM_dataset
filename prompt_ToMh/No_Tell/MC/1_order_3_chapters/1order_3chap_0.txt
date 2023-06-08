@@ -1,35 +1,35 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Noah, Emily, Benjamin, Gracie and Oliver entered the patio.
-2 The broccoli is in the blue_treasure_chest.
-3 Noah made no movements and stayed in the patio for 10 minutes.
-4 Noah exited the patio and stayed in the waiting_room.
-5 Emily made no movements and stayed in the patio for 10 minutes.
-6 Emily exited the patio and stayed in the waiting_room.
-7 Benjamin made no movements and stayed in the patio for 10 minutes.
-8 Benjamin exited the patio and stayed in the waiting_room.
-9 Gracie moved the broccoli to the green_bucket.
-10 Gracie exited the patio and stayed in the waiting_room.
-11 Oliver moved the broccoli to the blue_treasure_chest.
-12 Oliver exited the patio and stayed in the waiting_room.
-13 Benjamin, Oliver and Noah entered the workshop.
-14 The peach is in the red_box.
-15 Benjamin moved the peach to the red_cupboard.
-16 Benjamin exited the workshop and stayed in the waiting_room.
-17 Oliver moved the peach to the red_envelope.
-18 Oliver exited the workshop and stayed in the waiting_room.
-19 Noah made no movements and stayed in the workshop for 10 minutes.
-20 Noah exited the workshop and stayed in the waiting_room.
-21 Oliver, Gracie, Benjamin and Emily entered the garage.
-22 The strawberry is in the green_bathtub.
-23 Oliver made no movements and stayed in the garage for 10 minutes.
-24 Oliver exited the garage and stayed in the waiting_room.
-25 Gracie made no movements and stayed in the garage for 10 minutes.
-26 Gracie exited the garage and stayed in the waiting_room.
-27 Benjamin made no movements and stayed in the garage for 10 minutes.
-28 Benjamin exited the garage and stayed in the waiting_room.
-29 Emily made no movements and stayed in the garage for 10 minutes.
-30 Emily exited the garage and stayed in the waiting_room.
-Question: Where does Oliver think the broccoli is?
-Choices: A. green_bathtub, B. red_treasure_chest, C. red_bottle, D. blue_box, E. red_drawer, F. red_cupboard, G. red_box, H. blue_drawer, I. red_bathtub, J. red_envelope, K. blue_cupboard, L. blue_treasure_chest, M. green_bucket, N. blue_crate, O. blue_container
+1 Ella, Abigail, Jack, Jacob and Emily entered the patio.
+2 The celery is in the red_basket.
+3 Ella moved the celery to the red_bucket.
+4 Ella exited the patio and stayed in the waiting_room.
+5 Abigail moved the celery to the blue_treasure_chest.
+6 Abigail exited the patio and stayed in the waiting_room.
+7 Jack moved the celery to the red_drawer.
+8 Jack exited the patio and stayed in the waiting_room.
+9 Jacob moved the celery to the green_crate.
+10 Jacob exited the patio and stayed in the waiting_room.
+11 Emily moved the celery to the red_basket.
+12 Emily exited the patio and stayed in the waiting_room.
+13 Jacob, Ella and Abigail entered the master_bedroom.
+14 The carrot is in the red_bottle.
+15 Jacob moved the carrot to the blue_envelope.
+16 Jacob exited the master_bedroom and stayed in the waiting_room.
+17 Ella made no movements and stayed in the master_bedroom for 10 minutes.
+18 Ella exited the master_bedroom and stayed in the waiting_room.
+19 Abigail moved the carrot to the blue_bucket.
+20 Abigail exited the master_bedroom and stayed in the waiting_room.
+21 Emily, Ella, Abigail and Jack entered the back_yard.
+22 The asparagus is in the blue_suitcase.
+23 Emily made no movements and stayed in the back_yard for 10 minutes.
+24 Emily exited the back_yard and stayed in the waiting_room.
+25 Ella made no movements and stayed in the back_yard for 10 minutes.
+26 Ella exited the back_yard and stayed in the waiting_room.
+27 Abigail made no movements and stayed in the back_yard for 10 minutes.
+28 Abigail exited the back_yard and stayed in the waiting_room.
+29 Jack moved the asparagus to the green_bathtub.
+30 Jack exited the back_yard and stayed in the waiting_room.
+Question: Where does Ella think the celery is?
+Choices: A. red_bucket, B. red_basket, C. blue_treasure_chest, D. red_drawer, E. green_crate, F. red_bottle, G. blue_bottle, H. blue_bucket, I. blue_envelope, J. green_suitcase, K. blue_suitcase, L. blue_container, M. green_treasure_chest, N. red_container, O. green_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

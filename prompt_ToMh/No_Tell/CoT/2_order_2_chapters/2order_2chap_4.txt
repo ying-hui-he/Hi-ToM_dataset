@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ethan, Gracie, Avery, Carter and Mia entered the hall.
+2 The lemon is in the red_basket.
+3 Ethan made no movements and stayed in the hall for 10 minutes.
+4 Ethan exited the hall and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the hall for 10 minutes.
+6 Gracie exited the hall and stayed in the waiting_room.
+7 Avery made no movements and stayed in the hall for 10 minutes.
+8 Avery exited the hall and stayed in the waiting_room.
+9 Carter made no movements and stayed in the hall for 10 minutes.
+10 Carter exited the hall and stayed in the waiting_room.
+11 Mia made no movements and stayed in the hall for 10 minutes.
+12 Mia exited the hall and stayed in the waiting_room.
+13 Carter, Mia and Ethan entered the hall.
+14 The lemon is in the red_basket.
+15 Carter made no movements and stayed in the hall for 10 minutes.
+16 Carter exited the hall and stayed in the waiting_room.
+17 Mia moved the lemon to the green_treasure_chest.
+18 Mia exited the hall and stayed in the waiting_room.
+19 Ethan moved the lemon to the blue_box.
+20 Ethan exited the hall and stayed in the waiting_room.
+Question: Where does Gracie think Avery thinks the lemon is?
+Choices: A. blue_box, B. red_basket, C. green_suitcase, D. red_drawer, E. green_treasure_chest, F. red_bucket, G. red_crate, H. blue_bathtub, I. blue_suitcase, J. blue_container, K. green_envelope, L. red_suitcase, M. red_container, N. red_envelope, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

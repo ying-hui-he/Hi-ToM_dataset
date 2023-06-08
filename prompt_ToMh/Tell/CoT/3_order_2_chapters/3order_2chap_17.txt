@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Jack, Ava, James and Charlotte entered the staircase.
+2 The cherry is in the red_bathtub.
+3 Olivia made no movements and stayed in the staircase for 10 minutes.
+4 Olivia exited the staircase and stayed in the waiting_room.
+5 Jack made no movements and stayed in the staircase for 10 minutes.
+6 Jack exited the staircase and stayed in the waiting_room.
+7 Ava moved the cherry to the blue_basket.
+8 Ava exited the staircase and stayed in the waiting_room.
+9 James made no movements and stayed in the staircase for 10 minutes.
+10 James exited the staircase and stayed in the waiting_room.
+11 Charlotte made no movements and stayed in the staircase for 10 minutes.
+12 Charlotte exited the staircase and stayed in the waiting_room.
+13 James, Jack and Olivia entered the master_bedroom.
+14 The pineapple is in the blue_bottle.
+15 James made no movements and stayed in the master_bedroom for 10 minutes.
+16 James exited the master_bedroom and stayed in the waiting_room.
+17 Jack moved the pineapple to the green_envelope.
+18 Jack exited the master_bedroom and stayed in the waiting_room.
+19 Olivia made no movements and stayed in the master_bedroom for 10 minutes.
+20 Olivia exited the master_bedroom and stayed in the waiting_room.
+21 Jack publicly claimed that pineapple is in the blue_bucket.
+22 Olivia privately told Jack that the pineapple is actually in the green_envelope.
+Question: Where does James think Ava thinks Charlotte thinks the cherry is?
+Choices: A. blue_bucket, B. blue_bottle, C. green_bottle, D. green_envelope, E. blue_pantry, F. blue_container, G. red_bucket, H. green_cupboard, I. green_bathtub, J. red_basket, K. blue_envelope, L. red_bathtub, M. red_suitcase, N. red_envelope, O. blue_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,45 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Lily, Nathan, Amelia, Alexander and Aria entered the staircase.
-2 The tomato is in the green_envelope.
-3 Lily made no movements and stayed in the staircase for 10 minutes.
-4 Lily exited the staircase and stayed in the waiting_room.
-5 Nathan made no movements and stayed in the staircase for 10 minutes.
-6 Nathan exited the staircase and stayed in the waiting_room.
-7 Amelia made no movements and stayed in the staircase for 10 minutes.
-8 Amelia exited the staircase and stayed in the waiting_room.
-9 Alexander moved the tomato to the green_box.
-10 Alexander exited the staircase and stayed in the waiting_room.
-11 Aria made no movements and stayed in the staircase for 10 minutes.
-12 Aria exited the staircase and stayed in the waiting_room.
-13 Amelia, Aria and Alexander entered the staircase.
-14 The asparagus is in the red_drawer.
-15 Amelia moved the asparagus to the red_container.
-16 Amelia exited the staircase and stayed in the waiting_room.
-17 Aria moved the asparagus to the green_envelope.
-18 Aria exited the staircase and stayed in the waiting_room.
-19 Alexander made no movements and stayed in the staircase for 10 minutes.
-20 Alexander exited the staircase and stayed in the waiting_room.
-21 Alexander publicly claimed that asparagus is in the red_drawer.
-22 Amelia privately told Alexander that the asparagus is actually in the green_envelope.
-23 Lily, Amelia, Alexander and Aria entered the staircase.
-24 The tomato is in the green_box.
-25 Lily made no movements and stayed in the staircase for 10 minutes.
-26 Lily exited the staircase and stayed in the waiting_room.
-27 Amelia moved the tomato to the green_envelope.
-28 Amelia exited the staircase and stayed in the waiting_room.
-29 Alexander moved the tomato to the red_drawer.
-30 Alexander exited the staircase and stayed in the waiting_room.
-31 Aria made no movements and stayed in the staircase for 10 minutes.
-32 Aria exited the staircase and stayed in the waiting_room.
-33 Aria and Alexander entered the attic.
-34 The spinach is in the red_cupboard.
-35 Aria moved the spinach to the blue_cupboard.
-36 Aria exited the attic and stayed in the waiting_room.
-37 Alexander made no movements and stayed in the attic for 10 minutes.
-38 Alexander exited the attic and stayed in the waiting_room.
-39 Aria publicly claimed that spinach is in the red_bottle.
-40 Alexander privately told Aria that the spinach is actually in the green_suitcase.
-Question: Where does Aria think Amelia thinks the tomato is?
-Choices: A. red_drawer, B. green_envelope, C. green_box, D. red_container, E. blue_crate, F. red_cupboard, G. red_bottle, H. green_suitcase, I. blue_cupboard, J. blue_drawer, K. green_pantry, L. green_treasure_chest, M. blue_suitcase, N. green_bucket, O. blue_basket
+1 Noah, Emily, Owen, Ella and Aria entered the bedroom.
+2 The beans is in the blue_basket.
+3 Noah made no movements and stayed in the bedroom for 10 minutes.
+4 Noah exited the bedroom and stayed in the waiting_room.
+5 Emily made no movements and stayed in the bedroom for 10 minutes.
+6 Emily exited the bedroom and stayed in the waiting_room.
+7 Owen moved the beans to the green_suitcase.
+8 Owen exited the bedroom and stayed in the waiting_room.
+9 Ella moved the beans to the red_bathtub.
+10 Ella exited the bedroom and stayed in the waiting_room.
+11 Aria moved the beans to the blue_basket.
+12 Aria exited the bedroom and stayed in the waiting_room.
+13 Aria, Emily and Noah entered the back_yard.
+14 The pumpkin is in the red_bottle.
+15 Aria made no movements and stayed in the back_yard for 10 minutes.
+16 Aria exited the back_yard and stayed in the waiting_room.
+17 Emily made no movements and stayed in the back_yard for 10 minutes.
+18 Emily exited the back_yard and stayed in the waiting_room.
+19 Noah moved the pumpkin to the blue_suitcase.
+20 Noah exited the back_yard and stayed in the waiting_room.
+21 Emily privately told Noah that the pumpkin is actually in the blue_bathtub.
+22 Noah privately told Owen that the pumpkin is actually in the blue_suitcase.
+23 Ella, Noah, Emily and Aria entered the bedroom.
+24 The beans is in the blue_basket.
+25 Ella made no movements and stayed in the bedroom for 10 minutes.
+26 Ella exited the bedroom and stayed in the waiting_room.
+27 Noah made no movements and stayed in the bedroom for 10 minutes.
+28 Noah exited the bedroom and stayed in the waiting_room.
+29 Emily moved the beans to the red_bathtub.
+30 Emily exited the bedroom and stayed in the waiting_room.
+31 Aria made no movements and stayed in the bedroom for 10 minutes.
+32 Aria exited the bedroom and stayed in the waiting_room.
+33 Aria and Ella entered the hallway.
+34 The lime is in the red_drawer.
+35 Aria moved the lime to the red_bucket.
+36 Aria exited the hallway and stayed in the waiting_room.
+37 Ella made no movements and stayed in the hallway for 10 minutes.
+38 Ella exited the hallway and stayed in the waiting_room.
+39 Ella publicly claimed that lime is in the red_drawer.
+40 Aria privately told Ella that the lime is actually in the red_bucket.
+Question: Where does Aria think Noah thinks the beans is?
+Choices: A. blue_bathtub, B. red_bottle, C. red_suitcase, D. blue_suitcase, E. green_bottle, F. blue_basket, G. green_container, H. red_bathtub, I. green_bathtub, J. green_suitcase, K. red_drawer, L. red_bucket, M. blue_bottle, N. red_container, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

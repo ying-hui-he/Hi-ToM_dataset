@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Emily, Benjamin, Jackson, Logan and Ava entered the workshop.
+2 The strawberry is in the blue_container.
+3 Emily made no movements and stayed in the workshop for 10 minutes.
+4 Emily exited the workshop and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the workshop for 10 minutes.
+6 Benjamin exited the workshop and stayed in the waiting_room.
+7 Jackson made no movements and stayed in the workshop for 10 minutes.
+8 Jackson exited the workshop and stayed in the waiting_room.
+9 Logan moved the strawberry to the blue_bottle.
+10 Logan exited the workshop and stayed in the waiting_room.
+11 Ava made no movements and stayed in the workshop for 10 minutes.
+12 Ava exited the workshop and stayed in the waiting_room.
+13 Jackson, Benjamin and Ava entered the workshop.
+14 The strawberry is in the blue_bottle.
+15 Jackson moved the strawberry to the green_treasure_chest.
+16 Jackson exited the workshop and stayed in the waiting_room.
+17 Benjamin moved the strawberry to the green_cupboard.
+18 Benjamin exited the workshop and stayed in the waiting_room.
+19 Ava made no movements and stayed in the workshop for 10 minutes.
+20 Ava exited the workshop and stayed in the waiting_room.
+21 Jackson publicly claimed that strawberry is in the green_cupboard.
+22 Ava privately told Emily that the strawberry is actually in the green_cupboard.
+23 Ava, Jackson, Emily and Logan entered the pantry.
+24 The potato is in the blue_bucket.
+25 Ava made no movements and stayed in the pantry for 10 minutes.
+26 Ava exited the pantry and stayed in the waiting_room.
+27 Jackson moved the potato to the red_drawer.
+28 Jackson exited the pantry and stayed in the waiting_room.
+29 Emily made no movements and stayed in the pantry for 10 minutes.
+30 Emily exited the pantry and stayed in the waiting_room.
+31 Logan moved the potato to the red_bucket.
+32 Logan exited the pantry and stayed in the waiting_room.
+33 Jackson and Ava entered the workshop.
+34 The beans is in the blue_bottle.
+35 Jackson made no movements and stayed in the workshop for 10 minutes.
+36 Jackson exited the workshop and stayed in the waiting_room.
+37 Ava made no movements and stayed in the workshop for 10 minutes.
+38 Ava exited the workshop and stayed in the waiting_room.
+39 Ava publicly claimed that beans is in the green_cupboard.
+40 Jackson privately told Ava that the beans is actually in the blue_container.
+Question: Where does Ava think the strawberry is?
+Answer: green_cupboard
+Choices: A. red_container, B. green_container, C. blue_suitcase, D. blue_crate, E. blue_bathtub, F. blue_bucket, G. red_bathtub, H. red_bottle, I. red_bucket, J. red_drawer, K. blue_container, L. blue_bottle, M. green_treasure_chest, N. green_cupboard, O. red_basket

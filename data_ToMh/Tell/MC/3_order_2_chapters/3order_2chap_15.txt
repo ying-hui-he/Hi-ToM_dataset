@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mia, William, Carter, Jackson and Ella entered the playroom.
+2 The lemon is in the green_suitcase.
+3 Mia moved the lemon to the blue_container.
+4 Mia exited the playroom and stayed in the waiting_room.
+5 William made no movements and stayed in the playroom for 10 minutes.
+6 William exited the playroom and stayed in the waiting_room.
+7 Carter made no movements and stayed in the playroom for 10 minutes.
+8 Carter exited the playroom and stayed in the waiting_room.
+9 Jackson made no movements and stayed in the playroom for 10 minutes.
+10 Jackson exited the playroom and stayed in the waiting_room.
+11 Ella moved the lemon to the green_suitcase.
+12 Ella exited the playroom and stayed in the waiting_room.
+13 Carter, Ella and Jackson entered the playroom.
+14 The onion is in the blue_container.
+15 Carter made no movements and stayed in the playroom for 10 minutes.
+16 Carter exited the playroom and stayed in the waiting_room.
+17 Ella made no movements and stayed in the playroom for 10 minutes.
+18 Ella exited the playroom and stayed in the waiting_room.
+19 Jackson moved the onion to the blue_suitcase.
+20 Jackson exited the playroom and stayed in the waiting_room.
+21 Ella privately told Jackson that the onion is actually in the green_suitcase.
+22 Jackson privately told William that the onion is actually in the blue_suitcase.
+Question: Where does Mia think William thinks Carter thinks the lemon is?
+Answer: green_suitcase
+Choices: A. red_treasure_chest, B. red_suitcase, C. blue_bucket, D. blue_box, E. green_cupboard, F. green_suitcase, G. blue_container, H. red_envelope, I. blue_suitcase, J. green_envelope, K. green_treasure_chest, L. red_bathtub, M. green_crate, N. green_bottle, O. red_basket

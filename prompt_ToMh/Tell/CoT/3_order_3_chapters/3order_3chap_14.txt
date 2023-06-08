@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Logan, Jackson, James and Avery entered the porch.
+2 The orange is in the blue_drawer.
+3 Jack moved the orange to the green_suitcase.
+4 Jack exited the porch and stayed in the waiting_room.
+5 Logan moved the orange to the red_bathtub.
+6 Logan exited the porch and stayed in the waiting_room.
+7 Jackson moved the orange to the blue_bottle.
+8 Jackson exited the porch and stayed in the waiting_room.
+9 James moved the orange to the green_envelope.
+10 James exited the porch and stayed in the waiting_room.
+11 Avery moved the orange to the blue_drawer.
+12 Avery exited the porch and stayed in the waiting_room.
+13 Jackson publicly claimed that orange is in the green_suitcase.
+14 Avery privately told Jackson that the orange is actually in the blue_bottle.
+15 Avery, Logan and Jack entered the porch.
+16 The orange is in the blue_drawer.
+17 Avery made no movements and stayed in the porch for 10 minutes.
+18 Avery exited the porch and stayed in the waiting_room.
+19 Logan moved the orange to the blue_bottle.
+20 Logan exited the porch and stayed in the waiting_room.
+21 Jack moved the orange to the red_bathtub.
+22 Jack exited the porch and stayed in the waiting_room.
+23 James, Logan, Avery and Jack entered the living_room.
+24 The melon is in the red_bucket.
+25 James moved the melon to the blue_box.
+26 James exited the living_room and stayed in the waiting_room.
+27 Logan made no movements and stayed in the living_room for 10 minutes.
+28 Logan exited the living_room and stayed in the waiting_room.
+29 Avery made no movements and stayed in the living_room for 10 minutes.
+30 Avery exited the living_room and stayed in the waiting_room.
+31 Jack made no movements and stayed in the living_room for 10 minutes.
+32 Jack exited the living_room and stayed in the waiting_room.
+33 James publicly claimed that melon is in the green_crate.
+34 Jack privately told Jackson that the melon is actually in the blue_box.
+Question: Where does Jackson think Logan thinks James thinks the orange is?
+Choices: A. red_bathtub, B. blue_drawer, C. green_envelope, D. green_suitcase, E. blue_bottle, F. blue_pantry, G. green_bottle, H. red_envelope, I. blue_bathtub, J. red_basket, K. green_crate, L. red_bucket, M. blue_box, N. blue_suitcase, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

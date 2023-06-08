@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Charlotte, Jackson, Aria, Mia and William entered the workshop.
+2 The corn is in the blue_container.
+3 Charlotte made no movements and stayed in the workshop for 10 minutes.
+4 Charlotte exited the workshop and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the workshop for 10 minutes.
+6 Jackson exited the workshop and stayed in the waiting_room.
+7 Aria made no movements and stayed in the workshop for 10 minutes.
+8 Aria exited the workshop and stayed in the waiting_room.
+9 Mia made no movements and stayed in the workshop for 10 minutes.
+10 Mia exited the workshop and stayed in the waiting_room.
+11 William moved the corn to the blue_container.
+12 William exited the workshop and stayed in the waiting_room.
+13 Aria privately told Charlotte that the corn is actually in the blue_crate.
+14 Jackson privately told Mia that the corn is actually in the green_suitcase.
+15 Charlotte, William and Mia entered the workshop.
+16 The green_pepper is in the blue_crate.
+17 Charlotte made no movements and stayed in the workshop for 10 minutes.
+18 Charlotte exited the workshop and stayed in the waiting_room.
+19 William made no movements and stayed in the workshop for 10 minutes.
+20 William exited the workshop and stayed in the waiting_room.
+21 Mia made no movements and stayed in the workshop for 10 minutes.
+22 Mia exited the workshop and stayed in the waiting_room.
+23 Aria, Charlotte, Jackson and Mia entered the workshop.
+24 The corn is in the blue_container.
+25 Aria moved the corn to the red_treasure_chest.
+26 Aria exited the workshop and stayed in the waiting_room.
+27 Charlotte made no movements and stayed in the workshop for 10 minutes.
+28 Charlotte exited the workshop and stayed in the waiting_room.
+29 Jackson made no movements and stayed in the workshop for 10 minutes.
+30 Jackson exited the workshop and stayed in the waiting_room.
+31 Mia moved the corn to the green_suitcase.
+32 Mia exited the workshop and stayed in the waiting_room.
+33 Aria publicly claimed that corn is in the green_suitcase.
+34 Mia privately told William that the corn is actually in the green_suitcase.
+Question: Where does Aria think the corn is?
+Answer: red_treasure_chest
+Choices: A. blue_container, B. blue_crate, C. red_drawer, D. red_treasure_chest, E. green_suitcase, F. green_crate, G. red_bottle, H. red_container, I. green_bathtub, J. green_cupboard, K. red_envelope, L. blue_basket, M. blue_suitcase, N. blue_bucket, O. red_basket

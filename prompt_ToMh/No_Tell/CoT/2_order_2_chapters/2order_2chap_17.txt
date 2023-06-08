@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emma, Abigail, Emily, Jayden and Ethan entered the garage.
+2 The melon is in the green_bathtub.
+3 Emma moved the melon to the blue_envelope.
+4 Emma exited the garage and stayed in the waiting_room.
+5 Abigail made no movements and stayed in the garage for 10 minutes.
+6 Abigail exited the garage and stayed in the waiting_room.
+7 Emily made no movements and stayed in the garage for 10 minutes.
+8 Emily exited the garage and stayed in the waiting_room.
+9 Jayden made no movements and stayed in the garage for 10 minutes.
+10 Jayden exited the garage and stayed in the waiting_room.
+11 Ethan moved the melon to the green_bathtub.
+12 Ethan exited the garage and stayed in the waiting_room.
+13 Abigail, Ethan and Emma entered the sunroom.
+14 The pear is in the red_drawer.
+15 Abigail moved the pear to the blue_bottle.
+16 Abigail exited the sunroom and stayed in the waiting_room.
+17 Ethan moved the pear to the green_bottle.
+18 Ethan exited the sunroom and stayed in the waiting_room.
+19 Emma made no movements and stayed in the sunroom for 10 minutes.
+20 Emma exited the sunroom and stayed in the waiting_room.
+Question: Where does Jayden think Emma thinks the melon is?
+Choices: A. blue_envelope, B. green_bathtub, C. blue_suitcase, D. red_treasure_chest, E. green_crate, F. red_bottle, G. red_envelope, H. red_container, I. red_suitcase, J. blue_box, K. red_drawer, L. blue_bottle, M. blue_container, N. green_bottle, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

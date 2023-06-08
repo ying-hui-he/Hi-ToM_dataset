@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emily, James, Owen, Isla and Jackson entered the closet.
+2 The onion is in the green_container.
+3 Emily made no movements and stayed in the closet for 10 minutes.
+4 Emily exited the closet and stayed in the waiting_room.
+5 James moved the onion to the green_cupboard.
+6 James exited the closet and stayed in the waiting_room.
+7 Owen moved the onion to the green_bathtub.
+8 Owen exited the closet and stayed in the waiting_room.
+9 Isla made no movements and stayed in the closet for 10 minutes.
+10 Isla exited the closet and stayed in the waiting_room.
+11 Jackson moved the onion to the green_container.
+12 Jackson exited the closet and stayed in the waiting_room.
+13 Owen, James and Jackson entered the attic.
+14 The pineapple is in the red_suitcase.
+15 Owen made no movements and stayed in the attic for 10 minutes.
+16 Owen exited the attic and stayed in the waiting_room.
+17 James moved the pineapple to the blue_crate.
+18 James exited the attic and stayed in the waiting_room.
+19 Jackson made no movements and stayed in the attic for 10 minutes.
+20 Jackson exited the attic and stayed in the waiting_room.
+Question: Where does Owen think Isla thinks Jackson thinks the onion is?
+Answer: green_cupboard
+Choices: A. red_basket, B. blue_bucket, C. green_crate, D. blue_treasure_chest, E. red_container, F. green_container, G. green_bathtub, H. green_suitcase, I. blue_pantry, J. green_cupboard, K. red_suitcase, L. blue_crate, M. blue_suitcase, N. red_bottle, O. red_treasure_chest

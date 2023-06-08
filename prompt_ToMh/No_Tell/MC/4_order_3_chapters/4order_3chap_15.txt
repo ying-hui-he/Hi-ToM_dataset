@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Charlotte, Gracie, Owen and Amelia entered the office.
+2 The cucumber is in the blue_drawer.
+3 Aiden moved the cucumber to the red_crate.
+4 Aiden exited the office and stayed in the waiting_room.
+5 Charlotte moved the cucumber to the blue_bucket.
+6 Charlotte exited the office and stayed in the waiting_room.
+7 Gracie moved the cucumber to the green_bottle.
+8 Gracie exited the office and stayed in the waiting_room.
+9 Owen moved the cucumber to the blue_pantry.
+10 Owen exited the office and stayed in the waiting_room.
+11 Amelia made no movements and stayed in the office for 10 minutes.
+12 Amelia exited the office and stayed in the waiting_room.
+13 Owen, Charlotte and Aiden entered the office.
+14 The cucumber is in the blue_pantry.
+15 Owen moved the cucumber to the red_crate.
+16 Owen exited the office and stayed in the waiting_room.
+17 Charlotte moved the cucumber to the blue_drawer.
+18 Charlotte exited the office and stayed in the waiting_room.
+19 Aiden made no movements and stayed in the office for 10 minutes.
+20 Aiden exited the office and stayed in the waiting_room.
+21 Gracie, Aiden, Charlotte and Owen entered the back_yard.
+22 The melon is in the red_envelope.
+23 Gracie made no movements and stayed in the back_yard for 10 minutes.
+24 Gracie exited the back_yard and stayed in the waiting_room.
+25 Aiden made no movements and stayed in the back_yard for 10 minutes.
+26 Aiden exited the back_yard and stayed in the waiting_room.
+27 Charlotte moved the melon to the red_bucket.
+28 Charlotte exited the back_yard and stayed in the waiting_room.
+29 Owen moved the melon to the green_envelope.
+30 Owen exited the back_yard and stayed in the waiting_room.
+Question: Where does Owen think Aiden thinks Gracie thinks Charlotte thinks the cucumber is?
+Choices: A. green_envelope, B. red_envelope, C. green_suitcase, D. blue_box, E. red_bucket, F. red_bathtub, G. blue_suitcase, H. blue_bottle, I. green_bathtub, J. red_drawer, K. blue_drawer, L. blue_bucket, M. green_bottle, N. red_crate, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

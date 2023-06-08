@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emma, Jacob, Logan, Amelia and Jack entered the lounge.
+2 The grapefruit is in the blue_bucket.
+3 Emma made no movements and stayed in the lounge for 10 minutes.
+4 Emma exited the lounge and stayed in the waiting_room.
+5 Jacob moved the grapefruit to the blue_envelope.
+6 Jacob exited the lounge and stayed in the waiting_room.
+7 Logan moved the grapefruit to the red_bathtub.
+8 Logan exited the lounge and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the lounge for 10 minutes.
+10 Amelia exited the lounge and stayed in the waiting_room.
+11 Jack moved the grapefruit to the blue_bucket.
+12 Jack exited the lounge and stayed in the waiting_room.
+13 Logan, Jack and Amelia entered the cellar.
+14 The orange is in the green_container.
+15 Logan moved the orange to the green_bathtub.
+16 Logan exited the cellar and stayed in the waiting_room.
+17 Jack moved the orange to the green_cupboard.
+18 Jack exited the cellar and stayed in the waiting_room.
+19 Amelia moved the orange to the red_suitcase.
+20 Amelia exited the cellar and stayed in the waiting_room.
+21 Logan, Jack, Amelia and Emma entered the porch.
+22 The potato is in the blue_box.
+23 Logan moved the potato to the green_envelope.
+24 Logan exited the porch and stayed in the waiting_room.
+25 Jack moved the potato to the red_basket.
+26 Jack exited the porch and stayed in the waiting_room.
+27 Amelia made no movements and stayed in the porch for 10 minutes.
+28 Amelia exited the porch and stayed in the waiting_room.
+29 Emma moved the potato to the blue_treasure_chest.
+30 Emma exited the porch and stayed in the waiting_room.
+Question: Where does Emma think Amelia thinks Jack thinks Jacob thinks the grapefruit is?
+Choices: A. blue_box, B. red_basket, C. green_envelope, D. green_suitcase, E. blue_treasure_chest, F. red_suitcase, G. green_container, H. blue_basket, I. green_bathtub, J. green_cupboard, K. blue_bucket, L. blue_envelope, M. red_bathtub, N. blue_container, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

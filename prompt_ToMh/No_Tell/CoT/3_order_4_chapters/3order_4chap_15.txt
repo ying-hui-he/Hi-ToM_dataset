@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Gracie, Aiden, Ava, Ella and Owen entered the porch.
+2 The persimmon is in the green_treasure_chest.
+3 Gracie moved the persimmon to the green_crate.
+4 Gracie exited the porch and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the porch for 10 minutes.
+6 Aiden exited the porch and stayed in the waiting_room.
+7 Ava moved the persimmon to the red_crate.
+8 Ava exited the porch and stayed in the waiting_room.
+9 Ella moved the persimmon to the blue_box.
+10 Ella exited the porch and stayed in the waiting_room.
+11 Owen made no movements and stayed in the porch for 10 minutes.
+12 Owen exited the porch and stayed in the waiting_room.
+13 Ella, Owen and Gracie entered the kitchen.
+14 The onion is in the blue_bathtub.
+15 Ella moved the onion to the blue_container.
+16 Ella exited the kitchen and stayed in the waiting_room.
+17 Owen moved the onion to the blue_bottle.
+18 Owen exited the kitchen and stayed in the waiting_room.
+19 Gracie moved the onion to the blue_drawer.
+20 Gracie exited the kitchen and stayed in the waiting_room.
+21 Gracie, Ava, Owen and Aiden entered the porch.
+22 The persimmon is in the blue_box.
+23 Gracie moved the persimmon to the red_crate.
+24 Gracie exited the porch and stayed in the waiting_room.
+25 Ava moved the persimmon to the green_cupboard.
+26 Ava exited the porch and stayed in the waiting_room.
+27 Owen made no movements and stayed in the porch for 10 minutes.
+28 Owen exited the porch and stayed in the waiting_room.
+29 Aiden moved the persimmon to the green_crate.
+30 Aiden exited the porch and stayed in the waiting_room.
+31 Owen and Ella entered the porch.
+32 The persimmon is in the green_crate.
+33 Owen moved the persimmon to the green_cupboard.
+34 Owen exited the porch and stayed in the waiting_room.
+35 Ella moved the persimmon to the blue_box.
+36 Ella exited the porch and stayed in the waiting_room.
+Question: Where does Aiden think Ella thinks Gracie thinks the persimmon is?
+Choices: A. green_treasure_chest, B. blue_box, C. green_cupboard, D. red_crate, E. green_crate, F. blue_container, G. blue_bathtub, H. red_bathtub, I. blue_drawer, J. blue_bottle, K. red_drawer, L. green_container, M. red_treasure_chest, N. green_bathtub, O. blue_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

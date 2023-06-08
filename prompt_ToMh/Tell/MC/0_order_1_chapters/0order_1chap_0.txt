@@ -1,19 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Lucas, Nathan, Isla and Logan entered the study.
-2 The melon is in the blue_cupboard.
-3 Abigail made no movements and stayed in the study for 10 minutes.
-4 Abigail exited the study and stayed in the waiting_room.
-5 Lucas made no movements and stayed in the study for 10 minutes.
-6 Lucas exited the study and stayed in the waiting_room.
-7 Nathan moved the melon to the blue_bucket.
-8 Nathan exited the study and stayed in the waiting_room.
-9 Isla made no movements and stayed in the study for 10 minutes.
-10 Isla exited the study and stayed in the waiting_room.
-11 Logan moved the melon to the blue_cupboard.
-12 Logan exited the study and stayed in the waiting_room.
-13 Nathan privately told Abigail that the melon is actually in the green_box.
-14 Lucas privately told Isla that the melon is actually in the blue_cupboard.
-Question: Where is the melon really?
-Choices: A. red_envelope, B. blue_crate, C. red_bucket, D. green_treasure_chest, E. blue_suitcase, F. blue_cupboard, G. blue_bucket, H. green_cupboard, I. red_treasure_chest, J. green_box, K. red_basket, L. red_container, M. blue_drawer, N. green_bucket, O. blue_box
+1 Logan, Charlotte, William, Isla and Jayden entered the patio.
+2 The turnip is in the blue_container.
+3 Logan made no movements and stayed in the patio for 10 minutes.
+4 Logan exited the patio and stayed in the waiting_room.
+5 Charlotte moved the turnip to the green_suitcase.
+6 Charlotte exited the patio and stayed in the waiting_room.
+7 William made no movements and stayed in the patio for 10 minutes.
+8 William exited the patio and stayed in the waiting_room.
+9 Isla moved the turnip to the blue_crate.
+10 Isla exited the patio and stayed in the waiting_room.
+11 Jayden moved the turnip to the blue_container.
+12 Jayden exited the patio and stayed in the waiting_room.
+13 Isla publicly claimed that turnip is in the green_cupboard.
+14 Jayden privately told Logan that the turnip is actually in the blue_container.
+Question: Where is the turnip really?
+Choices: A. blue_box, B. green_bottle, C. blue_basket, D. blue_treasure_chest, E. red_envelope, F. blue_container, G. red_crate, H. blue_crate, I. green_cupboard, J. green_suitcase, K. green_treasure_chest, L. green_envelope, M. red_bottle, N. blue_bathtub, O. blue_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

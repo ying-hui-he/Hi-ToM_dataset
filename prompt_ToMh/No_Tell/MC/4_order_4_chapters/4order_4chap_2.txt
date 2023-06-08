@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Gracie, Benjamin, Emma, Carter and Abigail entered the attic.
+2 The spinach is in the green_treasure_chest.
+3 Gracie moved the spinach to the blue_treasure_chest.
+4 Gracie exited the attic and stayed in the waiting_room.
+5 Benjamin moved the spinach to the green_cupboard.
+6 Benjamin exited the attic and stayed in the waiting_room.
+7 Emma made no movements and stayed in the attic for 10 minutes.
+8 Emma exited the attic and stayed in the waiting_room.
+9 Carter moved the spinach to the blue_crate.
+10 Carter exited the attic and stayed in the waiting_room.
+11 Abigail moved the spinach to the green_treasure_chest.
+12 Abigail exited the attic and stayed in the waiting_room.
+13 Carter, Abigail and Emma entered the attic.
+14 The pineapple is in the blue_crate.
+15 Carter made no movements and stayed in the attic for 10 minutes.
+16 Carter exited the attic and stayed in the waiting_room.
+17 Abigail made no movements and stayed in the attic for 10 minutes.
+18 Abigail exited the attic and stayed in the waiting_room.
+19 Emma moved the pineapple to the blue_box.
+20 Emma exited the attic and stayed in the waiting_room.
+21 Benjamin, Gracie, Carter and Emma entered the sunroom.
+22 The plum is in the red_crate.
+23 Benjamin made no movements and stayed in the sunroom for 10 minutes.
+24 Benjamin exited the sunroom and stayed in the waiting_room.
+25 Gracie moved the plum to the blue_bottle.
+26 Gracie exited the sunroom and stayed in the waiting_room.
+27 Carter made no movements and stayed in the sunroom for 10 minutes.
+28 Carter exited the sunroom and stayed in the waiting_room.
+29 Emma moved the plum to the red_bucket.
+30 Emma exited the sunroom and stayed in the waiting_room.
+31 Gracie and Benjamin entered the sunroom.
+32 The plum is in the red_bucket.
+33 Gracie moved the plum to the red_treasure_chest.
+34 Gracie exited the sunroom and stayed in the waiting_room.
+35 Benjamin moved the plum to the red_crate.
+36 Benjamin exited the sunroom and stayed in the waiting_room.
+Question: Where does Emma think Gracie thinks Benjamin thinks Carter thinks the spinach is?
+Choices: A. green_bottle, B. green_container, C. blue_bathtub, D. green_envelope, E. green_suitcase, F. green_treasure_chest, G. blue_crate, H. blue_box, I. green_cupboard, J. blue_treasure_chest, K. red_crate, L. red_drawer, M. red_bucket, N. blue_bottle, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

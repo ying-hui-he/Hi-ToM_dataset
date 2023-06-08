@@ -1,45 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Lily, Gracie, Noah, Nathan and Ella entered the basement.
-2 The carrot is in the red_bathtub.
-3 Lily moved the carrot to the green_drawer.
-4 Lily exited the basement and stayed in the waiting_room.
-5 Gracie moved the carrot to the blue_container.
+1 Emily, Gracie, Charlotte, Isla and Aria entered the basement.
+2 The onion is in the red_suitcase.
+3 Emily moved the onion to the blue_box.
+4 Emily exited the basement and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the basement for 10 minutes.
 6 Gracie exited the basement and stayed in the waiting_room.
-7 Noah made no movements and stayed in the basement for 10 minutes.
-8 Noah exited the basement and stayed in the waiting_room.
-9 Nathan moved the carrot to the green_bucket.
-10 Nathan exited the basement and stayed in the waiting_room.
-11 Ella moved the carrot to the red_bathtub.
-12 Ella exited the basement and stayed in the waiting_room.
-13 Noah, Lily and Nathan entered the kitchen.
-14 The peas is in the red_cupboard.
-15 Noah moved the peas to the red_basket.
-16 Noah exited the kitchen and stayed in the waiting_room.
-17 Lily moved the peas to the blue_crate.
-18 Lily exited the kitchen and stayed in the waiting_room.
-19 Nathan moved the peas to the red_bucket.
-20 Nathan exited the kitchen and stayed in the waiting_room.
-21 Lily privately told Nathan that the peas is actually in the red_cupboard.
-22 Nathan privately told Ella that the peas is actually in the red_bucket.
-23 Nathan, Ella, Gracie and Noah entered the office.
-24 The eggplant is in the red_bottle.
-25 Nathan made no movements and stayed in the office for 10 minutes.
-26 Nathan exited the office and stayed in the waiting_room.
-27 Ella moved the eggplant to the green_suitcase.
-28 Ella exited the office and stayed in the waiting_room.
-29 Gracie made no movements and stayed in the office for 10 minutes.
-30 Gracie exited the office and stayed in the waiting_room.
-31 Noah moved the eggplant to the blue_bucket.
-32 Noah exited the office and stayed in the waiting_room.
-33 Noah and Gracie entered the kitchen.
-34 The celery is in the red_basket.
-35 Noah moved the celery to the blue_bottle.
-36 Noah exited the kitchen and stayed in the waiting_room.
-37 Gracie made no movements and stayed in the kitchen for 10 minutes.
-38 Gracie exited the kitchen and stayed in the waiting_room.
-39 Noah publicly claimed that celery is in the blue_bottle.
-40 Gracie privately told Noah that the celery is actually in the red_cupboard.
-Question: Where does Nathan think Gracie thinks the carrot is?
-Choices: A. red_basket, B. red_cupboard, C. blue_crate, D. red_bucket, E. blue_bottle, F. red_bathtub, G. blue_container, H. green_pantry, I. green_bucket, J. green_drawer, K. red_bottle, L. blue_bucket, M. green_suitcase, N. green_cupboard, O. blue_treasure_chest
+7 Charlotte moved the onion to the blue_drawer.
+8 Charlotte exited the basement and stayed in the waiting_room.
+9 Isla moved the onion to the green_bathtub.
+10 Isla exited the basement and stayed in the waiting_room.
+11 Aria made no movements and stayed in the basement for 10 minutes.
+12 Aria exited the basement and stayed in the waiting_room.
+13 Gracie, Emily and Aria entered the living_room.
+14 The orange is in the blue_crate.
+15 Gracie moved the orange to the green_container.
+16 Gracie exited the living_room and stayed in the waiting_room.
+17 Emily moved the orange to the green_suitcase.
+18 Emily exited the living_room and stayed in the waiting_room.
+19 Aria moved the orange to the blue_suitcase.
+20 Aria exited the living_room and stayed in the waiting_room.
+21 Gracie publicly claimed that orange is in the blue_bucket.
+22 Aria privately told Charlotte that the orange is actually in the blue_suitcase.
+23 Charlotte, Emily, Aria and Gracie entered the living_room.
+24 The orange is in the blue_suitcase.
+25 Charlotte moved the orange to the blue_bucket.
+26 Charlotte exited the living_room and stayed in the waiting_room.
+27 Emily made no movements and stayed in the living_room for 10 minutes.
+28 Emily exited the living_room and stayed in the waiting_room.
+29 Aria made no movements and stayed in the living_room for 10 minutes.
+30 Aria exited the living_room and stayed in the waiting_room.
+31 Gracie moved the orange to the green_suitcase.
+32 Gracie exited the living_room and stayed in the waiting_room.
+33 Isla and Gracie entered the living_room.
+34 The lime is in the green_container.
+35 Isla made no movements and stayed in the living_room for 10 minutes.
+36 Isla exited the living_room and stayed in the waiting_room.
+37 Gracie made no movements and stayed in the living_room for 10 minutes.
+38 Gracie exited the living_room and stayed in the waiting_room.
+39 Isla publicly claimed that lime is in the blue_bucket.
+40 Gracie privately told Isla that the lime is actually in the green_suitcase.
+Question: Where does Isla think Gracie thinks the onion is?
+Choices: A. blue_crate, B. green_container, C. blue_suitcase, D. blue_bucket, E. green_suitcase, F. red_suitcase, G. blue_treasure_chest, H. green_bathtub, I. blue_box, J. blue_drawer, K. red_container, L. green_bottle, M. blue_pantry, N. red_crate, O. blue_bathtub
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

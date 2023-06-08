@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Jack, Mia, Avery and Noah entered the cellar.
+2 The orange is in the red_container.
+3 Olivia made no movements and stayed in the cellar for 10 minutes.
+4 Olivia exited the cellar and stayed in the waiting_room.
+5 Jack made no movements and stayed in the cellar for 10 minutes.
+6 Jack exited the cellar and stayed in the waiting_room.
+7 Mia made no movements and stayed in the cellar for 10 minutes.
+8 Mia exited the cellar and stayed in the waiting_room.
+9 Avery made no movements and stayed in the cellar for 10 minutes.
+10 Avery exited the cellar and stayed in the waiting_room.
+11 Noah made no movements and stayed in the cellar for 10 minutes.
+12 Noah exited the cellar and stayed in the waiting_room.
+13 Avery, Noah and Olivia entered the cellar.
+14 The cucumber is in the green_envelope.
+15 Avery moved the cucumber to the blue_treasure_chest.
+16 Avery exited the cellar and stayed in the waiting_room.
+17 Noah made no movements and stayed in the cellar for 10 minutes.
+18 Noah exited the cellar and stayed in the waiting_room.
+19 Olivia moved the cucumber to the green_treasure_chest.
+20 Olivia exited the cellar and stayed in the waiting_room.
+21 Olivia publicly claimed that cucumber is in the green_treasure_chest.
+22 Avery privately told Olivia that the cucumber is actually in the blue_treasure_chest.
+23 Avery, Noah, Olivia and Mia entered the garage.
+24 The plum is in the blue_drawer.
+25 Avery moved the plum to the blue_basket.
+26 Avery exited the garage and stayed in the waiting_room.
+27 Noah made no movements and stayed in the garage for 10 minutes.
+28 Noah exited the garage and stayed in the waiting_room.
+29 Olivia made no movements and stayed in the garage for 10 minutes.
+30 Olivia exited the garage and stayed in the waiting_room.
+31 Mia made no movements and stayed in the garage for 10 minutes.
+32 Mia exited the garage and stayed in the waiting_room.
+33 Avery and Jack entered the cellar.
+34 The cucumber is in the green_treasure_chest.
+35 Avery moved the cucumber to the red_container.
+36 Avery exited the cellar and stayed in the waiting_room.
+37 Jack made no movements and stayed in the cellar for 10 minutes.
+38 Jack exited the cellar and stayed in the waiting_room.
+39 Jack publicly claimed that cucumber is in the blue_treasure_chest.
+40 Avery privately told Jack that the cucumber is actually in the green_crate.
+Question: Where does Avery think the orange is?
+Choices: A. red_suitcase, B. green_cupboard, C. red_bathtub, D. blue_envelope, E. red_bottle, F. red_treasure_chest, G. blue_drawer, H. blue_bucket, I. green_container, J. blue_basket, K. green_envelope, L. red_container, M. green_crate, N. blue_treasure_chest, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

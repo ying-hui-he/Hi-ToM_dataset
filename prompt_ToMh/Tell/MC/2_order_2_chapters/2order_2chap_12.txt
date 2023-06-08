@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Oliver, Mila, Mia, Amelia and Charlotte entered the lounge.
+2 The pear is in the green_crate.
+3 Oliver moved the pear to the red_bucket.
+4 Oliver exited the lounge and stayed in the waiting_room.
+5 Mila moved the pear to the blue_crate.
+6 Mila exited the lounge and stayed in the waiting_room.
+7 Mia made no movements and stayed in the lounge for 10 minutes.
+8 Mia exited the lounge and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the lounge for 10 minutes.
+10 Amelia exited the lounge and stayed in the waiting_room.
+11 Charlotte moved the pear to the green_crate.
+12 Charlotte exited the lounge and stayed in the waiting_room.
+13 Oliver, Mia and Amelia entered the sunroom.
+14 The apple is in the blue_drawer.
+15 Oliver moved the apple to the green_bottle.
+16 Oliver exited the sunroom and stayed in the waiting_room.
+17 Mia moved the apple to the red_bottle.
+18 Mia exited the sunroom and stayed in the waiting_room.
+19 Amelia moved the apple to the blue_bottle.
+20 Amelia exited the sunroom and stayed in the waiting_room.
+21 Mia publicly claimed that apple is in the blue_drawer.
+22 Amelia privately told Mia that the apple is actually in the green_bottle.
+Question: Where does Mia think Amelia thinks the pear is?
+Choices: A. blue_treasure_chest, B. green_bathtub, C. green_suitcase, D. red_treasure_chest, E. blue_bathtub, F. blue_suitcase, G. blue_drawer, H. blue_bottle, I. green_bottle, J. red_bottle, K. red_bucket, L. green_crate, M. blue_bucket, N. blue_crate, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

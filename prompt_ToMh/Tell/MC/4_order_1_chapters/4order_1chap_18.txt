@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Gracie, Mia, Aria, Hannah and Noah entered the bathroom.
+2 The pear is in the blue_envelope.
+3 Gracie made no movements and stayed in the bathroom for 10 minutes.
+4 Gracie exited the bathroom and stayed in the waiting_room.
+5 Mia made no movements and stayed in the bathroom for 10 minutes.
+6 Mia exited the bathroom and stayed in the waiting_room.
+7 Aria moved the pear to the red_envelope.
+8 Aria exited the bathroom and stayed in the waiting_room.
+9 Hannah moved the pear to the red_suitcase.
+10 Hannah exited the bathroom and stayed in the waiting_room.
+11 Noah moved the pear to the blue_envelope.
+12 Noah exited the bathroom and stayed in the waiting_room.
+13 Hannah publicly claimed that pear is in the blue_envelope.
+14 Noah privately told Gracie that the pear is actually in the blue_envelope.
+Question: Where does Mia think Noah thinks Hannah thinks Gracie thinks the pear is?
+Choices: A. blue_treasure_chest, B. green_container, C. blue_drawer, D. red_container, E. blue_bucket, F. blue_envelope, G. blue_pantry, H. red_suitcase, I. green_cupboard, J. red_envelope, K. green_envelope, L. red_bathtub, M. green_crate, N. green_bathtub, O. blue_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

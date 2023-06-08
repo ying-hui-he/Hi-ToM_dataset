@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Amelia, Jayden, Aiden, Olivia and Oliver entered the sunroom.
+2 The celery is in the red_bottle.
+3 Amelia made no movements and stayed in the sunroom for 10 minutes.
+4 Amelia exited the sunroom and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the sunroom for 10 minutes.
+6 Jayden exited the sunroom and stayed in the waiting_room.
+7 Aiden made no movements and stayed in the sunroom for 10 minutes.
+8 Aiden exited the sunroom and stayed in the waiting_room.
+9 Olivia moved the celery to the red_drawer.
+10 Olivia exited the sunroom and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the sunroom for 10 minutes.
+12 Oliver exited the sunroom and stayed in the waiting_room.
+13 Oliver, Aiden and Jayden entered the sunroom.
+14 The orange is in the green_treasure_chest.
+15 Oliver made no movements and stayed in the sunroom for 10 minutes.
+16 Oliver exited the sunroom and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the sunroom for 10 minutes.
+18 Aiden exited the sunroom and stayed in the waiting_room.
+19 Jayden made no movements and stayed in the sunroom for 10 minutes.
+20 Jayden exited the sunroom and stayed in the waiting_room.
+21 Jayden publicly claimed that orange is in the red_bottle.
+22 Oliver privately told Jayden that the orange is actually in the red_drawer.
+23 Aiden, Jayden, Olivia and Amelia entered the den.
+24 The green_pepper is in the red_bucket.
+25 Aiden moved the green_pepper to the red_crate.
+26 Aiden exited the den and stayed in the waiting_room.
+27 Jayden moved the green_pepper to the blue_bucket.
+28 Jayden exited the den and stayed in the waiting_room.
+29 Olivia moved the green_pepper to the green_bottle.
+30 Olivia exited the den and stayed in the waiting_room.
+31 Amelia moved the green_pepper to the blue_crate.
+32 Amelia exited the den and stayed in the waiting_room.
+33 Oliver and Amelia entered the den.
+34 The cucumber is in the blue_crate.
+35 Oliver moved the cucumber to the red_bucket.
+36 Oliver exited the den and stayed in the waiting_room.
+37 Amelia made no movements and stayed in the den for 10 minutes.
+38 Amelia exited the den and stayed in the waiting_room.
+39 Amelia publicly claimed that cucumber is in the red_bucket.
+40 Oliver privately told Amelia that the cucumber is actually in the red_crate.
+Question: Where does Jayden think Amelia thinks the celery is?
+Choices: A. green_crate, B. red_envelope, C. blue_bottle, D. red_treasure_chest, E. blue_basket, F. blue_crate, G. red_bucket, H. red_crate, I. blue_bucket, J. green_bottle, K. green_treasure_chest, L. red_bottle, M. green_envelope, N. blue_drawer, O. red_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Oliver, Avery, Charlotte, Emma and Hannah entered the basement.
+2 The melon is in the blue_drawer.
+3 Oliver made no movements and stayed in the basement for 10 minutes.
+4 Oliver exited the basement and stayed in the waiting_room.
+5 Avery moved the melon to the green_envelope.
+6 Avery exited the basement and stayed in the waiting_room.
+7 Charlotte made no movements and stayed in the basement for 10 minutes.
+8 Charlotte exited the basement and stayed in the waiting_room.
+9 Emma made no movements and stayed in the basement for 10 minutes.
+10 Emma exited the basement and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the basement for 10 minutes.
+12 Hannah exited the basement and stayed in the waiting_room.
+13 Charlotte publicly claimed that melon is in the green_envelope.
+14 Hannah privately told Charlotte that the melon is actually in the blue_crate.
+15 Oliver, Emma and Charlotte entered the attic.
+16 The beans is in the red_bathtub.
+17 Oliver moved the beans to the green_treasure_chest.
+18 Oliver exited the attic and stayed in the waiting_room.
+19 Emma moved the beans to the green_cupboard.
+20 Emma exited the attic and stayed in the waiting_room.
+21 Charlotte made no movements and stayed in the attic for 10 minutes.
+22 Charlotte exited the attic and stayed in the waiting_room.
+23 Avery, Hannah, Oliver and Emma entered the attic.
+24 The beans is in the green_cupboard.
+25 Avery made no movements and stayed in the attic for 10 minutes.
+26 Avery exited the attic and stayed in the waiting_room.
+27 Hannah moved the beans to the blue_basket.
+28 Hannah exited the attic and stayed in the waiting_room.
+29 Oliver moved the beans to the green_bathtub.
+30 Oliver exited the attic and stayed in the waiting_room.
+31 Emma moved the beans to the green_treasure_chest.
+32 Emma exited the attic and stayed in the waiting_room.
+33 Hannah privately told Oliver that the beans is actually in the green_treasure_chest.
+34 Emma privately told Charlotte that the beans is actually in the green_treasure_chest.
+Question: Where is the melon really?
+Choices: A. green_bathtub, B. red_bathtub, C. green_treasure_chest, D. blue_basket, E. green_cupboard, F. green_container, G. blue_bottle, H. blue_envelope, I. blue_treasure_chest, J. red_drawer, K. red_suitcase, L. blue_drawer, M. green_envelope, N. blue_crate, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

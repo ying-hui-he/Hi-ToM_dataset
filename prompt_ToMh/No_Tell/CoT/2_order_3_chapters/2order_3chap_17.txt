@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Aiden, Isla, Jack and Gracie entered the attic.
+2 The cucumber is in the red_treasure_chest.
+3 Evelyn moved the cucumber to the blue_treasure_chest.
+4 Evelyn exited the attic and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the attic for 10 minutes.
+6 Aiden exited the attic and stayed in the waiting_room.
+7 Isla made no movements and stayed in the attic for 10 minutes.
+8 Isla exited the attic and stayed in the waiting_room.
+9 Jack made no movements and stayed in the attic for 10 minutes.
+10 Jack exited the attic and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the attic for 10 minutes.
+12 Gracie exited the attic and stayed in the waiting_room.
+13 Jack, Evelyn and Aiden entered the bathroom.
+14 The lime is in the green_bathtub.
+15 Jack moved the lime to the red_basket.
+16 Jack exited the bathroom and stayed in the waiting_room.
+17 Evelyn made no movements and stayed in the bathroom for 10 minutes.
+18 Evelyn exited the bathroom and stayed in the waiting_room.
+19 Aiden made no movements and stayed in the bathroom for 10 minutes.
+20 Aiden exited the bathroom and stayed in the waiting_room.
+21 Jack, Evelyn, Gracie and Aiden entered the bathroom.
+22 The tangerine is in the blue_bottle.
+23 Jack made no movements and stayed in the bathroom for 10 minutes.
+24 Jack exited the bathroom and stayed in the waiting_room.
+25 Evelyn made no movements and stayed in the bathroom for 10 minutes.
+26 Evelyn exited the bathroom and stayed in the waiting_room.
+27 Gracie made no movements and stayed in the bathroom for 10 minutes.
+28 Gracie exited the bathroom and stayed in the waiting_room.
+29 Aiden made no movements and stayed in the bathroom for 10 minutes.
+30 Aiden exited the bathroom and stayed in the waiting_room.
+Question: Where does Jack think Evelyn thinks the cucumber is?
+Choices: A. green_bathtub, B. blue_bottle, C. red_basket, D. green_suitcase, E. red_suitcase, F. blue_crate, G. red_treasure_chest, H. blue_treasure_chest, I. green_envelope, J. red_bottle, K. blue_drawer, L. green_treasure_chest, M. blue_bucket, N. blue_suitcase, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

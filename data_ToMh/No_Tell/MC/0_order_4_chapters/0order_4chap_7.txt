@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isla, Amelia, Aria, Abigail and Evelyn entered the master_bedroom.
+2 The banana is in the red_crate.
+3 Isla made no movements and stayed in the master_bedroom for 10 minutes.
+4 Isla exited the master_bedroom and stayed in the waiting_room.
+5 Amelia moved the banana to the green_bottle.
+6 Amelia exited the master_bedroom and stayed in the waiting_room.
+7 Aria moved the banana to the green_suitcase.
+8 Aria exited the master_bedroom and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the master_bedroom for 10 minutes.
+10 Abigail exited the master_bedroom and stayed in the waiting_room.
+11 Evelyn made no movements and stayed in the master_bedroom for 10 minutes.
+12 Evelyn exited the master_bedroom and stayed in the waiting_room.
+13 Isla, Abigail and Evelyn entered the crawlspace.
+14 The pear is in the green_container.
+15 Isla made no movements and stayed in the crawlspace for 10 minutes.
+16 Isla exited the crawlspace and stayed in the waiting_room.
+17 Abigail moved the pear to the green_crate.
+18 Abigail exited the crawlspace and stayed in the waiting_room.
+19 Evelyn made no movements and stayed in the crawlspace for 10 minutes.
+20 Evelyn exited the crawlspace and stayed in the waiting_room.
+21 Evelyn, Amelia, Abigail and Isla entered the master_bedroom.
+22 The turnip is in the blue_envelope.
+23 Evelyn moved the turnip to the green_suitcase.
+24 Evelyn exited the master_bedroom and stayed in the waiting_room.
+25 Amelia moved the turnip to the green_treasure_chest.
+26 Amelia exited the master_bedroom and stayed in the waiting_room.
+27 Abigail moved the turnip to the red_crate.
+28 Abigail exited the master_bedroom and stayed in the waiting_room.
+29 Isla moved the turnip to the green_bottle.
+30 Isla exited the master_bedroom and stayed in the waiting_room.
+31 Abigail and Amelia entered the crawlspace.
+32 The pear is in the green_crate.
+33 Abigail made no movements and stayed in the crawlspace for 10 minutes.
+34 Abigail exited the crawlspace and stayed in the waiting_room.
+35 Amelia moved the pear to the green_container.
+36 Amelia exited the crawlspace and stayed in the waiting_room.
+Question: Where is the banana really?
+Answer: green_suitcase
+Choices: A. red_envelope, B. blue_pantry, C. red_basket, D. blue_box, E. red_drawer, F. blue_envelope, G. red_crate, H. green_bottle, I. green_treasure_chest, J. green_suitcase, K. green_crate, L. green_container, M. red_suitcase, N. blue_bathtub, O. red_bucket

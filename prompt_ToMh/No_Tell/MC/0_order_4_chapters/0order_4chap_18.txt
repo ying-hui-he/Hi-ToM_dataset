@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Jacob, Jackson, Aiden and Ethan entered the basement.
+2 The green_pepper is in the red_bucket.
+3 Mila made no movements and stayed in the basement for 10 minutes.
+4 Mila exited the basement and stayed in the waiting_room.
+5 Jacob moved the green_pepper to the blue_bucket.
+6 Jacob exited the basement and stayed in the waiting_room.
+7 Jackson moved the green_pepper to the blue_pantry.
+8 Jackson exited the basement and stayed in the waiting_room.
+9 Aiden moved the green_pepper to the red_bottle.
+10 Aiden exited the basement and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the basement for 10 minutes.
+12 Ethan exited the basement and stayed in the waiting_room.
+13 Ethan, Aiden and Jackson entered the study.
+14 The orange is in the green_container.
+15 Ethan moved the orange to the red_container.
+16 Ethan exited the study and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the study for 10 minutes.
+18 Aiden exited the study and stayed in the waiting_room.
+19 Jackson moved the orange to the green_treasure_chest.
+20 Jackson exited the study and stayed in the waiting_room.
+21 Aiden, Jackson, Ethan and Jacob entered the study.
+22 The peach is in the blue_basket.
+23 Aiden made no movements and stayed in the study for 10 minutes.
+24 Aiden exited the study and stayed in the waiting_room.
+25 Jackson moved the peach to the green_treasure_chest.
+26 Jackson exited the study and stayed in the waiting_room.
+27 Ethan made no movements and stayed in the study for 10 minutes.
+28 Ethan exited the study and stayed in the waiting_room.
+29 Jacob moved the peach to the red_bathtub.
+30 Jacob exited the study and stayed in the waiting_room.
+31 Jacob and Mila entered the basement.
+32 The green_pepper is in the red_bottle.
+33 Jacob moved the green_pepper to the blue_bucket.
+34 Jacob exited the basement and stayed in the waiting_room.
+35 Mila moved the green_pepper to the blue_bathtub.
+36 Mila exited the basement and stayed in the waiting_room.
+Question: Where is the green_pepper really?
+Choices: A. green_bathtub, B. blue_box, C. green_cupboard, D. green_suitcase, E. green_crate, F. blue_basket, G. green_container, H. green_treasure_chest, I. red_bathtub, J. red_container, K. red_bucket, L. blue_bucket, M. blue_bathtub, N. red_bottle, O. blue_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

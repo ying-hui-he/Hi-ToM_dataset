@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Charlotte, Logan, Ava, Jackson and Gracie entered the patio.
+2 The peach is in the red_drawer.
+3 Charlotte made no movements and stayed in the patio for 10 minutes.
+4 Charlotte exited the patio and stayed in the waiting_room.
+5 Logan moved the peach to the blue_drawer.
+6 Logan exited the patio and stayed in the waiting_room.
+7 Ava moved the peach to the green_envelope.
+8 Ava exited the patio and stayed in the waiting_room.
+9 Jackson moved the peach to the blue_envelope.
+10 Jackson exited the patio and stayed in the waiting_room.
+11 Gracie made no movements and stayed in the patio for 10 minutes.
+12 Gracie exited the patio and stayed in the waiting_room.
+13 Gracie, Logan and Charlotte entered the patio.
+14 The radish is in the red_bottle.
+15 Gracie moved the radish to the red_drawer.
+16 Gracie exited the patio and stayed in the waiting_room.
+17 Logan made no movements and stayed in the patio for 10 minutes.
+18 Logan exited the patio and stayed in the waiting_room.
+19 Charlotte moved the radish to the blue_envelope.
+20 Charlotte exited the patio and stayed in the waiting_room.
+21 Charlotte publicly claimed that radish is in the red_bottle.
+22 Gracie privately told Charlotte that the radish is actually in the red_drawer.
+Question: Where does Jackson think Logan thinks Ava thinks the peach is?
+Choices: A. red_basket, B. blue_treasure_chest, C. green_bathtub, D. blue_container, E. green_bottle, F. red_container, G. green_crate, H. blue_crate, I. green_cupboard, J. blue_bathtub, K. red_drawer, L. red_bottle, M. green_envelope, N. blue_drawer, O. blue_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

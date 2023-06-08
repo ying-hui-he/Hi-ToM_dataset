@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Noah, Mia, Hannah and Jackson entered the patio.
+2 The lettuce is in the green_envelope.
+3 Evelyn made no movements and stayed in the patio for 10 minutes.
+4 Evelyn exited the patio and stayed in the waiting_room.
+5 Noah made no movements and stayed in the patio for 10 minutes.
+6 Noah exited the patio and stayed in the waiting_room.
+7 Mia made no movements and stayed in the patio for 10 minutes.
+8 Mia exited the patio and stayed in the waiting_room.
+9 Hannah moved the lettuce to the green_cupboard.
+10 Hannah exited the patio and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the patio for 10 minutes.
+12 Jackson exited the patio and stayed in the waiting_room.
+13 Jackson, Mia and Noah entered the living_room.
+14 The asparagus is in the red_bottle.
+15 Jackson made no movements and stayed in the living_room for 10 minutes.
+16 Jackson exited the living_room and stayed in the waiting_room.
+17 Mia made no movements and stayed in the living_room for 10 minutes.
+18 Mia exited the living_room and stayed in the waiting_room.
+19 Noah made no movements and stayed in the living_room for 10 minutes.
+20 Noah exited the living_room and stayed in the waiting_room.
+21 Mia privately told Noah that the asparagus is actually in the blue_crate.
+22 Noah privately told Evelyn that the asparagus is actually in the red_bottle.
+Question: Where does Noah think Mia thinks Evelyn thinks the lettuce is?
+Choices: A. red_bottle, B. blue_pantry, C. red_basket, D. blue_crate, E. blue_bottle, F. green_suitcase, G. blue_treasure_chest, H. red_suitcase, I. blue_bathtub, J. red_treasure_chest, K. blue_basket, L. green_envelope, M. green_cupboard, N. red_bucket, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ella, Hannah, Carter, Evelyn and Owen entered the master_bedroom.
+2 The onion is in the red_container.
+3 Ella moved the onion to the blue_crate.
+4 Ella exited the master_bedroom and stayed in the waiting_room.
+5 Hannah moved the onion to the blue_pantry.
+6 Hannah exited the master_bedroom and stayed in the waiting_room.
+7 Carter made no movements and stayed in the master_bedroom for 10 minutes.
+8 Carter exited the master_bedroom and stayed in the waiting_room.
+9 Evelyn moved the onion to the blue_envelope.
+10 Evelyn exited the master_bedroom and stayed in the waiting_room.
+11 Owen made no movements and stayed in the master_bedroom for 10 minutes.
+12 Owen exited the master_bedroom and stayed in the waiting_room.
+13 Owen, Ella and Evelyn entered the master_bedroom.
+14 The grapefruit is in the blue_pantry.
+15 Owen moved the grapefruit to the blue_crate.
+16 Owen exited the master_bedroom and stayed in the waiting_room.
+17 Ella moved the grapefruit to the blue_treasure_chest.
+18 Ella exited the master_bedroom and stayed in the waiting_room.
+19 Evelyn made no movements and stayed in the master_bedroom for 10 minutes.
+20 Evelyn exited the master_bedroom and stayed in the waiting_room.
+21 Hannah, Evelyn, Carter and Owen entered the master_bedroom.
+22 The onion is in the blue_envelope.
+23 Hannah moved the onion to the blue_treasure_chest.
+24 Hannah exited the master_bedroom and stayed in the waiting_room.
+25 Evelyn moved the onion to the blue_pantry.
+26 Evelyn exited the master_bedroom and stayed in the waiting_room.
+27 Carter made no movements and stayed in the master_bedroom for 10 minutes.
+28 Carter exited the master_bedroom and stayed in the waiting_room.
+29 Owen made no movements and stayed in the master_bedroom for 10 minutes.
+30 Owen exited the master_bedroom and stayed in the waiting_room.
+Question: Where is the onion really?
+Choices: A. red_container, B. blue_pantry, C. blue_envelope, D. blue_treasure_chest, E. blue_crate, F. blue_bottle, G. green_crate, H. blue_drawer, I. red_drawer, J. red_envelope, K. green_envelope, L. green_container, M. blue_bucket, N. red_basket, O. red_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

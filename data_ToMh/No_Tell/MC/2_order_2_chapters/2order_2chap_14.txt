@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Oliver, Abigail, Ethan, Aria and Mila entered the crawlspace.
+2 The pear is in the green_bottle.
+3 Oliver moved the pear to the green_container.
+4 Oliver exited the crawlspace and stayed in the waiting_room.
+5 Abigail moved the pear to the red_basket.
+6 Abigail exited the crawlspace and stayed in the waiting_room.
+7 Ethan moved the pear to the green_bathtub.
+8 Ethan exited the crawlspace and stayed in the waiting_room.
+9 Aria moved the pear to the green_treasure_chest.
+10 Aria exited the crawlspace and stayed in the waiting_room.
+11 Mila moved the pear to the green_bottle.
+12 Mila exited the crawlspace and stayed in the waiting_room.
+13 Abigail, Mila and Aria entered the crawlspace.
+14 The lemon is in the green_bathtub.
+15 Abigail moved the lemon to the red_basket.
+16 Abigail exited the crawlspace and stayed in the waiting_room.
+17 Mila made no movements and stayed in the crawlspace for 10 minutes.
+18 Mila exited the crawlspace and stayed in the waiting_room.
+19 Aria made no movements and stayed in the crawlspace for 10 minutes.
+20 Aria exited the crawlspace and stayed in the waiting_room.
+Question: Where does Ethan think Mila thinks the pear is?
+Answer: red_basket
+Choices: A. blue_basket, B. blue_box, C. red_suitcase, D. red_drawer, E. blue_envelope, F. green_bottle, G. green_bathtub, H. green_container, I. red_basket, J. green_treasure_chest, K. red_bucket, L. green_cupboard, M. red_bathtub, N. blue_crate, O. green_crate

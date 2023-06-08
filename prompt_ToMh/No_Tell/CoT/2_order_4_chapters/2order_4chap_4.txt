@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 James, Abigail, Isla, Ethan and Olivia entered the garage.
+2 The corn is in the green_container.
+3 James moved the corn to the red_drawer.
+4 James exited the garage and stayed in the waiting_room.
+5 Abigail made no movements and stayed in the garage for 10 minutes.
+6 Abigail exited the garage and stayed in the waiting_room.
+7 Isla moved the corn to the red_treasure_chest.
+8 Isla exited the garage and stayed in the waiting_room.
+9 Ethan made no movements and stayed in the garage for 10 minutes.
+10 Ethan exited the garage and stayed in the waiting_room.
+11 Olivia made no movements and stayed in the garage for 10 minutes.
+12 Olivia exited the garage and stayed in the waiting_room.
+13 Isla, Olivia and Ethan entered the garage.
+14 The corn is in the red_treasure_chest.
+15 Isla moved the corn to the green_container.
+16 Isla exited the garage and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the garage for 10 minutes.
+18 Olivia exited the garage and stayed in the waiting_room.
+19 Ethan moved the corn to the green_bathtub.
+20 Ethan exited the garage and stayed in the waiting_room.
+21 Abigail, Olivia, Ethan and Isla entered the cellar.
+22 The persimmon is in the blue_envelope.
+23 Abigail moved the persimmon to the green_treasure_chest.
+24 Abigail exited the cellar and stayed in the waiting_room.
+25 Olivia moved the persimmon to the blue_treasure_chest.
+26 Olivia exited the cellar and stayed in the waiting_room.
+27 Ethan made no movements and stayed in the cellar for 10 minutes.
+28 Ethan exited the cellar and stayed in the waiting_room.
+29 Isla moved the persimmon to the green_bottle.
+30 Isla exited the cellar and stayed in the waiting_room.
+31 Olivia and Isla entered the cellar.
+32 The persimmon is in the green_bottle.
+33 Olivia moved the persimmon to the blue_envelope.
+34 Olivia exited the cellar and stayed in the waiting_room.
+35 Isla made no movements and stayed in the cellar for 10 minutes.
+36 Isla exited the cellar and stayed in the waiting_room.
+Question: Where does James think Isla thinks the corn is?
+Choices: A. red_drawer, B. green_container, C. blue_suitcase, D. red_treasure_chest, E. green_bathtub, F. blue_envelope, G. green_treasure_chest, H. green_suitcase, I. blue_treasure_chest, J. green_bottle, K. red_suitcase, L. green_cupboard, M. red_container, N. green_crate, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

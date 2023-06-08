@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mila, Amelia, Benjamin, Jayden and Carter entered the living_room.
+2 The melon is in the red_envelope.
+3 Mila made no movements and stayed in the living_room for 10 minutes.
+4 Mila exited the living_room and stayed in the waiting_room.
+5 Amelia moved the melon to the blue_crate.
+6 Amelia exited the living_room and stayed in the waiting_room.
+7 Benjamin moved the melon to the red_bucket.
+8 Benjamin exited the living_room and stayed in the waiting_room.
+9 Jayden moved the melon to the green_envelope.
+10 Jayden exited the living_room and stayed in the waiting_room.
+11 Carter made no movements and stayed in the living_room for 10 minutes.
+12 Carter exited the living_room and stayed in the waiting_room.
+13 Benjamin publicly claimed that melon is in the red_bucket.
+14 Carter privately told Benjamin that the melon is actually in the red_envelope.
+Question: Where is the melon really?
+Choices: A. red_envelope, B. green_envelope, C. blue_crate, D. red_bucket, E. blue_box, F. blue_bottle, G. red_bathtub, H. blue_drawer, I. blue_container, J. red_drawer, K. red_basket, L. green_suitcase, M. blue_pantry, N. blue_bucket, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

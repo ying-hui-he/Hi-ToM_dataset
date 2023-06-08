@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Amelia, Jackson, Jack, Olivia and Ethan entered the playroom.
+2 The banana is in the blue_crate.
+3 Amelia made no movements and stayed in the playroom for 10 minutes.
+4 Amelia exited the playroom and stayed in the waiting_room.
+5 Jackson made no movements and stayed in the playroom for 10 minutes.
+6 Jackson exited the playroom and stayed in the waiting_room.
+7 Jack moved the banana to the green_envelope.
+8 Jack exited the playroom and stayed in the waiting_room.
+9 Olivia moved the banana to the blue_basket.
+10 Olivia exited the playroom and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the playroom for 10 minutes.
+12 Ethan exited the playroom and stayed in the waiting_room.
+13 Amelia, Jackson and Ethan entered the playroom.
+14 The turnip is in the green_envelope.
+15 Amelia moved the turnip to the green_suitcase.
+16 Amelia exited the playroom and stayed in the waiting_room.
+17 Jackson moved the turnip to the blue_crate.
+18 Jackson exited the playroom and stayed in the waiting_room.
+19 Ethan made no movements and stayed in the playroom for 10 minutes.
+20 Ethan exited the playroom and stayed in the waiting_room.
+Question: Where does Amelia think Olivia thinks the banana is?
+Choices: A. red_bucket, B. red_drawer, C. red_bottle, D. green_treasure_chest, E. red_bathtub, F. blue_envelope, G. blue_pantry, H. blue_bottle, I. red_treasure_chest, J. green_container, K. green_envelope, L. blue_crate, M. blue_basket, N. green_cupboard, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

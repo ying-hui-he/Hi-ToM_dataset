@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Aria, Ella, Amelia and Abigail entered the den.
+2 The asparagus is in the blue_basket.
+3 Ava moved the asparagus to the blue_pantry.
+4 Ava exited the den and stayed in the waiting_room.
+5 Aria made no movements and stayed in the den for 10 minutes.
+6 Aria exited the den and stayed in the waiting_room.
+7 Ella moved the asparagus to the blue_crate.
+8 Ella exited the den and stayed in the waiting_room.
+9 Amelia made no movements and stayed in the den for 10 minutes.
+10 Amelia exited the den and stayed in the waiting_room.
+11 Abigail made no movements and stayed in the den for 10 minutes.
+12 Abigail exited the den and stayed in the waiting_room.
+13 Ella privately told Ava that the asparagus is actually in the blue_pantry.
+14 Aria privately told Amelia that the asparagus is actually in the blue_basket.
+Question: Where does Abigail think Amelia thinks Ava thinks the asparagus is?
+Choices: A. blue_basket, B. green_bathtub, C. blue_pantry, D. blue_crate, E. blue_bathtub, F. red_treasure_chest, G. red_bucket, H. green_container, I. green_bottle, J. blue_box, K. green_treasure_chest, L. red_envelope, M. blue_container, N. red_bottle, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

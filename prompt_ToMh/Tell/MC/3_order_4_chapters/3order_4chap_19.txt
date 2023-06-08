@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Ava, Isla, Charlotte and Jayden entered the playroom.
+2 The lemon is in the blue_basket.
+3 Aiden moved the lemon to the blue_box.
+4 Aiden exited the playroom and stayed in the waiting_room.
+5 Ava moved the lemon to the red_envelope.
+6 Ava exited the playroom and stayed in the waiting_room.
+7 Isla moved the lemon to the green_cupboard.
+8 Isla exited the playroom and stayed in the waiting_room.
+9 Charlotte moved the lemon to the green_bottle.
+10 Charlotte exited the playroom and stayed in the waiting_room.
+11 Jayden moved the lemon to the blue_basket.
+12 Jayden exited the playroom and stayed in the waiting_room.
+13 Ava, Aiden and Isla entered the playroom.
+14 The cucumber is in the green_bottle.
+15 Ava made no movements and stayed in the playroom for 10 minutes.
+16 Ava exited the playroom and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the playroom for 10 minutes.
+18 Aiden exited the playroom and stayed in the waiting_room.
+19 Isla made no movements and stayed in the playroom for 10 minutes.
+20 Isla exited the playroom and stayed in the waiting_room.
+21 Aiden publicly claimed that cucumber is in the blue_box.
+22 Isla privately told Aiden that the cucumber is actually in the green_cupboard.
+23 Charlotte, Aiden, Isla and Ava entered the bathroom.
+24 The potato is in the blue_pantry.
+25 Charlotte moved the potato to the red_bucket.
+26 Charlotte exited the bathroom and stayed in the waiting_room.
+27 Aiden made no movements and stayed in the bathroom for 10 minutes.
+28 Aiden exited the bathroom and stayed in the waiting_room.
+29 Isla moved the potato to the blue_crate.
+30 Isla exited the bathroom and stayed in the waiting_room.
+31 Ava moved the potato to the blue_suitcase.
+32 Ava exited the bathroom and stayed in the waiting_room.
+33 Isla and Ava entered the playroom.
+34 The lemon is in the blue_basket.
+35 Isla moved the lemon to the red_envelope.
+36 Isla exited the playroom and stayed in the waiting_room.
+37 Ava made no movements and stayed in the playroom for 10 minutes.
+38 Ava exited the playroom and stayed in the waiting_room.
+39 Isla privately told Aiden that the lemon is actually in the green_bottle.
+Question: Where does Isla think Aiden thinks Charlotte thinks the lemon is?
+Choices: A. blue_basket, B. green_bottle, C. green_cupboard, D. red_envelope, E. blue_box, F. blue_crate, G. blue_pantry, H. red_treasure_chest, I. red_bucket, J. blue_suitcase, K. green_suitcase, L. green_crate, M. blue_envelope, N. blue_bucket, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

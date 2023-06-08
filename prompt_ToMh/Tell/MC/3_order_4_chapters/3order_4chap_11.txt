@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Olivia, Gracie, Benjamin, William and Jackson entered the workshop.
+2 The banana is in the green_container.
+3 Olivia moved the banana to the blue_container.
+4 Olivia exited the workshop and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the workshop for 10 minutes.
+6 Gracie exited the workshop and stayed in the waiting_room.
+7 Benjamin moved the banana to the red_container.
+8 Benjamin exited the workshop and stayed in the waiting_room.
+9 William moved the banana to the green_suitcase.
+10 William exited the workshop and stayed in the waiting_room.
+11 Jackson moved the banana to the green_container.
+12 Jackson exited the workshop and stayed in the waiting_room.
+13 Gracie, Benjamin and Olivia entered the workshop.
+14 The strawberry is in the green_suitcase.
+15 Gracie moved the strawberry to the red_container.
+16 Gracie exited the workshop and stayed in the waiting_room.
+17 Benjamin moved the strawberry to the blue_container.
+18 Benjamin exited the workshop and stayed in the waiting_room.
+19 Olivia moved the strawberry to the red_crate.
+20 Olivia exited the workshop and stayed in the waiting_room.
+21 Gracie publicly claimed that strawberry is in the green_container.
+22 Olivia privately told William that the strawberry is actually in the red_crate.
+23 William, Gracie, Olivia and Benjamin entered the dining_room.
+24 The carrot is in the red_basket.
+25 William moved the carrot to the blue_bathtub.
+26 William exited the dining_room and stayed in the waiting_room.
+27 Gracie moved the carrot to the red_envelope.
+28 Gracie exited the dining_room and stayed in the waiting_room.
+29 Olivia made no movements and stayed in the dining_room for 10 minutes.
+30 Olivia exited the dining_room and stayed in the waiting_room.
+31 Benjamin made no movements and stayed in the dining_room for 10 minutes.
+32 Benjamin exited the dining_room and stayed in the waiting_room.
+33 William and Benjamin entered the dining_room.
+34 The pineapple is in the red_envelope.
+35 William made no movements and stayed in the dining_room for 10 minutes.
+36 William exited the dining_room and stayed in the waiting_room.
+37 Benjamin moved the pineapple to the blue_box.
+38 Benjamin exited the dining_room and stayed in the waiting_room.
+39 William privately told Jackson that the pineapple is actually in the blue_box.
+Question: Where does Jackson think William thinks Gracie thinks the banana is?
+Choices: A. red_drawer, B. blue_crate, C. green_crate, D. green_envelope, E. red_bucket, F. red_envelope, G. red_basket, H. red_bottle, I. blue_bathtub, J. blue_box, K. green_suitcase, L. green_container, M. red_container, N. red_crate, O. blue_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

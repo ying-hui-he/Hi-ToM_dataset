@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Carter, Benjamin, Jackson and Mia entered the playroom.
+2 The potato is in the blue_suitcase.
+3 Evelyn moved the potato to the green_suitcase.
+4 Evelyn exited the playroom and stayed in the waiting_room.
+5 Carter made no movements and stayed in the playroom for 10 minutes.
+6 Carter exited the playroom and stayed in the waiting_room.
+7 Benjamin moved the potato to the red_basket.
+8 Benjamin exited the playroom and stayed in the waiting_room.
+9 Jackson made no movements and stayed in the playroom for 10 minutes.
+10 Jackson exited the playroom and stayed in the waiting_room.
+11 Mia moved the potato to the blue_suitcase.
+12 Mia exited the playroom and stayed in the waiting_room.
+13 Mia, Evelyn and Jackson entered the lounge.
+14 The strawberry is in the blue_pantry.
+15 Mia moved the strawberry to the red_container.
+16 Mia exited the lounge and stayed in the waiting_room.
+17 Evelyn made no movements and stayed in the lounge for 10 minutes.
+18 Evelyn exited the lounge and stayed in the waiting_room.
+19 Jackson made no movements and stayed in the lounge for 10 minutes.
+20 Jackson exited the lounge and stayed in the waiting_room.
+21 Jackson publicly claimed that strawberry is in the green_bathtub.
+22 Mia privately told Jackson that the strawberry is actually in the blue_bathtub.
+Question: Where does Carter think Mia thinks Evelyn thinks Benjamin thinks the potato is?
+Choices: A. green_container, B. blue_suitcase, C. green_cupboard, D. green_suitcase, E. red_basket, F. red_treasure_chest, G. blue_pantry, H. blue_bathtub, I. red_container, J. green_bathtub, K. blue_treasure_chest, L. blue_envelope, M. red_bottle, N. green_bottle, O. red_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

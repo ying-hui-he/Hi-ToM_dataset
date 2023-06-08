@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Owen, Abigail, Emily, James and Aiden entered the back_yard.
+2 The onion is in the blue_drawer.
+3 Owen made no movements and stayed in the back_yard for 10 minutes.
+4 Owen exited the back_yard and stayed in the waiting_room.
+5 Abigail made no movements and stayed in the back_yard for 10 minutes.
+6 Abigail exited the back_yard and stayed in the waiting_room.
+7 Emily moved the onion to the blue_crate.
+8 Emily exited the back_yard and stayed in the waiting_room.
+9 James made no movements and stayed in the back_yard for 10 minutes.
+10 James exited the back_yard and stayed in the waiting_room.
+11 Aiden made no movements and stayed in the back_yard for 10 minutes.
+12 Aiden exited the back_yard and stayed in the waiting_room.
+Question: Where does James think Aiden thinks the onion is?
+Choices: A. red_drawer, B. red_treasure_chest, C. blue_basket, D. red_container, E. blue_bucket, F. blue_suitcase, G. red_bottle, H. red_basket, I. blue_envelope, J. green_treasure_chest, K. blue_container, L. blue_drawer, M. red_suitcase, N. green_envelope, O. blue_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

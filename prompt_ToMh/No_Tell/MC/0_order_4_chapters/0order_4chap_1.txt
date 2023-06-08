@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jackson, Hannah, Isla, Charlotte and Ethan entered the bathroom.
+2 The persimmon is in the red_treasure_chest.
+3 Jackson moved the persimmon to the green_bathtub.
+4 Jackson exited the bathroom and stayed in the waiting_room.
+5 Hannah moved the persimmon to the red_bucket.
+6 Hannah exited the bathroom and stayed in the waiting_room.
+7 Isla moved the persimmon to the blue_basket.
+8 Isla exited the bathroom and stayed in the waiting_room.
+9 Charlotte moved the persimmon to the blue_crate.
+10 Charlotte exited the bathroom and stayed in the waiting_room.
+11 Ethan moved the persimmon to the red_treasure_chest.
+12 Ethan exited the bathroom and stayed in the waiting_room.
+13 Ethan, Hannah and Charlotte entered the bathroom.
+14 The celery is in the blue_crate.
+15 Ethan made no movements and stayed in the bathroom for 10 minutes.
+16 Ethan exited the bathroom and stayed in the waiting_room.
+17 Hannah made no movements and stayed in the bathroom for 10 minutes.
+18 Hannah exited the bathroom and stayed in the waiting_room.
+19 Charlotte made no movements and stayed in the bathroom for 10 minutes.
+20 Charlotte exited the bathroom and stayed in the waiting_room.
+21 Charlotte, Jackson, Ethan and Isla entered the closet.
+22 The lime is in the blue_bottle.
+23 Charlotte moved the lime to the blue_drawer.
+24 Charlotte exited the closet and stayed in the waiting_room.
+25 Jackson moved the lime to the red_drawer.
+26 Jackson exited the closet and stayed in the waiting_room.
+27 Ethan moved the lime to the red_suitcase.
+28 Ethan exited the closet and stayed in the waiting_room.
+29 Isla made no movements and stayed in the closet for 10 minutes.
+30 Isla exited the closet and stayed in the waiting_room.
+31 Ethan and Hannah entered the bathroom.
+32 The celery is in the blue_crate.
+33 Ethan moved the celery to the red_treasure_chest.
+34 Ethan exited the bathroom and stayed in the waiting_room.
+35 Hannah moved the celery to the blue_basket.
+36 Hannah exited the bathroom and stayed in the waiting_room.
+Question: Where is the persimmon really?
+Choices: A. blue_bottle, B. blue_drawer, C. red_drawer, D. red_envelope, E. red_suitcase, F. blue_crate, G. red_treasure_chest, H. green_bathtub, I. blue_basket, J. red_bucket, K. blue_envelope, L. green_cupboard, M. green_crate, N. green_envelope, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

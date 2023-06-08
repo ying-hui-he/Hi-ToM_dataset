@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 James, Mia, Ethan, Hannah and Carter entered the back_yard.
+2 The pumpkin is in the blue_crate.
+3 James moved the pumpkin to the red_bathtub.
+4 James exited the back_yard and stayed in the waiting_room.
+5 Mia moved the pumpkin to the red_treasure_chest.
+6 Mia exited the back_yard and stayed in the waiting_room.
+7 Ethan made no movements and stayed in the back_yard for 10 minutes.
+8 Ethan exited the back_yard and stayed in the waiting_room.
+9 Hannah moved the pumpkin to the blue_bucket.
+10 Hannah exited the back_yard and stayed in the waiting_room.
+11 Carter made no movements and stayed in the back_yard for 10 minutes.
+12 Carter exited the back_yard and stayed in the waiting_room.
+13 Mia, Ethan and Hannah entered the bedroom.
+14 The potato is in the red_envelope.
+15 Mia made no movements and stayed in the bedroom for 10 minutes.
+16 Mia exited the bedroom and stayed in the waiting_room.
+17 Ethan moved the potato to the blue_treasure_chest.
+18 Ethan exited the bedroom and stayed in the waiting_room.
+19 Hannah moved the potato to the blue_pantry.
+20 Hannah exited the bedroom and stayed in the waiting_room.
+21 Hannah, Ethan, Mia and Carter entered the bedroom.
+22 The strawberry is in the blue_treasure_chest.
+23 Hannah made no movements and stayed in the bedroom for 10 minutes.
+24 Hannah exited the bedroom and stayed in the waiting_room.
+25 Ethan made no movements and stayed in the bedroom for 10 minutes.
+26 Ethan exited the bedroom and stayed in the waiting_room.
+27 Mia made no movements and stayed in the bedroom for 10 minutes.
+28 Mia exited the bedroom and stayed in the waiting_room.
+29 Carter made no movements and stayed in the bedroom for 10 minutes.
+30 Carter exited the bedroom and stayed in the waiting_room.
+31 James and Mia entered the hallway.
+32 The asparagus is in the blue_container.
+33 James moved the asparagus to the green_bathtub.
+34 James exited the hallway and stayed in the waiting_room.
+35 Mia moved the asparagus to the blue_bathtub.
+36 Mia exited the hallway and stayed in the waiting_room.
+Question: Where does Ethan think Carter thinks Mia thinks the pumpkin is?
+Choices: A. blue_bathtub, B. blue_container, C. green_bathtub, D. red_basket, E. red_suitcase, F. blue_bucket, G. blue_crate, H. red_bathtub, I. blue_box, J. red_treasure_chest, K. blue_treasure_chest, L. red_envelope, M. blue_pantry, N. green_suitcase, O. green_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

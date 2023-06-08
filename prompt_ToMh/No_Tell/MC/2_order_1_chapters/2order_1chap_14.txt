@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Benjamin, Ava, Noah, Aria and Jack entered the playroom.
+2 The pumpkin is in the green_crate.
+3 Benjamin made no movements and stayed in the playroom for 10 minutes.
+4 Benjamin exited the playroom and stayed in the waiting_room.
+5 Ava moved the pumpkin to the blue_drawer.
+6 Ava exited the playroom and stayed in the waiting_room.
+7 Noah moved the pumpkin to the red_bottle.
+8 Noah exited the playroom and stayed in the waiting_room.
+9 Aria made no movements and stayed in the playroom for 10 minutes.
+10 Aria exited the playroom and stayed in the waiting_room.
+11 Jack made no movements and stayed in the playroom for 10 minutes.
+12 Jack exited the playroom and stayed in the waiting_room.
+Question: Where does Jack think Ava thinks the pumpkin is?
+Choices: A. red_treasure_chest, B. green_treasure_chest, C. blue_basket, D. blue_crate, E. red_suitcase, F. green_envelope, G. red_basket, H. blue_bucket, I. red_bucket, J. red_drawer, K. blue_drawer, L. green_crate, M. red_bottle, N. green_cupboard, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

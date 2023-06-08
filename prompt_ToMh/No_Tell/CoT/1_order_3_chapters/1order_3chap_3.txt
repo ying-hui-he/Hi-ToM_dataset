@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Abigail, Carter, Ethan, Jayden and William entered the staircase.
+2 The strawberry is in the red_bathtub.
+3 Abigail made no movements and stayed in the staircase for 10 minutes.
+4 Abigail exited the staircase and stayed in the waiting_room.
+5 Carter moved the strawberry to the red_container.
+6 Carter exited the staircase and stayed in the waiting_room.
+7 Ethan moved the strawberry to the blue_treasure_chest.
+8 Ethan exited the staircase and stayed in the waiting_room.
+9 Jayden moved the strawberry to the blue_box.
+10 Jayden exited the staircase and stayed in the waiting_room.
+11 William moved the strawberry to the red_bathtub.
+12 William exited the staircase and stayed in the waiting_room.
+13 William, Ethan and Jayden entered the playroom.
+14 The potato is in the green_crate.
+15 William moved the potato to the red_bucket.
+16 William exited the playroom and stayed in the waiting_room.
+17 Ethan moved the potato to the red_treasure_chest.
+18 Ethan exited the playroom and stayed in the waiting_room.
+19 Jayden moved the potato to the red_drawer.
+20 Jayden exited the playroom and stayed in the waiting_room.
+21 Jayden, Abigail, Carter and William entered the playroom.
+22 The radish is in the red_bucket.
+23 Jayden made no movements and stayed in the playroom for 10 minutes.
+24 Jayden exited the playroom and stayed in the waiting_room.
+25 Abigail moved the radish to the red_treasure_chest.
+26 Abigail exited the playroom and stayed in the waiting_room.
+27 Carter moved the radish to the red_drawer.
+28 Carter exited the playroom and stayed in the waiting_room.
+29 William made no movements and stayed in the playroom for 10 minutes.
+30 William exited the playroom and stayed in the waiting_room.
+Question: Where does Jayden think the strawberry is?
+Choices: A. blue_crate, B. red_crate, C. green_bathtub, D. blue_suitcase, E. green_container, F. red_suitcase, G. red_bathtub, H. red_container, I. blue_box, J. blue_treasure_chest, K. green_crate, L. red_bucket, M. blue_container, N. red_treasure_chest, O. red_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

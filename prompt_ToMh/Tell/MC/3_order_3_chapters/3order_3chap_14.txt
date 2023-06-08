@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William, Jacob, Jack, James and Aria entered the porch.
+2 The apple is in the red_crate.
+3 William moved the apple to the blue_drawer.
+4 William exited the porch and stayed in the waiting_room.
+5 Jacob moved the apple to the red_basket.
+6 Jacob exited the porch and stayed in the waiting_room.
+7 Jack moved the apple to the red_treasure_chest.
+8 Jack exited the porch and stayed in the waiting_room.
+9 James moved the apple to the blue_bathtub.
+10 James exited the porch and stayed in the waiting_room.
+11 Aria moved the apple to the red_crate.
+12 Aria exited the porch and stayed in the waiting_room.
+13 James publicly claimed that apple is in the blue_drawer.
+14 Aria privately told William that the apple is actually in the red_crate.
+15 Jacob, William and Jack entered the porch.
+16 The apple is in the red_crate.
+17 Jacob made no movements and stayed in the porch for 10 minutes.
+18 Jacob exited the porch and stayed in the waiting_room.
+19 William made no movements and stayed in the porch for 10 minutes.
+20 William exited the porch and stayed in the waiting_room.
+21 Jack moved the apple to the blue_bathtub.
+22 Jack exited the porch and stayed in the waiting_room.
+23 James, Jacob, Aria and Jack entered the laundry.
+24 The banana is in the red_envelope.
+25 James moved the banana to the red_bottle.
+26 James exited the laundry and stayed in the waiting_room.
+27 Jacob made no movements and stayed in the laundry for 10 minutes.
+28 Jacob exited the laundry and stayed in the waiting_room.
+29 Aria moved the banana to the blue_crate.
+30 Aria exited the laundry and stayed in the waiting_room.
+31 Jack made no movements and stayed in the laundry for 10 minutes.
+32 Jack exited the laundry and stayed in the waiting_room.
+33 Jacob publicly claimed that banana is in the red_envelope.
+34 Jack privately told Aria that the banana is actually in the red_suitcase.
+Question: Where does James think Jacob thinks Jack thinks the apple is?
+Choices: A. blue_crate, B. red_envelope, C. red_container, D. red_suitcase, E. red_bottle, F. green_bottle, G. green_suitcase, H. blue_treasure_chest, I. green_cupboard, J. blue_bucket, K. red_treasure_chest, L. red_crate, M. blue_drawer, N. blue_bathtub, O. red_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

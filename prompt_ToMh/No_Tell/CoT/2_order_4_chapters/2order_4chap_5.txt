@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Oliver, Noah, Logan, Emily and Evelyn entered the den.
+2 The asparagus is in the green_container.
+3 Oliver moved the asparagus to the blue_basket.
+4 Oliver exited the den and stayed in the waiting_room.
+5 Noah made no movements and stayed in the den for 10 minutes.
+6 Noah exited the den and stayed in the waiting_room.
+7 Logan made no movements and stayed in the den for 10 minutes.
+8 Logan exited the den and stayed in the waiting_room.
+9 Emily moved the asparagus to the red_bucket.
+10 Emily exited the den and stayed in the waiting_room.
+11 Evelyn moved the asparagus to the green_container.
+12 Evelyn exited the den and stayed in the waiting_room.
+13 Noah, Logan and Oliver entered the garden.
+14 The peach is in the red_container.
+15 Noah moved the peach to the blue_bathtub.
+16 Noah exited the garden and stayed in the waiting_room.
+17 Logan moved the peach to the green_bathtub.
+18 Logan exited the garden and stayed in the waiting_room.
+19 Oliver moved the peach to the red_basket.
+20 Oliver exited the garden and stayed in the waiting_room.
+21 Logan, Noah, Emily and Evelyn entered the den.
+22 The spinach is in the green_envelope.
+23 Logan moved the spinach to the red_bottle.
+24 Logan exited the den and stayed in the waiting_room.
+25 Noah made no movements and stayed in the den for 10 minutes.
+26 Noah exited the den and stayed in the waiting_room.
+27 Emily moved the spinach to the red_bucket.
+28 Emily exited the den and stayed in the waiting_room.
+29 Evelyn made no movements and stayed in the den for 10 minutes.
+30 Evelyn exited the den and stayed in the waiting_room.
+31 Logan and Emily entered the den.
+32 The spinach is in the red_bucket.
+33 Logan moved the spinach to the green_container.
+34 Logan exited the den and stayed in the waiting_room.
+35 Emily moved the spinach to the blue_basket.
+36 Emily exited the den and stayed in the waiting_room.
+Question: Where does Noah think Evelyn thinks the asparagus is?
+Choices: A. green_container, B. green_envelope, C. red_bucket, D. blue_basket, E. red_bottle, F. red_container, G. blue_container, H. blue_bathtub, I. green_bathtub, J. red_basket, K. blue_drawer, L. blue_pantry, M. red_bathtub, N. red_suitcase, O. blue_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

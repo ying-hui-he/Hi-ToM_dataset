@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Olivia, Aiden, Jayden, Emma and Owen entered the back_yard.
+2 The pear is in the blue_container.
+3 Olivia made no movements and stayed in the back_yard for 10 minutes.
+4 Olivia exited the back_yard and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the back_yard for 10 minutes.
+6 Aiden exited the back_yard and stayed in the waiting_room.
+7 Jayden moved the pear to the green_treasure_chest.
+8 Jayden exited the back_yard and stayed in the waiting_room.
+9 Emma made no movements and stayed in the back_yard for 10 minutes.
+10 Emma exited the back_yard and stayed in the waiting_room.
+11 Owen made no movements and stayed in the back_yard for 10 minutes.
+12 Owen exited the back_yard and stayed in the waiting_room.
+13 Aiden, Olivia and Emma entered the den.
+14 The carrot is in the red_crate.
+15 Aiden made no movements and stayed in the den for 10 minutes.
+16 Aiden exited the den and stayed in the waiting_room.
+17 Olivia made no movements and stayed in the den for 10 minutes.
+18 Olivia exited the den and stayed in the waiting_room.
+19 Emma made no movements and stayed in the den for 10 minutes.
+20 Emma exited the den and stayed in the waiting_room.
+21 Owen, Jayden, Aiden and Olivia entered the cellar.
+22 The cucumber is in the blue_pantry.
+23 Owen made no movements and stayed in the cellar for 10 minutes.
+24 Owen exited the cellar and stayed in the waiting_room.
+25 Jayden made no movements and stayed in the cellar for 10 minutes.
+26 Jayden exited the cellar and stayed in the waiting_room.
+27 Aiden moved the cucumber to the blue_bucket.
+28 Aiden exited the cellar and stayed in the waiting_room.
+29 Olivia made no movements and stayed in the cellar for 10 minutes.
+30 Olivia exited the cellar and stayed in the waiting_room.
+31 Owen and Olivia entered the cellar.
+32 The cucumber is in the blue_bucket.
+33 Owen made no movements and stayed in the cellar for 10 minutes.
+34 Owen exited the cellar and stayed in the waiting_room.
+35 Olivia made no movements and stayed in the cellar for 10 minutes.
+36 Olivia exited the cellar and stayed in the waiting_room.
+Question: Where does Aiden think Emma thinks the pear is?
+Choices: A. blue_envelope, B. red_crate, C. blue_box, D. blue_treasure_chest, E. red_basket, F. red_bathtub, G. blue_pantry, H. blue_bottle, I. red_envelope, J. blue_bucket, K. blue_suitcase, L. blue_container, M. green_treasure_chest, N. green_bottle, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

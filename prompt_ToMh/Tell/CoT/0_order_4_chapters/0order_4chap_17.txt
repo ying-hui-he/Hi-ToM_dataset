@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 William, Emma, Isla, Mia and Carter entered the attic.
+2 The plum is in the green_crate.
+3 William moved the plum to the green_treasure_chest.
+4 William exited the attic and stayed in the waiting_room.
+5 Emma moved the plum to the green_suitcase.
+6 Emma exited the attic and stayed in the waiting_room.
+7 Isla made no movements and stayed in the attic for 10 minutes.
+8 Isla exited the attic and stayed in the waiting_room.
+9 Mia moved the plum to the blue_suitcase.
+10 Mia exited the attic and stayed in the waiting_room.
+11 Carter moved the plum to the green_crate.
+12 Carter exited the attic and stayed in the waiting_room.
+13 Carter, Mia and Emma entered the office.
+14 The apple is in the green_envelope.
+15 Carter moved the apple to the red_treasure_chest.
+16 Carter exited the office and stayed in the waiting_room.
+17 Mia made no movements and stayed in the office for 10 minutes.
+18 Mia exited the office and stayed in the waiting_room.
+19 Emma moved the apple to the blue_envelope.
+20 Emma exited the office and stayed in the waiting_room.
+21 Emma publicly claimed that apple is in the blue_bathtub.
+22 Carter privately told Emma that the apple is actually in the blue_box.
+23 William, Mia, Emma and Isla entered the bedroom.
+24 The asparagus is in the red_suitcase.
+25 William moved the asparagus to the red_drawer.
+26 William exited the bedroom and stayed in the waiting_room.
+27 Mia moved the asparagus to the blue_drawer.
+28 Mia exited the bedroom and stayed in the waiting_room.
+29 Emma made no movements and stayed in the bedroom for 10 minutes.
+30 Emma exited the bedroom and stayed in the waiting_room.
+31 Isla made no movements and stayed in the bedroom for 10 minutes.
+32 Isla exited the bedroom and stayed in the waiting_room.
+33 Carter and Isla entered the bedroom.
+34 The asparagus is in the blue_drawer.
+35 Carter made no movements and stayed in the bedroom for 10 minutes.
+36 Carter exited the bedroom and stayed in the waiting_room.
+37 Isla made no movements and stayed in the bedroom for 10 minutes.
+38 Isla exited the bedroom and stayed in the waiting_room.
+39 Carter publicly claimed that asparagus is in the blue_pantry.
+40 Isla privately told Carter that the asparagus is actually in the red_container.
+Question: Where is the plum really?
+Choices: A. red_suitcase, B. red_drawer, C. red_container, D. blue_drawer, E. blue_pantry, F. green_crate, G. green_treasure_chest, H. green_suitcase, I. blue_suitcase, J. green_cupboard, K. blue_envelope, L. green_envelope, M. blue_bathtub, N. red_treasure_chest, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

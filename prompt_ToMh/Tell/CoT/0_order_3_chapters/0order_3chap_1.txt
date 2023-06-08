@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mila, Jack, Abigail, Charlotte and Mia entered the dining_room.
+2 The pear is in the blue_suitcase.
+3 Mila made no movements and stayed in the dining_room for 10 minutes.
+4 Mila exited the dining_room and stayed in the waiting_room.
+5 Jack moved the pear to the blue_drawer.
+6 Jack exited the dining_room and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the dining_room for 10 minutes.
+8 Abigail exited the dining_room and stayed in the waiting_room.
+9 Charlotte moved the pear to the blue_pantry.
+10 Charlotte exited the dining_room and stayed in the waiting_room.
+11 Mia made no movements and stayed in the dining_room for 10 minutes.
+12 Mia exited the dining_room and stayed in the waiting_room.
+13 Abigail privately told Mila that the pear is actually in the blue_pantry.
+14 Jack privately told Charlotte that the pear is actually in the red_crate.
+15 Charlotte, Mila and Abigail entered the dining_room.
+16 The pear is in the blue_pantry.
+17 Charlotte made no movements and stayed in the dining_room for 10 minutes.
+18 Charlotte exited the dining_room and stayed in the waiting_room.
+19 Mila moved the pear to the blue_drawer.
+20 Mila exited the dining_room and stayed in the waiting_room.
+21 Abigail moved the pear to the red_crate.
+22 Abigail exited the dining_room and stayed in the waiting_room.
+23 Charlotte, Jack, Mila and Mia entered the bathroom.
+24 The onion is in the blue_crate.
+25 Charlotte made no movements and stayed in the bathroom for 10 minutes.
+26 Charlotte exited the bathroom and stayed in the waiting_room.
+27 Jack moved the onion to the green_treasure_chest.
+28 Jack exited the bathroom and stayed in the waiting_room.
+29 Mila made no movements and stayed in the bathroom for 10 minutes.
+30 Mila exited the bathroom and stayed in the waiting_room.
+31 Mia moved the onion to the blue_bucket.
+32 Mia exited the bathroom and stayed in the waiting_room.
+33 Mila publicly claimed that onion is in the blue_box.
+34 Charlotte privately told Mia that the onion is actually in the blue_envelope.
+Question: Where is the pear really?
+Choices: A. green_treasure_chest, B. blue_crate, C. blue_envelope, D. blue_box, E. blue_bucket, F. red_crate, G. blue_suitcase, H. red_container, I. blue_pantry, J. blue_drawer, K. red_bathtub, L. green_crate, M. green_bathtub, N. green_container, O. blue_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

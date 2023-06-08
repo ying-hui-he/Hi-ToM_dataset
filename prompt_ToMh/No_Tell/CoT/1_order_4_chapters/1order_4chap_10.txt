@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, William, Avery, Mia and Owen entered the workshop.
+2 The tomato is in the red_envelope.
+3 Aria moved the tomato to the blue_bathtub.
+4 Aria exited the workshop and stayed in the waiting_room.
+5 William moved the tomato to the red_treasure_chest.
+6 William exited the workshop and stayed in the waiting_room.
+7 Avery moved the tomato to the red_basket.
+8 Avery exited the workshop and stayed in the waiting_room.
+9 Mia moved the tomato to the green_container.
+10 Mia exited the workshop and stayed in the waiting_room.
+11 Owen made no movements and stayed in the workshop for 10 minutes.
+12 Owen exited the workshop and stayed in the waiting_room.
+13 Owen, Mia and Avery entered the hallway.
+14 The lemon is in the green_bottle.
+15 Owen moved the lemon to the red_bathtub.
+16 Owen exited the hallway and stayed in the waiting_room.
+17 Mia made no movements and stayed in the hallway for 10 minutes.
+18 Mia exited the hallway and stayed in the waiting_room.
+19 Avery made no movements and stayed in the hallway for 10 minutes.
+20 Avery exited the hallway and stayed in the waiting_room.
+21 Owen, William, Mia and Aria entered the hallway.
+22 The peach is in the green_envelope.
+23 Owen made no movements and stayed in the hallway for 10 minutes.
+24 Owen exited the hallway and stayed in the waiting_room.
+25 William made no movements and stayed in the hallway for 10 minutes.
+26 William exited the hallway and stayed in the waiting_room.
+27 Mia moved the peach to the blue_box.
+28 Mia exited the hallway and stayed in the waiting_room.
+29 Aria moved the peach to the red_bathtub.
+30 Aria exited the hallway and stayed in the waiting_room.
+31 Aria and Mia entered the hallway.
+32 The lemon is in the red_bathtub.
+33 Aria moved the lemon to the blue_box.
+34 Aria exited the hallway and stayed in the waiting_room.
+35 Mia moved the lemon to the green_bottle.
+36 Mia exited the hallway and stayed in the waiting_room.
+Question: Where does Owen think the tomato is?
+Choices: A. red_envelope, B. green_container, C. red_treasure_chest, D. blue_bathtub, E. red_basket, F. red_crate, G. red_suitcase, H. blue_envelope, I. green_cupboard, J. green_treasure_chest, K. green_envelope, L. green_bottle, M. blue_box, N. red_bathtub, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

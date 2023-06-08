@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Oliver, Jackson, Emma, Olivia and Benjamin entered the playroom.
+2 The strawberry is in the blue_box.
+3 Oliver made no movements and stayed in the playroom for 10 minutes.
+4 Oliver exited the playroom and stayed in the waiting_room.
+5 Jackson moved the strawberry to the red_envelope.
+6 Jackson exited the playroom and stayed in the waiting_room.
+7 Emma made no movements and stayed in the playroom for 10 minutes.
+8 Emma exited the playroom and stayed in the waiting_room.
+9 Olivia moved the strawberry to the blue_container.
+10 Olivia exited the playroom and stayed in the waiting_room.
+11 Benjamin made no movements and stayed in the playroom for 10 minutes.
+12 Benjamin exited the playroom and stayed in the waiting_room.
+13 Emma privately told Oliver that the strawberry is actually in the red_envelope.
+14 Jackson privately told Olivia that the strawberry is actually in the green_bottle.
+15 Emma, Jackson and Benjamin entered the playroom.
+16 The strawberry is in the blue_container.
+17 Emma made no movements and stayed in the playroom for 10 minutes.
+18 Emma exited the playroom and stayed in the waiting_room.
+19 Jackson made no movements and stayed in the playroom for 10 minutes.
+20 Jackson exited the playroom and stayed in the waiting_room.
+21 Benjamin moved the strawberry to the blue_bathtub.
+22 Benjamin exited the playroom and stayed in the waiting_room.
+23 Jackson, Oliver, Benjamin and Emma entered the playroom.
+24 The strawberry is in the blue_bathtub.
+25 Jackson made no movements and stayed in the playroom for 10 minutes.
+26 Jackson exited the playroom and stayed in the waiting_room.
+27 Oliver moved the strawberry to the blue_box.
+28 Oliver exited the playroom and stayed in the waiting_room.
+29 Benjamin moved the strawberry to the green_bottle.
+30 Benjamin exited the playroom and stayed in the waiting_room.
+31 Emma moved the strawberry to the red_envelope.
+32 Emma exited the playroom and stayed in the waiting_room.
+33 Oliver privately told Benjamin that the strawberry is actually in the blue_bathtub.
+34 Emma privately told Olivia that the strawberry is actually in the red_envelope.
+Question: Where does Olivia think the strawberry is?
+Choices: A. blue_suitcase, B. green_suitcase, C. blue_pantry, D. green_crate, E. red_suitcase, F. green_bottle, G. blue_box, H. blue_container, I. red_envelope, J. blue_bathtub, K. red_bucket, L. blue_basket, M. blue_treasure_chest, N. green_bathtub, O. green_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

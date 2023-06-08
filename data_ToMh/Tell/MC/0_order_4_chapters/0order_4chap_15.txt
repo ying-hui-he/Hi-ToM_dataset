@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Hannah, Oliver, Aria, Amelia and Emma entered the playroom.
+2 The lime is in the green_container.
+3 Hannah moved the lime to the red_drawer.
+4 Hannah exited the playroom and stayed in the waiting_room.
+5 Oliver made no movements and stayed in the playroom for 10 minutes.
+6 Oliver exited the playroom and stayed in the waiting_room.
+7 Aria moved the lime to the blue_box.
+8 Aria exited the playroom and stayed in the waiting_room.
+9 Amelia moved the lime to the blue_suitcase.
+10 Amelia exited the playroom and stayed in the waiting_room.
+11 Emma made no movements and stayed in the playroom for 10 minutes.
+12 Emma exited the playroom and stayed in the waiting_room.
+13 Hannah, Emma and Amelia entered the bathroom.
+14 The celery is in the blue_bathtub.
+15 Hannah made no movements and stayed in the bathroom for 10 minutes.
+16 Hannah exited the bathroom and stayed in the waiting_room.
+17 Emma moved the celery to the red_crate.
+18 Emma exited the bathroom and stayed in the waiting_room.
+19 Amelia made no movements and stayed in the bathroom for 10 minutes.
+20 Amelia exited the bathroom and stayed in the waiting_room.
+21 Amelia publicly claimed that celery is in the green_treasure_chest.
+22 Hannah privately told Amelia that the celery is actually in the red_basket.
+23 Hannah, Aria, Emma and Oliver entered the playroom.
+24 The lime is in the blue_suitcase.
+25 Hannah moved the lime to the green_container.
+26 Hannah exited the playroom and stayed in the waiting_room.
+27 Aria made no movements and stayed in the playroom for 10 minutes.
+28 Aria exited the playroom and stayed in the waiting_room.
+29 Emma made no movements and stayed in the playroom for 10 minutes.
+30 Emma exited the playroom and stayed in the waiting_room.
+31 Oliver made no movements and stayed in the playroom for 10 minutes.
+32 Oliver exited the playroom and stayed in the waiting_room.
+33 Hannah and Oliver entered the playroom.
+34 The lime is in the green_container.
+35 Hannah moved the lime to the blue_box.
+36 Hannah exited the playroom and stayed in the waiting_room.
+37 Oliver moved the lime to the red_drawer.
+38 Oliver exited the playroom and stayed in the waiting_room.
+39 Hannah privately told Amelia that the lime is actually in the blue_bucket.
+Question: Where is the lime really?
+Answer: red_drawer
+Choices: A. red_crate, B. blue_bathtub, C. blue_bottle, D. green_treasure_chest, E. red_basket, F. blue_crate, G. red_container, H. green_crate, I. blue_basket, J. red_envelope, K. blue_box, L. green_container, M. red_drawer, N. blue_suitcase, O. blue_bucket

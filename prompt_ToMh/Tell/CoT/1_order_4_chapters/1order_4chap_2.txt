@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, Benjamin, Carter, Jayden and Ava entered the office.
+2 The beans is in the green_cupboard.
+3 Jackson made no movements and stayed in the office for 10 minutes.
+4 Jackson exited the office and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the office for 10 minutes.
+6 Benjamin exited the office and stayed in the waiting_room.
+7 Carter made no movements and stayed in the office for 10 minutes.
+8 Carter exited the office and stayed in the waiting_room.
+9 Jayden moved the beans to the green_treasure_chest.
+10 Jayden exited the office and stayed in the waiting_room.
+11 Ava moved the beans to the green_cupboard.
+12 Ava exited the office and stayed in the waiting_room.
+13 Ava, Jayden and Jackson entered the den.
+14 The pumpkin is in the red_container.
+15 Ava made no movements and stayed in the den for 10 minutes.
+16 Ava exited the den and stayed in the waiting_room.
+17 Jayden moved the pumpkin to the red_basket.
+18 Jayden exited the den and stayed in the waiting_room.
+19 Jackson moved the pumpkin to the red_bottle.
+20 Jackson exited the den and stayed in the waiting_room.
+21 Jayden publicly claimed that pumpkin is in the red_container.
+22 Jackson privately told Jayden that the pumpkin is actually in the green_suitcase.
+23 Jayden, Jackson, Carter and Benjamin entered the den.
+24 The pumpkin is in the red_bottle.
+25 Jayden moved the pumpkin to the red_basket.
+26 Jayden exited the den and stayed in the waiting_room.
+27 Jackson moved the pumpkin to the blue_pantry.
+28 Jackson exited the den and stayed in the waiting_room.
+29 Carter moved the pumpkin to the green_suitcase.
+30 Carter exited the den and stayed in the waiting_room.
+31 Benjamin made no movements and stayed in the den for 10 minutes.
+32 Benjamin exited the den and stayed in the waiting_room.
+33 Jayden and Jackson entered the living_room.
+34 The pineapple is in the red_bucket.
+35 Jayden moved the pineapple to the blue_treasure_chest.
+36 Jayden exited the living_room and stayed in the waiting_room.
+37 Jackson made no movements and stayed in the living_room for 10 minutes.
+38 Jackson exited the living_room and stayed in the waiting_room.
+39 Jayden privately told Ava that the pineapple is actually in the red_envelope.
+Question: Where does Jackson think the beans is?
+Choices: A. green_cupboard, B. green_treasure_chest, C. green_crate, D. red_drawer, E. green_envelope, F. red_envelope, G. red_bucket, H. blue_treasure_chest, I. blue_box, J. blue_envelope, K. red_container, L. red_basket, M. red_bottle, N. blue_pantry, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

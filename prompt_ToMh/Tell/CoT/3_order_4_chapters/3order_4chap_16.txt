@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Aiden, Ethan, Amelia and Jacob entered the living_room.
+2 The tomato is in the blue_basket.
+3 Aria moved the tomato to the red_crate.
+4 Aria exited the living_room and stayed in the waiting_room.
+5 Aiden made no movements and stayed in the living_room for 10 minutes.
+6 Aiden exited the living_room and stayed in the waiting_room.
+7 Ethan moved the tomato to the green_bathtub.
+8 Ethan exited the living_room and stayed in the waiting_room.
+9 Amelia moved the tomato to the blue_pantry.
+10 Amelia exited the living_room and stayed in the waiting_room.
+11 Jacob moved the tomato to the blue_basket.
+12 Jacob exited the living_room and stayed in the waiting_room.
+13 Amelia, Ethan and Jacob entered the living_room.
+14 The tomato is in the blue_basket.
+15 Amelia moved the tomato to the red_crate.
+16 Amelia exited the living_room and stayed in the waiting_room.
+17 Ethan made no movements and stayed in the living_room for 10 minutes.
+18 Ethan exited the living_room and stayed in the waiting_room.
+19 Jacob made no movements and stayed in the living_room for 10 minutes.
+20 Jacob exited the living_room and stayed in the waiting_room.
+21 Ethan privately told Jacob that the tomato is actually in the blue_basket.
+22 Jacob privately told Aria that the tomato is actually in the red_crate.
+23 Jacob, Aria, Aiden and Amelia entered the kitchen.
+24 The corn is in the blue_drawer.
+25 Jacob moved the corn to the green_cupboard.
+26 Jacob exited the kitchen and stayed in the waiting_room.
+27 Aria made no movements and stayed in the kitchen for 10 minutes.
+28 Aria exited the kitchen and stayed in the waiting_room.
+29 Aiden moved the corn to the green_suitcase.
+30 Aiden exited the kitchen and stayed in the waiting_room.
+31 Amelia made no movements and stayed in the kitchen for 10 minutes.
+32 Amelia exited the kitchen and stayed in the waiting_room.
+33 Amelia and Aria entered the patio.
+34 The plum is in the green_bottle.
+35 Amelia made no movements and stayed in the patio for 10 minutes.
+36 Amelia exited the patio and stayed in the waiting_room.
+37 Aria moved the plum to the blue_bathtub.
+38 Aria exited the patio and stayed in the waiting_room.
+39 Amelia publicly claimed that plum is in the red_treasure_chest.
+40 Aria privately told Amelia that the plum is actually in the green_container.
+Question: Where does Amelia think Aria thinks Aiden thinks the tomato is?
+Choices: A. green_suitcase, B. blue_drawer, C. green_cupboard, D. green_envelope, E. blue_crate, F. green_container, G. green_bottle, H. blue_bathtub, I. blue_treasure_chest, J. red_treasure_chest, K. red_crate, L. blue_basket, M. blue_pantry, N. green_bathtub, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

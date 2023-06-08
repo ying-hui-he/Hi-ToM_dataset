@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Logan, Olivia, Jayden, James and Isla entered the lounge.
+2 The beans is in the red_basket.
+3 Logan made no movements and stayed in the lounge for 10 minutes.
+4 Logan exited the lounge and stayed in the waiting_room.
+5 Olivia made no movements and stayed in the lounge for 10 minutes.
+6 Olivia exited the lounge and stayed in the waiting_room.
+7 Jayden made no movements and stayed in the lounge for 10 minutes.
+8 Jayden exited the lounge and stayed in the waiting_room.
+9 James made no movements and stayed in the lounge for 10 minutes.
+10 James exited the lounge and stayed in the waiting_room.
+11 Isla moved the beans to the red_basket.
+12 Isla exited the lounge and stayed in the waiting_room.
+13 Jayden privately told Logan that the beans is actually in the red_drawer.
+14 Olivia privately told James that the beans is actually in the red_basket.
+15 Jayden, Isla and Olivia entered the lounge.
+16 The cherry is in the red_drawer.
+17 Jayden made no movements and stayed in the lounge for 10 minutes.
+18 Jayden exited the lounge and stayed in the waiting_room.
+19 Isla made no movements and stayed in the lounge for 10 minutes.
+20 Isla exited the lounge and stayed in the waiting_room.
+21 Olivia made no movements and stayed in the lounge for 10 minutes.
+22 Olivia exited the lounge and stayed in the waiting_room.
+23 Olivia, Isla, Logan and Jayden entered the pantry.
+24 The pineapple is in the green_cupboard.
+25 Olivia made no movements and stayed in the pantry for 10 minutes.
+26 Olivia exited the pantry and stayed in the waiting_room.
+27 Isla made no movements and stayed in the pantry for 10 minutes.
+28 Isla exited the pantry and stayed in the waiting_room.
+29 Logan moved the pineapple to the blue_bottle.
+30 Logan exited the pantry and stayed in the waiting_room.
+31 Jayden moved the pineapple to the green_suitcase.
+32 Jayden exited the pantry and stayed in the waiting_room.
+33 Olivia publicly claimed that pineapple is in the red_crate.
+34 Jayden privately told James that the pineapple is actually in the green_suitcase.
+Question: Where does Jayden think Isla thinks Olivia thinks Logan thinks the beans is?
+Choices: A. green_cupboard, B. red_crate, C. blue_bottle, D. green_container, E. green_suitcase, F. red_drawer, G. red_basket, H. green_treasure_chest, I. blue_container, J. red_bathtub, K. blue_drawer, L. red_container, M. blue_envelope, N. blue_crate, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

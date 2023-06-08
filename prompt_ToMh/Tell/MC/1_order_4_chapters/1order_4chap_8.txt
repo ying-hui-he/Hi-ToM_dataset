@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William, Olivia, Jayden, Evelyn and Emma entered the front_yard.
+2 The tomato is in the blue_basket.
+3 William moved the tomato to the blue_suitcase.
+4 William exited the front_yard and stayed in the waiting_room.
+5 Olivia moved the tomato to the blue_pantry.
+6 Olivia exited the front_yard and stayed in the waiting_room.
+7 Jayden moved the tomato to the green_crate.
+8 Jayden exited the front_yard and stayed in the waiting_room.
+9 Evelyn moved the tomato to the blue_bathtub.
+10 Evelyn exited the front_yard and stayed in the waiting_room.
+11 Emma made no movements and stayed in the front_yard for 10 minutes.
+12 Emma exited the front_yard and stayed in the waiting_room.
+13 Olivia, William and Emma entered the hall.
+14 The plum is in the blue_drawer.
+15 Olivia moved the plum to the blue_crate.
+16 Olivia exited the hall and stayed in the waiting_room.
+17 William made no movements and stayed in the hall for 10 minutes.
+18 William exited the hall and stayed in the waiting_room.
+19 Emma moved the plum to the red_bucket.
+20 Emma exited the hall and stayed in the waiting_room.
+21 William privately told Emma that the plum is actually in the blue_box.
+22 Emma privately told Jayden that the plum is actually in the red_bucket.
+23 Jayden, Evelyn, Emma and William entered the hallway.
+24 The lime is in the red_bathtub.
+25 Jayden made no movements and stayed in the hallway for 10 minutes.
+26 Jayden exited the hallway and stayed in the waiting_room.
+27 Evelyn moved the lime to the blue_envelope.
+28 Evelyn exited the hallway and stayed in the waiting_room.
+29 Emma moved the lime to the blue_bucket.
+30 Emma exited the hallway and stayed in the waiting_room.
+31 William made no movements and stayed in the hallway for 10 minutes.
+32 William exited the hallway and stayed in the waiting_room.
+33 Evelyn and William entered the front_yard.
+34 The celery is in the blue_bathtub.
+35 Evelyn moved the celery to the blue_suitcase.
+36 Evelyn exited the front_yard and stayed in the waiting_room.
+37 William moved the celery to the blue_basket.
+38 William exited the front_yard and stayed in the waiting_room.
+39 William publicly claimed that celery is in the green_crate.
+40 Evelyn privately told William that the celery is actually in the blue_suitcase.
+Question: Where does William think the tomato is?
+Choices: A. blue_bathtub, B. blue_basket, C. blue_suitcase, D. green_crate, E. blue_pantry, F. blue_container, G. blue_drawer, H. blue_crate, I. blue_box, J. red_bucket, K. green_bathtub, L. red_bathtub, M. blue_envelope, N. blue_bucket, O. red_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

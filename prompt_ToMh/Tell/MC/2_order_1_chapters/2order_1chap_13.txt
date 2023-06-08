@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Evelyn, Carter, Oliver and Ella entered the back_yard.
+2 The banana is in the blue_bucket.
+3 Mila made no movements and stayed in the back_yard for 10 minutes.
+4 Mila exited the back_yard and stayed in the waiting_room.
+5 Evelyn moved the banana to the red_suitcase.
+6 Evelyn exited the back_yard and stayed in the waiting_room.
+7 Carter made no movements and stayed in the back_yard for 10 minutes.
+8 Carter exited the back_yard and stayed in the waiting_room.
+9 Oliver made no movements and stayed in the back_yard for 10 minutes.
+10 Oliver exited the back_yard and stayed in the waiting_room.
+11 Ella made no movements and stayed in the back_yard for 10 minutes.
+12 Ella exited the back_yard and stayed in the waiting_room.
+13 Oliver publicly claimed that banana is in the red_suitcase.
+14 Ella privately told Mila that the banana is actually in the red_suitcase.
+Question: Where does Mila think Oliver thinks the banana is?
+Choices: A. green_container, B. blue_pantry, C. green_treasure_chest, D. blue_basket, E. red_crate, F. blue_crate, G. blue_bottle, H. blue_treasure_chest, I. blue_suitcase, J. blue_bathtub, K. blue_bucket, L. red_envelope, M. red_drawer, N. red_suitcase, O. red_basket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

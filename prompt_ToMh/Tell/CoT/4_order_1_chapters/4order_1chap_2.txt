@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Benjamin, Noah, Jacob, Evelyn and Jackson entered the garden.
+2 The tomato is in the green_envelope.
+3 Benjamin made no movements and stayed in the garden for 10 minutes.
+4 Benjamin exited the garden and stayed in the waiting_room.
+5 Noah made no movements and stayed in the garden for 10 minutes.
+6 Noah exited the garden and stayed in the waiting_room.
+7 Jacob made no movements and stayed in the garden for 10 minutes.
+8 Jacob exited the garden and stayed in the waiting_room.
+9 Evelyn moved the tomato to the green_suitcase.
+10 Evelyn exited the garden and stayed in the waiting_room.
+11 Jackson made no movements and stayed in the garden for 10 minutes.
+12 Jackson exited the garden and stayed in the waiting_room.
+13 Evelyn publicly claimed that tomato is in the green_suitcase.
+14 Jackson privately told Benjamin that the tomato is actually in the green_suitcase.
+Question: Where does Noah think Evelyn thinks Jacob thinks Jackson thinks the tomato is?
+Choices: A. green_suitcase, B. green_envelope, C. red_crate, D. blue_treasure_chest, E. green_container, F. red_basket, G. red_drawer, H. blue_envelope, I. red_bottle, J. red_envelope, K. blue_container, L. red_bathtub, M. blue_crate, N. red_suitcase, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

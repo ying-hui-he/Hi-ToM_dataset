@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isla, Jacob, Charlotte, Emily and Olivia entered the hall.
+2 The pineapple is in the blue_pantry.
+3 Isla moved the pineapple to the blue_container.
+4 Isla exited the hall and stayed in the waiting_room.
+5 Jacob made no movements and stayed in the hall for 10 minutes.
+6 Jacob exited the hall and stayed in the waiting_room.
+7 Charlotte moved the pineapple to the blue_basket.
+8 Charlotte exited the hall and stayed in the waiting_room.
+9 Emily made no movements and stayed in the hall for 10 minutes.
+10 Emily exited the hall and stayed in the waiting_room.
+11 Olivia moved the pineapple to the blue_pantry.
+12 Olivia exited the hall and stayed in the waiting_room.
+13 Charlotte privately told Isla that the pineapple is actually in the blue_container.
+14 Jacob privately told Emily that the pineapple is actually in the blue_basket.
+15 Charlotte, Emily and Jacob entered the front_yard.
+16 The green_pepper is in the blue_bucket.
+17 Charlotte made no movements and stayed in the front_yard for 10 minutes.
+18 Charlotte exited the front_yard and stayed in the waiting_room.
+19 Emily made no movements and stayed in the front_yard for 10 minutes.
+20 Emily exited the front_yard and stayed in the waiting_room.
+21 Jacob moved the green_pepper to the red_crate.
+22 Jacob exited the front_yard and stayed in the waiting_room.
+23 Isla, Charlotte, Jacob and Emily entered the hallway.
+24 The carrot is in the green_cupboard.
+25 Isla moved the carrot to the red_container.
+26 Isla exited the hallway and stayed in the waiting_room.
+27 Charlotte made no movements and stayed in the hallway for 10 minutes.
+28 Charlotte exited the hallway and stayed in the waiting_room.
+29 Jacob made no movements and stayed in the hallway for 10 minutes.
+30 Jacob exited the hallway and stayed in the waiting_room.
+31 Emily made no movements and stayed in the hallway for 10 minutes.
+32 Emily exited the hallway and stayed in the waiting_room.
+33 Isla publicly claimed that carrot is in the blue_drawer.
+34 Emily privately told Olivia that the carrot is actually in the red_container.
+Question: Where does Isla think Olivia thinks Jacob thinks the pineapple is?
+Choices: A. red_crate, B. blue_bucket, C. red_basket, D. red_bathtub, E. green_treasure_chest, F. blue_container, G. blue_pantry, H. blue_basket, I. blue_bottle, J. blue_treasure_chest, K. green_cupboard, L. red_container, M. green_bottle, N. red_bottle, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

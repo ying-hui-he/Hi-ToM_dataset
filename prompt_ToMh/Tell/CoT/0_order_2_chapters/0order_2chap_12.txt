@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jackson, Olivia, Abigail, Charlotte and Noah entered the staircase.
+2 The cucumber is in the red_basket.
+3 Jackson made no movements and stayed in the staircase for 10 minutes.
+4 Jackson exited the staircase and stayed in the waiting_room.
+5 Olivia moved the cucumber to the blue_bottle.
+6 Olivia exited the staircase and stayed in the waiting_room.
+7 Abigail moved the cucumber to the red_bucket.
+8 Abigail exited the staircase and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the staircase for 10 minutes.
+10 Charlotte exited the staircase and stayed in the waiting_room.
+11 Noah moved the cucumber to the red_basket.
+12 Noah exited the staircase and stayed in the waiting_room.
+13 Jackson, Abigail and Charlotte entered the staircase.
+14 The cucumber is in the red_basket.
+15 Jackson made no movements and stayed in the staircase for 10 minutes.
+16 Jackson exited the staircase and stayed in the waiting_room.
+17 Abigail moved the cucumber to the green_treasure_chest.
+18 Abigail exited the staircase and stayed in the waiting_room.
+19 Charlotte made no movements and stayed in the staircase for 10 minutes.
+20 Charlotte exited the staircase and stayed in the waiting_room.
+21 Charlotte publicly claimed that cucumber is in the blue_bottle.
+22 Jackson privately told Charlotte that the cucumber is actually in the red_bucket.
+Question: Where is the cucumber really?
+Choices: A. green_bathtub, B. red_basket, C. red_bucket, D. green_treasure_chest, E. blue_bottle, F. red_crate, G. blue_drawer, H. red_envelope, I. red_drawer, J. blue_bucket, K. blue_suitcase, L. blue_crate, M. red_suitcase, N. red_bottle, O. blue_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

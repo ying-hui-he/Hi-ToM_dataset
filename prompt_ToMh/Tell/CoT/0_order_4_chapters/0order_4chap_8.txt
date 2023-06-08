@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Oliver, Evelyn, Ethan and Carter entered the sunroom.
+2 The pumpkin is in the blue_basket.
+3 Olivia moved the pumpkin to the red_bucket.
+4 Olivia exited the sunroom and stayed in the waiting_room.
+5 Oliver made no movements and stayed in the sunroom for 10 minutes.
+6 Oliver exited the sunroom and stayed in the waiting_room.
+7 Evelyn moved the pumpkin to the green_suitcase.
+8 Evelyn exited the sunroom and stayed in the waiting_room.
+9 Ethan moved the pumpkin to the red_crate.
+10 Ethan exited the sunroom and stayed in the waiting_room.
+11 Carter moved the pumpkin to the blue_basket.
+12 Carter exited the sunroom and stayed in the waiting_room.
+13 Oliver, Carter and Evelyn entered the master_bedroom.
+14 The carrot is in the blue_pantry.
+15 Oliver made no movements and stayed in the master_bedroom for 10 minutes.
+16 Oliver exited the master_bedroom and stayed in the waiting_room.
+17 Carter made no movements and stayed in the master_bedroom for 10 minutes.
+18 Carter exited the master_bedroom and stayed in the waiting_room.
+19 Evelyn made no movements and stayed in the master_bedroom for 10 minutes.
+20 Evelyn exited the master_bedroom and stayed in the waiting_room.
+21 Oliver publicly claimed that carrot is in the blue_container.
+22 Evelyn privately told Ethan that the carrot is actually in the blue_pantry.
+23 Ethan, Evelyn, Carter and Olivia entered the playroom.
+24 The potato is in the red_basket.
+25 Ethan moved the potato to the green_envelope.
+26 Ethan exited the playroom and stayed in the waiting_room.
+27 Evelyn moved the potato to the green_container.
+28 Evelyn exited the playroom and stayed in the waiting_room.
+29 Carter moved the potato to the green_bottle.
+30 Carter exited the playroom and stayed in the waiting_room.
+31 Olivia moved the potato to the blue_bucket.
+32 Olivia exited the playroom and stayed in the waiting_room.
+33 Evelyn and Oliver entered the master_bedroom.
+34 The carrot is in the blue_pantry.
+35 Evelyn moved the carrot to the blue_container.
+36 Evelyn exited the master_bedroom and stayed in the waiting_room.
+37 Oliver moved the carrot to the red_bathtub.
+38 Oliver exited the master_bedroom and stayed in the waiting_room.
+39 Evelyn publicly claimed that carrot is in the blue_pantry.
+40 Oliver privately told Evelyn that the carrot is actually in the red_bathtub.
+Question: Where is the pumpkin really?
+Choices: A. red_basket, B. blue_bucket, C. green_envelope, D. green_container, E. green_bottle, F. blue_basket, G. blue_bottle, H. red_bucket, I. red_crate, J. green_suitcase, K. red_bathtub, L. blue_pantry, M. blue_container, N. red_envelope, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

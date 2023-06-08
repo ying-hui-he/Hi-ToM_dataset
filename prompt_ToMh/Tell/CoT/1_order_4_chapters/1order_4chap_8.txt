@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Owen, Aiden, Mia, Jayden and Noah entered the pantry.
+2 The peach is in the blue_bottle.
+3 Owen made no movements and stayed in the pantry for 10 minutes.
+4 Owen exited the pantry and stayed in the waiting_room.
+5 Aiden moved the peach to the green_crate.
+6 Aiden exited the pantry and stayed in the waiting_room.
+7 Mia moved the peach to the red_basket.
+8 Mia exited the pantry and stayed in the waiting_room.
+9 Jayden made no movements and stayed in the pantry for 10 minutes.
+10 Jayden exited the pantry and stayed in the waiting_room.
+11 Noah moved the peach to the blue_bottle.
+12 Noah exited the pantry and stayed in the waiting_room.
+13 Mia, Owen and Noah entered the playroom.
+14 The onion is in the green_cupboard.
+15 Mia made no movements and stayed in the playroom for 10 minutes.
+16 Mia exited the playroom and stayed in the waiting_room.
+17 Owen made no movements and stayed in the playroom for 10 minutes.
+18 Owen exited the playroom and stayed in the waiting_room.
+19 Noah made no movements and stayed in the playroom for 10 minutes.
+20 Noah exited the playroom and stayed in the waiting_room.
+21 Owen publicly claimed that onion is in the green_suitcase.
+22 Noah privately told Owen that the onion is actually in the blue_drawer.
+23 Aiden, Mia, Noah and Owen entered the playroom.
+24 The onion is in the green_cupboard.
+25 Aiden made no movements and stayed in the playroom for 10 minutes.
+26 Aiden exited the playroom and stayed in the waiting_room.
+27 Mia moved the onion to the blue_bucket.
+28 Mia exited the playroom and stayed in the waiting_room.
+29 Noah moved the onion to the green_suitcase.
+30 Noah exited the playroom and stayed in the waiting_room.
+31 Owen moved the onion to the blue_drawer.
+32 Owen exited the playroom and stayed in the waiting_room.
+33 Noah and Jayden entered the pantry.
+34 The peach is in the blue_bottle.
+35 Noah made no movements and stayed in the pantry for 10 minutes.
+36 Noah exited the pantry and stayed in the waiting_room.
+37 Jayden moved the peach to the blue_box.
+38 Jayden exited the pantry and stayed in the waiting_room.
+39 Noah publicly claimed that peach is in the blue_bathtub.
+40 Jayden privately told Noah that the peach is actually in the red_basket.
+Question: Where does Noah think the peach is?
+Choices: A. green_suitcase, B. green_cupboard, C. blue_bucket, D. blue_drawer, E. red_bathtub, F. red_envelope, G. green_treasure_chest, H. green_container, I. green_envelope, J. blue_basket, K. blue_bottle, L. blue_bathtub, M. green_crate, N. red_basket, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

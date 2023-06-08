@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Emily, Carter, Olivia and Isla entered the back_yard.
+2 The pumpkin is in the red_treasure_chest.
+3 Jack made no movements and stayed in the back_yard for 10 minutes.
+4 Jack exited the back_yard and stayed in the waiting_room.
+5 Emily made no movements and stayed in the back_yard for 10 minutes.
+6 Emily exited the back_yard and stayed in the waiting_room.
+7 Carter made no movements and stayed in the back_yard for 10 minutes.
+8 Carter exited the back_yard and stayed in the waiting_room.
+9 Olivia made no movements and stayed in the back_yard for 10 minutes.
+10 Olivia exited the back_yard and stayed in the waiting_room.
+11 Isla moved the pumpkin to the red_treasure_chest.
+12 Isla exited the back_yard and stayed in the waiting_room.
+13 Jack, Olivia and Emily entered the sunroom.
+14 The corn is in the green_suitcase.
+15 Jack made no movements and stayed in the sunroom for 10 minutes.
+16 Jack exited the sunroom and stayed in the waiting_room.
+17 Olivia moved the corn to the blue_bathtub.
+18 Olivia exited the sunroom and stayed in the waiting_room.
+19 Emily made no movements and stayed in the sunroom for 10 minutes.
+20 Emily exited the sunroom and stayed in the waiting_room.
+21 Isla, Olivia, Carter and Emily entered the back_yard.
+22 The pumpkin is in the red_treasure_chest.
+23 Isla made no movements and stayed in the back_yard for 10 minutes.
+24 Isla exited the back_yard and stayed in the waiting_room.
+25 Olivia made no movements and stayed in the back_yard for 10 minutes.
+26 Olivia exited the back_yard and stayed in the waiting_room.
+27 Carter made no movements and stayed in the back_yard for 10 minutes.
+28 Carter exited the back_yard and stayed in the waiting_room.
+29 Emily moved the pumpkin to the blue_suitcase.
+30 Emily exited the back_yard and stayed in the waiting_room.
+Question: Where does Jack think Isla thinks Olivia thinks the pumpkin is?
+Choices: A. blue_bottle, B. red_treasure_chest, C. green_cupboard, D. blue_suitcase, E. red_drawer, F. green_suitcase, G. green_bottle, H. red_envelope, I. blue_bathtub, J. green_container, K. red_bucket, L. blue_bucket, M. red_suitcase, N. green_crate, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

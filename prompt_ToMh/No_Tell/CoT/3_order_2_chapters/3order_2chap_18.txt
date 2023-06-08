@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Emma, Aiden, Benjamin, Ella and Mia entered the living_room.
+2 The cucumber is in the green_container.
+3 Emma made no movements and stayed in the living_room for 10 minutes.
+4 Emma exited the living_room and stayed in the waiting_room.
+5 Aiden moved the cucumber to the red_envelope.
+6 Aiden exited the living_room and stayed in the waiting_room.
+7 Benjamin made no movements and stayed in the living_room for 10 minutes.
+8 Benjamin exited the living_room and stayed in the waiting_room.
+9 Ella made no movements and stayed in the living_room for 10 minutes.
+10 Ella exited the living_room and stayed in the waiting_room.
+11 Mia moved the cucumber to the green_container.
+12 Mia exited the living_room and stayed in the waiting_room.
+13 Mia, Aiden and Emma entered the TV_room.
+14 The pumpkin is in the blue_box.
+15 Mia made no movements and stayed in the TV_room for 10 minutes.
+16 Mia exited the TV_room and stayed in the waiting_room.
+17 Aiden made no movements and stayed in the TV_room for 10 minutes.
+18 Aiden exited the TV_room and stayed in the waiting_room.
+19 Emma made no movements and stayed in the TV_room for 10 minutes.
+20 Emma exited the TV_room and stayed in the waiting_room.
+Question: Where does Benjamin think Mia thinks Emma thinks the cucumber is?
+Choices: A. green_container, B. blue_basket, C. green_suitcase, D. red_envelope, E. red_treasure_chest, F. blue_box, G. blue_envelope, H. green_treasure_chest, I. red_drawer, J. green_crate, K. blue_container, L. blue_drawer, M. blue_treasure_chest, N. red_bottle, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

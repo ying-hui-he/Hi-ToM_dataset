@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Evelyn, Logan, Emma and Noah entered the workshop.
+2 The potato is in the red_basket.
+3 Jack made no movements and stayed in the workshop for 10 minutes.
+4 Jack exited the workshop and stayed in the waiting_room.
+5 Evelyn moved the potato to the green_bottle.
+6 Evelyn exited the workshop and stayed in the waiting_room.
+7 Logan moved the potato to the green_container.
+8 Logan exited the workshop and stayed in the waiting_room.
+9 Emma made no movements and stayed in the workshop for 10 minutes.
+10 Emma exited the workshop and stayed in the waiting_room.
+11 Noah made no movements and stayed in the workshop for 10 minutes.
+12 Noah exited the workshop and stayed in the waiting_room.
+13 Noah, Evelyn and Emma entered the kitchen.
+14 The asparagus is in the blue_bottle.
+15 Noah moved the asparagus to the green_cupboard.
+16 Noah exited the kitchen and stayed in the waiting_room.
+17 Evelyn moved the asparagus to the blue_bathtub.
+18 Evelyn exited the kitchen and stayed in the waiting_room.
+19 Emma made no movements and stayed in the kitchen for 10 minutes.
+20 Emma exited the kitchen and stayed in the waiting_room.
+21 Noah publicly claimed that asparagus is in the red_bathtub.
+22 Emma privately told Jack that the asparagus is actually in the blue_bathtub.
+23 Logan, Emma, Noah and Evelyn entered the hallway.
+24 The pineapple is in the red_suitcase.
+25 Logan moved the pineapple to the green_bathtub.
+26 Logan exited the hallway and stayed in the waiting_room.
+27 Emma moved the pineapple to the red_drawer.
+28 Emma exited the hallway and stayed in the waiting_room.
+29 Noah made no movements and stayed in the hallway for 10 minutes.
+30 Noah exited the hallway and stayed in the waiting_room.
+31 Evelyn moved the pineapple to the blue_treasure_chest.
+32 Evelyn exited the hallway and stayed in the waiting_room.
+33 Evelyn and Logan entered the kitchen.
+34 The tomato is in the green_cupboard.
+35 Evelyn made no movements and stayed in the kitchen for 10 minutes.
+36 Evelyn exited the kitchen and stayed in the waiting_room.
+37 Logan moved the tomato to the blue_suitcase.
+38 Logan exited the kitchen and stayed in the waiting_room.
+39 Evelyn privately told Emma that the tomato is actually in the green_cupboard.
+Question: Where does Noah think Evelyn thinks Emma thinks the potato is?
+Choices: A. green_bottle, B. red_basket, C. green_container, D. green_treasure_chest, E. blue_basket, F. red_suitcase, G. green_bathtub, H. red_container, I. red_drawer, J. blue_treasure_chest, K. blue_bottle, L. green_cupboard, M. red_bathtub, N. blue_bathtub, O. blue_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

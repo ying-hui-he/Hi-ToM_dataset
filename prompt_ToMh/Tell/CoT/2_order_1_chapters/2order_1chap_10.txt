@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Isla, Noah, Emily, Abigail and Mia entered the pantry.
+2 The asparagus is in the red_envelope.
+3 Isla made no movements and stayed in the pantry for 10 minutes.
+4 Isla exited the pantry and stayed in the waiting_room.
+5 Noah moved the asparagus to the blue_box.
+6 Noah exited the pantry and stayed in the waiting_room.
+7 Emily made no movements and stayed in the pantry for 10 minutes.
+8 Emily exited the pantry and stayed in the waiting_room.
+9 Abigail moved the asparagus to the green_bathtub.
+10 Abigail exited the pantry and stayed in the waiting_room.
+11 Mia made no movements and stayed in the pantry for 10 minutes.
+12 Mia exited the pantry and stayed in the waiting_room.
+13 Emily privately told Isla that the asparagus is actually in the blue_drawer.
+14 Noah privately told Abigail that the asparagus is actually in the blue_box.
+Question: Where does Isla think Emily thinks the asparagus is?
+Choices: A. green_cupboard, B. red_crate, C. red_bottle, D. blue_bathtub, E. red_container, F. red_envelope, G. blue_bottle, H. blue_drawer, I. green_bathtub, J. blue_box, K. green_container, L. blue_basket, M. red_basket, N. blue_container, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

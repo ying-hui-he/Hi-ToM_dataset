@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Emily, Oliver, Owen and Jayden entered the bedroom.
+2 The celery is in the blue_basket.
+3 Avery moved the celery to the red_treasure_chest.
+4 Avery exited the bedroom and stayed in the waiting_room.
+5 Emily moved the celery to the blue_bathtub.
+6 Emily exited the bedroom and stayed in the waiting_room.
+7 Oliver made no movements and stayed in the bedroom for 10 minutes.
+8 Oliver exited the bedroom and stayed in the waiting_room.
+9 Owen made no movements and stayed in the bedroom for 10 minutes.
+10 Owen exited the bedroom and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the bedroom for 10 minutes.
+12 Jayden exited the bedroom and stayed in the waiting_room.
+Question: Where does Owen think Avery thinks Emily thinks the celery is?
+Choices: A. red_drawer, B. blue_bottle, C. green_suitcase, D. red_basket, E. red_crate, F. blue_basket, G. blue_bathtub, H. blue_box, I. blue_envelope, J. red_treasure_chest, K. red_container, L. green_envelope, M. green_cupboard, N. blue_bucket, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

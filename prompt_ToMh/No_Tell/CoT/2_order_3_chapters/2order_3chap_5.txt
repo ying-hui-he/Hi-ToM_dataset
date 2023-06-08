@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Evelyn, Jack, Ethan, Mila and Jayden entered the dining_room.
+2 The cucumber is in the red_bucket.
+3 Evelyn made no movements and stayed in the dining_room for 10 minutes.
+4 Evelyn exited the dining_room and stayed in the waiting_room.
+5 Jack moved the cucumber to the green_crate.
+6 Jack exited the dining_room and stayed in the waiting_room.
+7 Ethan moved the cucumber to the red_basket.
+8 Ethan exited the dining_room and stayed in the waiting_room.
+9 Mila moved the cucumber to the green_bathtub.
+10 Mila exited the dining_room and stayed in the waiting_room.
+11 Jayden made no movements and stayed in the dining_room for 10 minutes.
+12 Jayden exited the dining_room and stayed in the waiting_room.
+13 Jayden, Evelyn and Ethan entered the porch.
+14 The lime is in the green_bottle.
+15 Jayden moved the lime to the red_crate.
+16 Jayden exited the porch and stayed in the waiting_room.
+17 Evelyn made no movements and stayed in the porch for 10 minutes.
+18 Evelyn exited the porch and stayed in the waiting_room.
+19 Ethan made no movements and stayed in the porch for 10 minutes.
+20 Ethan exited the porch and stayed in the waiting_room.
+21 Jack, Jayden, Ethan and Evelyn entered the lounge.
+22 The lemon is in the blue_basket.
+23 Jack made no movements and stayed in the lounge for 10 minutes.
+24 Jack exited the lounge and stayed in the waiting_room.
+25 Jayden made no movements and stayed in the lounge for 10 minutes.
+26 Jayden exited the lounge and stayed in the waiting_room.
+27 Ethan moved the lemon to the green_cupboard.
+28 Ethan exited the lounge and stayed in the waiting_room.
+29 Evelyn moved the lemon to the blue_pantry.
+30 Evelyn exited the lounge and stayed in the waiting_room.
+Question: Where does Mila think Evelyn thinks the cucumber is?
+Choices: A. blue_basket, B. green_treasure_chest, C. blue_pantry, D. green_cupboard, E. blue_bucket, F. red_basket, G. red_bucket, H. green_bathtub, I. blue_container, J. green_crate, K. red_treasure_chest, L. green_bottle, M. red_crate, N. red_bottle, O. red_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

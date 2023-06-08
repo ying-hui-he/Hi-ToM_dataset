@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 James, Emily, Noah, Benjamin and Avery entered the crawlspace.
+2 The lime is in the red_basket.
+3 James moved the lime to the red_crate.
+4 James exited the crawlspace and stayed in the waiting_room.
+5 Emily moved the lime to the blue_drawer.
+6 Emily exited the crawlspace and stayed in the waiting_room.
+7 Noah made no movements and stayed in the crawlspace for 10 minutes.
+8 Noah exited the crawlspace and stayed in the waiting_room.
+9 Benjamin made no movements and stayed in the crawlspace for 10 minutes.
+10 Benjamin exited the crawlspace and stayed in the waiting_room.
+11 Avery made no movements and stayed in the crawlspace for 10 minutes.
+12 Avery exited the crawlspace and stayed in the waiting_room.
+13 James, Benjamin and Emily entered the den.
+14 The orange is in the red_treasure_chest.
+15 James made no movements and stayed in the den for 10 minutes.
+16 James exited the den and stayed in the waiting_room.
+17 Benjamin made no movements and stayed in the den for 10 minutes.
+18 Benjamin exited the den and stayed in the waiting_room.
+19 Emily moved the orange to the green_treasure_chest.
+20 Emily exited the den and stayed in the waiting_room.
+21 Benjamin publicly claimed that orange is in the green_treasure_chest.
+22 Emily privately told Benjamin that the orange is actually in the green_cupboard.
+23 James, Avery, Emily and Noah entered the study.
+24 The pumpkin is in the red_container.
+25 James made no movements and stayed in the study for 10 minutes.
+26 James exited the study and stayed in the waiting_room.
+27 Avery made no movements and stayed in the study for 10 minutes.
+28 Avery exited the study and stayed in the waiting_room.
+29 Emily made no movements and stayed in the study for 10 minutes.
+30 Emily exited the study and stayed in the waiting_room.
+31 Noah made no movements and stayed in the study for 10 minutes.
+32 Noah exited the study and stayed in the waiting_room.
+33 James and Noah entered the den.
+34 The lettuce is in the blue_basket.
+35 James moved the lettuce to the red_treasure_chest.
+36 James exited the den and stayed in the waiting_room.
+37 Noah moved the lettuce to the green_cupboard.
+38 Noah exited the den and stayed in the waiting_room.
+39 Noah publicly claimed that lettuce is in the blue_basket.
+40 James privately told Noah that the lettuce is actually in the green_treasure_chest.
+Question: Where does Benjamin think Avery thinks the lime is?
+Answer: blue_drawer
+Choices: A. green_bottle, B. red_basket, C. blue_suitcase, D. blue_drawer, E. red_crate, F. blue_bottle, G. red_container, H. red_bucket, I. red_suitcase, J. red_envelope, K. blue_basket, L. red_treasure_chest, M. green_cupboard, N. green_crate, O. green_treasure_chest

@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Emma, Avery, Aiden and Hannah entered the hallway.
+2 The plum is in the blue_pantry.
+3 Ava made no movements and stayed in the hallway for 10 minutes.
+4 Ava exited the hallway and stayed in the waiting_room.
+5 Emma made no movements and stayed in the hallway for 10 minutes.
+6 Emma exited the hallway and stayed in the waiting_room.
+7 Avery moved the plum to the blue_suitcase.
+8 Avery exited the hallway and stayed in the waiting_room.
+9 Aiden moved the plum to the green_envelope.
+10 Aiden exited the hallway and stayed in the waiting_room.
+11 Hannah moved the plum to the blue_pantry.
+12 Hannah exited the hallway and stayed in the waiting_room.
+13 Aiden, Avery and Ava entered the study.
+14 The radish is in the blue_box.
+15 Aiden moved the radish to the green_cupboard.
+16 Aiden exited the study and stayed in the waiting_room.
+17 Avery moved the radish to the red_container.
+18 Avery exited the study and stayed in the waiting_room.
+19 Ava moved the radish to the blue_bucket.
+20 Ava exited the study and stayed in the waiting_room.
+21 Hannah, Aiden, Ava and Avery entered the hallway.
+22 The plum is in the blue_pantry.
+23 Hannah moved the plum to the blue_basket.
+24 Hannah exited the hallway and stayed in the waiting_room.
+25 Aiden made no movements and stayed in the hallway for 10 minutes.
+26 Aiden exited the hallway and stayed in the waiting_room.
+27 Ava moved the plum to the green_suitcase.
+28 Ava exited the hallway and stayed in the waiting_room.
+29 Avery moved the plum to the green_envelope.
+30 Avery exited the hallway and stayed in the waiting_room.
+31 Hannah and Aiden entered the living_room.
+32 The beans is in the green_treasure_chest.
+33 Hannah moved the beans to the red_envelope.
+34 Hannah exited the living_room and stayed in the waiting_room.
+35 Aiden moved the beans to the blue_drawer.
+36 Aiden exited the living_room and stayed in the waiting_room.
+Question: Where is the plum really?
+Choices: A. blue_box, B. red_container, C. blue_bucket, D. green_container, E. green_cupboard, F. blue_bottle, G. green_treasure_chest, H. blue_drawer, I. blue_crate, J. red_envelope, K. blue_basket, L. blue_pantry, M. green_envelope, N. blue_suitcase, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

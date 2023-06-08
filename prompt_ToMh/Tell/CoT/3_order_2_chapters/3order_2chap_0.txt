@@ -1,27 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Sophia, Ethan, Emily, William and Jackson entered the sunroom.
-2 The potato is in the green_bucket.
-3 Sophia made no movements and stayed in the sunroom for 10 minutes.
-4 Sophia exited the sunroom and stayed in the waiting_room.
-5 Ethan made no movements and stayed in the sunroom for 10 minutes.
-6 Ethan exited the sunroom and stayed in the waiting_room.
-7 Emily made no movements and stayed in the sunroom for 10 minutes.
-8 Emily exited the sunroom and stayed in the waiting_room.
-9 William made no movements and stayed in the sunroom for 10 minutes.
-10 William exited the sunroom and stayed in the waiting_room.
-11 Jackson made no movements and stayed in the sunroom for 10 minutes.
-12 Jackson exited the sunroom and stayed in the waiting_room.
-13 Jackson, Emily and William entered the sunroom.
-14 The potato is in the green_bucket.
-15 Jackson made no movements and stayed in the sunroom for 10 minutes.
-16 Jackson exited the sunroom and stayed in the waiting_room.
-17 Emily moved the potato to the red_cupboard.
-18 Emily exited the sunroom and stayed in the waiting_room.
-19 William moved the potato to the green_bathtub.
-20 William exited the sunroom and stayed in the waiting_room.
-21 William publicly claimed that potato is in the red_cupboard.
-22 Jackson privately told William that the potato is actually in the green_bucket.
-Question: Where does Emily think Sophia thinks Ethan thinks the potato is?
-Choices: A. green_bucket, B. green_bathtub, C. green_bottle, D. blue_drawer, E. red_cupboard, F. blue_suitcase, G. red_envelope, H. green_envelope, I. red_basket, J. blue_basket, K. green_cupboard, L. green_box, M. red_bottle, N. red_bucket, O. red_bathtub
+1 Benjamin, Evelyn, Hannah, Abigail and Ava entered the workshop.
+2 The cucumber is in the green_cupboard.
+3 Benjamin made no movements and stayed in the workshop for 10 minutes.
+4 Benjamin exited the workshop and stayed in the waiting_room.
+5 Evelyn made no movements and stayed in the workshop for 10 minutes.
+6 Evelyn exited the workshop and stayed in the waiting_room.
+7 Hannah made no movements and stayed in the workshop for 10 minutes.
+8 Hannah exited the workshop and stayed in the waiting_room.
+9 Abigail moved the cucumber to the blue_pantry.
+10 Abigail exited the workshop and stayed in the waiting_room.
+11 Ava moved the cucumber to the green_cupboard.
+12 Ava exited the workshop and stayed in the waiting_room.
+13 Ava, Abigail and Evelyn entered the workshop.
+14 The grapefruit is in the blue_container.
+15 Ava made no movements and stayed in the workshop for 10 minutes.
+16 Ava exited the workshop and stayed in the waiting_room.
+17 Abigail moved the grapefruit to the blue_bathtub.
+18 Abigail exited the workshop and stayed in the waiting_room.
+19 Evelyn made no movements and stayed in the workshop for 10 minutes.
+20 Evelyn exited the workshop and stayed in the waiting_room.
+21 Evelyn publicly claimed that grapefruit is in the blue_pantry.
+22 Ava privately told Evelyn that the grapefruit is actually in the green_container.
+Question: Where does Benjamin think Hannah thinks Abigail thinks the cucumber is?
+Choices: A. green_bottle, B. green_crate, C. red_container, D. red_treasure_chest, E. blue_crate, F. blue_container, G. green_cupboard, H. green_container, I. blue_pantry, J. blue_bathtub, K. green_suitcase, L. red_bathtub, M. blue_basket, N. red_bottle, O. red_bucket
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

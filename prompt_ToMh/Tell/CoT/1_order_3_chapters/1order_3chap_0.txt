@@ -1,39 +1,39 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Liam, Alexander, Oliver and Ethan entered the crawlspace.
-2 The grapefruit is in the green_pantry.
-3 Ella made no movements and stayed in the crawlspace for 10 minutes.
-4 Ella exited the crawlspace and stayed in the waiting_room.
-5 Liam made no movements and stayed in the crawlspace for 10 minutes.
-6 Liam exited the crawlspace and stayed in the waiting_room.
-7 Alexander moved the grapefruit to the red_envelope.
-8 Alexander exited the crawlspace and stayed in the waiting_room.
-9 Oliver made no movements and stayed in the crawlspace for 10 minutes.
-10 Oliver exited the crawlspace and stayed in the waiting_room.
-11 Ethan moved the grapefruit to the green_pantry.
-12 Ethan exited the crawlspace and stayed in the waiting_room.
-13 Alexander publicly claimed that grapefruit is in the red_basket.
-14 Ethan privately told Alexander that the grapefruit is actually in the red_box.
-15 Oliver, Liam and Ella entered the crawlspace.
-16 The beans is in the red_envelope.
-17 Oliver made no movements and stayed in the crawlspace for 10 minutes.
-18 Oliver exited the crawlspace and stayed in the waiting_room.
-19 Liam moved the beans to the red_basket.
-20 Liam exited the crawlspace and stayed in the waiting_room.
-21 Ella moved the beans to the green_suitcase.
-22 Ella exited the crawlspace and stayed in the waiting_room.
-23 Ella, Oliver, Ethan and Liam entered the pantry.
-24 The broccoli is in the red_treasure_chest.
-25 Ella moved the broccoli to the blue_bucket.
-26 Ella exited the pantry and stayed in the waiting_room.
-27 Oliver moved the broccoli to the green_bottle.
-28 Oliver exited the pantry and stayed in the waiting_room.
-29 Ethan moved the broccoli to the red_bottle.
-30 Ethan exited the pantry and stayed in the waiting_room.
-31 Liam moved the broccoli to the blue_cupboard.
-32 Liam exited the pantry and stayed in the waiting_room.
-33 Ethan publicly claimed that broccoli is in the green_bottle.
-34 Ella privately told Liam that the broccoli is actually in the blue_cupboard.
-Question: Where does Liam think the grapefruit is?
-Choices: A. red_bottle, B. red_treasure_chest, C. green_bottle, D. blue_cupboard, E. blue_bucket, F. green_pantry, G. red_envelope, H. red_basket, I. red_box, J. green_suitcase, K. red_cupboard, L. blue_container, M. green_envelope, N. blue_treasure_chest, O. red_bucket
+1 Charlotte, Gracie, Amelia, Ethan and Hannah entered the lounge.
+2 The potato is in the blue_drawer.
+3 Charlotte made no movements and stayed in the lounge for 10 minutes.
+4 Charlotte exited the lounge and stayed in the waiting_room.
+5 Gracie made no movements and stayed in the lounge for 10 minutes.
+6 Gracie exited the lounge and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the lounge for 10 minutes.
+8 Amelia exited the lounge and stayed in the waiting_room.
+9 Ethan moved the potato to the red_suitcase.
+10 Ethan exited the lounge and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the lounge for 10 minutes.
+12 Hannah exited the lounge and stayed in the waiting_room.
+13 Amelia privately told Charlotte that the potato is actually in the red_bathtub.
+14 Gracie privately told Ethan that the potato is actually in the blue_container.
+15 Ethan, Gracie and Amelia entered the lounge.
+16 The onion is in the red_suitcase.
+17 Ethan made no movements and stayed in the lounge for 10 minutes.
+18 Ethan exited the lounge and stayed in the waiting_room.
+19 Gracie moved the onion to the blue_drawer.
+20 Gracie exited the lounge and stayed in the waiting_room.
+21 Amelia made no movements and stayed in the lounge for 10 minutes.
+22 Amelia exited the lounge and stayed in the waiting_room.
+23 Ethan, Hannah, Gracie and Charlotte entered the closet.
+24 The pumpkin is in the red_bottle.
+25 Ethan made no movements and stayed in the closet for 10 minutes.
+26 Ethan exited the closet and stayed in the waiting_room.
+27 Hannah moved the pumpkin to the green_bottle.
+28 Hannah exited the closet and stayed in the waiting_room.
+29 Gracie moved the pumpkin to the blue_envelope.
+30 Gracie exited the closet and stayed in the waiting_room.
+31 Charlotte moved the pumpkin to the green_treasure_chest.
+32 Charlotte exited the closet and stayed in the waiting_room.
+33 Hannah privately told Gracie that the pumpkin is actually in the blue_pantry.
+34 Charlotte privately told Amelia that the pumpkin is actually in the green_treasure_chest.
+Question: Where does Charlotte think the potato is?
+Choices: A. red_suitcase, B. blue_drawer, C. red_bathtub, D. blue_box, E. blue_container, F. red_bottle, G. green_treasure_chest, H. blue_pantry, I. blue_envelope, J. green_bottle, K. red_treasure_chest, L. blue_suitcase, M. green_cupboard, N. blue_bottle, O. red_crate
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

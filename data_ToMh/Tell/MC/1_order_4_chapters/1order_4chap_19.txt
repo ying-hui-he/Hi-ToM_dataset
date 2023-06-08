@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, Jayden, Gracie, Emma and Aiden entered the hallway.
+2 The apple is in the red_crate.
+3 Logan made no movements and stayed in the hallway for 10 minutes.
+4 Logan exited the hallway and stayed in the waiting_room.
+5 Jayden made no movements and stayed in the hallway for 10 minutes.
+6 Jayden exited the hallway and stayed in the waiting_room.
+7 Gracie made no movements and stayed in the hallway for 10 minutes.
+8 Gracie exited the hallway and stayed in the waiting_room.
+9 Emma moved the apple to the green_cupboard.
+10 Emma exited the hallway and stayed in the waiting_room.
+11 Aiden moved the apple to the red_crate.
+12 Aiden exited the hallway and stayed in the waiting_room.
+13 Jayden, Aiden and Emma entered the laundry.
+14 The cherry is in the blue_envelope.
+15 Jayden moved the cherry to the green_envelope.
+16 Jayden exited the laundry and stayed in the waiting_room.
+17 Aiden moved the cherry to the red_bucket.
+18 Aiden exited the laundry and stayed in the waiting_room.
+19 Emma moved the cherry to the blue_bucket.
+20 Emma exited the laundry and stayed in the waiting_room.
+21 Jayden publicly claimed that cherry is in the blue_bucket.
+22 Emma privately told Logan that the cherry is actually in the blue_bucket.
+23 Jayden, Emma, Aiden and Logan entered the dining_room.
+24 The peach is in the green_bathtub.
+25 Jayden moved the peach to the red_container.
+26 Jayden exited the dining_room and stayed in the waiting_room.
+27 Emma made no movements and stayed in the dining_room for 10 minutes.
+28 Emma exited the dining_room and stayed in the waiting_room.
+29 Aiden moved the peach to the blue_pantry.
+30 Aiden exited the dining_room and stayed in the waiting_room.
+31 Logan made no movements and stayed in the dining_room for 10 minutes.
+32 Logan exited the dining_room and stayed in the waiting_room.
+33 Logan and Gracie entered the hallway.
+34 The apple is in the red_crate.
+35 Logan made no movements and stayed in the hallway for 10 minutes.
+36 Logan exited the hallway and stayed in the waiting_room.
+37 Gracie made no movements and stayed in the hallway for 10 minutes.
+38 Gracie exited the hallway and stayed in the waiting_room.
+39 Gracie publicly claimed that apple is in the red_crate.
+40 Logan privately told Gracie that the apple is actually in the red_drawer.
+Question: Where does Aiden think the apple is?
+Answer: red_crate
+Choices: A. red_container, B. green_bathtub, C. blue_crate, D. red_envelope, E. blue_pantry, F. blue_envelope, G. blue_basket, H. green_envelope, I. blue_bucket, J. red_bucket, K. green_cupboard, L. red_crate, M. red_drawer, N. blue_suitcase, O. green_treasure_chest

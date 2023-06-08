@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Olivia, Aiden, Amelia, Hannah and Logan entered the living_room.
+2 The onion is in the red_suitcase.
+3 Olivia moved the onion to the green_bottle.
+4 Olivia exited the living_room and stayed in the waiting_room.
+5 Aiden moved the onion to the red_drawer.
+6 Aiden exited the living_room and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the living_room for 10 minutes.
+8 Amelia exited the living_room and stayed in the waiting_room.
+9 Hannah moved the onion to the green_treasure_chest.
+10 Hannah exited the living_room and stayed in the waiting_room.
+11 Logan made no movements and stayed in the living_room for 10 minutes.
+12 Logan exited the living_room and stayed in the waiting_room.
+13 Amelia publicly claimed that onion is in the red_drawer.
+14 Logan privately told Amelia that the onion is actually in the green_bottle.
+15 Aiden, Hannah and Amelia entered the living_room.
+16 The turnip is in the green_crate.
+17 Aiden made no movements and stayed in the living_room for 10 minutes.
+18 Aiden exited the living_room and stayed in the waiting_room.
+19 Hannah moved the turnip to the red_drawer.
+20 Hannah exited the living_room and stayed in the waiting_room.
+21 Amelia made no movements and stayed in the living_room for 10 minutes.
+22 Amelia exited the living_room and stayed in the waiting_room.
+23 Logan, Olivia, Amelia and Aiden entered the living_room.
+24 The turnip is in the red_drawer.
+25 Logan made no movements and stayed in the living_room for 10 minutes.
+26 Logan exited the living_room and stayed in the waiting_room.
+27 Olivia moved the turnip to the green_crate.
+28 Olivia exited the living_room and stayed in the waiting_room.
+29 Amelia moved the turnip to the green_treasure_chest.
+30 Amelia exited the living_room and stayed in the waiting_room.
+31 Aiden moved the turnip to the green_bottle.
+32 Aiden exited the living_room and stayed in the waiting_room.
+33 Logan publicly claimed that turnip is in the green_crate.
+34 Aiden privately told Hannah that the turnip is actually in the green_bottle.
+Question: Where does Logan think the onion is?
+Choices: A. blue_pantry, B. red_bucket, C. blue_bottle, D. green_bathtub, E. blue_suitcase, F. red_bottle, G. blue_envelope, H. blue_bathtub, I. blue_box, J. green_cupboard, K. green_crate, L. red_suitcase, M. green_bottle, N. red_drawer, O. green_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

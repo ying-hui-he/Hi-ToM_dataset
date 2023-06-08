@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Aria, Charlotte, Jayden, Gracie and Jacob entered the closet.
+2 The turnip is in the green_container.
+3 Aria moved the turnip to the red_suitcase.
+4 Aria exited the closet and stayed in the waiting_room.
+5 Charlotte made no movements and stayed in the closet for 10 minutes.
+6 Charlotte exited the closet and stayed in the waiting_room.
+7 Jayden moved the turnip to the red_drawer.
+8 Jayden exited the closet and stayed in the waiting_room.
+9 Gracie moved the turnip to the red_basket.
+10 Gracie exited the closet and stayed in the waiting_room.
+11 Jacob moved the turnip to the green_container.
+12 Jacob exited the closet and stayed in the waiting_room.
+13 Charlotte, Aria and Jayden entered the closet.
+14 The turnip is in the green_container.
+15 Charlotte moved the turnip to the red_basket.
+16 Charlotte exited the closet and stayed in the waiting_room.
+17 Aria moved the turnip to the green_treasure_chest.
+18 Aria exited the closet and stayed in the waiting_room.
+19 Jayden made no movements and stayed in the closet for 10 minutes.
+20 Jayden exited the closet and stayed in the waiting_room.
+21 Jacob, Jayden, Gracie and Charlotte entered the workshop.
+22 The onion is in the red_treasure_chest.
+23 Jacob made no movements and stayed in the workshop for 10 minutes.
+24 Jacob exited the workshop and stayed in the waiting_room.
+25 Jayden moved the onion to the blue_drawer.
+26 Jayden exited the workshop and stayed in the waiting_room.
+27 Gracie made no movements and stayed in the workshop for 10 minutes.
+28 Gracie exited the workshop and stayed in the waiting_room.
+29 Charlotte made no movements and stayed in the workshop for 10 minutes.
+30 Charlotte exited the workshop and stayed in the waiting_room.
+31 Charlotte and Gracie entered the closet.
+32 The radish is in the red_basket.
+33 Charlotte made no movements and stayed in the closet for 10 minutes.
+34 Charlotte exited the closet and stayed in the waiting_room.
+35 Gracie made no movements and stayed in the closet for 10 minutes.
+36 Gracie exited the closet and stayed in the waiting_room.
+Question: Where does Charlotte think Gracie thinks the turnip is?
+Choices: A. green_container, B. red_basket, C. red_suitcase, D. green_treasure_chest, E. red_drawer, F. red_treasure_chest, G. blue_basket, H. blue_bucket, I. blue_drawer, J. blue_pantry, K. red_bottle, L. red_envelope, M. green_bottle, N. green_suitcase, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

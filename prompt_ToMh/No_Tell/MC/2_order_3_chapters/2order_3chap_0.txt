@@ -1,35 +1,35 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Benjamin, Lucas, Lily, Jackson and Nathan entered the cellar.
-2 The radish is in the green_bathtub.
-3 Benjamin moved the radish to the blue_treasure_chest.
-4 Benjamin exited the cellar and stayed in the waiting_room.
-5 Lucas moved the radish to the blue_suitcase.
-6 Lucas exited the cellar and stayed in the waiting_room.
-7 Lily made no movements and stayed in the cellar for 10 minutes.
-8 Lily exited the cellar and stayed in the waiting_room.
-9 Jackson moved the radish to the green_drawer.
-10 Jackson exited the cellar and stayed in the waiting_room.
-11 Nathan moved the radish to the green_bathtub.
-12 Nathan exited the cellar and stayed in the waiting_room.
-13 Lily, Lucas and Benjamin entered the office.
-14 The apple is in the red_container.
-15 Lily made no movements and stayed in the office for 10 minutes.
-16 Lily exited the office and stayed in the waiting_room.
-17 Lucas moved the apple to the blue_basket.
-18 Lucas exited the office and stayed in the waiting_room.
-19 Benjamin made no movements and stayed in the office for 10 minutes.
-20 Benjamin exited the office and stayed in the waiting_room.
-21 Lily, Benjamin, Jackson and Lucas entered the office.
-22 The broccoli is in the blue_drawer.
-23 Lily moved the broccoli to the red_envelope.
-24 Lily exited the office and stayed in the waiting_room.
-25 Benjamin made no movements and stayed in the office for 10 minutes.
-26 Benjamin exited the office and stayed in the waiting_room.
-27 Jackson made no movements and stayed in the office for 10 minutes.
-28 Jackson exited the office and stayed in the waiting_room.
-29 Lucas made no movements and stayed in the office for 10 minutes.
-30 Lucas exited the office and stayed in the waiting_room.
-Question: Where does Nathan think Lily thinks the radish is?
-Choices: A. green_cupboard, B. green_box, C. green_suitcase, D. blue_crate, E. green_bucket, F. green_bathtub, G. blue_treasure_chest, H. green_drawer, I. blue_suitcase, J. blue_bottle, K. blue_drawer, L. red_container, M. red_bottle, N. red_envelope, O. blue_basket
+1 Oliver, Mila, William, Jackson and Charlotte entered the back_yard.
+2 The peach is in the blue_container.
+3 Oliver moved the peach to the green_bathtub.
+4 Oliver exited the back_yard and stayed in the waiting_room.
+5 Mila moved the peach to the red_envelope.
+6 Mila exited the back_yard and stayed in the waiting_room.
+7 William moved the peach to the green_container.
+8 William exited the back_yard and stayed in the waiting_room.
+9 Jackson moved the peach to the blue_treasure_chest.
+10 Jackson exited the back_yard and stayed in the waiting_room.
+11 Charlotte moved the peach to the blue_container.
+12 Charlotte exited the back_yard and stayed in the waiting_room.
+13 William, Jackson and Charlotte entered the bathroom.
+14 The banana is in the red_suitcase.
+15 William made no movements and stayed in the bathroom for 10 minutes.
+16 William exited the bathroom and stayed in the waiting_room.
+17 Jackson made no movements and stayed in the bathroom for 10 minutes.
+18 Jackson exited the bathroom and stayed in the waiting_room.
+19 Charlotte made no movements and stayed in the bathroom for 10 minutes.
+20 Charlotte exited the bathroom and stayed in the waiting_room.
+21 Charlotte, Jackson, Mila and William entered the bathroom.
+22 The pear is in the blue_crate.
+23 Charlotte moved the pear to the red_bottle.
+24 Charlotte exited the bathroom and stayed in the waiting_room.
+25 Jackson moved the pear to the red_suitcase.
+26 Jackson exited the bathroom and stayed in the waiting_room.
+27 Mila made no movements and stayed in the bathroom for 10 minutes.
+28 Mila exited the bathroom and stayed in the waiting_room.
+29 William moved the pear to the blue_bottle.
+30 William exited the bathroom and stayed in the waiting_room.
+Question: Where does Charlotte think Jackson thinks the peach is?
+Choices: A. blue_container, B. red_envelope, C. blue_treasure_chest, D. green_bathtub, E. green_container, F. green_bottle, G. blue_basket, H. green_envelope, I. green_crate, J. green_suitcase, K. red_suitcase, L. blue_crate, M. green_cupboard, N. blue_bottle, O. red_bottle
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

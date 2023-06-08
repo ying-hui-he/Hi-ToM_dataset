@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aria, Avery, Emma, Charlotte and Emily entered the garden.
+2 The orange is in the green_bathtub.
+3 Aria moved the orange to the red_basket.
+4 Aria exited the garden and stayed in the waiting_room.
+5 Avery moved the orange to the green_cupboard.
+6 Avery exited the garden and stayed in the waiting_room.
+7 Emma made no movements and stayed in the garden for 10 minutes.
+8 Emma exited the garden and stayed in the waiting_room.
+9 Charlotte moved the orange to the red_bucket.
+10 Charlotte exited the garden and stayed in the waiting_room.
+11 Emily moved the orange to the green_bathtub.
+12 Emily exited the garden and stayed in the waiting_room.
+13 Emma publicly claimed that orange is in the green_container.
+14 Emily privately told Emma that the orange is actually in the red_bucket.
+15 Emma, Emily and Avery entered the dining_room.
+16 The onion is in the blue_basket.
+17 Emma made no movements and stayed in the dining_room for 10 minutes.
+18 Emma exited the dining_room and stayed in the waiting_room.
+19 Emily moved the onion to the green_crate.
+20 Emily exited the dining_room and stayed in the waiting_room.
+21 Avery moved the onion to the blue_bathtub.
+22 Avery exited the dining_room and stayed in the waiting_room.
+23 Charlotte, Emily, Emma and Avery entered the garden.
+24 The orange is in the green_bathtub.
+25 Charlotte made no movements and stayed in the garden for 10 minutes.
+26 Charlotte exited the garden and stayed in the waiting_room.
+27 Emily made no movements and stayed in the garden for 10 minutes.
+28 Emily exited the garden and stayed in the waiting_room.
+29 Emma moved the orange to the green_cupboard.
+30 Emma exited the garden and stayed in the waiting_room.
+31 Avery made no movements and stayed in the garden for 10 minutes.
+32 Avery exited the garden and stayed in the waiting_room.
+33 Emma publicly claimed that orange is in the green_cupboard.
+34 Charlotte privately told Avery that the orange is actually in the green_container.
+Question: Where does Aria think Emily thinks the orange is?
+Choices: A. green_envelope, B. blue_pantry, C. red_container, D. red_suitcase, E. blue_bottle, F. green_bathtub, G. green_cupboard, H. green_container, I. red_basket, J. red_bucket, K. green_crate, L. blue_basket, M. blue_bathtub, N. red_drawer, O. green_suitcase
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

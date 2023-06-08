@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Mia, Noah, Olivia, Hannah and Benjamin entered the kitchen.
+2 The banana is in the blue_pantry.
+3 Mia made no movements and stayed in the kitchen for 10 minutes.
+4 Mia exited the kitchen and stayed in the waiting_room.
+5 Noah made no movements and stayed in the kitchen for 10 minutes.
+6 Noah exited the kitchen and stayed in the waiting_room.
+7 Olivia made no movements and stayed in the kitchen for 10 minutes.
+8 Olivia exited the kitchen and stayed in the waiting_room.
+9 Hannah made no movements and stayed in the kitchen for 10 minutes.
+10 Hannah exited the kitchen and stayed in the waiting_room.
+11 Benjamin moved the banana to the blue_pantry.
+12 Benjamin exited the kitchen and stayed in the waiting_room.
+13 Mia, Olivia and Noah entered the cellar.
+14 The apple is in the red_bathtub.
+15 Mia moved the apple to the red_treasure_chest.
+16 Mia exited the cellar and stayed in the waiting_room.
+17 Olivia moved the apple to the blue_treasure_chest.
+18 Olivia exited the cellar and stayed in the waiting_room.
+19 Noah moved the apple to the blue_drawer.
+20 Noah exited the cellar and stayed in the waiting_room.
+21 Olivia publicly claimed that apple is in the red_bathtub.
+22 Noah privately told Olivia that the apple is actually in the green_envelope.
+Question: Where does Olivia think Mia thinks the banana is?
+Choices: A. blue_envelope, B. red_bucket, C. blue_bucket, D. red_envelope, E. blue_container, F. blue_pantry, G. green_bottle, H. green_treasure_chest, I. red_bottle, J. red_crate, K. red_bathtub, L. green_envelope, M. blue_treasure_chest, N. red_treasure_chest, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

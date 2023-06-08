@@ -1,35 +1,35 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 William, Nathan, Ava, Avery and Emily entered the garden.
-2 The pineapple is in the green_bucket.
-3 William made no movements and stayed in the garden for 10 minutes.
-4 William exited the garden and stayed in the waiting_room.
-5 Nathan made no movements and stayed in the garden for 10 minutes.
-6 Nathan exited the garden and stayed in the waiting_room.
-7 Ava moved the pineapple to the blue_container.
-8 Ava exited the garden and stayed in the waiting_room.
-9 Avery moved the pineapple to the green_suitcase.
-10 Avery exited the garden and stayed in the waiting_room.
-11 Emily made no movements and stayed in the garden for 10 minutes.
-12 Emily exited the garden and stayed in the waiting_room.
-13 Emily, William and Avery entered the living_room.
-14 The tomato is in the red_envelope.
-15 Emily made no movements and stayed in the living_room for 10 minutes.
-16 Emily exited the living_room and stayed in the waiting_room.
-17 William made no movements and stayed in the living_room for 10 minutes.
-18 William exited the living_room and stayed in the waiting_room.
-19 Avery made no movements and stayed in the living_room for 10 minutes.
-20 Avery exited the living_room and stayed in the waiting_room.
-21 William, Ava, Avery and Nathan entered the living_room.
-22 The cherry is in the green_box.
-23 William moved the cherry to the red_envelope.
-24 William exited the living_room and stayed in the waiting_room.
-25 Ava moved the cherry to the blue_bottle.
-26 Ava exited the living_room and stayed in the waiting_room.
-27 Avery moved the cherry to the green_envelope.
-28 Avery exited the living_room and stayed in the waiting_room.
-29 Nathan moved the cherry to the red_bathtub.
-30 Nathan exited the living_room and stayed in the waiting_room.
-Question: Where does Emily think Nathan thinks William thinks the pineapple is?
-Choices: A. green_bucket, B. blue_container, C. blue_suitcase, D. red_bottle, E. green_suitcase, F. green_box, G. red_envelope, H. red_bathtub, I. blue_bottle, J. green_envelope, K. blue_bucket, L. red_container, M. blue_cupboard, N. red_cupboard, O. green_bathtub
+1 Benjamin, Olivia, Oliver, Jayden and Emma entered the bedroom.
+2 The tomato is in the red_bathtub.
+3 Benjamin made no movements and stayed in the bedroom for 10 minutes.
+4 Benjamin exited the bedroom and stayed in the waiting_room.
+5 Olivia moved the tomato to the blue_bottle.
+6 Olivia exited the bedroom and stayed in the waiting_room.
+7 Oliver made no movements and stayed in the bedroom for 10 minutes.
+8 Oliver exited the bedroom and stayed in the waiting_room.
+9 Jayden moved the tomato to the green_crate.
+10 Jayden exited the bedroom and stayed in the waiting_room.
+11 Emma made no movements and stayed in the bedroom for 10 minutes.
+12 Emma exited the bedroom and stayed in the waiting_room.
+13 Jayden, Emma and Benjamin entered the kitchen.
+14 The cherry is in the green_suitcase.
+15 Jayden made no movements and stayed in the kitchen for 10 minutes.
+16 Jayden exited the kitchen and stayed in the waiting_room.
+17 Emma made no movements and stayed in the kitchen for 10 minutes.
+18 Emma exited the kitchen and stayed in the waiting_room.
+19 Benjamin moved the cherry to the blue_suitcase.
+20 Benjamin exited the kitchen and stayed in the waiting_room.
+21 Emma, Jayden, Oliver and Olivia entered the kitchen.
+22 The carrot is in the red_bucket.
+23 Emma moved the carrot to the blue_suitcase.
+24 Emma exited the kitchen and stayed in the waiting_room.
+25 Jayden made no movements and stayed in the kitchen for 10 minutes.
+26 Jayden exited the kitchen and stayed in the waiting_room.
+27 Oliver made no movements and stayed in the kitchen for 10 minutes.
+28 Oliver exited the kitchen and stayed in the waiting_room.
+29 Olivia moved the carrot to the blue_pantry.
+30 Olivia exited the kitchen and stayed in the waiting_room.
+Question: Where does Benjamin think Jayden thinks Olivia thinks the tomato is?
+Choices: A. red_bucket, B. green_suitcase, C. blue_pantry, D. blue_suitcase, E. green_bathtub, F. red_bathtub, G. blue_bottle, H. green_crate, I. blue_drawer, J. red_bottle, K. blue_treasure_chest, L. blue_crate, M. blue_bucket, N. blue_bathtub, O. red_container
 Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

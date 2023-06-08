@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Gracie, Evelyn, Ella, Noah and Ava entered the kitchen.
+2 The orange is in the green_cupboard.
+3 Gracie moved the orange to the blue_container.
+4 Gracie exited the kitchen and stayed in the waiting_room.
+5 Evelyn moved the orange to the red_treasure_chest.
+6 Evelyn exited the kitchen and stayed in the waiting_room.
+7 Ella made no movements and stayed in the kitchen for 10 minutes.
+8 Ella exited the kitchen and stayed in the waiting_room.
+9 Noah moved the orange to the blue_bottle.
+10 Noah exited the kitchen and stayed in the waiting_room.
+11 Ava moved the orange to the green_cupboard.
+12 Ava exited the kitchen and stayed in the waiting_room.
+13 Evelyn, Gracie and Ella entered the back_yard.
+14 The plum is in the green_crate.
+15 Evelyn moved the plum to the red_container.
+16 Evelyn exited the back_yard and stayed in the waiting_room.
+17 Gracie made no movements and stayed in the back_yard for 10 minutes.
+18 Gracie exited the back_yard and stayed in the waiting_room.
+19 Ella made no movements and stayed in the back_yard for 10 minutes.
+20 Ella exited the back_yard and stayed in the waiting_room.
+21 Gracie, Evelyn, Noah and Ava entered the back_yard.
+22 The plum is in the red_container.
+23 Gracie made no movements and stayed in the back_yard for 10 minutes.
+24 Gracie exited the back_yard and stayed in the waiting_room.
+25 Evelyn moved the plum to the blue_envelope.
+26 Evelyn exited the back_yard and stayed in the waiting_room.
+27 Noah made no movements and stayed in the back_yard for 10 minutes.
+28 Noah exited the back_yard and stayed in the waiting_room.
+29 Ava made no movements and stayed in the back_yard for 10 minutes.
+30 Ava exited the back_yard and stayed in the waiting_room.
+Question: Where does Ava think Evelyn thinks Noah thinks Gracie thinks the orange is?
+Choices: A. green_crate, B. green_container, C. red_bathtub, D. red_container, E. blue_envelope, F. red_drawer, G. red_suitcase, H. green_envelope, I. red_bottle, J. green_bathtub, K. green_cupboard, L. blue_box, M. blue_bottle, N. blue_container, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.
