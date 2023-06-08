@@ -14,7 +14,7 @@ from world import World
 
 
 def generate_story_with_specified_chapters(
-    world_paths, output_dir_path, n, noise=0.1, train_noise=False, order=-1, num_chapter=-1, exist_tell_in_story=False, prompt='CoT'
+    world_paths, output_dir_path, n, noise=0.1, train_noise=False, order=-1, num_chapter=-1, exist_tell_in_story=False, prompt='CoT', exist_answer=False
 ):
     """Generates stories with guarantee that each task is seen n times."""
     mkdir_p(output_dir_path)
@@ -43,7 +43,7 @@ def generate_story_with_specified_chapters(
             for length_of_story in num_chapters:
                 # Create folder to contain data
                 folder_name = f'{order_of_story}_order_{length_of_story}_chapters'
-                logging.info("Creating New task in %s..." % folder_name)
+                # logging.info("Creating New task in %s..." % folder_name)
                 mkdir_p(os.path.join(output_dir_path, folder_name))
 
                 for i in range(n):
@@ -52,18 +52,21 @@ def generate_story_with_specified_chapters(
 
                     with open(path, 'w', encoding='utf-8') as f:
                         story = task.generate_story_qs_at_end(
-                            w, length_of_story, tasks_per_length[length_of_story - 1], num_agents=5,
+                            w, length_of_story, tasks_per_length[length_of_story -
+                                                                 1], num_agents=5,
                             num_locations=3, statement_noise=0, order=order_of_story, exist_tell_in_story=exist_tell_in_story
                         )
                         if prompt == 'MC':
-                            f.write('Read the following story and answer the multiple-choice question. Please provide answer without explanations.\n')
+                            f.write(
+                                'Read the following story and answer the multiple-choice question. Please provide answer without explanations.\n')
                         else:
-                            f.write('Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.\n')
+                            f.write(
+                                'Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.\n')
                         f.write('Story:\n')
-                        f.write('\n'.join(stringify(story)))
-                        f.write('Note:\n')
+                        f.write('\n'.join(stringify(story, exist_answer=exist_answer)))
+                        f.write('Note: \n')
 
-                        
+
 def parse_args(args):
 
     parser = argparse.ArgumentParser(
@@ -77,13 +80,13 @@ def parse_args(args):
 
     parser.add_argument(
         '-o', '--output_dir_path', dest='output_dir_path', type=mkdir_p,
-        default='data', help='Output directory path'
+        default='data_ToMh', help='Output directory path'
     )
 
-    parser.add_argument(
-        '-b', '--babi_dir_path', dest='babi_dir_path', type=str, required=True,
-        help='Path to directory containing the 20 bAbi task train + test data'
-    )
+    # parser.add_argument(
+    #     '-b', '--babi_dir_path', dest='babi_dir_path', type=str, required=True,
+    #     help='Path to directory containing the 20 bAbi task train + test data'
+    # )
 
     parser.add_argument(
         '-l', '--logging', type=str, default='INFO', metavar='logging',
@@ -95,17 +98,6 @@ def parse_args(args):
         '-n', '--num_stories', dest='num_stories_choices', type=int,
         action='append', required=True,
         help='Number of stories (examples) in a task)'
-    )
-
-    parser.add_argument(
-        '-easy', '--easy', dest='easy', action='store_true',
-        help='Switch on tom-easy generation'
-    )
-
-    parser.add_argument(
-        '-test', '--test_cond', dest='test_cond_choices',
-        choices=['first order', 'second order', 'reality', 'memory'],
-        action='append', required=True, help='Types of test question'
     )
 
     parser.add_argument(
@@ -131,7 +123,12 @@ def parse_args(args):
     )
     parser.add_argument(
         '-p', '--prompt', dest='prompt_type', type=str, default='CoT',
+        choices=['MC', 'CoT'],
         help='The type of prompt chosen between MC and CoT'
+    )
+    parser.add_argument(
+        '-a', '--answer', dest='exist_answer', type=bool, default=False,
+        help='Whether or not the data has answers'
     )
 
     parsed = parser.parse_args(args)
@@ -145,17 +142,21 @@ def main(args=sys.argv[1:]):
     logging.basicConfig(
         level=args.logging, format='%(asctime)s\t%(levelname)-8s\t%(message)s'
     )
-    folder_name = 'Tell' if args.exist_tell else 'No_Tell'
+    folder_name = 'Tell/' if args.exist_tell else 'No_Tell/'
+    folder_name += args.prompt_type
+
+    output_dir_path = os.path.join(args.output_dir_path, folder_name) if args.exist_answer else os.path.join('prompt_ToMh', folder_name)
     generate_story_with_specified_chapters(
         world_paths=args.world_paths,
-        output_dir_path=os.path.join(args.output_dir_path, folder_name),
+        output_dir_path=output_dir_path,
         n=args.num_stories_choices,
         noise=args.test_noise,
         train_noise=args.train_noise,
         order=args.order,
         num_chapter=args.num_chapter,
         exist_tell_in_story=args.exist_tell,
-        prompt=args.prompt_type
+        prompt=args.prompt_type,
+        exist_answer=args.exist_answer,
     )
 
 

@@ -303,24 +303,23 @@ class EnterAction(Action):
     def __init__(self, oracle, args, observers=None, no_world_adjust=False):
         templates = {
             'declarative': [
-                ', '.join(args[:-2]) + ' ,and ' + args[-2] +
+                ', '.join(args[:-2]) + ' and ' + args[-2] +
                 ' entered the ' + args[-1] + '.',
             ]
         }
 
-        agent, location = args
-        oracle.set_location(agent, location)
-        # assume all containers are not enclosed
-        # agent knows location of everything
+        agents = args[:-1]
+        location = args[-1]
+        for agent in agents:
+            oracle.set_location(agent, location)
         objs = oracle.get_objects_at_location(location)
-        if not observers:
-            observers = []
-        observers.append(agent)
-
+        observers = agents
+        
+        # agent knows location of everything
         if not no_world_adjust:
             for obj in objs:
                 container = oracle.get_object_container(obj)
-                oracle.set_first_belief(agent, obj, container)
+                # oracle.set_first_belief(agent, obj, container)
                 # set first beliefs
                 for observer in observers:
                     oracle.set_first_belief(observer, obj, container)

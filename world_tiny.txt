@@ -1,0 +1,87 @@
+# locations
+
+create living_room
+set living_room is_thing
+set living_room is_location
+
+create patio
+set patio is_thing
+set patio is_location
+
+create TV_room
+set TV_room is_thing
+set TV_room is_location
+
+create den
+set den is_thing
+set den is_location
+
+create bedroom
+set bedroom is_thing
+set bedroom is_location
+
+# objects
+
+create sweet_potato
+set sweet_potato is_thing
+set sweet_potato is_gettable
+
+create cucumber
+set cucumber is_thing
+set cucumber is_gettable
+
+create radish
+set radish is_thing
+set radish is_gettable
+
+create cabbage
+set cabbage is_thing
+set cabbage is_gettable
+
+create asparagus
+set asparagus is_thing
+set asparagus is_gettable
+
+# containers
+
+create blue_drawer
+set blue_drawer is_thing
+set blue_drawer is_container
+
+create red_cupboard
+set red_cupboard is_thing
+set red_cupboard is_container
+
+create red_crate
+set red_crate is_thing
+set red_crate is_container
+
+create blue_treasure_chest
+set blue_treasure_chest is_thing
+set blue_treasure_chest is_container
+
+create red_bottle
+set red_bottle is_thing
+set red_bottle is_container
+
+# actors
+
+create Lucas
+set Lucas is_actor
+set Lucas is_god
+
+create Isla
+set Isla is_actor
+set Isla is_god
+
+create Ethan
+set Ethan is_actor
+set Ethan is_god
+
+create Mason
+set Mason is_actor
+set Mason is_god
+
+create Logan
+set Logan is_actor
+set Logan is_god

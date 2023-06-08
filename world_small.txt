@@ -1,0 +1,167 @@
+# locations
+
+create patio
+set patio is_thing
+set patio is_location
+
+create back_yard
+set back_yard is_thing
+set back_yard is_location
+
+create attic
+set attic is_thing
+set attic is_location
+
+create porch
+set porch is_thing
+set porch is_location
+
+create garage
+set garage is_thing
+set garage is_location
+
+create pantry
+set pantry is_thing
+set pantry is_location
+
+create playroom
+set playroom is_thing
+set playroom is_location
+
+create study
+set study is_thing
+set study is_location
+
+create garden
+set garden is_thing
+set garden is_location
+
+create hall
+set hall is_thing
+set hall is_location
+
+# objects
+
+create tomato
+set tomato is_thing
+set tomato is_gettable
+
+create peach
+set peach is_thing
+set peach is_gettable
+
+create lemon
+set lemon is_thing
+set lemon is_gettable
+
+create cherry
+set cherry is_thing
+set cherry is_gettable
+
+create lettuce
+set lettuce is_thing
+set lettuce is_gettable
+
+create eggplant
+set eggplant is_thing
+set eggplant is_gettable
+
+create turnip
+set turnip is_thing
+set turnip is_gettable
+
+create cabbage
+set cabbage is_thing
+set cabbage is_gettable
+
+create carrot
+set carrot is_thing
+set carrot is_gettable
+
+create tangerine
+set tangerine is_thing
+set tangerine is_gettable
+
+# containers
+
+create red_container
+set red_container is_thing
+set red_container is_container
+
+create red_suitcase
+set red_suitcase is_thing
+set red_suitcase is_container
+
+create blue_treasure_chest
+set blue_treasure_chest is_thing
+set blue_treasure_chest is_container
+
+create green_box
+set green_box is_thing
+set green_box is_container
+
+create red_bucket
+set red_bucket is_thing
+set red_bucket is_container
+
+create green_bucket
+set green_bucket is_thing
+set green_bucket is_container
+
+create green_crate
+set green_crate is_thing
+set green_crate is_container
+
+create red_bathtub
+set red_bathtub is_thing
+set red_bathtub is_container
+
+create red_treasure_chest
+set red_treasure_chest is_thing
+set red_treasure_chest is_container
+
+create green_container
+set green_container is_thing
+set green_container is_container
+
+# actors
+
+create Ethan
+set Ethan is_actor
+set Ethan is_god
+
+create Amelia
+set Amelia is_actor
+set Amelia is_god
+
+create Jack
+set Jack is_actor
+set Jack is_god
+
+create Isabella
+set Isabella is_actor
+set Isabella is_god
+
+create Carter
+set Carter is_actor
+set Carter is_god
+
+create Mason
+set Mason is_actor
+set Mason is_god
+
+create Jacob
+set Jacob is_actor
+set Jacob is_god
+
+create Sophia
+set Sophia is_actor
+set Sophia is_god
+
+create Nathan
+set Nathan is_actor
+set Nathan is_god
+
+create Emily
+set Emily is_actor
+set Emily is_god

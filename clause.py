@@ -20,7 +20,7 @@ class Question(Clause):
 
     def __init__(self, idx_support, action):
         self.idx_support = idx_support
-        super().__init__(None, action)
+        super().__init__(action)
 
     def render(self):
         return self.action.render_interrogative()

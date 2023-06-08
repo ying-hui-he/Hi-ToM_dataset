@@ -1,0 +1,46 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Sophia, Lily, Hannah, Owen and Avery entered the staircase.
+2 The onion is in the red_treasure_chest.
+3 Sophia moved the onion to the green_cupboard.
+4 Sophia exited the staircase and stayed in the waiting_room.
+5 Lily made no movements and stayed for 10 minutes.
+6 Lily exited the staircase and stayed in the waiting_room.
+7 Hannah made no movements and stayed for 10 minutes.
+8 Hannah exited the staircase and stayed in the waiting_room.
+9 Owen made no movements and stayed for 10 minutes.
+10 Owen exited the staircase and stayed in the waiting_room.
+11 Avery made no movements and stayed for 10 minutes.
+12 Avery exited the staircase and stayed in the waiting_room.
+13 Avery, Sophia and Hannah entered the staircase.
+14 The spinach is in the green_envelope.
+15 Avery moved the spinach to the blue_bottle.
+16 Avery exited the staircase and stayed in the waiting_room.
+17 Sophia made no movements and stayed for 10 minutes.
+18 Sophia exited the staircase and stayed in the waiting_room.
+19 Hannah moved the spinach to the green_cupboard.
+20 Hannah exited the staircase and stayed in the waiting_room.
+21 Avery publicly claimed that spinach is in the green_cupboard.
+22 Hannah privately told Lily that the spinach is actually in the green_cupboard.
+23 Owen, Avery, Hannah and Lily entered the workshop.
+24 The broccoli is in the blue_bucket.
+25 Owen made no movements and stayed for 10 minutes.
+26 Owen exited the workshop and stayed in the waiting_room.
+27 Avery moved the broccoli to the blue_container.
+28 Avery exited the workshop and stayed in the waiting_room.
+29 Hannah moved the broccoli to the green_container.
+30 Hannah exited the workshop and stayed in the waiting_room.
+31 Lily made no movements and stayed for 10 minutes.
+32 Lily exited the workshop and stayed in the waiting_room.
+33 Lily and Sophia entered the staircase.
+34 The spinach is in the green_cupboard.
+35 Lily moved the spinach to the green_crate.
+36 Lily exited the staircase and stayed in the waiting_room.
+37 Sophia made no movements and stayed for 10 minutes.
+38 Sophia exited the staircase and stayed in the waiting_room.
+39 Lily publicly claimed that spinach is in the green_cupboard.
+40 Sophia privately told Lily that the spinach is actually in the green_envelope.
+Question: Where is the onion really?
+Answer: green_cupboard
+Choices: A. blue_container, B. blue_bucket, C. blue_suitcase, D. green_container, E. red_drawer, F. red_basket, G. red_bathtub, H. red_cupboard, I. blue_drawer, J. green_bucket, K. red_treasure_chest, L. green_envelope, M. green_crate, N. blue_bottle, O. green_cupboard
+Note: 

@@ -84,6 +84,7 @@ def write_A2_chapter(
                     Clause(PrivateTellAction(oracle, a1, random.choice(outsiders),
                                              obj, tell_containers[0], trust=True))
                 ])
+    return chapter
 
 
 def write_A3_chapter(
@@ -166,6 +167,7 @@ def write_A3_chapter(
                     Clause(PrivateTellAction(oracle, a3, random.choice(outsiders),
                            obj, oracle.get_object_container(obj), trust=True))
                 ])
+    return chapter
 
 
 def write_A4_chapter(
@@ -257,6 +259,7 @@ def write_A4_chapter(
                     Clause(PrivateTellAction(oracle, a4, outsider,
                            obj, oracle.get_object_container(obj), trust=True))
                 ])
+    return chapter
 
 
 def write_A5_chapter(
@@ -341,6 +344,7 @@ def write_A5_chapter(
                     Clause(PrivateTellAction(oracle, a2, a4,
                            obj, tell_containers[1], trust=False))
                 ])
+    return chapter
 
 
 #######################################
@@ -424,11 +428,11 @@ class Specify_Tasks(Task):
             location = random_location
             containers = random_containers[5*i:5*i+5]
             oracle.set_containers(location, list(containers))
-
-        # Populate containers with objects
-        for i, random_object in enumerate(random_objects):
+            # Two of the containers have objects
             oracle.set_object_container(
-                random_object, random_containers[i])
+                random_objects[2*i], containers[0])
+            oracle.set_object_container(
+                random_objects[2*i+1], containers[1])
 
         # Need start state for memory question
         start_state = oracle.locations.obj_containers.copy()
@@ -464,13 +468,13 @@ class Specify_Tasks(Task):
                 )
             )
 
-        story.extend(sample_question(start_state, oracle,
+        story.append(sample_question(start_state, oracle,
                      random_actors, obj_in_question, question_idx=order))
 
         # Generate choices of containers
         choices = ', '.join(f'{chr(65+i)}. {container}' for i,
                             container in enumerate(random_containers))
-        story.extend('Choices: ' + choices + '\n')
+        story.append('Choices: ' + choices + '\n')
 
         # At the end, add noise sentences randomly
         if statement_noise:
