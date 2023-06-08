@@ -55,7 +55,7 @@ class FirstQ(Action):
         fill = (agent, obj, oracle.get_first_belief(agent, obj))
         templates = {
             'interrogative': [
-                'Question: Where does %s think the %s is?\nAnswer: %s' % fill,
+                'Question: Where does %s really think the %s is?\nAnswer: %s' % fill,
             ]
         }
         super().__init__(templates)
@@ -224,38 +224,6 @@ class MoveAction(Action):
 
         super().__init__(templates)
 
-# class PeekAction(Action):
-
-#     def __init__(self, oracle, args, observers=None):
-#         templates = {
-#             'declarative': [
-#                 '%s looked in the %s.' % args,
-#             ]
-#         }
-
-#         agent, container = args
-#         contents = oracle.get_container_obj(container)
-
-
-#         if not observers:
-#             observers = []
-
-#         observers.append(agent)
-#         # set direct beliefs
-#         for observer in observers:
-#             for obj in contents:
-#                 oracle.set_first_belief(observer, obj, container)
-
-
-#         # set indirect beliefs
-#         for observer1 in observers:
-#             for observer2 in observers:
-#                 if observer1 != observer2:
-#                     for obj in contents:
-#                         oracle.set_second_belief(observer1, observer2, obj, container)
-
-
-#         super().__init__(templates)
 
 class PublicTellAction(Action):
 
@@ -287,7 +255,7 @@ class PrivateTellAction(Action):
     def __init__(self, oracle, speaker, listener, obj, container, trust=True):
         templates = {
             'declarative': [
-                '%s privately told %s that the %s is actually in the %s.' % (
+                '%s privately told %s that the %s is in the %s.' % (
                     speaker, listener, obj, container),
             ]
         }
@@ -316,7 +284,7 @@ class EnterAction(Action):
             oracle.set_location(agent, location)
         objs = oracle.get_objects_at_location(location)
         observers = agents
-        
+
         # agent knows location of everything
         if not no_world_adjust:
             for obj in objs:

@@ -467,9 +467,14 @@ class Specify_Tasks(Task):
                     start_state, oracle, obj, location, agent_ids, random_actors, movements=movements, exist_tell=exist_tell_in_chapter
                 )
             )
+        # compute questions of all orders
+        for idx in range(5):
+            story.append(
+                sample_question(
+                    start_state, oracle,random_actors, obj_in_question, question_idx=idx
+                )
+            )
 
-        story.append(sample_question(start_state, oracle,
-                     random_actors, obj_in_question, question_idx=order))
 
         # Generate choices of containers
         choices = ', '.join(f'{chr(65+i)}. {container}' for i,

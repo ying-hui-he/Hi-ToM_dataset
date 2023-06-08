@@ -15,7 +15,8 @@ from world import World
 
 def generate_story_with_specified_chapters(
     world_paths, output_dir_path, n, noise=0.1, train_noise=False, order=-1, num_chapter=-1, exist_tell_in_story=False, prompt='CoT', exist_answer=False
-):
+): # prompt is dummy
+
     """Generates stories with guarantee that each task is seen n times."""
     mkdir_p(output_dir_path)
     n = n[0]
@@ -39,33 +40,36 @@ def generate_story_with_specified_chapters(
         # If order and num_chapter are not specified
         orders = [0, 1, 2, 3, 4] if order == -1 else [order]
         num_chapters = [1, 2, 3, 4] if num_chapter == -1 else [num_chapter]
-        for order_of_story in orders:
-            for length_of_story in num_chapters:
-                # Create folder to contain data
-                folder_name = f'{order_of_story}_order_{length_of_story}_chapters'
-                logging.info("Creating New task in %s..." % folder_name)
-                mkdir_p(os.path.join(output_dir_path, folder_name))
+        modes = ['MC', 'COT']
+        for length_of_story in num_chapters:   
+            # Create folder to contain data
+            folder_name_1 = f'length_{length_of_story}'
+            logging.info("Creating New task in %s..." % folder_name_1)
 
-                for i in range(n):
-                    fname = f'{order_of_story}order_{length_of_story}chap_{i}.txt'
-                    path = os.path.join(output_dir_path, folder_name, fname)
-
-                    with open(path, 'w', encoding='utf-8') as f:
-                        story = task.generate_story_qs_at_end(
+            for i in range(n):
+                folder_name_3 = f'length_{length_of_story}_sample_{i}'
+                story = task.generate_story_qs_at_end(
                             w, length_of_story, tasks_per_length[length_of_story -
-                                                                 1], num_agents=5,
-                            num_locations=3, statement_noise=noise, order=order_of_story, exist_tell_in_story=exist_tell_in_story
-                        )
-                        if prompt == 'MC':
-                            f.write(
-                                'Read the following story and answer the multiple-choice question. Please provide answer without explanations.\n')
-                        else:
-                            f.write(
-                                'Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.\n')
-                        f.write('Story:\n')
-                        f.write('\n'.join(stringify(story, exist_answer=exist_answer)))
-                        if not exist_answer:
-                            f.write('Note: You should assume the following. (1) A character A can infer another character B\'s mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others\' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won\'t hear them, but anyone can hear any public claims.\n')
+                                                                    1], num_agents=5,
+                            num_locations=3, statement_noise=noise, order=0, exist_tell_in_story=exist_tell_in_story
+                        ) # order = 0 is dummy here.
+                for mode in modes:
+                    folder_name_2 = mode
+                    for order_of_story in orders:                    
+                        file_name = f'length_{length_of_story}_sample_{i}_order_{order_of_story}.txt'
+                        os.makedirs(os.path.join(output_dir_path, folder_name_1, folder_name_2, folder_name_3), exist_ok=True)
+                        path = os.path.join(output_dir_path, folder_name_1, folder_name_2, folder_name_3, file_name)
+
+                        with open(path, 'w', encoding='utf-8') as f:
+                            if mode == 'MC':
+                                f.write(
+                                    'Read the following story and answer the multiple-choice question. Please provide answer without explanations.\n')
+                            else:
+                                f.write(
+                                    'Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.\n')
+                            f.write('Story:\n')
+                            f.write('\n'.join(stringify(story, exist_answer=exist_answer, order=order_of_story))) #exist_answer is dummy
+                            f.write('Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B\'s mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won\'t hear them, but anyone can hear any public claims.\n')
 
 
 def parse_args(args):
@@ -144,9 +148,12 @@ def main(args=sys.argv[1:]):
         level=args.logging, format='%(asctime)s\t%(levelname)-8s\t%(message)s'
     )
     folder_name = 'Tell/' if args.exist_tell else 'No_Tell/'
-    folder_name += args.prompt_type
 
-    output_dir_path = os.path.join(args.output_dir_path, folder_name) if args.exist_answer else os.path.join('prompt_ToMh', folder_name)
+    # folder_name += args.prompt_type
+    # output_dir_path = os.path.join(args.output_dir_path, folder_name) if args.exist_answer else os.path.join('prompt_ToMh', folder_name)
+    
+    output_dir_path = os.path.join(args.output_dir_path, folder_name)
+
     generate_story_with_specified_chapters(
         world_paths=args.world_paths,
         output_dir_path=output_dir_path,

@@ -1,12 +1,13 @@
 import numpy as np
 
 
-def stringify(story, exist_answer=False):
+def stringify(story, exist_answer=False, order=0): # exist_answer is dummy
 
     lines = []
 
     i = 0  # The number of descriptions processed
     j = 0  # The number of lines output
+    count_order = 0 # 
 
     while True:
 
@@ -22,8 +23,14 @@ def stringify(story, exist_answer=False):
             if not line.split()[0] == 'Question:':
                 line = '%d %s' % (i + 1, line)
 
-            if not exist_answer and 'Answer:' in line.split():  
-                line = line.splitlines()[0]      
+            if line.split()[0] == 'Question:':
+                if count_order == order:
+                    lines.append(line) 
+                    break
+                else:
+                    count_order += 1
+                    line = ''     
+
         lines.append(line)
         
             
