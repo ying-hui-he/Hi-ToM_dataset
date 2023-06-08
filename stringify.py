@@ -29,7 +29,7 @@ def stringify(story, exist_answer=False, order=0): # exist_answer is dummy
                     break
                 else:
                     count_order += 1
-                    line = ''     
+                    continue # The loop ends when encountering the question of matched order. Don't need counters(i, j) for termination.     
 
         lines.append(line)
         

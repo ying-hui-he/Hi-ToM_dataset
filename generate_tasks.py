@@ -43,7 +43,7 @@ def generate_story_with_specified_chapters(
         modes = ['MC', 'COT']
         for length_of_story in num_chapters:   
             # Create folder to contain data
-            folder_name_1 = f'length_{length_of_story}'
+            folder_name_2 = f'length_{length_of_story}'
             logging.info("Creating New task in %s..." % folder_name_1)
 
             for i in range(n):
@@ -54,7 +54,7 @@ def generate_story_with_specified_chapters(
                             num_locations=3, statement_noise=noise, order=0, exist_tell_in_story=exist_tell_in_story
                         ) # order = 0 is dummy here.
                 for mode in modes:
-                    folder_name_2 = mode
+                    folder_name_1 = mode
                     for order_of_story in orders:                    
                         file_name = f'length_{length_of_story}_sample_{i}_order_{order_of_story}.txt'
                         os.makedirs(os.path.join(output_dir_path, folder_name_1, folder_name_2, folder_name_3), exist_ok=True)
