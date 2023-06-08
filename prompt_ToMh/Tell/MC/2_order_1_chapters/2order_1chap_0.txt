@@ -1,20 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Gracie, Charlotte, Benjamin and Emma entered the pantry.
-2 The potato is in the blue_bucket.
-3 Logan moved the potato to the blue_box.
-4 Logan exited the pantry and stayed in the waiting_room.
-5 Gracie made no movements and stayed for 10 minutes.
-6 Gracie exited the pantry and stayed in the waiting_room.
-7 Charlotte moved the potato to the red_bucket.
-8 Charlotte exited the pantry and stayed in the waiting_room.
-9 Benjamin moved the potato to the red_bottle.
-10 Benjamin exited the pantry and stayed in the waiting_room.
-11 Emma made no movements and stayed for 10 minutes.
-12 Emma exited the pantry and stayed in the waiting_room.
-13 Charlotte publicly claimed that potato is in the blue_container.
-14 Emma privately told Charlotte that the potato is actually in the red_bucket.
-Question: Where does Gracie think Charlotte thinks the potato is?
-Answer: blue_container
-Choices: A. red_bathtub, B. green_treasure_chest, C. green_bathtub, D. blue_basket, E. red_container, F. blue_pantry, G. blue_suitcase, H. green_container, I. red_box, J. green_cupboard, K. blue_bucket, L. red_bucket, M. blue_box, N. blue_container, O. red_bottle
-Note: 
+1 Abigail, Benjamin, Elizabeth, Mila and Aria entered the cellar.
+2 The peas is in the red_bathtub.
+3 Abigail moved the peas to the green_treasure_chest.
+4 Abigail exited the cellar and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the cellar for 10 minutes.
+6 Benjamin exited the cellar and stayed in the waiting_room.
+7 Elizabeth made no movements and stayed in the cellar for 10 minutes.
+8 Elizabeth exited the cellar and stayed in the waiting_room.
+9 Mila made no movements and stayed in the cellar for 10 minutes.
+10 Mila exited the cellar and stayed in the waiting_room.
+11 Aria moved the peas to the red_bathtub.
+12 Aria exited the cellar and stayed in the waiting_room.
+13 Elizabeth publicly claimed that peas is in the blue_suitcase.
+14 Aria privately told Elizabeth that the peas is actually in the red_bathtub.
+Question: Where does Benjamin think Aria thinks the peas is?
+Choices: A. red_bottle, B. red_bucket, C. red_box, D. green_drawer, E. blue_crate, F. red_bathtub, G. blue_suitcase, H. blue_bucket, I. red_treasure_chest, J. green_treasure_chest, K. blue_cupboard, L. green_bottle, M. blue_bottle, N. red_drawer, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

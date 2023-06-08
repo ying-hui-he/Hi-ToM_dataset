@@ -181,10 +181,12 @@ class ExitedAction(Action):
 class MoveAction(Action):
 
     def __init__(self, oracle, args, observers=None, move=True):
+        agent, obj, container = args
         if not move:
+            location = oracle.get_container_location(container)
             templates = {
                 'declarative': [
-                    '%s made no movements and stayed for 10 minutes.' % args[0],
+                    f'{args[0]} made no movements and stayed in the {location} for 10 minutes.',
                 ]
             }
 
@@ -195,7 +197,6 @@ class MoveAction(Action):
                 ]
             }
 
-            agent, obj, container = args
             oracle.set_object_container(obj, container)
 
             if not observers:

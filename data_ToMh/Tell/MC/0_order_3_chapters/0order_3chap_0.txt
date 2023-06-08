@@ -1,40 +1,39 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Jack, Ethan, Jacob and Evelyn entered the hall.
-2 The persimmon is in the green_basket.
-3 Olivia made no movements and stayed for 10 minutes.
-4 Olivia exited the hall and stayed in the waiting_room.
-5 Jack made no movements and stayed for 10 minutes.
-6 Jack exited the hall and stayed in the waiting_room.
-7 Ethan moved the persimmon to the blue_pantry.
-8 Ethan exited the hall and stayed in the waiting_room.
-9 Jacob made no movements and stayed for 10 minutes.
-10 Jacob exited the hall and stayed in the waiting_room.
-11 Evelyn made no movements and stayed for 10 minutes.
-12 Evelyn exited the hall and stayed in the waiting_room.
-13 Ethan privately told Olivia that the persimmon is actually in the blue_pantry.
-14 Jack privately told Jacob that the persimmon is actually in the blue_bathtub.
-15 Evelyn, Jack and Ethan entered the den.
-16 The melon is in the red_pantry.
-17 Evelyn moved the melon to the blue_basket.
-18 Evelyn exited the den and stayed in the waiting_room.
-19 Jack moved the melon to the blue_container.
-20 Jack exited the den and stayed in the waiting_room.
-21 Ethan moved the melon to the red_container.
-22 Ethan exited the den and stayed in the waiting_room.
-23 Olivia, Ethan, Evelyn and Jacob entered the den.
-24 The melon is in the red_container.
-25 Olivia made no movements and stayed for 10 minutes.
-26 Olivia exited the den and stayed in the waiting_room.
-27 Ethan moved the melon to the blue_basket.
-28 Ethan exited the den and stayed in the waiting_room.
-29 Evelyn made no movements and stayed for 10 minutes.
-30 Evelyn exited the den and stayed in the waiting_room.
-31 Jacob moved the melon to the blue_container.
-32 Jacob exited the den and stayed in the waiting_room.
-33 Ethan publicly claimed that melon is in the blue_container.
-34 Jacob privately told Evelyn that the melon is actually in the red_bucket.
-Question: Where is the persimmon really?
-Answer: blue_pantry
-Choices: A. red_bucket, B. red_pantry, C. blue_container, D. red_container, E. blue_basket, F. red_crate, G. green_drawer, H. red_envelope, I. blue_drawer, J. blue_envelope, K. green_basket, L. blue_pantry, M. red_bottle, N. red_box, O. blue_bathtub
-Note: 
+1 Avery, Elizabeth, Benjamin, Aria and Ethan entered the sunroom.
+2 The sweet_potato is in the green_box.
+3 Avery moved the sweet_potato to the green_suitcase.
+4 Avery exited the sunroom and stayed in the waiting_room.
+5 Elizabeth made no movements and stayed in the sunroom for 10 minutes.
+6 Elizabeth exited the sunroom and stayed in the waiting_room.
+7 Benjamin moved the sweet_potato to the green_bathtub.
+8 Benjamin exited the sunroom and stayed in the waiting_room.
+9 Aria made no movements and stayed in the sunroom for 10 minutes.
+10 Aria exited the sunroom and stayed in the waiting_room.
+11 Ethan moved the sweet_potato to the green_box.
+12 Ethan exited the sunroom and stayed in the waiting_room.
+13 Benjamin publicly claimed that sweet_potato is in the green_bathtub.
+14 Ethan privately told Benjamin that the sweet_potato is actually in the green_suitcase.
+15 Ethan, Benjamin and Aria entered the crawlspace.
+16 The tomato is in the red_bottle.
+17 Ethan made no movements and stayed in the crawlspace for 10 minutes.
+18 Ethan exited the crawlspace and stayed in the waiting_room.
+19 Benjamin moved the tomato to the blue_suitcase.
+20 Benjamin exited the crawlspace and stayed in the waiting_room.
+21 Aria made no movements and stayed in the crawlspace for 10 minutes.
+22 Aria exited the crawlspace and stayed in the waiting_room.
+23 Benjamin, Avery, Ethan and Aria entered the laundry.
+24 The pumpkin is in the green_bucket.
+25 Benjamin made no movements and stayed in the laundry for 10 minutes.
+26 Benjamin exited the laundry and stayed in the waiting_room.
+27 Avery moved the pumpkin to the blue_bucket.
+28 Avery exited the laundry and stayed in the waiting_room.
+29 Ethan moved the pumpkin to the green_cupboard.
+30 Ethan exited the laundry and stayed in the waiting_room.
+31 Aria made no movements and stayed in the laundry for 10 minutes.
+32 Aria exited the laundry and stayed in the waiting_room.
+33 Benjamin publicly claimed that pumpkin is in the green_cupboard.
+34 Aria privately told Elizabeth that the pumpkin is actually in the green_cupboard.
+Question: Where is the sweet_potato really?
+Answer: green_box
+Choices: A. blue_suitcase, B. red_bottle, C. blue_drawer, D. red_box, E. blue_container, F. green_bucket, G. green_cupboard, H. red_bucket, I. red_drawer, J. blue_bucket, K. green_box, L. blue_bottle, M. green_suitcase, N. red_envelope, O. green_bathtub

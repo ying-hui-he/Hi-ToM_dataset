@@ -1,28 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Mila, Nathan, Aiden and Ella entered the cellar.
-2 The grapefruit is in the green_crate.
-3 Evelyn made no movements and stayed for 10 minutes.
-4 Evelyn exited the cellar and stayed in the waiting_room.
-5 Mila made no movements and stayed for 10 minutes.
-6 Mila exited the cellar and stayed in the waiting_room.
-7 Nathan made no movements and stayed for 10 minutes.
-8 Nathan exited the cellar and stayed in the waiting_room.
-9 Aiden made no movements and stayed for 10 minutes.
-10 Aiden exited the cellar and stayed in the waiting_room.
-11 Ella moved the grapefruit to the green_crate.
-12 Ella exited the cellar and stayed in the waiting_room.
-13 Nathan, Aiden and Mila entered the cellar.
-14 The spinach is in the red_drawer.
-15 Nathan moved the spinach to the green_crate.
-16 Nathan exited the cellar and stayed in the waiting_room.
-17 Aiden moved the spinach to the red_bathtub.
-18 Aiden exited the cellar and stayed in the waiting_room.
-19 Mila made no movements and stayed for 10 minutes.
-20 Mila exited the cellar and stayed in the waiting_room.
-21 Mila publicly claimed that spinach is in the red_bathtub.
-22 Nathan privately told Mila that the spinach is actually in the blue_basket.
-Question: Where is the grapefruit really?
-Answer: green_crate
-Choices: A. red_drawer, B. green_crate, C. blue_pantry, D. blue_basket, E. red_bathtub, F. red_container, G. green_bathtub, H. blue_envelope, I. blue_bucket, J. blue_bottle, K. green_envelope, L. red_bottle, M. blue_container, N. blue_treasure_chest, O. green_box
-Note: 
+1 Hannah, William, Emily, Jackson and Alexander entered the workshop.
+2 The radish is in the blue_box.
+3 Hannah moved the radish to the blue_cupboard.
+4 Hannah exited the workshop and stayed in the waiting_room.
+5 William moved the radish to the red_cupboard.
+6 William exited the workshop and stayed in the waiting_room.
+7 Emily moved the radish to the green_envelope.
+8 Emily exited the workshop and stayed in the waiting_room.
+9 Jackson moved the radish to the green_treasure_chest.
+10 Jackson exited the workshop and stayed in the waiting_room.
+11 Alexander made no movements and stayed in the workshop for 10 minutes.
+12 Alexander exited the workshop and stayed in the waiting_room.
+13 Hannah, William and Alexander entered the workshop.
+14 The pineapple is in the green_envelope.
+15 Hannah moved the pineapple to the blue_cupboard.
+16 Hannah exited the workshop and stayed in the waiting_room.
+17 William moved the pineapple to the blue_box.
+18 William exited the workshop and stayed in the waiting_room.
+19 Alexander moved the pineapple to the red_cupboard.
+20 Alexander exited the workshop and stayed in the waiting_room.
+21 Alexander publicly claimed that pineapple is in the green_envelope.
+22 Hannah privately told Alexander that the pineapple is actually in the green_treasure_chest.
+Question: Where is the radish really?
+Choices: A. green_envelope, B. blue_box, C. red_cupboard, D. green_treasure_chest, E. blue_cupboard, F. red_basket, G. red_container, H. green_box, I. blue_basket, J. blue_container, K. blue_bucket, L. red_bucket, M. green_bottle, N. red_box, O. red_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

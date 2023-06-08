@@ -1,42 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Nathan, Aria, Emma, Lily and Sophia entered the workshop.
-2 The watermelon is in the red_cupboard.
-3 Nathan moved the watermelon to the red_suitcase.
-4 Nathan exited the workshop and stayed in the waiting_room.
-5 Aria moved the watermelon to the blue_box.
-6 Aria exited the workshop and stayed in the waiting_room.
-7 Emma made no movements and stayed for 10 minutes.
-8 Emma exited the workshop and stayed in the waiting_room.
-9 Lily made no movements and stayed for 10 minutes.
-10 Lily exited the workshop and stayed in the waiting_room.
-11 Sophia made no movements and stayed for 10 minutes.
-12 Sophia exited the workshop and stayed in the waiting_room.
-13 Lily, Emma and Aria entered the basement.
-14 The pumpkin is in the red_basket.
-15 Lily made no movements and stayed for 10 minutes.
-16 Lily exited the basement and stayed in the waiting_room.
-17 Emma moved the pumpkin to the blue_container.
-18 Emma exited the basement and stayed in the waiting_room.
-19 Aria moved the pumpkin to the blue_drawer.
-20 Aria exited the basement and stayed in the waiting_room.
-21 Lily, Emma, Sophia and Aria entered the workshop.
-22 The cabbage is in the red_container.
-23 Lily made no movements and stayed for 10 minutes.
-24 Lily exited the workshop and stayed in the waiting_room.
-25 Emma made no movements and stayed for 10 minutes.
-26 Emma exited the workshop and stayed in the waiting_room.
-27 Sophia made no movements and stayed for 10 minutes.
-28 Sophia exited the workshop and stayed in the waiting_room.
-29 Aria moved the cabbage to the blue_box.
-30 Aria exited the workshop and stayed in the waiting_room.
-31 Sophia and Emma entered the basement.
-32 The radish is in the blue_crate.
-33 Sophia moved the radish to the red_basket.
-34 Sophia exited the basement and stayed in the waiting_room.
-35 Emma made no movements and stayed for 10 minutes.
-36 Emma exited the basement and stayed in the waiting_room.
-Question: Where does Sophia think the watermelon is?
-Answer: blue_box
-Choices: A. green_bathtub, B. green_crate, C. green_envelope, D. red_bottle, E. red_bucket, F. red_container, G. red_cupboard, H. red_suitcase, I. blue_bottle, J. blue_box, K. red_basket, L. blue_crate, M. blue_container, N. red_drawer, O. blue_drawer
-Note: 
+1 Emily, Isabella, Alexander, Noah and Nathan entered the garden.
+2 The broccoli is in the blue_box.
+3 Emily moved the broccoli to the red_bucket.
+4 Emily exited the garden and stayed in the waiting_room.
+5 Isabella moved the broccoli to the green_pantry.
+6 Isabella exited the garden and stayed in the waiting_room.
+7 Alexander made no movements and stayed in the garden for 10 minutes.
+8 Alexander exited the garden and stayed in the waiting_room.
+9 Noah made no movements and stayed in the garden for 10 minutes.
+10 Noah exited the garden and stayed in the waiting_room.
+11 Nathan moved the broccoli to the blue_box.
+12 Nathan exited the garden and stayed in the waiting_room.
+13 Emily, Noah and Alexander entered the garden.
+14 The pineapple is in the red_bucket.
+15 Emily moved the pineapple to the blue_treasure_chest.
+16 Emily exited the garden and stayed in the waiting_room.
+17 Noah made no movements and stayed in the garden for 10 minutes.
+18 Noah exited the garden and stayed in the waiting_room.
+19 Alexander made no movements and stayed in the garden for 10 minutes.
+20 Alexander exited the garden and stayed in the waiting_room.
+21 Isabella, Emily, Noah and Alexander entered the garden.
+22 The pineapple is in the blue_treasure_chest.
+23 Isabella made no movements and stayed in the garden for 10 minutes.
+24 Isabella exited the garden and stayed in the waiting_room.
+25 Emily moved the pineapple to the green_pantry.
+26 Emily exited the garden and stayed in the waiting_room.
+27 Noah moved the pineapple to the red_bucket.
+28 Noah exited the garden and stayed in the waiting_room.
+29 Alexander made no movements and stayed in the garden for 10 minutes.
+30 Alexander exited the garden and stayed in the waiting_room.
+31 Isabella and Nathan entered the kitchen.
+32 The banana is in the blue_bottle.
+33 Isabella moved the banana to the green_bottle.
+34 Isabella exited the kitchen and stayed in the waiting_room.
+35 Nathan made no movements and stayed in the kitchen for 10 minutes.
+36 Nathan exited the kitchen and stayed in the waiting_room.
+Question: Where does Alexander think the broccoli is?
+Choices: A. red_bucket, B. blue_box, C. green_envelope, D. green_pantry, E. blue_treasure_chest, F. green_bottle, G. blue_bottle, H. green_bathtub, I. red_envelope, J. red_container, K. green_treasure_chest, L. green_suitcase, M. red_treasure_chest, N. red_drawer, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

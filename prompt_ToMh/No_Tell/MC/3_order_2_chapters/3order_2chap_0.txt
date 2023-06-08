@@ -1,26 +1,25 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Lily, Amelia, Owen, Abigail and Nathan entered the laundry.
-2 The turnip is in the green_pantry.
-3 Lily moved the turnip to the blue_bottle.
-4 Lily exited the laundry and stayed in the waiting_room.
-5 Amelia made no movements and stayed for 10 minutes.
-6 Amelia exited the laundry and stayed in the waiting_room.
-7 Owen moved the turnip to the green_treasure_chest.
-8 Owen exited the laundry and stayed in the waiting_room.
-9 Abigail made no movements and stayed for 10 minutes.
-10 Abigail exited the laundry and stayed in the waiting_room.
-11 Nathan moved the turnip to the green_pantry.
-12 Nathan exited the laundry and stayed in the waiting_room.
-13 Owen, Nathan and Lily entered the workshop.
-14 The cucumber is in the blue_pantry.
-15 Owen moved the cucumber to the blue_drawer.
-16 Owen exited the workshop and stayed in the waiting_room.
-17 Nathan moved the cucumber to the red_box.
-18 Nathan exited the workshop and stayed in the waiting_room.
-19 Lily made no movements and stayed for 10 minutes.
-20 Lily exited the workshop and stayed in the waiting_room.
-Question: Where does Abigail think Owen thinks Lily thinks the turnip is?
-Answer: None
-Choices: A. green_pantry, B. red_bucket, C. green_treasure_chest, D. blue_basket, E. blue_bottle, F. blue_pantry, G. red_box, H. blue_crate, I. blue_drawer, J. red_cupboard, K. red_treasure_chest, L. blue_container, M. blue_treasure_chest, N. green_cupboard, O. green_crate
-Note: 
+1 Lucas, Ella, Isabella, Charlotte and Hannah entered the lounge.
+2 The spinach is in the red_bathtub.
+3 Lucas made no movements and stayed in the lounge for 10 minutes.
+4 Lucas exited the lounge and stayed in the waiting_room.
+5 Ella moved the spinach to the green_suitcase.
+6 Ella exited the lounge and stayed in the waiting_room.
+7 Isabella made no movements and stayed in the lounge for 10 minutes.
+8 Isabella exited the lounge and stayed in the waiting_room.
+9 Charlotte made no movements and stayed in the lounge for 10 minutes.
+10 Charlotte exited the lounge and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the lounge for 10 minutes.
+12 Hannah exited the lounge and stayed in the waiting_room.
+13 Ella, Isabella and Hannah entered the lounge.
+14 The peas is in the green_suitcase.
+15 Ella made no movements and stayed in the lounge for 10 minutes.
+16 Ella exited the lounge and stayed in the waiting_room.
+17 Isabella moved the peas to the red_bathtub.
+18 Isabella exited the lounge and stayed in the waiting_room.
+19 Hannah moved the peas to the green_bottle.
+20 Hannah exited the lounge and stayed in the waiting_room.
+Question: Where does Ella think Hannah thinks Lucas thinks the spinach is?
+Choices: A. red_bathtub, B. green_suitcase, C. green_bottle, D. red_container, E. blue_box, F. blue_drawer, G. red_box, H. green_drawer, I. green_cupboard, J. blue_basket, K. red_bottle, L. green_box, M. blue_suitcase, N. blue_bottle, O. green_envelope
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

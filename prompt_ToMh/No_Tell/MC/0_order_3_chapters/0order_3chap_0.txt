@@ -1,36 +1,35 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Evelyn, Ethan, Benjamin, Isla and Ella entered the den.
-2 The orange is in the green_pantry.
-3 Evelyn made no movements and stayed for 10 minutes.
-4 Evelyn exited the den and stayed in the waiting_room.
-5 Ethan moved the orange to the green_box.
-6 Ethan exited the den and stayed in the waiting_room.
-7 Benjamin moved the orange to the red_cupboard.
-8 Benjamin exited the den and stayed in the waiting_room.
-9 Isla made no movements and stayed for 10 minutes.
-10 Isla exited the den and stayed in the waiting_room.
-11 Ella moved the orange to the green_pantry.
-12 Ella exited the den and stayed in the waiting_room.
-13 Ethan, Benjamin and Ella entered the bedroom.
-14 The pear is in the red_drawer.
-15 Ethan made no movements and stayed for 10 minutes.
-16 Ethan exited the bedroom and stayed in the waiting_room.
-17 Benjamin moved the pear to the red_bottle.
-18 Benjamin exited the bedroom and stayed in the waiting_room.
-19 Ella made no movements and stayed for 10 minutes.
-20 Ella exited the bedroom and stayed in the waiting_room.
-21 Ella, Benjamin, Isla and Evelyn entered the bedroom.
-22 The pear is in the red_bottle.
-23 Ella made no movements and stayed for 10 minutes.
-24 Ella exited the bedroom and stayed in the waiting_room.
-25 Benjamin moved the pear to the blue_crate.
-26 Benjamin exited the bedroom and stayed in the waiting_room.
-27 Isla made no movements and stayed for 10 minutes.
-28 Isla exited the bedroom and stayed in the waiting_room.
-29 Evelyn made no movements and stayed for 10 minutes.
-30 Evelyn exited the bedroom and stayed in the waiting_room.
-Question: Where is the orange really?
-Answer: green_pantry
-Choices: A. red_cupboard, B. green_pantry, C. green_box, D. green_container, E. blue_container, F. green_treasure_chest, G. blue_basket, H. blue_bottle, I. blue_treasure_chest, J. green_crate, K. red_basket, L. red_drawer, M. red_bottle, N. blue_crate, O. green_bathtub
-Note: 
+1 Liam, Emma, Lucas, Elizabeth and Hannah entered the workshop.
+2 The grapefruit is in the green_box.
+3 Liam made no movements and stayed in the workshop for 10 minutes.
+4 Liam exited the workshop and stayed in the waiting_room.
+5 Emma made no movements and stayed in the workshop for 10 minutes.
+6 Emma exited the workshop and stayed in the waiting_room.
+7 Lucas made no movements and stayed in the workshop for 10 minutes.
+8 Lucas exited the workshop and stayed in the waiting_room.
+9 Elizabeth moved the grapefruit to the red_bottle.
+10 Elizabeth exited the workshop and stayed in the waiting_room.
+11 Hannah moved the grapefruit to the green_box.
+12 Hannah exited the workshop and stayed in the waiting_room.
+13 Elizabeth, Emma and Liam entered the workshop.
+14 The grapefruit is in the green_box.
+15 Elizabeth moved the grapefruit to the red_container.
+16 Elizabeth exited the workshop and stayed in the waiting_room.
+17 Emma moved the grapefruit to the blue_treasure_chest.
+18 Emma exited the workshop and stayed in the waiting_room.
+19 Liam moved the grapefruit to the red_bottle.
+20 Liam exited the workshop and stayed in the waiting_room.
+21 Lucas, Elizabeth, Hannah and Emma entered the workshop.
+22 The peas is in the red_bottle.
+23 Lucas moved the peas to the blue_treasure_chest.
+24 Lucas exited the workshop and stayed in the waiting_room.
+25 Elizabeth moved the peas to the blue_suitcase.
+26 Elizabeth exited the workshop and stayed in the waiting_room.
+27 Hannah made no movements and stayed in the workshop for 10 minutes.
+28 Hannah exited the workshop and stayed in the waiting_room.
+29 Emma moved the peas to the green_box.
+30 Emma exited the workshop and stayed in the waiting_room.
+Question: Where is the grapefruit really?
+Choices: A. blue_bottle, B. green_cupboard, C. blue_basket, D. green_bucket, E. red_treasure_chest, F. blue_bucket, G. red_envelope, H. red_bucket, I. blue_cupboard, J. blue_container, K. green_box, L. red_bottle, M. blue_treasure_chest, N. blue_suitcase, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

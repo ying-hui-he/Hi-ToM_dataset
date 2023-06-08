@@ -34,7 +34,7 @@ def generate_story_with_specified_chapters(
             [('A5', True), ('A3', False), ('A4', True)],  # 3 chapters
             [('A5', False), ('A3', True),
              ('A4', False), ('A2', True)],  # 4 chapters
-        ])
+        ], dtype=object)
 
         # If order and num_chapter are not specified
         orders = [0, 1, 2, 3, 4] if order == -1 else [order]
@@ -64,7 +64,8 @@ def generate_story_with_specified_chapters(
                                 'Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.\n')
                         f.write('Story:\n')
                         f.write('\n'.join(stringify(story, exist_answer=exist_answer)))
-                        f.write('Note: \n')
+                        if not exist_answer:
+                            f.write('Note: You should assume the following. (1) A character A can infer another character B\'s mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others\' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won\'t hear them, but anyone can hear any public claims.\n')
 
 
 def parse_args(args):

@@ -1,45 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Emma, Jayden, Abigail, Aria and Jacob entered the pantry.
-2 The grapefruit is in the blue_basket.
-3 Emma moved the grapefruit to the blue_bottle.
-4 Emma exited the pantry and stayed in the waiting_room.
-5 Jayden moved the grapefruit to the red_bucket.
-6 Jayden exited the pantry and stayed in the waiting_room.
-7 Abigail moved the grapefruit to the red_suitcase.
-8 Abigail exited the pantry and stayed in the waiting_room.
-9 Aria made no movements and stayed for 10 minutes.
-10 Aria exited the pantry and stayed in the waiting_room.
-11 Jacob moved the grapefruit to the blue_basket.
-12 Jacob exited the pantry and stayed in the waiting_room.
-13 Emma, Abigail and Jacob entered the pantry.
-14 The cherry is in the blue_bottle.
-15 Emma moved the cherry to the blue_crate.
-16 Emma exited the pantry and stayed in the waiting_room.
-17 Abigail moved the cherry to the red_suitcase.
-18 Abigail exited the pantry and stayed in the waiting_room.
-19 Jacob moved the cherry to the blue_basket.
-20 Jacob exited the pantry and stayed in the waiting_room.
-21 Jacob publicly claimed that cherry is in the blue_crate.
-22 Emma privately told Jacob that the cherry is actually in the blue_basket.
-23 Aria, Jayden, Jacob and Emma entered the pantry.
-24 The cherry is in the blue_basket.
-25 Aria moved the cherry to the red_suitcase.
-26 Aria exited the pantry and stayed in the waiting_room.
-27 Jayden made no movements and stayed for 10 minutes.
-28 Jayden exited the pantry and stayed in the waiting_room.
-29 Jacob moved the cherry to the blue_bottle.
-30 Jacob exited the pantry and stayed in the waiting_room.
-31 Emma made no movements and stayed for 10 minutes.
-32 Emma exited the pantry and stayed in the waiting_room.
-33 Jayden and Emma entered the den.
-34 The watermelon is in the blue_envelope.
-35 Jayden moved the watermelon to the green_cupboard.
-36 Jayden exited the den and stayed in the waiting_room.
-37 Emma made no movements and stayed for 10 minutes.
-38 Emma exited the den and stayed in the waiting_room.
-39 Jayden privately told Jacob that the watermelon is actually in the blue_envelope.
-Question: Where does Abigail think Aria thinks Emma thinks the grapefruit is?
-Answer: blue_bottle
-Choices: A. red_cupboard, B. blue_envelope, C. green_crate, D. green_cupboard, E. green_bucket, F. red_box, G. green_box, H. red_container, I. blue_suitcase, J. red_treasure_chest, K. blue_bottle, L. blue_basket, M. red_suitcase, N. blue_crate, O. red_bucket
-Note: 
+1 Sophia, Jackson, Jayden, Lily and Gracie entered the master_bedroom.
+2 The peach is in the red_cupboard.
+3 Sophia made no movements and stayed in the master_bedroom for 10 minutes.
+4 Sophia exited the master_bedroom and stayed in the waiting_room.
+5 Jackson moved the peach to the blue_crate.
+6 Jackson exited the master_bedroom and stayed in the waiting_room.
+7 Jayden moved the peach to the blue_box.
+8 Jayden exited the master_bedroom and stayed in the waiting_room.
+9 Lily moved the peach to the red_drawer.
+10 Lily exited the master_bedroom and stayed in the waiting_room.
+11 Gracie moved the peach to the red_cupboard.
+12 Gracie exited the master_bedroom and stayed in the waiting_room.
+13 Jackson, Gracie and Lily entered the hall.
+14 The pineapple is in the red_treasure_chest.
+15 Jackson moved the pineapple to the green_bathtub.
+16 Jackson exited the hall and stayed in the waiting_room.
+17 Gracie made no movements and stayed in the hall for 10 minutes.
+18 Gracie exited the hall and stayed in the waiting_room.
+19 Lily made no movements and stayed in the hall for 10 minutes.
+20 Lily exited the hall and stayed in the waiting_room.
+21 Gracie privately told Lily that the pineapple is actually in the red_treasure_chest.
+22 Lily privately told Sophia that the pineapple is actually in the green_bathtub.
+23 Jayden, Jackson, Lily and Gracie entered the hall.
+24 The pineapple is in the green_bathtub.
+25 Jayden made no movements and stayed in the hall for 10 minutes.
+26 Jayden exited the hall and stayed in the waiting_room.
+27 Jackson made no movements and stayed in the hall for 10 minutes.
+28 Jackson exited the hall and stayed in the waiting_room.
+29 Lily made no movements and stayed in the hall for 10 minutes.
+30 Lily exited the hall and stayed in the waiting_room.
+31 Gracie made no movements and stayed in the hall for 10 minutes.
+32 Gracie exited the hall and stayed in the waiting_room.
+33 Jackson and Sophia entered the basement.
+34 The banana is in the red_envelope.
+35 Jackson moved the banana to the green_box.
+36 Jackson exited the basement and stayed in the waiting_room.
+37 Sophia moved the banana to the red_bathtub.
+38 Sophia exited the basement and stayed in the waiting_room.
+39 Jackson privately told Gracie that the banana is actually in the green_box.
+Question: Where does Lily think Jayden thinks Sophia thinks the peach is?
+Choices: A. red_envelope, B. red_basket, C. red_container, D. red_bathtub, E. green_box, F. blue_bottle, G. red_treasure_chest, H. blue_basket, I. blue_container, J. green_bathtub, K. red_cupboard, L. red_drawer, M. blue_crate, N. green_envelope, O. blue_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

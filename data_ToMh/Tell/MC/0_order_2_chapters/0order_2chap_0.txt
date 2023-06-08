@@ -1,28 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jacob, Lily, William, Noah and James entered the sunroom.
-2 The asparagus is in the green_bucket.
-3 Jacob made no movements and stayed for 10 minutes.
-4 Jacob exited the sunroom and stayed in the waiting_room.
-5 Lily made no movements and stayed for 10 minutes.
-6 Lily exited the sunroom and stayed in the waiting_room.
-7 William moved the asparagus to the red_envelope.
-8 William exited the sunroom and stayed in the waiting_room.
-9 Noah made no movements and stayed for 10 minutes.
-10 Noah exited the sunroom and stayed in the waiting_room.
-11 James moved the asparagus to the green_bucket.
-12 James exited the sunroom and stayed in the waiting_room.
-13 Jacob, Noah and William entered the pantry.
-14 The beans is in the green_container.
-15 Jacob made no movements and stayed for 10 minutes.
-16 Jacob exited the pantry and stayed in the waiting_room.
-17 Noah made no movements and stayed for 10 minutes.
-18 Noah exited the pantry and stayed in the waiting_room.
-19 William made no movements and stayed for 10 minutes.
-20 William exited the pantry and stayed in the waiting_room.
-21 Jacob publicly claimed that beans is in the green_bathtub.
-22 William privately told James that the beans is actually in the green_container.
-Question: Where is the asparagus really?
-Answer: green_bucket
-Choices: A. green_box, B. red_basket, C. blue_envelope, D. green_envelope, E. green_drawer, F. green_bucket, G. red_envelope, H. blue_bathtub, I. red_crate, J. blue_crate, K. red_pantry, L. green_container, M. green_bathtub, N. red_bucket, O. red_bottle
-Note: 
+1 Elizabeth, Noah, Logan, Lucas and Avery entered the TV_room.
+2 The peach is in the blue_bottle.
+3 Elizabeth made no movements and stayed in the TV_room for 10 minutes.
+4 Elizabeth exited the TV_room and stayed in the waiting_room.
+5 Noah moved the peach to the green_bathtub.
+6 Noah exited the TV_room and stayed in the waiting_room.
+7 Logan moved the peach to the green_treasure_chest.
+8 Logan exited the TV_room and stayed in the waiting_room.
+9 Lucas made no movements and stayed in the TV_room for 10 minutes.
+10 Lucas exited the TV_room and stayed in the waiting_room.
+11 Avery made no movements and stayed in the TV_room for 10 minutes.
+12 Avery exited the TV_room and stayed in the waiting_room.
+13 Elizabeth, Avery and Lucas entered the closet.
+14 The onion is in the green_envelope.
+15 Elizabeth moved the onion to the green_suitcase.
+16 Elizabeth exited the closet and stayed in the waiting_room.
+17 Avery moved the onion to the green_bucket.
+18 Avery exited the closet and stayed in the waiting_room.
+19 Lucas moved the onion to the green_pantry.
+20 Lucas exited the closet and stayed in the waiting_room.
+21 Avery publicly claimed that onion is in the green_pantry.
+22 Lucas privately told Avery that the onion is actually in the red_bucket.
+Question: Where is the peach really?
+Answer: green_treasure_chest
+Choices: A. green_bathtub, B. blue_bottle, C. blue_basket, D. green_treasure_chest, E. red_envelope, F. blue_cupboard, G. blue_suitcase, H. blue_bucket, I. blue_crate, J. red_box, K. green_pantry, L. green_envelope, M. green_suitcase, N. red_bucket, O. green_bucket

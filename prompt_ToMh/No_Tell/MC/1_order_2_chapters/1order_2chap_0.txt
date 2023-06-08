@@ -1,26 +1,25 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Logan, Abigail, Lily, Ella and Jackson entered the porch.
-2 The grapefruit is in the blue_basket.
-3 Logan moved the grapefruit to the blue_crate.
-4 Logan exited the porch and stayed in the waiting_room.
-5 Abigail made no movements and stayed for 10 minutes.
-6 Abigail exited the porch and stayed in the waiting_room.
-7 Lily made no movements and stayed for 10 minutes.
-8 Lily exited the porch and stayed in the waiting_room.
-9 Ella moved the grapefruit to the green_bathtub.
-10 Ella exited the porch and stayed in the waiting_room.
-11 Jackson moved the grapefruit to the blue_basket.
-12 Jackson exited the porch and stayed in the waiting_room.
-13 Abigail, Logan and Jackson entered the garden.
-14 The tangerine is in the red_treasure_chest.
-15 Abigail moved the tangerine to the blue_drawer.
-16 Abigail exited the garden and stayed in the waiting_room.
-17 Logan moved the tangerine to the blue_container.
-18 Logan exited the garden and stayed in the waiting_room.
-19 Jackson moved the tangerine to the green_envelope.
-20 Jackson exited the garden and stayed in the waiting_room.
-Question: Where does Logan think the grapefruit is?
-Answer: blue_crate
-Choices: A. blue_basket, B. blue_crate, C. red_bottle, D. green_bathtub, E. blue_suitcase, F. blue_container, G. red_treasure_chest, H. blue_pantry, I. blue_drawer, J. green_envelope, K. blue_box, L. green_pantry, M. blue_bucket, N. blue_treasure_chest, O. green_bucket
-Note: 
+1 Emily, Avery, Abigail, Isla and Elizabeth entered the attic.
+2 The pear is in the green_cupboard.
+3 Emily made no movements and stayed in the attic for 10 minutes.
+4 Emily exited the attic and stayed in the waiting_room.
+5 Avery made no movements and stayed in the attic for 10 minutes.
+6 Avery exited the attic and stayed in the waiting_room.
+7 Abigail made no movements and stayed in the attic for 10 minutes.
+8 Abigail exited the attic and stayed in the waiting_room.
+9 Isla moved the pear to the green_box.
+10 Isla exited the attic and stayed in the waiting_room.
+11 Elizabeth made no movements and stayed in the attic for 10 minutes.
+12 Elizabeth exited the attic and stayed in the waiting_room.
+13 Emily, Avery and Elizabeth entered the bedroom.
+14 The peas is in the red_cupboard.
+15 Emily made no movements and stayed in the bedroom for 10 minutes.
+16 Emily exited the bedroom and stayed in the waiting_room.
+17 Avery made no movements and stayed in the bedroom for 10 minutes.
+18 Avery exited the bedroom and stayed in the waiting_room.
+19 Elizabeth made no movements and stayed in the bedroom for 10 minutes.
+20 Elizabeth exited the bedroom and stayed in the waiting_room.
+Question: Where does Abigail think the pear is?
+Choices: A. red_basket, B. red_cupboard, C. blue_basket, D. green_treasure_chest, E. blue_cupboard, F. green_cupboard, G. red_bathtub, H. red_bottle, I. blue_suitcase, J. green_box, K. blue_crate, L. red_envelope, M. green_envelope, N. green_suitcase, O. red_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

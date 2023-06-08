@@ -1,46 +1,45 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Chloe, Ella, Avery, William and Mila entered the attic.
-2 The corn is in the red_container.
-3 Chloe moved the corn to the green_container.
-4 Chloe exited the attic and stayed in the waiting_room.
-5 Ella made no movements and stayed for 10 minutes.
-6 Ella exited the attic and stayed in the waiting_room.
-7 Avery moved the corn to the blue_pantry.
-8 Avery exited the attic and stayed in the waiting_room.
-9 William made no movements and stayed for 10 minutes.
-10 William exited the attic and stayed in the waiting_room.
-11 Mila made no movements and stayed for 10 minutes.
-12 Mila exited the attic and stayed in the waiting_room.
-13 Chloe, William and Ella entered the porch.
-14 The tangerine is in the red_basket.
-15 Chloe made no movements and stayed for 10 minutes.
-16 Chloe exited the porch and stayed in the waiting_room.
-17 William moved the tangerine to the blue_envelope.
-18 William exited the porch and stayed in the waiting_room.
-19 Ella moved the tangerine to the blue_cupboard.
-20 Ella exited the porch and stayed in the waiting_room.
-21 William privately told Ella that the tangerine is actually in the green_box.
-22 Ella privately told Avery that the tangerine is actually in the blue_cupboard.
-23 Chloe, Ella, Mila and Avery entered the porch.
-24 The potato is in the green_box.
-25 Chloe made no movements and stayed for 10 minutes.
-26 Chloe exited the porch and stayed in the waiting_room.
-27 Ella made no movements and stayed for 10 minutes.
-28 Ella exited the porch and stayed in the waiting_room.
-29 Mila made no movements and stayed for 10 minutes.
-30 Mila exited the porch and stayed in the waiting_room.
-31 Avery moved the potato to the blue_basket.
-32 Avery exited the porch and stayed in the waiting_room.
-33 William and Avery entered the TV_room.
-34 The spinach is in the green_bucket.
-35 William made no movements and stayed for 10 minutes.
-36 William exited the TV_room and stayed in the waiting_room.
-37 Avery made no movements and stayed for 10 minutes.
-38 Avery exited the TV_room and stayed in the waiting_room.
-39 William publicly claimed that spinach is in the red_bathtub.
-40 Avery privately told William that the spinach is actually in the blue_crate.
-Question: Where does William think the corn is?
-Answer: blue_pantry
-Choices: A. red_container, B. green_envelope, C. green_crate, D. blue_pantry, E. green_container, F. red_basket, G. green_box, H. blue_cupboard, I. blue_envelope, J. blue_basket, K. blue_crate, L. green_bucket, M. red_bathtub, N. green_drawer, O. red_crate
-Note: 
+1 Isla, Aria, Emma, Evelyn and Isabella entered the hall.
+2 The sweet_potato is in the red_bathtub.
+3 Isla made no movements and stayed in the hall for 10 minutes.
+4 Isla exited the hall and stayed in the waiting_room.
+5 Aria moved the sweet_potato to the red_drawer.
+6 Aria exited the hall and stayed in the waiting_room.
+7 Emma moved the sweet_potato to the blue_box.
+8 Emma exited the hall and stayed in the waiting_room.
+9 Evelyn moved the sweet_potato to the red_bottle.
+10 Evelyn exited the hall and stayed in the waiting_room.
+11 Isabella moved the sweet_potato to the red_bathtub.
+12 Isabella exited the hall and stayed in the waiting_room.
+13 Emma, Evelyn and Isabella entered the lounge.
+14 The corn is in the red_envelope.
+15 Emma made no movements and stayed in the lounge for 10 minutes.
+16 Emma exited the lounge and stayed in the waiting_room.
+17 Evelyn moved the corn to the blue_drawer.
+18 Evelyn exited the lounge and stayed in the waiting_room.
+19 Isabella moved the corn to the blue_treasure_chest.
+20 Isabella exited the lounge and stayed in the waiting_room.
+21 Emma publicly claimed that corn is in the red_envelope.
+22 Isabella privately told Aria that the corn is actually in the blue_treasure_chest.
+23 Aria, Isla, Isabella and Emma entered the hall.
+24 The peas is in the red_drawer.
+25 Aria moved the peas to the green_drawer.
+26 Aria exited the hall and stayed in the waiting_room.
+27 Isla made no movements and stayed in the hall for 10 minutes.
+28 Isla exited the hall and stayed in the waiting_room.
+29 Isabella moved the peas to the red_bathtub.
+30 Isabella exited the hall and stayed in the waiting_room.
+31 Emma moved the peas to the red_bottle.
+32 Emma exited the hall and stayed in the waiting_room.
+33 Emma and Evelyn entered the hall.
+34 The sweet_potato is in the red_bathtub.
+35 Emma made no movements and stayed in the hall for 10 minutes.
+36 Emma exited the hall and stayed in the waiting_room.
+37 Evelyn made no movements and stayed in the hall for 10 minutes.
+38 Evelyn exited the hall and stayed in the waiting_room.
+39 Emma publicly claimed that sweet_potato is in the red_drawer.
+40 Evelyn privately told Emma that the sweet_potato is actually in the red_bottle.
+Question: Where does Aria think the sweet_potato is?
+Answer: red_drawer
+Choices: A. red_bathtub, B. red_drawer, C. red_bottle, D. blue_box, E. green_drawer, F. blue_container, G. green_bathtub, H. green_pantry, I. red_container, J. green_box, K. green_envelope, L. red_envelope, M. blue_crate, N. blue_drawer, O. blue_treasure_chest

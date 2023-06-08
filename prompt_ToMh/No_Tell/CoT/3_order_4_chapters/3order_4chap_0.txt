@@ -1,42 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Amelia, Avery, Sophia, Evelyn and Benjamin entered the cellar.
-2 The peach is in the red_cupboard.
-3 Amelia made no movements and stayed for 10 minutes.
-4 Amelia exited the cellar and stayed in the waiting_room.
-5 Avery made no movements and stayed for 10 minutes.
-6 Avery exited the cellar and stayed in the waiting_room.
-7 Sophia moved the peach to the blue_suitcase.
-8 Sophia exited the cellar and stayed in the waiting_room.
-9 Evelyn made no movements and stayed for 10 minutes.
-10 Evelyn exited the cellar and stayed in the waiting_room.
-11 Benjamin made no movements and stayed for 10 minutes.
-12 Benjamin exited the cellar and stayed in the waiting_room.
-13 Benjamin, Evelyn and Avery entered the sunroom.
-14 The asparagus is in the blue_envelope.
-15 Benjamin made no movements and stayed for 10 minutes.
-16 Benjamin exited the sunroom and stayed in the waiting_room.
-17 Evelyn made no movements and stayed for 10 minutes.
-18 Evelyn exited the sunroom and stayed in the waiting_room.
-19 Avery moved the asparagus to the blue_basket.
-20 Avery exited the sunroom and stayed in the waiting_room.
-21 Avery, Amelia, Sophia and Benjamin entered the cellar.
-22 The peach is in the blue_suitcase.
-23 Avery moved the peach to the green_treasure_chest.
-24 Avery exited the cellar and stayed in the waiting_room.
-25 Amelia moved the peach to the blue_pantry.
-26 Amelia exited the cellar and stayed in the waiting_room.
-27 Sophia made no movements and stayed for 10 minutes.
-28 Sophia exited the cellar and stayed in the waiting_room.
-29 Benjamin moved the peach to the red_cupboard.
-30 Benjamin exited the cellar and stayed in the waiting_room.
-31 Evelyn and Avery entered the sunroom.
-32 The persimmon is in the green_cupboard.
-33 Evelyn made no movements and stayed for 10 minutes.
-34 Evelyn exited the sunroom and stayed in the waiting_room.
-35 Avery made no movements and stayed for 10 minutes.
-36 Avery exited the sunroom and stayed in the waiting_room.
-Question: Where does Amelia think Avery thinks Sophia thinks the peach is?
-Answer: red_cupboard
-Choices: A. red_container, B. red_cupboard, C. blue_suitcase, D. blue_pantry, E. green_treasure_chest, F. green_cupboard, G. blue_envelope, H. green_container, I. blue_basket, J. blue_crate, K. blue_treasure_chest, L. red_bathtub, M. blue_bottle, N. blue_bucket, O. red_bottle
-Note: 
+1 Liam, Emma, Amelia, Avery and Gracie entered the pantry.
+2 The banana is in the green_box.
+3 Liam moved the banana to the green_cupboard.
+4 Liam exited the pantry and stayed in the waiting_room.
+5 Emma made no movements and stayed in the pantry for 10 minutes.
+6 Emma exited the pantry and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the pantry for 10 minutes.
+8 Amelia exited the pantry and stayed in the waiting_room.
+9 Avery moved the banana to the blue_container.
+10 Avery exited the pantry and stayed in the waiting_room.
+11 Gracie moved the banana to the green_box.
+12 Gracie exited the pantry and stayed in the waiting_room.
+13 Gracie, Amelia and Emma entered the hall.
+14 The eggplant is in the green_treasure_chest.
+15 Gracie made no movements and stayed in the hall for 10 minutes.
+16 Gracie exited the hall and stayed in the waiting_room.
+17 Amelia moved the eggplant to the blue_bottle.
+18 Amelia exited the hall and stayed in the waiting_room.
+19 Emma moved the eggplant to the red_drawer.
+20 Emma exited the hall and stayed in the waiting_room.
+21 Avery, Gracie, Amelia and Liam entered the pantry.
+22 The carrot is in the green_pantry.
+23 Avery made no movements and stayed in the pantry for 10 minutes.
+24 Avery exited the pantry and stayed in the waiting_room.
+25 Gracie moved the carrot to the green_bottle.
+26 Gracie exited the pantry and stayed in the waiting_room.
+27 Amelia moved the carrot to the blue_container.
+28 Amelia exited the pantry and stayed in the waiting_room.
+29 Liam moved the carrot to the green_box.
+30 Liam exited the pantry and stayed in the waiting_room.
+31 Emma and Avery entered the hall.
+32 The pear is in the red_box.
+33 Emma moved the pear to the blue_bottle.
+34 Emma exited the hall and stayed in the waiting_room.
+35 Avery made no movements and stayed in the hall for 10 minutes.
+36 Avery exited the hall and stayed in the waiting_room.
+Question: Where does Emma think Amelia thinks Avery thinks the banana is?
+Choices: A. red_basket, B. blue_suitcase, C. green_envelope, D. green_bathtub, E. red_cupboard, F. red_box, G. green_treasure_chest, H. red_drawer, I. blue_bucket, J. blue_bottle, K. green_box, L. green_pantry, M. green_cupboard, N. blue_container, O. green_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

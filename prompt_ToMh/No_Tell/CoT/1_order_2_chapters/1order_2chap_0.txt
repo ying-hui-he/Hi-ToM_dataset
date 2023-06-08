@@ -1,26 +1,25 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Avery, Mason, Gracie, Benjamin and Hannah entered the back_yard.
-2 The plum is in the red_bottle.
-3 Avery moved the plum to the blue_drawer.
-4 Avery exited the back_yard and stayed in the waiting_room.
-5 Mason moved the plum to the red_basket.
-6 Mason exited the back_yard and stayed in the waiting_room.
-7 Gracie moved the plum to the blue_pantry.
-8 Gracie exited the back_yard and stayed in the waiting_room.
-9 Benjamin made no movements and stayed for 10 minutes.
-10 Benjamin exited the back_yard and stayed in the waiting_room.
-11 Hannah moved the plum to the red_bottle.
-12 Hannah exited the back_yard and stayed in the waiting_room.
-13 Mason, Hannah and Benjamin entered the bedroom.
-14 The pumpkin is in the red_cupboard.
-15 Mason moved the pumpkin to the red_suitcase.
-16 Mason exited the bedroom and stayed in the waiting_room.
-17 Hannah made no movements and stayed for 10 minutes.
-18 Hannah exited the bedroom and stayed in the waiting_room.
-19 Benjamin made no movements and stayed for 10 minutes.
-20 Benjamin exited the bedroom and stayed in the waiting_room.
-Question: Where does Mason think the plum is?
-Answer: red_basket
-Choices: A. green_bucket, B. red_bottle, C. blue_drawer, D. red_basket, E. blue_pantry, F. red_bathtub, G. green_crate, H. red_drawer, I. red_treasure_chest, J. blue_bucket, K. blue_crate, L. red_cupboard, M. green_envelope, N. red_suitcase, O. green_cupboard
-Note: 
+1 Ava, Benjamin, Amelia, Noah and Mila entered the attic.
+2 The sweet_potato is in the green_cupboard.
+3 Ava made no movements and stayed in the attic for 10 minutes.
+4 Ava exited the attic and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the attic for 10 minutes.
+6 Benjamin exited the attic and stayed in the waiting_room.
+7 Amelia moved the sweet_potato to the red_bottle.
+8 Amelia exited the attic and stayed in the waiting_room.
+9 Noah moved the sweet_potato to the red_bathtub.
+10 Noah exited the attic and stayed in the waiting_room.
+11 Mila made no movements and stayed in the attic for 10 minutes.
+12 Mila exited the attic and stayed in the waiting_room.
+13 Noah, Ava and Amelia entered the sunroom.
+14 The broccoli is in the green_bottle.
+15 Noah moved the broccoli to the green_bucket.
+16 Noah exited the sunroom and stayed in the waiting_room.
+17 Ava moved the broccoli to the blue_container.
+18 Ava exited the sunroom and stayed in the waiting_room.
+19 Amelia made no movements and stayed in the sunroom for 10 minutes.
+20 Amelia exited the sunroom and stayed in the waiting_room.
+Question: Where does Amelia think the sweet_potato is?
+Choices: A. green_cupboard, B. green_box, C. blue_bucket, D. red_bathtub, E. red_bottle, F. red_bucket, G. red_box, H. red_basket, I. green_suitcase, J. red_drawer, K. green_bottle, L. blue_treasure_chest, M. green_bucket, N. blue_container, O. green_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,46 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Benjamin, Noah, Ethan, Aiden and Jayden entered the office.
-2 The peach is in the green_treasure_chest.
-3 Benjamin moved the peach to the blue_drawer.
-4 Benjamin exited the office and stayed in the waiting_room.
-5 Noah moved the peach to the blue_crate.
-6 Noah exited the office and stayed in the waiting_room.
-7 Ethan moved the peach to the red_cupboard.
-8 Ethan exited the office and stayed in the waiting_room.
-9 Aiden moved the peach to the blue_box.
-10 Aiden exited the office and stayed in the waiting_room.
-11 Jayden moved the peach to the green_treasure_chest.
-12 Jayden exited the office and stayed in the waiting_room.
-13 Ethan, Noah and Jayden entered the laundry.
-14 The beans is in the red_basket.
-15 Ethan moved the beans to the red_drawer.
-16 Ethan exited the laundry and stayed in the waiting_room.
-17 Noah moved the beans to the green_bucket.
-18 Noah exited the laundry and stayed in the waiting_room.
-19 Jayden moved the beans to the red_container.
-20 Jayden exited the laundry and stayed in the waiting_room.
-21 Jayden publicly claimed that beans is in the green_bucket.
-22 Ethan privately told Jayden that the beans is actually in the red_basket.
-23 Noah, Ethan, Jayden and Benjamin entered the office.
-24 The grapes is in the blue_box.
-25 Noah moved the grapes to the blue_drawer.
-26 Noah exited the office and stayed in the waiting_room.
-27 Ethan made no movements and stayed for 10 minutes.
-28 Ethan exited the office and stayed in the waiting_room.
-29 Jayden moved the grapes to the green_treasure_chest.
-30 Jayden exited the office and stayed in the waiting_room.
-31 Benjamin moved the grapes to the blue_crate.
-32 Benjamin exited the office and stayed in the waiting_room.
-33 Jayden and Ethan entered the laundry.
-34 The eggplant is in the blue_suitcase.
-35 Jayden moved the eggplant to the red_basket.
-36 Jayden exited the laundry and stayed in the waiting_room.
-37 Ethan made no movements and stayed for 10 minutes.
-38 Ethan exited the laundry and stayed in the waiting_room.
-39 Jayden publicly claimed that eggplant is in the red_container.
-40 Ethan privately told Jayden that the eggplant is actually in the green_bucket.
-Question: Where is the peach really?
-Answer: green_treasure_chest
-Choices: A. red_box, B. red_treasure_chest, C. blue_bucket, D. green_crate, E. green_bathtub, F. green_treasure_chest, G. blue_box, H. red_cupboard, I. blue_drawer, J. blue_crate, K. blue_suitcase, L. red_basket, M. red_drawer, N. green_bucket, O. red_container
-Note: 
+1 Oliver, Liam, Isla, Gracie and Isabella entered the dining_room.
+2 The onion is in the red_box.
+3 Oliver moved the onion to the red_bottle.
+4 Oliver exited the dining_room and stayed in the waiting_room.
+5 Liam made no movements and stayed in the dining_room for 10 minutes.
+6 Liam exited the dining_room and stayed in the waiting_room.
+7 Isla made no movements and stayed in the dining_room for 10 minutes.
+8 Isla exited the dining_room and stayed in the waiting_room.
+9 Gracie made no movements and stayed in the dining_room for 10 minutes.
+10 Gracie exited the dining_room and stayed in the waiting_room.
+11 Isabella made no movements and stayed in the dining_room for 10 minutes.
+12 Isabella exited the dining_room and stayed in the waiting_room.
+13 Isabella, Isla and Gracie entered the dining_room.
+14 The onion is in the red_bottle.
+15 Isabella moved the onion to the red_box.
+16 Isabella exited the dining_room and stayed in the waiting_room.
+17 Isla made no movements and stayed in the dining_room for 10 minutes.
+18 Isla exited the dining_room and stayed in the waiting_room.
+19 Gracie made no movements and stayed in the dining_room for 10 minutes.
+20 Gracie exited the dining_room and stayed in the waiting_room.
+21 Gracie publicly claimed that onion is in the red_box.
+22 Isabella privately told Gracie that the onion is actually in the blue_box.
+23 Isla, Liam, Gracie and Oliver entered the closet.
+24 The potato is in the red_envelope.
+25 Isla made no movements and stayed in the closet for 10 minutes.
+26 Isla exited the closet and stayed in the waiting_room.
+27 Liam made no movements and stayed in the closet for 10 minutes.
+28 Liam exited the closet and stayed in the waiting_room.
+29 Gracie made no movements and stayed in the closet for 10 minutes.
+30 Gracie exited the closet and stayed in the waiting_room.
+31 Oliver made no movements and stayed in the closet for 10 minutes.
+32 Oliver exited the closet and stayed in the waiting_room.
+33 Isla and Isabella entered the dining_room.
+34 The broccoli is in the red_bathtub.
+35 Isla made no movements and stayed in the dining_room for 10 minutes.
+36 Isla exited the dining_room and stayed in the waiting_room.
+37 Isabella moved the broccoli to the red_box.
+38 Isabella exited the dining_room and stayed in the waiting_room.
+39 Isla privately told Oliver that the broccoli is actually in the red_bathtub.
+Question: Where is the onion really?
+Choices: A. green_cupboard, B. red_envelope, C. green_drawer, D. green_pantry, E. blue_suitcase, F. blue_bucket, G. red_treasure_chest, H. blue_drawer, I. green_box, J. green_bottle, K. red_bathtub, L. red_box, M. blue_bottle, N. blue_box, O. red_bottle
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

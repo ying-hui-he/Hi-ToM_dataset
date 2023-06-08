@@ -1,45 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, Alexander, Isabella, Amelia and Aria entered the hall.
-2 The orange is in the green_cupboard.
-3 Ava made no movements and stayed for 10 minutes.
-4 Ava exited the hall and stayed in the waiting_room.
-5 Alexander made no movements and stayed for 10 minutes.
-6 Alexander exited the hall and stayed in the waiting_room.
-7 Isabella moved the orange to the green_container.
-8 Isabella exited the hall and stayed in the waiting_room.
-9 Amelia made no movements and stayed for 10 minutes.
-10 Amelia exited the hall and stayed in the waiting_room.
-11 Aria made no movements and stayed for 10 minutes.
-12 Aria exited the hall and stayed in the waiting_room.
-13 Amelia, Aria and Ava entered the kitchen.
-14 The peach is in the blue_container.
-15 Amelia moved the peach to the red_cupboard.
-16 Amelia exited the kitchen and stayed in the waiting_room.
-17 Aria moved the peach to the red_container.
-18 Aria exited the kitchen and stayed in the waiting_room.
-19 Ava made no movements and stayed for 10 minutes.
-20 Ava exited the kitchen and stayed in the waiting_room.
-21 Aria privately told Ava that the peach is actually in the blue_container.
-22 Ava privately told Alexander that the peach is actually in the red_container.
-23 Alexander, Amelia, Ava and Isabella entered the sunroom.
-24 The radish is in the blue_suitcase.
-25 Alexander moved the radish to the red_box.
-26 Alexander exited the sunroom and stayed in the waiting_room.
-27 Amelia moved the radish to the red_bucket.
-28 Amelia exited the sunroom and stayed in the waiting_room.
-29 Ava made no movements and stayed for 10 minutes.
-30 Ava exited the sunroom and stayed in the waiting_room.
-31 Isabella moved the radish to the blue_bucket.
-32 Isabella exited the sunroom and stayed in the waiting_room.
-33 Alexander and Aria entered the hall.
-34 The beans is in the blue_treasure_chest.
-35 Alexander moved the beans to the green_container.
-36 Alexander exited the hall and stayed in the waiting_room.
-37 Aria made no movements and stayed for 10 minutes.
-38 Aria exited the hall and stayed in the waiting_room.
-39 Alexander privately told Ava that the beans is actually in the green_envelope.
-Question: Where does Ava think Isabella thinks the orange is?
-Answer: green_cupboard
-Choices: A. blue_container, B. blue_bottle, C. red_cupboard, D. red_container, E. red_bathtub, F. green_bathtub, G. blue_suitcase, H. blue_bucket, I. red_bucket, J. red_box, K. green_cupboard, L. blue_treasure_chest, M. green_envelope, N. green_box, O. green_container
-Note: 
+1 Lily, Gracie, Noah, Nathan and Ella entered the basement.
+2 The carrot is in the red_bathtub.
+3 Lily moved the carrot to the green_drawer.
+4 Lily exited the basement and stayed in the waiting_room.
+5 Gracie moved the carrot to the blue_container.
+6 Gracie exited the basement and stayed in the waiting_room.
+7 Noah made no movements and stayed in the basement for 10 minutes.
+8 Noah exited the basement and stayed in the waiting_room.
+9 Nathan moved the carrot to the green_bucket.
+10 Nathan exited the basement and stayed in the waiting_room.
+11 Ella moved the carrot to the red_bathtub.
+12 Ella exited the basement and stayed in the waiting_room.
+13 Noah, Lily and Nathan entered the kitchen.
+14 The peas is in the red_cupboard.
+15 Noah moved the peas to the red_basket.
+16 Noah exited the kitchen and stayed in the waiting_room.
+17 Lily moved the peas to the blue_crate.
+18 Lily exited the kitchen and stayed in the waiting_room.
+19 Nathan moved the peas to the red_bucket.
+20 Nathan exited the kitchen and stayed in the waiting_room.
+21 Lily privately told Nathan that the peas is actually in the red_cupboard.
+22 Nathan privately told Ella that the peas is actually in the red_bucket.
+23 Nathan, Ella, Gracie and Noah entered the office.
+24 The eggplant is in the red_bottle.
+25 Nathan made no movements and stayed in the office for 10 minutes.
+26 Nathan exited the office and stayed in the waiting_room.
+27 Ella moved the eggplant to the green_suitcase.
+28 Ella exited the office and stayed in the waiting_room.
+29 Gracie made no movements and stayed in the office for 10 minutes.
+30 Gracie exited the office and stayed in the waiting_room.
+31 Noah moved the eggplant to the blue_bucket.
+32 Noah exited the office and stayed in the waiting_room.
+33 Noah and Gracie entered the kitchen.
+34 The celery is in the red_basket.
+35 Noah moved the celery to the blue_bottle.
+36 Noah exited the kitchen and stayed in the waiting_room.
+37 Gracie made no movements and stayed in the kitchen for 10 minutes.
+38 Gracie exited the kitchen and stayed in the waiting_room.
+39 Noah publicly claimed that celery is in the blue_bottle.
+40 Gracie privately told Noah that the celery is actually in the red_cupboard.
+Question: Where does Nathan think Gracie thinks the carrot is?
+Choices: A. red_basket, B. red_cupboard, C. blue_crate, D. red_bucket, E. blue_bottle, F. red_bathtub, G. blue_container, H. green_pantry, I. green_bucket, J. green_drawer, K. red_bottle, L. blue_bucket, M. green_suitcase, N. green_cupboard, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

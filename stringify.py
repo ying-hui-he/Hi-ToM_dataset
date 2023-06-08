@@ -21,14 +21,16 @@ def stringify(story, exist_answer=False):
             # Prepend the line number
             if not line.split()[0] == 'Question:':
                 line = '%d %s' % (i + 1, line)
+
+            if not exist_answer and 'Answer:' in line.split():  
+                line = line.splitlines()[0]      
+        lines.append(line)
+        
             
             # Append supporting lines indices if necessary
             # if hasattr(story[i], 'idx_support') and story[i].idx_support:
             #     line += '\t%s' % ' '.join([str(x + 1)
             #                             for x in story[i].idx_support])
-        
-        if exist_answer or not line.split()[0] == 'Answer:':
-            lines.append(line)
         
         # Increment counters
         i += 1

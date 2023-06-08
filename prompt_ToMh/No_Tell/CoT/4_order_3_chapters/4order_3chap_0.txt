@@ -1,36 +1,35 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Nathan, Jayden, Lily, Owen and Aiden entered the garage.
-2 The grapes is in the green_bathtub.
-3 Nathan moved the grapes to the red_drawer.
-4 Nathan exited the garage and stayed in the waiting_room.
-5 Jayden made no movements and stayed for 10 minutes.
-6 Jayden exited the garage and stayed in the waiting_room.
-7 Lily moved the grapes to the blue_envelope.
-8 Lily exited the garage and stayed in the waiting_room.
-9 Owen made no movements and stayed for 10 minutes.
-10 Owen exited the garage and stayed in the waiting_room.
-11 Aiden made no movements and stayed for 10 minutes.
-12 Aiden exited the garage and stayed in the waiting_room.
-13 Lily, Nathan and Aiden entered the den.
-14 The watermelon is in the blue_container.
-15 Lily made no movements and stayed for 10 minutes.
-16 Lily exited the den and stayed in the waiting_room.
-17 Nathan moved the watermelon to the blue_pantry.
-18 Nathan exited the den and stayed in the waiting_room.
-19 Aiden made no movements and stayed for 10 minutes.
-20 Aiden exited the den and stayed in the waiting_room.
-21 Owen, Nathan, Jayden and Aiden entered the den.
-22 The watermelon is in the blue_pantry.
-23 Owen made no movements and stayed for 10 minutes.
-24 Owen exited the den and stayed in the waiting_room.
-25 Nathan moved the watermelon to the blue_container.
-26 Nathan exited the den and stayed in the waiting_room.
-27 Jayden made no movements and stayed for 10 minutes.
-28 Jayden exited the den and stayed in the waiting_room.
-29 Aiden moved the watermelon to the red_bathtub.
-30 Aiden exited the den and stayed in the waiting_room.
-Question: Where does Aiden think Jayden thinks Owen thinks Lily thinks the grapes is?
-Answer: None
-Choices: A. blue_bottle, B. blue_basket, C. green_cupboard, D. green_crate, E. green_envelope, F. blue_pantry, G. blue_container, H. red_treasure_chest, I. blue_box, J. red_bathtub, K. green_treasure_chest, L. green_bathtub, M. blue_envelope, N. red_bucket, O. red_drawer
-Note: 
+1 Isabella, William, Charlotte, Alexander and Ethan entered the basement.
+2 The plum is in the red_cupboard.
+3 Isabella moved the plum to the blue_drawer.
+4 Isabella exited the basement and stayed in the waiting_room.
+5 William moved the plum to the green_pantry.
+6 William exited the basement and stayed in the waiting_room.
+7 Charlotte moved the plum to the blue_box.
+8 Charlotte exited the basement and stayed in the waiting_room.
+9 Alexander moved the plum to the green_box.
+10 Alexander exited the basement and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the basement for 10 minutes.
+12 Ethan exited the basement and stayed in the waiting_room.
+13 Isabella, Alexander and William entered the back_yard.
+14 The cucumber is in the blue_basket.
+15 Isabella moved the cucumber to the blue_crate.
+16 Isabella exited the back_yard and stayed in the waiting_room.
+17 Alexander made no movements and stayed in the back_yard for 10 minutes.
+18 Alexander exited the back_yard and stayed in the waiting_room.
+19 William moved the cucumber to the red_bucket.
+20 William exited the back_yard and stayed in the waiting_room.
+21 Ethan, Alexander, Isabella and Charlotte entered the back_yard.
+22 The pumpkin is in the blue_crate.
+23 Ethan made no movements and stayed in the back_yard for 10 minutes.
+24 Ethan exited the back_yard and stayed in the waiting_room.
+25 Alexander made no movements and stayed in the back_yard for 10 minutes.
+26 Alexander exited the back_yard and stayed in the waiting_room.
+27 Isabella moved the pumpkin to the red_bucket.
+28 Isabella exited the back_yard and stayed in the waiting_room.
+29 Charlotte moved the pumpkin to the green_envelope.
+30 Charlotte exited the back_yard and stayed in the waiting_room.
+Question: Where does Ethan think Charlotte thinks Alexander thinks Isabella thinks the plum is?
+Choices: A. blue_crate, B. blue_basket, C. red_bucket, D. red_envelope, E. green_envelope, F. red_container, G. green_suitcase, H. green_cupboard, I. red_bottle, J. green_bottle, K. blue_drawer, L. red_cupboard, M. blue_box, N. green_pantry, O. green_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

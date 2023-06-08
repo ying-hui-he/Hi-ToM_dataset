@@ -1,26 +1,25 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Charlotte, Benjamin, Sophia, Ava and Gracie entered the master_bedroom.
-2 The celery is in the red_bucket.
-3 Charlotte made no movements and stayed for 10 minutes.
-4 Charlotte exited the master_bedroom and stayed in the waiting_room.
-5 Benjamin moved the celery to the blue_pantry.
-6 Benjamin exited the master_bedroom and stayed in the waiting_room.
-7 Sophia made no movements and stayed for 10 minutes.
-8 Sophia exited the master_bedroom and stayed in the waiting_room.
-9 Ava made no movements and stayed for 10 minutes.
-10 Ava exited the master_bedroom and stayed in the waiting_room.
-11 Gracie moved the celery to the red_bucket.
-12 Gracie exited the master_bedroom and stayed in the waiting_room.
-13 Gracie, Sophia and Charlotte entered the dining_room.
-14 The pineapple is in the blue_box.
-15 Gracie made no movements and stayed for 10 minutes.
-16 Gracie exited the dining_room and stayed in the waiting_room.
-17 Sophia moved the pineapple to the green_crate.
-18 Sophia exited the dining_room and stayed in the waiting_room.
-19 Charlotte moved the pineapple to the green_bucket.
-20 Charlotte exited the dining_room and stayed in the waiting_room.
-Question: Where does Ava think Benjamin thinks Gracie thinks the celery is?
-Answer: None
-Choices: A. red_basket, B. blue_envelope, C. green_treasure_chest, D. red_suitcase, E. blue_suitcase, F. blue_box, G. green_crate, H. blue_bottle, I. blue_basket, J. green_bucket, K. red_treasure_chest, L. red_bucket, M. blue_bucket, N. green_bathtub, O. blue_pantry
-Note: 
+1 Jackson, Isla, Charlotte, Oliver and Ethan entered the closet.
+2 The asparagus is in the red_envelope.
+3 Jackson made no movements and stayed in the closet for 10 minutes.
+4 Jackson exited the closet and stayed in the waiting_room.
+5 Isla made no movements and stayed in the closet for 10 minutes.
+6 Isla exited the closet and stayed in the waiting_room.
+7 Charlotte moved the asparagus to the red_bathtub.
+8 Charlotte exited the closet and stayed in the waiting_room.
+9 Oliver made no movements and stayed in the closet for 10 minutes.
+10 Oliver exited the closet and stayed in the waiting_room.
+11 Ethan made no movements and stayed in the closet for 10 minutes.
+12 Ethan exited the closet and stayed in the waiting_room.
+13 Charlotte, Ethan and Isla entered the garage.
+14 The grapes is in the green_envelope.
+15 Charlotte made no movements and stayed in the garage for 10 minutes.
+16 Charlotte exited the garage and stayed in the waiting_room.
+17 Ethan made no movements and stayed in the garage for 10 minutes.
+18 Ethan exited the garage and stayed in the waiting_room.
+19 Isla made no movements and stayed in the garage for 10 minutes.
+20 Isla exited the garage and stayed in the waiting_room.
+Question: Where does Isla think Charlotte thinks Jackson thinks the asparagus is?
+Choices: A. green_treasure_chest, B. blue_basket, C. green_box, D. red_treasure_chest, E. green_cupboard, F. blue_bucket, G. green_envelope, H. red_container, I. blue_box, J. blue_suitcase, K. red_basket, L. red_envelope, M. red_bathtub, N. red_bucket, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

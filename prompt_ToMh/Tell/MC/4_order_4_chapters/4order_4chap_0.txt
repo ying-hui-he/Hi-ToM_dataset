@@ -1,45 +1,44 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, Charlotte, Sophia, Emma and Ethan entered the back_yard.
-2 The persimmon is in the green_bucket.
-3 Ella moved the persimmon to the blue_container.
-4 Ella exited the back_yard and stayed in the waiting_room.
-5 Charlotte made no movements and stayed for 10 minutes.
-6 Charlotte exited the back_yard and stayed in the waiting_room.
-7 Sophia moved the persimmon to the red_treasure_chest.
-8 Sophia exited the back_yard and stayed in the waiting_room.
-9 Emma made no movements and stayed for 10 minutes.
-10 Emma exited the back_yard and stayed in the waiting_room.
-11 Ethan made no movements and stayed for 10 minutes.
-12 Ethan exited the back_yard and stayed in the waiting_room.
-13 Sophia, Ella and Emma entered the sunroom.
-14 The turnip is in the blue_envelope.
-15 Sophia moved the turnip to the red_basket.
-16 Sophia exited the sunroom and stayed in the waiting_room.
-17 Ella made no movements and stayed for 10 minutes.
-18 Ella exited the sunroom and stayed in the waiting_room.
-19 Emma moved the turnip to the blue_pantry.
-20 Emma exited the sunroom and stayed in the waiting_room.
-21 Sophia publicly claimed that turnip is in the blue_pantry.
-22 Emma privately told Ethan that the turnip is actually in the blue_pantry.
-23 Charlotte, Ella, Emma and Ethan entered the patio.
-24 The lime is in the red_bucket.
-25 Charlotte made no movements and stayed for 10 minutes.
-26 Charlotte exited the patio and stayed in the waiting_room.
-27 Ella made no movements and stayed for 10 minutes.
-28 Ella exited the patio and stayed in the waiting_room.
-29 Emma moved the lime to the green_envelope.
-30 Emma exited the patio and stayed in the waiting_room.
-31 Ethan moved the lime to the blue_crate.
-32 Ethan exited the patio and stayed in the waiting_room.
-33 Emma and Sophia entered the back_yard.
-34 The cherry is in the blue_suitcase.
-35 Emma moved the cherry to the blue_container.
-36 Emma exited the back_yard and stayed in the waiting_room.
-37 Sophia made no movements and stayed for 10 minutes.
-38 Sophia exited the back_yard and stayed in the waiting_room.
-39 Emma privately told Ethan that the cherry is actually in the green_bucket.
-Question: Where does Emma think Charlotte thinks Ethan thinks Ella thinks the persimmon is?
-Answer: None
-Choices: A. green_bucket, B. blue_suitcase, C. blue_container, D. red_bathtub, E. red_treasure_chest, F. red_bucket, G. green_container, H. blue_crate, I. red_bottle, J. green_envelope, K. blue_envelope, L. blue_basket, M. red_basket, N. blue_pantry, O. blue_bottle
-Note: 
+1 Liam, Emily, Noah, William and Emma entered the workshop.
+2 The broccoli is in the red_drawer.
+3 Liam made no movements and stayed in the workshop for 10 minutes.
+4 Liam exited the workshop and stayed in the waiting_room.
+5 Emily made no movements and stayed in the workshop for 10 minutes.
+6 Emily exited the workshop and stayed in the waiting_room.
+7 Noah made no movements and stayed in the workshop for 10 minutes.
+8 Noah exited the workshop and stayed in the waiting_room.
+9 William made no movements and stayed in the workshop for 10 minutes.
+10 William exited the workshop and stayed in the waiting_room.
+11 Emma made no movements and stayed in the workshop for 10 minutes.
+12 Emma exited the workshop and stayed in the waiting_room.
+13 Noah, Emily and Liam entered the staircase.
+14 The asparagus is in the blue_box.
+15 Noah moved the asparagus to the green_box.
+16 Noah exited the staircase and stayed in the waiting_room.
+17 Emily moved the asparagus to the red_cupboard.
+18 Emily exited the staircase and stayed in the waiting_room.
+19 Liam made no movements and stayed in the staircase for 10 minutes.
+20 Liam exited the staircase and stayed in the waiting_room.
+21 Liam publicly claimed that asparagus is in the blue_bucket.
+22 Noah privately told Liam that the asparagus is actually in the green_box.
+23 Emma, William, Noah and Liam entered the staircase.
+24 The asparagus is in the red_cupboard.
+25 Emma moved the asparagus to the blue_box.
+26 Emma exited the staircase and stayed in the waiting_room.
+27 William moved the asparagus to the green_box.
+28 William exited the staircase and stayed in the waiting_room.
+29 Noah made no movements and stayed in the staircase for 10 minutes.
+30 Noah exited the staircase and stayed in the waiting_room.
+31 Liam made no movements and stayed in the staircase for 10 minutes.
+32 Liam exited the staircase and stayed in the waiting_room.
+33 William and Liam entered the front_yard.
+34 The apple is in the red_bathtub.
+35 William made no movements and stayed in the front_yard for 10 minutes.
+36 William exited the front_yard and stayed in the waiting_room.
+37 Liam moved the apple to the blue_basket.
+38 Liam exited the front_yard and stayed in the waiting_room.
+39 William privately told Emily that the apple is actually in the blue_basket.
+Question: Where does Liam think Emma thinks Emily thinks William thinks the broccoli is?
+Choices: A. blue_box, B. red_cupboard, C. green_box, D. green_envelope, E. blue_bucket, F. blue_container, G. red_drawer, H. green_bottle, I. red_envelope, J. blue_crate, K. red_bathtub, L. blue_basket, M. blue_drawer, N. red_box, O. green_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

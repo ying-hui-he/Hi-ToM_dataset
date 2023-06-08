@@ -1,42 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Gracie, Isabella, Alexander, Jacob and Sophia entered the bathroom.
-2 The watermelon is in the red_bathtub.
-3 Gracie made no movements and stayed for 10 minutes.
-4 Gracie exited the bathroom and stayed in the waiting_room.
-5 Isabella moved the watermelon to the blue_container.
-6 Isabella exited the bathroom and stayed in the waiting_room.
-7 Alexander made no movements and stayed for 10 minutes.
-8 Alexander exited the bathroom and stayed in the waiting_room.
-9 Jacob moved the watermelon to the red_treasure_chest.
-10 Jacob exited the bathroom and stayed in the waiting_room.
-11 Sophia moved the watermelon to the red_bathtub.
-12 Sophia exited the bathroom and stayed in the waiting_room.
-13 Jacob, Sophia and Isabella entered the playroom.
-14 The tangerine is in the green_container.
-15 Jacob made no movements and stayed for 10 minutes.
-16 Jacob exited the playroom and stayed in the waiting_room.
-17 Sophia made no movements and stayed for 10 minutes.
-18 Sophia exited the playroom and stayed in the waiting_room.
-19 Isabella made no movements and stayed for 10 minutes.
-20 Isabella exited the playroom and stayed in the waiting_room.
-21 Isabella, Sophia, Alexander and Gracie entered the staircase.
-22 The plum is in the blue_pantry.
-23 Isabella made no movements and stayed for 10 minutes.
-24 Isabella exited the staircase and stayed in the waiting_room.
-25 Sophia moved the plum to the red_basket.
-26 Sophia exited the staircase and stayed in the waiting_room.
-27 Alexander made no movements and stayed for 10 minutes.
-28 Alexander exited the staircase and stayed in the waiting_room.
-29 Gracie moved the plum to the red_bottle.
-30 Gracie exited the staircase and stayed in the waiting_room.
-31 Alexander and Sophia entered the staircase.
-32 The plum is in the red_bottle.
-33 Alexander moved the plum to the red_basket.
-34 Alexander exited the staircase and stayed in the waiting_room.
-35 Sophia made no movements and stayed for 10 minutes.
-36 Sophia exited the staircase and stayed in the waiting_room.
-Question: Where does Gracie think Alexander thinks Sophia thinks the watermelon is?
-Answer: red_bathtub
-Choices: A. blue_pantry, B. blue_drawer, C. red_basket, D. red_bottle, E. green_crate, F. red_cupboard, G. green_container, H. green_envelope, I. blue_suitcase, J. red_box, K. red_bathtub, L. blue_treasure_chest, M. blue_container, N. red_treasure_chest, O. green_box
-Note: 
+1 Elizabeth, Noah, Lily, Ella and Hannah entered the porch.
+2 The broccoli is in the green_suitcase.
+3 Elizabeth moved the broccoli to the green_box.
+4 Elizabeth exited the porch and stayed in the waiting_room.
+5 Noah moved the broccoli to the blue_bucket.
+6 Noah exited the porch and stayed in the waiting_room.
+7 Lily made no movements and stayed in the porch for 10 minutes.
+8 Lily exited the porch and stayed in the waiting_room.
+9 Ella made no movements and stayed in the porch for 10 minutes.
+10 Ella exited the porch and stayed in the waiting_room.
+11 Hannah made no movements and stayed in the porch for 10 minutes.
+12 Hannah exited the porch and stayed in the waiting_room.
+13 Elizabeth, Hannah and Noah entered the garden.
+14 The cucumber is in the red_bathtub.
+15 Elizabeth made no movements and stayed in the garden for 10 minutes.
+16 Elizabeth exited the garden and stayed in the waiting_room.
+17 Hannah moved the cucumber to the green_drawer.
+18 Hannah exited the garden and stayed in the waiting_room.
+19 Noah made no movements and stayed in the garden for 10 minutes.
+20 Noah exited the garden and stayed in the waiting_room.
+21 Noah, Lily, Hannah and Ella entered the garden.
+22 The cucumber is in the green_drawer.
+23 Noah moved the cucumber to the red_envelope.
+24 Noah exited the garden and stayed in the waiting_room.
+25 Lily made no movements and stayed in the garden for 10 minutes.
+26 Lily exited the garden and stayed in the waiting_room.
+27 Hannah moved the cucumber to the green_treasure_chest.
+28 Hannah exited the garden and stayed in the waiting_room.
+29 Ella made no movements and stayed in the garden for 10 minutes.
+30 Ella exited the garden and stayed in the waiting_room.
+31 Elizabeth and Ella entered the living_room.
+32 The banana is in the blue_suitcase.
+33 Elizabeth moved the banana to the blue_bottle.
+34 Elizabeth exited the living_room and stayed in the waiting_room.
+35 Ella made no movements and stayed in the living_room for 10 minutes.
+36 Ella exited the living_room and stayed in the waiting_room.
+Question: Where does Hannah think Lily thinks Noah thinks the broccoli is?
+Choices: A. green_box, B. green_suitcase, C. blue_container, D. blue_basket, E. blue_bucket, F. blue_treasure_chest, G. blue_suitcase, H. blue_bottle, I. blue_drawer, J. green_bottle, K. red_basket, L. red_bathtub, M. green_treasure_chest, N. red_envelope, O. green_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

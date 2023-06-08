@@ -1,42 +1,41 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Emma, Mason, Ava and Isla entered the hall.
-2 The green_pepper is in the red_treasure_chest.
-3 Hannah made no movements and stayed for 10 minutes.
-4 Hannah exited the hall and stayed in the waiting_room.
-5 Emma moved the green_pepper to the blue_pantry.
-6 Emma exited the hall and stayed in the waiting_room.
-7 Mason made no movements and stayed for 10 minutes.
-8 Mason exited the hall and stayed in the waiting_room.
-9 Ava made no movements and stayed for 10 minutes.
-10 Ava exited the hall and stayed in the waiting_room.
-11 Isla moved the green_pepper to the red_treasure_chest.
-12 Isla exited the hall and stayed in the waiting_room.
-13 Isla, Mason and Hannah entered the dining_room.
-14 The lettuce is in the blue_bottle.
-15 Isla moved the lettuce to the red_bathtub.
-16 Isla exited the dining_room and stayed in the waiting_room.
-17 Mason moved the lettuce to the green_container.
-18 Mason exited the dining_room and stayed in the waiting_room.
-19 Hannah made no movements and stayed for 10 minutes.
-20 Hannah exited the dining_room and stayed in the waiting_room.
-21 Emma, Hannah, Ava and Isla entered the dining_room.
-22 The lettuce is in the green_container.
-23 Emma made no movements and stayed for 10 minutes.
-24 Emma exited the dining_room and stayed in the waiting_room.
-25 Hannah moved the lettuce to the red_drawer.
-26 Hannah exited the dining_room and stayed in the waiting_room.
-27 Ava made no movements and stayed for 10 minutes.
-28 Ava exited the dining_room and stayed in the waiting_room.
-29 Isla moved the lettuce to the red_cupboard.
-30 Isla exited the dining_room and stayed in the waiting_room.
-31 Mason and Isla entered the hall.
-32 The peach is in the green_box.
-33 Mason made no movements and stayed for 10 minutes.
-34 Mason exited the hall and stayed in the waiting_room.
-35 Isla made no movements and stayed for 10 minutes.
-36 Isla exited the hall and stayed in the waiting_room.
-Question: Where is the green_pepper really?
-Answer: red_treasure_chest
-Choices: A. red_container, B. blue_envelope, C. blue_crate, D. blue_drawer, E. blue_treasure_chest, F. red_treasure_chest, G. green_box, H. red_bucket, I. green_bucket, J. blue_pantry, K. green_container, L. blue_bottle, M. red_cupboard, N. red_drawer, O. red_bathtub
-Note: 
+1 Emily, Elizabeth, Isabella, Nathan and Emma entered the garden.
+2 The carrot is in the red_box.
+3 Emily made no movements and stayed in the garden for 10 minutes.
+4 Emily exited the garden and stayed in the waiting_room.
+5 Elizabeth made no movements and stayed in the garden for 10 minutes.
+6 Elizabeth exited the garden and stayed in the waiting_room.
+7 Isabella moved the carrot to the red_bottle.
+8 Isabella exited the garden and stayed in the waiting_room.
+9 Nathan made no movements and stayed in the garden for 10 minutes.
+10 Nathan exited the garden and stayed in the waiting_room.
+11 Emma moved the carrot to the red_box.
+12 Emma exited the garden and stayed in the waiting_room.
+13 Elizabeth, Nathan and Emily entered the patio.
+14 The cherry is in the blue_drawer.
+15 Elizabeth made no movements and stayed in the patio for 10 minutes.
+16 Elizabeth exited the patio and stayed in the waiting_room.
+17 Nathan moved the cherry to the blue_treasure_chest.
+18 Nathan exited the patio and stayed in the waiting_room.
+19 Emily made no movements and stayed in the patio for 10 minutes.
+20 Emily exited the patio and stayed in the waiting_room.
+21 Isabella, Emily, Emma and Nathan entered the patio.
+22 The cherry is in the blue_treasure_chest.
+23 Isabella made no movements and stayed in the patio for 10 minutes.
+24 Isabella exited the patio and stayed in the waiting_room.
+25 Emily made no movements and stayed in the patio for 10 minutes.
+26 Emily exited the patio and stayed in the waiting_room.
+27 Emma moved the cherry to the blue_cupboard.
+28 Emma exited the patio and stayed in the waiting_room.
+29 Nathan moved the cherry to the green_bucket.
+30 Nathan exited the patio and stayed in the waiting_room.
+31 Emily and Emma entered the study.
+32 The lime is in the red_drawer.
+33 Emily made no movements and stayed in the study for 10 minutes.
+34 Emily exited the study and stayed in the waiting_room.
+35 Emma made no movements and stayed in the study for 10 minutes.
+36 Emma exited the study and stayed in the waiting_room.
+Question: Where is the carrot really?
+Choices: A. green_bottle, B. red_drawer, C. blue_container, D. red_container, E. green_envelope, F. red_box, G. blue_basket, H. blue_crate, I. red_bottle, J. red_envelope, K. blue_drawer, L. green_bucket, M. blue_cupboard, N. green_cupboard, O. blue_treasure_chest
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

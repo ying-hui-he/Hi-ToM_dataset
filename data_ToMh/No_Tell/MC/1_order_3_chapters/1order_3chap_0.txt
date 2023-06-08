@@ -1,36 +1,35 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, Olivia, Ella, Ethan and Chloe entered the patio.
-2 The spinach is in the blue_container.
-3 Jayden moved the spinach to the red_basket.
-4 Jayden exited the patio and stayed in the waiting_room.
-5 Olivia made no movements and stayed for 10 minutes.
-6 Olivia exited the patio and stayed in the waiting_room.
-7 Ella made no movements and stayed for 10 minutes.
-8 Ella exited the patio and stayed in the waiting_room.
-9 Ethan made no movements and stayed for 10 minutes.
-10 Ethan exited the patio and stayed in the waiting_room.
-11 Chloe moved the spinach to the blue_container.
-12 Chloe exited the patio and stayed in the waiting_room.
-13 Ethan, Chloe and Olivia entered the patio.
-14 The apple is in the green_container.
-15 Ethan made no movements and stayed for 10 minutes.
-16 Ethan exited the patio and stayed in the waiting_room.
-17 Chloe moved the apple to the blue_container.
-18 Chloe exited the patio and stayed in the waiting_room.
-19 Olivia made no movements and stayed for 10 minutes.
-20 Olivia exited the patio and stayed in the waiting_room.
-21 Chloe, Jayden, Ella and Ethan entered the den.
-22 The pumpkin is in the red_bathtub.
-23 Chloe made no movements and stayed for 10 minutes.
-24 Chloe exited the den and stayed in the waiting_room.
-25 Jayden moved the pumpkin to the red_pantry.
-26 Jayden exited the den and stayed in the waiting_room.
-27 Ella made no movements and stayed for 10 minutes.
-28 Ella exited the den and stayed in the waiting_room.
-29 Ethan moved the pumpkin to the red_drawer.
-30 Ethan exited the den and stayed in the waiting_room.
-Question: Where does Jayden think the spinach is?
-Answer: red_basket
-Choices: A. green_envelope, B. red_bathtub, C. red_pantry, D. red_drawer, E. blue_basket, F. red_bottle, G. red_container, H. green_bucket, I. green_basket, J. blue_cupboard, K. blue_container, L. green_container, M. blue_pantry, N. green_cupboard, O. red_basket
-Note: 
+1 Lucas, Benjamin, Sophia, Avery and Emma entered the lounge.
+2 The onion is in the red_container.
+3 Lucas made no movements and stayed in the lounge for 10 minutes.
+4 Lucas exited the lounge and stayed in the waiting_room.
+5 Benjamin made no movements and stayed in the lounge for 10 minutes.
+6 Benjamin exited the lounge and stayed in the waiting_room.
+7 Sophia made no movements and stayed in the lounge for 10 minutes.
+8 Sophia exited the lounge and stayed in the waiting_room.
+9 Avery made no movements and stayed in the lounge for 10 minutes.
+10 Avery exited the lounge and stayed in the waiting_room.
+11 Emma made no movements and stayed in the lounge for 10 minutes.
+12 Emma exited the lounge and stayed in the waiting_room.
+13 Avery, Emma and Benjamin entered the lounge.
+14 The onion is in the red_container.
+15 Avery moved the onion to the red_box.
+16 Avery exited the lounge and stayed in the waiting_room.
+17 Emma moved the onion to the green_suitcase.
+18 Emma exited the lounge and stayed in the waiting_room.
+19 Benjamin moved the onion to the blue_bucket.
+20 Benjamin exited the lounge and stayed in the waiting_room.
+21 Emma, Avery, Benjamin and Sophia entered the lounge.
+22 The onion is in the blue_bucket.
+23 Emma made no movements and stayed in the lounge for 10 minutes.
+24 Emma exited the lounge and stayed in the waiting_room.
+25 Avery moved the onion to the blue_drawer.
+26 Avery exited the lounge and stayed in the waiting_room.
+27 Benjamin made no movements and stayed in the lounge for 10 minutes.
+28 Benjamin exited the lounge and stayed in the waiting_room.
+29 Sophia moved the onion to the green_suitcase.
+30 Sophia exited the lounge and stayed in the waiting_room.
+Question: Where does Avery think the onion is?
+Answer: blue_drawer
+Choices: A. red_container, B. blue_drawer, C. blue_bucket, D. red_box, E. green_suitcase, F. red_envelope, G. red_cupboard, H. blue_bottle, I. green_envelope, J. red_basket, K. red_bucket, L. red_drawer, M. blue_box, N. blue_crate, O. green_treasure_chest

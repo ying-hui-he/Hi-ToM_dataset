@@ -1,20 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Hannah, Mila, Benjamin, Isla and Sophia entered the bathroom.
-2 The grapes is in the green_bathtub.
-3 Hannah moved the grapes to the blue_basket.
-4 Hannah exited the bathroom and stayed in the waiting_room.
-5 Mila moved the grapes to the blue_bottle.
-6 Mila exited the bathroom and stayed in the waiting_room.
-7 Benjamin moved the grapes to the blue_suitcase.
-8 Benjamin exited the bathroom and stayed in the waiting_room.
-9 Isla made no movements and stayed for 10 minutes.
-10 Isla exited the bathroom and stayed in the waiting_room.
-11 Sophia made no movements and stayed for 10 minutes.
-12 Sophia exited the bathroom and stayed in the waiting_room.
-13 Benjamin privately told Hannah that the grapes is actually in the blue_suitcase.
-14 Mila privately told Isla that the grapes is actually in the blue_bottle.
-Question: Where does Hannah think the grapes is?
-Answer: blue_suitcase
-Choices: A. blue_basket, B. green_bathtub, C. blue_suitcase, D. green_crate, E. blue_bottle, F. blue_crate, G. blue_envelope, H. red_cupboard, I. red_basket, J. blue_box, K. green_box, L. blue_pantry, M. red_container, N. blue_bucket, O. red_treasure_chest
-Note: 
+1 Emily, Logan, Lucas, Ava and Isla entered the kitchen.
+2 The melon is in the blue_drawer.
+3 Emily moved the melon to the blue_suitcase.
+4 Emily exited the kitchen and stayed in the waiting_room.
+5 Logan made no movements and stayed in the kitchen for 10 minutes.
+6 Logan exited the kitchen and stayed in the waiting_room.
+7 Lucas moved the melon to the green_box.
+8 Lucas exited the kitchen and stayed in the waiting_room.
+9 Ava made no movements and stayed in the kitchen for 10 minutes.
+10 Ava exited the kitchen and stayed in the waiting_room.
+11 Isla made no movements and stayed in the kitchen for 10 minutes.
+12 Isla exited the kitchen and stayed in the waiting_room.
+13 Ava publicly claimed that melon is in the blue_drawer.
+14 Isla privately told Emily that the melon is actually in the green_box.
+Question: Where does Isla think the melon is?
+Choices: A. red_bathtub, B. blue_bucket, C. red_box, D. red_cupboard, E. green_cupboard, F. blue_container, G. red_bucket, H. red_bottle, I. blue_box, J. blue_basket, K. blue_bottle, L. blue_drawer, M. blue_suitcase, N. green_drawer, O. green_box
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

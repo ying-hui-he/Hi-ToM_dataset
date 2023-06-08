@@ -1,26 +1,25 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Ethan, Charlotte, Olivia and Jackson entered the TV_room.
-2 The celery is in the red_treasure_chest.
-3 Owen made no movements and stayed for 10 minutes.
-4 Owen exited the TV_room and stayed in the waiting_room.
-5 Ethan made no movements and stayed for 10 minutes.
-6 Ethan exited the TV_room and stayed in the waiting_room.
-7 Charlotte made no movements and stayed for 10 minutes.
-8 Charlotte exited the TV_room and stayed in the waiting_room.
-9 Olivia made no movements and stayed for 10 minutes.
-10 Olivia exited the TV_room and stayed in the waiting_room.
-11 Jackson moved the celery to the red_treasure_chest.
-12 Jackson exited the TV_room and stayed in the waiting_room.
-13 Jackson, Owen and Charlotte entered the back_yard.
-14 The turnip is in the red_cupboard.
-15 Jackson moved the turnip to the red_container.
-16 Jackson exited the back_yard and stayed in the waiting_room.
-17 Owen moved the turnip to the blue_basket.
-18 Owen exited the back_yard and stayed in the waiting_room.
-19 Charlotte moved the turnip to the blue_drawer.
-20 Charlotte exited the back_yard and stayed in the waiting_room.
-Question: Where does Owen think Charlotte thinks Jackson thinks Ethan thinks the celery is?
-Answer: None
-Choices: A. red_box, B. red_bottle, C. blue_bottle, D. red_drawer, E. green_treasure_chest, F. red_basket, G. red_treasure_chest, H. green_envelope, I. blue_container, J. blue_suitcase, K. red_cupboard, L. blue_envelope, M. blue_drawer, N. red_container, O. blue_basket
-Note: 
+1 Gracie, Elizabeth, Lucas, Emma and Noah entered the garden.
+2 The carrot is in the green_envelope.
+3 Gracie made no movements and stayed in the garden for 10 minutes.
+4 Gracie exited the garden and stayed in the waiting_room.
+5 Elizabeth moved the carrot to the red_basket.
+6 Elizabeth exited the garden and stayed in the waiting_room.
+7 Lucas moved the carrot to the blue_suitcase.
+8 Lucas exited the garden and stayed in the waiting_room.
+9 Emma made no movements and stayed in the garden for 10 minutes.
+10 Emma exited the garden and stayed in the waiting_room.
+11 Noah moved the carrot to the green_envelope.
+12 Noah exited the garden and stayed in the waiting_room.
+13 Elizabeth, Lucas and Noah entered the garden.
+14 The pumpkin is in the green_treasure_chest.
+15 Elizabeth made no movements and stayed in the garden for 10 minutes.
+16 Elizabeth exited the garden and stayed in the waiting_room.
+17 Lucas moved the pumpkin to the red_basket.
+18 Lucas exited the garden and stayed in the waiting_room.
+19 Noah moved the pumpkin to the blue_suitcase.
+20 Noah exited the garden and stayed in the waiting_room.
+Question: Where does Noah think Emma thinks Elizabeth thinks Lucas thinks the carrot is?
+Choices: A. green_drawer, B. blue_drawer, C. green_bottle, D. red_drawer, E. green_cupboard, F. green_envelope, G. green_treasure_chest, H. blue_basket, I. blue_suitcase, J. red_basket, K. blue_crate, L. blue_container, M. blue_box, N. red_container, O. red_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,46 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Aria, Elizabeth, Abigail and Gracie entered the back_yard.
-2 The onion is in the red_basket.
-3 Ella moved the onion to the green_box.
-4 Ella exited the back_yard and stayed in the waiting_room.
-5 Aria made no movements and stayed for 10 minutes.
-6 Aria exited the back_yard and stayed in the waiting_room.
-7 Elizabeth made no movements and stayed for 10 minutes.
-8 Elizabeth exited the back_yard and stayed in the waiting_room.
-9 Abigail moved the onion to the green_envelope.
-10 Abigail exited the back_yard and stayed in the waiting_room.
-11 Gracie made no movements and stayed for 10 minutes.
-12 Gracie exited the back_yard and stayed in the waiting_room.
-13 Gracie, Aria and Elizabeth entered the workshop.
-14 The watermelon is in the green_bucket.
-15 Gracie made no movements and stayed for 10 minutes.
-16 Gracie exited the workshop and stayed in the waiting_room.
-17 Aria moved the watermelon to the blue_suitcase.
-18 Aria exited the workshop and stayed in the waiting_room.
-19 Elizabeth moved the watermelon to the green_container.
-20 Elizabeth exited the workshop and stayed in the waiting_room.
-21 Elizabeth publicly claimed that watermelon is in the blue_suitcase.
-22 Gracie privately told Elizabeth that the watermelon is actually in the blue_drawer.
-23 Gracie, Elizabeth, Abigail and Ella entered the back_yard.
-24 The onion is in the green_envelope.
-25 Gracie moved the onion to the green_box.
-26 Gracie exited the back_yard and stayed in the waiting_room.
-27 Elizabeth made no movements and stayed for 10 minutes.
-28 Elizabeth exited the back_yard and stayed in the waiting_room.
-29 Abigail made no movements and stayed for 10 minutes.
-30 Abigail exited the back_yard and stayed in the waiting_room.
-31 Ella made no movements and stayed for 10 minutes.
-32 Ella exited the back_yard and stayed in the waiting_room.
-33 Aria and Ella entered the workshop.
-34 The watermelon is in the green_container.
-35 Aria made no movements and stayed for 10 minutes.
-36 Aria exited the workshop and stayed in the waiting_room.
-37 Ella moved the watermelon to the blue_suitcase.
-38 Ella exited the workshop and stayed in the waiting_room.
-39 Aria publicly claimed that watermelon is in the green_bucket.
-40 Ella privately told Aria that the watermelon is actually in the blue_drawer.
-Question: Where does Gracie think Abigail thinks Elizabeth thinks the onion is?
-Answer: None
-Choices: A. green_treasure_chest, B. green_cupboard, C. green_crate, D. red_bathtub, E. blue_basket, F. red_bottle, G. red_basket, H. green_box, I. blue_treasure_chest, J. green_envelope, K. green_bucket, L. blue_drawer, M. blue_pantry, N. green_container, O. blue_suitcase
-Note: 
+1 Evelyn, Emily, Gracie, Lucas and Noah entered the cellar.
+2 The peach is in the blue_treasure_chest.
+3 Evelyn moved the peach to the red_cupboard.
+4 Evelyn exited the cellar and stayed in the waiting_room.
+5 Emily made no movements and stayed in the cellar for 10 minutes.
+6 Emily exited the cellar and stayed in the waiting_room.
+7 Gracie made no movements and stayed in the cellar for 10 minutes.
+8 Gracie exited the cellar and stayed in the waiting_room.
+9 Lucas made no movements and stayed in the cellar for 10 minutes.
+10 Lucas exited the cellar and stayed in the waiting_room.
+11 Noah made no movements and stayed in the cellar for 10 minutes.
+12 Noah exited the cellar and stayed in the waiting_room.
+13 Emily, Lucas and Evelyn entered the cellar.
+14 The peach is in the red_cupboard.
+15 Emily moved the peach to the green_bucket.
+16 Emily exited the cellar and stayed in the waiting_room.
+17 Lucas made no movements and stayed in the cellar for 10 minutes.
+18 Lucas exited the cellar and stayed in the waiting_room.
+19 Evelyn moved the peach to the green_drawer.
+20 Evelyn exited the cellar and stayed in the waiting_room.
+21 Lucas publicly claimed that peach is in the red_drawer.
+22 Evelyn privately told Lucas that the peach is actually in the red_cupboard.
+23 Emily, Lucas, Noah and Evelyn entered the sunroom.
+24 The pineapple is in the red_bottle.
+25 Emily moved the pineapple to the red_treasure_chest.
+26 Emily exited the sunroom and stayed in the waiting_room.
+27 Lucas moved the pineapple to the red_basket.
+28 Lucas exited the sunroom and stayed in the waiting_room.
+29 Noah made no movements and stayed in the sunroom for 10 minutes.
+30 Noah exited the sunroom and stayed in the waiting_room.
+31 Evelyn made no movements and stayed in the sunroom for 10 minutes.
+32 Evelyn exited the sunroom and stayed in the waiting_room.
+33 Gracie and Emily entered the bathroom.
+34 The orange is in the green_cupboard.
+35 Gracie moved the orange to the blue_crate.
+36 Gracie exited the bathroom and stayed in the waiting_room.
+37 Emily made no movements and stayed in the bathroom for 10 minutes.
+38 Emily exited the bathroom and stayed in the waiting_room.
+39 Gracie privately told Lucas that the orange is actually in the green_bathtub.
+Question: Where does Gracie think Evelyn thinks Noah thinks the peach is?
+Choices: A. red_drawer, B. blue_treasure_chest, C. green_drawer, D. green_bucket, E. red_cupboard, F. red_bottle, G. red_treasure_chest, H. blue_suitcase, I. green_treasure_chest, J. red_basket, K. blue_container, L. green_cupboard, M. green_bathtub, N. green_envelope, O. blue_crate
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

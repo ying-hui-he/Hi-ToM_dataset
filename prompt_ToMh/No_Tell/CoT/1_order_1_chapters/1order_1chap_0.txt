@@ -1,18 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Logan, Jackson, Noah, Owen and Sophia entered the closet.
-2 The potato is in the green_pantry.
-3 Logan moved the potato to the red_bottle.
-4 Logan exited the closet and stayed in the waiting_room.
-5 Jackson made no movements and stayed for 10 minutes.
-6 Jackson exited the closet and stayed in the waiting_room.
-7 Noah moved the potato to the red_bucket.
-8 Noah exited the closet and stayed in the waiting_room.
-9 Owen made no movements and stayed for 10 minutes.
-10 Owen exited the closet and stayed in the waiting_room.
-11 Sophia moved the potato to the green_pantry.
-12 Sophia exited the closet and stayed in the waiting_room.
-Question: Where does Jackson think the potato is?
-Answer: red_bottle
-Choices: A. blue_bottle, B. blue_bucket, C. green_crate, D. red_container, E. green_cupboard, F. blue_treasure_chest, G. blue_drawer, H. green_envelope, I. red_drawer, J. blue_basket, K. red_bottle, L. green_pantry, M. blue_pantry, N. red_bucket, O. red_box
-Note: 
+1 Jayden, Isabella, Lily, Jackson and Aria entered the master_bedroom.
+2 The pear is in the blue_bottle.
+3 Jayden made no movements and stayed in the master_bedroom for 10 minutes.
+4 Jayden exited the master_bedroom and stayed in the waiting_room.
+5 Isabella moved the pear to the blue_cupboard.
+6 Isabella exited the master_bedroom and stayed in the waiting_room.
+7 Lily made no movements and stayed in the master_bedroom for 10 minutes.
+8 Lily exited the master_bedroom and stayed in the waiting_room.
+9 Jackson made no movements and stayed in the master_bedroom for 10 minutes.
+10 Jackson exited the master_bedroom and stayed in the waiting_room.
+11 Aria made no movements and stayed in the master_bedroom for 10 minutes.
+12 Aria exited the master_bedroom and stayed in the waiting_room.
+Question: Where does Isabella think the pear is?
+Choices: A. green_pantry, B. blue_bottle, C. blue_cupboard, D. green_bucket, E. green_bathtub, F. blue_box, G. red_cupboard, H. green_drawer, I. green_cupboard, J. green_bottle, K. red_box, L. blue_bucket, M. red_envelope, N. blue_basket, O. blue_drawer
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

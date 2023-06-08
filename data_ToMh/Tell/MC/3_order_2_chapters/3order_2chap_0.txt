@@ -1,28 +1,27 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Hannah, Mason, Emma and Mila entered the dining_room.
-2 The spinach is in the red_bucket.
-3 Ethan moved the spinach to the green_container.
-4 Ethan exited the dining_room and stayed in the waiting_room.
-5 Hannah moved the spinach to the red_bottle.
-6 Hannah exited the dining_room and stayed in the waiting_room.
-7 Mason moved the spinach to the blue_bathtub.
-8 Mason exited the dining_room and stayed in the waiting_room.
-9 Emma made no movements and stayed for 10 minutes.
-10 Emma exited the dining_room and stayed in the waiting_room.
-11 Mila moved the spinach to the red_bucket.
-12 Mila exited the dining_room and stayed in the waiting_room.
-13 Ethan, Mason and Hannah entered the master_bedroom.
-14 The carrot is in the red_pantry.
-15 Ethan moved the carrot to the green_drawer.
-16 Ethan exited the master_bedroom and stayed in the waiting_room.
-17 Mason made no movements and stayed for 10 minutes.
-18 Mason exited the master_bedroom and stayed in the waiting_room.
-19 Hannah made no movements and stayed for 10 minutes.
-20 Hannah exited the master_bedroom and stayed in the waiting_room.
-21 Ethan publicly claimed that carrot is in the green_bathtub.
-22 Hannah privately told Emma that the carrot is actually in the green_drawer.
-Question: Where does Hannah think Mason thinks Ethan thinks the spinach is?
-Answer: green_container
-Choices: A. red_envelope, B. red_pantry, C. green_bathtub, D. green_drawer, E. red_drawer, F. red_bucket, G. blue_bathtub, H. green_box, I. green_container, J. red_bottle, K. blue_drawer, L. blue_crate, M. green_suitcase, N. green_cupboard, O. blue_cupboard
-Note: 
+1 Emma, Liam, Mila, Aria and Charlotte entered the staircase.
+2 The grapefruit is in the blue_drawer.
+3 Emma moved the grapefruit to the green_pantry.
+4 Emma exited the staircase and stayed in the waiting_room.
+5 Liam moved the grapefruit to the blue_crate.
+6 Liam exited the staircase and stayed in the waiting_room.
+7 Mila moved the grapefruit to the green_bottle.
+8 Mila exited the staircase and stayed in the waiting_room.
+9 Aria made no movements and stayed in the staircase for 10 minutes.
+10 Aria exited the staircase and stayed in the waiting_room.
+11 Charlotte moved the grapefruit to the blue_drawer.
+12 Charlotte exited the staircase and stayed in the waiting_room.
+13 Liam, Mila and Aria entered the office.
+14 The melon is in the blue_box.
+15 Liam moved the melon to the green_envelope.
+16 Liam exited the office and stayed in the waiting_room.
+17 Mila moved the melon to the blue_suitcase.
+18 Mila exited the office and stayed in the waiting_room.
+19 Aria made no movements and stayed in the office for 10 minutes.
+20 Aria exited the office and stayed in the waiting_room.
+21 Aria publicly claimed that melon is in the blue_suitcase.
+22 Liam privately told Aria that the melon is actually in the blue_box.
+Question: Where does Charlotte think Aria thinks Liam thinks the grapefruit is?
+Answer: None
+Choices: A. green_bottle, B. blue_drawer, C. blue_crate, D. blue_bucket, E. green_pantry, F. green_treasure_chest, G. green_bathtub, H. green_drawer, I. red_bucket, J. green_box, K. red_treasure_chest, L. blue_box, M. blue_suitcase, N. green_envelope, O. red_cupboard

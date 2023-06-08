@@ -1,36 +1,35 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Evelyn, Sophia, Abigail, Logan and Jackson entered the playroom.
-2 The pineapple is in the green_container.
-3 Evelyn moved the pineapple to the green_envelope.
-4 Evelyn exited the playroom and stayed in the waiting_room.
-5 Sophia made no movements and stayed for 10 minutes.
-6 Sophia exited the playroom and stayed in the waiting_room.
-7 Abigail moved the pineapple to the green_bathtub.
-8 Abigail exited the playroom and stayed in the waiting_room.
-9 Logan moved the pineapple to the blue_treasure_chest.
-10 Logan exited the playroom and stayed in the waiting_room.
-11 Jackson made no movements and stayed for 10 minutes.
-12 Jackson exited the playroom and stayed in the waiting_room.
-13 Sophia, Logan and Abigail entered the bedroom.
-14 The beans is in the red_cupboard.
-15 Sophia moved the beans to the blue_bucket.
-16 Sophia exited the bedroom and stayed in the waiting_room.
-17 Logan made no movements and stayed for 10 minutes.
-18 Logan exited the bedroom and stayed in the waiting_room.
-19 Abigail made no movements and stayed for 10 minutes.
-20 Abigail exited the bedroom and stayed in the waiting_room.
-21 Logan, Sophia, Abigail and Evelyn entered the bedroom.
-22 The sweet_potato is in the blue_box.
-23 Logan made no movements and stayed for 10 minutes.
-24 Logan exited the bedroom and stayed in the waiting_room.
-25 Sophia made no movements and stayed for 10 minutes.
-26 Sophia exited the bedroom and stayed in the waiting_room.
-27 Abigail made no movements and stayed for 10 minutes.
-28 Abigail exited the bedroom and stayed in the waiting_room.
-29 Evelyn moved the sweet_potato to the red_bottle.
-30 Evelyn exited the bedroom and stayed in the waiting_room.
-Question: Where is the pineapple really?
-Answer: blue_treasure_chest
-Choices: A. blue_box, B. red_cupboard, C. blue_bucket, D. red_bottle, E. red_suitcase, F. green_container, G. green_envelope, H. green_bathtub, I. blue_treasure_chest, J. red_box, K. blue_basket, L. red_bucket, M. red_basket, N. blue_envelope, O. green_bucket
-Note: 
+1 Logan, Emma, Liam, Isla and Oliver entered the playroom.
+2 The plum is in the green_suitcase.
+3 Logan made no movements and stayed in the playroom for 10 minutes.
+4 Logan exited the playroom and stayed in the waiting_room.
+5 Emma made no movements and stayed in the playroom for 10 minutes.
+6 Emma exited the playroom and stayed in the waiting_room.
+7 Liam moved the plum to the red_bathtub.
+8 Liam exited the playroom and stayed in the waiting_room.
+9 Isla made no movements and stayed in the playroom for 10 minutes.
+10 Isla exited the playroom and stayed in the waiting_room.
+11 Oliver made no movements and stayed in the playroom for 10 minutes.
+12 Oliver exited the playroom and stayed in the waiting_room.
+13 Emma, Logan and Liam entered the lounge.
+14 The lettuce is in the blue_cupboard.
+15 Emma moved the lettuce to the red_container.
+16 Emma exited the lounge and stayed in the waiting_room.
+17 Logan made no movements and stayed in the lounge for 10 minutes.
+18 Logan exited the lounge and stayed in the waiting_room.
+19 Liam moved the lettuce to the green_bottle.
+20 Liam exited the lounge and stayed in the waiting_room.
+21 Logan, Liam, Isla and Oliver entered the lounge.
+22 The cucumber is in the green_bottle.
+23 Logan moved the cucumber to the green_bucket.
+24 Logan exited the lounge and stayed in the waiting_room.
+25 Liam made no movements and stayed in the lounge for 10 minutes.
+26 Liam exited the lounge and stayed in the waiting_room.
+27 Isla moved the cucumber to the blue_cupboard.
+28 Isla exited the lounge and stayed in the waiting_room.
+29 Oliver moved the cucumber to the red_bottle.
+30 Oliver exited the lounge and stayed in the waiting_room.
+Question: Where is the plum really?
+Choices: A. green_suitcase, B. red_bathtub, C. red_box, D. blue_bottle, E. red_cupboard, F. green_bathtub, G. green_envelope, H. red_envelope, I. green_drawer, J. blue_suitcase, K. blue_cupboard, L. green_bottle, M. green_bucket, N. red_bottle, O. red_container
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,18 +1,17 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Jackson, Emma, Noah, Elizabeth and Gracie entered the back_yard.
-2 The persimmon is in the green_bucket.
-3 Jackson made no movements and stayed for 10 minutes.
-4 Jackson exited the back_yard and stayed in the waiting_room.
-5 Emma moved the persimmon to the blue_envelope.
-6 Emma exited the back_yard and stayed in the waiting_room.
-7 Noah moved the persimmon to the green_cupboard.
-8 Noah exited the back_yard and stayed in the waiting_room.
-9 Elizabeth made no movements and stayed for 10 minutes.
-10 Elizabeth exited the back_yard and stayed in the waiting_room.
-11 Gracie made no movements and stayed for 10 minutes.
-12 Gracie exited the back_yard and stayed in the waiting_room.
-Question: Where does Jackson think Gracie thinks Elizabeth thinks the persimmon is?
-Answer: None
-Choices: A. red_treasure_chest, B. blue_drawer, C. blue_container, D. blue_pantry, E. red_container, F. blue_basket, G. green_bucket, H. green_cupboard, I. blue_envelope, J. green_container, K. green_bathtub, L. red_box, M. red_bathtub, N. blue_bucket, O. red_drawer
-Note: 
+1 Mila, Hannah, Amelia, Oliver and Charlotte entered the porch.
+2 The pineapple is in the blue_cupboard.
+3 Mila moved the pineapple to the red_cupboard.
+4 Mila exited the porch and stayed in the waiting_room.
+5 Hannah made no movements and stayed in the porch for 10 minutes.
+6 Hannah exited the porch and stayed in the waiting_room.
+7 Amelia made no movements and stayed in the porch for 10 minutes.
+8 Amelia exited the porch and stayed in the waiting_room.
+9 Oliver moved the pineapple to the green_drawer.
+10 Oliver exited the porch and stayed in the waiting_room.
+11 Charlotte moved the pineapple to the blue_cupboard.
+12 Charlotte exited the porch and stayed in the waiting_room.
+Question: Where does Mila think Charlotte thinks Amelia thinks the pineapple is?
+Choices: A. blue_bottle, B. red_drawer, C. blue_crate, D. red_container, E. red_basket, F. red_bucket, G. red_bottle, H. green_box, I. blue_box, J. blue_drawer, K. red_cupboard, L. blue_cupboard, M. green_drawer, N. green_bucket, O. green_pantry
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

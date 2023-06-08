@@ -1,18 +1,17 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aiden, Jacob, Logan, Isla and Abigail entered the back_yard.
-2 The pear is in the red_bathtub.
-3 Aiden made no movements and stayed for 10 minutes.
-4 Aiden exited the back_yard and stayed in the waiting_room.
-5 Jacob made no movements and stayed for 10 minutes.
-6 Jacob exited the back_yard and stayed in the waiting_room.
-7 Logan moved the pear to the blue_crate.
-8 Logan exited the back_yard and stayed in the waiting_room.
-9 Isla made no movements and stayed for 10 minutes.
-10 Isla exited the back_yard and stayed in the waiting_room.
-11 Abigail moved the pear to the red_bathtub.
-12 Abigail exited the back_yard and stayed in the waiting_room.
-Question: Where does Jacob think Isla thinks Aiden thinks the pear is?
-Answer: None
-Choices: A. blue_crate, B. red_bathtub, C. red_bottle, D. red_basket, E. blue_box, F. green_pantry, G. green_box, H. blue_bucket, I. red_bucket, J. blue_treasure_chest, K. blue_basket, L. red_container, M. blue_bottle, N. green_treasure_chest, O. red_cupboard
-Note: 
+1 Isla, Nathan, Mila, Isabella and Liam entered the kitchen.
+2 The strawberry is in the green_envelope.
+3 Isla moved the strawberry to the blue_crate.
+4 Isla exited the kitchen and stayed in the waiting_room.
+5 Nathan made no movements and stayed in the kitchen for 10 minutes.
+6 Nathan exited the kitchen and stayed in the waiting_room.
+7 Mila moved the strawberry to the red_container.
+8 Mila exited the kitchen and stayed in the waiting_room.
+9 Isabella made no movements and stayed in the kitchen for 10 minutes.
+10 Isabella exited the kitchen and stayed in the waiting_room.
+11 Liam made no movements and stayed in the kitchen for 10 minutes.
+12 Liam exited the kitchen and stayed in the waiting_room.
+Question: Where does Mila think Isla thinks Liam thinks the strawberry is?
+Choices: A. green_treasure_chest, B. green_bathtub, C. red_bathtub, D. green_pantry, E. blue_box, F. green_envelope, G. red_container, H. green_bottle, I. red_treasure_chest, J. blue_crate, K. green_bucket, L. red_box, M. green_drawer, N. red_drawer, O. blue_bucket
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

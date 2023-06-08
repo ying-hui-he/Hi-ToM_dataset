@@ -1,28 +1,27 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Emma, Avery, Ava, Amelia and Jackson entered the sunroom.
-2 The grapefruit is in the blue_treasure_chest.
-3 Emma made no movements and stayed for 10 minutes.
-4 Emma exited the sunroom and stayed in the waiting_room.
-5 Avery made no movements and stayed for 10 minutes.
-6 Avery exited the sunroom and stayed in the waiting_room.
-7 Ava made no movements and stayed for 10 minutes.
-8 Ava exited the sunroom and stayed in the waiting_room.
-9 Amelia made no movements and stayed for 10 minutes.
-10 Amelia exited the sunroom and stayed in the waiting_room.
-11 Jackson moved the grapefruit to the blue_treasure_chest.
-12 Jackson exited the sunroom and stayed in the waiting_room.
-13 Jackson, Ava and Avery entered the sunroom.
-14 The eggplant is in the red_suitcase.
-15 Jackson made no movements and stayed for 10 minutes.
-16 Jackson exited the sunroom and stayed in the waiting_room.
-17 Ava made no movements and stayed for 10 minutes.
-18 Ava exited the sunroom and stayed in the waiting_room.
-19 Avery moved the eggplant to the blue_basket.
-20 Avery exited the sunroom and stayed in the waiting_room.
-21 Avery publicly claimed that eggplant is in the red_bathtub.
-22 Jackson privately told Avery that the eggplant is actually in the blue_basket.
-Question: Where does Ava think the grapefruit is?
-Answer: blue_treasure_chest
-Choices: A. green_container, B. green_pantry, C. red_drawer, D. blue_container, E. green_bucket, F. red_bottle, G. green_bathtub, H. blue_crate, I. blue_envelope, J. green_treasure_chest, K. red_suitcase, L. blue_treasure_chest, M. blue_basket, N. blue_bottle, O. red_bathtub
-Note: 
+1 Isla, Mila, Hannah, Lily and Noah entered the pantry.
+2 The banana is in the green_bathtub.
+3 Isla moved the banana to the blue_cupboard.
+4 Isla exited the pantry and stayed in the waiting_room.
+5 Mila made no movements and stayed in the pantry for 10 minutes.
+6 Mila exited the pantry and stayed in the waiting_room.
+7 Hannah moved the banana to the blue_treasure_chest.
+8 Hannah exited the pantry and stayed in the waiting_room.
+9 Lily made no movements and stayed in the pantry for 10 minutes.
+10 Lily exited the pantry and stayed in the waiting_room.
+11 Noah made no movements and stayed in the pantry for 10 minutes.
+12 Noah exited the pantry and stayed in the waiting_room.
+13 Noah, Isla and Lily entered the pantry.
+14 The banana is in the blue_treasure_chest.
+15 Noah moved the banana to the red_envelope.
+16 Noah exited the pantry and stayed in the waiting_room.
+17 Isla made no movements and stayed in the pantry for 10 minutes.
+18 Isla exited the pantry and stayed in the waiting_room.
+19 Lily made no movements and stayed in the pantry for 10 minutes.
+20 Lily exited the pantry and stayed in the waiting_room.
+21 Lily publicly claimed that banana is in the green_bathtub.
+22 Noah privately told Lily that the banana is actually in the blue_cupboard.
+Question: Where does Isla think the banana is?
+Choices: A. red_envelope, B. green_bathtub, C. blue_cupboard, D. blue_drawer, E. blue_treasure_chest, F. green_bottle, G. green_treasure_chest, H. green_drawer, I. blue_crate, J. green_pantry, K. red_treasure_chest, L. green_box, M. red_box, N. green_bucket, O. red_bathtub
+Note: You should assume the following. (1) A character A can infer another character B's mental state only if A and B have been in the same location, or have privately communicated, or have heard of the same public announcement. (2) A character would decide whether to trust others' words based on the order of characters exiting the room. Especially, Character A must believe any information given by B if B exited the room later than A. (3) Agents in private communications know that others won't hear them, but anyone can hear any public claims.
