@@ -1,21 +1,20 @@
 import numpy as np
-
+import random
+import copy
 
 from clause import Clause, Question
 from oracle import Oracle
 from dynamic_actions import *
 from collections import defaultdict
-import random
 
 
 def sample_question(oracle_start_state, oracle, random_actors, obj, question_idx=0):
     idx_dummy = [0]
-    random.shuffle(random_actors)
     a1, a2, a3, a4, _ = random_actors
     questions = [Question(idx_dummy, ZeroQ(oracle, obj)),
-                 Question(idx_dummy, FirstQ(oracle, a1, obj)),
-                 Question(idx_dummy, SecondQ(oracle, a1, a2, obj)),
-                 Question(idx_dummy, ThirdQ(oracle, a1, a2, a3, obj)),
+                 Question(idx_dummy, FirstQ(oracle, a4, obj)),
+                 Question(idx_dummy, SecondQ(oracle, a3, a4, obj)),
+                 Question(idx_dummy, ThirdQ(oracle, a2, a3, a4, obj)),
                  Question(idx_dummy, FourthQ(oracle, a1, a2, a3, a4, obj))]
     return questions[question_idx]
 
@@ -488,13 +487,14 @@ class Specify_Tasks(Task):
                 )
             )
         # compute questions of all orders
+        questioned_actors = copy.deepcopy(random_actors)
+        random.shuffle(questioned_actors)
         for idx in range(5):
             story.append(
                 sample_question(
-                    start_state, oracle,random_actors, obj_in_question, question_idx=idx
+                    start_state, oracle, questioned_actors, obj_in_question, question_idx=idx
                 )
             )
-
 
         # Generate choices of containers
         choices = ', '.join(f'{chr(65+i)}. {container}' for i,
@@ -510,7 +510,9 @@ class Specify_Tasks(Task):
                      ]
             for i in noise:
                 noisy_story.extend(
-                    story[prev_i:i] + [Clause(NoiseAction(random_actors, random_containers, random_objects))]
+                    story[prev_i:i] +
+                    [Clause(NoiseAction(random_actors,
+                            random_containers, random_objects))]
                 )
                 prev_i = i
             noisy_story.extend(story[prev_i:])
