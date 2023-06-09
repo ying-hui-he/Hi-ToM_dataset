@@ -227,25 +227,37 @@ class MoveAction(Action):
 
 class PublicTellAction(Action):
 
-    def __init__(self, oracle, speaker, obj, container, listeners=None, belivers=None):
+    def __init__(self, oracle, speaker, obj, container, listeners=None, believers=None):
         templates = {
             'declarative': [
                 '%s publicly claimed that %s is in the %s.' % (
                     speaker, obj, container),
             ]
         }
+        disbelievers = [listener for listener in listeners if listener not in believers]
 
-        # a believer would think the speaker also believe the obj is in container
-        for believer in belivers:
+        # All listeners would think others believe the claim
+        for believer in believers:
+            for disbeliever in disbelievers:
+                oracle.set_second_belief(believer, disbeliever, obj, container)
+                oracle.set_second_belief(disbeliever, believer, obj, container)
+        
+        # A believer would think speaker also believes the obj is in container, speaker would think his words are trusted
+        for believer in believers:
             oracle.set_first_belief(believer, obj, container)
             oracle.set_second_belief(believer, speaker, obj, container)
+            oracle.set_second_belief(speaker, believer, obj, container)
 
-        for listener in listeners:
-            # the speaker believes that all the listeners believe him
-            oracle.set_second_belief(speaker, listener, obj, container)
-            # all listeners know the believers based on the exiting order
-            for believer in belivers:
-                oracle.set_second_belief(listener, believer, obj, container)
+        for disbeliever in disbelievers:
+            oracle.set_second_belief(speaker, disbeliever, obj, container)
+            
+
+        # for listener in listeners:
+        #     # the speaker believes that all the listeners believe him
+        #     oracle.set_second_belief(speaker, listener, obj, container)
+        #     # all listeners know the believers based on the exiting order
+        #     for believer in believers:
+        #         oracle.set_second_belief(listener, believer, obj, container)
 
         super().__init__(templates)
 

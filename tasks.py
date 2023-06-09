@@ -72,14 +72,14 @@ def write_A2_chapter(
             case 0:
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a1, obj, tell_containers[0], listeners=all_agents, belivers=outsiders)),
+                        oracle, a1, obj, tell_containers[0], listeners=all_agents, believers=outsiders)),
                     Clause(PrivateTellAction(oracle, a2, a1,
                            obj, tell_containers[1], trust=True)),
                 ])
             case 1:
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a2, obj, tell_containers[0], listeners=all_agents, belivers=[a1] + outsiders)),
+                        oracle, a2, obj, tell_containers[0], listeners=all_agents, believers=[a1] + outsiders)),
                     Clause(PrivateTellAction(oracle, a1, a2, obj,
                            tell_containers[1], trust=False)),
                 ])
@@ -148,7 +148,7 @@ def write_A3_chapter(
                 # a2 lies to all, and a3 lies to a2
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a2, obj, tell_containers[0], listeners=all_agents, belivers=[a1] + outsiders)),
+                        oracle, a2, obj, tell_containers[0], listeners=all_agents, believers=[a1] + outsiders)),
                     Clause(PrivateTellAction(oracle, a3, a2,
                            obj, tell_containers[1], trust=True)),
                 ])
@@ -156,7 +156,7 @@ def write_A3_chapter(
                 # a3 lies to all, and a1 lies to a3
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a3, obj, tell_containers[0], listeners=all_agents, belivers=[a1, a2] + outsiders)),
+                        oracle, a3, obj, tell_containers[0], listeners=all_agents, believers=[a1, a2] + outsiders)),
                     Clause(PrivateTellAction(oracle, a1, a3, obj,
                            tell_containers[1], trust=False)),
                 ])
@@ -164,7 +164,7 @@ def write_A3_chapter(
                 # a1 lies to all, but a3 tells the true location to an outside agent
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a1, obj, tell_containers[0], listeners=all_agents, belivers=outsiders)),
+                        oracle, a1, obj, tell_containers[0], listeners=all_agents, believers=outsiders)),
                     Clause(PrivateTellAction(oracle, a3, random.choice(outsiders),
                            obj, oracle.get_object_container(obj), trust=True))
                 ])
@@ -243,7 +243,7 @@ def write_A4_chapter(
                 # a2 lies to all, and a3 lies to a2
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a2, obj, tell_containers[0], listeners=all_agents, belivers=[a1] + outsiders)),
+                        oracle, a2, obj, tell_containers[0], listeners=all_agents, believers=[a1] + outsiders)),
                     Clause(PrivateTellAction(oracle, a4, a3,
                            obj, tell_containers[1], trust=True)),
                 ])
@@ -251,7 +251,7 @@ def write_A4_chapter(
                 # a3 lies to all, and a1 lies to a4
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a3, obj, tell_containers[0], listeners=all_agents, belivers=[a1, a2] + outsiders)),
+                        oracle, a3, obj, tell_containers[0], listeners=all_agents, believers=[a1, a2] + outsiders)),
                     Clause(PrivateTellAction(oracle, a1, a4, obj,
                            tell_containers[1], trust=False)),
                 ])
@@ -260,7 +260,7 @@ def write_A4_chapter(
                 # a1 lies to all, but a4 tells the true location to an outside agent
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a1, obj, tell_containers[0], listeners=all_agents, belivers=outsiders)),
+                        oracle, a1, obj, tell_containers[0], listeners=all_agents, believers=outsiders)),
                     Clause(PrivateTellAction(oracle, a4, outsider,
                            obj, oracle.get_object_container(obj), trust=True))
                 ])
@@ -343,7 +343,7 @@ def write_A5_chapter(
                 # a3 lies to all, and a5 lies to a3
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a3, obj, tell_containers[0], listeners=all_agents, belivers=[a1, a2])),
+                        oracle, a3, obj, tell_containers[0], listeners=all_agents, believers=[a1, a2])),
                     Clause(PrivateTellAction(oracle, a5, a3,
                            obj, tell_containers[1], trust=True)),
                 ])
@@ -351,7 +351,7 @@ def write_A5_chapter(
                 # a4 lies to all, but a5 tells the true location to a1
                 chapter.extend([
                     Clause(PublicTellAction(
-                        oracle, a4, obj, tell_containers[0], listeners=all_agents, belivers=[a1, a2, a3])),
+                        oracle, a4, obj, tell_containers[0], listeners=all_agents, believers=[a1, a2, a3])),
                     Clause(PrivateTellAction(oracle, a5, a1, obj,
                            oracle.get_object_container(obj), trust=True)),
                 ])
