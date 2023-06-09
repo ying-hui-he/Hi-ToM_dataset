@@ -187,7 +187,7 @@ class MoveAction(Action):
             location = oracle.get_container_location(container)
             templates = {
                 'declarative': [
-                    f'{args[0]} made no movements and stayed in the {location} for 10 minutes.',
+                    f'{args[0]} made no movements and stayed in the {location} for 1 minute.',
                 ]
             }
 
