@@ -1,64 +1,64 @@
 # locations
 
+create pantry
+set pantry is_thing
+set pantry is_location
+
 create playroom
 set playroom is_thing
 set playroom is_location
-
-create study
-set study is_thing
-set study is_location
 
 create basement
 set basement is_thing
 set basement is_location
 
-create staircase
-set staircase is_thing
-set staircase is_location
+create garden
+set garden is_thing
+set garden is_location
 
-create sunroom
-set sunroom is_thing
-set sunroom is_location
+create bathroom
+set bathroom is_thing
+set bathroom is_location
 
 # objects
 
-create pineapple
-set pineapple is_thing
-set pineapple is_gettable
+create cucumber
+set cucumber is_thing
+set cucumber is_gettable
 
-create tomato
-set tomato is_thing
-set tomato is_gettable
+create melon
+set melon is_thing
+set melon is_gettable
 
-create cherry
-set cherry is_thing
-set cherry is_gettable
+create carrot
+set carrot is_thing
+set carrot is_gettable
 
-create persimmon
-set persimmon is_thing
-set persimmon is_gettable
+create sweet_potato
+set sweet_potato is_thing
+set sweet_potato is_gettable
 
-create celery
-set celery is_thing
-set celery is_gettable
+create lemon
+set lemon is_thing
+set lemon is_gettable
 
 # containers
 
-create red_cupboard
-set red_cupboard is_thing
-set red_cupboard is_container
+create red_treasure_chest
+set red_treasure_chest is_thing
+set red_treasure_chest is_container
 
-create green_bucket
-set green_bucket is_thing
-set green_bucket is_container
+create red_suitcase
+set red_suitcase is_thing
+set red_suitcase is_container
 
-create red_bucket
-set red_bucket is_thing
-set red_bucket is_container
+create green_bathtub
+set green_bathtub is_thing
+set green_bathtub is_container
 
-create blue_treasure_chest
-set blue_treasure_chest is_thing
-set blue_treasure_chest is_container
+create green_drawer
+set green_drawer is_thing
+set green_drawer is_container
 
 create green_basket
 set green_basket is_thing
@@ -66,22 +66,22 @@ set green_basket is_container
 
 # actors
 
-create Mila
-set Mila is_actor
-set Mila is_god
+create Benjamin
+set Benjamin is_actor
+set Benjamin is_god
 
-create Isla
-set Isla is_actor
-set Isla is_god
+create Mia
+set Mia is_actor
+set Mia is_god
 
-create Jacob
-set Jacob is_actor
-set Jacob is_god
+create Nathan
+set Nathan is_actor
+set Nathan is_god
 
-create Charlotte
-set Charlotte is_actor
-set Charlotte is_god
+create Sophia
+set Sophia is_actor
+set Sophia is_god
 
-create Mason
-set Mason is_actor
-set Mason is_god
+create Emma
+set Emma is_actor
+set Emma is_god

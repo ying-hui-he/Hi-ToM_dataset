@@ -1,0 +1,17 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Oliver, William, Evelyn, Amelia and Isla entered the hallway.
+2 The cherry is in the blue_envelope.
+3 Oliver made no movements and stayed in the hallway for 10 minutes.
+4 Oliver exited the hallway and stayed in the waiting_room.
+5 William made no movements and stayed in the hallway for 10 minutes.
+6 William exited the hallway and stayed in the waiting_room.
+7 Evelyn moved the cherry to the red_crate.
+8 Evelyn exited the hallway and stayed in the waiting_room.
+9 Amelia moved the cherry to the red_suitcase.
+10 Amelia exited the hallway and stayed in the waiting_room.
+11 Isla made no movements and stayed in the hallway for 10 minutes.
+12 Isla exited the hallway and stayed in the waiting_room.
+Question: Where does Oliver think Evelyn thinks Amelia thinks William thinks the cherry is?
+Answer: None
+Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

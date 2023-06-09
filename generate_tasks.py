@@ -44,9 +44,9 @@ def generate_story_with_specified_chapters(
         for length_of_story in num_chapters:   
             # Create folder to contain data
             folder_name_2 = f'length_{length_of_story}'
-            logging.info("Creating New task in %s..." % folder_name_1)
+            logging.info("Creating New task in %s..." % folder_name_2)
 
-            for i in range(n):
+            for i in range(1, n+1):
                 folder_name_3 = f'length_{length_of_story}_sample_{i}'
                 story = task.generate_story_qs_at_end(
                             w, length_of_story, tasks_per_length[length_of_story -
@@ -69,7 +69,7 @@ def generate_story_with_specified_chapters(
                                     'Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.\n')
                             f.write('Story:\n')
                             f.write('\n'.join(stringify(story, exist_answer=exist_answer, order=order_of_story))) #exist_answer is dummy
-                            f.write('Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B\'s mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won\'t hear them, but anyone can hear any public claims.\n')
+                            f.write('\nNote: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B\'s mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won\'t hear them, but anyone can hear any public claims.\n')
 
 
 def parse_args(args):

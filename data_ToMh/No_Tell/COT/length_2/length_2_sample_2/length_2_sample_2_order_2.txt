@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Ava, Ella, Oliver, Mila and Alexander entered the back_yard.
+2 The lime is in the blue_bottle.
+3 Ava moved the lime to the green_cupboard.
+4 Ava exited the back_yard and stayed in the waiting_room.
+5 Ella moved the lime to the red_bottle.
+6 Ella exited the back_yard and stayed in the waiting_room.
+7 Oliver made no movements and stayed in the back_yard for 10 minutes.
+8 Oliver exited the back_yard and stayed in the waiting_room.
+9 Mila moved the lime to the blue_bathtub.
+10 Mila exited the back_yard and stayed in the waiting_room.
+11 Alexander moved the lime to the blue_bottle.
+12 Alexander exited the back_yard and stayed in the waiting_room.
+13 Ella, Alexander and Ava entered the playroom.
+14 The pear is in the green_suitcase.
+15 Mila saw a cat.
+16 Ella made no movements and stayed in the playroom for 10 minutes.
+17 Ella exited the playroom and stayed in the waiting_room.
+18 Alexander made no movements and stayed in the playroom for 10 minutes.
+19 Alexander exited the playroom and stayed in the waiting_room.
+20 Ava made no movements and stayed in the playroom for 10 minutes.
+21 Oliver lost his gloves.
+22 Ava exited the playroom and stayed in the waiting_room.
+Question: Where does Ava think Oliver thinks the lime is?
+Answer: blue_bottle
+Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

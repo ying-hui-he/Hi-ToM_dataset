@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Avery, Aria, Emily, Abigail and Charlotte entered the garage.
+2 The apple is in the green_cupboard.
+3 Avery made no movements and stayed in the garage for 10 minutes.
+4 Avery exited the garage and stayed in the waiting_room.
+5 Aria made no movements and stayed in the garage for 10 minutes.
+6 Aria exited the garage and stayed in the waiting_room.
+7 Emily moved the apple to the green_bottle.
+8 Emily exited the garage and stayed in the waiting_room.
+9 Abigail made no movements and stayed in the garage for 10 minutes.
+10 Abigail exited the garage and stayed in the waiting_room.
+11 Charlotte moved the apple to the green_cupboard.
+12 Charlotte likes the red_cupboard.
+13 Charlotte exited the garage and stayed in the waiting_room.
+14 Abigail publicly claimed that apple is in the blue_bathtub.
+15 Charlotte privately told Avery that the apple is in the green_cupboard.
+16 Charlotte, Aria and Abigail entered the crawlspace.
+17 The onion is in the red_treasure_chest.
+18 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
+19 Abigail dislikes the broccoli.
+20 Charlotte exited the crawlspace and stayed in the waiting_room.
+21 Aria moved the onion to the red_cupboard.
+22 Aria exited the crawlspace and stayed in the waiting_room.
+23 Abigail made no movements and stayed in the crawlspace for 10 minutes.
+24 Abigail exited the crawlspace and stayed in the waiting_room.
+25 Abigail, Charlotte, Aria and Emily entered the crawlspace.
+26 The onion is in the red_cupboard.
+27 Abigail moved the onion to the red_treasure_chest.
+28 Abigail exited the crawlspace and stayed in the waiting_room.
+29 Charlotte moved the onion to the blue_cupboard.
+30 Charlotte exited the crawlspace and stayed in the waiting_room.
+31 Aria moved the onion to the red_basket.
+32 Aria exited the crawlspace and stayed in the waiting_room.
+33 Emily moved the onion to the green_basket.
+34 Emily exited the crawlspace and stayed in the waiting_room.
+35 Charlotte publicly claimed that onion is in the blue_cupboard.
+36 Abigail likes the red_basket.
+37 Emily privately told Aria that the onion is in the red_basket.
+Question: Where does Aria really think the apple is?
+Answer: blue_bathtub
+Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

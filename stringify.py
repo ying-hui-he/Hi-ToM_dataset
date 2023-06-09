@@ -7,7 +7,7 @@ def stringify(story, exist_answer=False, order=0): # exist_answer is dummy
 
     i = 0  # The number of descriptions processed
     j = 0  # The number of lines output
-    count_order = 0 # 
+    count_order = 0 
 
     while True:
 
@@ -29,9 +29,14 @@ def stringify(story, exist_answer=False, order=0): # exist_answer is dummy
                     break
                 else:
                     count_order += 1
-                    continue # The loop ends when encountering the question of matched order. Don't need counters(i, j) for termination.     
+                    i += 1
+                    j += 1
+                    continue    
 
         lines.append(line)
+        # Increment counters
+        i += 1
+        j += 1
         
             
             # Append supporting lines indices if necessary
@@ -39,11 +44,9 @@ def stringify(story, exist_answer=False, order=0): # exist_answer is dummy
             #     line += '\t%s' % ' '.join([str(x + 1)
             #                             for x in story[i].idx_support])
         
-        # Increment counters
-        i += 1
-        j += 1
+        
 
-        if i >= len(story):
-            break
+        # if i >= len(story):
+        #     break
 
     return lines

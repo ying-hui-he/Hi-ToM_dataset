@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Lily, Oliver, Ava, Isla and Jackson entered the crawlspace.
+2 The sweet_potato is in the red_cupboard.
+3 Lily moved the sweet_potato to the green_crate.
+4 Lily exited the crawlspace and stayed in the waiting_room.
+5 Oliver made no movements and stayed in the crawlspace for 10 minutes.
+6 Oliver exited the crawlspace and stayed in the waiting_room.
+7 Ava made no movements and stayed in the crawlspace for 10 minutes.
+8 Isla dislikes the melon.
+9 Ava exited the crawlspace and stayed in the waiting_room.
+10 Isla moved the sweet_potato to the green_basket.
+11 Isla exited the crawlspace and stayed in the waiting_room.
+12 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+13 Jackson exited the crawlspace and stayed in the waiting_room.
+14 Isla, Jackson and Oliver entered the crawlspace.
+15 The sweet_potato is in the green_basket.
+16 Isla moved the sweet_potato to the green_crate.
+17 Isla exited the crawlspace and stayed in the waiting_room.
+18 Jackson made no movements and stayed in the crawlspace for 10 minutes.
+19 Jackson exited the crawlspace and stayed in the waiting_room.
+20 Oliver made no movements and stayed in the crawlspace for 10 minutes.
+21 Oliver exited the crawlspace and stayed in the waiting_room.
+22 Lily, Oliver, Jackson and Ava entered the laundry.
+23 The celery is in the green_treasure_chest.
+24 Lily made no movements and stayed in the laundry for 10 minutes.
+25 Lily exited the laundry and stayed in the waiting_room.
+26 Oliver moved the celery to the green_container.
+27 Ava dislikes the sweet_potato.
+28 Oliver exited the laundry and stayed in the waiting_room.
+29 Jackson moved the celery to the blue_crate.
+30 Jackson exited the laundry and stayed in the waiting_room.
+31 Ava made no movements and stayed in the laundry for 10 minutes.
+32 Ava exited the laundry and stayed in the waiting_room.
+33 Ava and Isla entered the laundry.
+34 The celery is in the blue_crate.
+35 Ava moved the celery to the green_treasure_chest.
+36 Ava exited the laundry and stayed in the waiting_room.
+37 Isla made no movements and stayed in the laundry for 10 minutes.
+38 Ava saw a cat.
+39 Isla exited the laundry and stayed in the waiting_room.
+41 Ava lost his watch.
+Question: Where does Ava think Oliver thinks the sweet_potato is?
+Answer: None
+Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

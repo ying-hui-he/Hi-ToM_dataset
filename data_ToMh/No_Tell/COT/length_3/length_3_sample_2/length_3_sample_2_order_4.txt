@@ -1,0 +1,38 @@
+Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
+Story:
+1 Jack, Carter, Emily, Ava and Amelia entered the bathroom.
+2 Carter dislikes the tomato.
+3 The orange is in the green_treasure_chest.
+4 Jack moved the orange to the blue_basket.
+5 Jack exited the bathroom and stayed in the waiting_room.
+6 Carter moved the orange to the green_bathtub.
+7 Carter exited the bathroom and stayed in the waiting_room.
+8 Emily moved the orange to the red_suitcase.
+9 Emily exited the bathroom and stayed in the waiting_room.
+10 Ava moved the orange to the red_pantry.
+11 Ava exited the bathroom and stayed in the waiting_room.
+12 Amelia made no movements and stayed in the bathroom for 10 minutes.
+13 Amelia exited the bathroom and stayed in the waiting_room.
+14 Amelia, Emily and Jack entered the office.
+15 Emily likes the red_treasure_chest.
+16 The carrot is in the red_bottle.
+17 Amelia made no movements and stayed in the office for 10 minutes.
+18 Amelia exited the office and stayed in the waiting_room.
+19 Emily made no movements and stayed in the office for 10 minutes.
+20 Emily exited the office and stayed in the waiting_room.
+21 Jack lost his watch.
+22 Jack moved the carrot to the red_treasure_chest.
+23 Jack exited the office and stayed in the waiting_room.
+24 Emily, Ava, Amelia and Carter entered the crawlspace.
+25 The tomato is in the green_pantry.
+26 Emily moved the tomato to the green_container.
+27 Emily exited the crawlspace and stayed in the waiting_room.
+28 Ava moved the tomato to the red_drawer.
+29 Ava exited the crawlspace and stayed in the waiting_room.
+30 Amelia moved the tomato to the green_suitcase.
+31 Amelia exited the crawlspace and stayed in the waiting_room.
+32 Carter made no movements and stayed in the crawlspace for 10 minutes.
+33 Carter exited the crawlspace and stayed in the waiting_room.
+Question: Where does Emily think Jack thinks Carter thinks Ava thinks the orange is?
+Answer: None
+Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.
