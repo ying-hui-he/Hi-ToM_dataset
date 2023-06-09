@@ -20,32 +20,27 @@ def stringify(story, exist_answer=False, order=0): # exist_answer is dummy
             line = line[0].upper() + line[1:]
 
             # Prepend the line number
-            if not line.split()[0] == 'Question:':
+            if line.split()[0] != 'Question:' and line.split()[0] != 'Choices:':
                 line = '%d %s' % (i + 1, line)
-
-            if line.split()[0] == 'Question:':
-                if count_order == order:
-                    lines.append(line) 
+            else: # Start with 'Choice'
+                if line.split()[0] == 'Choices:':
+                    lines.append(line)
                     break
-                else:
+                else: # Start with 'Question'
+                    if count_order == order:
+                        lines.append(line) 
                     count_order += 1
                     i += 1
-                    j += 1
-                    continue    
-
+                    continue   
         lines.append(line)
         # Increment counters
         i += 1
-        j += 1
-        
-            
+
             # Append supporting lines indices if necessary
             # if hasattr(story[i], 'idx_support') and story[i].idx_support:
             #     line += '\t%s' % ' '.join([str(x + 1)
             #                             for x in story[i].idx_support])
         
-        
-
         # if i >= len(story):
         #     break
 
