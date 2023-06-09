@@ -1,23 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 James, Ava, Amelia, Owen and Jayden entered the laundry.
-2 The pineapple is in the red_pantry.
-3 Owen saw a monkey.
-4 James moved the pineapple to the blue_treasure_chest.
-5 James exited the laundry.
-6 Ava moved the pineapple to the red_bucket.
-7 Ava exited the laundry.
-8 Amelia likes the blue_bathtub.
-9 Amelia moved the pineapple to the red_cupboard.
-10 Amelia exited the laundry.
-11 Owen made no movements and stayed in the laundry for 1 minute.
-12 Owen lost his gloves.
-13 Owen exited the laundry.
-14 Jayden moved the pineapple to the red_pantry.
-15 Jayden exited the laundry.
-16 James, Ava, Amelia, Owen and Jayden entered the waiting_room.
-Question: Where does James think Jayden thinks Amelia thinks the pineapple is?
-Answer: red_pantry
-Choices: A. green_bathtub, B. red_treasure_chest, C. blue_bathtub, D. green_envelope, E. blue_drawer, F. green_suitcase, G. green_drawer, H. red_bottle, I. blue_suitcase, J. green_basket, K. red_pantry, L. red_cupboard, M. red_bucket, N. green_box, O. blue_treasure_chest
+1 Emily, Abigail, Amelia, Elizabeth and Hannah entered the staircase.
+2 The asparagus is in the green_bottle.
+3 Emily made no movements and stayed in the staircase for 1 minute.
+4 Emily exited the staircase.
+5 Abigail made no movements and stayed in the staircase for 1 minute.
+6 Abigail exited the staircase.
+7 Amelia made no movements and stayed in the staircase for 1 minute.
+8 Amelia exited the staircase.
+9 Elizabeth made no movements and stayed in the staircase for 1 minute.
+10 Elizabeth exited the staircase.
+11 Hannah made no movements and stayed in the staircase for 1 minute.
+12 Hannah exited the staircase.
+13 Emily, Abigail, Amelia, Elizabeth and Hannah entered the waiting_room.
+Question: Where does Amelia think Hannah thinks Emily thinks the asparagus is?
+Answer: green_bottle
+Choices: A. green_basket, B. green_envelope, C. red_container, D. red_basket, E. blue_bucket, F. red_crate, G. blue_cupboard, H. green_cupboard, I. blue_bathtub, J. red_bottle, K. blue_bottle, L. green_bottle, M. green_box, N. red_box, O. green_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

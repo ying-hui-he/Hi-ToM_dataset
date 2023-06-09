@@ -1,20 +1,22 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Alexander, Lily, Lucas, Nathan and Oliver entered the porch.
-2 The radish is in the green_drawer.
-3 Alexander made no movements and stayed in the porch for 1 minute.
-4 Alexander exited the porch.
-5 Lily moved the radish to the blue_cupboard.
-6 Lily exited the porch.
-7 Lucas made no movements and stayed in the porch for 1 minute.
-8 Lucas exited the porch.
-9 Nathan made no movements and stayed in the porch for 1 minute.
-10 Nathan exited the porch.
-11 Oliver made no movements and stayed in the porch for 1 minute.
-12 Oliver exited the porch.
-13 Alexander, Lily, Lucas, Nathan and Oliver entered the waiting_room.
-Question: Where does Lily think Nathan thinks Oliver thinks the radish is?
-Answer: green_drawer
-Choices: A. green_drawer, B. blue_cupboard, C. red_bottle, D. blue_box, E. red_bucket, F. green_envelope, G. red_pantry, H. green_treasure_chest, I. red_envelope, J. blue_drawer, K. green_bottle, L. blue_suitcase, M. red_treasure_chest, N. blue_container, O. blue_pantry
+1 Isabella, Evelyn, William, Alexander and Logan entered the cellar.
+2 The carrot is in the red_container.
+3 Isabella moved the carrot to the blue_container.
+4 Logan likes the green_drawer.
+5 Isabella exited the cellar.
+6 Evelyn made no movements and stayed in the cellar for 1 minute.
+7 Logan likes the green_bucket.
+8 Evelyn exited the cellar.
+9 William made no movements and stayed in the cellar for 1 minute.
+10 William exited the cellar.
+11 Alexander moved the carrot to the green_bathtub.
+12 Alexander exited the cellar.
+13 Logan moved the carrot to the red_container.
+14 Logan exited the cellar.
+15 Isabella, Evelyn, William, Alexander and Logan entered the waiting_room.
+Question: Where does Logan think Evelyn thinks William thinks the carrot is?
+Answer: red_container
+Choices: A. green_cupboard, B. red_container, C. green_bathtub, D. blue_suitcase, E. blue_container, F. green_box, G. green_envelope, H. red_basket, I. red_envelope, J. blue_crate, K. green_drawer, L. green_bucket, M. red_crate, N. blue_bottle, O. blue_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

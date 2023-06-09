@@ -1,41 +1,41 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mason, William, Hannah, Owen and Olivia entered the den.
-2 The grapefruit is in the red_bottle.
-3 Mason made no movements and stayed in the den for 1 minute.
-4 Mason exited the den.
-5 William made no movements and stayed in the den for 1 minute.
-6 William exited the den.
-7 Hannah moved the grapefruit to the green_suitcase.
-8 Hannah exited the den.
-9 Owen moved the grapefruit to the red_treasure_chest.
-10 Owen exited the den.
-11 Olivia moved the grapefruit to the red_bottle.
-12 Olivia exited the den.
-13 Mason, William, Hannah, Owen and Olivia entered the waiting_room.
-14 William lost his phone.
-15 Owen, Mason and William entered the garden.
-16 The strawberry is in the green_basket.
-17 Owen moved the strawberry to the blue_bathtub.
-18 Owen exited the garden.
-19 Mason moved the strawberry to the green_crate.
-20 Mason exited the garden.
-21 William made no movements and stayed in the garden for 1 minute.
-22 William exited the garden.
-23 Owen, Mason and William entered the waiting_room.
-24 Hannah, William, Olivia and Mason entered the study.
-25 The banana is in the blue_suitcase.
-26 Hannah moved the banana to the red_pantry.
-27 Hannah exited the study.
-28 William moved the banana to the blue_cupboard.
-29 William exited the study.
-30 Olivia moved the banana to the red_cupboard.
-31 Olivia exited the study.
-32 Mason made no movements and stayed in the study for 1 minute.
-33 Mason exited the study.
-34 Hannah, William, Olivia and Mason entered the waiting_room.
-Question: Where is the grapefruit really?
-Answer: red_bottle
-Choices: A. green_bucket, B. green_basket, C. blue_bathtub, D. green_crate, E. green_box, F. green_suitcase, G. red_bottle, H. red_treasure_chest, I. red_drawer, J. green_bottle, K. blue_cupboard, L. blue_suitcase, M. red_pantry, N. blue_bucket, O. red_cupboard
+1 Owen, Liam, Jack, Jackson and Benjamin entered the hall.
+2 The beans is in the blue_suitcase.
+3 Owen made no movements and stayed in the hall for 1 minute.
+4 Owen exited the hall.
+5 Liam made no movements and stayed in the hall for 1 minute.
+6 Liam exited the hall.
+7 Jack moved the beans to the green_treasure_chest.
+8 Jack exited the hall.
+9 Jackson made no movements and stayed in the hall for 1 minute.
+10 Jackson exited the hall.
+11 Benjamin moved the beans to the blue_suitcase.
+12 Benjamin exited the hall.
+13 Owen, Liam, Jack, Jackson and Benjamin entered the waiting_room.
+14 Owen, Jack and Jackson entered the workshop.
+15 The cherry is in the red_basket.
+16 Owen made no movements and stayed in the workshop for 1 minute.
+17 Owen exited the workshop.
+18 Jack made no movements and stayed in the workshop for 1 minute.
+19 Jack exited the workshop.
+20 Jackson made no movements and stayed in the workshop for 1 minute.
+21 Jackson exited the workshop.
+22 Owen, Jack and Jackson entered the waiting_room.
+23 Owen, Jack, Benjamin and Jackson entered the hall.
+24 The beans is in the blue_suitcase.
+25 Owen made no movements and stayed in the hall for 1 minute.
+26 Owen likes the blue_bathtub.
+27 Owen exited the hall.
+28 Jack made no movements and stayed in the hall for 1 minute.
+29 Jack exited the hall.
+30 Benjamin made no movements and stayed in the hall for 1 minute.
+31 Benjamin exited the hall.
+32 Jackson made no movements and stayed in the hall for 1 minute.
+33 Jackson exited the hall.
+34 Owen, Jack, Benjamin and Jackson entered the waiting_room.
+Question: Where is the beans really?
+Answer: blue_suitcase
+Choices: A. blue_suitcase, B. green_bathtub, C. blue_bathtub, D. green_envelope, E. green_treasure_chest, F. red_basket, G. blue_bottle, H. blue_cupboard, I. blue_bucket, J. green_bottle, K. red_box, L. red_container, M. green_pantry, N. green_cupboard, O. red_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

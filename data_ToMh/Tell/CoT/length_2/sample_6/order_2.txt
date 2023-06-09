@@ -1,35 +1,33 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Ava, Isla, Oliver, Chloe and Olivia entered the sunroom.
-2 The plum is in the green_suitcase.
-3 Ava made no movements and stayed in the sunroom for 1 minute.
-4 Ava exited the sunroom.
-5 Isla made no movements and stayed in the sunroom for 1 minute.
-6 Isla exited the sunroom.
-7 Oliver made no movements and stayed in the sunroom for 1 minute.
-8 Oliver exited the sunroom.
-9 Chloe moved the plum to the green_drawer.
-10 Chloe exited the sunroom.
-11 Isla saw a mouse.
-12 Olivia made no movements and stayed in the sunroom for 1 minute.
-13 Olivia exited the sunroom.
-14 Ava, Isla, Oliver, Chloe and Olivia entered the waiting_room.
-15 Oliver, Ava and Isla entered the front_yard.
-16 The potato is in the blue_bathtub.
-17 Oliver made no movements and stayed in the front_yard for 1 minute.
-18 Oliver exited the front_yard.
-19 Ava moved the potato to the blue_envelope.
-20 Chloe likes the red_treasure_chest.
-21 Ava exited the front_yard.
-22 Isla moved the potato to the blue_box.
-23 Oliver dislikes the orange.
-24 Isla exited the front_yard.
-25 Oliver, Ava and Isla entered the waiting_room.
-26 Isla publicly claimed that potato is in the blue_envelope.
-27 Chloe likes the green_drawer.
-28 Oliver privately told Isla that the potato is in the blue_bathtub.
-Question: Where does Chloe think Isla thinks the plum is?
-Answer: green_suitcase
-Choices: A. red_drawer, B. red_envelope, C. green_pantry, D. green_envelope, E. blue_cupboard, F. green_bucket, G. blue_bathtub, H. blue_pantry, I. blue_envelope, J. blue_box, K. red_treasure_chest, L. green_suitcase, M. green_bottle, N. red_bucket, O. green_drawer
+1 Nathan, Isabella, William, Chloe and Elizabeth entered the basement.
+2 The peach is in the red_basket.
+3 Nathan made no movements and stayed in the basement for 1 minute.
+4 Nathan exited the basement.
+5 Isabella made no movements and stayed in the basement for 1 minute.
+6 Isabella exited the basement.
+7 William moved the peach to the green_bathtub.
+8 William exited the basement.
+9 Chloe made no movements and stayed in the basement for 1 minute.
+10 Chloe exited the basement.
+11 Elizabeth moved the peach to the red_basket.
+12 Elizabeth exited the basement.
+13 Nathan, Isabella, William, Chloe and Elizabeth entered the waiting_room.
+14 Isabella, Elizabeth and William entered the workshop.
+15 The beans is in the green_drawer.
+16 Isabella moved the beans to the red_box.
+17 Isabella exited the workshop.
+18 Elizabeth moved the beans to the blue_bucket.
+19 Elizabeth exited the workshop.
+20 William moved the beans to the red_bucket.
+21 Elizabeth dislikes the plum.
+22 William exited the workshop.
+23 Isabella, Elizabeth and William entered the waiting_room.
+24 Isabella lost his phone.
+25 William publicly claimed that beans is in the green_drawer.
+26 Isabella privately told William that the beans is in the red_box.
+Question: Where does Isabella think Chloe thinks the peach is?
+Answer: red_basket
+Choices: A. green_bucket, B. blue_bottle, C. blue_drawer, D. blue_bathtub, E. green_bottle, F. green_drawer, G. red_bucket, H. red_envelope, I. red_box, J. blue_bucket, K. green_cupboard, L. red_basket, M. green_basket, N. green_box, O. green_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,22 +1,22 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Nathan, Aiden, Amelia, Ella and Aria entered the back_yard.
-2 The beans is in the red_bucket.
-3 Nathan made no movements and stayed in the back_yard for 1 minute.
-4 Nathan exited the back_yard.
-5 Aiden made no movements and stayed in the back_yard for 1 minute.
-6 Aiden exited the back_yard.
-7 Amelia moved the beans to the blue_envelope.
-8 Ella dislikes the lime.
-9 Amelia exited the back_yard.
-10 Ella moved the beans to the green_drawer.
-11 Ella exited the back_yard.
-12 Aria made no movements and stayed in the back_yard for 1 minute.
-13 Aria exited the back_yard.
-14 Nathan, Aiden, Amelia, Ella and Aria entered the waiting_room.
-15 Ella publicly claimed that beans is in the blue_bottle.
-16 Aria privately told Nathan that the beans is in the green_drawer.
-Question: Where does Amelia think Aiden thinks the beans is?
-Choices: A. blue_pantry, B. blue_container, C. green_bottle, D. green_envelope, E. blue_suitcase, F. green_bathtub, G. blue_drawer, H. blue_bucket, I. green_crate, J. blue_cupboard, K. blue_bottle, L. red_bucket, M. green_drawer, N. green_box, O. blue_envelope
+1 Sophia, Isla, Benjamin, Alexander and Emily entered the living_room.
+2 The lettuce is in the red_bucket.
+3 Sophia moved the lettuce to the red_box.
+4 Sophia exited the living_room.
+5 Isla made no movements and stayed in the living_room for 1 minute.
+6 Isla exited the living_room.
+7 Benjamin made no movements and stayed in the living_room for 1 minute.
+8 Benjamin exited the living_room.
+9 Alexander moved the lettuce to the red_pantry.
+10 Alexander exited the living_room.
+11 Emily moved the lettuce to the red_bucket.
+12 Emily exited the living_room.
+13 Sophia, Isla, Benjamin, Alexander and Emily entered the waiting_room.
+14 Benjamin privately told Sophia that the lettuce is in the red_bucket.
+15 Isla lost his phone.
+16 Isla privately told Alexander that the lettuce is in the red_pantry.
+Question: Where does Benjamin think Isla thinks the lettuce is?
+Choices: A. blue_bathtub, B. red_crate, C. red_bottle, D. green_envelope, E. green_treasure_chest, F. blue_bottle, G. blue_treasure_chest, H. green_cupboard, I. blue_container, J. green_basket, K. red_bucket, L. red_pantry, M. blue_cupboard, N. blue_suitcase, O. red_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

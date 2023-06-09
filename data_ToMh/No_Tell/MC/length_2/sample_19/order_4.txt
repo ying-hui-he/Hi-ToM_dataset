@@ -1,32 +1,31 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Liam, Ava, Evelyn and Jayden entered the kitchen.
-2 The corn is in the blue_pantry.
-3 Abigail moved the corn to the red_envelope.
-4 Abigail exited the kitchen.
-5 Liam made no movements and stayed in the kitchen for 1 minute.
-6 Liam exited the kitchen.
-7 Ava made no movements and stayed in the kitchen for 1 minute.
-8 Ava exited the kitchen.
-9 Evelyn moved the corn to the red_bottle.
-10 Evelyn exited the kitchen.
-11 Jayden made no movements and stayed in the kitchen for 1 minute.
-12 Abigail likes the green_suitcase.
-13 Jayden exited the kitchen.
-14 Evelyn dislikes the eggplant.
-15 Abigail, Liam, Ava, Evelyn and Jayden entered the waiting_room.
-16 Evelyn, Jayden and Ava entered the kitchen.
-17 The pineapple is in the red_bottle.
-18 Evelyn made no movements and stayed in the kitchen for 1 minute.
-19 Evelyn exited the kitchen.
-20 Jayden made no movements and stayed in the kitchen for 1 minute.
-21 Jayden exited the kitchen.
-22 Ava moved the pineapple to the green_suitcase.
-23 Ava exited the kitchen.
-24 Jayden lost his gloves.
-25 Evelyn, Jayden and Ava entered the waiting_room.
-Question: Where does Abigail think Liam thinks Ava thinks Jayden thinks the corn is?
-Answer: blue_pantry
-Choices: A. blue_bucket, B. blue_bottle, C. red_container, D. green_box, E. red_pantry, F. blue_container, G. red_cupboard, H. blue_bathtub, I. green_bottle, J. green_crate, K. red_bottle, L. blue_pantry, M. green_treasure_chest, N. green_suitcase, O. red_envelope
+1 Sophia, Jackson, Amelia, Charlotte and Nathan entered the laundry.
+2 The tomato is in the blue_container.
+3 Sophia moved the tomato to the blue_cupboard.
+4 Sophia exited the laundry.
+5 Jackson moved the tomato to the blue_crate.
+6 Jackson exited the laundry.
+7 Amelia made no movements and stayed in the laundry for 1 minute.
+8 Amelia exited the laundry.
+9 Charlotte made no movements and stayed in the laundry for 1 minute.
+10 Charlotte exited the laundry.
+11 Nathan moved the tomato to the blue_container.
+12 Nathan exited the laundry.
+13 Sophia, Jackson, Amelia, Charlotte and Nathan entered the waiting_room.
+14 Nathan, Jackson and Amelia entered the hall.
+15 The onion is in the blue_treasure_chest.
+16 Nathan made no movements and stayed in the hall for 1 minute.
+17 Nathan exited the hall.
+18 Jackson moved the onion to the red_envelope.
+19 Jackson exited the hall.
+20 Amelia moved the onion to the green_cupboard.
+21 Jackson saw a mouse.
+22 Amelia exited the hall.
+23 Jackson lost his phone.
+24 Nathan, Jackson and Amelia entered the waiting_room.
+Question: Where does Sophia think Amelia thinks Nathan thinks Jackson thinks the tomato is?
+Answer: blue_container
+Choices: A. green_bottle, B. green_pantry, C. blue_suitcase, D. red_bucket, E. green_box, F. green_cupboard, G. blue_treasure_chest, H. red_bottle, I. green_drawer, J. red_envelope, K. blue_container, L. blue_crate, M. blue_cupboard, N. red_pantry, O. blue_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,31 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 James, Amelia, Ella, Jack and Liam entered the lounge.
-2 The tangerine is in the green_envelope.
-3 James moved the tangerine to the blue_bathtub.
-4 James exited the lounge.
-5 Amelia moved the tangerine to the red_cupboard.
-6 James lost his watch.
-7 Amelia exited the lounge.
-8 Ella moved the tangerine to the green_bathtub.
-9 Ella exited the lounge.
-10 Jack moved the tangerine to the blue_bucket.
-11 Jack exited the lounge.
-12 Liam made no movements and stayed in the lounge for 1 minute.
-13 Liam exited the lounge.
-14 James, Amelia, Ella, Jack and Liam entered the waiting_room.
-15 Liam, Jack and Ella entered the lounge.
-16 The tangerine is in the blue_bucket.
-17 Ella likes the green_crate.
-18 Liam moved the tangerine to the green_envelope.
-19 Liam exited the lounge.
-20 James likes the green_bathtub.
-21 Jack made no movements and stayed in the lounge for 1 minute.
-22 Jack exited the lounge.
-23 Ella made no movements and stayed in the lounge for 1 minute.
-24 Ella exited the lounge.
-25 Liam, Jack and Ella entered the waiting_room.
-Question: Where is the tangerine really?
-Choices: A. green_crate, B. blue_suitcase, C. blue_container, D. green_treasure_chest, E. green_bucket, F. red_container, G. green_pantry, H. red_pantry, I. red_bottle, J. red_drawer, K. green_envelope, L. red_cupboard, M. green_bathtub, N. blue_bucket, O. blue_bathtub
+1 Mila, Isla, Noah, Sophia and Lily entered the staircase.
+2 The corn is in the blue_treasure_chest.
+3 Mila made no movements and stayed in the staircase for 1 minute.
+4 Mila exited the staircase.
+5 Isla made no movements and stayed in the staircase for 1 minute.
+6 Noah dislikes the green_pepper.
+7 Isla exited the staircase.
+8 Noah made no movements and stayed in the staircase for 1 minute.
+9 Noah exited the staircase.
+10 Sophia moved the corn to the blue_container.
+11 Sophia exited the staircase.
+12 Lily made no movements and stayed in the staircase for 1 minute.
+13 Sophia dislikes the tomato.
+14 Lily exited the staircase.
+15 Mila, Isla, Noah, Sophia and Lily entered the waiting_room.
+16 Isla, Sophia and Lily entered the front_yard.
+17 The tomato is in the red_box.
+18 Isla made no movements and stayed in the front_yard for 1 minute.
+19 Isla exited the front_yard.
+20 Sophia made no movements and stayed in the front_yard for 1 minute.
+21 Sophia exited the front_yard.
+22 Lily moved the tomato to the green_drawer.
+23 Lily exited the front_yard.
+24 Isla, Sophia and Lily entered the waiting_room.
+Question: Where is the corn really?
+Choices: A. green_pantry, B. red_envelope, C. green_bathtub, D. red_basket, E. blue_suitcase, F. red_box, G. blue_bottle, H. blue_drawer, I. green_drawer, J. red_container, K. blue_treasure_chest, L. red_bottle, M. blue_container, N. green_envelope, O. green_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

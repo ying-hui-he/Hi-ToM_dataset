@@ -1,20 +1,20 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Charlotte, Hannah, Ava, Mason and Evelyn entered the bedroom.
-2 The lime is in the red_bucket.
-3 Charlotte moved the lime to the green_bottle.
-4 Charlotte exited the bedroom.
-5 Hannah made no movements and stayed in the bedroom for 1 minute.
-6 Hannah exited the bedroom.
-7 Ava made no movements and stayed in the bedroom for 1 minute.
-8 Ava exited the bedroom.
-9 Mason moved the lime to the green_bucket.
-10 Mason exited the bedroom.
-11 Evelyn moved the lime to the red_bucket.
-12 Evelyn exited the bedroom.
-13 Charlotte, Hannah, Ava, Mason and Evelyn entered the waiting_room.
-Question: Where does Mason think Hannah thinks the lime is?
-Answer: red_bucket
-Choices: A. red_bucket, B. green_bucket, C. green_bottle, D. red_cupboard, E. green_drawer, F. blue_pantry, G. blue_cupboard, H. blue_container, I. green_envelope, J. red_drawer, K. red_envelope, L. blue_drawer, M. green_box, N. green_crate, O. green_pantry
+1 Avery, Owen, Ella, Ava and Amelia entered the back_yard.
+2 The watermelon is in the blue_container.
+3 Avery made no movements and stayed in the back_yard for 1 minute.
+4 Avery exited the back_yard.
+5 Owen made no movements and stayed in the back_yard for 1 minute.
+6 Owen exited the back_yard.
+7 Ella moved the watermelon to the red_pantry.
+8 Ella exited the back_yard.
+9 Ava made no movements and stayed in the back_yard for 1 minute.
+10 Ava exited the back_yard.
+11 Amelia moved the watermelon to the blue_container.
+12 Amelia exited the back_yard.
+13 Avery, Owen, Ella, Ava and Amelia entered the waiting_room.
+Question: Where does Owen think Avery thinks the watermelon is?
+Answer: blue_container
+Choices: A. red_crate, B. green_crate, C. blue_suitcase, D. red_bottle, E. green_basket, F. green_box, G. red_container, H. blue_crate, I. red_bucket, J. green_cupboard, K. green_bucket, L. blue_container, M. green_drawer, N. red_pantry, O. red_basket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

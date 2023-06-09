@@ -1,31 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Isla, Oliver, Aiden, Hannah and Charlotte entered the bedroom.
-2 The broccoli is in the green_bucket.
-3 Aiden lost his watch.
-4 Isla moved the broccoli to the green_bathtub.
-5 Isla exited the bedroom.
-6 Oliver moved the broccoli to the green_bottle.
-7 Oliver exited the bedroom.
-8 Aiden made no movements and stayed in the bedroom for 1 minute.
-9 Aiden exited the bedroom.
-10 Oliver saw a dog.
-11 Hannah made no movements and stayed in the bedroom for 1 minute.
-12 Hannah exited the bedroom.
-13 Charlotte moved the broccoli to the green_bucket.
-14 Charlotte exited the bedroom.
-15 Isla, Oliver, Aiden, Hannah and Charlotte entered the waiting_room.
-16 Charlotte, Hannah and Oliver entered the pantry.
-17 The potato is in the red_cupboard.
-18 Oliver lost his gloves.
-19 Charlotte made no movements and stayed in the pantry for 1 minute.
-20 Charlotte exited the pantry.
-21 Hannah made no movements and stayed in the pantry for 1 minute.
-22 Hannah exited the pantry.
-23 Oliver made no movements and stayed in the pantry for 1 minute.
-24 Oliver exited the pantry.
-25 Charlotte, Hannah and Oliver entered the waiting_room.
-Question: Where is the broccoli really?
-Choices: A. red_pantry, B. red_cupboard, C. blue_cupboard, D. blue_container, E. blue_pantry, F. green_bathtub, G. green_bucket, H. green_bottle, I. green_envelope, J. red_drawer, K. red_bottle, L. red_treasure_chest, M. green_suitcase, N. green_box, O. blue_bathtub
+1 Evelyn, Isla, Alexander, Emma and Sophia entered the hall.
+2 The lemon is in the red_box.
+3 Evelyn moved the lemon to the red_container.
+4 Evelyn exited the hall.
+5 Isla made no movements and stayed in the hall for 1 minute.
+6 Isla exited the hall.
+7 Alexander moved the lemon to the green_treasure_chest.
+8 Alexander exited the hall.
+9 Emma moved the lemon to the green_bottle.
+10 Emma exited the hall.
+11 Sophia made no movements and stayed in the hall for 1 minute.
+12 Sophia exited the hall.
+13 Evelyn, Isla, Alexander, Emma and Sophia entered the waiting_room.
+14 Alexander, Emma and Evelyn entered the TV_room.
+15 The pear is in the red_basket.
+16 Alexander made no movements and stayed in the TV_room for 1 minute.
+17 Alexander exited the TV_room.
+18 Emma moved the pear to the blue_treasure_chest.
+19 Emma exited the TV_room.
+20 Emma dislikes the eggplant.
+21 Evelyn made no movements and stayed in the TV_room for 1 minute.
+22 Evelyn exited the TV_room.
+23 Alexander, Emma and Evelyn entered the waiting_room.
+Question: Where is the lemon really?
+Choices: A. red_basket, B. blue_treasure_chest, C. green_crate, D. blue_cupboard, E. red_bottle, F. blue_crate, G. green_pantry, H. green_bucket, I. green_box, J. blue_drawer, K. green_bottle, L. red_box, M. green_treasure_chest, N. blue_bathtub, O. red_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

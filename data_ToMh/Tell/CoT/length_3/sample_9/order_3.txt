@@ -1,47 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Alexander, Jackson, Nathan, Sophia and Lucas entered the basement.
-2 The green_pepper is in the green_basket.
-3 Alexander moved the green_pepper to the green_suitcase.
-4 Alexander exited the basement.
-5 Jackson moved the green_pepper to the blue_bucket.
-6 Jackson saw a mouse.
-7 Jackson exited the basement.
-8 Nathan made no movements and stayed in the basement for 1 minute.
-9 Nathan exited the basement.
-10 Sophia made no movements and stayed in the basement for 1 minute.
-11 Sophia exited the basement.
-12 Lucas moved the green_pepper to the green_basket.
-13 Lucas exited the basement.
-14 Alexander, Jackson, Nathan, Sophia and Lucas entered the waiting_room.
-15 Nathan publicly claimed that green_pepper is in the green_basket.
-16 Lucas privately told Nathan that the green_pepper is in the green_suitcase.
-17 Lucas, Nathan and Alexander entered the playroom.
-18 The pumpkin is in the red_cupboard.
-19 Lucas made no movements and stayed in the playroom for 1 minute.
-20 Lucas exited the playroom.
-21 Nathan moved the pumpkin to the green_bathtub.
-22 Nathan exited the playroom.
-23 Nathan likes the blue_suitcase.
-24 Alexander made no movements and stayed in the playroom for 1 minute.
-25 Alexander exited the playroom.
-26 Lucas, Nathan and Alexander entered the waiting_room.
-27 Jackson, Alexander, Nathan and Sophia entered the sunroom.
-28 The strawberry is in the blue_pantry.
-29 Jackson made no movements and stayed in the sunroom for 1 minute.
-30 Jackson exited the sunroom.
-31 Alexander moved the strawberry to the green_box.
-32 Alexander exited the sunroom.
-33 Nathan made no movements and stayed in the sunroom for 1 minute.
-34 Nathan exited the sunroom.
-35 Sophia made no movements and stayed in the sunroom for 1 minute.
-36 Jackson lost his watch.
-37 Sophia exited the sunroom.
-38 Jackson, Alexander, Nathan and Sophia entered the waiting_room.
-39 Jackson publicly claimed that strawberry is in the green_box.
-40 Sophia privately told Lucas that the strawberry is in the green_box.
-Question: Where does Alexander think Nathan thinks Sophia thinks the green_pepper is?
-Answer: green_basket
-Choices: A. red_container, B. red_cupboard, C. green_bathtub, D. green_treasure_chest, E. red_bottle, F. blue_cupboard, G. blue_pantry, H. green_box, I. green_bottle, J. green_pantry, K. blue_suitcase, L. green_basket, M. green_suitcase, N. blue_bucket, O. red_bucket
+1 Nathan, Elizabeth, Carter, Jacob and Isla entered the kitchen.
+2 The watermelon is in the blue_bottle.
+3 Nathan made no movements and stayed in the kitchen for 1 minute.
+4 Nathan exited the kitchen.
+5 Elizabeth moved the watermelon to the red_envelope.
+6 Elizabeth exited the kitchen.
+7 Carter moved the watermelon to the blue_cupboard.
+8 Carter exited the kitchen.
+9 Jacob made no movements and stayed in the kitchen for 1 minute.
+10 Jacob exited the kitchen.
+11 Isla made no movements and stayed in the kitchen for 1 minute.
+12 Carter dislikes the cherry.
+13 Isla exited the kitchen.
+14 Nathan, Elizabeth, Carter, Jacob and Isla entered the waiting_room.
+15 Carter publicly claimed that watermelon is in the red_envelope.
+16 Isla privately told Carter that the watermelon is in the blue_container.
+17 Jacob, Carter and Elizabeth entered the kitchen.
+18 The watermelon is in the blue_cupboard.
+19 Jacob moved the watermelon to the red_envelope.
+20 Jacob exited the kitchen.
+21 Carter moved the watermelon to the green_bucket.
+22 Carter exited the kitchen.
+23 Elizabeth moved the watermelon to the blue_container.
+24 Elizabeth exited the kitchen.
+25 Jacob, Carter and Elizabeth entered the waiting_room.
+26 Jacob, Isla, Elizabeth and Carter entered the porch.
+27 The banana is in the red_drawer.
+28 Jacob moved the banana to the blue_treasure_chest.
+29 Isla likes the blue_bottle.
+30 Jacob exited the porch.
+31 Isla moved the banana to the green_treasure_chest.
+32 Isla exited the porch.
+33 Elizabeth moved the banana to the green_bathtub.
+34 Elizabeth exited the porch.
+35 Carter moved the banana to the blue_bucket.
+36 Carter exited the porch.
+37 Jacob, Isla, Elizabeth and Carter entered the waiting_room.
+38 Isla privately told Elizabeth that the banana is in the red_drawer.
+39 Carter privately told Nathan that the banana is in the blue_bucket.
+Question: Where does Elizabeth think Carter thinks Isla thinks the watermelon is?
+Answer: blue_bottle
+Choices: A. blue_bucket, B. red_drawer, C. green_bathtub, D. green_treasure_chest, E. blue_treasure_chest, F. blue_bottle, G. green_bucket, H. blue_cupboard, I. blue_container, J. red_envelope, K. blue_drawer, L. green_pantry, M. red_basket, N. red_crate, O. green_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

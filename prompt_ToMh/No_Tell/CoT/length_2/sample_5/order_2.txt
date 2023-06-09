@@ -1,29 +1,30 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Charlotte, William, Olivia, Ella and Mason entered the den.
-2 The celery is in the green_envelope.
-3 Charlotte made no movements and stayed in the den for 1 minute.
-4 Charlotte exited the den.
-5 William moved the celery to the blue_treasure_chest.
-6 William exited the den.
-7 Olivia made no movements and stayed in the den for 1 minute.
-8 Ella likes the blue_treasure_chest.
-9 Olivia exited the den.
-10 Ella made no movements and stayed in the den for 1 minute.
-11 Ella exited the den.
-12 Mason made no movements and stayed in the den for 1 minute.
-13 Mason exited the den.
-14 Charlotte, William, Olivia, Ella and Mason entered the waiting_room.
-15 Olivia, Ella and Mason entered the den.
-16 The celery is in the blue_treasure_chest.
-17 Olivia moved the celery to the green_treasure_chest.
-18 Olivia exited the den.
-19 Ella made no movements and stayed in the den for 1 minute.
-20 Ella exited the den.
-21 Mason made no movements and stayed in the den for 1 minute.
-22 Mason exited the den.
-23 Olivia, Ella and Mason entered the waiting_room.
-Question: Where does William think Olivia thinks the celery is?
-Choices: A. blue_pantry, B. blue_suitcase, C. green_basket, D. blue_container, E. blue_cupboard, F. blue_treasure_chest, G. green_envelope, H. green_crate, I. blue_bottle, J. green_treasure_chest, K. red_bucket, L. blue_box, M. green_bottle, N. red_drawer, O. blue_drawer
+1 Noah, Emma, Avery, Aiden and Jackson entered the staircase.
+2 The cabbage is in the green_envelope.
+3 Noah moved the cabbage to the green_box.
+4 Emma likes the red_envelope.
+5 Noah exited the staircase.
+6 Emma made no movements and stayed in the staircase for 1 minute.
+7 Emma exited the staircase.
+8 Avery made no movements and stayed in the staircase for 1 minute.
+9 Avery exited the staircase.
+10 Aiden made no movements and stayed in the staircase for 1 minute.
+11 Aiden exited the staircase.
+12 Jackson made no movements and stayed in the staircase for 1 minute.
+13 Jackson exited the staircase.
+14 Noah, Emma, Avery, Aiden and Jackson entered the waiting_room.
+15 Aiden likes the blue_bucket.
+16 Aiden, Avery and Jackson entered the staircase.
+17 The cabbage is in the green_box.
+18 Aiden made no movements and stayed in the staircase for 1 minute.
+19 Aiden exited the staircase.
+20 Avery moved the cabbage to the green_envelope.
+21 Avery exited the staircase.
+22 Jackson made no movements and stayed in the staircase for 1 minute.
+23 Jackson exited the staircase.
+24 Aiden, Avery and Jackson entered the waiting_room.
+Question: Where does Aiden think Avery thinks the cabbage is?
+Choices: A. red_envelope, B. green_envelope, C. green_box, D. blue_bucket, E. blue_pantry, F. green_basket, G. blue_drawer, H. red_container, I. green_bucket, J. green_bathtub, K. red_box, L. green_crate, M. blue_container, N. green_drawer, O. red_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

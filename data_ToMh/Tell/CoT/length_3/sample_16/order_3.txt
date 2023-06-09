@@ -1,51 +1,47 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Abigail likes the blue_bathtub.
-2 Isla, William, Nathan, Abigail and Mia entered the lounge.
-3 The pineapple is in the red_cupboard.
-4 Isla moved the pineapple to the red_bottle.
-5 Abigail saw a monkey.
-6 Isla exited the lounge.
-7 William made no movements and stayed in the lounge for 1 minute.
-8 William exited the lounge.
-9 Nathan moved the pineapple to the green_treasure_chest.
-10 Nathan exited the lounge.
-11 Abigail made no movements and stayed in the lounge for 1 minute.
-12 Abigail exited the lounge.
-13 Mia made no movements and stayed in the lounge for 1 minute.
-14 William likes the red_drawer.
-15 Mia exited the lounge.
-16 Isla, William, Nathan, Abigail and Mia entered the waiting_room.
-17 Abigail publicly claimed that pineapple is in the red_cupboard.
-18 Mia privately told Isla that the pineapple is in the green_treasure_chest.
-19 Isla, Mia and Abigail entered the lounge.
-20 The lettuce is in the green_basket.
-21 Isla moved the lettuce to the red_cupboard.
-22 Isla exited the lounge.
-23 Isla dislikes the carrot.
-24 Mia made no movements and stayed in the lounge for 1 minute.
-25 William lost his watch.
-26 Mia exited the lounge.
-27 Abigail moved the lettuce to the red_drawer.
-28 Abigail exited the lounge.
-29 Isla, Mia and Abigail entered the waiting_room.
-30 Mia, William, Nathan and Abigail entered the bathroom.
-31 Abigail saw a monkey.
-32 The pumpkin is in the blue_bucket.
-33 Mia moved the pumpkin to the red_envelope.
-34 Isla likes the blue_cupboard.
-35 Mia exited the bathroom.
-36 William made no movements and stayed in the bathroom for 1 minute.
-37 William exited the bathroom.
-38 Nathan made no movements and stayed in the bathroom for 1 minute.
-39 Nathan exited the bathroom.
-40 Abigail made no movements and stayed in the bathroom for 1 minute.
-41 Abigail exited the bathroom.
-42 Mia, William, Nathan and Abigail entered the waiting_room.
-43 William privately told Nathan that the pumpkin is in the blue_treasure_chest.
-44 Abigail privately told Isla that the pumpkin is in the red_envelope.
-Question: Where does William think Mia thinks Abigail thinks the pineapple is?
-Answer: red_cupboard
-Choices: A. blue_bucket, B. blue_envelope, C. red_envelope, D. blue_treasure_chest, E. green_crate, F. red_treasure_chest, G. blue_container, H. blue_bathtub, I. blue_cupboard, J. green_suitcase, K. red_cupboard, L. green_basket, M. red_bottle, N. green_treasure_chest, O. red_drawer
+1 Aiden saw a cat.
+2 Owen, Avery, Noah, Aiden and Ella entered the front_yard.
+3 The cherry is in the green_envelope.
+4 Noah likes the green_envelope.
+5 Owen moved the cherry to the blue_bucket.
+6 Owen exited the front_yard.
+7 Avery lost his phone.
+8 Avery made no movements and stayed in the front_yard for 1 minute.
+9 Avery exited the front_yard.
+10 Noah made no movements and stayed in the front_yard for 1 minute.
+11 Noah exited the front_yard.
+12 Aiden moved the cherry to the blue_cupboard.
+13 Aiden exited the front_yard.
+14 Ella made no movements and stayed in the front_yard for 1 minute.
+15 Ella exited the front_yard.
+16 Owen, Avery, Noah, Aiden and Ella entered the waiting_room.
+17 Noah publicly claimed that cherry is in the green_envelope.
+18 Ella privately told Noah that the cherry is in the blue_bottle.
+19 Aiden, Avery and Owen entered the bedroom.
+20 The lettuce is in the green_box.
+21 Aiden made no movements and stayed in the bedroom for 1 minute.
+22 Aiden exited the bedroom.
+23 Avery moved the lettuce to the red_envelope.
+24 Avery exited the bedroom.
+25 Owen made no movements and stayed in the bedroom for 1 minute.
+26 Owen exited the bedroom.
+27 Aiden, Avery and Owen entered the waiting_room.
+28 Owen, Ella, Aiden and Avery entered the bedroom.
+29 The lettuce is in the red_envelope.
+30 Owen made no movements and stayed in the bedroom for 1 minute.
+31 Owen exited the bedroom.
+32 Ella made no movements and stayed in the bedroom for 1 minute.
+33 Ella exited the bedroom.
+34 Aiden made no movements and stayed in the bedroom for 1 minute.
+35 Aiden exited the bedroom.
+36 Avery moved the lettuce to the blue_treasure_chest.
+37 Avery exited the bedroom.
+38 Owen, Ella, Aiden and Avery entered the waiting_room.
+39 Ella privately told Aiden that the lettuce is in the red_box.
+40 Avery privately told Noah that the lettuce is in the blue_treasure_chest.
+Question: Where does Owen think Noah thinks Aiden thinks the cherry is?
+Answer: green_envelope
+Choices: A. blue_container, B. green_crate, C. green_bottle, D. green_basket, E. red_crate, F. green_envelope, G. blue_bottle, H. red_container, I. blue_bucket, J. blue_cupboard, K. red_envelope, L. green_box, M. red_box, N. green_drawer, O. blue_treasure_chest
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

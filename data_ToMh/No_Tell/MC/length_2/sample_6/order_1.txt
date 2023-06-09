@@ -1,31 +1,32 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Nathan, Lucas, Charlotte and Jayden entered the den.
-2 The grapefruit is in the green_crate.
-3 Mia moved the grapefruit to the red_container.
-4 Mia exited the den.
-5 Nathan moved the grapefruit to the green_box.
-6 Nathan exited the den.
-7 Lucas moved the grapefruit to the green_suitcase.
-8 Lucas exited the den.
-9 Charlotte made no movements and stayed in the den for 1 minute.
-10 Nathan likes the green_box.
-11 Charlotte exited the den.
-12 Jayden moved the grapefruit to the green_crate.
-13 Jayden exited the den.
-14 Mia, Nathan, Lucas, Charlotte and Jayden entered the waiting_room.
-15 Charlotte, Lucas and Jayden entered the den.
-16 The grapefruit is in the green_crate.
-17 Charlotte moved the grapefruit to the red_pantry.
-18 Charlotte exited the den.
-19 Lucas moved the grapefruit to the green_suitcase.
-20 Lucas exited the den.
-21 Jayden moved the grapefruit to the red_container.
-22 Jayden exited the den.
-23 Lucas dislikes the banana.
-24 Charlotte, Lucas and Jayden entered the waiting_room.
-Question: Where does Lucas really think the grapefruit is?
-Answer: green_suitcase
-Choices: A. green_crate, B. green_suitcase, C. green_box, D. red_pantry, E. red_container, F. red_drawer, G. blue_suitcase, H. green_bucket, I. blue_bathtub, J. blue_container, K. red_envelope, L. green_drawer, M. blue_drawer, N. green_bathtub, O. red_bucket
+1 Owen, Avery, Benjamin, Mila and Noah entered the bedroom.
+2 The melon is in the red_pantry.
+3 Owen moved the melon to the green_basket.
+4 Owen exited the bedroom.
+5 Avery saw a monkey.
+6 Avery made no movements and stayed in the bedroom for 1 minute.
+7 Avery exited the bedroom.
+8 Owen likes the red_basket.
+9 Benjamin made no movements and stayed in the bedroom for 1 minute.
+10 Benjamin exited the bedroom.
+11 Mila moved the melon to the green_box.
+12 Mila exited the bedroom.
+13 Noah moved the melon to the red_pantry.
+14 Noah exited the bedroom.
+15 Owen, Avery, Benjamin, Mila and Noah entered the waiting_room.
+16 Noah, Avery and Mila entered the dining_room.
+17 The sweet_potato is in the red_basket.
+18 Noah moved the sweet_potato to the green_bucket.
+19 Noah exited the dining_room.
+20 Avery moved the sweet_potato to the blue_container.
+21 Avery exited the dining_room.
+22 Owen saw a dog.
+23 Mila made no movements and stayed in the dining_room for 1 minute.
+24 Mila exited the dining_room.
+25 Noah, Avery and Mila entered the waiting_room.
+Question: Where does Owen really think the melon is?
+Answer: green_basket
+Choices: A. red_basket, B. green_crate, C. green_bucket, D. blue_container, E. red_crate, F. red_pantry, G. green_basket, H. green_pantry, I. blue_bucket, J. green_box, K. red_drawer, L. red_box, M. blue_cupboard, N. green_envelope, O. green_drawer
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

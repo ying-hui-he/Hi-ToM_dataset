@@ -1,42 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Ava, Oliver, Charlotte, Alexander and Mason entered the sunroom.
-2 Ava likes the blue_treasure_chest.
-3 The corn is in the red_pantry.
-4 Ava moved the corn to the green_basket.
-5 Ava exited the sunroom.
-6 Oliver made no movements and stayed in the sunroom for 1 minute.
-7 Oliver exited the sunroom.
-8 Charlotte moved the corn to the green_bucket.
-9 Charlotte exited the sunroom.
-10 Alexander moved the corn to the green_box.
-11 Alexander exited the sunroom.
-12 Mason made no movements and stayed in the sunroom for 1 minute.
-13 Mason exited the sunroom.
-14 Ava, Oliver, Charlotte, Alexander and Mason entered the waiting_room.
-15 Mason, Alexander and Charlotte entered the front_yard.
-16 The onion is in the green_pantry.
-17 Mason moved the onion to the red_bottle.
-18 Mason exited the front_yard.
-19 Alexander moved the onion to the green_treasure_chest.
-20 Alexander exited the front_yard.
-21 Charlotte moved the onion to the blue_bottle.
-22 Charlotte exited the front_yard.
-23 Mason, Alexander and Charlotte entered the waiting_room.
-24 Oliver, Ava, Alexander and Charlotte entered the front_yard.
-25 The spinach is in the red_bottle.
-26 Oliver made no movements and stayed in the front_yard for 1 minute.
-27 Oliver exited the front_yard.
-28 Ava made no movements and stayed in the front_yard for 1 minute.
-29 Ava exited the front_yard.
-30 Ava saw a mouse.
-31 Alexander made no movements and stayed in the front_yard for 1 minute.
-32 Alexander exited the front_yard.
-33 Charlotte made no movements and stayed in the front_yard for 1 minute.
-34 Charlotte exited the front_yard.
-35 Oliver, Ava, Alexander and Charlotte entered the waiting_room.
-Question: Where does Alexander think Oliver thinks the corn is?
-Answer: red_pantry
-Choices: A. blue_container, B. green_crate, C. blue_envelope, D. blue_treasure_chest, E. red_bucket, F. red_bottle, G. green_pantry, H. green_treasure_chest, I. blue_bottle, J. blue_drawer, K. red_pantry, L. green_bucket, M. green_basket, N. green_suitcase, O. green_box
+1 Jackson, Emma, Abigail, Logan and Benjamin entered the living_room.
+2 The green_pepper is in the red_basket.
+3 Jackson moved the green_pepper to the blue_container.
+4 Jackson exited the living_room.
+5 Benjamin saw a cat.
+6 Emma made no movements and stayed in the living_room for 1 minute.
+7 Emma exited the living_room.
+8 Abigail made no movements and stayed in the living_room for 1 minute.
+9 Abigail exited the living_room.
+10 Logan made no movements and stayed in the living_room for 1 minute.
+11 Abigail dislikes the grapes.
+12 Logan exited the living_room.
+13 Benjamin made no movements and stayed in the living_room for 1 minute.
+14 Benjamin exited the living_room.
+15 Jackson, Emma, Abigail, Logan and Benjamin entered the waiting_room.
+16 Emma likes the blue_bottle.
+17 Benjamin, Emma and Abigail entered the bedroom.
+18 The grapes is in the red_bottle.
+19 Benjamin moved the grapes to the green_bathtub.
+20 Benjamin exited the bedroom.
+21 Emma made no movements and stayed in the bedroom for 1 minute.
+22 Logan dislikes the green_pepper.
+23 Emma exited the bedroom.
+24 Abigail made no movements and stayed in the bedroom for 1 minute.
+25 Abigail exited the bedroom.
+26 Benjamin, Emma and Abigail entered the waiting_room.
+27 Abigail, Emma, Jackson and Logan entered the dining_room.
+28 The watermelon is in the blue_drawer.
+29 Abigail made no movements and stayed in the dining_room for 1 minute.
+30 Abigail exited the dining_room.
+31 Emma made no movements and stayed in the dining_room for 1 minute.
+32 Emma exited the dining_room.
+33 Jackson moved the watermelon to the green_cupboard.
+34 Jackson exited the dining_room.
+35 Logan moved the watermelon to the red_container.
+36 Logan exited the dining_room.
+37 Abigail, Emma, Jackson and Logan entered the waiting_room.
+Question: Where does Benjamin think Emma thinks the green_pepper is?
+Answer: red_basket
+Choices: A. blue_bottle, B. blue_drawer, C. green_cupboard, D. red_container, E. blue_treasure_chest, F. red_basket, G. blue_container, H. red_box, I. blue_cupboard, J. red_crate, K. red_bottle, L. green_basket, M. green_bottle, N. green_bucket, O. green_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

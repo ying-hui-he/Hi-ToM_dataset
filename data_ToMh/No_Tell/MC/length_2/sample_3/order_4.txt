@@ -1,30 +1,31 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Hannah, James, Aria, Evelyn and Ava entered the closet.
-2 The banana is in the green_pantry.
-3 Hannah moved the banana to the green_basket.
-4 Hannah exited the closet.
-5 James moved the banana to the blue_bathtub.
-6 Evelyn lost his watch.
-7 James exited the closet.
-8 Aria moved the banana to the red_bucket.
-9 Aria exited the closet.
-10 Evelyn made no movements and stayed in the closet for 1 minute.
-11 Evelyn exited the closet.
-12 Ava moved the banana to the green_pantry.
-13 Ava exited the closet.
-14 Hannah, James, Aria, Evelyn and Ava entered the waiting_room.
-15 Ava, Hannah and Evelyn entered the closet.
-16 The spinach is in the blue_bathtub.
-17 Ava moved the spinach to the green_basket.
-18 Ava exited the closet.
-19 Hannah made no movements and stayed in the closet for 1 minute.
-20 Hannah exited the closet.
-21 Evelyn made no movements and stayed in the closet for 1 minute.
-22 Evelyn exited the closet.
-23 Ava, Hannah and Evelyn entered the waiting_room.
-Question: Where does James think Ava thinks Aria thinks Evelyn thinks the banana is?
-Answer: green_pantry
-Choices: A. blue_bucket, B. green_treasure_chest, C. blue_box, D. blue_container, E. red_treasure_chest, F. green_pantry, G. blue_bathtub, H. green_basket, I. red_bucket, J. red_container, K. blue_envelope, L. green_bathtub, M. red_bottle, N. blue_cupboard, O. red_pantry
+1 Liam, Noah, Avery, Mila and Benjamin entered the workshop.
+2 The peas is in the green_drawer.
+3 Liam moved the peas to the blue_container.
+4 Liam dislikes the peas.
+5 Liam exited the workshop.
+6 Noah moved the peas to the green_crate.
+7 Noah exited the workshop.
+8 Avery moved the peas to the blue_bucket.
+9 Avery exited the workshop.
+10 Mila moved the peas to the blue_crate.
+11 Liam saw a dog.
+12 Mila exited the workshop.
+13 Benjamin made no movements and stayed in the workshop for 1 minute.
+14 Benjamin exited the workshop.
+15 Liam, Noah, Avery, Mila and Benjamin entered the waiting_room.
+16 Noah, Liam and Mila entered the den.
+17 The melon is in the red_bucket.
+18 Noah made no movements and stayed in the den for 1 minute.
+19 Noah exited the den.
+20 Liam made no movements and stayed in the den for 1 minute.
+21 Liam exited the den.
+22 Mila moved the melon to the blue_suitcase.
+23 Mila exited the den.
+24 Noah, Liam and Mila entered the waiting_room.
+Question: Where does Avery think Liam thinks Noah thinks Benjamin thinks the peas is?
+Answer: green_drawer
+Choices: A. red_bucket, B. blue_bathtub, C. blue_suitcase, D. blue_cupboard, E. green_basket, F. green_pantry, G. red_basket, H. red_envelope, I. green_treasure_chest, J. green_envelope, K. green_drawer, L. blue_container, M. blue_crate, N. blue_bucket, O. green_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

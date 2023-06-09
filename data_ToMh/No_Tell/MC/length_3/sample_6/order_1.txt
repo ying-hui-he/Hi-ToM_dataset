@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Elizabeth, Jackson, Lucas, Olivia and Amelia entered the cellar.
-2 The melon is in the blue_treasure_chest.
-3 Elizabeth made no movements and stayed in the cellar for 1 minute.
-4 Elizabeth exited the cellar.
-5 Jackson moved the melon to the red_bottle.
-6 Jackson exited the cellar.
-7 Lucas moved the melon to the blue_box.
-8 Lucas exited the cellar.
-9 Olivia made no movements and stayed in the cellar for 1 minute.
-10 Olivia exited the cellar.
-11 Amelia moved the melon to the blue_treasure_chest.
-12 Amelia exited the cellar.
-13 Elizabeth, Jackson, Lucas, Olivia and Amelia entered the waiting_room.
-14 Lucas, Jackson and Olivia entered the crawlspace.
-15 The onion is in the red_envelope.
-16 Lucas moved the onion to the blue_pantry.
-17 Lucas exited the crawlspace.
-18 Jackson moved the onion to the green_envelope.
-19 Jackson exited the crawlspace.
-20 Olivia moved the onion to the blue_bathtub.
-21 Olivia exited the crawlspace.
-22 Lucas, Jackson and Olivia entered the waiting_room.
-23 Lucas, Olivia, Amelia and Jackson entered the cellar.
-24 The melon is in the blue_treasure_chest.
-25 Lucas made no movements and stayed in the cellar for 1 minute.
-26 Lucas exited the cellar.
-27 Olivia moved the melon to the blue_drawer.
-28 Olivia exited the cellar.
-29 Amelia moved the melon to the red_bottle.
-30 Amelia exited the cellar.
-31 Jackson moved the melon to the blue_box.
-32 Lucas lost his phone.
-33 Jackson exited the cellar.
-34 Lucas, Olivia, Amelia and Jackson entered the waiting_room.
-Question: Where does Amelia really think the melon is?
-Answer: red_bottle
-Choices: A. red_treasure_chest, B. red_container, C. red_bucket, D. green_crate, E. blue_envelope, F. blue_pantry, G. red_envelope, H. blue_bathtub, I. green_envelope, J. green_bathtub, K. blue_treasure_chest, L. blue_box, M. red_pantry, N. red_bottle, O. blue_drawer
+1 Hannah, Lily, Logan, Elizabeth and Noah entered the study.
+2 The turnip is in the red_basket.
+3 Hannah made no movements and stayed in the study for 1 minute.
+4 Hannah exited the study.
+5 Lily made no movements and stayed in the study for 1 minute.
+6 Lily exited the study.
+7 Logan made no movements and stayed in the study for 1 minute.
+8 Lily dislikes the onion.
+9 Logan exited the study.
+10 Elizabeth moved the turnip to the green_pantry.
+11 Elizabeth exited the study.
+12 Noah moved the turnip to the red_basket.
+13 Noah exited the study.
+14 Logan lost his watch.
+15 Hannah, Lily, Logan, Elizabeth and Noah entered the waiting_room.
+16 Noah, Logan and Hannah entered the dining_room.
+17 The sweet_potato is in the blue_suitcase.
+18 Noah moved the sweet_potato to the red_envelope.
+19 Noah exited the dining_room.
+20 Logan moved the sweet_potato to the green_drawer.
+21 Logan exited the dining_room.
+22 Hannah made no movements and stayed in the dining_room for 1 minute.
+23 Hannah exited the dining_room.
+24 Noah, Logan and Hannah entered the waiting_room.
+25 Noah, Lily, Hannah and Elizabeth entered the study.
+26 The turnip is in the red_basket.
+27 Noah dislikes the cabbage.
+28 Noah made no movements and stayed in the study for 1 minute.
+29 Noah exited the study.
+30 Lily made no movements and stayed in the study for 1 minute.
+31 Lily exited the study.
+32 Hannah moved the turnip to the blue_pantry.
+33 Hannah exited the study.
+34 Elizabeth made no movements and stayed in the study for 1 minute.
+35 Elizabeth exited the study.
+36 Noah, Lily, Hannah and Elizabeth entered the waiting_room.
+Question: Where does Hannah really think the turnip is?
+Answer: blue_pantry
+Choices: A. red_basket, B. green_crate, C. blue_pantry, D. green_pantry, E. red_bucket, F. green_box, G. green_basket, H. blue_drawer, I. blue_bucket, J. red_drawer, K. blue_suitcase, L. red_envelope, M. green_drawer, N. red_crate, O. red_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

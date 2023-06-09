@@ -1,36 +1,38 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Ella, Amelia, Aiden, Jackson and James entered the attic.
-2 The pumpkin is in the blue_pantry.
-3 Ella moved the pumpkin to the blue_bucket.
-4 Ella exited the attic.
-5 Aiden dislikes the onion.
-6 Amelia made no movements and stayed in the attic for 1 minute.
-7 Amelia exited the attic.
-8 Aiden moved the pumpkin to the blue_envelope.
-9 Aiden exited the attic.
-10 Amelia lost his watch.
-11 Jackson made no movements and stayed in the attic for 1 minute.
-12 Jackson likes the red_treasure_chest.
-13 Jackson exited the attic.
-14 Jackson likes the blue_envelope.
-15 James moved the pumpkin to the blue_pantry.
-16 James exited the attic.
-17 Ella, Amelia, Aiden, Jackson and James entered the waiting_room.
-18 Jackson, James and Amelia entered the attic.
-19 The pumpkin is in the blue_pantry.
-20 Jackson likes the red_drawer.
-21 Jackson moved the pumpkin to the blue_bucket.
-22 Jackson exited the attic.
-23 James moved the pumpkin to the blue_envelope.
-24 James exited the attic.
-25 Amelia made no movements and stayed in the attic for 1 minute.
-26 Amelia exited the attic.
-27 Jackson, James and Amelia entered the waiting_room.
-28 James privately told Amelia that the pumpkin is in the blue_suitcase.
-29 Amelia privately told Aiden that the pumpkin is in the blue_envelope.
-Question: Where does Amelia think Ella thinks Aiden thinks the pumpkin is?
-Answer: blue_pantry
-Choices: A. green_envelope, B. green_treasure_chest, C. red_pantry, D. red_treasure_chest, E. red_drawer, F. blue_envelope, G. blue_pantry, H. blue_bucket, I. blue_bathtub, J. blue_suitcase, K. green_suitcase, L. red_container, M. red_envelope, N. red_cupboard, O. blue_container
+1 Charlotte likes the blue_treasure_chest.
+2 Chloe, Charlotte, Ava, Nathan and Noah entered the garden.
+3 The potato is in the blue_cupboard.
+4 Chloe moved the potato to the green_bottle.
+5 Charlotte likes the green_bathtub.
+6 Chloe exited the garden.
+7 Charlotte made no movements and stayed in the garden for 1 minute.
+8 Charlotte exited the garden.
+9 Chloe saw a cat.
+10 Ava made no movements and stayed in the garden for 1 minute.
+11 Ava exited the garden.
+12 Chloe likes the green_bottle.
+13 Nathan moved the potato to the blue_bathtub.
+14 Nathan exited the garden.
+15 Noah moved the potato to the blue_cupboard.
+16 Noah exited the garden.
+17 Chloe, Charlotte, Ava, Nathan and Noah entered the waiting_room.
+18 Charlotte, Ava and Nathan entered the garden.
+19 The potato is in the blue_cupboard.
+20 Charlotte made no movements and stayed in the garden for 1 minute.
+21 Charlotte exited the garden.
+22 Ava made no movements and stayed in the garden for 1 minute.
+23 Ava exited the garden.
+24 Noah dislikes the cherry.
+25 Nathan moved the potato to the blue_crate.
+26 Nathan exited the garden.
+27 Charlotte, Ava and Nathan entered the waiting_room.
+28 Ava likes the red_bucket.
+29 Charlotte publicly claimed that potato is in the blue_cupboard.
+30 Charlotte likes the green_bucket.
+31 Nathan privately told Noah that the potato is in the blue_crate.
+Question: Where does Ava think Noah thinks Charlotte thinks the potato is?
+Answer: blue_cupboard
+Choices: A. blue_cupboard, B. green_bottle, C. green_bathtub, D. blue_crate, E. blue_bathtub, F. red_bucket, G. blue_treasure_chest, H. blue_bucket, I. green_bucket, J. red_envelope, K. green_basket, L. red_pantry, M. red_box, N. green_cupboard, O. red_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

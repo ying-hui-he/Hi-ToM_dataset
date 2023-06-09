@@ -1,19 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Mason, Sophia, Ella and Mia entered the dining_room.
-2 The onion is in the green_pantry.
-3 Aria made no movements and stayed in the dining_room for 1 minute.
-4 Aria exited the dining_room.
-5 Mason made no movements and stayed in the dining_room for 1 minute.
-6 Mason exited the dining_room.
-7 Sophia made no movements and stayed in the dining_room for 1 minute.
-8 Sophia exited the dining_room.
-9 Ella made no movements and stayed in the dining_room for 1 minute.
-10 Ella exited the dining_room.
-11 Mia moved the onion to the green_pantry.
-12 Mia exited the dining_room.
-13 Aria, Mason, Sophia, Ella and Mia entered the waiting_room.
-Question: Where does Mia really think the onion is?
-Choices: A. green_crate, B. red_drawer, C. green_bucket, D. green_treasure_chest, E. blue_bucket, F. green_bottle, G. green_suitcase, H. green_bathtub, I. blue_container, J. green_envelope, K. green_pantry, L. blue_treasure_chest, M. red_container, N. green_basket, O. blue_envelope
+1 Isabella, Carter, Elizabeth, Hannah and Jacob entered the bedroom.
+2 The tomato is in the green_bottle.
+3 Isabella moved the tomato to the green_box.
+4 Isabella exited the bedroom.
+5 Carter made no movements and stayed in the bedroom for 1 minute.
+6 Carter exited the bedroom.
+7 Elizabeth moved the tomato to the blue_container.
+8 Elizabeth exited the bedroom.
+9 Hannah made no movements and stayed in the bedroom for 1 minute.
+10 Jacob lost his watch.
+11 Hannah exited the bedroom.
+12 Jacob made no movements and stayed in the bedroom for 1 minute.
+13 Jacob exited the bedroom.
+14 Isabella, Carter, Elizabeth, Hannah and Jacob entered the waiting_room.
+Question: Where does Jacob really think the tomato is?
+Choices: A. green_bottle, B. red_basket, C. green_bucket, D. green_box, E. blue_container, F. red_drawer, G. blue_bucket, H. green_envelope, I. blue_bathtub, J. blue_crate, K. red_envelope, L. red_box, M. green_crate, N. green_basket, O. red_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

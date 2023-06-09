@@ -1,43 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Aria, Mason, Olivia, Ella and Isla entered the garden.
-2 The beans is in the green_crate.
-3 Aria made no movements and stayed in the garden for 1 minute.
-4 Aria exited the garden.
-5 Mason moved the beans to the green_basket.
-6 Mason exited the garden.
-7 Isla likes the red_pantry.
-8 Olivia moved the beans to the blue_bathtub.
-9 Olivia exited the garden.
-10 Ella made no movements and stayed in the garden for 1 minute.
-11 Ella exited the garden.
-12 Isla made no movements and stayed in the garden for 1 minute.
-13 Isla exited the garden.
-14 Aria, Mason, Olivia, Ella and Isla entered the waiting_room.
-15 Isla dislikes the corn.
-16 Ella, Olivia and Aria entered the living_room.
-17 The corn is in the red_envelope.
-18 Ella moved the corn to the blue_bucket.
-19 Ella exited the living_room.
-20 Olivia made no movements and stayed in the living_room for 1 minute.
-21 Olivia exited the living_room.
-22 Aria made no movements and stayed in the living_room for 1 minute.
-23 Aria exited the living_room.
-24 Ella, Olivia and Aria entered the waiting_room.
-25 Mason, Olivia, Aria and Isla entered the living_room.
-26 The pineapple is in the red_pantry.
-27 Mason made no movements and stayed in the living_room for 1 minute.
-28 Mason exited the living_room.
-29 Olivia moved the pineapple to the blue_bucket.
-30 Olivia exited the living_room.
-31 Aria made no movements and stayed in the living_room for 1 minute.
-32 Aria exited the living_room.
-33 Mason saw a cat.
-34 Isla made no movements and stayed in the living_room for 1 minute.
-35 Isla exited the living_room.
-36 Mason, Olivia, Aria and Isla entered the waiting_room.
-Question: Where does Ella think Aria thinks Mason thinks the beans is?
-Answer: green_crate
-Choices: A. green_treasure_chest, B. red_bottle, C. red_treasure_chest, D. red_drawer, E. green_suitcase, F. green_basket, G. green_crate, H. blue_treasure_chest, I. blue_bottle, J. blue_bathtub, K. red_pantry, L. red_envelope, M. blue_bucket, N. blue_drawer, O. green_drawer
+1 Evelyn, Chloe, Charlotte, Logan and Mila entered the staircase.
+2 Chloe lost his gloves.
+3 The watermelon is in the green_cupboard.
+4 Evelyn made no movements and stayed in the staircase for 1 minute.
+5 Chloe lost his watch.
+6 Evelyn exited the staircase.
+7 Chloe made no movements and stayed in the staircase for 1 minute.
+8 Chloe exited the staircase.
+9 Charlotte made no movements and stayed in the staircase for 1 minute.
+10 Charlotte exited the staircase.
+11 Logan made no movements and stayed in the staircase for 1 minute.
+12 Logan exited the staircase.
+13 Mila moved the watermelon to the green_cupboard.
+14 Mila exited the staircase.
+15 Evelyn, Chloe, Charlotte, Logan and Mila entered the waiting_room.
+16 Charlotte, Logan and Chloe entered the staircase.
+17 The lemon is in the red_pantry.
+18 Charlotte made no movements and stayed in the staircase for 1 minute.
+19 Charlotte exited the staircase.
+20 Logan made no movements and stayed in the staircase for 1 minute.
+21 Logan exited the staircase.
+22 Chloe moved the lemon to the green_cupboard.
+23 Chloe exited the staircase.
+24 Charlotte, Logan and Chloe entered the waiting_room.
+25 Evelyn, Mila, Logan and Chloe entered the staircase.
+26 The watermelon is in the green_cupboard.
+27 Evelyn made no movements and stayed in the staircase for 1 minute.
+28 Evelyn exited the staircase.
+29 Mila made no movements and stayed in the staircase for 1 minute.
+30 Mila exited the staircase.
+31 Logan moved the watermelon to the red_bottle.
+32 Logan exited the staircase.
+33 Chloe made no movements and stayed in the staircase for 1 minute.
+34 Chloe exited the staircase.
+35 Evelyn, Mila, Logan and Chloe entered the waiting_room.
+Question: Where does Chloe think Logan thinks Evelyn thinks the watermelon is?
+Answer: green_cupboard
+Choices: A. green_box, B. blue_drawer, C. red_container, D. red_basket, E. blue_treasure_chest, F. green_drawer, G. blue_crate, H. green_pantry, I. blue_pantry, J. blue_bucket, K. red_pantry, L. green_cupboard, M. red_bottle, N. green_envelope, O. green_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

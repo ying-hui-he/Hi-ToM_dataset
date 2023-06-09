@@ -1,43 +1,45 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Nathan, Jack, Mia, Olivia and Ava entered the staircase.
-2 The melon is in the green_drawer.
-3 Nathan moved the melon to the red_cupboard.
-4 Nathan exited the staircase.
-5 Jack made no movements and stayed in the staircase for 1 minute.
-6 Jack exited the staircase.
-7 Mia moved the melon to the green_basket.
-8 Mia exited the staircase.
-9 Olivia made no movements and stayed in the staircase for 1 minute.
-10 Olivia exited the staircase.
-11 Ava moved the melon to the green_drawer.
-12 Ava exited the staircase.
-13 Nathan, Jack, Mia, Olivia and Ava entered the waiting_room.
-14 Nathan, Mia and Ava entered the back_yard.
-15 The sweet_potato is in the green_suitcase.
-16 Jack likes the blue_treasure_chest.
-17 Nathan made no movements and stayed in the back_yard for 1 minute.
-18 Olivia likes the green_drawer.
-19 Nathan exited the back_yard.
-20 Mia moved the sweet_potato to the green_box.
-21 Mia exited the back_yard.
-22 Jack likes the green_basket.
-23 Ava moved the sweet_potato to the blue_treasure_chest.
-24 Ava exited the back_yard.
-25 Nathan, Mia and Ava entered the waiting_room.
-26 Olivia, Nathan, Mia and Ava entered the back_yard.
-27 The radish is in the blue_drawer.
-28 Olivia made no movements and stayed in the back_yard for 1 minute.
-29 Olivia exited the back_yard.
-30 Nathan moved the radish to the green_envelope.
-31 Nathan exited the back_yard.
-32 Mia made no movements and stayed in the back_yard for 1 minute.
-33 Mia exited the back_yard.
-34 Ava made no movements and stayed in the back_yard for 1 minute.
-35 Ava exited the back_yard.
-36 Olivia, Nathan, Mia and Ava entered the waiting_room.
-Question: Where does Nathan really think the melon is?
-Answer: red_cupboard
-Choices: A. blue_drawer, B. green_suitcase, C. green_box, D. blue_treasure_chest, E. green_envelope, F. blue_bucket, G. green_drawer, H. blue_bottle, I. green_basket, J. red_cupboard, K. red_container, L. blue_bathtub, M. blue_pantry, N. blue_envelope, O. green_treasure_chest
+1 Jackson, Elizabeth, Evelyn, Liam and Noah entered the living_room.
+2 The spinach is in the green_drawer.
+3 Jackson made no movements and stayed in the living_room for 1 minute.
+4 Jackson exited the living_room.
+5 Elizabeth moved the spinach to the green_pantry.
+6 Elizabeth exited the living_room.
+7 Evelyn moved the spinach to the red_container.
+8 Evelyn lost his phone.
+9 Evelyn exited the living_room.
+10 Liam made no movements and stayed in the living_room for 1 minute.
+11 Liam exited the living_room.
+12 Noah moved the spinach to the green_drawer.
+13 Noah exited the living_room.
+14 Elizabeth lost his watch.
+15 Jackson, Elizabeth, Evelyn, Liam and Noah entered the waiting_room.
+16 Liam, Jackson and Evelyn entered the dining_room.
+17 The sweet_potato is in the red_crate.
+18 Liam moved the sweet_potato to the blue_bucket.
+19 Evelyn saw a cat.
+20 Liam exited the dining_room.
+21 Jackson moved the sweet_potato to the blue_container.
+22 Jackson exited the dining_room.
+23 Evelyn made no movements and stayed in the dining_room for 1 minute.
+24 Evelyn exited the dining_room.
+25 Liam, Jackson and Evelyn entered the waiting_room.
+26 Liam, Jackson, Elizabeth and Evelyn entered the living_room.
+27 The spinach is in the green_drawer.
+28 Liam made no movements and stayed in the living_room for 1 minute.
+29 Liam exited the living_room.
+30 Jackson moved the spinach to the green_cupboard.
+31 Jackson likes the blue_bathtub.
+32 Jackson exited the living_room.
+33 Elizabeth moved the spinach to the blue_treasure_chest.
+34 Elizabeth exited the living_room.
+35 Evelyn made no movements and stayed in the living_room for 1 minute.
+36 Evelyn exited the living_room.
+37 Evelyn likes the green_pantry.
+38 Liam, Jackson, Elizabeth and Evelyn entered the waiting_room.
+Question: Where does Evelyn really think the spinach is?
+Answer: blue_treasure_chest
+Choices: A. green_envelope, B. red_pantry, C. blue_bathtub, D. green_crate, E. blue_drawer, F. red_crate, G. red_bottle, H. green_treasure_chest, I. blue_container, J. blue_bucket, K. blue_treasure_chest, L. green_drawer, M. green_pantry, N. red_container, O. green_cupboard
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

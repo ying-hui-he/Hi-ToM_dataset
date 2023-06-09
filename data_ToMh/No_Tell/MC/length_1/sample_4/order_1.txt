@@ -1,20 +1,22 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Lucas, Owen, Abigail and Oliver entered the sunroom.
-2 The peas is in the red_container.
-3 Ethan moved the peas to the green_basket.
-4 Ethan exited the sunroom.
-5 Lucas made no movements and stayed in the sunroom for 1 minute.
-6 Lucas exited the sunroom.
-7 Owen made no movements and stayed in the sunroom for 1 minute.
-8 Owen exited the sunroom.
-9 Abigail made no movements and stayed in the sunroom for 1 minute.
-10 Abigail exited the sunroom.
-11 Oliver moved the peas to the red_container.
-12 Oliver exited the sunroom.
-13 Ethan, Lucas, Owen, Abigail and Oliver entered the waiting_room.
-Question: Where does Oliver really think the peas is?
-Answer: red_container
-Choices: A. blue_bathtub, B. red_pantry, C. red_bottle, D. red_envelope, E. green_drawer, F. blue_envelope, G. red_container, H. green_basket, I. blue_pantry, J. green_bathtub, K. green_pantry, L. blue_cupboard, M. blue_treasure_chest, N. blue_bucket, O. blue_drawer
+1 Evelyn saw a dog.
+2 Noah, Emily, Avery, Evelyn and Mila entered the front_yard.
+3 The spinach is in the green_bucket.
+4 Noah made no movements and stayed in the front_yard for 1 minute.
+5 Noah exited the front_yard.
+6 Emily made no movements and stayed in the front_yard for 1 minute.
+7 Emily exited the front_yard.
+8 Avery made no movements and stayed in the front_yard for 1 minute.
+9 Avery exited the front_yard.
+10 Evelyn made no movements and stayed in the front_yard for 1 minute.
+11 Evelyn exited the front_yard.
+12 Avery saw a cat.
+13 Mila moved the spinach to the green_bucket.
+14 Mila exited the front_yard.
+15 Noah, Emily, Avery, Evelyn and Mila entered the waiting_room.
+Question: Where does Noah really think the spinach is?
+Answer: green_bucket
+Choices: A. blue_treasure_chest, B. blue_bottle, C. blue_drawer, D. blue_suitcase, E. green_basket, F. blue_cupboard, G. green_bottle, H. green_treasure_chest, I. green_cupboard, J. red_pantry, K. green_bucket, L. blue_bucket, M. green_box, N. red_crate, O. blue_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

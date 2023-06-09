@@ -1,34 +1,33 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Ella, Sophia, Chloe, Mason and Liam entered the living_room.
-2 The strawberry is in the blue_envelope.
-3 Ella moved the strawberry to the blue_pantry.
-4 Ella exited the living_room.
-5 Sophia made no movements and stayed in the living_room for 1 minute.
-6 Sophia exited the living_room.
-7 Chloe made no movements and stayed in the living_room for 1 minute.
-8 Chloe exited the living_room.
-9 Mason moved the strawberry to the green_bathtub.
-10 Mason likes the blue_cupboard.
-11 Mason exited the living_room.
-12 Liam moved the strawberry to the blue_envelope.
-13 Liam exited the living_room.
-14 Ella, Sophia, Chloe, Mason and Liam entered the waiting_room.
-15 Mason, Ella and Liam entered the living_room.
-16 The strawberry is in the blue_envelope.
-17 Mason made no movements and stayed in the living_room for 1 minute.
-18 Mason exited the living_room.
-19 Ella moved the strawberry to the green_treasure_chest.
-20 Ella exited the living_room.
-21 Mason dislikes the onion.
-22 Liam made no movements and stayed in the living_room for 1 minute.
-23 Liam exited the living_room.
-24 Mason, Ella and Liam entered the waiting_room.
-25 Mason publicly claimed that strawberry is in the green_treasure_chest.
-26 Sophia dislikes the onion.
-27 Liam privately told Sophia that the strawberry is in the green_treasure_chest.
-Question: Where does Sophia really think the strawberry is?
-Answer: green_treasure_chest
-Choices: A. blue_suitcase, B. red_envelope, C. green_envelope, D. blue_bucket, E. green_basket, F. green_treasure_chest, G. blue_envelope, H. blue_pantry, I. green_crate, J. green_bathtub, K. red_bucket, L. blue_cupboard, M. red_cupboard, N. green_bottle, O. blue_bottle
+1 Logan, Emma, Isabella, Hannah and Chloe entered the hallway.
+2 The peas is in the red_bottle.
+3 Logan made no movements and stayed in the hallway for 1 minute.
+4 Logan exited the hallway.
+5 Emma made no movements and stayed in the hallway for 1 minute.
+6 Emma exited the hallway.
+7 Isabella moved the peas to the green_bottle.
+8 Isabella exited the hallway.
+9 Hannah moved the peas to the blue_treasure_chest.
+10 Isabella dislikes the tangerine.
+11 Hannah exited the hallway.
+12 Chloe moved the peas to the red_bottle.
+13 Chloe lost his phone.
+14 Chloe exited the hallway.
+15 Logan, Emma, Isabella, Hannah and Chloe entered the waiting_room.
+16 Isabella, Logan and Emma entered the hallway.
+17 The peas is in the red_bottle.
+18 Isabella moved the peas to the blue_treasure_chest.
+19 Isabella exited the hallway.
+20 Logan moved the peas to the blue_bathtub.
+21 Logan exited the hallway.
+22 Emma moved the peas to the red_pantry.
+23 Emma exited the hallway.
+24 Isabella, Logan and Emma entered the waiting_room.
+25 Logan publicly claimed that peas is in the green_bottle.
+26 Emma privately told Logan that the peas is in the red_bottle.
+Question: Where does Emma really think the peas is?
+Answer: red_pantry
+Choices: A. red_bottle, B. red_pantry, C. green_bottle, D. blue_bathtub, E. blue_treasure_chest, F. green_box, G. green_cupboard, H. green_crate, I. green_drawer, J. red_drawer, K. green_treasure_chest, L. blue_drawer, M. blue_cupboard, N. blue_container, O. green_envelope
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

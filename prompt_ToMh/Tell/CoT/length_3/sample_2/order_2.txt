@@ -1,48 +1,47 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Jacob, Mason, William, Isla and Liam entered the dining_room.
-2 The celery is in the red_treasure_chest.
-3 Jacob made no movements and stayed in the dining_room for 1 minute.
-4 Jacob exited the dining_room.
-5 Mason made no movements and stayed in the dining_room for 1 minute.
-6 Mason exited the dining_room.
-7 William dislikes the persimmon.
-8 William moved the celery to the red_bucket.
-9 William exited the dining_room.
-10 Isla made no movements and stayed in the dining_room for 1 minute.
-11 Isla exited the dining_room.
-12 Liam made no movements and stayed in the dining_room for 1 minute.
-13 Mason lost his gloves.
-14 Liam exited the dining_room.
-15 Jacob, Mason, William, Isla and Liam entered the waiting_room.
-16 William privately told Jacob that the celery is in the red_pantry.
-17 Mason privately told Isla that the celery is in the blue_cupboard.
-18 Isla, Liam and Mason entered the dining_room.
-19 Mason likes the red_envelope.
-20 The sweet_potato is in the blue_container.
-21 Isla moved the sweet_potato to the red_bucket.
-22 Isla exited the dining_room.
-23 Liam made no movements and stayed in the dining_room for 1 minute.
-24 Liam exited the dining_room.
-25 Mason moved the sweet_potato to the red_treasure_chest.
-26 Mason saw a dog.
-27 Mason exited the dining_room.
-28 Isla, Liam and Mason entered the waiting_room.
-29 Liam, Isla, Jacob and William entered the dining_room.
-30 The sweet_potato is in the red_treasure_chest.
-31 Liam moved the sweet_potato to the red_bucket.
-32 Liam exited the dining_room.
-33 Mason likes the red_envelope.
-34 Isla made no movements and stayed in the dining_room for 1 minute.
-35 Isla exited the dining_room.
-36 Jacob moved the sweet_potato to the red_pantry.
-37 Jacob exited the dining_room.
-38 William moved the sweet_potato to the blue_cupboard.
-39 William exited the dining_room.
-40 Liam, Isla, Jacob and William entered the waiting_room.
-41 Liam publicly claimed that sweet_potato is in the blue_cupboard.
-42 William privately told Mason that the sweet_potato is in the blue_cupboard.
-Question: Where does Isla think Mason thinks the celery is?
-Choices: A. blue_bottle, B. green_bathtub, C. blue_pantry, D. red_drawer, E. blue_treasure_chest, F. red_envelope, G. green_bottle, H. blue_suitcase, I. red_container, J. blue_envelope, K. blue_container, L. red_treasure_chest, M. red_pantry, N. blue_cupboard, O. red_bucket
+1 Owen dislikes the pear.
+2 Ella, Owen, Isla, Aiden and Evelyn entered the back_yard.
+3 The melon is in the blue_treasure_chest.
+4 Ella likes the blue_suitcase.
+5 Ella moved the melon to the blue_bottle.
+6 Ella exited the back_yard.
+7 Owen moved the melon to the green_envelope.
+8 Owen exited the back_yard.
+9 Isla made no movements and stayed in the back_yard for 1 minute.
+10 Isla exited the back_yard.
+11 Aiden moved the melon to the blue_suitcase.
+12 Aiden exited the back_yard.
+13 Evelyn made no movements and stayed in the back_yard for 1 minute.
+14 Evelyn exited the back_yard.
+15 Ella, Owen, Isla, Aiden and Evelyn entered the waiting_room.
+16 Isla privately told Ella that the melon is in the green_treasure_chest.
+17 Owen privately told Aiden that the melon is in the blue_suitcase.
+18 Owen, Aiden and Ella entered the back_yard.
+19 The lemon is in the green_treasure_chest.
+20 Owen moved the lemon to the blue_treasure_chest.
+21 Owen exited the back_yard.
+22 Owen dislikes the pear.
+23 Aiden moved the lemon to the blue_suitcase.
+24 Aiden exited the back_yard.
+25 Ella made no movements and stayed in the back_yard for 1 minute.
+26 Ella exited the back_yard.
+27 Owen, Aiden and Ella entered the waiting_room.
+28 Ella, Isla, Owen and Aiden entered the front_yard.
+29 The banana is in the green_pantry.
+30 Ella moved the banana to the green_basket.
+31 Ella exited the front_yard.
+32 Isla moved the banana to the blue_bathtub.
+33 Isla exited the front_yard.
+34 Owen made no movements and stayed in the front_yard for 1 minute.
+35 Owen exited the front_yard.
+36 Aiden moved the banana to the green_cupboard.
+37 Aiden exited the front_yard.
+38 Aiden lost his watch.
+39 Ella, Isla, Owen and Aiden entered the waiting_room.
+40 Ella publicly claimed that banana is in the green_basket.
+41 Aiden privately told Evelyn that the banana is in the green_cupboard.
+Question: Where does Owen think Aiden thinks the melon is?
+Choices: A. blue_treasure_chest, B. green_treasure_chest, C. blue_bottle, D. blue_suitcase, E. green_envelope, F. blue_drawer, G. blue_bucket, H. green_box, I. red_envelope, J. red_box, K. green_pantry, L. blue_bathtub, M. green_basket, N. green_cupboard, O. green_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

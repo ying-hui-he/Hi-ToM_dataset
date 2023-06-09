@@ -1,43 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Owen, Elizabeth, Oliver, Mason and Liam entered the hall.
-2 The beans is in the green_bottle.
-3 Owen made no movements and stayed in the hall for 1 minute.
-4 Owen exited the hall.
-5 Elizabeth moved the beans to the blue_drawer.
-6 Elizabeth exited the hall.
-7 Oliver made no movements and stayed in the hall for 1 minute.
-8 Oliver exited the hall.
-9 Mason made no movements and stayed in the hall for 1 minute.
-10 Mason exited the hall.
-11 Liam made no movements and stayed in the hall for 1 minute.
-12 Oliver likes the red_envelope.
-13 Liam exited the hall.
-14 Owen, Elizabeth, Oliver, Mason and Liam entered the waiting_room.
-15 Oliver saw a mouse.
-16 Oliver, Owen and Elizabeth entered the playroom.
-17 The banana is in the red_bucket.
-18 Oliver moved the banana to the green_box.
-19 Oliver exited the playroom.
-20 Owen made no movements and stayed in the playroom for 1 minute.
-21 Owen exited the playroom.
-22 Elizabeth moved the banana to the blue_bathtub.
-23 Elizabeth exited the playroom.
-24 Oliver, Owen and Elizabeth entered the waiting_room.
-25 Elizabeth, Liam, Owen and Oliver entered the playroom.
-26 The banana is in the blue_bathtub.
-27 Elizabeth made no movements and stayed in the playroom for 1 minute.
-28 Elizabeth exited the playroom.
-29 Liam moved the banana to the red_bucket.
-30 Liam exited the playroom.
-31 Owen made no movements and stayed in the playroom for 1 minute.
-32 Elizabeth likes the red_drawer.
-33 Owen exited the playroom.
-34 Oliver made no movements and stayed in the playroom for 1 minute.
-35 Oliver exited the playroom.
-36 Elizabeth, Liam, Owen and Oliver entered the waiting_room.
-Question: Where does Oliver really think the beans is?
-Answer: blue_drawer
-Choices: A. blue_bottle, B. green_basket, C. red_drawer, D. green_treasure_chest, E. blue_suitcase, F. green_envelope, G. green_bottle, H. blue_pantry, I. blue_drawer, J. green_bathtub, K. red_bucket, L. red_envelope, M. blue_box, N. blue_bathtub, O. green_box
+1 Mila, Amelia, Jackson, Hannah and Abigail entered the patio.
+2 The peas is in the green_basket.
+3 Mila made no movements and stayed in the patio for 1 minute.
+4 Mila exited the patio.
+5 Amelia made no movements and stayed in the patio for 1 minute.
+6 Amelia exited the patio.
+7 Jackson made no movements and stayed in the patio for 1 minute.
+8 Jackson exited the patio.
+9 Jackson likes the green_bathtub.
+10 Hannah moved the peas to the blue_bathtub.
+11 Hannah exited the patio.
+12 Abigail made no movements and stayed in the patio for 1 minute.
+13 Abigail exited the patio.
+14 Mila, Amelia, Jackson, Hannah and Abigail entered the waiting_room.
+15 Hannah, Amelia and Mila entered the lounge.
+16 The lemon is in the blue_cupboard.
+17 Hannah moved the lemon to the red_envelope.
+18 Hannah exited the lounge.
+19 Amelia moved the lemon to the blue_container.
+20 Amelia exited the lounge.
+21 Jackson dislikes the beans.
+22 Mila moved the lemon to the green_box.
+23 Hannah likes the green_crate.
+24 Mila exited the lounge.
+25 Hannah, Amelia and Mila entered the waiting_room.
+26 Hannah, Abigail, Mila and Jackson entered the closet.
+27 The sweet_potato is in the red_bucket.
+28 Hannah moved the sweet_potato to the green_cupboard.
+29 Hannah exited the closet.
+30 Abigail made no movements and stayed in the closet for 1 minute.
+31 Abigail exited the closet.
+32 Mila made no movements and stayed in the closet for 1 minute.
+33 Mila exited the closet.
+34 Jackson made no movements and stayed in the closet for 1 minute.
+35 Jackson exited the closet.
+36 Hannah, Abigail, Mila and Jackson entered the waiting_room.
+Question: Where does Hannah really think the peas is?
+Answer: blue_bathtub
+Choices: A. blue_pantry, B. red_bucket, C. green_cupboard, D. green_crate, E. red_basket, F. green_box, G. blue_cupboard, H. red_envelope, I. blue_container, J. red_drawer, K. green_bucket, L. green_basket, M. red_pantry, N. green_bathtub, O. blue_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

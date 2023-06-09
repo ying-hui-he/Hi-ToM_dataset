@@ -1,25 +1,21 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Nathan likes the red_pantry.
-2 Amelia, Ava, Alexander, Jayden and Nathan entered the bathroom.
-3 The lettuce is in the blue_envelope.
-4 Amelia moved the lettuce to the green_box.
-5 Amelia exited the bathroom.
-6 Ava likes the red_treasure_chest.
-7 Ava moved the lettuce to the green_bathtub.
-8 Ava exited the bathroom.
-9 Alexander moved the lettuce to the red_container.
-10 Alexander exited the bathroom.
-11 Jayden moved the lettuce to the red_treasure_chest.
-12 Jayden exited the bathroom.
-13 Nathan made no movements and stayed in the bathroom for 1 minute.
-14 Nathan exited the bathroom.
-15 Amelia likes the red_pantry.
-16 Amelia, Ava, Alexander, Jayden and Nathan entered the waiting_room.
-17 Alexander publicly claimed that lettuce is in the blue_envelope.
-18 Alexander lost his watch.
-19 Nathan privately told Alexander that the lettuce is in the green_bathtub.
-Question: Where does Alexander really think the lettuce is?
-Choices: A. red_container, B. blue_envelope, C. green_bathtub, D. green_box, E. red_treasure_chest, F. blue_container, G. red_pantry, H. red_cupboard, I. green_treasure_chest, J. green_bucket, K. green_crate, L. blue_bucket, M. green_pantry, N. blue_bottle, O. green_suitcase
+1 Emily, Liam, Avery, Elizabeth and Lily entered the hallway.
+2 The onion is in the green_crate.
+3 Emily moved the onion to the blue_pantry.
+4 Emily exited the hallway.
+5 Liam moved the onion to the red_drawer.
+6 Liam exited the hallway.
+7 Avery made no movements and stayed in the hallway for 1 minute.
+8 Avery exited the hallway.
+9 Elizabeth made no movements and stayed in the hallway for 1 minute.
+10 Elizabeth exited the hallway.
+11 Lily made no movements and stayed in the hallway for 1 minute.
+12 Lily exited the hallway.
+13 Emily, Liam, Avery, Elizabeth and Lily entered the waiting_room.
+14 Avery privately told Emily that the onion is in the blue_bottle.
+15 Liam privately told Elizabeth that the onion is in the blue_treasure_chest.
+Question: Where does Lily really think the onion is?
+Choices: A. green_crate, B. blue_bottle, C. blue_treasure_chest, D. blue_pantry, E. red_drawer, F. red_container, G. green_envelope, H. green_drawer, I. red_basket, J. green_basket, K. red_envelope, L. green_bathtub, M. blue_crate, N. green_pantry, O. green_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,29 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Abigail, Alexander, Lucas, Oliver and Aiden entered the office.
-2 The corn is in the green_drawer.
-3 Abigail moved the corn to the blue_cupboard.
-4 Abigail exited the office.
-5 Alexander made no movements and stayed in the office for 1 minute.
-6 Alexander exited the office.
-7 Lucas moved the corn to the red_pantry.
-8 Lucas exited the office.
-9 Oliver moved the corn to the blue_suitcase.
-10 Oliver exited the office.
-11 Aiden moved the corn to the green_drawer.
-12 Aiden exited the office.
-13 Abigail, Alexander, Lucas, Oliver and Aiden entered the waiting_room.
-14 Aiden, Alexander and Oliver entered the sunroom.
-15 The persimmon is in the green_treasure_chest.
-16 Lucas dislikes the pineapple.
-17 Aiden moved the persimmon to the green_crate.
-18 Aiden exited the sunroom.
-19 Alexander made no movements and stayed in the sunroom for 1 minute.
-20 Alexander exited the sunroom.
-21 Oliver moved the persimmon to the green_envelope.
-22 Oliver exited the sunroom.
-23 Aiden, Alexander and Oliver entered the waiting_room.
-Question: Where does Abigail think Oliver thinks Lucas thinks the corn is?
-Choices: A. blue_suitcase, B. green_drawer, C. red_pantry, D. green_pantry, E. blue_cupboard, F. green_bucket, G. green_basket, H. green_suitcase, I. blue_pantry, J. red_treasure_chest, K. red_drawer, L. green_treasure_chest, M. green_crate, N. blue_bucket, O. green_envelope
+1 Liam, Sophia, Lily, Carter and Amelia entered the hallway.
+2 The corn is in the red_basket.
+3 Liam moved the corn to the red_container.
+4 Liam exited the hallway.
+5 Sophia made no movements and stayed in the hallway for 1 minute.
+6 Sophia exited the hallway.
+7 Lily made no movements and stayed in the hallway for 1 minute.
+8 Lily exited the hallway.
+9 Carter made no movements and stayed in the hallway for 1 minute.
+10 Carter exited the hallway.
+11 Amelia moved the corn to the red_basket.
+12 Amelia exited the hallway.
+13 Liam, Sophia, Lily, Carter and Amelia entered the waiting_room.
+14 Liam, Lily and Carter entered the hallway.
+15 The melon is in the blue_bucket.
+16 Liam moved the melon to the red_basket.
+17 Liam exited the hallway.
+18 Lily moved the melon to the green_pantry.
+19 Lily exited the hallway.
+20 Carter moved the melon to the red_container.
+21 Carter exited the hallway.
+22 Sophia dislikes the corn.
+23 Liam, Lily and Carter entered the waiting_room.
+Question: Where does Sophia think Lily thinks Amelia thinks the corn is?
+Choices: A. blue_bucket, B. red_basket, C. red_container, D. blue_bathtub, E. green_pantry, F. red_envelope, G. blue_bottle, H. red_box, I. blue_cupboard, J. green_bathtub, K. red_drawer, L. red_bottle, M. blue_drawer, N. green_crate, O. green_treasure_chest
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,21 +1,21 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan, Evelyn, Jackson, Ava and Elizabeth entered the lounge.
-2 The plum is in the red_cupboard.
-3 Ava saw a cat.
-4 Ethan moved the plum to the green_bathtub.
-5 Ethan exited the lounge.
-6 Evelyn made no movements and stayed in the lounge for 1 minute.
-7 Evelyn exited the lounge.
-8 Jackson made no movements and stayed in the lounge for 1 minute.
-9 Jackson exited the lounge.
-10 Ava moved the plum to the blue_suitcase.
-11 Ava exited the lounge.
-12 Elizabeth made no movements and stayed in the lounge for 1 minute.
-13 Elizabeth exited the lounge.
-14 Jackson lost his gloves.
-15 Ethan, Evelyn, Jackson, Ava and Elizabeth entered the waiting_room.
-Question: Where does Ava really think the plum is?
-Choices: A. blue_drawer, B. green_envelope, C. red_pantry, D. green_bottle, E. green_drawer, F. green_bucket, G. red_cupboard, H. red_drawer, I. green_bathtub, J. blue_suitcase, K. green_basket, L. green_suitcase, M. green_box, N. red_treasure_chest, O. blue_treasure_chest
+1 Mila, Liam, Emma, Alexander and Avery entered the patio.
+2 The lettuce is in the blue_crate.
+3 Mila made no movements and stayed in the patio for 1 minute.
+4 Mila exited the patio.
+5 Liam made no movements and stayed in the patio for 1 minute.
+6 Liam exited the patio.
+7 Emma made no movements and stayed in the patio for 1 minute.
+8 Emma exited the patio.
+9 Mila lost his phone.
+10 Alexander moved the lettuce to the blue_container.
+11 Alexander exited the patio.
+12 Avery made no movements and stayed in the patio for 1 minute.
+13 Avery saw a mouse.
+14 Avery exited the patio.
+15 Mila, Liam, Emma, Alexander and Avery entered the waiting_room.
+Question: Where does Liam really think the lettuce is?
+Choices: A. red_box, B. green_pantry, C. red_crate, D. blue_bathtub, E. blue_treasure_chest, F. blue_crate, G. red_pantry, H. green_crate, I. blue_container, J. green_cupboard, K. red_envelope, L. red_drawer, M. blue_drawer, N. red_bucket, O. red_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

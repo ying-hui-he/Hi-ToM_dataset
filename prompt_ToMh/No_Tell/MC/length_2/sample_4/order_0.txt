@@ -1,33 +1,28 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Sophia, Olivia, Mason and Evelyn entered the back_yard.
-2 The plum is in the red_cupboard.
-3 Abigail made no movements and stayed in the back_yard for 1 minute.
-4 Abigail exited the back_yard.
-5 Sophia moved the plum to the red_pantry.
-6 Sophia exited the back_yard.
-7 Olivia moved the plum to the green_basket.
-8 Olivia exited the back_yard.
-9 Mason made no movements and stayed in the back_yard for 1 minute.
-10 Sophia dislikes the celery.
-11 Mason exited the back_yard.
-12 Evelyn moved the plum to the red_cupboard.
-13 Evelyn exited the back_yard.
-14 Mason likes the red_drawer.
-15 Abigail, Sophia, Olivia, Mason and Evelyn entered the waiting_room.
-16 Mason, Sophia and Evelyn entered the kitchen.
-17 Olivia likes the blue_suitcase.
-18 The potato is in the red_envelope.
-19 Mason made no movements and stayed in the kitchen for 1 minute.
-20 Mason dislikes the broccoli.
-21 Mason exited the kitchen.
-22 Sophia made no movements and stayed in the kitchen for 1 minute.
-23 Sophia exited the kitchen.
-24 Evelyn moved the potato to the blue_bathtub.
-25 Evelyn exited the kitchen.
-26 Abigail lost his phone.
-27 Mason, Sophia and Evelyn entered the waiting_room.
-Question: Where is the plum really?
-Choices: A. red_drawer, B. green_envelope, C. blue_pantry, D. green_box, E. red_container, F. blue_drawer, G. red_envelope, H. blue_bucket, I. blue_bathtub, J. blue_suitcase, K. red_cupboard, L. green_crate, M. green_basket, N. blue_box, O. red_pantry
+1 Evelyn, Chloe, Mila, Isabella and Jacob entered the crawlspace.
+2 The potato is in the blue_drawer.
+3 Evelyn made no movements and stayed in the crawlspace for 1 minute.
+4 Evelyn exited the crawlspace.
+5 Chloe made no movements and stayed in the crawlspace for 1 minute.
+6 Chloe exited the crawlspace.
+7 Mila moved the potato to the red_basket.
+8 Mila exited the crawlspace.
+9 Isabella moved the potato to the green_bottle.
+10 Isabella exited the crawlspace.
+11 Jacob moved the potato to the blue_drawer.
+12 Jacob exited the crawlspace.
+13 Evelyn, Chloe, Mila, Isabella and Jacob entered the waiting_room.
+14 Evelyn, Mila and Jacob entered the closet.
+15 The watermelon is in the green_crate.
+16 Evelyn moved the watermelon to the blue_suitcase.
+17 Evelyn exited the closet.
+18 Mila moved the watermelon to the red_drawer.
+19 Mila exited the closet.
+20 Jacob made no movements and stayed in the closet for 1 minute.
+21 Jacob exited the closet.
+22 Evelyn, Mila and Jacob entered the waiting_room.
+Question: Where is the potato really?
+Choices: A. blue_treasure_chest, B. blue_drawer, C. green_bottle, D. red_basket, E. red_box, F. red_drawer, G. green_crate, H. green_treasure_chest, I. green_box, J. blue_suitcase, K. blue_crate, L. green_basket, M. blue_bathtub, N. red_crate, O. green_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,41 +1,43 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Evelyn, Jacob, Nathan, Owen and William entered the basement.
-2 The turnip is in the blue_treasure_chest.
-3 Evelyn moved the turnip to the blue_container.
-4 Evelyn exited the basement.
-5 Jacob made no movements and stayed in the basement for 1 minute.
-6 Jacob exited the basement.
-7 Nathan made no movements and stayed in the basement for 1 minute.
-8 Evelyn lost his phone.
-9 Nathan exited the basement.
-10 Owen moved the turnip to the green_bucket.
-11 Owen exited the basement.
-12 William made no movements and stayed in the basement for 1 minute.
-13 William exited the basement.
-14 Evelyn, Jacob, Nathan, Owen and William entered the waiting_room.
-15 William, Evelyn and Owen entered the basement.
-16 The turnip is in the green_bucket.
-17 William made no movements and stayed in the basement for 1 minute.
-18 William exited the basement.
-19 Evelyn moved the turnip to the blue_suitcase.
-20 Evelyn exited the basement.
-21 Owen moved the turnip to the blue_container.
-22 Owen exited the basement.
-23 William, Evelyn and Owen entered the waiting_room.
-24 Evelyn, Jacob, Nathan and Owen entered the porch.
-25 The lime is in the blue_cupboard.
-26 Evelyn moved the lime to the red_drawer.
-27 Evelyn likes the red_treasure_chest.
-28 Evelyn exited the porch.
-29 Jacob moved the lime to the green_drawer.
-30 Jacob exited the porch.
-31 Nathan moved the lime to the red_bottle.
-32 Nathan exited the porch.
-33 Owen moved the lime to the red_pantry.
-34 Owen exited the porch.
-35 Evelyn, Jacob, Nathan and Owen entered the waiting_room.
-Question: Where does Nathan really think the turnip is?
-Choices: A. blue_suitcase, B. blue_treasure_chest, C. green_bottle, D. green_bucket, E. blue_container, F. green_basket, G. red_bucket, H. blue_box, I. red_treasure_chest, J. blue_drawer, K. blue_cupboard, L. red_pantry, M. green_drawer, N. red_bottle, O. red_drawer
+1 Isabella, Jack, William, Noah and Aiden entered the playroom.
+2 The pear is in the blue_crate.
+3 Isabella made no movements and stayed in the playroom for 1 minute.
+4 Isabella exited the playroom.
+5 William dislikes the peas.
+6 Jack moved the pear to the blue_drawer.
+7 Aiden lost his watch.
+8 Jack exited the playroom.
+9 William moved the pear to the green_crate.
+10 William exited the playroom.
+11 Noah moved the pear to the blue_suitcase.
+12 Noah exited the playroom.
+13 Noah saw a mouse.
+14 Aiden moved the pear to the blue_crate.
+15 Aiden exited the playroom.
+16 Isabella, Jack, William, Noah and Aiden entered the waiting_room.
+17 Noah, Jack and William entered the dining_room.
+18 The peas is in the green_drawer.
+19 Noah moved the peas to the blue_pantry.
+20 Noah exited the dining_room.
+21 Jack moved the peas to the red_pantry.
+22 Jack exited the dining_room.
+23 William made no movements and stayed in the dining_room for 1 minute.
+24 William exited the dining_room.
+25 Noah, Jack and William entered the waiting_room.
+26 Isabella, Noah, Jack and Aiden entered the playroom.
+27 The lemon is in the blue_suitcase.
+28 Isabella moved the lemon to the green_basket.
+29 Isabella exited the playroom.
+30 Noah made no movements and stayed in the playroom for 1 minute.
+31 Noah exited the playroom.
+32 Jack moved the lemon to the blue_crate.
+33 Jack exited the playroom.
+34 Aiden made no movements and stayed in the playroom for 1 minute.
+35 Noah lost his phone.
+36 Aiden exited the playroom.
+37 Isabella, Noah, Jack and Aiden entered the waiting_room.
+Question: Where does Noah really think the pear is?
+Choices: A. red_pantry, B. green_drawer, C. blue_pantry, D. blue_bucket, E. green_box, F. green_bathtub, G. red_bottle, H. red_crate, I. red_envelope, J. blue_cupboard, K. blue_suitcase, L. blue_crate, M. green_crate, N. blue_drawer, O. green_basket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

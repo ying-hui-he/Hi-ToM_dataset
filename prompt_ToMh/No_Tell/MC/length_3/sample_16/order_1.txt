@@ -1,43 +1,39 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Isla, Ethan, Jack and Alexander entered the porch.
-2 The turnip is in the blue_bottle.
-3 Amelia moved the turnip to the green_bottle.
-4 Amelia exited the porch.
-5 Isla made no movements and stayed in the porch for 1 minute.
-6 Isla exited the porch.
-7 Ethan made no movements and stayed in the porch for 1 minute.
-8 Ethan exited the porch.
-9 Jack made no movements and stayed in the porch for 1 minute.
-10 Jack exited the porch.
-11 Alexander made no movements and stayed in the porch for 1 minute.
-12 Alexander exited the porch.
-13 Amelia, Isla, Ethan, Jack and Alexander entered the waiting_room.
-14 Alexander, Isla and Amelia entered the attic.
-15 The corn is in the green_drawer.
-16 Alexander moved the corn to the red_treasure_chest.
-17 Isla likes the blue_bottle.
-18 Alexander exited the attic.
-19 Isla moved the corn to the red_bucket.
-20 Isla exited the attic.
-21 Amelia made no movements and stayed in the attic for 1 minute.
-22 Amelia lost his gloves.
-23 Amelia exited the attic.
-24 Alexander, Isla and Amelia entered the waiting_room.
-25 Amelia, Ethan, Isla and Alexander entered the attic.
-26 The corn is in the red_bucket.
-27 Amelia made no movements and stayed in the attic for 1 minute.
-28 Amelia exited the attic.
-29 Ethan moved the corn to the green_drawer.
-30 Alexander saw a dog.
-31 Ethan exited the attic.
-32 Isla made no movements and stayed in the attic for 1 minute.
-33 Isla exited the attic.
-34 Alexander made no movements and stayed in the attic for 1 minute.
-35 Jack likes the red_cupboard.
-36 Alexander exited the attic.
-37 Amelia, Ethan, Isla and Alexander entered the waiting_room.
-Question: Where does Alexander really think the turnip is?
-Choices: A. red_cupboard, B. blue_bottle, C. green_bottle, D. blue_drawer, E. green_suitcase, F. red_envelope, G. green_pantry, H. red_drawer, I. green_bathtub, J. green_box, K. blue_pantry, L. green_drawer, M. blue_bucket, N. red_bucket, O. red_treasure_chest
+1 Hannah, Alexander, Carter, Avery and William entered the bedroom.
+2 The persimmon is in the red_basket.
+3 Hannah moved the persimmon to the blue_crate.
+4 Hannah exited the bedroom.
+5 Alexander made no movements and stayed in the bedroom for 1 minute.
+6 Alexander exited the bedroom.
+7 Carter moved the persimmon to the green_basket.
+8 Carter exited the bedroom.
+9 Avery made no movements and stayed in the bedroom for 1 minute.
+10 Avery exited the bedroom.
+11 William moved the persimmon to the red_basket.
+12 William exited the bedroom.
+13 Hannah, Alexander, Carter, Avery and William entered the waiting_room.
+14 William, Alexander and Hannah entered the bathroom.
+15 The banana is in the red_bucket.
+16 William moved the banana to the red_crate.
+17 William exited the bathroom.
+18 Alexander made no movements and stayed in the bathroom for 1 minute.
+19 Alexander exited the bathroom.
+20 Hannah made no movements and stayed in the bathroom for 1 minute.
+21 Hannah exited the bathroom.
+22 William, Alexander and Hannah entered the waiting_room.
+23 Alexander, Avery, William and Hannah entered the garage.
+24 The plum is in the red_drawer.
+25 Alexander moved the plum to the green_cupboard.
+26 Alexander exited the garage.
+27 Avery moved the plum to the blue_treasure_chest.
+28 Avery exited the garage.
+29 William moved the plum to the green_bottle.
+30 William exited the garage.
+31 Hannah moved the plum to the blue_bathtub.
+32 Hannah exited the garage.
+33 Alexander, Avery, William and Hannah entered the waiting_room.
+Question: Where does William really think the persimmon is?
+Choices: A. red_crate, B. red_bucket, C. red_box, D. blue_bucket, E. green_box, F. red_basket, G. blue_crate, H. green_bathtub, I. green_envelope, J. green_basket, K. red_drawer, L. green_bottle, M. blue_bathtub, N. blue_treasure_chest, O. green_cupboard
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

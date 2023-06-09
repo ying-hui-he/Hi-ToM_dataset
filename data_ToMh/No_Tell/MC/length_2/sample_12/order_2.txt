@@ -1,30 +1,31 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Nathan, Olivia, Jayden, Mia and Aiden entered the back_yard.
-2 The eggplant is in the red_cupboard.
-3 Nathan moved the eggplant to the green_bathtub.
-4 Nathan exited the back_yard.
-5 Olivia moved the eggplant to the red_bucket.
-6 Olivia exited the back_yard.
-7 Olivia lost his watch.
-8 Jayden made no movements and stayed in the back_yard for 1 minute.
-9 Jayden exited the back_yard.
-10 Mia moved the eggplant to the green_box.
-11 Mia exited the back_yard.
-12 Aiden moved the eggplant to the red_cupboard.
-13 Aiden exited the back_yard.
-14 Nathan, Olivia, Jayden, Mia and Aiden entered the waiting_room.
-15 Jayden, Mia and Nathan entered the living_room.
-16 The pineapple is in the green_bottle.
-17 Jayden moved the pineapple to the red_container.
-18 Jayden exited the living_room.
-19 Mia moved the pineapple to the green_pantry.
-20 Mia exited the living_room.
-21 Nathan moved the pineapple to the red_pantry.
-22 Nathan exited the living_room.
-23 Jayden, Mia and Nathan entered the waiting_room.
-Question: Where does Aiden think Olivia thinks the eggplant is?
+1 William, Ava, Charlotte, Avery and Alexander entered the pantry.
+2 The pear is in the red_box.
+3 William made no movements and stayed in the pantry for 1 minute.
+4 William exited the pantry.
+5 Ava made no movements and stayed in the pantry for 1 minute.
+6 Ava exited the pantry.
+7 Charlotte moved the pear to the red_bucket.
+8 Charlotte exited the pantry.
+9 Avery made no movements and stayed in the pantry for 1 minute.
+10 Avery exited the pantry.
+11 Alexander made no movements and stayed in the pantry for 1 minute.
+12 Alexander exited the pantry.
+13 William, Ava, Charlotte, Avery and Alexander entered the waiting_room.
+14 Alexander, Charlotte and Ava entered the office.
+15 The asparagus is in the red_basket.
+16 Alexander moved the asparagus to the red_drawer.
+17 Avery dislikes the pear.
+18 Alexander exited the office.
+19 Charlotte moved the asparagus to the red_pantry.
+20 Charlotte exited the office.
+21 Avery dislikes the cabbage.
+22 Ava made no movements and stayed in the office for 1 minute.
+23 Ava exited the office.
+24 Alexander, Charlotte and Ava entered the waiting_room.
+Question: Where does Alexander think Charlotte thinks the pear is?
 Answer: red_bucket
-Choices: A. green_bottle, B. red_container, C. green_pantry, D. green_envelope, E. red_pantry, F. blue_treasure_chest, G. blue_drawer, H. blue_bathtub, I. blue_bottle, J. green_treasure_chest, K. red_cupboard, L. green_box, M. red_bucket, N. blue_cupboard, O. green_bathtub
+Choices: A. red_drawer, B. red_basket, C. green_box, D. green_bottle, E. red_pantry, F. green_bathtub, G. red_bottle, H. red_container, I. red_crate, J. green_treasure_chest, K. green_bucket, L. red_box, M. red_bucket, N. blue_suitcase, O. blue_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

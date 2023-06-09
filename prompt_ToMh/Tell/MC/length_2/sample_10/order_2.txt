@@ -1,34 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Oliver, Jacob, Liam, Ella and Elizabeth entered the bedroom.
-2 The broccoli is in the green_box.
-3 Oliver made no movements and stayed in the bedroom for 1 minute.
-4 Liam dislikes the persimmon.
-5 Oliver exited the bedroom.
-6 Jacob made no movements and stayed in the bedroom for 1 minute.
-7 Jacob exited the bedroom.
-8 Liam moved the broccoli to the green_treasure_chest.
-9 Liam exited the bedroom.
-10 Ella made no movements and stayed in the bedroom for 1 minute.
-11 Ella exited the bedroom.
-12 Elizabeth made no movements and stayed in the bedroom for 1 minute.
-13 Elizabeth exited the bedroom.
-14 Oliver, Jacob, Liam, Ella and Elizabeth entered the waiting_room.
-15 Oliver, Jacob and Ella entered the porch.
-16 The persimmon is in the red_cupboard.
-17 Oliver moved the persimmon to the red_envelope.
-18 Liam dislikes the broccoli.
-19 Oliver exited the porch.
-20 Jacob made no movements and stayed in the porch for 1 minute.
-21 Jacob exited the porch.
-22 Ella made no movements and stayed in the porch for 1 minute.
-23 Jacob dislikes the melon.
-24 Ella exited the porch.
-25 Jacob likes the green_bucket.
-26 Oliver, Jacob and Ella entered the waiting_room.
-27 Jacob publicly claimed that persimmon is in the red_envelope.
-28 Ella privately told Jacob that the persimmon is in the red_container.
-Question: Where does Ella think Jacob thinks the broccoli is?
-Choices: A. blue_suitcase, B. red_cupboard, C. green_bucket, D. red_envelope, E. red_container, F. blue_bathtub, G. green_box, H. green_treasure_chest, I. green_drawer, J. blue_pantry, K. blue_container, L. green_pantry, M. blue_bucket, N. blue_envelope, O. blue_drawer
+1 Ava, Charlotte, Evelyn, Amelia and Benjamin entered the bathroom.
+2 The persimmon is in the blue_crate.
+3 Ava made no movements and stayed in the bathroom for 1 minute.
+4 Ava exited the bathroom.
+5 Charlotte moved the persimmon to the red_crate.
+6 Charlotte exited the bathroom.
+7 Evelyn moved the persimmon to the blue_cupboard.
+8 Evelyn exited the bathroom.
+9 Amelia moved the persimmon to the green_pantry.
+10 Amelia exited the bathroom.
+11 Benjamin made no movements and stayed in the bathroom for 1 minute.
+12 Benjamin exited the bathroom.
+13 Ava, Charlotte, Evelyn, Amelia and Benjamin entered the waiting_room.
+14 Ava, Benjamin and Evelyn entered the office.
+15 The onion is in the blue_bathtub.
+16 Ava moved the onion to the green_box.
+17 Ava exited the office.
+18 Benjamin made no movements and stayed in the office for 1 minute.
+19 Benjamin exited the office.
+20 Evelyn made no movements and stayed in the office for 1 minute.
+21 Evelyn exited the office.
+22 Ava, Benjamin and Evelyn entered the waiting_room.
+23 Benjamin privately told Evelyn that the onion is in the red_container.
+24 Evelyn privately told Amelia that the onion is in the green_box.
+Question: Where does Evelyn think Ava thinks the persimmon is?
+Choices: A. green_box, B. blue_bathtub, C. green_bucket, D. green_cupboard, E. red_container, F. red_envelope, G. red_pantry, H. blue_suitcase, I. green_crate, J. green_drawer, K. green_pantry, L. blue_crate, M. blue_cupboard, N. red_crate, O. blue_drawer
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

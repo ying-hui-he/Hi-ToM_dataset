@@ -1,31 +1,30 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Liam, Oliver, Hannah and William entered the dining_room.
-2 The persimmon is in the blue_envelope.
-3 Amelia made no movements and stayed in the dining_room for 1 minute.
-4 Amelia exited the dining_room.
-5 Liam made no movements and stayed in the dining_room for 1 minute.
-6 Liam exited the dining_room.
-7 Oliver moved the persimmon to the blue_pantry.
-8 Oliver exited the dining_room.
-9 Hannah moved the persimmon to the green_bottle.
-10 Hannah exited the dining_room.
-11 William likes the green_basket.
-12 William made no movements and stayed in the dining_room for 1 minute.
-13 William exited the dining_room.
-14 Amelia, Liam, Oliver, Hannah and William entered the waiting_room.
-15 Oliver, Liam and Amelia entered the study.
-16 The turnip is in the red_cupboard.
-17 Oliver made no movements and stayed in the study for 1 minute.
-18 Oliver exited the study.
-19 Liam made no movements and stayed in the study for 1 minute.
-20 Liam exited the study.
-21 Amelia moved the turnip to the green_basket.
-22 William likes the blue_treasure_chest.
-23 Amelia exited the study.
-24 Oliver, Liam and Amelia entered the waiting_room.
-Question: Where is the persimmon really?
-Answer: green_bottle
-Choices: A. green_basket, B. red_cupboard, C. blue_drawer, D. green_bucket, E. blue_cupboard, F. blue_envelope, G. blue_pantry, H. red_container, I. green_bottle, J. green_treasure_chest, K. green_envelope, L. blue_treasure_chest, M. red_treasure_chest, N. blue_bathtub, O. blue_container
+1 Emily, Lily, Emma, Avery and Ella entered the pantry.
+2 The cherry is in the red_drawer.
+3 Emily moved the cherry to the red_container.
+4 Emily exited the pantry.
+5 Lily made no movements and stayed in the pantry for 1 minute.
+6 Lily exited the pantry.
+7 Emma moved the cherry to the green_envelope.
+8 Emma exited the pantry.
+9 Avery moved the cherry to the blue_suitcase.
+10 Avery exited the pantry.
+11 Ella made no movements and stayed in the pantry for 1 minute.
+12 Ella exited the pantry.
+13 Emily, Lily, Emma, Avery and Ella entered the waiting_room.
+14 Lily, Avery and Ella entered the cellar.
+15 The tomato is in the blue_container.
+16 Lily made no movements and stayed in the cellar for 1 minute.
+17 Lily exited the cellar.
+18 Avery moved the tomato to the red_bucket.
+19 Lily likes the red_drawer.
+20 Avery exited the cellar.
+21 Ella made no movements and stayed in the cellar for 1 minute.
+22 Ella exited the cellar.
+23 Lily, Avery and Ella entered the waiting_room.
+Question: Where is the cherry really?
+Answer: blue_suitcase
+Choices: A. green_bucket, B. red_crate, C. green_bathtub, D. blue_treasure_chest, E. blue_pantry, F. red_container, G. red_drawer, H. blue_suitcase, I. green_envelope, J. green_treasure_chest, K. red_basket, L. blue_container, M. blue_crate, N. red_bucket, O. blue_cupboard
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

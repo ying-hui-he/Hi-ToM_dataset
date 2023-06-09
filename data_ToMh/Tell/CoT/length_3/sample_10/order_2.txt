@@ -1,45 +1,52 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Lily, Hannah, Aria, Elizabeth and Evelyn entered the sunroom.
-2 The onion is in the red_bucket.
-3 Lily moved the onion to the blue_box.
-4 Lily exited the sunroom.
-5 Hannah moved the onion to the green_pantry.
-6 Hannah exited the sunroom.
-7 Aria moved the onion to the green_suitcase.
-8 Aria exited the sunroom.
-9 Elizabeth made no movements and stayed in the sunroom for 1 minute.
-10 Elizabeth exited the sunroom.
-11 Evelyn moved the onion to the red_bucket.
-12 Evelyn exited the sunroom.
-13 Lily, Hannah, Aria, Elizabeth and Evelyn entered the waiting_room.
-14 Aria publicly claimed that onion is in the green_pantry.
-15 Evelyn privately told Aria that the onion is in the red_bucket.
-16 Evelyn, Aria and Lily entered the study.
-17 The banana is in the blue_pantry.
-18 Evelyn made no movements and stayed in the study for 1 minute.
-19 Evelyn lost his watch.
-20 Evelyn exited the study.
-21 Aria moved the banana to the red_treasure_chest.
-22 Aria exited the study.
-23 Lily moved the banana to the blue_bottle.
-24 Lily exited the study.
-25 Evelyn, Aria and Lily entered the waiting_room.
-26 Evelyn, Elizabeth, Aria and Hannah entered the sunroom.
-27 The onion is in the red_bucket.
-28 Evelyn moved the onion to the green_pantry.
-29 Evelyn exited the sunroom.
-30 Elizabeth made no movements and stayed in the sunroom for 1 minute.
-31 Elizabeth exited the sunroom.
-32 Aria moved the onion to the green_bottle.
-33 Aria exited the sunroom.
-34 Hannah made no movements and stayed in the sunroom for 1 minute.
-35 Hannah exited the sunroom.
-36 Evelyn, Elizabeth, Aria and Hannah entered the waiting_room.
-37 Elizabeth privately told Aria that the onion is in the green_bottle.
-38 Hannah privately told Lily that the onion is in the green_bottle.
-Question: Where does Hannah think Aria thinks the onion is?
-Answer: green_bottle
-Choices: A. green_pantry, B. red_bucket, C. blue_box, D. green_bottle, E. green_suitcase, F. red_treasure_chest, G. blue_pantry, H. blue_drawer, I. blue_bottle, J. green_treasure_chest, K. blue_bathtub, L. red_container, M. blue_suitcase, N. green_drawer, O. red_bottle
+1 Emily, Mila, Benjamin, Emma and Charlotte entered the back_yard.
+2 Benjamin lost his phone.
+3 The persimmon is in the green_bathtub.
+4 Mila likes the red_envelope.
+5 Emily moved the persimmon to the red_envelope.
+6 Emily exited the back_yard.
+7 Mila moved the persimmon to the green_box.
+8 Emma lost his phone.
+9 Mila exited the back_yard.
+10 Benjamin moved the persimmon to the red_pantry.
+11 Emily saw a dog.
+12 Benjamin exited the back_yard.
+13 Emma moved the persimmon to the green_bucket.
+14 Emma exited the back_yard.
+15 Charlotte moved the persimmon to the green_bathtub.
+16 Charlotte exited the back_yard.
+17 Emily, Mila, Benjamin, Emma and Charlotte entered the waiting_room.
+18 Emma publicly claimed that persimmon is in the green_bucket.
+19 Charlotte privately told Emily that the persimmon is in the green_bathtub.
+20 Charlotte, Emma and Mila entered the garden.
+21 The eggplant is in the green_crate.
+22 Charlotte made no movements and stayed in the garden for 1 minute.
+23 Charlotte exited the garden.
+24 Emma made no movements and stayed in the garden for 1 minute.
+25 Emma lost his phone.
+26 Emma exited the garden.
+27 Mila moved the eggplant to the blue_cupboard.
+28 Mila exited the garden.
+29 Charlotte, Emma and Mila entered the waiting_room.
+30 Emma, Charlotte, Benjamin and Emily entered the garden.
+31 The apple is in the green_bottle.
+32 Emma lost his gloves.
+33 Emma made no movements and stayed in the garden for 1 minute.
+34 Emma exited the garden.
+35 Charlotte made no movements and stayed in the garden for 1 minute.
+36 Charlotte saw a cat.
+37 Charlotte exited the garden.
+38 Benjamin moved the apple to the green_crate.
+39 Benjamin exited the garden.
+40 Emily made no movements and stayed in the garden for 1 minute.
+41 Emily exited the garden.
+42 Emma, Charlotte, Benjamin and Emily entered the waiting_room.
+43 Charlotte publicly claimed that apple is in the blue_cupboard.
+44 Emma saw a monkey.
+45 Emily privately told Benjamin that the apple is in the green_bottle.
+Question: Where does Emily think Mila thinks the persimmon is?
+Answer: green_bathtub
+Choices: A. green_bathtub, B. green_bucket, C. green_box, D. red_pantry, E. red_envelope, F. green_cupboard, G. green_envelope, H. blue_bottle, I. green_treasure_chest, J. blue_container, K. green_bottle, L. green_crate, M. red_crate, N. blue_cupboard, O. red_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

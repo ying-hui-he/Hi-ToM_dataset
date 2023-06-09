@@ -1,44 +1,46 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Lucas, James, Mia, Mason and Aria entered the bedroom.
-2 The persimmon is in the green_basket.
-3 Lucas moved the persimmon to the blue_suitcase.
-4 Lucas exited the bedroom.
-5 James made no movements and stayed in the bedroom for 1 minute.
-6 James exited the bedroom.
-7 Mia made no movements and stayed in the bedroom for 1 minute.
-8 Mia exited the bedroom.
-9 Mason moved the persimmon to the blue_bottle.
-10 Mason exited the bedroom.
-11 Aria moved the persimmon to the green_basket.
-12 Aria exited the bedroom.
-13 Lucas, James, Mia, Mason and Aria entered the waiting_room.
-14 Mia privately told Lucas that the persimmon is in the blue_suitcase.
-15 James privately told Mason that the persimmon is in the blue_bottle.
-16 Aria, James and Mia entered the study.
-17 The cabbage is in the blue_box.
-18 Aria made no movements and stayed in the study for 1 minute.
-19 Aria exited the study.
-20 James made no movements and stayed in the study for 1 minute.
-21 Lucas lost his phone.
-22 James exited the study.
-23 Mia moved the cabbage to the green_envelope.
-24 Mia exited the study.
-25 Aria, James and Mia entered the waiting_room.
-26 Mason, Mia, Aria and James entered the porch.
-27 The cherry is in the blue_bathtub.
-28 Mason moved the cherry to the green_pantry.
-29 Mason exited the porch.
-30 Mia made no movements and stayed in the porch for 1 minute.
-31 Mia exited the porch.
-32 Aria made no movements and stayed in the porch for 1 minute.
-33 Aria exited the porch.
-34 James made no movements and stayed in the porch for 1 minute.
-35 James exited the porch.
-36 Mason, Mia, Aria and James entered the waiting_room.
-37 Mia privately told Aria that the cherry is in the red_bottle.
-38 James privately told Lucas that the cherry is in the green_pantry.
-Question: Where does Aria think Mason thinks the persimmon is?
-Choices: A. blue_bathtub, B. green_bottle, C. green_pantry, D. red_bottle, E. red_bucket, F. green_envelope, G. blue_box, H. blue_envelope, I. blue_treasure_chest, J. blue_drawer, K. green_basket, L. blue_bottle, M. green_crate, N. blue_suitcase, O. blue_cupboard
+1 Isabella, Avery, Hannah, Noah and Nathan entered the dining_room.
+2 The spinach is in the green_pantry.
+3 Isabella made no movements and stayed in the dining_room for 1 minute.
+4 Isabella exited the dining_room.
+5 Avery moved the spinach to the red_crate.
+6 Avery exited the dining_room.
+7 Hannah moved the spinach to the green_cupboard.
+8 Hannah exited the dining_room.
+9 Noah made no movements and stayed in the dining_room for 1 minute.
+10 Noah exited the dining_room.
+11 Nathan moved the spinach to the green_pantry.
+12 Nathan exited the dining_room.
+13 Isabella, Avery, Hannah, Noah and Nathan entered the waiting_room.
+14 Hannah lost his gloves.
+15 Hannah privately told Isabella that the spinach is in the green_cupboard.
+16 Avery privately told Noah that the spinach is in the green_pantry.
+17 Avery, Noah and Hannah entered the garage.
+18 Hannah saw a mouse.
+19 The onion is in the red_basket.
+20 Avery made no movements and stayed in the garage for 1 minute.
+21 Avery exited the garage.
+22 Noah made no movements and stayed in the garage for 1 minute.
+23 Noah exited the garage.
+24 Hannah made no movements and stayed in the garage for 1 minute.
+25 Hannah exited the garage.
+26 Avery, Noah and Hannah entered the waiting_room.
+27 Isabella likes the green_basket.
+28 Isabella, Nathan, Noah and Avery entered the dining_room.
+29 The cherry is in the red_crate.
+30 Isabella moved the cherry to the green_pantry.
+31 Isabella exited the dining_room.
+32 Nathan moved the cherry to the green_box.
+33 Nathan exited the dining_room.
+34 Noah made no movements and stayed in the dining_room for 1 minute.
+35 Noah exited the dining_room.
+36 Avery made no movements and stayed in the dining_room for 1 minute.
+37 Avery exited the dining_room.
+38 Isabella, Nathan, Noah and Avery entered the waiting_room.
+39 Isabella publicly claimed that cherry is in the green_pantry.
+40 Avery privately told Hannah that the cherry is in the green_box.
+Question: Where does Hannah think Avery thinks the spinach is?
+Choices: A. red_basket, B. red_container, C. blue_bottle, D. green_basket, E. red_pantry, F. blue_crate, G. green_bathtub, H. blue_pantry, I. blue_container, J. blue_suitcase, K. red_crate, L. green_pantry, M. green_box, N. red_drawer, O. green_cupboard
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,48 +1,48 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Lily, Amelia, Jackson, Oliver and Chloe entered the den.
-2 The persimmon is in the red_drawer.
-3 Lily made no movements and stayed in the den for 1 minute.
-4 Lily exited the den.
-5 Lily dislikes the lime.
-6 Amelia made no movements and stayed in the den for 1 minute.
-7 Amelia exited the den.
-8 Jackson moved the persimmon to the blue_drawer.
-9 Jackson exited the den.
-10 Oliver moved the persimmon to the red_treasure_chest.
-11 Oliver likes the blue_box.
-12 Oliver exited the den.
-13 Lily dislikes the persimmon.
-14 Chloe moved the persimmon to the red_drawer.
-15 Chloe exited the den.
-16 Amelia lost his phone.
-17 Lily, Amelia, Jackson, Oliver and Chloe entered the waiting_room.
-18 Oliver publicly claimed that persimmon is in the blue_drawer.
-19 Chloe privately told Lily that the persimmon is in the red_drawer.
-20 Oliver, Amelia and Lily entered the office.
-21 The broccoli is in the green_box.
-22 Oliver moved the broccoli to the red_pantry.
-23 Oliver exited the office.
-24 Amelia made no movements and stayed in the office for 1 minute.
-25 Amelia exited the office.
-26 Lily made no movements and stayed in the office for 1 minute.
-27 Lily exited the office.
-28 Oliver, Amelia and Lily entered the waiting_room.
-29 Amelia, Oliver, Jackson and Lily entered the den.
-30 The cabbage is in the red_treasure_chest.
-31 Amelia made no movements and stayed in the den for 1 minute.
-32 Amelia exited the den.
-33 Oliver moved the cabbage to the green_basket.
-34 Oliver exited the den.
-35 Jackson moved the cabbage to the red_bottle.
-36 Jackson exited the den.
-37 Lily moved the cabbage to the red_drawer.
-38 Lily exited the den.
-39 Amelia, Oliver, Jackson and Lily entered the waiting_room.
-40 Oliver privately told Jackson that the cabbage is in the red_bottle.
-41 Lily privately told Chloe that the cabbage is in the red_drawer.
-Question: Where does Oliver really think the persimmon is?
-Answer: red_drawer
-Choices: A. blue_container, B. blue_box, C. blue_bottle, D. green_crate, E. green_bottle, F. green_box, G. red_pantry, H. green_bucket, I. red_bucket, J. blue_envelope, K. red_treasure_chest, L. red_drawer, M. green_basket, N. red_bottle, O. blue_drawer
+1 Abigail, Aiden, Benjamin, Sophia and Isla entered the hallway.
+2 The peach is in the red_bucket.
+3 Aiden likes the red_crate.
+4 Abigail made no movements and stayed in the hallway for 1 minute.
+5 Abigail exited the hallway.
+6 Aiden moved the peach to the red_pantry.
+7 Aiden exited the hallway.
+8 Benjamin made no movements and stayed in the hallway for 1 minute.
+9 Benjamin exited the hallway.
+10 Sophia made no movements and stayed in the hallway for 1 minute.
+11 Sophia exited the hallway.
+12 Isla moved the peach to the red_bucket.
+13 Isla exited the hallway.
+14 Abigail, Aiden, Benjamin, Sophia and Isla entered the waiting_room.
+15 Benjamin privately told Abigail that the peach is in the red_pantry.
+16 Aiden privately told Sophia that the peach is in the red_envelope.
+17 Benjamin, Isla and Abigail entered the hallway.
+18 The peach is in the red_bucket.
+19 Benjamin moved the peach to the red_crate.
+20 Benjamin exited the hallway.
+21 Isla made no movements and stayed in the hallway for 1 minute.
+22 Isla exited the hallway.
+23 Benjamin dislikes the watermelon.
+24 Abigail moved the peach to the red_pantry.
+25 Abigail exited the hallway.
+26 Benjamin, Isla and Abigail entered the waiting_room.
+27 Isla, Aiden, Abigail and Benjamin entered the hallway.
+28 The plum is in the red_envelope.
+29 Isla dislikes the tangerine.
+30 Isla moved the plum to the red_pantry.
+31 Isla exited the hallway.
+32 Aiden made no movements and stayed in the hallway for 1 minute.
+33 Abigail saw a monkey.
+34 Aiden exited the hallway.
+35 Abigail moved the plum to the green_cupboard.
+36 Abigail exited the hallway.
+37 Benjamin made no movements and stayed in the hallway for 1 minute.
+38 Benjamin exited the hallway.
+39 Isla, Aiden, Abigail and Benjamin entered the waiting_room.
+40 Isla publicly claimed that plum is in the red_bucket.
+41 Benjamin privately told Sophia that the plum is in the green_cupboard.
+Question: Where does Abigail really think the peach is?
+Answer: red_pantry
+Choices: A. red_container, B. blue_crate, C. green_crate, D. blue_pantry, E. green_treasure_chest, F. blue_cupboard, G. green_bottle, H. blue_suitcase, I. green_box, J. blue_bucket, K. red_envelope, L. red_bucket, M. red_crate, N. red_pantry, O. green_cupboard
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

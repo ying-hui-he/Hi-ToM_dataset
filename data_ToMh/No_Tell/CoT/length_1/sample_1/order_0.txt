@@ -1,21 +1,23 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 William, Evelyn, Nathan, Alexander and Charlotte entered the crawlspace.
-2 The peas is in the red_bucket.
-3 William moved the peas to the blue_envelope.
-4 William exited the crawlspace.
-5 Evelyn made no movements and stayed in the crawlspace for 1 minute.
-6 Evelyn exited the crawlspace.
-7 Nathan made no movements and stayed in the crawlspace for 1 minute.
-8 William lost his gloves.
-9 Nathan exited the crawlspace.
-10 Alexander made no movements and stayed in the crawlspace for 1 minute.
-11 Alexander exited the crawlspace.
-12 Charlotte moved the peas to the red_bucket.
-13 Charlotte exited the crawlspace.
-14 William, Evelyn, Nathan, Alexander and Charlotte entered the waiting_room.
-Question: Where is the peas really?
-Answer: red_bucket
-Choices: A. green_bathtub, B. red_drawer, C. blue_bottle, D. red_envelope, E. blue_container, F. blue_drawer, G. blue_treasure_chest, H. blue_cupboard, I. blue_bathtub, J. green_crate, K. red_bucket, L. red_treasure_chest, M. blue_envelope, N. green_pantry, O. blue_pantry
+1 Avery, Charlotte, Isabella, Elizabeth and Owen entered the living_room.
+2 The lettuce is in the green_drawer.
+3 Avery moved the lettuce to the green_bathtub.
+4 Elizabeth dislikes the tangerine.
+5 Avery exited the living_room.
+6 Charlotte moved the lettuce to the blue_pantry.
+7 Owen likes the green_envelope.
+8 Charlotte exited the living_room.
+9 Isabella made no movements and stayed in the living_room for 1 minute.
+10 Isabella exited the living_room.
+11 Owen dislikes the green_pepper.
+12 Elizabeth made no movements and stayed in the living_room for 1 minute.
+13 Elizabeth exited the living_room.
+14 Owen moved the lettuce to the green_drawer.
+15 Owen exited the living_room.
+16 Avery, Charlotte, Isabella, Elizabeth and Owen entered the waiting_room.
+Question: Where is the lettuce really?
+Answer: green_drawer
+Choices: A. blue_drawer, B. green_crate, C. red_bucket, D. green_bottle, E. red_basket, F. blue_suitcase, G. green_treasure_chest, H. green_box, I. red_envelope, J. red_pantry, K. green_drawer, L. blue_pantry, M. green_envelope, N. blue_crate, O. green_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

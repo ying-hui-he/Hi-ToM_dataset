@@ -1,32 +1,34 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Mason, Nathan, Aiden, Jackson and Sophia entered the hall.
-2 The banana is in the green_bucket.
-3 Mason moved the banana to the blue_container.
-4 Mason exited the hall.
-5 Nathan moved the banana to the blue_cupboard.
-6 Nathan exited the hall.
-7 Aiden made no movements and stayed in the hall for 1 minute.
-8 Aiden exited the hall.
-9 Jackson made no movements and stayed in the hall for 1 minute.
-10 Jackson exited the hall.
-11 Sophia moved the banana to the green_bucket.
-12 Sophia exited the hall.
-13 Mason, Nathan, Aiden, Jackson and Sophia entered the waiting_room.
-14 Sophia, Nathan and Mason entered the back_yard.
-15 Nathan dislikes the beans.
-16 The tangerine is in the red_envelope.
-17 Sophia moved the tangerine to the red_treasure_chest.
-18 Sophia exited the back_yard.
-19 Nathan moved the tangerine to the red_cupboard.
-20 Nathan exited the back_yard.
-21 Mason made no movements and stayed in the back_yard for 1 minute.
-22 Mason exited the back_yard.
-23 Sophia, Nathan and Mason entered the waiting_room.
-24 Sophia publicly claimed that tangerine is in the red_treasure_chest.
-25 Mason privately told Jackson that the tangerine is in the red_cupboard.
-Question: Where is the banana really?
-Answer: green_bucket
-Choices: A. red_cupboard, B. red_envelope, C. blue_pantry, D. red_treasure_chest, E. green_bottle, F. green_box, G. red_drawer, H. green_envelope, I. blue_drawer, J. green_pantry, K. red_bucket, L. green_bucket, M. red_bottle, N. blue_container, O. blue_cupboard
+1 William, Amelia, Charlotte, Aiden and Isla entered the living_room.
+2 The lettuce is in the green_pantry.
+3 William moved the lettuce to the blue_cupboard.
+4 William exited the living_room.
+5 Amelia made no movements and stayed in the living_room for 1 minute.
+6 Amelia exited the living_room.
+7 Charlotte moved the lettuce to the blue_bathtub.
+8 Charlotte exited the living_room.
+9 Aiden moved the lettuce to the red_box.
+10 Aiden exited the living_room.
+11 Isla moved the lettuce to the green_pantry.
+12 Isla exited the living_room.
+13 William, Amelia, Charlotte, Aiden and Isla entered the waiting_room.
+14 Charlotte, William and Amelia entered the sunroom.
+15 The apple is in the red_bucket.
+16 Charlotte moved the apple to the blue_container.
+17 Charlotte exited the sunroom.
+18 Charlotte dislikes the grapes.
+19 William made no movements and stayed in the sunroom for 1 minute.
+20 William exited the sunroom.
+21 Charlotte dislikes the potato.
+22 Amelia made no movements and stayed in the sunroom for 1 minute.
+23 Amelia exited the sunroom.
+24 Charlotte, William and Amelia entered the waiting_room.
+25 William publicly claimed that apple is in the blue_container.
+26 William dislikes the apple.
+27 Amelia privately told William that the apple is in the blue_suitcase.
+Question: Where is the lettuce really?
+Answer: green_pantry
+Choices: A. green_pantry, B. red_basket, C. blue_cupboard, D. red_box, E. blue_bathtub, F. red_bucket, G. red_envelope, H. red_bottle, I. blue_suitcase, J. blue_container, K. red_pantry, L. green_cupboard, M. red_crate, N. blue_drawer, O. blue_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,87 +1,87 @@
 # locations
 
+create study
+set study is_thing
+set study is_location
+
+create office
+set office is_thing
+set office is_location
+
 create hall
 set hall is_thing
 set hall is_location
 
-create lounge
-set lounge is_thing
-set lounge is_location
+create hallway
+set hallway is_thing
+set hallway is_location
 
-create porch
-set porch is_thing
-set porch is_location
-
-create back_yard
-set back_yard is_thing
-set back_yard is_location
-
-create master_bedroom
-set master_bedroom is_thing
-set master_bedroom is_location
+create closet
+set closet is_thing
+set closet is_location
 
 # objects
-
-create lemon
-set lemon is_thing
-set lemon is_gettable
-
-create apple
-set apple is_thing
-set apple is_gettable
 
 create peach
 set peach is_thing
 set peach is_gettable
 
-create sweet_potato
-set sweet_potato is_thing
-set sweet_potato is_gettable
+create broccoli
+set broccoli is_thing
+set broccoli is_gettable
+
+create eggplant
+set eggplant is_thing
+set eggplant is_gettable
 
 create turnip
 set turnip is_thing
 set turnip is_gettable
 
+create tomato
+set tomato is_thing
+set tomato is_gettable
+
 # containers
 
-create green_treasure_chest
-set green_treasure_chest is_thing
-set green_treasure_chest is_container
-
-create green_basket
-set green_basket is_thing
-set green_basket is_container
-
-create red_pantry
-set red_pantry is_thing
-set red_pantry is_container
-
-create blue_crate
-set blue_crate is_thing
-set blue_crate is_container
+create red_basket
+set red_basket is_thing
+set red_basket is_container
 
 create green_box
 set green_box is_thing
 set green_box is_container
 
+create green_bucket
+set green_bucket is_thing
+set green_bucket is_container
+
+create blue_drawer
+set blue_drawer is_thing
+set blue_drawer is_container
+
+create green_drawer
+set green_drawer is_thing
+set green_drawer is_container
+
 # actors
 
-create James
-set James is_actor
-set James is_god
+create Benjamin
+set Benjamin is_actor
+set Benjamin is_god
 
-create Jackson
-set Jackson is_actor
-set Jackson is_god
+create Logan
+set Logan is_actor
+set Logan is_god
 
-create Jayden
-set Jayden is_actor
-set Jayden is_god
-
-create Isla
-set Isla is_actor
-set Isla is_god
+create Noah
+set Noah is_actor
+set Noah is_god
 
 create William
 set William is_actor
 set William is_god
+
+create Evelyn
+set Evelyn is_actor
+set Evelyn is_god

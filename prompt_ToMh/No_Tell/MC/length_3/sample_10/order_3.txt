@@ -1,46 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Abigail, Nathan, Isla, Mia and Aria entered the crawlspace.
-2 The lemon is in the blue_bucket.
-3 Abigail moved the lemon to the green_bucket.
-4 Abigail exited the crawlspace.
-5 Isla dislikes the potato.
-6 Nathan made no movements and stayed in the crawlspace for 1 minute.
-7 Nathan exited the crawlspace.
-8 Abigail lost his phone.
-9 Isla moved the lemon to the green_drawer.
-10 Mia likes the red_bucket.
-11 Isla exited the crawlspace.
-12 Mia made no movements and stayed in the crawlspace for 1 minute.
-13 Mia exited the crawlspace.
-14 Aria moved the lemon to the blue_bucket.
-15 Aria exited the crawlspace.
-16 Abigail, Nathan, Isla, Mia and Aria entered the waiting_room.
-17 Nathan, Abigail and Isla entered the crawlspace.
-18 The lemon is in the blue_bucket.
-19 Nathan moved the lemon to the green_drawer.
-20 Aria lost his phone.
-21 Nathan exited the crawlspace.
-22 Abigail moved the lemon to the blue_envelope.
-23 Abigail exited the crawlspace.
-24 Isla moved the lemon to the red_bottle.
-25 Isla exited the crawlspace.
-26 Nathan, Abigail and Isla entered the waiting_room.
-27 Mia, Isla, Abigail and Aria entered the hall.
-28 The turnip is in the green_pantry.
-29 Mia moved the turnip to the red_drawer.
-30 Nathan likes the red_container.
-31 Mia exited the hall.
-32 Mia likes the blue_treasure_chest.
-33 Isla made no movements and stayed in the hall for 1 minute.
-34 Isla exited the hall.
-35 Abigail lost his phone.
-36 Abigail made no movements and stayed in the hall for 1 minute.
-37 Abigail exited the hall.
-38 Aria moved the turnip to the red_envelope.
-39 Aria exited the hall.
-40 Mia, Isla, Abigail and Aria entered the waiting_room.
-Question: Where does Isla think Mia thinks Aria thinks the lemon is?
-Choices: A. green_pantry, B. blue_treasure_chest, C. red_envelope, D. blue_drawer, E. red_drawer, F. blue_suitcase, G. blue_box, H. red_container, I. red_bucket, J. red_cupboard, K. blue_bucket, L. red_bottle, M. green_bucket, N. green_drawer, O. blue_envelope
+1 Logan, Ava, Evelyn, Charlotte and William entered the kitchen.
+2 The sweet_potato is in the red_container.
+3 Ava saw a mouse.
+4 Logan made no movements and stayed in the kitchen for 1 minute.
+5 Logan exited the kitchen.
+6 Ava moved the sweet_potato to the blue_cupboard.
+7 Ava exited the kitchen.
+8 Evelyn made no movements and stayed in the kitchen for 1 minute.
+9 Evelyn exited the kitchen.
+10 Charlotte moved the sweet_potato to the green_drawer.
+11 Charlotte exited the kitchen.
+12 William moved the sweet_potato to the red_container.
+13 William exited the kitchen.
+14 Logan, Ava, Evelyn, Charlotte and William entered the waiting_room.
+15 Ava, Logan and Evelyn entered the hallway.
+16 The peas is in the red_basket.
+17 Ava made no movements and stayed in the hallway for 1 minute.
+18 Ava exited the hallway.
+19 Logan made no movements and stayed in the hallway for 1 minute.
+20 Logan exited the hallway.
+21 Evelyn moved the peas to the green_bathtub.
+22 Evelyn exited the hallway.
+23 Ava, Logan and Evelyn entered the waiting_room.
+24 Logan lost his phone.
+25 William, Logan, Evelyn and Charlotte entered the bedroom.
+26 Charlotte likes the green_bathtub.
+27 The banana is in the green_cupboard.
+28 William moved the banana to the green_bottle.
+29 William exited the bedroom.
+30 Logan moved the banana to the green_envelope.
+31 Logan exited the bedroom.
+32 Evelyn moved the banana to the red_crate.
+33 Evelyn exited the bedroom.
+34 Charlotte moved the banana to the green_pantry.
+35 Charlotte exited the bedroom.
+36 William, Logan, Evelyn and Charlotte entered the waiting_room.
+Question: Where does Charlotte think Logan thinks Evelyn thinks the sweet_potato is?
+Choices: A. blue_pantry, B. red_basket, C. green_bathtub, D. blue_drawer, E. blue_bottle, F. red_container, G. blue_cupboard, H. green_basket, I. green_box, J. green_drawer, K. green_cupboard, L. green_pantry, M. green_envelope, N. green_bottle, O. red_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

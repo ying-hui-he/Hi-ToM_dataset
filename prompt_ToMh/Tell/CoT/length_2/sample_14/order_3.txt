@@ -1,32 +1,33 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Sophia, Jayden, Aiden, Ella and Mason entered the back_yard.
-2 The beans is in the red_treasure_chest.
-3 Sophia made no movements and stayed in the back_yard for 1 minute.
-4 Sophia exited the back_yard.
-5 Jayden moved the beans to the red_bucket.
-6 Jayden exited the back_yard.
-7 Aiden likes the blue_bathtub.
-8 Aiden moved the beans to the green_bottle.
-9 Aiden exited the back_yard.
-10 Ella made no movements and stayed in the back_yard for 1 minute.
-11 Ella exited the back_yard.
-12 Mason made no movements and stayed in the back_yard for 1 minute.
-13 Aiden likes the red_treasure_chest.
-14 Mason exited the back_yard.
-15 Sophia, Jayden, Aiden, Ella and Mason entered the waiting_room.
-16 Ella, Aiden and Mason entered the master_bedroom.
-17 The persimmon is in the blue_envelope.
-18 Ella moved the persimmon to the blue_drawer.
-19 Ella exited the master_bedroom.
-20 Aiden moved the persimmon to the blue_treasure_chest.
-21 Aiden exited the master_bedroom.
-22 Mason moved the persimmon to the green_bathtub.
-23 Mason exited the master_bedroom.
-24 Ella, Aiden and Mason entered the waiting_room.
-25 Aiden privately told Mason that the persimmon is in the green_bathtub.
-26 Mason privately told Jayden that the persimmon is in the green_bathtub.
-Question: Where does Ella think Sophia thinks Jayden thinks the beans is?
-Choices: A. blue_envelope, B. blue_treasure_chest, C. green_bathtub, D. blue_bathtub, E. blue_drawer, F. red_bucket, G. red_treasure_chest, H. blue_cupboard, I. blue_bucket, J. green_bottle, K. green_envelope, L. green_basket, M. blue_suitcase, N. green_crate, O. red_pantry
+1 Isabella, Owen, Amelia, Aiden and Nathan entered the sunroom.
+2 The pear is in the blue_pantry.
+3 Isabella made no movements and stayed in the sunroom for 1 minute.
+4 Isabella exited the sunroom.
+5 Owen made no movements and stayed in the sunroom for 1 minute.
+6 Owen exited the sunroom.
+7 Isabella saw a mouse.
+8 Amelia moved the pear to the green_bucket.
+9 Amelia exited the sunroom.
+10 Aiden moved the pear to the blue_suitcase.
+11 Isabella lost his gloves.
+12 Aiden exited the sunroom.
+13 Nathan moved the pear to the blue_pantry.
+14 Owen likes the green_cupboard.
+15 Nathan exited the sunroom.
+16 Isabella, Owen, Amelia, Aiden and Nathan entered the waiting_room.
+17 Nathan, Amelia and Isabella entered the study.
+18 The cherry is in the red_basket.
+19 Nathan moved the cherry to the red_container.
+20 Nathan exited the study.
+21 Amelia moved the cherry to the red_envelope.
+22 Amelia exited the study.
+23 Isabella made no movements and stayed in the study for 1 minute.
+24 Isabella exited the study.
+25 Nathan, Amelia and Isabella entered the waiting_room.
+26 Amelia publicly claimed that cherry is in the red_envelope.
+27 Isabella privately told Amelia that the cherry is in the blue_crate.
+Question: Where does Isabella think Amelia thinks Nathan thinks the pear is?
+Choices: A. red_basket, B. blue_crate, C. green_bathtub, D. red_envelope, E. red_container, F. blue_drawer, G. green_cupboard, H. blue_container, I. green_envelope, J. red_box, K. green_bucket, L. blue_pantry, M. blue_cupboard, N. red_bottle, O. blue_suitcase
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

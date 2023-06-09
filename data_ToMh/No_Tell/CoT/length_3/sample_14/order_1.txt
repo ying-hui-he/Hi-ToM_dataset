@@ -1,43 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Charlotte dislikes the cabbage.
-2 Nathan, Owen, Charlotte, Abigail and Mia entered the attic.
-3 The beans is in the blue_bathtub.
-4 Nathan moved the beans to the red_bottle.
-5 Nathan exited the attic.
-6 Owen made no movements and stayed in the attic for 1 minute.
-7 Owen exited the attic.
-8 Charlotte made no movements and stayed in the attic for 1 minute.
-9 Charlotte exited the attic.
-10 Abigail made no movements and stayed in the attic for 1 minute.
-11 Abigail exited the attic.
-12 Mia made no movements and stayed in the attic for 1 minute.
-13 Mia exited the attic.
-14 Nathan, Owen, Charlotte, Abigail and Mia entered the waiting_room.
-15 Abigail, Owen and Nathan entered the attic.
-16 The beans is in the red_bottle.
-17 Abigail moved the beans to the green_drawer.
-18 Abigail exited the attic.
-19 Owen made no movements and stayed in the attic for 1 minute.
-20 Owen exited the attic.
-21 Nathan made no movements and stayed in the attic for 1 minute.
-22 Nathan exited the attic.
-23 Abigail, Owen and Nathan entered the waiting_room.
-24 Owen, Abigail, Mia and Charlotte entered the patio.
-25 The pumpkin is in the blue_suitcase.
-26 Owen made no movements and stayed in the patio for 1 minute.
-27 Owen exited the patio.
-28 Abigail made no movements and stayed in the patio for 1 minute.
-29 Abigail exited the patio.
-30 Mia dislikes the pumpkin.
-31 Mia moved the pumpkin to the blue_box.
-32 Mia exited the patio.
-33 Charlotte made no movements and stayed in the patio for 1 minute.
-34 Charlotte exited the patio.
-35 Abigail saw a mouse.
-36 Owen, Abigail, Mia and Charlotte entered the waiting_room.
-Question: Where does Nathan really think the beans is?
-Answer: green_drawer
-Choices: A. blue_suitcase, B. green_basket, C. blue_box, D. red_pantry, E. red_bucket, F. blue_container, G. blue_bathtub, H. red_cupboard, I. green_drawer, J. red_bottle, K. red_treasure_chest, L. red_envelope, M. green_treasure_chest, N. blue_cupboard, O. blue_bucket
+1 Abigail, Jackson, Hannah, Owen and Avery entered the basement.
+2 The cucumber is in the blue_drawer.
+3 Abigail moved the cucumber to the blue_container.
+4 Abigail exited the basement.
+5 Jackson made no movements and stayed in the basement for 1 minute.
+6 Jackson exited the basement.
+7 Abigail lost his phone.
+8 Hannah moved the cucumber to the blue_bathtub.
+9 Avery dislikes the plum.
+10 Hannah exited the basement.
+11 Owen moved the cucumber to the red_pantry.
+12 Owen exited the basement.
+13 Avery made no movements and stayed in the basement for 1 minute.
+14 Avery exited the basement.
+15 Abigail, Jackson, Hannah, Owen and Avery entered the waiting_room.
+16 Jackson, Abigail and Hannah entered the basement.
+17 The carrot is in the blue_bathtub.
+18 Jackson moved the carrot to the green_basket.
+19 Jackson exited the basement.
+20 Abigail made no movements and stayed in the basement for 1 minute.
+21 Abigail exited the basement.
+22 Hannah moved the carrot to the blue_container.
+23 Hannah exited the basement.
+24 Jackson, Abigail and Hannah entered the waiting_room.
+25 Owen, Hannah, Avery and Jackson entered the basement.
+26 The carrot is in the blue_container.
+27 Owen moved the carrot to the red_pantry.
+28 Owen saw a cat.
+29 Owen exited the basement.
+30 Hannah moved the carrot to the blue_bathtub.
+31 Hannah exited the basement.
+32 Avery made no movements and stayed in the basement for 1 minute.
+33 Avery exited the basement.
+34 Jackson made no movements and stayed in the basement for 1 minute.
+35 Owen lost his watch.
+36 Jackson exited the basement.
+37 Owen, Hannah, Avery and Jackson entered the waiting_room.
+Question: Where does Avery really think the cucumber is?
+Answer: red_pantry
+Choices: A. blue_bottle, B. green_box, C. green_cupboard, D. green_bucket, E. red_box, F. green_bottle, G. red_envelope, H. blue_bucket, I. red_crate, J. blue_pantry, K. blue_bathtub, L. blue_drawer, M. red_pantry, N. green_basket, O. blue_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

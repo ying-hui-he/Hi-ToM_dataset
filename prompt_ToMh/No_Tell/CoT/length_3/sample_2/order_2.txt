@@ -1,43 +1,44 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Liam, Nathan, Mason, Olivia and Sophia entered the dining_room.
-2 The cabbage is in the blue_cupboard.
-3 Liam moved the cabbage to the green_pantry.
-4 Liam exited the dining_room.
-5 Nathan made no movements and stayed in the dining_room for 1 minute.
-6 Nathan exited the dining_room.
-7 Mason moved the cabbage to the blue_drawer.
-8 Mason exited the dining_room.
-9 Olivia moved the cabbage to the blue_envelope.
-10 Olivia exited the dining_room.
-11 Sophia moved the cabbage to the blue_cupboard.
-12 Sophia lost his watch.
-13 Sophia exited the dining_room.
-14 Liam, Nathan, Mason, Olivia and Sophia entered the waiting_room.
-15 Mason likes the green_basket.
-16 Olivia, Sophia and Nathan entered the dining_room.
-17 The cabbage is in the blue_cupboard.
-18 Olivia moved the cabbage to the blue_bottle.
-19 Olivia exited the dining_room.
-20 Nathan saw a dog.
-21 Sophia made no movements and stayed in the dining_room for 1 minute.
-22 Sophia exited the dining_room.
-23 Nathan moved the cabbage to the blue_drawer.
-24 Nathan exited the dining_room.
-25 Olivia, Sophia and Nathan entered the waiting_room.
-26 Olivia, Mason, Nathan and Liam entered the dining_room.
-27 The pineapple is in the green_pantry.
-28 Olivia moved the pineapple to the blue_envelope.
-29 Olivia exited the dining_room.
-30 Mason made no movements and stayed in the dining_room for 1 minute.
-31 Mason exited the dining_room.
-32 Mason lost his gloves.
-33 Nathan made no movements and stayed in the dining_room for 1 minute.
-34 Nathan exited the dining_room.
-35 Liam moved the pineapple to the blue_drawer.
-36 Liam exited the dining_room.
-37 Olivia, Mason, Nathan and Liam entered the waiting_room.
-Question: Where does Sophia think Mason thinks the cabbage is?
-Choices: A. red_drawer, B. green_treasure_chest, C. red_envelope, D. green_bucket, E. green_basket, F. green_pantry, G. blue_cupboard, H. blue_envelope, I. blue_drawer, J. blue_bottle, K. green_suitcase, L. green_envelope, M. red_pantry, N. blue_treasure_chest, O. blue_suitcase
+1 Emily, Charlotte, Owen, Nathan and Liam entered the attic.
+2 The onion is in the blue_treasure_chest.
+3 Emily made no movements and stayed in the attic for 1 minute.
+4 Emily exited the attic.
+5 Charlotte moved the onion to the green_treasure_chest.
+6 Charlotte exited the attic.
+7 Owen moved the onion to the red_drawer.
+8 Owen exited the attic.
+9 Nathan made no movements and stayed in the attic for 1 minute.
+10 Nathan exited the attic.
+11 Liam made no movements and stayed in the attic for 1 minute.
+12 Liam exited the attic.
+13 Nathan lost his gloves.
+14 Emily, Charlotte, Owen, Nathan and Liam entered the waiting_room.
+15 Emily, Charlotte and Liam entered the front_yard.
+16 The lemon is in the red_bottle.
+17 Emily moved the lemon to the blue_container.
+18 Charlotte likes the red_bottle.
+19 Emily exited the front_yard.
+20 Charlotte moved the lemon to the blue_crate.
+21 Charlotte exited the front_yard.
+22 Liam moved the lemon to the green_drawer.
+23 Emily likes the red_envelope.
+24 Liam exited the front_yard.
+25 Emily, Charlotte and Liam entered the waiting_room.
+26 Nathan dislikes the eggplant.
+27 Charlotte, Owen, Liam and Nathan entered the attic.
+28 The onion is in the red_drawer.
+29 Charlotte made no movements and stayed in the attic for 1 minute.
+30 Charlotte exited the attic.
+31 Owen moved the onion to the blue_bottle.
+32 Owen exited the attic.
+33 Liam made no movements and stayed in the attic for 1 minute.
+34 Liam exited the attic.
+35 Liam saw a dog.
+36 Nathan made no movements and stayed in the attic for 1 minute.
+37 Nathan exited the attic.
+38 Charlotte, Owen, Liam and Nathan entered the waiting_room.
+Question: Where does Emily think Nathan thinks the onion is?
+Choices: A. green_bathtub, B. red_pantry, C. green_bottle, D. red_envelope, E. green_pantry, F. red_bottle, G. green_drawer, H. blue_container, I. blue_drawer, J. blue_crate, K. blue_treasure_chest, L. blue_bucket, M. green_treasure_chest, N. red_drawer, O. blue_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

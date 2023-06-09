@@ -1,32 +1,35 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Olivia, Liam, Charlotte, James and Owen entered the dining_room.
-2 James lost his watch.
-3 The banana is in the green_bathtub.
-4 Olivia moved the banana to the green_box.
-5 Olivia exited the dining_room.
-6 Liam moved the banana to the blue_box.
-7 Owen saw a mouse.
-8 Liam exited the dining_room.
-9 Charlotte moved the banana to the red_cupboard.
-10 Charlotte exited the dining_room.
-11 James moved the banana to the green_basket.
-12 James exited the dining_room.
-13 Owen made no movements and stayed in the dining_room for 1 minute.
-14 Owen exited the dining_room.
-15 Olivia, Liam, Charlotte, James and Owen entered the waiting_room.
-16 Olivia, Charlotte and James entered the dining_room.
-17 The broccoli is in the green_basket.
-18 Olivia made no movements and stayed in the dining_room for 1 minute.
-19 Olivia exited the dining_room.
-20 Charlotte moved the broccoli to the green_box.
-21 Charlotte exited the dining_room.
-22 James made no movements and stayed in the dining_room for 1 minute.
-23 James exited the dining_room.
-24 Olivia, Charlotte and James entered the waiting_room.
-25 Charlotte privately told James that the broccoli is in the red_cupboard.
-26 James privately told Liam that the broccoli is in the green_box.
-Question: Where does Liam think Owen thinks Olivia thinks the banana is?
-Choices: A. blue_suitcase, B. green_suitcase, C. green_bucket, D. blue_treasure_chest, E. red_drawer, F. red_container, G. green_drawer, H. blue_bottle, I. blue_envelope, J. blue_bathtub, K. green_bathtub, L. green_basket, M. blue_box, N. green_box, O. red_cupboard
+1 Benjamin, Isabella, Emma, Charlotte and Liam entered the workshop.
+2 Liam lost his phone.
+3 The watermelon is in the blue_bottle.
+4 Benjamin moved the watermelon to the green_drawer.
+5 Benjamin exited the workshop.
+6 Isabella moved the watermelon to the blue_bucket.
+7 Benjamin dislikes the lime.
+8 Isabella exited the workshop.
+9 Emma made no movements and stayed in the workshop for 1 minute.
+10 Emma exited the workshop.
+11 Charlotte moved the watermelon to the blue_container.
+12 Charlotte exited the workshop.
+13 Liam made no movements and stayed in the workshop for 1 minute.
+14 Liam exited the workshop.
+15 Benjamin likes the blue_bottle.
+16 Benjamin, Isabella, Emma, Charlotte and Liam entered the waiting_room.
+17 Charlotte, Liam and Isabella entered the lounge.
+18 The green_pepper is in the red_bottle.
+19 Charlotte likes the green_envelope.
+20 Charlotte moved the green_pepper to the green_envelope.
+21 Charlotte exited the lounge.
+22 Liam moved the green_pepper to the red_drawer.
+23 Liam exited the lounge.
+24 Isabella moved the green_pepper to the red_box.
+25 Isabella exited the lounge.
+26 Charlotte, Liam and Isabella entered the waiting_room.
+27 Liam likes the blue_bucket.
+28 Liam privately told Isabella that the green_pepper is in the red_bottle.
+29 Isabella privately told Benjamin that the green_pepper is in the red_box.
+Question: Where does Isabella think Emma thinks Benjamin thinks the watermelon is?
+Choices: A. red_bottle, B. green_envelope, C. red_box, D. red_drawer, E. blue_suitcase, F. blue_container, G. blue_bottle, H. green_drawer, I. blue_bucket, J. red_container, K. blue_drawer, L. green_bottle, M. red_pantry, N. blue_cupboard, O. green_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

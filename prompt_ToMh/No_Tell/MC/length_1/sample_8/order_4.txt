@@ -1,21 +1,20 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ava, Aria, Owen, James and Chloe entered the basement.
-2 The broccoli is in the blue_cupboard.
-3 Aria saw a monkey.
-4 Ava made no movements and stayed in the basement for 1 minute.
-5 Ava saw a dog.
-6 Ava exited the basement.
-7 Aria made no movements and stayed in the basement for 1 minute.
-8 Aria exited the basement.
-9 Owen made no movements and stayed in the basement for 1 minute.
-10 Owen exited the basement.
-11 James made no movements and stayed in the basement for 1 minute.
-12 James exited the basement.
-13 Chloe moved the broccoli to the blue_cupboard.
-14 Chloe exited the basement.
-15 Ava, Aria, Owen, James and Chloe entered the waiting_room.
-Question: Where does Ava think Aria thinks Chloe thinks James thinks the broccoli is?
-Choices: A. blue_treasure_chest, B. blue_cupboard, C. green_basket, D. blue_drawer, E. red_envelope, F. green_drawer, G. green_suitcase, H. green_bathtub, I. red_bottle, J. red_bucket, K. red_treasure_chest, L. blue_bottle, M. green_box, N. blue_envelope, O. green_bottle
+1 Owen, Ella, Chloe, Sophia and Noah entered the crawlspace.
+2 The corn is in the green_crate.
+3 Owen made no movements and stayed in the crawlspace for 1 minute.
+4 Owen exited the crawlspace.
+5 Ella made no movements and stayed in the crawlspace for 1 minute.
+6 Ella exited the crawlspace.
+7 Chloe made no movements and stayed in the crawlspace for 1 minute.
+8 Ella dislikes the corn.
+9 Chloe exited the crawlspace.
+10 Sophia moved the corn to the blue_suitcase.
+11 Sophia exited the crawlspace.
+12 Noah made no movements and stayed in the crawlspace for 1 minute.
+13 Noah exited the crawlspace.
+14 Owen, Ella, Chloe, Sophia and Noah entered the waiting_room.
+Question: Where does Owen think Ella thinks Chloe thinks Sophia thinks the corn is?
+Choices: A. red_crate, B. red_box, C. green_envelope, D. green_drawer, E. red_pantry, F. green_crate, G. blue_pantry, H. blue_bucket, I. red_drawer, J. blue_suitcase, K. blue_bathtub, L. red_container, M. green_box, N. green_bathtub, O. blue_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

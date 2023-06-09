@@ -1,19 +1,21 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 Alexander, Abigail, Isla, Owen and Chloe entered the study.
-2 The eggplant is in the green_basket.
-3 Alexander moved the eggplant to the red_pantry.
-4 Alexander exited the study.
-5 Abigail moved the eggplant to the blue_bathtub.
-6 Abigail exited the study.
-7 Isla made no movements and stayed in the study for 1 minute.
-8 Isla exited the study.
-9 Owen made no movements and stayed in the study for 1 minute.
-10 Owen exited the study.
-11 Chloe made no movements and stayed in the study for 1 minute.
-12 Chloe exited the study.
-13 Alexander, Abigail, Isla, Owen and Chloe entered the waiting_room.
-Question: Where does Chloe think Abigail thinks Isla thinks Owen thinks the eggplant is?
-Choices: A. red_drawer, B. green_crate, C. red_envelope, D. red_bucket, E. blue_box, F. green_envelope, G. green_basket, H. blue_bathtub, I. green_box, J. red_pantry, K. blue_pantry, L. green_bucket, M. blue_drawer, N. blue_envelope, O. blue_bottle
+1 Chloe, Benjamin, Alexander, Ella and Elizabeth entered the study.
+2 The orange is in the red_box.
+3 Chloe made no movements and stayed in the study for 1 minute.
+4 Alexander lost his phone.
+5 Chloe exited the study.
+6 Benjamin moved the orange to the red_envelope.
+7 Benjamin exited the study.
+8 Alexander made no movements and stayed in the study for 1 minute.
+9 Alexander exited the study.
+10 Ella made no movements and stayed in the study for 1 minute.
+11 Benjamin saw a cat.
+12 Ella exited the study.
+13 Elizabeth moved the orange to the red_box.
+14 Elizabeth exited the study.
+15 Chloe, Benjamin, Alexander, Ella and Elizabeth entered the waiting_room.
+Question: Where does Alexander think Chloe thinks Elizabeth thinks Ella thinks the orange is?
+Choices: A. red_bottle, B. blue_suitcase, C. red_basket, D. blue_bathtub, E. blue_cupboard, F. red_box, G. green_envelope, H. red_envelope, I. blue_bucket, J. green_box, K. green_bottle, L. green_basket, M. blue_drawer, N. blue_bottle, O. blue_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

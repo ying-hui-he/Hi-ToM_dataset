@@ -1,44 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ella, Aria, Olivia, Sophia and James entered the porch.
-2 The spinach is in the red_envelope.
-3 Ella made no movements and stayed in the porch for 1 minute.
-4 Ella exited the porch.
-5 Aria made no movements and stayed in the porch for 1 minute.
-6 Aria exited the porch.
-7 Olivia moved the spinach to the red_treasure_chest.
-8 Olivia exited the porch.
-9 Sophia moved the spinach to the blue_drawer.
-10 Sophia exited the porch.
-11 James made no movements and stayed in the porch for 1 minute.
-12 James exited the porch.
-13 Ella, Aria, Olivia, Sophia and James entered the waiting_room.
-14 Ella, James and Olivia entered the den.
-15 The pineapple is in the blue_container.
-16 Ella made no movements and stayed in the den for 1 minute.
-17 Ella exited the den.
-18 James made no movements and stayed in the den for 1 minute.
-19 James exited the den.
-20 Aria dislikes the lime.
-21 Olivia moved the pineapple to the red_container.
-22 Olivia lost his gloves.
-23 Olivia exited the den.
-24 Ella, James and Olivia entered the waiting_room.
-25 Olivia, Aria, Ella and James entered the kitchen.
-26 The turnip is in the green_drawer.
-27 Olivia moved the turnip to the red_drawer.
-28 Olivia exited the kitchen.
-29 Aria moved the turnip to the green_envelope.
-30 Olivia lost his phone.
-31 Aria exited the kitchen.
-32 Ella made no movements and stayed in the kitchen for 1 minute.
-33 Ella dislikes the turnip.
-34 Ella exited the kitchen.
-35 James made no movements and stayed in the kitchen for 1 minute.
-36 James exited the kitchen.
-37 Olivia, Aria, Ella and James entered the waiting_room.
-Question: Where does Olivia really think the spinach is?
-Answer: red_treasure_chest
-Choices: A. red_envelope, B. red_treasure_chest, C. blue_pantry, D. blue_drawer, E. green_basket, F. green_drawer, G. green_bathtub, H. green_envelope, I. red_cupboard, J. red_drawer, K. green_bottle, L. blue_container, M. green_crate, N. red_container, O. green_bucket
+1 William, Lily, Aiden, Emma and Isla entered the porch.
+2 The melon is in the green_bathtub.
+3 William made no movements and stayed in the porch for 1 minute.
+4 William exited the porch.
+5 Lily made no movements and stayed in the porch for 1 minute.
+6 Lily exited the porch.
+7 Aiden moved the melon to the blue_pantry.
+8 Lily likes the green_bucket.
+9 Aiden exited the porch.
+10 Emma moved the melon to the green_bucket.
+11 Emma exited the porch.
+12 Isla moved the melon to the green_bathtub.
+13 Isla exited the porch.
+14 William, Lily, Aiden, Emma and Isla entered the waiting_room.
+15 Emma, Isla and Aiden entered the basement.
+16 The watermelon is in the blue_suitcase.
+17 Emma made no movements and stayed in the basement for 1 minute.
+18 Emma exited the basement.
+19 Isla moved the watermelon to the blue_bottle.
+20 Isla exited the basement.
+21 Aiden made no movements and stayed in the basement for 1 minute.
+22 Aiden exited the basement.
+23 Emma, Isla and Aiden entered the waiting_room.
+24 Aiden likes the red_pantry.
+25 William, Isla, Aiden and Lily entered the front_yard.
+26 The beans is in the red_bottle.
+27 William made no movements and stayed in the front_yard for 1 minute.
+28 Isla likes the green_cupboard.
+29 William exited the front_yard.
+30 Isla moved the beans to the green_bottle.
+31 Isla exited the front_yard.
+32 Aiden made no movements and stayed in the front_yard for 1 minute.
+33 Aiden exited the front_yard.
+34 Lily made no movements and stayed in the front_yard for 1 minute.
+35 Lily exited the front_yard.
+36 William, Isla, Aiden and Lily entered the waiting_room.
+Question: Where does William really think the melon is?
+Answer: green_bathtub
+Choices: A. green_bathtub, B. green_cupboard, C. green_bucket, D. blue_pantry, E. green_basket, F. blue_suitcase, G. green_box, H. red_pantry, I. blue_bottle, J. red_container, K. blue_bathtub, L. red_bottle, M. green_bottle, N. red_bucket, O. red_drawer
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

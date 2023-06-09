@@ -1,24 +1,24 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 William, Mason, Jackson, Amelia and Isla entered the kitchen.
-2 The radish is in the red_pantry.
-3 William made no movements and stayed in the kitchen for 1 minute.
-4 William exited the kitchen.
-5 Mason made no movements and stayed in the kitchen for 1 minute.
-6 Mason exited the kitchen.
-7 Amelia likes the blue_pantry.
-8 Jackson moved the radish to the blue_container.
-9 Jackson exited the kitchen.
-10 Amelia made no movements and stayed in the kitchen for 1 minute.
-11 Amelia exited the kitchen.
-12 Isla moved the radish to the red_pantry.
-13 Mason likes the blue_container.
-14 Isla exited the kitchen.
-15 William, Mason, Jackson, Amelia and Isla entered the waiting_room.
-16 Jackson publicly claimed that radish is in the red_container.
-17 Isla privately told Jackson that the radish is in the green_envelope.
-Question: Where does Jackson really think the radish is?
-Answer: green_envelope
-Choices: A. blue_box, B. blue_bucket, C. green_bucket, D. green_bathtub, E. blue_drawer, F. green_basket, G. red_cupboard, H. green_drawer, I. blue_pantry, J. green_bottle, K. red_pantry, L. red_container, M. green_envelope, N. green_box, O. blue_container
+1 Elizabeth dislikes the orange.
+2 Hannah, Emma, Elizabeth, Sophia and Logan entered the garage.
+3 The asparagus is in the blue_drawer.
+4 Hannah made no movements and stayed in the garage for 1 minute.
+5 Hannah exited the garage.
+6 Emma made no movements and stayed in the garage for 1 minute.
+7 Emma exited the garage.
+8 Elizabeth made no movements and stayed in the garage for 1 minute.
+9 Elizabeth exited the garage.
+10 Sophia made no movements and stayed in the garage for 1 minute.
+11 Sophia exited the garage.
+12 Logan made no movements and stayed in the garage for 1 minute.
+13 Logan saw a dog.
+14 Logan exited the garage.
+15 Hannah, Emma, Elizabeth, Sophia and Logan entered the waiting_room.
+16 Sophia publicly claimed that asparagus is in the red_crate.
+17 Logan privately told Hannah that the asparagus is in the blue_drawer.
+Question: Where does Logan really think the asparagus is?
+Answer: blue_drawer
+Choices: A. green_treasure_chest, B. green_bottle, C. green_drawer, D. green_envelope, E. red_bottle, F. red_box, G. blue_crate, H. red_envelope, I. red_drawer, J. red_container, K. blue_treasure_chest, L. blue_drawer, M. blue_pantry, N. red_crate, O. red_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

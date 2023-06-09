@@ -1,32 +1,33 @@
 Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
 Story:
-1 William, Abigail, Lily, Sophia and Olivia entered the garden.
-2 The plum is in the green_drawer.
-3 William made no movements and stayed in the garden for 1 minute.
-4 William exited the garden.
-5 Abigail moved the plum to the blue_bucket.
-6 Abigail exited the garden.
-7 Lily moved the plum to the blue_suitcase.
-8 Sophia likes the red_treasure_chest.
-9 Lily exited the garden.
-10 Sophia made no movements and stayed in the garden for 1 minute.
-11 Sophia exited the garden.
-12 Olivia made no movements and stayed in the garden for 1 minute.
-13 Olivia exited the garden.
-14 William, Abigail, Lily, Sophia and Olivia entered the waiting_room.
-15 Abigail, William and Sophia entered the garden.
-16 The cherry is in the blue_bucket.
-17 Abigail moved the cherry to the green_drawer.
-18 Abigail exited the garden.
-19 William moved the cherry to the blue_suitcase.
-20 William exited the garden.
-21 Sophia moved the cherry to the red_bucket.
-22 Sophia exited the garden.
-23 Abigail, William and Sophia entered the waiting_room.
-24 William privately told Sophia that the cherry is in the blue_suitcase.
-25 Sophia privately told Olivia that the cherry is in the red_bucket.
-Question: Where does Sophia think Olivia thinks the plum is?
-Answer: blue_suitcase
-Choices: A. green_bottle, B. green_bathtub, C. red_cupboard, D. green_box, E. blue_cupboard, F. red_envelope, G. green_suitcase, H. blue_container, I. green_crate, J. red_treasure_chest, K. green_drawer, L. blue_bucket, M. blue_suitcase, N. blue_bathtub, O. red_bucket
+1 Noah, Jack, Benjamin, Emily and Sophia entered the pantry.
+2 The carrot is in the green_treasure_chest.
+3 Noah moved the carrot to the blue_suitcase.
+4 Noah exited the pantry.
+5 Jack made no movements and stayed in the pantry for 1 minute.
+6 Jack exited the pantry.
+7 Benjamin made no movements and stayed in the pantry for 1 minute.
+8 Benjamin exited the pantry.
+9 Emily moved the carrot to the blue_drawer.
+10 Noah dislikes the corn.
+11 Emily exited the pantry.
+12 Sophia made no movements and stayed in the pantry for 1 minute.
+13 Sophia exited the pantry.
+14 Noah, Jack, Benjamin, Emily and Sophia entered the waiting_room.
+15 Benjamin, Noah and Emily entered the pantry.
+16 The beans is in the blue_bottle.
+17 Benjamin moved the beans to the blue_drawer.
+18 Benjamin exited the pantry.
+19 Noah made no movements and stayed in the pantry for 1 minute.
+20 Jack likes the red_basket.
+21 Noah exited the pantry.
+22 Emily made no movements and stayed in the pantry for 1 minute.
+23 Emily exited the pantry.
+24 Benjamin, Noah and Emily entered the waiting_room.
+25 Benjamin publicly claimed that beans is in the blue_bottle.
+26 Emily privately told Sophia that the beans is in the blue_drawer.
+Question: Where does Noah think Benjamin thinks the carrot is?
+Answer: blue_drawer
+Choices: A. blue_crate, B. green_drawer, C. blue_cupboard, D. red_container, E. red_basket, F. blue_bottle, G. green_treasure_chest, H. blue_treasure_chest, I. blue_drawer, J. blue_suitcase, K. green_bathtub, L. blue_bathtub, M. green_envelope, N. red_bottle, O. red_pantry
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
