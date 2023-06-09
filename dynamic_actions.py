@@ -172,7 +172,7 @@ class ExitedAction(Action):
 
         templates = {
             'declarative': [
-                '%s exited the %s and stayed in the waiting_room.' % fill,
+                '%s exited the %s.' % fill,
             ]
         }
         oracle.set_location(agent, None)
@@ -280,6 +280,9 @@ class EnterAction(Action):
 
         agents = args[:-1]
         location = args[-1]
+        if location == 'waiting_room':
+            super().__init__(templates)
+            return
         for agent in agents:
             oracle.set_location(agent, location)
         objs = oracle.get_objects_at_location(location)

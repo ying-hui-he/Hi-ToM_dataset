@@ -1,40 +1,40 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Ethan dislikes the eggplant.
-2 Amelia, Isabella, Logan, Ethan and Liam entered the crawlspace.
-3 The eggplant is in the blue_box.
-4 Isabella saw a monkey.
-5 Amelia moved the eggplant to the red_bucket.
-6 Amelia exited the crawlspace and stayed in the waiting_room.
-7 Isabella made no movements and stayed in the crawlspace for 10 minutes.
-8 Isabella exited the crawlspace and stayed in the waiting_room.
-9 Logan moved the eggplant to the red_box.
-10 Logan exited the crawlspace and stayed in the waiting_room.
-11 Ethan made no movements and stayed in the crawlspace for 10 minutes.
-12 Ethan exited the crawlspace and stayed in the waiting_room.
-13 Liam likes the green_basket.
-14 Liam made no movements and stayed in the crawlspace for 10 minutes.
-15 Liam exited the crawlspace and stayed in the waiting_room.
-16 Amelia saw a mouse.
-17 Amelia, Isabella and Logan entered the living_room.
-18 The watermelon is in the red_envelope.
-19 Amelia moved the watermelon to the blue_basket.
-20 Amelia exited the living_room and stayed in the waiting_room.
-21 Isabella made no movements and stayed in the living_room for 10 minutes.
-22 Isabella exited the living_room and stayed in the waiting_room.
-23 Logan moved the watermelon to the red_suitcase.
-24 Logan exited the living_room and stayed in the waiting_room.
-25 Isabella, Liam, Logan and Ethan entered the living_room.
-26 The watermelon is in the red_suitcase.
-27 Isabella made no movements and stayed in the living_room for 10 minutes.
-28 Isabella exited the living_room and stayed in the waiting_room.
-29 Liam moved the watermelon to the red_crate.
-30 Liam exited the living_room and stayed in the waiting_room.
-31 Logan made no movements and stayed in the living_room for 10 minutes.
-32 Logan exited the living_room and stayed in the waiting_room.
-33 Ethan moved the watermelon to the red_envelope.
-34 Ethan exited the living_room and stayed in the waiting_room.
-35 Amelia likes the blue_box.
-Question: Where does Amelia think Liam thinks the eggplant is?
-Answer: blue_box
+1 Lily, Charlotte, Ella, Nathan and Carter entered the patio.
+2 The lime is in the red_cupboard.
+3 Lily moved the lime to the blue_pantry.
+4 Charlotte saw a monkey.
+5 Lily exited the patio.
+6 Charlotte moved the lime to the green_pantry.
+7 Charlotte exited the patio.
+8 Ella moved the lime to the green_container.
+9 Ella exited the patio.
+10 Nathan moved the lime to the red_box.
+11 Nathan exited the patio.
+12 Carter moved the lime to the red_cupboard.
+13 Carter exited the patio.
+14 Lily, Charlotte, Ella, Nathan and Carter entered the waiting_room.
+15 Nathan, Charlotte and Lily entered the cellar.
+16 The corn is in the green_bottle.
+17 Nathan made no movements and stayed in the cellar for 10 minutes.
+18 Nathan exited the cellar.
+19 Charlotte moved the corn to the blue_bucket.
+20 Nathan lost his gloves.
+21 Charlotte exited the cellar.
+22 Lily made no movements and stayed in the cellar for 10 minutes.
+23 Lily exited the cellar.
+24 Nathan, Charlotte and Lily entered the waiting_room.
+25 Nathan, Ella, Lily and Carter entered the staircase.
+26 The potato is in the blue_envelope.
+27 Nathan moved the potato to the blue_basket.
+28 Nathan exited the staircase.
+29 Ella moved the potato to the red_basket.
+30 Ella exited the staircase.
+31 Lily moved the potato to the red_bottle.
+32 Lily exited the staircase.
+33 Carter made no movements and stayed in the staircase for 10 minutes.
+34 Carter exited the staircase.
+35 Nathan, Ella, Lily and Carter entered the waiting_room.
+Question: Where does Ella think Charlotte thinks the lime is?
+Answer: green_pantry
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

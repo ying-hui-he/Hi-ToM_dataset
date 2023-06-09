@@ -1,18 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Lucas, Lily, Alexander, Abigail and Ethan entered the hall.
-2 The onion is in the red_box.
-3 Lucas made no movements and stayed in the hall for 10 minutes.
-4 Lily likes the blue_container.
-5 Lucas exited the hall and stayed in the waiting_room.
-6 Lily moved the onion to the blue_crate.
-7 Lily exited the hall and stayed in the waiting_room.
-8 Alexander made no movements and stayed in the hall for 10 minutes.
-9 Alexander exited the hall and stayed in the waiting_room.
-10 Abigail made no movements and stayed in the hall for 10 minutes.
-11 Abigail exited the hall and stayed in the waiting_room.
-12 Ethan made no movements and stayed in the hall for 10 minutes.
-13 Ethan exited the hall and stayed in the waiting_room.
-Question: Where does Alexander think Lily thinks Abigail thinks Ethan thinks the onion is?
-Answer: red_box
+1 Aria lost his gloves.
+2 Liam, Isabella, Hannah, Aria and Lily entered the den.
+3 The sweet_potato is in the green_bathtub.
+4 Liam made no movements and stayed in the den for 10 minutes.
+5 Liam exited the den.
+6 Isabella made no movements and stayed in the den for 10 minutes.
+7 Isabella exited the den.
+8 Hannah made no movements and stayed in the den for 10 minutes.
+9 Hannah exited the den.
+10 Aria made no movements and stayed in the den for 10 minutes.
+11 Aria exited the den.
+12 Lily made no movements and stayed in the den for 10 minutes.
+13 Lily exited the den.
+14 Liam, Isabella, Hannah, Aria and Lily entered the waiting_room.
+Question: Where does Isabella think Lily thinks Liam thinks Aria thinks the sweet_potato is?
+Answer: green_bathtub
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

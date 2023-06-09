@@ -1,45 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mila, Chloe, Olivia, Nathan and Elizabeth entered the workshop.
-2 The green_pepper is in the blue_bottle.
-3 Mila made no movements and stayed in the workshop for 10 minutes.
-4 Mila exited the workshop and stayed in the waiting_room.
-5 Chloe moved the green_pepper to the red_treasure_chest.
-6 Chloe exited the workshop and stayed in the waiting_room.
-7 Olivia made no movements and stayed in the workshop for 10 minutes.
-8 Olivia exited the workshop and stayed in the waiting_room.
-9 Nathan made no movements and stayed in the workshop for 10 minutes.
-10 Nathan exited the workshop and stayed in the waiting_room.
-11 Elizabeth made no movements and stayed in the workshop for 10 minutes.
-12 Elizabeth exited the workshop and stayed in the waiting_room.
-13 Nathan, Elizabeth and Chloe entered the living_room.
-14 Olivia saw a dog.
-15 The grapes is in the green_basket.
-16 Nathan made no movements and stayed in the living_room for 10 minutes.
-17 Nathan exited the living_room and stayed in the waiting_room.
-18 Elizabeth moved the grapes to the green_suitcase.
-19 Elizabeth exited the living_room and stayed in the waiting_room.
-20 Chloe moved the grapes to the blue_drawer.
-21 Chloe exited the living_room and stayed in the waiting_room.
-22 Nathan, Elizabeth, Olivia and Chloe entered the workshop.
-23 The lime is in the green_container.
-24 Nathan moved the lime to the red_treasure_chest.
-25 Nathan exited the workshop and stayed in the waiting_room.
-26 Elizabeth made no movements and stayed in the workshop for 10 minutes.
-27 Elizabeth exited the workshop and stayed in the waiting_room.
-28 Chloe lost his watch.
-29 Olivia moved the lime to the red_envelope.
-30 Olivia exited the workshop and stayed in the waiting_room.
-31 Chloe moved the lime to the blue_bottle.
-32 Chloe exited the workshop and stayed in the waiting_room.
-33 Olivia and Mila entered the basement.
-34 The radish is in the green_pantry.
-35 Olivia made no movements and stayed in the basement for 10 minutes.
-36 Olivia exited the basement and stayed in the waiting_room.
-37 Nathan dislikes the green_pepper.
-38 Mila moved the radish to the blue_box.
-39 Mila exited the basement and stayed in the waiting_room.
-42 Elizabeth saw a mouse.
-Question: Where does Chloe think Mila thinks the green_pepper is?
-Answer: blue_bottle
+1 Ethan, Sophia, Gracie, Isabella and Oliver entered the cellar.
+2 The lemon is in the red_basket.
+3 Ethan moved the lemon to the green_crate.
+4 Ethan exited the cellar.
+5 Sophia made no movements and stayed in the cellar for 10 minutes.
+6 Sophia exited the cellar.
+7 Gracie made no movements and stayed in the cellar for 10 minutes.
+8 Gracie exited the cellar.
+9 Isabella moved the lemon to the blue_bathtub.
+10 Isabella exited the cellar.
+11 Oliver moved the lemon to the red_basket.
+12 Oliver exited the cellar.
+13 Ethan, Sophia, Gracie, Isabella and Oliver entered the waiting_room.
+14 Oliver, Ethan and Sophia entered the living_room.
+15 The onion is in the red_crate.
+16 Oliver moved the onion to the green_treasure_chest.
+17 Oliver exited the living_room.
+18 Ethan moved the onion to the red_container.
+19 Ethan exited the living_room.
+20 Sophia made no movements and stayed in the living_room for 10 minutes.
+21 Oliver dislikes the onion.
+22 Sophia exited the living_room.
+23 Oliver, Ethan and Sophia entered the waiting_room.
+24 Ethan, Gracie, Sophia and Isabella entered the cellar.
+25 The melon is in the green_crate.
+26 Ethan made no movements and stayed in the cellar for 10 minutes.
+27 Ethan exited the cellar.
+28 Gracie moved the melon to the green_pantry.
+29 Gracie exited the cellar.
+30 Sophia moved the melon to the red_bathtub.
+31 Sophia exited the cellar.
+32 Isabella moved the melon to the red_basket.
+33 Isabella exited the cellar.
+34 Ethan, Gracie, Sophia and Isabella entered the waiting_room.
+35 Oliver and Ethan entered the living_room.
+36 The onion is in the red_container.
+37 Oliver made no movements and stayed in the living_room for 10 minutes.
+38 Oliver exited the living_room.
+39 Ethan moved the onion to the green_suitcase.
+40 Ethan exited the living_room.
+41 Oliver and Ethan entered the waiting_room.
+43 Isabella likes the red_bathtub.
+Question: Where does Isabella think Gracie thinks the lemon is?
+Answer: red_basket
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

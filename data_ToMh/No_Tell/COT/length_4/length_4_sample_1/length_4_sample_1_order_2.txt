@@ -1,47 +1,49 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Isabella, Chloe, Logan, Avery and Amelia entered the hallway.
-2 The apple is in the blue_box.
-3 Isabella moved the apple to the green_drawer.
-4 Isabella exited the hallway and stayed in the waiting_room.
-5 Chloe made no movements and stayed in the hallway for 10 minutes.
-6 Chloe exited the hallway and stayed in the waiting_room.
-7 Logan moved the apple to the red_box.
-8 Logan exited the hallway and stayed in the waiting_room.
-9 Avery moved the apple to the green_container.
-10 Avery exited the hallway and stayed in the waiting_room.
-11 Amelia made no movements and stayed in the hallway for 10 minutes.
-12 Amelia exited the hallway and stayed in the waiting_room.
-13 Avery, Logan and Amelia entered the hallway.
-14 Amelia saw a dog.
-15 The apple is in the green_container.
-16 Chloe lost his watch.
-17 Avery moved the apple to the red_box.
-18 Avery exited the hallway and stayed in the waiting_room.
-19 Logan made no movements and stayed in the hallway for 10 minutes.
-20 Logan exited the hallway and stayed in the waiting_room.
-21 Logan saw a monkey.
-22 Amelia moved the apple to the blue_envelope.
-23 Amelia exited the hallway and stayed in the waiting_room.
-24 Avery dislikes the radish.
-25 Amelia, Chloe, Avery and Isabella entered the garage.
-26 The pineapple is in the green_envelope.
-27 Amelia made no movements and stayed in the garage for 10 minutes.
-28 Amelia exited the garage and stayed in the waiting_room.
-29 Chloe moved the pineapple to the green_bottle.
-30 Chloe exited the garage and stayed in the waiting_room.
-31 Avery moved the pineapple to the blue_crate.
-32 Isabella saw a mouse.
-33 Avery exited the garage and stayed in the waiting_room.
-34 Isabella made no movements and stayed in the garage for 10 minutes.
-35 Isabella exited the garage and stayed in the waiting_room.
-36 Logan and Chloe entered the pantry.
-37 The radish is in the blue_bottle.
-38 Logan moved the radish to the red_treasure_chest.
-39 Logan exited the pantry and stayed in the waiting_room.
-40 Chloe moved the radish to the blue_basket.
-41 Logan dislikes the pineapple.
-42 Chloe exited the pantry and stayed in the waiting_room.
-Question: Where does Isabella think Avery thinks the apple is?
-Answer: blue_box
+1 Mason, Gracie, Hannah, Evelyn and Noah entered the workshop.
+2 The grapefruit is in the blue_box.
+3 Mason made no movements and stayed in the workshop for 10 minutes.
+4 Mason exited the workshop.
+5 Gracie moved the grapefruit to the red_treasure_chest.
+6 Gracie exited the workshop.
+7 Hannah moved the grapefruit to the blue_envelope.
+8 Hannah exited the workshop.
+9 Evelyn moved the grapefruit to the green_suitcase.
+10 Noah dislikes the corn.
+11 Evelyn exited the workshop.
+12 Noah made no movements and stayed in the workshop for 10 minutes.
+13 Evelyn saw a monkey.
+14 Noah exited the workshop.
+15 Mason, Gracie, Hannah, Evelyn and Noah entered the waiting_room.
+16 Noah, Mason and Hannah entered the front_yard.
+17 The tangerine is in the red_envelope.
+18 Noah moved the tangerine to the green_container.
+19 Noah exited the front_yard.
+20 Mason moved the tangerine to the blue_container.
+21 Mason exited the front_yard.
+22 Hannah made no movements and stayed in the front_yard for 10 minutes.
+23 Gracie dislikes the grapefruit.
+24 Hannah exited the front_yard.
+25 Noah, Mason and Hannah entered the waiting_room.
+26 Hannah, Evelyn, Noah and Mason entered the front_yard.
+27 The tangerine is in the blue_container.
+28 Hannah moved the tangerine to the red_envelope.
+29 Hannah exited the front_yard.
+30 Evelyn moved the tangerine to the green_container.
+31 Mason lost his gloves.
+32 Evelyn exited the front_yard.
+33 Noah moved the tangerine to the green_box.
+34 Noah exited the front_yard.
+35 Mason made no movements and stayed in the front_yard for 10 minutes.
+36 Mason exited the front_yard.
+37 Hannah, Evelyn, Noah and Mason entered the waiting_room.
+38 Noah and Gracie entered the workshop.
+39 The orange is in the red_treasure_chest.
+40 Noah moved the orange to the blue_envelope.
+41 Noah exited the workshop.
+42 Gracie moved the orange to the green_suitcase.
+43 Gracie exited the workshop.
+44 Noah and Gracie entered the waiting_room.
+Question: Where does Noah think Gracie thinks the grapefruit is?
+Answer: green_suitcase
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

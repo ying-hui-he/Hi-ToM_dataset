@@ -1,43 +1,47 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Mia, Sophia, Jayden, Nathan and Liam entered the hall.
-2 The celery is in the blue_box.
-3 Mia moved the celery to the red_crate.
-4 Mia lost his watch.
-5 Mia exited the hall and stayed in the waiting_room.
-6 Nathan likes the blue_envelope.
-7 Sophia made no movements and stayed in the hall for 10 minutes.
-8 Sophia exited the hall and stayed in the waiting_room.
-9 Jayden made no movements and stayed in the hall for 10 minutes.
-10 Jayden exited the hall and stayed in the waiting_room.
-11 Nathan made no movements and stayed in the hall for 10 minutes.
-12 Nathan exited the hall and stayed in the waiting_room.
-13 Liam moved the celery to the blue_box.
-14 Nathan lost his gloves.
-15 Liam exited the hall and stayed in the waiting_room.
-16 Nathan publicly claimed that celery is in the blue_basket.
-17 Liam privately told Mia that the celery is in the blue_box.
-18 Mia, Nathan and Liam entered the hall.
-19 The melon is in the blue_drawer.
-20 Mia moved the melon to the blue_box.
-21 Liam likes the blue_envelope.
-22 Mia exited the hall and stayed in the waiting_room.
-23 Nathan moved the melon to the red_crate.
-24 Nathan exited the hall and stayed in the waiting_room.
-25 Liam moved the melon to the blue_envelope.
-26 Liam exited the hall and stayed in the waiting_room.
-27 Jayden, Nathan, Mia and Liam entered the hallway.
-28 The green_pepper is in the red_treasure_chest.
-29 Jayden moved the green_pepper to the red_container.
-30 Jayden exited the hallway and stayed in the waiting_room.
-31 Nathan moved the green_pepper to the blue_crate.
-32 Nathan exited the hallway and stayed in the waiting_room.
-33 Mia made no movements and stayed in the hallway for 10 minutes.
-34 Mia exited the hallway and stayed in the waiting_room.
-35 Liam made no movements and stayed in the hallway for 10 minutes.
-36 Liam exited the hallway and stayed in the waiting_room.
-37 Mia publicly claimed that green_pepper is in the red_treasure_chest.
-38 Jayden privately told Liam that the green_pepper is in the blue_bottle.
-Question: Where does Liam think Sophia thinks Mia thinks the celery is?
-Answer: blue_box
+1 Avery, Noah, Hannah, Sophia and Carter entered the office.
+2 The radish is in the blue_drawer.
+3 Avery made no movements and stayed in the office for 10 minutes.
+4 Avery exited the office.
+5 Noah moved the radish to the green_box.
+6 Noah exited the office.
+7 Hannah made no movements and stayed in the office for 10 minutes.
+8 Hannah exited the office.
+9 Sophia moved the radish to the red_bucket.
+10 Sophia exited the office.
+11 Carter moved the radish to the blue_drawer.
+12 Carter exited the office.
+13 Avery, Noah, Hannah, Sophia and Carter entered the waiting_room.
+14 Sophia publicly claimed that radish is in the blue_bottle.
+15 Carter privately told Avery that the radish is in the blue_drawer.
+16 Noah, Carter and Hannah entered the lounge.
+17 The onion is in the green_basket.
+18 Noah moved the onion to the red_container.
+19 Noah dislikes the radish.
+20 Noah exited the lounge.
+21 Carter made no movements and stayed in the lounge for 10 minutes.
+22 Carter exited the lounge.
+23 Hannah moved the onion to the red_bottle.
+24 Hannah exited the lounge.
+25 Sophia likes the blue_box.
+26 Noah, Carter and Hannah entered the waiting_room.
+27 Avery, Carter, Noah and Hannah entered the cellar.
+28 Avery saw a monkey.
+29 The cherry is in the green_envelope.
+30 Hannah saw a monkey.
+31 Avery made no movements and stayed in the cellar for 10 minutes.
+32 Avery exited the cellar.
+33 Carter made no movements and stayed in the cellar for 10 minutes.
+34 Carter exited the cellar.
+35 Noah made no movements and stayed in the cellar for 10 minutes.
+36 Noah dislikes the tangerine.
+37 Noah exited the cellar.
+38 Hannah moved the cherry to the red_box.
+39 Hannah exited the cellar.
+40 Avery, Carter, Noah and Hannah entered the waiting_room.
+41 Carter privately told Noah that the cherry is in the red_box.
+42 Hannah privately told Sophia that the cherry is in the red_box.
+Question: Where does Sophia think Avery thinks Noah thinks the radish is?
+Answer: blue_drawer
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

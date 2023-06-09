@@ -1,42 +1,40 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Amelia, Jayden, Aiden, Mia and Lucas entered the basement.
-2 The spinach is in the red_treasure_chest.
-3 Amelia moved the spinach to the green_crate.
-4 Amelia exited the basement and stayed in the waiting_room.
-5 Jayden moved the spinach to the red_bathtub.
-6 Mia likes the blue_bottle.
-7 Jayden exited the basement and stayed in the waiting_room.
-8 Aiden lost his watch.
-9 Aiden moved the spinach to the blue_bottle.
-10 Aiden exited the basement and stayed in the waiting_room.
-11 Jayden saw a monkey.
-12 Mia moved the spinach to the blue_drawer.
-13 Mia exited the basement and stayed in the waiting_room.
-14 Lucas moved the spinach to the red_treasure_chest.
-15 Lucas exited the basement and stayed in the waiting_room.
-16 Mia, Lucas and Jayden entered the back_yard.
-17 The pumpkin is in the green_bottle.
-18 Mia moved the pumpkin to the red_container.
-19 Mia exited the back_yard and stayed in the waiting_room.
-20 Lucas moved the pumpkin to the red_suitcase.
-21 Lucas exited the back_yard and stayed in the waiting_room.
-22 Jayden moved the pumpkin to the red_bucket.
-23 Lucas saw a mouse.
-24 Jayden exited the back_yard and stayed in the waiting_room.
-25 Amelia, Mia, Lucas and Jayden entered the patio.
-26 The melon is in the blue_crate.
-27 Amelia made no movements and stayed in the patio for 10 minutes.
-28 Mia dislikes the spinach.
-29 Amelia exited the patio and stayed in the waiting_room.
-30 Mia made no movements and stayed in the patio for 10 minutes.
-31 Mia exited the patio and stayed in the waiting_room.
-32 Amelia saw a mouse.
-33 Lucas moved the melon to the green_bathtub.
-34 Lucas exited the patio and stayed in the waiting_room.
-35 Mia likes the red_suitcase.
-36 Jayden made no movements and stayed in the patio for 10 minutes.
-37 Jayden exited the patio and stayed in the waiting_room.
-Question: Where does Aiden think Lucas thinks the spinach is?
-Answer: red_bathtub
+1 Olivia, Gracie, Oliver, Liam and Aria entered the back_yard.
+2 The banana is in the red_bucket.
+3 Olivia moved the banana to the red_box.
+4 Olivia exited the back_yard.
+5 Gracie made no movements and stayed in the back_yard for 10 minutes.
+6 Gracie exited the back_yard.
+7 Oliver made no movements and stayed in the back_yard for 10 minutes.
+8 Gracie saw a cat.
+9 Oliver exited the back_yard.
+10 Liam made no movements and stayed in the back_yard for 10 minutes.
+11 Liam exited the back_yard.
+12 Aria made no movements and stayed in the back_yard for 10 minutes.
+13 Aria exited the back_yard.
+14 Olivia, Gracie, Oliver, Liam and Aria entered the waiting_room.
+15 Gracie, Oliver and Aria entered the study.
+16 The lime is in the red_treasure_chest.
+17 Liam dislikes the tangerine.
+18 Gracie moved the lime to the green_bottle.
+19 Gracie exited the study.
+20 Oliver made no movements and stayed in the study for 10 minutes.
+21 Oliver exited the study.
+22 Aria made no movements and stayed in the study for 10 minutes.
+23 Aria exited the study.
+24 Gracie, Oliver and Aria entered the waiting_room.
+25 Aria, Olivia, Liam and Gracie entered the back_yard.
+26 The tangerine is in the blue_bottle.
+27 Aria made no movements and stayed in the back_yard for 10 minutes.
+28 Aria exited the back_yard.
+29 Olivia made no movements and stayed in the back_yard for 10 minutes.
+30 Olivia exited the back_yard.
+31 Liam moved the tangerine to the red_box.
+32 Liam exited the back_yard.
+33 Gracie made no movements and stayed in the back_yard for 10 minutes.
+34 Gracie exited the back_yard.
+35 Aria, Olivia, Liam and Gracie entered the waiting_room.
+Question: Where does Liam think Oliver thinks the banana is?
+Answer: red_bucket
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

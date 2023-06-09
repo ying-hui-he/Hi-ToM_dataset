@@ -1,40 +1,49 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Lily, Lucas, Jayden, Amelia and Abigail entered the laundry.
-2 The lettuce is in the blue_bottle.
-3 Lily moved the lettuce to the green_container.
-4 Lily exited the laundry and stayed in the waiting_room.
-5 Lucas made no movements and stayed in the laundry for 10 minutes.
-6 Lucas exited the laundry and stayed in the waiting_room.
-7 Jayden made no movements and stayed in the laundry for 10 minutes.
-8 Jayden exited the laundry and stayed in the waiting_room.
-9 Amelia made no movements and stayed in the laundry for 10 minutes.
-10 Amelia exited the laundry and stayed in the waiting_room.
-11 Abigail made no movements and stayed in the laundry for 10 minutes.
-12 Abigail exited the laundry and stayed in the waiting_room.
-13 Jayden publicly claimed that lettuce is in the red_box.
-14 Abigail privately told Jayden that the lettuce is in the blue_bottle.
-15 Abigail, Lucas and Lily entered the laundry.
-16 The lettuce is in the green_container.
-17 Amelia likes the blue_bottle.
-18 Abigail moved the lettuce to the red_box.
-19 Abigail exited the laundry and stayed in the waiting_room.
-20 Lucas made no movements and stayed in the laundry for 10 minutes.
-21 Lucas exited the laundry and stayed in the waiting_room.
-22 Lily moved the lettuce to the red_treasure_chest.
-23 Lily exited the laundry and stayed in the waiting_room.
-24 Amelia, Abigail, Jayden and Lucas entered the hall.
-25 The green_pepper is in the green_suitcase.
-26 Amelia made no movements and stayed in the hall for 10 minutes.
-27 Amelia exited the hall and stayed in the waiting_room.
-28 Abigail made no movements and stayed in the hall for 10 minutes.
-29 Abigail exited the hall and stayed in the waiting_room.
-30 Jayden made no movements and stayed in the hall for 10 minutes.
-31 Jayden exited the hall and stayed in the waiting_room.
-32 Lucas made no movements and stayed in the hall for 10 minutes.
-33 Lucas exited the hall and stayed in the waiting_room.
-34 Jayden publicly claimed that green_pepper is in the green_suitcase.
-35 Amelia privately told Lucas that the green_pepper is in the red_suitcase.
-Question: Where does Jayden really think the lettuce is?
-Answer: blue_bottle
+1 Alexander dislikes the lemon.
+2 Lily, Emily, Alexander, Owen and Isla entered the porch.
+3 Emily dislikes the turnip.
+4 The potato is in the red_crate.
+5 Isla saw a cat.
+6 Lily moved the potato to the green_box.
+7 Lily exited the porch.
+8 Emily saw a cat.
+9 Emily moved the potato to the red_bucket.
+10 Emily exited the porch.
+11 Alexander moved the potato to the green_container.
+12 Alexander exited the porch.
+13 Owen moved the potato to the blue_box.
+14 Owen exited the porch.
+15 Isla made no movements and stayed in the porch for 10 minutes.
+16 Isla exited the porch.
+17 Emily saw a cat.
+18 Lily, Emily, Alexander, Owen and Isla entered the waiting_room.
+19 Owen publicly claimed that potato is in the green_container.
+20 Isla privately told Lily that the potato is in the blue_box.
+21 Lily, Isla and Owen entered the patio.
+22 The lemon is in the red_envelope.
+23 Lily moved the lemon to the blue_suitcase.
+24 Lily exited the patio.
+25 Isla moved the lemon to the blue_drawer.
+26 Isla exited the patio.
+27 Owen made no movements and stayed in the patio for 10 minutes.
+28 Owen exited the patio.
+29 Lily, Isla and Owen entered the waiting_room.
+30 Isla, Emily, Owen and Alexander entered the patio.
+31 The lemon is in the blue_drawer.
+32 Isla moved the lemon to the red_basket.
+33 Isla exited the patio.
+34 Emily dislikes the lemon.
+35 Emily moved the lemon to the blue_suitcase.
+36 Emily exited the patio.
+37 Owen made no movements and stayed in the patio for 10 minutes.
+38 Owen exited the patio.
+39 Alexander made no movements and stayed in the patio for 10 minutes.
+40 Alexander exited the patio.
+41 Isla, Emily, Owen and Alexander entered the waiting_room.
+42 Owen publicly claimed that lemon is in the red_basket.
+43 Isla privately told Alexander that the lemon is in the red_envelope.
+44 Owen lost his phone.
+Question: Where does Isla really think the potato is?
+Answer: blue_box
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

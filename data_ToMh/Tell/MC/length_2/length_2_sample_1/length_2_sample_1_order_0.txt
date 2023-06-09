@@ -1,29 +1,32 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Lucas, Aiden, Chloe, Mila and Elizabeth entered the hallway.
-2 The grapes is in the red_crate.
-3 Lucas made no movements and stayed in the hallway for 10 minutes.
-4 Lucas exited the hallway and stayed in the waiting_room.
-5 Aiden moved the grapes to the red_box.
-6 Aiden exited the hallway and stayed in the waiting_room.
-7 Chloe moved the grapes to the green_suitcase.
-8 Chloe exited the hallway and stayed in the waiting_room.
-9 Mila moved the grapes to the blue_basket.
-10 Mila exited the hallway and stayed in the waiting_room.
-11 Elizabeth moved the grapes to the red_crate.
-12 Elizabeth exited the hallway and stayed in the waiting_room.
-13 Chloe, Aiden and Elizabeth entered the hallway.
-14 The grapes is in the red_crate.
-15 Chloe made no movements and stayed in the hallway for 10 minutes.
-16 Lucas likes the red_crate.
-17 Chloe exited the hallway and stayed in the waiting_room.
-18 Aiden made no movements and stayed in the hallway for 10 minutes.
-19 Aiden exited the hallway and stayed in the waiting_room.
-20 Elizabeth made no movements and stayed in the hallway for 10 minutes.
-21 Elizabeth exited the hallway and stayed in the waiting_room.
-22 Aiden saw a cat.
-23 Elizabeth publicly claimed that grapes is in the red_box.
-24 Chloe privately told Elizabeth that the grapes is in the green_suitcase.
-Question: Where is the grapes really?
-Answer: red_crate
+1 Sophia, Carter, Nathan, Charlotte and Noah entered the sunroom.
+2 The radish is in the blue_basket.
+3 Sophia moved the radish to the green_basket.
+4 Sophia exited the sunroom.
+5 Carter moved the radish to the red_container.
+6 Carter exited the sunroom.
+7 Carter saw a cat.
+8 Nathan moved the radish to the green_treasure_chest.
+9 Nathan exited the sunroom.
+10 Charlotte moved the radish to the blue_bucket.
+11 Charlotte exited the sunroom.
+12 Noah made no movements and stayed in the sunroom for 10 minutes.
+13 Noah exited the sunroom.
+14 Sophia, Carter, Nathan, Charlotte and Noah entered the waiting_room.
+15 Noah, Nathan and Carter entered the basement.
+16 Charlotte saw a dog.
+17 The pear is in the blue_container.
+18 Noah moved the pear to the blue_drawer.
+19 Noah exited the basement.
+20 Nathan made no movements and stayed in the basement for 10 minutes.
+21 Nathan exited the basement.
+22 Carter moved the pear to the green_container.
+23 Carter exited the basement.
+24 Sophia lost his phone.
+25 Noah, Nathan and Carter entered the waiting_room.
+26 Noah publicly claimed that pear is in the blue_drawer.
+27 Carter privately told Charlotte that the pear is in the green_container.
+Question: Where is the radish really?
+Answer: blue_bucket
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

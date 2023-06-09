@@ -1,19 +1,22 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 James, Nathan, Lily, Alexander and Liam entered the patio.
-2 The pineapple is in the green_drawer.
-3 James moved the pineapple to the green_box.
-4 James exited the patio and stayed in the waiting_room.
-5 Nathan moved the pineapple to the red_drawer.
-6 Nathan exited the patio and stayed in the waiting_room.
-7 Lily moved the pineapple to the green_basket.
-8 Lily exited the patio and stayed in the waiting_room.
-9 Alexander moved the pineapple to the red_envelope.
-10 Alexander exited the patio and stayed in the waiting_room.
-11 Liam moved the pineapple to the green_drawer.
-12 Liam exited the patio and stayed in the waiting_room.
-13 Lily publicly claimed that pineapple is in the red_envelope.
-14 Liam privately told Lily that the pineapple is in the green_basket.
-Question: Where does Nathan think James thinks the pineapple is?
-Answer: red_envelope
+1 Noah, Charlotte, Sophia, Emily and Ella entered the playroom.
+2 The potato is in the blue_pantry.
+3 Noah moved the potato to the green_treasure_chest.
+4 Noah exited the playroom.
+5 Charlotte made no movements and stayed in the playroom for 10 minutes.
+6 Charlotte exited the playroom.
+7 Sophia made no movements and stayed in the playroom for 10 minutes.
+8 Sophia exited the playroom.
+9 Emily moved the potato to the red_treasure_chest.
+10 Emily lost his gloves.
+11 Emily exited the playroom.
+12 Ella made no movements and stayed in the playroom for 10 minutes.
+13 Ella exited the playroom.
+14 Noah, Charlotte, Sophia, Emily and Ella entered the waiting_room.
+15 Sophia privately told Noah that the potato is in the green_treasure_chest.
+16 Sophia dislikes the lime.
+17 Charlotte privately told Emily that the potato is in the blue_bucket.
+Question: Where does Ella think Emily thinks the potato is?
+Answer: red_treasure_chest
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

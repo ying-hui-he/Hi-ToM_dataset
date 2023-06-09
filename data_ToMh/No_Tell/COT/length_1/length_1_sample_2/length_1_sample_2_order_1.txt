@@ -1,18 +1,18 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Sophia, Ethan, Benjamin, James and Isla entered the attic.
-2 Ethan lost his gloves.
-3 The lime is in the green_suitcase.
-4 Sophia made no movements and stayed in the attic for 10 minutes.
-5 Sophia exited the attic and stayed in the waiting_room.
-6 Ethan moved the lime to the blue_box.
-7 Ethan exited the attic and stayed in the waiting_room.
-8 Benjamin moved the lime to the blue_drawer.
-9 Benjamin exited the attic and stayed in the waiting_room.
-10 James moved the lime to the blue_pantry.
-11 James exited the attic and stayed in the waiting_room.
-12 Isla moved the lime to the green_suitcase.
-13 Isla exited the attic and stayed in the waiting_room.
-Question: Where does Sophia really think the lime is?
-Answer: green_suitcase
+1 Isla, Nathan, Emma, Isabella and Oliver entered the hall.
+2 The tangerine is in the red_cupboard.
+3 Isla made no movements and stayed in the hall for 10 minutes.
+4 Isla exited the hall.
+5 Nathan made no movements and stayed in the hall for 10 minutes.
+6 Nathan exited the hall.
+7 Emma moved the tangerine to the red_bottle.
+8 Emma exited the hall.
+9 Isabella moved the tangerine to the green_box.
+10 Isabella exited the hall.
+11 Oliver made no movements and stayed in the hall for 10 minutes.
+12 Oliver exited the hall.
+13 Isla, Nathan, Emma, Isabella and Oliver entered the waiting_room.
+Question: Where does Nathan really think the tangerine is?
+Answer: red_cupboard
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

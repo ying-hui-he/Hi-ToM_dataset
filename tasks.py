@@ -59,6 +59,11 @@ def write_A2_chapter(
         Clause(ExitedAction(oracle, (a2)))
     ])
 
+    # Everyone enter the waiting room
+    chapter.extend([
+        Clause(EnterAction(oracle, (a1, a2, 'waiting_room')))
+    ])
+
     # tell actions has 3 different forms
     if exist_tell:
         tell_containers = random.sample(oracle.get_containers(location)[:], 2)
@@ -127,6 +132,11 @@ def write_A3_chapter(
         Clause(MoveAction(
             oracle, (a3, obj, containers[3]), None, move=movements[2])),
         Clause(ExitedAction(oracle, (a3)))
+    ])
+
+    # Everyone enter the waiting room
+    chapter.extend([
+        Clause(EnterAction(oracle, (a1, a2, a3, 'waiting_room')))
     ])
 
     # tell actions has 4 different forms
@@ -217,6 +227,11 @@ def write_A4_chapter(
         Clause(MoveAction(
             oracle, (a4, obj, containers[4]), None, move=movements[3])),
         Clause(ExitedAction(oracle, (a4)))
+    ])
+
+    # Everyone enter the waiting room
+    chapter.extend([
+        Clause(EnterAction(oracle, (a1, a2, a3, a4, 'waiting_room')))
     ])
 
     # tell actions has 4 different forms
@@ -315,6 +330,11 @@ def write_A5_chapter(
         Clause(ExitedAction(oracle, (a5)))
     ])
 
+    # Everyone enter the waiting room
+    chapter.extend([
+        Clause(EnterAction(oracle, (a1, a2, a3, a4, a5, 'waiting_room')))
+    ])
+
     # tell actions has 3 different forms
     if exist_tell:
         tell_containers = random.sample(oracle.get_containers(location)[:], 2)
@@ -383,7 +403,7 @@ class Task(object):
 class Specify_Tasks(Task):
     def generate_story_qs_at_end(
         self, world, tasks_per_story, tasks, num_agents=5,
-        num_locations=3, statement_noise=0, order=0, exist_tell_in_story=False
+        num_locations=3, statement_noise=0.1, order=0, exist_tell_in_story=False
     ):
         """
         Allows user to specify chapter and question for each task in story.

@@ -4,143 +4,159 @@ create hallway
 set hallway is_thing
 set hallway is_location
 
-create study
-set study is_thing
-set study is_location
+create patio
+set patio is_thing
+set patio is_location
 
-create kitchen
-set kitchen is_thing
-set kitchen is_location
+create cellar
+set cellar is_thing
+set cellar is_location
+
+create closet
+set closet is_thing
+set closet is_location
+
+create porch
+set porch is_thing
+set porch is_location
 
 create bedroom
 set bedroom is_thing
 set bedroom is_location
 
-create lounge
-set lounge is_thing
-set lounge is_location
-
-create staircase
-set staircase is_thing
-set staircase is_location
+create garden
+set garden is_thing
+set garden is_location
 
 create sunroom
 set sunroom is_thing
 set sunroom is_location
 
+create crawlspace
+set crawlspace is_thing
+set crawlspace is_location
+
 create front_yard
 set front_yard is_thing
 set front_yard is_location
 
-create office
-set office is_thing
-set office is_location
-
-create living_room
-set living_room is_thing
-set living_room is_location
-
 # objects
 
-create tangerine
-set tangerine is_thing
-set tangerine is_gettable
+create tomato
+set tomato is_thing
+set tomato is_gettable
 
-create plum
-set plum is_thing
-set plum is_gettable
-
-create asparagus
-set asparagus is_thing
-set asparagus is_gettable
-
-create pineapple
-set pineapple is_thing
-set pineapple is_gettable
+create pear
+set pear is_thing
+set pear is_gettable
 
 create grapefruit
 set grapefruit is_thing
 set grapefruit is_gettable
 
-create radish
-set radish is_thing
-set radish is_gettable
+create pumpkin
+set pumpkin is_thing
+set pumpkin is_gettable
 
-create carrot
-set carrot is_thing
-set carrot is_gettable
+create plum
+set plum is_thing
+set plum is_gettable
 
-create peas
-set peas is_thing
-set peas is_gettable
+create lettuce
+set lettuce is_thing
+set lettuce is_gettable
 
-create spinach
-set spinach is_thing
-set spinach is_gettable
+create celery
+set celery is_thing
+set celery is_gettable
 
-create cucumber
-set cucumber is_thing
-set cucumber is_gettable
+create persimmon
+set persimmon is_thing
+set persimmon is_gettable
+
+create lime
+set lime is_thing
+set lime is_gettable
+
+create strawberry
+set strawberry is_thing
+set strawberry is_gettable
 
 # containers
 
-create blue_pantry
-set blue_pantry is_thing
-set blue_pantry is_container
+create green_bathtub
+set green_bathtub is_thing
+set green_bathtub is_container
 
-create red_bottle
-set red_bottle is_thing
-set red_bottle is_container
+create blue_envelope
+set blue_envelope is_thing
+set blue_envelope is_container
 
 create red_pantry
 set red_pantry is_thing
 set red_pantry is_container
 
-create blue_bathtub
-set blue_bathtub is_thing
-set blue_bathtub is_container
+create green_bottle
+set green_bottle is_thing
+set green_bottle is_container
 
-create green_basket
-set green_basket is_thing
-set green_basket is_container
-
-create green_cupboard
-set green_cupboard is_thing
-set green_cupboard is_container
-
-create blue_treasure_chest
-set blue_treasure_chest is_thing
-set blue_treasure_chest is_container
+create green_drawer
+set green_drawer is_thing
+set green_drawer is_container
 
 create red_bathtub
 set red_bathtub is_thing
 set red_bathtub is_container
 
+create blue_cupboard
+set blue_cupboard is_thing
+set blue_cupboard is_container
+
 create green_box
 set green_box is_thing
 set green_box is_container
 
-create red_bucket
-set red_bucket is_thing
-set red_bucket is_container
+create blue_bucket
+set blue_bucket is_thing
+set blue_bucket is_container
+
+create blue_treasure_chest
+set blue_treasure_chest is_thing
+set blue_treasure_chest is_container
 
 # actors
 
-create Olivia
-set Olivia is_actor
-set Olivia is_god
+create Mila
+set Mila is_actor
+set Mila is_god
 
-create Oliver
-set Oliver is_actor
-set Oliver is_god
+create Sophia
+set Sophia is_actor
+set Sophia is_god
 
-create Charlotte
-set Charlotte is_actor
-set Charlotte is_god
+create Elizabeth
+set Elizabeth is_actor
+set Elizabeth is_god
 
-create Benjamin
-set Benjamin is_actor
-set Benjamin is_god
+create Gracie
+set Gracie is_actor
+set Gracie is_god
+
+create James
+set James is_actor
+set James is_god
+
+create Isla
+set Isla is_actor
+set Isla is_god
+
+create Mason
+set Mason is_actor
+set Mason is_god
+
+create Lucas
+set Lucas is_actor
+set Lucas is_god
 
 create Jackson
 set Jackson is_actor
@@ -149,19 +165,3 @@ set Jackson is_god
 create Nathan
 set Nathan is_actor
 set Nathan is_god
-
-create Ella
-set Ella is_actor
-set Ella is_god
-
-create Lucas
-set Lucas is_actor
-set Lucas is_god
-
-create Emily
-set Emily is_actor
-set Emily is_god
-
-create Gracie
-set Gracie is_actor
-set Gracie is_god

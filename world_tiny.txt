@@ -1,87 +1,87 @@
 # locations
 
-create lounge
-set lounge is_thing
-set lounge is_location
+create pantry
+set pantry is_thing
+set pantry is_location
 
-create sunroom
-set sunroom is_thing
-set sunroom is_location
+create laundry
+set laundry is_thing
+set laundry is_location
 
-create bedroom
-set bedroom is_thing
-set bedroom is_location
+create staircase
+set staircase is_thing
+set staircase is_location
 
-create workshop
-set workshop is_thing
-set workshop is_location
+create back_yard
+set back_yard is_thing
+set back_yard is_location
 
-create porch
-set porch is_thing
-set porch is_location
+create garden
+set garden is_thing
+set garden is_location
 
 # objects
 
-create spinach
-set spinach is_thing
-set spinach is_gettable
+create peach
+set peach is_thing
+set peach is_gettable
 
-create watermelon
-set watermelon is_thing
-set watermelon is_gettable
+create banana
+set banana is_thing
+set banana is_gettable
 
-create tangerine
-set tangerine is_thing
-set tangerine is_gettable
+create asparagus
+set asparagus is_thing
+set asparagus is_gettable
 
-create potato
-set potato is_thing
-set potato is_gettable
+create eggplant
+set eggplant is_thing
+set eggplant is_gettable
 
-create grapes
-set grapes is_thing
-set grapes is_gettable
+create pear
+set pear is_thing
+set pear is_gettable
 
 # containers
 
-create red_bathtub
-set red_bathtub is_thing
-set red_bathtub is_container
+create green_box
+set green_box is_thing
+set green_box is_container
 
-create blue_drawer
-set blue_drawer is_thing
-set blue_drawer is_container
+create green_pantry
+set green_pantry is_thing
+set green_pantry is_container
 
-create red_suitcase
-set red_suitcase is_thing
-set red_suitcase is_container
+create blue_bottle
+set blue_bottle is_thing
+set blue_bottle is_container
 
-create red_pantry
-set red_pantry is_thing
-set red_pantry is_container
+create blue_bathtub
+set blue_bathtub is_thing
+set blue_bathtub is_container
 
-create blue_box
-set blue_box is_thing
-set blue_box is_container
+create red_basket
+set red_basket is_thing
+set red_basket is_container
 
 # actors
 
-create Lucas
-set Lucas is_actor
-set Lucas is_god
+create James
+set James is_actor
+set James is_god
 
-create Mason
-set Mason is_actor
-set Mason is_god
+create Lily
+set Lily is_actor
+set Lily is_god
 
-create Logan
-set Logan is_actor
-set Logan is_god
+create Isabella
+set Isabella is_actor
+set Isabella is_god
 
 create Hannah
 set Hannah is_actor
 set Hannah is_god
 
-create Mia
-set Mia is_actor
-set Mia is_god
+create Logan
+set Logan is_actor
+set Logan is_god
