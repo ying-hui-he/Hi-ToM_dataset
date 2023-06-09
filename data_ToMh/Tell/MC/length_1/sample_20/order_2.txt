@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Abigail, Ava, Alexander, Mia and Ella entered the front_yard.
+2 The cherry is in the red_treasure_chest.
+3 Abigail moved the cherry to the red_suitcase.
+4 Abigail exited the front_yard.
+5 Ava moved the cherry to the green_pantry.
+6 Ella saw a dog.
+7 Ava exited the front_yard.
+8 Alexander moved the cherry to the blue_bucket.
+9 Alexander exited the front_yard.
+10 Mia moved the cherry to the green_container.
+11 Mia exited the front_yard.
+12 Ella moved the cherry to the red_treasure_chest.
+13 Ella exited the front_yard.
+14 Abigail, Ava, Alexander, Mia and Ella entered the waiting_room.
+15 Mia publicly claimed that cherry is in the red_treasure_chest.
+16 Ella privately told Abigail that the cherry is in the red_treasure_chest.
+Question: Where does Abigail think Ella thinks the cherry is?
+Answer: red_treasure_chest
+Choices: A. red_crate, B. blue_envelope, C. blue_suitcase, D. green_drawer, E. green_envelope, F. red_treasure_chest, G. green_pantry, H. blue_bucket, I. red_suitcase, J. green_container, K. green_suitcase, L. blue_treasure_chest, M. blue_bottle, N. red_basket, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

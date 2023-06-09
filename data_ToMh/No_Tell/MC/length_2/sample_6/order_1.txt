@@ -1,0 +1,33 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella dislikes the broccoli.
+2 Emily, Sophia, Mia, Abigail and Ella entered the study.
+3 The grapefruit is in the red_envelope.
+4 Mia likes the blue_treasure_chest.
+5 Emily moved the grapefruit to the green_basket.
+6 Emily exited the study.
+7 Sophia moved the grapefruit to the blue_crate.
+8 Sophia exited the study.
+9 Mia moved the grapefruit to the green_container.
+10 Mia exited the study.
+11 Abigail moved the grapefruit to the blue_drawer.
+12 Abigail exited the study.
+13 Ella moved the grapefruit to the red_envelope.
+14 Ella exited the study.
+15 Emily, Sophia, Mia, Abigail and Ella entered the waiting_room.
+16 Abigail saw a mouse.
+17 Sophia, Mia and Abigail entered the back_yard.
+18 The grapes is in the red_suitcase.
+19 Sophia moved the grapes to the blue_treasure_chest.
+20 Sophia exited the back_yard.
+21 Mia moved the grapes to the green_pantry.
+22 Mia exited the back_yard.
+23 Abigail made no movements and stayed in the back_yard for 1 minute.
+24 Abigail exited the back_yard.
+25 Ella lost his phone.
+26 Sophia, Mia and Abigail entered the waiting_room.
+Question: Where does Abigail really think the grapefruit is?
+Answer: blue_drawer
+Choices: A. green_bucket, B. green_treasure_chest, C. green_suitcase, D. red_crate, E. blue_basket, F. red_suitcase, G. blue_box, H. red_bucket, I. green_pantry, J. blue_treasure_chest, K. green_container, L. red_envelope, M. blue_crate, N. green_basket, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

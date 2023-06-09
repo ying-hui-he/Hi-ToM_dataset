@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Jack, Chloe, William, Ella and Mason entered the hallway.
+2 The strawberry is in the red_basket.
+3 Jack made no movements and stayed in the hallway for 1 minute.
+4 Jack exited the hallway.
+5 Mason dislikes the green_pepper.
+6 Chloe moved the strawberry to the green_suitcase.
+7 Chloe exited the hallway.
+8 William made no movements and stayed in the hallway for 1 minute.
+9 William exited the hallway.
+10 Ella made no movements and stayed in the hallway for 1 minute.
+11 Ella exited the hallway.
+12 Mason moved the strawberry to the red_basket.
+13 Mason exited the hallway.
+14 Jack, Chloe, William, Ella and Mason entered the waiting_room.
+15 Ella publicly claimed that strawberry is in the red_treasure_chest.
+16 Jack likes the red_suitcase.
+17 Mason privately told Jack that the strawberry is in the red_basket.
+Question: Where does Chloe think Ella thinks Jack thinks William thinks the strawberry is?
+Choices: A. green_suitcase, B. red_basket, C. green_treasure_chest, D. red_treasure_chest, E. red_bucket, F. green_envelope, G. red_drawer, H. red_suitcase, I. green_bathtub, J. green_container, K. blue_basket, L. blue_treasure_chest, M. red_envelope, N. red_crate, O. green_basket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

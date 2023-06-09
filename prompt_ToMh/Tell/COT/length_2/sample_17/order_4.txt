@@ -1,0 +1,34 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Abigail, Mia, James, Carter and Noah entered the laundry.
+2 The potato is in the blue_bottle.
+3 Abigail moved the potato to the red_treasure_chest.
+4 Abigail exited the laundry.
+5 Mia moved the potato to the red_suitcase.
+6 Mia exited the laundry.
+7 James moved the potato to the blue_bucket.
+8 James exited the laundry.
+9 Carter made no movements and stayed in the laundry for 1 minute.
+10 Carter exited the laundry.
+11 Noah made no movements and stayed in the laundry for 1 minute.
+12 Noah exited the laundry.
+13 Abigail, Mia, James, Carter and Noah entered the waiting_room.
+14 Mia saw a dog.
+15 Carter, Noah and Abigail entered the study.
+16 The carrot is in the green_envelope.
+17 Carter moved the carrot to the red_bottle.
+18 Noah dislikes the pineapple.
+19 Carter exited the study.
+20 Abigail lost his gloves.
+21 Noah made no movements and stayed in the study for 1 minute.
+22 Noah exited the study.
+23 Carter lost his watch.
+24 Abigail moved the carrot to the blue_treasure_chest.
+25 Abigail exited the study.
+26 Carter, Noah and Abigail entered the waiting_room.
+27 Abigail publicly claimed that carrot is in the blue_envelope.
+28 Carter privately told Abigail that the carrot is in the red_bottle.
+Question: Where does Mia think James thinks Noah thinks Abigail thinks the potato is?
+Choices: A. green_envelope, B. red_bottle, C. green_drawer, D. blue_treasure_chest, E. blue_envelope, F. red_box, G. green_bathtub, H. red_pantry, I. red_container, J. green_cupboard, K. blue_bucket, L. blue_bottle, M. red_suitcase, N. red_treasure_chest, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,47 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Avery saw a mouse.
+2 Owen, Avery, Carter, Noah and Ethan entered the workshop.
+3 Avery lost his gloves.
+4 The green_pepper is in the red_bottle.
+5 Ethan likes the red_basket.
+6 Owen made no movements and stayed in the workshop for 1 minute.
+7 Owen exited the workshop.
+8 Avery moved the green_pepper to the red_box.
+9 Avery exited the workshop.
+10 Carter moved the green_pepper to the red_envelope.
+11 Carter exited the workshop.
+12 Noah made no movements and stayed in the workshop for 1 minute.
+13 Noah exited the workshop.
+14 Ethan moved the green_pepper to the red_bottle.
+15 Ethan exited the workshop.
+16 Avery saw a dog.
+17 Owen, Avery, Carter, Noah and Ethan entered the waiting_room.
+18 Carter publicly claimed that green_pepper is in the red_bottle.
+19 Ethan privately told Carter that the green_pepper is in the red_pantry.
+20 Avery, Carter and Noah entered the workshop.
+21 The spinach is in the red_envelope.
+22 Avery moved the spinach to the red_box.
+23 Avery exited the workshop.
+24 Carter moved the spinach to the red_pantry.
+25 Carter exited the workshop.
+26 Noah made no movements and stayed in the workshop for 1 minute.
+27 Noah exited the workshop.
+28 Avery, Carter and Noah entered the waiting_room.
+29 Owen, Carter, Noah and Ethan entered the workshop.
+30 The green_pepper is in the red_bottle.
+31 Owen moved the green_pepper to the red_envelope.
+32 Owen exited the workshop.
+33 Carter made no movements and stayed in the workshop for 1 minute.
+34 Carter exited the workshop.
+35 Noah moved the green_pepper to the red_pantry.
+36 Noah exited the workshop.
+37 Ethan made no movements and stayed in the workshop for 1 minute.
+38 Ethan exited the workshop.
+39 Owen, Carter, Noah and Ethan entered the waiting_room.
+40 Noah publicly claimed that green_pepper is in the red_box.
+41 Owen privately told Ethan that the green_pepper is in the red_pantry.
+Question: Where does Carter really think the green_pepper is?
+Choices: A. blue_crate, B. red_suitcase, C. red_basket, D. red_container, E. green_container, F. green_drawer, G. green_bathtub, H. green_pantry, I. green_bucket, J. blue_box, K. red_envelope, L. red_bottle, M. red_box, N. red_pantry, O. blue_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

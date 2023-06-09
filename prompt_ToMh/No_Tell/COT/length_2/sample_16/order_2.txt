@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Isabella, Chloe, Logan, Olivia and Sophia entered the office.
+2 The cucumber is in the green_treasure_chest.
+3 Isabella moved the cucumber to the blue_treasure_chest.
+4 Isabella exited the office.
+5 Olivia likes the red_suitcase.
+6 Chloe made no movements and stayed in the office for 1 minute.
+7 Chloe exited the office.
+8 Logan made no movements and stayed in the office for 1 minute.
+9 Logan exited the office.
+10 Olivia moved the cucumber to the blue_box.
+11 Isabella saw a monkey.
+12 Olivia exited the office.
+13 Sophia made no movements and stayed in the office for 1 minute.
+14 Sophia exited the office.
+15 Isabella, Chloe, Logan, Olivia and Sophia entered the waiting_room.
+16 Sophia, Isabella and Logan entered the office.
+17 The sweet_potato is in the blue_box.
+18 Sophia moved the sweet_potato to the red_bottle.
+19 Sophia exited the office.
+20 Chloe saw a mouse.
+21 Isabella moved the sweet_potato to the blue_bucket.
+22 Isabella exited the office.
+23 Logan moved the sweet_potato to the green_treasure_chest.
+24 Logan exited the office.
+25 Sophia, Isabella and Logan entered the waiting_room.
+Question: Where does Isabella think Sophia thinks the cucumber is?
+Choices: A. green_treasure_chest, B. blue_box, C. blue_bucket, D. blue_treasure_chest, E. red_bottle, F. green_container, G. red_suitcase, H. red_box, I. blue_bottle, J. green_drawer, K. red_bucket, L. green_basket, M. green_bathtub, N. red_pantry, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

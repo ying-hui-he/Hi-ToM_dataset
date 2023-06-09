@@ -1,0 +1,40 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Logan, Emily, Aria, Mia and Mila entered the office.
+2 The cucumber is in the red_treasure_chest.
+3 Logan made no movements and stayed in the office for 1 minute.
+4 Logan exited the office.
+5 Emily made no movements and stayed in the office for 1 minute.
+6 Emily exited the office.
+7 Aria made no movements and stayed in the office for 1 minute.
+8 Aria exited the office.
+9 Mia made no movements and stayed in the office for 1 minute.
+10 Mia exited the office.
+11 Mila moved the cucumber to the red_treasure_chest.
+12 Mila exited the office.
+13 Logan, Emily, Aria, Mia and Mila entered the waiting_room.
+14 Mila, Mia and Emily entered the sunroom.
+15 The radish is in the blue_suitcase.
+16 Mila moved the radish to the red_pantry.
+17 Mila exited the sunroom.
+18 Mia moved the radish to the blue_basket.
+19 Mia exited the sunroom.
+20 Emily made no movements and stayed in the sunroom for 1 minute.
+21 Emily exited the sunroom.
+22 Mila, Mia and Emily entered the waiting_room.
+23 Mia, Emily, Mila and Logan entered the sunroom.
+24 The apple is in the red_crate.
+25 Mia made no movements and stayed in the sunroom for 1 minute.
+26 Mia exited the sunroom.
+27 Emily made no movements and stayed in the sunroom for 1 minute.
+28 Emily exited the sunroom.
+29 Mila moved the apple to the blue_basket.
+30 Mila exited the sunroom.
+31 Logan moved the apple to the blue_suitcase.
+32 Logan exited the sunroom.
+33 Aria lost his watch.
+34 Mia, Emily, Mila and Logan entered the waiting_room.
+Question: Where is the cucumber really?
+Choices: A. blue_suitcase, B. red_crate, C. red_pantry, D. blue_basket, E. green_pantry, F. green_envelope, G. green_suitcase, H. green_bathtub, I. green_bucket, J. blue_bucket, K. red_drawer, L. red_treasure_chest, M. blue_drawer, N. blue_envelope, O. red_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

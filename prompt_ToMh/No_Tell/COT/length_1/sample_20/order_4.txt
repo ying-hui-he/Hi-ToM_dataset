@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Lucas, Mila, Avery, Isabella and Mia entered the kitchen.
+2 The potato is in the blue_envelope.
+3 Lucas moved the potato to the red_pantry.
+4 Lucas exited the kitchen.
+5 Mila made no movements and stayed in the kitchen for 1 minute.
+6 Mila exited the kitchen.
+7 Avery moved the potato to the red_treasure_chest.
+8 Avery likes the green_basket.
+9 Avery exited the kitchen.
+10 Isabella made no movements and stayed in the kitchen for 1 minute.
+11 Isabella exited the kitchen.
+12 Mia made no movements and stayed in the kitchen for 1 minute.
+13 Mia exited the kitchen.
+14 Lucas, Mila, Avery, Isabella and Mia entered the waiting_room.
+Question: Where does Mia think Isabella thinks Mila thinks Lucas thinks the potato is?
+Choices: A. red_crate, B. red_bucket, C. blue_basket, D. green_pantry, E. green_drawer, F. blue_envelope, G. blue_bottle, H. red_basket, I. red_treasure_chest, J. red_pantry, K. red_drawer, L. green_suitcase, M. green_basket, N. red_envelope, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

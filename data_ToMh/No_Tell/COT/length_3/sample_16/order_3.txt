@@ -1,0 +1,40 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 William, Amelia, Ethan, Gracie and Sophia entered the dining_room.
+2 The eggplant is in the blue_box.
+3 William moved the eggplant to the green_envelope.
+4 William exited the dining_room.
+5 Amelia moved the eggplant to the red_basket.
+6 Amelia exited the dining_room.
+7 Ethan made no movements and stayed in the dining_room for 1 minute.
+8 Ethan exited the dining_room.
+9 Gracie made no movements and stayed in the dining_room for 1 minute.
+10 Gracie exited the dining_room.
+11 Sophia moved the eggplant to the blue_box.
+12 Sophia exited the dining_room.
+13 William, Amelia, Ethan, Gracie and Sophia entered the waiting_room.
+14 Sophia, Ethan and Gracie entered the bedroom.
+15 The grapefruit is in the green_cupboard.
+16 Sophia made no movements and stayed in the bedroom for 1 minute.
+17 Sophia exited the bedroom.
+18 Ethan made no movements and stayed in the bedroom for 1 minute.
+19 Ethan exited the bedroom.
+20 Gracie made no movements and stayed in the bedroom for 1 minute.
+21 Gracie exited the bedroom.
+22 Sophia, Ethan and Gracie entered the waiting_room.
+23 William, Gracie, Amelia and Ethan entered the bedroom.
+24 The grapefruit is in the green_cupboard.
+25 William made no movements and stayed in the bedroom for 1 minute.
+26 William exited the bedroom.
+27 Gracie made no movements and stayed in the bedroom for 1 minute.
+28 Gracie exited the bedroom.
+29 Amelia moved the grapefruit to the green_pantry.
+30 Amelia exited the bedroom.
+31 Ethan made no movements and stayed in the bedroom for 1 minute.
+32 Ethan exited the bedroom.
+33 William, Gracie, Amelia and Ethan entered the waiting_room.
+Question: Where does Ethan think William thinks Amelia thinks the eggplant is?
+Answer: blue_box
+Choices: A. green_bucket, B. blue_box, C. red_basket, D. green_envelope, E. red_drawer, F. green_cupboard, G. red_suitcase, H. green_pantry, I. red_bottle, J. blue_crate, K. red_pantry, L. green_basket, M. green_drawer, N. red_box, O. red_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

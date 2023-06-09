@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Carter, William, Emily and Mia entered the den.
+2 Carter lost his phone.
+3 The pineapple is in the green_suitcase.
+4 Owen made no movements and stayed in the den for 1 minute.
+5 Owen exited the den.
+6 Carter made no movements and stayed in the den for 1 minute.
+7 Carter exited the den.
+8 William moved the pineapple to the red_box.
+9 Owen dislikes the onion.
+10 William exited the den.
+11 Emily made no movements and stayed in the den for 1 minute.
+12 Emily exited the den.
+13 Mia made no movements and stayed in the den for 1 minute.
+14 Mia exited the den.
+15 Owen, Carter, William, Emily and Mia entered the waiting_room.
+Question: Where does William think Emily thinks Carter thinks the pineapple is?
+Answer: green_suitcase
+Choices: A. green_suitcase, B. green_bucket, C. red_box, D. red_bottle, E. blue_bottle, F. green_bathtub, G. green_pantry, H. blue_suitcase, I. blue_bucket, J. red_crate, K. blue_treasure_chest, L. green_basket, M. red_bucket, N. green_envelope, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

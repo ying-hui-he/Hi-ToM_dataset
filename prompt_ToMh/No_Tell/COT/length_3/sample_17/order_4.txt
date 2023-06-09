@@ -1,0 +1,40 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Mia, Ava, Gracie, Abigail and Mila entered the crawlspace.
+2 The melon is in the green_bathtub.
+3 Mia moved the melon to the red_basket.
+4 Mia exited the crawlspace.
+5 Ava made no movements and stayed in the crawlspace for 1 minute.
+6 Ava exited the crawlspace.
+7 Gracie made no movements and stayed in the crawlspace for 1 minute.
+8 Gracie exited the crawlspace.
+9 Abigail made no movements and stayed in the crawlspace for 1 minute.
+10 Abigail exited the crawlspace.
+11 Mila moved the melon to the green_bathtub.
+12 Mila exited the crawlspace.
+13 Mia, Ava, Gracie, Abigail and Mila entered the waiting_room.
+14 Ava, Gracie and Mia entered the back_yard.
+15 The banana is in the blue_drawer.
+16 Ava made no movements and stayed in the back_yard for 1 minute.
+17 Ava exited the back_yard.
+18 Gracie made no movements and stayed in the back_yard for 1 minute.
+19 Gracie exited the back_yard.
+20 Mia made no movements and stayed in the back_yard for 1 minute.
+21 Mia exited the back_yard.
+22 Ava, Gracie and Mia entered the waiting_room.
+23 Ava, Mia, Mila and Abigail entered the attic.
+24 The carrot is in the red_box.
+25 Ava moved the carrot to the green_treasure_chest.
+26 Ava exited the attic.
+27 Mia moved the carrot to the blue_crate.
+28 Mia exited the attic.
+29 Mila moved the carrot to the blue_basket.
+30 Mila exited the attic.
+31 Mia saw a mouse.
+32 Abigail made no movements and stayed in the attic for 1 minute.
+33 Abigail exited the attic.
+34 Ava, Mia, Mila and Abigail entered the waiting_room.
+Question: Where does Ava think Abigail thinks Gracie thinks Mia thinks the melon is?
+Choices: A. green_envelope, B. green_bathtub, C. red_container, D. red_basket, E. green_cupboard, F. blue_bottle, G. blue_drawer, H. red_drawer, I. blue_bucket, J. green_container, K. blue_crate, L. red_box, M. green_basket, N. blue_basket, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

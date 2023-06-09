@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Nathan, Olivia, Logan and Elizabeth entered the workshop.
+2 The radish is in the red_crate.
+3 Ava moved the radish to the green_bathtub.
+4 Logan saw a monkey.
+5 Ava exited the workshop.
+6 Nathan moved the radish to the red_drawer.
+7 Nathan exited the workshop.
+8 Olivia made no movements and stayed in the workshop for 1 minute.
+9 Olivia exited the workshop.
+10 Logan made no movements and stayed in the workshop for 1 minute.
+11 Logan exited the workshop.
+12 Nathan likes the red_drawer.
+13 Elizabeth made no movements and stayed in the workshop for 1 minute.
+14 Elizabeth exited the workshop.
+15 Ava, Nathan, Olivia, Logan and Elizabeth entered the waiting_room.
+16 Nathan, Olivia and Elizabeth entered the cellar.
+17 The melon is in the blue_basket.
+18 Nathan moved the melon to the red_bucket.
+19 Nathan exited the cellar.
+20 Olivia made no movements and stayed in the cellar for 1 minute.
+21 Nathan likes the blue_crate.
+22 Olivia exited the cellar.
+23 Elizabeth made no movements and stayed in the cellar for 1 minute.
+24 Elizabeth exited the cellar.
+25 Ava dislikes the grapes.
+26 Nathan, Olivia and Elizabeth entered the waiting_room.
+Question: Where is the radish really?
+Choices: A. red_crate, B. green_basket, C. red_drawer, D. green_bathtub, E. red_box, F. green_bucket, G. green_pantry, H. blue_crate, I. blue_treasure_chest, J. red_suitcase, K. blue_basket, L. red_envelope, M. green_container, N. red_bucket, O. green_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

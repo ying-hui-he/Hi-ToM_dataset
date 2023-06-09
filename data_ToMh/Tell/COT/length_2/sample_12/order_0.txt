@@ -1,0 +1,34 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Gracie, Emma, Mila, Alexander and Mason entered the laundry.
+2 The lemon is in the blue_treasure_chest.
+3 Gracie made no movements and stayed in the laundry for 1 minute.
+4 Gracie exited the laundry.
+5 Emma moved the lemon to the red_treasure_chest.
+6 Emma exited the laundry.
+7 Emma dislikes the banana.
+8 Mila made no movements and stayed in the laundry for 1 minute.
+9 Mila exited the laundry.
+10 Alexander moved the lemon to the blue_crate.
+11 Mason saw a dog.
+12 Alexander exited the laundry.
+13 Mason moved the lemon to the blue_treasure_chest.
+14 Mason exited the laundry.
+15 Gracie, Emma, Mila, Alexander and Mason entered the waiting_room.
+16 Gracie, Mila and Alexander entered the garden.
+17 The grapes is in the red_pantry.
+18 Gracie moved the grapes to the green_basket.
+19 Alexander dislikes the grapes.
+20 Gracie exited the garden.
+21 Mila moved the grapes to the red_crate.
+22 Mila exited the garden.
+23 Alexander moved the grapes to the red_envelope.
+24 Alexander exited the garden.
+25 Gracie, Mila and Alexander entered the waiting_room.
+26 Mila privately told Alexander that the grapes is in the red_crate.
+27 Alexander privately told Emma that the grapes is in the red_envelope.
+Question: Where is the lemon really?
+Answer: blue_treasure_chest
+Choices: A. green_container, B. red_basket, C. green_treasure_chest, D. blue_drawer, E. red_bottle, F. red_treasure_chest, G. blue_treasure_chest, H. green_pantry, I. blue_bottle, J. blue_crate, K. red_pantry, L. green_basket, M. red_crate, N. red_envelope, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

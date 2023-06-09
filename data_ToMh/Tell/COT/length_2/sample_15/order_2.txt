@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Chloe, Elizabeth, Isla, Emma and Mila entered the sunroom.
+2 The banana is in the blue_envelope.
+3 Mila lost his phone.
+4 Chloe made no movements and stayed in the sunroom for 1 minute.
+5 Chloe exited the sunroom.
+6 Elizabeth made no movements and stayed in the sunroom for 1 minute.
+7 Elizabeth exited the sunroom.
+8 Isla made no movements and stayed in the sunroom for 1 minute.
+9 Isla exited the sunroom.
+10 Emma made no movements and stayed in the sunroom for 1 minute.
+11 Emma exited the sunroom.
+12 Mila made no movements and stayed in the sunroom for 1 minute.
+13 Mila exited the sunroom.
+14 Chloe, Elizabeth, Isla, Emma and Mila entered the waiting_room.
+15 Isla, Mila and Emma entered the pantry.
+16 The carrot is in the blue_drawer.
+17 Isla made no movements and stayed in the pantry for 1 minute.
+18 Isla exited the pantry.
+19 Mila made no movements and stayed in the pantry for 1 minute.
+20 Mila exited the pantry.
+21 Emma made no movements and stayed in the pantry for 1 minute.
+22 Emma exited the pantry.
+23 Isla, Mila and Emma entered the waiting_room.
+24 Mila privately told Emma that the carrot is in the red_crate.
+25 Emma privately told Elizabeth that the carrot is in the blue_drawer.
+Question: Where does Emma think Isla thinks the banana is?
+Answer: blue_envelope
+Choices: A. red_suitcase, B. blue_drawer, C. green_bucket, D. red_crate, E. blue_suitcase, F. green_pantry, G. blue_envelope, H. red_basket, I. blue_bottle, J. green_drawer, K. green_treasure_chest, L. green_suitcase, M. red_drawer, N. red_bottle, O. red_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

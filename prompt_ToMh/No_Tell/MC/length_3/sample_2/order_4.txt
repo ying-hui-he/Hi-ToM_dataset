@@ -1,0 +1,40 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Gracie, Avery, Chloe, Emma and Amelia entered the attic.
+2 The melon is in the blue_box.
+3 Gracie moved the melon to the blue_suitcase.
+4 Gracie exited the attic.
+5 Avery made no movements and stayed in the attic for 1 minute.
+6 Avery exited the attic.
+7 Chloe made no movements and stayed in the attic for 1 minute.
+8 Chloe exited the attic.
+9 Emma moved the melon to the green_pantry.
+10 Emma exited the attic.
+11 Amelia made no movements and stayed in the attic for 1 minute.
+12 Amelia exited the attic.
+13 Gracie, Avery, Chloe, Emma and Amelia entered the waiting_room.
+14 Amelia, Chloe and Avery entered the lounge.
+15 The asparagus is in the red_envelope.
+16 Amelia moved the asparagus to the green_cupboard.
+17 Amelia exited the lounge.
+18 Chloe moved the asparagus to the blue_bucket.
+19 Chloe exited the lounge.
+20 Avery moved the asparagus to the green_basket.
+21 Avery exited the lounge.
+22 Amelia, Chloe and Avery entered the waiting_room.
+23 Avery saw a dog.
+24 Gracie, Avery, Chloe and Emma entered the master_bedroom.
+25 The banana is in the red_pantry.
+26 Gracie moved the banana to the red_crate.
+27 Gracie exited the master_bedroom.
+28 Avery made no movements and stayed in the master_bedroom for 1 minute.
+29 Avery exited the master_bedroom.
+30 Chloe moved the banana to the green_envelope.
+31 Chloe exited the master_bedroom.
+32 Emma moved the banana to the blue_crate.
+33 Emma exited the master_bedroom.
+34 Gracie, Avery, Chloe and Emma entered the waiting_room.
+Question: Where does Avery think Emma thinks Gracie thinks Chloe thinks the melon is?
+Choices: A. red_pantry, B. red_box, C. red_crate, D. blue_crate, E. green_envelope, F. blue_suitcase, G. blue_box, H. blue_basket, I. green_pantry, J. red_bucket, K. red_envelope, L. green_basket, M. blue_bucket, N. green_cupboard, O. blue_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

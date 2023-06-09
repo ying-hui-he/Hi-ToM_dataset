@@ -1,0 +1,33 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Carter, Abigail, Ella, Elizabeth and James entered the office.
+2 The eggplant is in the green_treasure_chest.
+3 Carter made no movements and stayed in the office for 1 minute.
+4 Carter exited the office.
+5 Abigail made no movements and stayed in the office for 1 minute.
+6 Carter likes the green_treasure_chest.
+7 Abigail exited the office.
+8 Ella moved the eggplant to the red_container.
+9 Ella exited the office.
+10 Elizabeth made no movements and stayed in the office for 1 minute.
+11 Elizabeth exited the office.
+12 James made no movements and stayed in the office for 1 minute.
+13 James exited the office.
+14 Elizabeth likes the blue_envelope.
+15 Carter, Abigail, Ella, Elizabeth and James entered the waiting_room.
+16 James, Carter and Abigail entered the playroom.
+17 The spinach is in the blue_crate.
+18 James made no movements and stayed in the playroom for 1 minute.
+19 James exited the playroom.
+20 Carter moved the spinach to the green_drawer.
+21 Carter exited the playroom.
+22 Abigail made no movements and stayed in the playroom for 1 minute.
+23 Abigail exited the playroom.
+24 James, Carter and Abigail entered the waiting_room.
+25 Carter privately told Abigail that the spinach is in the blue_crate.
+26 Abigail privately told Ella that the spinach is in the green_drawer.
+Question: Where is the eggplant really?
+Answer: red_container
+Choices: A. red_suitcase, B. green_treasure_chest, C. blue_bottle, D. red_container, E. red_bucket, F. green_bucket, G. blue_box, H. red_drawer, I. blue_envelope, J. green_pantry, K. blue_crate, L. red_treasure_chest, M. green_basket, N. green_drawer, O. green_cupboard
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

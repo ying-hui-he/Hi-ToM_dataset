@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Sophia, Emma, Abigail, Lucas and Jack entered the closet.
+2 Sophia dislikes the eggplant.
+3 The potato is in the red_crate.
+4 Sophia made no movements and stayed in the closet for 1 minute.
+5 Sophia exited the closet.
+6 Emma made no movements and stayed in the closet for 1 minute.
+7 Emma exited the closet.
+8 Abigail moved the potato to the red_drawer.
+9 Abigail exited the closet.
+10 Jack saw a mouse.
+11 Lucas moved the potato to the green_bathtub.
+12 Lucas exited the closet.
+13 Jack made no movements and stayed in the closet for 1 minute.
+14 Sophia likes the blue_drawer.
+15 Jack exited the closet.
+16 Sophia, Emma, Abigail, Lucas and Jack entered the waiting_room.
+17 Emma, Abigail and Jack entered the basement.
+18 The sweet_potato is in the blue_drawer.
+19 Emma made no movements and stayed in the basement for 1 minute.
+20 Emma exited the basement.
+21 Abigail made no movements and stayed in the basement for 1 minute.
+22 Abigail exited the basement.
+23 Jack moved the sweet_potato to the green_suitcase.
+24 Sophia likes the red_drawer.
+25 Jack exited the basement.
+26 Lucas lost his phone.
+27 Emma, Abigail and Jack entered the waiting_room.
+28 Emma publicly claimed that sweet_potato is in the red_container.
+29 Jack privately told Sophia that the sweet_potato is in the green_suitcase.
+Question: Where does Jack think Abigail thinks the potato is?
+Choices: A. green_suitcase, B. blue_drawer, C. green_basket, D. red_container, E. blue_treasure_chest, F. green_bathtub, G. red_crate, H. red_drawer, I. green_container, J. red_basket, K. green_drawer, L. red_bucket, M. green_treasure_chest, N. red_pantry, O. blue_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,29 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Gracie, Elizabeth, Sophia, Owen and Alexander entered the porch.
+2 The green_pepper is in the red_basket.
+3 Gracie moved the green_pepper to the blue_suitcase.
+4 Gracie exited the porch.
+5 Elizabeth made no movements and stayed in the porch for 1 minute.
+6 Elizabeth exited the porch.
+7 Sophia made no movements and stayed in the porch for 1 minute.
+8 Sophia exited the porch.
+9 Owen made no movements and stayed in the porch for 1 minute.
+10 Owen exited the porch.
+11 Alexander made no movements and stayed in the porch for 1 minute.
+12 Alexander exited the porch.
+13 Gracie, Elizabeth, Sophia, Owen and Alexander entered the waiting_room.
+14 Elizabeth, Sophia and Owen entered the living_room.
+15 The lime is in the red_bucket.
+16 Elizabeth moved the lime to the red_container.
+17 Owen likes the red_drawer.
+18 Elizabeth exited the living_room.
+19 Sophia made no movements and stayed in the living_room for 1 minute.
+20 Sophia exited the living_room.
+21 Owen made no movements and stayed in the living_room for 1 minute.
+22 Owen exited the living_room.
+23 Elizabeth, Sophia and Owen entered the waiting_room.
+Question: Where does Gracie really think the green_pepper is?
+Choices: A. red_suitcase, B. blue_bucket, C. red_crate, D. green_container, E. red_drawer, F. green_treasure_chest, G. red_basket, H. blue_suitcase, I. green_bucket, J. red_envelope, K. red_bucket, L. green_drawer, M. blue_treasure_chest, N. green_bathtub, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

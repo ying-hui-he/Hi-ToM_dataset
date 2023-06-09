@@ -1,0 +1,30 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Sophia, Ella, Mia, Carter and Amelia entered the closet.
+2 The orange is in the blue_basket.
+3 Sophia moved the orange to the blue_treasure_chest.
+4 Sophia exited the closet.
+5 Ella moved the orange to the green_container.
+6 Ella exited the closet.
+7 Mia moved the orange to the green_basket.
+8 Carter saw a monkey.
+9 Mia exited the closet.
+10 Carter made no movements and stayed in the closet for 1 minute.
+11 Carter saw a cat.
+12 Carter exited the closet.
+13 Amelia moved the orange to the blue_basket.
+14 Amelia exited the closet.
+15 Sophia, Ella, Mia, Carter and Amelia entered the waiting_room.
+16 Mia, Sophia and Ella entered the bedroom.
+17 The lemon is in the red_bottle.
+18 Mia moved the lemon to the red_drawer.
+19 Mia exited the bedroom.
+20 Sophia moved the lemon to the blue_drawer.
+21 Sophia exited the bedroom.
+22 Ella made no movements and stayed in the bedroom for 1 minute.
+23 Ella exited the bedroom.
+24 Mia, Sophia and Ella entered the waiting_room.
+Question: Where does Carter think Sophia thinks the orange is?
+Choices: A. red_bottle, B. blue_drawer, C. green_suitcase, D. blue_envelope, E. red_drawer, F. blue_basket, G. green_container, H. green_treasure_chest, I. blue_treasure_chest, J. green_basket, K. green_drawer, L. blue_bottle, M. red_suitcase, N. red_container, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

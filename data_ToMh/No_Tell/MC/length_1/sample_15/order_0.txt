@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Chloe, Elizabeth, Olivia, Owen and Gracie entered the staircase.
+2 The lime is in the blue_bottle.
+3 Gracie dislikes the lime.
+4 Chloe made no movements and stayed in the staircase for 1 minute.
+5 Chloe exited the staircase.
+6 Elizabeth made no movements and stayed in the staircase for 1 minute.
+7 Elizabeth exited the staircase.
+8 Olivia moved the lime to the red_bottle.
+9 Olivia exited the staircase.
+10 Owen moved the lime to the red_drawer.
+11 Owen exited the staircase.
+12 Gracie made no movements and stayed in the staircase for 1 minute.
+13 Gracie exited the staircase.
+14 Chloe, Elizabeth, Olivia, Owen and Gracie entered the waiting_room.
+Question: Where is the lime really?
+Answer: red_drawer
+Choices: A. blue_box, B. red_envelope, C. red_suitcase, D. green_drawer, E. green_bucket, F. blue_bottle, G. green_container, H. blue_basket, I. red_drawer, J. red_bottle, K. blue_crate, L. red_basket, M. green_envelope, N. blue_envelope, O. red_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,28 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Avery, Elizabeth, Ella, Mia and Isabella entered the dining_room.
+2 The orange is in the blue_bottle.
+3 Avery made no movements and stayed in the dining_room for 1 minute.
+4 Avery exited the dining_room.
+5 Elizabeth made no movements and stayed in the dining_room for 1 minute.
+6 Elizabeth exited the dining_room.
+7 Ella made no movements and stayed in the dining_room for 1 minute.
+8 Ella exited the dining_room.
+9 Mia moved the orange to the green_bathtub.
+10 Mia exited the dining_room.
+11 Isabella made no movements and stayed in the dining_room for 1 minute.
+12 Isabella exited the dining_room.
+13 Avery, Elizabeth, Ella, Mia and Isabella entered the waiting_room.
+14 Mia, Elizabeth and Avery entered the playroom.
+15 The pineapple is in the green_cupboard.
+16 Mia made no movements and stayed in the playroom for 1 minute.
+17 Mia exited the playroom.
+18 Elizabeth made no movements and stayed in the playroom for 1 minute.
+19 Elizabeth exited the playroom.
+20 Avery moved the pineapple to the red_bucket.
+21 Avery exited the playroom.
+22 Mia, Elizabeth and Avery entered the waiting_room.
+Question: Where does Mia really think the orange is?
+Choices: A. blue_basket, B. red_basket, C. green_container, D. red_crate, E. red_pantry, F. blue_bottle, G. green_treasure_chest, H. green_bathtub, I. blue_suitcase, J. blue_treasure_chest, K. green_cupboard, L. red_bucket, M. blue_bucket, N. red_container, O. green_basket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

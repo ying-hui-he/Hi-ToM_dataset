@@ -1,0 +1,39 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aria, Emma, Logan, William and Jack entered the study.
+2 The strawberry is in the red_drawer.
+3 Aria made no movements and stayed in the study for 1 minute.
+4 Aria exited the study.
+5 Emma made no movements and stayed in the study for 1 minute.
+6 Emma exited the study.
+7 Logan made no movements and stayed in the study for 1 minute.
+8 Logan exited the study.
+9 William made no movements and stayed in the study for 1 minute.
+10 William exited the study.
+11 Jack made no movements and stayed in the study for 1 minute.
+12 Jack exited the study.
+13 Aria, Emma, Logan, William and Jack entered the waiting_room.
+14 Logan, William and Emma entered the living_room.
+15 The peach is in the green_pantry.
+16 Logan moved the peach to the blue_bucket.
+17 Logan exited the living_room.
+18 William moved the peach to the green_envelope.
+19 William exited the living_room.
+20 Emma moved the peach to the blue_box.
+21 Emma exited the living_room.
+22 Logan, William and Emma entered the waiting_room.
+23 Logan, Jack, Aria and Emma entered the living_room.
+24 The peach is in the blue_box.
+25 Logan moved the peach to the blue_bucket.
+26 Logan exited the living_room.
+27 Jack moved the peach to the green_pantry.
+28 Jack exited the living_room.
+29 Aria moved the peach to the green_envelope.
+30 Aria exited the living_room.
+31 Emma made no movements and stayed in the living_room for 1 minute.
+32 Emma exited the living_room.
+33 Logan, Jack, Aria and Emma entered the waiting_room.
+Question: Where does Aria really think the strawberry is?
+Choices: A. green_envelope, B. green_pantry, C. blue_bucket, D. blue_crate, E. blue_box, F. green_cupboard, G. blue_bottle, H. blue_basket, I. green_bathtub, J. red_suitcase, K. red_bottle, L. red_drawer, M. red_box, N. red_container, O. blue_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

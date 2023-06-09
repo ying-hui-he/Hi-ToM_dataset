@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Mia, Ava, Alexander, Lily and Avery entered the basement.
+2 The lettuce is in the blue_box.
+3 Mia made no movements and stayed in the basement for 1 minute.
+4 Mia exited the basement.
+5 Ava made no movements and stayed in the basement for 1 minute.
+6 Ava exited the basement.
+7 Alexander moved the lettuce to the green_bucket.
+8 Alexander exited the basement.
+9 Lily made no movements and stayed in the basement for 1 minute.
+10 Lily exited the basement.
+11 Alexander likes the blue_box.
+12 Avery made no movements and stayed in the basement for 1 minute.
+13 Avery exited the basement.
+14 Mia, Ava, Alexander, Lily and Avery entered the waiting_room.
+15 Lily publicly claimed that lettuce is in the red_drawer.
+16 Avery privately told Mia that the lettuce is in the green_bucket.
+Question: Where is the lettuce really?
+Choices: A. blue_treasure_chest, B. red_container, C. blue_envelope, D. red_bucket, E. red_basket, F. blue_box, G. red_drawer, H. green_suitcase, I. green_cupboard, J. green_bucket, K. green_treasure_chest, L. blue_bucket, M. green_pantry, N. blue_drawer, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

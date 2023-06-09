@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isla, Aria, Mila, Jack and Lily entered the TV_room.
+2 Lily saw a cat.
+3 The tangerine is in the red_container.
+4 Isla made no movements and stayed in the TV_room for 1 minute.
+5 Jack saw a mouse.
+6 Isla exited the TV_room.
+7 Aria made no movements and stayed in the TV_room for 1 minute.
+8 Aria exited the TV_room.
+9 Mila moved the tangerine to the red_box.
+10 Mila exited the TV_room.
+11 Jack moved the tangerine to the red_bucket.
+12 Jack exited the TV_room.
+13 Lily moved the tangerine to the red_container.
+14 Lily exited the TV_room.
+15 Aria likes the blue_drawer.
+16 Isla, Aria, Mila, Jack and Lily entered the waiting_room.
+Question: Where does Isla think Aria thinks Lily thinks Mila thinks the tangerine is?
+Answer: red_container
+Choices: A. red_suitcase, B. red_basket, C. green_suitcase, D. blue_treasure_chest, E. green_drawer, F. red_bucket, G. red_container, H. red_box, I. blue_crate, J. red_pantry, K. blue_box, L. red_bottle, M. blue_drawer, N. green_bucket, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

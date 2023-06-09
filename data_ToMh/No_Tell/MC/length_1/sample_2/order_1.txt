@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Jack, Olivia, Mia and Amelia entered the den.
+2 The spinach is in the blue_drawer.
+3 Mila moved the spinach to the green_cupboard.
+4 Mila exited the den.
+5 Jack made no movements and stayed in the den for 1 minute.
+6 Jack exited the den.
+7 Olivia moved the spinach to the green_envelope.
+8 Olivia exited the den.
+9 Mia moved the spinach to the green_bathtub.
+10 Mia exited the den.
+11 Amelia moved the spinach to the blue_drawer.
+12 Amelia exited the den.
+13 Mila, Jack, Olivia, Mia and Amelia entered the waiting_room.
+Question: Where does Mila really think the spinach is?
+Answer: green_cupboard
+Choices: A. blue_suitcase, B. red_bucket, C. red_drawer, D. red_box, E. blue_envelope, F. blue_basket, G. red_suitcase, H. red_envelope, I. green_suitcase, J. red_basket, K. blue_drawer, L. blue_treasure_chest, M. green_bathtub, N. green_cupboard, O. green_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

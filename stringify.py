@@ -41,7 +41,7 @@ def stringify(story, exist_answer=False, order=0): # exist_answer is dummy
             #     line += '\t%s' % ' '.join([str(x + 1)
             #                             for x in story[i].idx_support])
         
-        # if i >= len(story):
-        #     break
+        if i >= len(story):
+            break
 
     return lines

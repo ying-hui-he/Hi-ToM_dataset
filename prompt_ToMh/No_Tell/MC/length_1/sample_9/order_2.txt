@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Lucas, Owen, Aria, Isabella and Emma entered the attic.
+2 Isabella likes the red_bottle.
+3 The spinach is in the red_pantry.
+4 Lucas made no movements and stayed in the attic for 1 minute.
+5 Lucas exited the attic.
+6 Owen moved the spinach to the blue_bucket.
+7 Owen exited the attic.
+8 Aria moved the spinach to the red_bucket.
+9 Emma dislikes the potato.
+10 Aria exited the attic.
+11 Isabella made no movements and stayed in the attic for 1 minute.
+12 Isabella exited the attic.
+13 Emma moved the spinach to the red_pantry.
+14 Emma exited the attic.
+15 Lucas, Owen, Aria, Isabella and Emma entered the waiting_room.
+Question: Where does Owen think Isabella thinks the spinach is?
+Choices: A. red_pantry, B. green_cupboard, C. red_bucket, D. blue_bucket, E. blue_suitcase, F. green_basket, G. red_box, H. red_bottle, I. green_envelope, J. blue_crate, K. blue_basket, L. green_container, M. red_basket, N. blue_box, O. red_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

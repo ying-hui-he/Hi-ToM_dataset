@@ -1,0 +1,47 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 William, Mila, Elizabeth, Lucas and Gracie entered the master_bedroom.
+2 The melon is in the green_basket.
+3 William moved the melon to the blue_envelope.
+4 Elizabeth lost his gloves.
+5 William exited the master_bedroom.
+6 Mila moved the melon to the red_drawer.
+7 Mila exited the master_bedroom.
+8 Elizabeth moved the melon to the green_cupboard.
+9 Elizabeth exited the master_bedroom.
+10 Lucas moved the melon to the red_basket.
+11 Lucas exited the master_bedroom.
+12 Gracie moved the melon to the green_basket.
+13 Gracie exited the master_bedroom.
+14 William, Mila, Elizabeth, Lucas and Gracie entered the waiting_room.
+15 Lucas publicly claimed that melon is in the red_drawer.
+16 Gracie privately told William that the melon is in the green_basket.
+17 Lucas, William and Mila entered the master_bedroom.
+18 The melon is in the green_basket.
+19 Lucas made no movements and stayed in the master_bedroom for 1 minute.
+20 Lucas exited the master_bedroom.
+21 Elizabeth lost his gloves.
+22 William moved the melon to the red_drawer.
+23 William exited the master_bedroom.
+24 Mila made no movements and stayed in the master_bedroom for 1 minute.
+25 Mila exited the master_bedroom.
+26 Lucas, William and Mila entered the waiting_room.
+27 William, Elizabeth, Gracie and Lucas entered the den.
+28 The cucumber is in the blue_drawer.
+29 William made no movements and stayed in the den for 1 minute.
+30 Mila dislikes the broccoli.
+31 William exited the den.
+32 Elizabeth moved the cucumber to the green_container.
+33 Elizabeth exited the den.
+34 Gracie moved the cucumber to the green_bucket.
+35 Gracie exited the den.
+36 Lucas moved the cucumber to the blue_bucket.
+37 Lucas exited the den.
+38 Lucas dislikes the lemon.
+39 William, Elizabeth, Gracie and Lucas entered the waiting_room.
+40 Gracie publicly claimed that cucumber is in the green_container.
+41 William privately told Lucas that the cucumber is in the blue_box.
+Question: Where does William think Gracie thinks Mila thinks the melon is?
+Choices: A. red_box, B. blue_bottle, C. red_envelope, D. green_envelope, E. green_drawer, F. green_basket, G. blue_envelope, H. red_drawer, I. green_cupboard, J. red_basket, K. blue_drawer, L. blue_box, M. blue_bucket, N. green_container, O. green_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

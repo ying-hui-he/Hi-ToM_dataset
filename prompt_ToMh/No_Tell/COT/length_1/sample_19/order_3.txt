@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Avery, Carter, Mila, Isabella and Mia entered the master_bedroom.
+2 The orange is in the blue_box.
+3 Avery made no movements and stayed in the master_bedroom for 1 minute.
+4 Avery exited the master_bedroom.
+5 Carter made no movements and stayed in the master_bedroom for 1 minute.
+6 Carter exited the master_bedroom.
+7 Mila made no movements and stayed in the master_bedroom for 1 minute.
+8 Mila exited the master_bedroom.
+9 Isabella made no movements and stayed in the master_bedroom for 1 minute.
+10 Avery dislikes the banana.
+11 Isabella exited the master_bedroom.
+12 Mia made no movements and stayed in the master_bedroom for 1 minute.
+13 Isabella dislikes the banana.
+14 Mia exited the master_bedroom.
+15 Avery, Carter, Mila, Isabella and Mia entered the waiting_room.
+Question: Where does Mila think Isabella thinks Avery thinks the orange is?
+Choices: A. green_suitcase, B. red_suitcase, C. red_container, D. red_pantry, E. blue_bucket, F. green_drawer, G. green_pantry, H. green_cupboard, I. blue_envelope, J. green_bucket, K. blue_crate, L. blue_box, M. red_treasure_chest, N. green_container, O. blue_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

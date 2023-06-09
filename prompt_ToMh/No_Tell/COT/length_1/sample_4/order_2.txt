@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Mason, Sophia, Amelia, Noah and Lily entered the basement.
+2 The watermelon is in the green_suitcase.
+3 Mason made no movements and stayed in the basement for 1 minute.
+4 Mason exited the basement.
+5 Sophia moved the watermelon to the green_cupboard.
+6 Lily likes the green_container.
+7 Sophia exited the basement.
+8 Amelia made no movements and stayed in the basement for 1 minute.
+9 Amelia exited the basement.
+10 Noah moved the watermelon to the green_basket.
+11 Mason likes the red_crate.
+12 Noah exited the basement.
+13 Lily moved the watermelon to the green_suitcase.
+14 Lily exited the basement.
+15 Mason, Sophia, Amelia, Noah and Lily entered the waiting_room.
+Question: Where does Mason think Lily thinks the watermelon is?
+Choices: A. green_envelope, B. red_bucket, C. blue_suitcase, D. red_crate, E. green_drawer, F. blue_bottle, G. blue_treasure_chest, H. blue_drawer, I. green_container, J. red_treasure_chest, K. green_basket, L. green_suitcase, M. red_basket, N. red_pantry, O. green_cupboard
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

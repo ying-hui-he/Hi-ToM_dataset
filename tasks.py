@@ -486,20 +486,6 @@ class Specify_Tasks(Task):
                     start_state, oracle, obj, location, agent_ids, random_actors, movements=movements, exist_tell=exist_tell_in_chapter
                 )
             )
-        # compute questions of all orders
-        questioned_actors = copy.deepcopy(random_actors)
-        random.shuffle(questioned_actors)
-        for idx in range(5):
-            story.append(
-                sample_question(
-                    start_state, oracle, questioned_actors, obj_in_question, question_idx=idx
-                )
-            )
-
-        # Generate choices of containers
-        choices = ', '.join(f'{chr(65+i)}. {container}' for i,
-                            container in enumerate(random_containers))
-        story.append('Choices: ' + choices + '\n')
 
         # At the end, add noise sentences randomly
         if statement_noise:
@@ -517,6 +503,18 @@ class Specify_Tasks(Task):
                 prev_i = i
             noisy_story.extend(story[prev_i:])
 
-            return noisy_story
+        # compute questions of all orders
+        questioned_actors = copy.deepcopy(random_actors)
+        random.shuffle(questioned_actors)
+        for idx in range(5):
+            noisy_story.append(
+                sample_question(
+                    start_state, oracle, questioned_actors, obj_in_question, question_idx=idx
+                )
+            )
 
-        return story
+        # Generate choices of containers
+        choices = ', '.join(f'{chr(65+i)}. {container}' for i,
+                            container in enumerate(random_containers))
+        noisy_story.append('Choices: ' + choices + '\n')
+        return noisy_story

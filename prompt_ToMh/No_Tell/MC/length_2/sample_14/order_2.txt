@@ -1,0 +1,29 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Carter, Isla, Chloe, Isabella and Amelia entered the kitchen.
+2 The spinach is in the red_bucket.
+3 Carter moved the spinach to the red_pantry.
+4 Carter exited the kitchen.
+5 Isla made no movements and stayed in the kitchen for 1 minute.
+6 Isla exited the kitchen.
+7 Chloe made no movements and stayed in the kitchen for 1 minute.
+8 Chloe exited the kitchen.
+9 Isla lost his watch.
+10 Isabella moved the spinach to the green_bathtub.
+11 Isabella exited the kitchen.
+12 Amelia made no movements and stayed in the kitchen for 1 minute.
+13 Amelia exited the kitchen.
+14 Carter, Isla, Chloe, Isabella and Amelia entered the waiting_room.
+15 Carter, Isabella and Chloe entered the kitchen.
+16 The pumpkin is in the red_bottle.
+17 Carter moved the pumpkin to the red_bucket.
+18 Carter exited the kitchen.
+19 Isabella moved the pumpkin to the blue_drawer.
+20 Isabella exited the kitchen.
+21 Chloe made no movements and stayed in the kitchen for 1 minute.
+22 Chloe exited the kitchen.
+23 Carter, Isabella and Chloe entered the waiting_room.
+Question: Where does Carter think Isabella thinks the spinach is?
+Choices: A. blue_suitcase, B. green_pantry, C. blue_treasure_chest, D. blue_box, E. blue_bucket, F. green_container, G. red_container, H. green_envelope, I. blue_crate, J. red_treasure_chest, K. red_bucket, L. red_bottle, M. blue_drawer, N. red_pantry, O. green_bathtub
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

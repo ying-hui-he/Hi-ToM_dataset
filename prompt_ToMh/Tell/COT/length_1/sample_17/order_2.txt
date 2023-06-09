@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Alexander, Owen, Noah, Sophia and Amelia entered the workshop.
+2 The celery is in the green_basket.
+3 Alexander made no movements and stayed in the workshop for 1 minute.
+4 Noah lost his watch.
+5 Alexander exited the workshop.
+6 Owen made no movements and stayed in the workshop for 1 minute.
+7 Owen exited the workshop.
+8 Noah made no movements and stayed in the workshop for 1 minute.
+9 Noah exited the workshop.
+10 Sophia moved the celery to the green_pantry.
+11 Sophia exited the workshop.
+12 Amelia moved the celery to the green_basket.
+13 Amelia exited the workshop.
+14 Noah lost his phone.
+15 Alexander, Owen, Noah, Sophia and Amelia entered the waiting_room.
+16 Noah privately told Alexander that the celery is in the green_pantry.
+17 Owen privately told Sophia that the celery is in the green_bucket.
+Question: Where does Sophia think Amelia thinks the celery is?
+Choices: A. red_treasure_chest, B. blue_drawer, C. red_envelope, D. red_container, E. blue_treasure_chest, F. red_bucket, G. red_suitcase, H. green_container, I. green_envelope, J. blue_bucket, K. green_basket, L. blue_box, M. red_crate, N. green_pantry, O. green_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

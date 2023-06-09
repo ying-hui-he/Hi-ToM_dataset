@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Owen, Avery, Emma, Emily and James entered the garden.
+2 The lemon is in the blue_treasure_chest.
+3 Owen moved the lemon to the red_envelope.
+4 Owen exited the garden.
+5 Avery made no movements and stayed in the garden for 1 minute.
+6 Avery exited the garden.
+7 Emma made no movements and stayed in the garden for 1 minute.
+8 Emma exited the garden.
+9 James saw a mouse.
+10 Emily moved the lemon to the red_suitcase.
+11 Emily exited the garden.
+12 James moved the lemon to the blue_treasure_chest.
+13 James exited the garden.
+14 Owen, Avery, Emma, Emily and James entered the waiting_room.
+15 Emma privately told Owen that the lemon is in the red_suitcase.
+16 Avery privately told Emily that the lemon is in the red_crate.
+Question: Where does Avery really think the lemon is?
+Answer: red_envelope
+Choices: A. green_cupboard, B. green_envelope, C. red_treasure_chest, D. blue_suitcase, E. green_pantry, F. blue_box, G. green_bucket, H. green_drawer, I. green_suitcase, J. blue_basket, K. red_suitcase, L. blue_treasure_chest, M. red_basket, N. red_crate, O. red_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

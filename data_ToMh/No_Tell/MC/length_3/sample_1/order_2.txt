@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mia, Abigail, Nathan, Mila and Mason entered the kitchen.
+2 The carrot is in the blue_bottle.
+3 Mia made no movements and stayed in the kitchen for 1 minute.
+4 Mia exited the kitchen.
+5 Abigail moved the carrot to the red_suitcase.
+6 Abigail exited the kitchen.
+7 Nathan made no movements and stayed in the kitchen for 1 minute.
+8 Nathan exited the kitchen.
+9 Mila moved the carrot to the blue_envelope.
+10 Mila exited the kitchen.
+11 Abigail saw a monkey.
+12 Mason made no movements and stayed in the kitchen for 1 minute.
+13 Mason exited the kitchen.
+14 Mia, Abigail, Nathan, Mila and Mason entered the waiting_room.
+15 Nathan, Mila and Abigail entered the pantry.
+16 The strawberry is in the green_treasure_chest.
+17 Nathan made no movements and stayed in the pantry for 1 minute.
+18 Nathan exited the pantry.
+19 Mila moved the strawberry to the blue_suitcase.
+20 Mila exited the pantry.
+21 Abigail made no movements and stayed in the pantry for 1 minute.
+22 Abigail exited the pantry.
+23 Nathan, Mila and Abigail entered the waiting_room.
+24 Mason, Abigail, Mia and Nathan entered the kitchen.
+25 The eggplant is in the green_cupboard.
+26 Mason made no movements and stayed in the kitchen for 1 minute.
+27 Mason exited the kitchen.
+28 Abigail made no movements and stayed in the kitchen for 1 minute.
+29 Abigail exited the kitchen.
+30 Mia moved the eggplant to the red_bucket.
+31 Mia exited the kitchen.
+32 Nathan moved the eggplant to the blue_bottle.
+33 Nathan exited the kitchen.
+34 Mason, Abigail, Mia and Nathan entered the waiting_room.
+Question: Where does Abigail think Nathan thinks the carrot is?
+Answer: blue_envelope
+Choices: A. green_suitcase, B. red_box, C. red_envelope, D. green_basket, E. green_container, F. blue_suitcase, G. green_treasure_chest, H. green_drawer, I. red_treasure_chest, J. blue_box, K. green_cupboard, L. blue_bottle, M. red_bucket, N. blue_envelope, O. red_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

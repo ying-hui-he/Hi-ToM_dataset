@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Emily, Isabella, Logan, Sophia and Aria entered the lounge.
+2 The asparagus is in the green_drawer.
+3 Emily made no movements and stayed in the lounge for 1 minute.
+4 Emily exited the lounge.
+5 Isabella moved the asparagus to the red_bottle.
+6 Aria saw a dog.
+7 Isabella exited the lounge.
+8 Logan moved the asparagus to the blue_bucket.
+9 Logan exited the lounge.
+10 Sophia moved the asparagus to the green_bucket.
+11 Sophia exited the lounge.
+12 Aria moved the asparagus to the green_drawer.
+13 Aria exited the lounge.
+14 Emily, Isabella, Logan, Sophia and Aria entered the waiting_room.
+15 Sophia, Emily and Isabella entered the office.
+16 The peach is in the green_basket.
+17 Logan dislikes the cucumber.
+18 Sophia moved the peach to the red_bucket.
+19 Sophia exited the office.
+20 Emily moved the peach to the red_envelope.
+21 Emily exited the office.
+22 Isabella made no movements and stayed in the office for 1 minute.
+23 Isabella exited the office.
+24 Sophia, Emily and Isabella entered the waiting_room.
+25 Sophia, Logan, Aria and Emily entered the sunroom.
+26 The melon is in the red_crate.
+27 Sophia moved the melon to the red_box.
+28 Sophia exited the sunroom.
+29 Logan moved the melon to the green_bathtub.
+30 Logan exited the sunroom.
+31 Aria made no movements and stayed in the sunroom for 1 minute.
+32 Sophia dislikes the melon.
+33 Aria exited the sunroom.
+34 Emily moved the melon to the red_suitcase.
+35 Emily exited the sunroom.
+36 Sophia, Logan, Aria and Emily entered the waiting_room.
+Question: Where does Logan think Sophia thinks Emily thinks the asparagus is?
+Choices: A. red_crate, B. green_bathtub, C. red_box, D. red_suitcase, E. blue_treasure_chest, F. green_basket, G. red_bucket, H. green_envelope, I. red_envelope, J. red_pantry, K. green_drawer, L. blue_box, M. green_bucket, N. red_bottle, O. blue_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Emily, Nathan, Gracie, Logan and Lucas entered the patio.
+2 The radish is in the blue_crate.
+3 Emily moved the radish to the blue_basket.
+4 Emily exited the patio.
+5 Nathan made no movements and stayed in the patio for 1 minute.
+6 Nathan exited the patio.
+7 Gracie made no movements and stayed in the patio for 1 minute.
+8 Logan dislikes the turnip.
+9 Gracie exited the patio.
+10 Logan made no movements and stayed in the patio for 1 minute.
+11 Logan exited the patio.
+12 Lucas moved the radish to the blue_crate.
+13 Lucas exited the patio.
+14 Emily, Nathan, Gracie, Logan and Lucas entered the waiting_room.
+Question: Where does Emily think Lucas thinks Nathan thinks the radish is?
+Answer: blue_crate
+Choices: A. green_envelope, B. blue_crate, C. red_suitcase, D. blue_basket, E. green_bathtub, F. green_pantry, G. blue_treasure_chest, H. red_pantry, I. green_container, J. blue_box, K. red_container, L. blue_envelope, M. red_crate, N. red_box, O. green_basket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

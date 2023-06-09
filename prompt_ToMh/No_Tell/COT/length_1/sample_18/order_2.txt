@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Aria, James, Isabella, Carter and Isla entered the bathroom.
+2 The grapes is in the blue_basket.
+3 Aria made no movements and stayed in the bathroom for 1 minute.
+4 Aria exited the bathroom.
+5 James moved the grapes to the red_bucket.
+6 James exited the bathroom.
+7 Isabella made no movements and stayed in the bathroom for 1 minute.
+8 Isabella exited the bathroom.
+9 Carter moved the grapes to the blue_suitcase.
+10 Carter exited the bathroom.
+11 Isla made no movements and stayed in the bathroom for 1 minute.
+12 Isla exited the bathroom.
+13 Aria, James, Isabella, Carter and Isla entered the waiting_room.
+Question: Where does Carter think Aria thinks the grapes is?
+Choices: A. blue_basket, B. blue_suitcase, C. red_treasure_chest, D. red_bucket, E. red_crate, F. red_container, G. blue_drawer, H. red_envelope, I. blue_bucket, J. blue_bottle, K. green_treasure_chest, L. red_pantry, M. red_bottle, N. blue_envelope, O. green_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

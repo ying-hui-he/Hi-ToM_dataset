@@ -1,0 +1,34 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Emma, Emily, Jack, Avery and Ethan entered the bathroom.
+2 The cucumber is in the green_bucket.
+3 Emma moved the cucumber to the red_crate.
+4 Emma exited the bathroom.
+5 Emily moved the cucumber to the green_treasure_chest.
+6 Jack likes the green_treasure_chest.
+7 Emily exited the bathroom.
+8 Jack moved the cucumber to the blue_suitcase.
+9 Jack exited the bathroom.
+10 Avery dislikes the cabbage.
+11 Avery moved the cucumber to the blue_basket.
+12 Avery exited the bathroom.
+13 Jack likes the blue_basket.
+14 Ethan moved the cucumber to the green_bucket.
+15 Ethan exited the bathroom.
+16 Emma, Emily, Jack, Avery and Ethan entered the waiting_room.
+17 Emma, Emily and Avery entered the den.
+18 The cherry is in the red_suitcase.
+19 Emma made no movements and stayed in the den for 1 minute.
+20 Emma exited the den.
+21 Ethan likes the red_container.
+22 Emily moved the cherry to the green_suitcase.
+23 Emily exited the den.
+24 Avery moved the cherry to the red_drawer.
+25 Avery exited the den.
+26 Emma, Emily and Avery entered the waiting_room.
+27 Avery publicly claimed that cherry is in the red_box.
+28 Emma privately told Avery that the cherry is in the green_suitcase.
+Question: Where does Avery think Emily thinks the cucumber is?
+Choices: A. red_suitcase, B. red_box, C. red_drawer, D. green_drawer, E. green_suitcase, F. blue_crate, G. red_container, H. green_basket, I. red_bucket, J. red_envelope, K. green_bucket, L. red_crate, M. blue_basket, N. green_treasure_chest, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

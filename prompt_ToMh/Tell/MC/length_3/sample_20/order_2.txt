@@ -1,0 +1,46 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mia, Abigail, Mason, Emily and Carter entered the bathroom.
+2 The turnip is in the red_bucket.
+3 Mia made no movements and stayed in the bathroom for 1 minute.
+4 Mia exited the bathroom.
+5 Abigail made no movements and stayed in the bathroom for 1 minute.
+6 Abigail exited the bathroom.
+7 Mason made no movements and stayed in the bathroom for 1 minute.
+8 Mason exited the bathroom.
+9 Emily moved the turnip to the green_container.
+10 Emily exited the bathroom.
+11 Carter moved the turnip to the red_bucket.
+12 Mason saw a cat.
+13 Carter exited the bathroom.
+14 Mia, Abigail, Mason, Emily and Carter entered the waiting_room.
+15 Mason publicly claimed that turnip is in the red_pantry.
+16 Carter privately told Mason that the turnip is in the blue_basket.
+17 Mason, Mia and Abigail entered the bathroom.
+18 The turnip is in the red_bucket.
+19 Mason moved the turnip to the green_container.
+20 Mason exited the bathroom.
+21 Mia moved the turnip to the red_pantry.
+22 Mia exited the bathroom.
+23 Abigail moved the turnip to the blue_basket.
+24 Abigail exited the bathroom.
+25 Mason lost his phone.
+26 Mason, Mia and Abigail entered the waiting_room.
+27 Carter lost his gloves.
+28 Carter, Mia, Mason and Emily entered the cellar.
+29 The potato is in the red_envelope.
+30 Carter made no movements and stayed in the cellar for 1 minute.
+31 Carter exited the cellar.
+32 Mia made no movements and stayed in the cellar for 1 minute.
+33 Mia exited the cellar.
+34 Mason moved the potato to the red_drawer.
+35 Mason exited the cellar.
+36 Emily moved the potato to the blue_envelope.
+37 Emily exited the cellar.
+38 Carter, Mia, Mason and Emily entered the waiting_room.
+39 Carter publicly claimed that potato is in the red_envelope.
+40 Emily privately told Abigail that the potato is in the blue_envelope.
+Question: Where does Mia think Abigail thinks the turnip is?
+Choices: A. red_drawer, B. red_envelope, C. green_treasure_chest, D. blue_suitcase, E. blue_envelope, F. red_bucket, G. red_pantry, H. green_container, I. blue_basket, J. blue_bucket, K. red_basket, L. blue_drawer, M. red_box, N. green_suitcase, O. blue_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

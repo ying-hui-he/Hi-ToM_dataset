@@ -237,10 +237,10 @@ class PublicTellAction(Action):
         disbelievers = [listener for listener in listeners if listener not in believers]
 
         # All listeners would think others believe the claim
-        for believer in believers:
-            for disbeliever in disbelievers:
-                oracle.set_second_belief(believer, disbeliever, obj, container)
-                oracle.set_second_belief(disbeliever, believer, obj, container)
+        # for believer in believers:
+        #     for disbeliever in disbelievers:
+        #         oracle.set_second_belief(believer, disbeliever, obj, container)
+        #         oracle.set_second_belief(disbeliever, believer, obj, container)
         
         # A believer would think speaker also believes the obj is in container, speaker would think his words are trusted
         for believer in believers:

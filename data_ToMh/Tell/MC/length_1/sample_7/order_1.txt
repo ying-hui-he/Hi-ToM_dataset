@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Sophia, Isla, Emily, Noah and Alexander entered the hall.
+2 The apple is in the red_bucket.
+3 Sophia moved the apple to the blue_basket.
+4 Sophia exited the hall.
+5 Isla moved the apple to the red_treasure_chest.
+6 Isla exited the hall.
+7 Emily moved the apple to the green_suitcase.
+8 Emily exited the hall.
+9 Noah made no movements and stayed in the hall for 1 minute.
+10 Noah exited the hall.
+11 Alexander made no movements and stayed in the hall for 1 minute.
+12 Alexander exited the hall.
+13 Isla saw a dog.
+14 Sophia, Isla, Emily, Noah and Alexander entered the waiting_room.
+15 Emily publicly claimed that apple is in the blue_basket.
+16 Alexander privately told Emily that the apple is in the red_bucket.
+Question: Where does Isla really think the apple is?
+Answer: blue_basket
+Choices: A. red_bucket, B. red_treasure_chest, C. blue_basket, D. green_suitcase, E. red_suitcase, F. green_envelope, G. red_crate, H. green_pantry, I. green_basket, J. red_box, K. green_cupboard, L. green_treasure_chest, M. green_bathtub, N. blue_box, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

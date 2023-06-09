@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Emma, William, Isla, Carter and Mila entered the hall.
+2 The sweet_potato is in the green_pantry.
+3 Emma moved the sweet_potato to the blue_treasure_chest.
+4 Emma exited the hall.
+5 William moved the sweet_potato to the red_bucket.
+6 William exited the hall.
+7 Isla moved the sweet_potato to the blue_box.
+8 Isla exited the hall.
+9 Carter moved the sweet_potato to the red_crate.
+10 Carter exited the hall.
+11 Mila made no movements and stayed in the hall for 1 minute.
+12 Mila exited the hall.
+13 Emma, William, Isla, Carter and Mila entered the waiting_room.
+14 Isla publicly claimed that sweet_potato is in the blue_box.
+15 Mila privately told Isla that the sweet_potato is in the red_crate.
+Question: Where does Emma think Carter thinks Mila thinks the sweet_potato is?
+Choices: A. red_drawer, B. green_basket, C. green_cupboard, D. green_envelope, E. red_basket, F. green_suitcase, G. green_treasure_chest, H. red_suitcase, I. blue_envelope, J. blue_bottle, K. red_crate, L. green_pantry, M. blue_box, N. red_bucket, O. blue_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

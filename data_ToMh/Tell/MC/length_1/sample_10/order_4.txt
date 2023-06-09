@@ -1,0 +1,24 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Emily, Amelia, Ella, Aria and Chloe entered the den.
+2 Emily lost his watch.
+3 The eggplant is in the green_container.
+4 Emily moved the eggplant to the green_pantry.
+5 Emily exited the den.
+6 Ella saw a monkey.
+7 Amelia made no movements and stayed in the den for 1 minute.
+8 Amelia exited the den.
+9 Ella made no movements and stayed in the den for 1 minute.
+10 Ella exited the den.
+11 Aria made no movements and stayed in the den for 1 minute.
+12 Aria exited the den.
+13 Chloe moved the eggplant to the green_container.
+14 Chloe exited the den.
+15 Emily, Amelia, Ella, Aria and Chloe entered the waiting_room.
+16 Ella publicly claimed that eggplant is in the green_drawer.
+17 Chloe privately told Ella that the eggplant is in the green_pantry.
+Question: Where does Aria think Emily thinks Amelia thinks Chloe thinks the eggplant is?
+Answer: green_container
+Choices: A. green_pantry, B. green_container, C. red_pantry, D. red_basket, E. green_drawer, F. blue_bottle, G. blue_treasure_chest, H. blue_drawer, I. green_bathtub, J. blue_bucket, K. blue_basket, L. green_envelope, M. red_bottle, N. red_container, O. blue_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

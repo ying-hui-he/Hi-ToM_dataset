@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Owen saw a cat.
+2 William, Owen, Nathan, Logan and Mia entered the bedroom.
+3 The potato is in the blue_crate.
+4 William made no movements and stayed in the bedroom for 1 minute.
+5 William exited the bedroom.
+6 Owen made no movements and stayed in the bedroom for 1 minute.
+7 Owen exited the bedroom.
+8 Nathan moved the potato to the red_basket.
+9 Nathan exited the bedroom.
+10 Logan moved the potato to the green_bathtub.
+11 Logan exited the bedroom.
+12 Mia made no movements and stayed in the bedroom for 1 minute.
+13 Mia exited the bedroom.
+14 William, Owen, Nathan, Logan and Mia entered the waiting_room.
+15 William, Owen and Nathan entered the den.
+16 The carrot is in the blue_basket.
+17 William moved the carrot to the green_container.
+18 William exited the den.
+19 Owen made no movements and stayed in the den for 1 minute.
+20 Owen exited the den.
+21 Nathan made no movements and stayed in the den for 1 minute.
+22 Nathan exited the den.
+23 William, Owen and Nathan entered the waiting_room.
+24 Owen, Nathan, Logan and Mia entered the living_room.
+25 The pumpkin is in the red_pantry.
+26 Owen made no movements and stayed in the living_room for 1 minute.
+27 Owen exited the living_room.
+28 Nathan made no movements and stayed in the living_room for 1 minute.
+29 Logan dislikes the pumpkin.
+30 Nathan exited the living_room.
+31 Logan made no movements and stayed in the living_room for 1 minute.
+32 Logan exited the living_room.
+33 Mia made no movements and stayed in the living_room for 1 minute.
+34 Mia exited the living_room.
+35 Owen, Nathan, Logan and Mia entered the waiting_room.
+Question: Where does Mia really think the potato is?
+Choices: A. blue_crate, B. red_bucket, C. blue_box, D. red_basket, E. green_bathtub, F. blue_basket, G. green_container, H. blue_envelope, I. red_container, J. green_bucket, K. red_pantry, L. blue_bottle, M. blue_suitcase, N. red_bottle, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

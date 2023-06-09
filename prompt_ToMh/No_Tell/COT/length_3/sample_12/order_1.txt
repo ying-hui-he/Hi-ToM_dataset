@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Logan, Elizabeth, Isla, Gracie and Mason entered the porch.
+2 The grapefruit is in the green_suitcase.
+3 Logan moved the grapefruit to the blue_suitcase.
+4 Logan exited the porch.
+5 Elizabeth moved the grapefruit to the green_treasure_chest.
+6 Elizabeth exited the porch.
+7 Isla made no movements and stayed in the porch for 1 minute.
+8 Isla exited the porch.
+9 Gracie moved the grapefruit to the blue_basket.
+10 Gracie exited the porch.
+11 Mason made no movements and stayed in the porch for 1 minute.
+12 Mason exited the porch.
+13 Logan, Elizabeth, Isla, Gracie and Mason entered the waiting_room.
+14 Logan saw a monkey.
+15 Elizabeth, Mason and Logan entered the sunroom.
+16 The onion is in the green_bucket.
+17 Elizabeth made no movements and stayed in the sunroom for 1 minute.
+18 Elizabeth exited the sunroom.
+19 Mason moved the onion to the blue_drawer.
+20 Gracie lost his phone.
+21 Mason exited the sunroom.
+22 Logan made no movements and stayed in the sunroom for 1 minute.
+23 Logan exited the sunroom.
+24 Elizabeth, Mason and Logan entered the waiting_room.
+25 Mason, Isla, Elizabeth and Gracie entered the porch.
+26 The celery is in the red_bucket.
+27 Mason made no movements and stayed in the porch for 1 minute.
+28 Mason exited the porch.
+29 Isla made no movements and stayed in the porch for 1 minute.
+30 Isla exited the porch.
+31 Elizabeth moved the celery to the blue_basket.
+32 Elizabeth exited the porch.
+33 Gracie made no movements and stayed in the porch for 1 minute.
+34 Gracie exited the porch.
+35 Mason, Isla, Elizabeth and Gracie entered the waiting_room.
+Question: Where does Gracie really think the grapefruit is?
+Choices: A. red_basket, B. green_bucket, C. blue_drawer, D. green_envelope, E. green_cupboard, F. red_bucket, G. green_suitcase, H. blue_suitcase, I. blue_basket, J. green_treasure_chest, K. green_pantry, L. green_container, M. green_basket, N. green_drawer, O. red_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

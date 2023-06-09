@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Olivia, Sophia, Gracie, Emma and Ella entered the pantry.
+2 The grapes is in the green_drawer.
+3 Olivia made no movements and stayed in the pantry for 1 minute.
+4 Sophia likes the green_drawer.
+5 Olivia exited the pantry.
+6 Sophia made no movements and stayed in the pantry for 1 minute.
+7 Sophia exited the pantry.
+8 Gracie moved the grapes to the red_crate.
+9 Gracie exited the pantry.
+10 Emma made no movements and stayed in the pantry for 1 minute.
+11 Emma exited the pantry.
+12 Ella moved the grapes to the green_drawer.
+13 Ella exited the pantry.
+14 Olivia, Sophia, Gracie, Emma and Ella entered the waiting_room.
+15 Emma, Olivia and Sophia entered the pantry.
+16 The grapes is in the green_drawer.
+17 Emma made no movements and stayed in the pantry for 1 minute.
+18 Emma dislikes the grapes.
+19 Emma exited the pantry.
+20 Olivia moved the grapes to the green_cupboard.
+21 Olivia exited the pantry.
+22 Sophia made no movements and stayed in the pantry for 1 minute.
+23 Sophia dislikes the asparagus.
+24 Sophia exited the pantry.
+25 Emma, Olivia and Sophia entered the waiting_room.
+26 Olivia publicly claimed that grapes is in the blue_basket.
+27 Sophia likes the green_pantry.
+28 Sophia privately told Olivia that the grapes is in the green_drawer.
+Question: Where does Emma think Sophia thinks the grapes is?
+Answer: green_drawer
+Choices: A. green_drawer, B. green_treasure_chest, C. green_cupboard, D. blue_basket, E. red_crate, F. red_envelope, G. green_container, H. red_treasure_chest, I. blue_envelope, J. red_bucket, K. blue_bucket, L. red_basket, M. red_container, N. green_bucket, O. green_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

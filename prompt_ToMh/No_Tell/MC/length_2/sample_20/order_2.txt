@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mia, Aria, Olivia, Chloe and Ava entered the garage.
+2 The peach is in the green_suitcase.
+3 Mia made no movements and stayed in the garage for 1 minute.
+4 Mia exited the garage.
+5 Aria moved the peach to the blue_bucket.
+6 Aria exited the garage.
+7 Olivia moved the peach to the red_container.
+8 Olivia exited the garage.
+9 Chloe made no movements and stayed in the garage for 1 minute.
+10 Olivia lost his gloves.
+11 Chloe exited the garage.
+12 Ava lost his watch.
+13 Ava moved the peach to the green_suitcase.
+14 Ava dislikes the turnip.
+15 Ava exited the garage.
+16 Mia, Aria, Olivia, Chloe and Ava entered the waiting_room.
+17 Ava, Chloe and Aria entered the kitchen.
+18 The radish is in the green_cupboard.
+19 Ava made no movements and stayed in the kitchen for 1 minute.
+20 Aria likes the red_crate.
+21 Ava exited the kitchen.
+22 Chloe moved the radish to the red_drawer.
+23 Chloe exited the kitchen.
+24 Aria moved the radish to the red_pantry.
+25 Aria exited the kitchen.
+26 Ava, Chloe and Aria entered the waiting_room.
+Question: Where does Olivia think Mia thinks the peach is?
+Choices: A. green_suitcase, B. blue_bucket, C. red_container, D. red_suitcase, E. green_pantry, F. red_pantry, G. green_cupboard, H. red_drawer, I. red_bucket, J. blue_envelope, K. red_treasure_chest, L. red_crate, M. red_basket, N. red_box, O. blue_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

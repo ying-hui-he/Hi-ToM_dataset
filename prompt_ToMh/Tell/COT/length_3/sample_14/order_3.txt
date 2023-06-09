@@ -1,0 +1,46 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 William, Alexander, Isabella, Chloe and James entered the hallway.
+2 The lettuce is in the blue_box.
+3 William made no movements and stayed in the hallway for 1 minute.
+4 William exited the hallway.
+5 Alexander made no movements and stayed in the hallway for 1 minute.
+6 Alexander exited the hallway.
+7 Isabella made no movements and stayed in the hallway for 1 minute.
+8 Isabella exited the hallway.
+9 Chloe moved the lettuce to the red_bucket.
+10 Chloe exited the hallway.
+11 James moved the lettuce to the blue_box.
+12 James exited the hallway.
+13 William likes the green_drawer.
+14 William, Alexander, Isabella, Chloe and James entered the waiting_room.
+15 William saw a mouse.
+16 Isabella privately told William that the lettuce is in the green_treasure_chest.
+17 Alexander privately told Chloe that the lettuce is in the blue_crate.
+18 Chloe, Alexander and James entered the bathroom.
+19 The banana is in the red_treasure_chest.
+20 Chloe moved the banana to the red_container.
+21 Chloe exited the bathroom.
+22 Alexander made no movements and stayed in the bathroom for 1 minute.
+23 Alexander exited the bathroom.
+24 James moved the banana to the blue_envelope.
+25 William saw a dog.
+26 James exited the bathroom.
+27 Chloe, Alexander and James entered the waiting_room.
+28 Isabella, William, Chloe and James entered the bathroom.
+29 The pumpkin is in the green_cupboard.
+30 Isabella moved the pumpkin to the red_treasure_chest.
+31 Isabella exited the bathroom.
+32 William made no movements and stayed in the bathroom for 1 minute.
+33 William exited the bathroom.
+34 Chloe moved the pumpkin to the green_bucket.
+35 Chloe exited the bathroom.
+36 James made no movements and stayed in the bathroom for 1 minute.
+37 James exited the bathroom.
+38 Isabella, William, Chloe and James entered the waiting_room.
+39 William publicly claimed that pumpkin is in the red_container.
+40 James privately told Chloe that the pumpkin is in the green_bucket.
+Question: Where does Alexander think James thinks William thinks the lettuce is?
+Choices: A. blue_box, B. red_bucket, C. blue_crate, D. green_container, E. green_treasure_chest, F. red_treasure_chest, G. green_cupboard, H. blue_envelope, I. green_bucket, J. red_container, K. red_suitcase, L. green_bathtub, M. red_pantry, N. blue_suitcase, O. green_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

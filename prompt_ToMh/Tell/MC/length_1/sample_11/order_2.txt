@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Elizabeth, Sophia, William and James entered the laundry.
+2 The cucumber is in the red_bottle.
+3 Jack made no movements and stayed in the laundry for 1 minute.
+4 Jack exited the laundry.
+5 Elizabeth moved the cucumber to the blue_suitcase.
+6 Elizabeth exited the laundry.
+7 Sophia made no movements and stayed in the laundry for 1 minute.
+8 Sophia exited the laundry.
+9 William moved the cucumber to the green_suitcase.
+10 William exited the laundry.
+11 James moved the cucumber to the red_bottle.
+12 James exited the laundry.
+13 William dislikes the spinach.
+14 Jack, Elizabeth, Sophia, William and James entered the waiting_room.
+15 Sophia publicly claimed that cucumber is in the green_suitcase.
+16 James privately told Sophia that the cucumber is in the red_bottle.
+Question: Where does William think Sophia thinks the cucumber is?
+Choices: A. red_crate, B. blue_drawer, C. green_cupboard, D. green_drawer, E. red_box, F. red_bottle, G. red_treasure_chest, H. blue_suitcase, I. blue_treasure_chest, J. green_suitcase, K. green_container, L. blue_basket, M. red_pantry, N. green_basket, O. green_bathtub
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

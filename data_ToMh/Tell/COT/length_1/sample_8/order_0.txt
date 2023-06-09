@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Elizabeth, Emily, Mia, Gracie and Owen entered the bathroom.
+2 The broccoli is in the red_drawer.
+3 Elizabeth made no movements and stayed in the bathroom for 1 minute.
+4 Elizabeth exited the bathroom.
+5 Emily made no movements and stayed in the bathroom for 1 minute.
+6 Emily exited the bathroom.
+7 Mia made no movements and stayed in the bathroom for 1 minute.
+8 Mia exited the bathroom.
+9 Gracie moved the broccoli to the blue_crate.
+10 Gracie exited the bathroom.
+11 Owen moved the broccoli to the red_drawer.
+12 Owen exited the bathroom.
+13 Elizabeth, Emily, Mia, Gracie and Owen entered the waiting_room.
+14 Gracie publicly claimed that broccoli is in the blue_crate.
+15 Gracie saw a cat.
+16 Owen privately told Elizabeth that the broccoli is in the red_drawer.
+Question: Where is the broccoli really?
+Answer: red_drawer
+Choices: A. blue_basket, B. red_drawer, C. blue_crate, D. red_box, E. blue_bucket, F. green_treasure_chest, G. green_bathtub, H. red_bucket, I. red_basket, J. red_envelope, K. red_crate, L. green_cupboard, M. green_envelope, N. blue_drawer, O. green_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

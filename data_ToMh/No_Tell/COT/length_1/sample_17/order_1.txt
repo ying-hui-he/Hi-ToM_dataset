@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Chloe, Olivia, Owen, Logan and Sophia entered the back_yard.
+2 The tangerine is in the blue_basket.
+3 Chloe moved the tangerine to the green_cupboard.
+4 Chloe exited the back_yard.
+5 Olivia moved the tangerine to the red_treasure_chest.
+6 Olivia exited the back_yard.
+7 Owen made no movements and stayed in the back_yard for 1 minute.
+8 Owen exited the back_yard.
+9 Logan made no movements and stayed in the back_yard for 1 minute.
+10 Logan exited the back_yard.
+11 Owen likes the green_pantry.
+12 Sophia made no movements and stayed in the back_yard for 1 minute.
+13 Sophia exited the back_yard.
+14 Chloe, Olivia, Owen, Logan and Sophia entered the waiting_room.
+Question: Where does Logan really think the tangerine is?
+Answer: red_treasure_chest
+Choices: A. green_pantry, B. green_treasure_chest, C. green_drawer, D. red_drawer, E. red_basket, F. blue_basket, G. red_treasure_chest, H. green_basket, I. green_cupboard, J. red_bottle, K. green_suitcase, L. green_envelope, M. blue_bucket, N. red_crate, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

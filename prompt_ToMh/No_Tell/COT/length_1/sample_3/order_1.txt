@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ethan dislikes the peach.
+2 Elizabeth, Isla, Logan, William and Ethan entered the lounge.
+3 The onion is in the blue_suitcase.
+4 Elizabeth made no movements and stayed in the lounge for 1 minute.
+5 Elizabeth exited the lounge.
+6 Logan saw a cat.
+7 Isla made no movements and stayed in the lounge for 1 minute.
+8 Isla exited the lounge.
+9 Isla dislikes the apple.
+10 Logan moved the onion to the green_basket.
+11 Logan exited the lounge.
+12 William moved the onion to the red_treasure_chest.
+13 William exited the lounge.
+14 Ethan made no movements and stayed in the lounge for 1 minute.
+15 Ethan exited the lounge.
+16 Isla dislikes the strawberry.
+17 Elizabeth, Isla, Logan, William and Ethan entered the waiting_room.
+Question: Where does William really think the onion is?
+Choices: A. blue_suitcase, B. green_bathtub, C. green_basket, D. blue_basket, E. red_treasure_chest, F. red_suitcase, G. blue_envelope, H. red_bucket, I. green_container, J. red_container, K. red_drawer, L. blue_bucket, M. blue_bottle, N. red_box, O. red_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

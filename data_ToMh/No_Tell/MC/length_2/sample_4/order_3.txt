@@ -1,0 +1,30 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Alexander, Chloe, Ava, Emma and Ethan entered the living_room.
+2 The pumpkin is in the red_bucket.
+3 Alexander moved the pumpkin to the red_box.
+4 Alexander exited the living_room.
+5 Ethan dislikes the peach.
+6 Chloe made no movements and stayed in the living_room for 1 minute.
+7 Chloe exited the living_room.
+8 Ava made no movements and stayed in the living_room for 1 minute.
+9 Ava exited the living_room.
+10 Emma moved the pumpkin to the green_suitcase.
+11 Emma exited the living_room.
+12 Ethan made no movements and stayed in the living_room for 1 minute.
+13 Ethan exited the living_room.
+14 Alexander, Chloe, Ava, Emma and Ethan entered the waiting_room.
+15 Ava, Chloe and Alexander entered the living_room.
+16 The lime is in the red_crate.
+17 Ava made no movements and stayed in the living_room for 1 minute.
+18 Ava exited the living_room.
+19 Chloe moved the lime to the red_box.
+20 Chloe exited the living_room.
+21 Alexander moved the lime to the green_suitcase.
+22 Alexander exited the living_room.
+23 Ava, Chloe and Alexander entered the waiting_room.
+Question: Where does Emma think Chloe thinks Alexander thinks the pumpkin is?
+Answer: red_bucket
+Choices: A. red_drawer, B. red_envelope, C. red_container, D. red_basket, E. green_envelope, F. red_bucket, G. red_crate, H. green_suitcase, I. red_box, J. green_basket, K. red_pantry, L. green_cupboard, M. blue_box, N. red_suitcase, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

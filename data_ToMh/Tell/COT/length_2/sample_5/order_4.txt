@@ -1,0 +1,33 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Chloe, Avery, William, Mila and Abigail entered the porch.
+2 The pineapple is in the red_treasure_chest.
+3 Chloe moved the pineapple to the red_pantry.
+4 Chloe exited the porch.
+5 Avery made no movements and stayed in the porch for 1 minute.
+6 Avery exited the porch.
+7 William likes the blue_bottle.
+8 William made no movements and stayed in the porch for 1 minute.
+9 William exited the porch.
+10 Mila made no movements and stayed in the porch for 1 minute.
+11 Mila exited the porch.
+12 Abigail moved the pineapple to the red_treasure_chest.
+13 Abigail exited the porch.
+14 Chloe, Avery, William, Mila and Abigail entered the waiting_room.
+15 Mila, Chloe and William entered the basement.
+16 The broccoli is in the blue_drawer.
+17 Mila made no movements and stayed in the basement for 1 minute.
+18 Chloe dislikes the tangerine.
+19 Mila exited the basement.
+20 Chloe moved the broccoli to the red_bucket.
+21 Chloe exited the basement.
+22 William made no movements and stayed in the basement for 1 minute.
+23 William exited the basement.
+24 Mila, Chloe and William entered the waiting_room.
+25 Mila publicly claimed that broccoli is in the blue_drawer.
+26 William privately told Avery that the broccoli is in the red_bucket.
+Question: Where does Chloe think Abigail thinks William thinks Avery thinks the pineapple is?
+Answer: red_treasure_chest
+Choices: A. green_cupboard, B. green_bathtub, C. red_suitcase, D. red_bottle, E. green_bucket, F. red_treasure_chest, G. red_container, H. blue_suitcase, I. blue_bottle, J. red_pantry, K. blue_drawer, L. red_bucket, M. green_pantry, N. green_container, O. red_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

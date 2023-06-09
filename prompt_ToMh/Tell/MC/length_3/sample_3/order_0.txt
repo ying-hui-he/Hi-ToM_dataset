@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isla, Ava, Mila, Jack and Ella entered the attic.
+2 The potato is in the blue_drawer.
+3 Isla moved the potato to the red_container.
+4 Isla exited the attic.
+5 Ava made no movements and stayed in the attic for 1 minute.
+6 Ava exited the attic.
+7 Mila moved the potato to the green_suitcase.
+8 Mila exited the attic.
+9 Jack made no movements and stayed in the attic for 1 minute.
+10 Jack exited the attic.
+11 Ava likes the blue_envelope.
+12 Ella moved the potato to the blue_drawer.
+13 Ella exited the attic.
+14 Isla, Ava, Mila, Jack and Ella entered the waiting_room.
+15 Mila privately told Isla that the potato is in the blue_drawer.
+16 Ava privately told Jack that the potato is in the green_envelope.
+17 Isla, Jack and Mila entered the attic.
+18 The potato is in the blue_drawer.
+19 Isla moved the potato to the green_treasure_chest.
+20 Isla exited the attic.
+21 Jack made no movements and stayed in the attic for 1 minute.
+22 Jack exited the attic.
+23 Mila made no movements and stayed in the attic for 1 minute.
+24 Mila exited the attic.
+25 Isla, Jack and Mila entered the waiting_room.
+26 Ella, Ava, Isla and Mila entered the garage.
+27 The cherry is in the green_bathtub.
+28 Ella moved the cherry to the red_bottle.
+29 Ella exited the garage.
+30 Ava made no movements and stayed in the garage for 1 minute.
+31 Ava exited the garage.
+32 Isla made no movements and stayed in the garage for 1 minute.
+33 Isla exited the garage.
+34 Mila moved the cherry to the blue_box.
+35 Mila exited the garage.
+36 Ella lost his gloves.
+37 Ella, Ava, Isla and Mila entered the waiting_room.
+38 Ava publicly claimed that cherry is in the blue_treasure_chest.
+39 Mila privately told Isla that the cherry is in the blue_box.
+Question: Where is the potato really?
+Choices: A. green_suitcase, B. blue_drawer, C. green_envelope, D. red_container, E. green_treasure_chest, F. red_basket, G. blue_bucket, H. blue_envelope, I. red_envelope, J. green_drawer, K. green_bathtub, L. green_cupboard, M. blue_treasure_chest, N. blue_box, O. red_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

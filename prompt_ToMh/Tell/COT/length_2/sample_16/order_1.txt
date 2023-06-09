@@ -1,0 +1,34 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Nathan, Logan, Mila, Ethan and Lily entered the back_yard.
+2 The onion is in the blue_drawer.
+3 Nathan made no movements and stayed in the back_yard for 1 minute.
+4 Ethan lost his gloves.
+5 Nathan exited the back_yard.
+6 Logan made no movements and stayed in the back_yard for 1 minute.
+7 Logan exited the back_yard.
+8 Mila moved the onion to the green_treasure_chest.
+9 Mila exited the back_yard.
+10 Ethan made no movements and stayed in the back_yard for 1 minute.
+11 Ethan exited the back_yard.
+12 Mila dislikes the lemon.
+13 Lily made no movements and stayed in the back_yard for 1 minute.
+14 Lily exited the back_yard.
+15 Nathan, Logan, Mila, Ethan and Lily entered the waiting_room.
+16 Ethan, Nathan and Mila entered the garage.
+17 The lettuce is in the red_basket.
+18 Ethan moved the lettuce to the green_bucket.
+19 Ethan exited the garage.
+20 Nathan made no movements and stayed in the garage for 1 minute.
+21 Mila saw a cat.
+22 Nathan exited the garage.
+23 Mila moved the lettuce to the blue_crate.
+24 Mila exited the garage.
+25 Lily lost his phone.
+26 Ethan, Nathan and Mila entered the waiting_room.
+27 Mila publicly claimed that lettuce is in the green_bucket.
+28 Ethan privately told Mila that the lettuce is in the green_cupboard.
+Question: Where does Logan really think the onion is?
+Choices: A. blue_crate, B. red_basket, C. green_cupboard, D. blue_treasure_chest, E. green_bucket, F. red_envelope, G. blue_drawer, H. red_pantry, I. green_treasure_chest, J. red_crate, K. green_suitcase, L. green_container, M. blue_envelope, N. red_box, O. green_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
