@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Amelia, Abigail, Evelyn, Owen and Lily entered the bathroom.
-2 The corn is in the red_drawer.
-3 Amelia made no movements and stayed in the bathroom for 10 minutes.
-4 Amelia exited the bathroom and stayed in the waiting_room.
-5 Abigail made no movements and stayed in the bathroom for 10 minutes.
-6 Abigail exited the bathroom and stayed in the waiting_room.
-7 Evelyn made no movements and stayed in the bathroom for 10 minutes.
-8 Evelyn exited the bathroom and stayed in the waiting_room.
-9 Owen made no movements and stayed in the bathroom for 10 minutes.
-10 Owen exited the bathroom and stayed in the waiting_room.
-11 Lily made no movements and stayed in the bathroom for 10 minutes.
-12 Lily exited the bathroom and stayed in the waiting_room.
-13 Owen, Evelyn and Lily entered the basement.
-14 The melon is in the red_basket.
-15 Owen made no movements and stayed in the basement for 10 minutes.
-16 Owen exited the basement and stayed in the waiting_room.
-17 Evelyn moved the melon to the green_container.
-18 Evelyn exited the basement and stayed in the waiting_room.
-19 Lily moved the melon to the green_bathtub.
-20 Lily exited the basement and stayed in the waiting_room.
-21 Lily publicly claimed that melon is in the red_basket.
-22 Owen privately told Lily that the melon is in the green_crate.
-Question: Where is the corn really?
-Answer: red_drawer
+1 Amelia, Ethan, Elizabeth, Jackson and Avery entered the lounge.
+2 The cucumber is in the blue_container.
+3 Amelia moved the cucumber to the blue_basket.
+4 Amelia exited the lounge and stayed in the waiting_room.
+5 Ethan made no movements and stayed in the lounge for 10 minutes.
+6 Avery saw a mouse.
+7 Ethan exited the lounge and stayed in the waiting_room.
+8 Elizabeth moved the cucumber to the green_basket.
+9 Elizabeth exited the lounge and stayed in the waiting_room.
+10 Jackson made no movements and stayed in the lounge for 10 minutes.
+11 Jackson exited the lounge and stayed in the waiting_room.
+12 Avery made no movements and stayed in the lounge for 10 minutes.
+13 Amelia likes the blue_envelope.
+14 Avery exited the lounge and stayed in the waiting_room.
+15 Amelia, Ethan and Elizabeth entered the attic.
+16 The radish is in the red_treasure_chest.
+17 Amelia made no movements and stayed in the attic for 10 minutes.
+18 Amelia exited the attic and stayed in the waiting_room.
+19 Ethan made no movements and stayed in the attic for 10 minutes.
+20 Ethan exited the attic and stayed in the waiting_room.
+21 Elizabeth made no movements and stayed in the attic for 10 minutes.
+22 Elizabeth exited the attic and stayed in the waiting_room.
+23 Amelia publicly claimed that radish is in the green_drawer.
+24 Elizabeth privately told Avery that the radish is in the red_treasure_chest.
+Question: Where is the cucumber really?
+Answer: green_basket
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

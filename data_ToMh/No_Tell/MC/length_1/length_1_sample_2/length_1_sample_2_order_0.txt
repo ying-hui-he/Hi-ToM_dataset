@@ -1,19 +1,18 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jayden, Lily, Jackson, Mila and Carter entered the sunroom.
-2 The tangerine is in the green_pantry.
-3 Lily lost his gloves.
-4 Jayden moved the tangerine to the blue_crate.
-5 Jayden exited the sunroom and stayed in the waiting_room.
-6 Lily moved the tangerine to the red_bathtub.
-7 Lily exited the sunroom and stayed in the waiting_room.
-8 Jackson moved the tangerine to the blue_envelope.
-9 Jackson likes the blue_envelope.
-10 Jackson exited the sunroom and stayed in the waiting_room.
-11 Mila moved the tangerine to the green_bottle.
-12 Mila exited the sunroom and stayed in the waiting_room.
-13 Carter made no movements and stayed in the sunroom for 10 minutes.
-14 Carter exited the sunroom and stayed in the waiting_room.
-Question: Where is the tangerine really?
-Answer: green_bottle
+1 Sophia, Ethan, Benjamin, James and Isla entered the attic.
+2 Ethan lost his gloves.
+3 The lime is in the green_suitcase.
+4 Sophia made no movements and stayed in the attic for 10 minutes.
+5 Sophia exited the attic and stayed in the waiting_room.
+6 Ethan moved the lime to the blue_box.
+7 Ethan exited the attic and stayed in the waiting_room.
+8 Benjamin moved the lime to the blue_drawer.
+9 Benjamin exited the attic and stayed in the waiting_room.
+10 James moved the lime to the blue_pantry.
+11 James exited the attic and stayed in the waiting_room.
+12 Isla moved the lime to the green_suitcase.
+13 Isla exited the attic and stayed in the waiting_room.
+Question: Where is the lime really?
+Answer: green_suitcase
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

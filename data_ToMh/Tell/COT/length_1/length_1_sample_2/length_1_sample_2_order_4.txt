@@ -1,22 +1,19 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Alexander likes the red_bottle.
-2 Alexander, Ava, Sophia, Jackson and Emma entered the den.
-3 The orange is in the green_suitcase.
-4 Emma dislikes the pear.
-5 Alexander moved the orange to the red_basket.
-6 Alexander exited the den and stayed in the waiting_room.
-7 Ava made no movements and stayed in the den for 10 minutes.
-8 Ava exited the den and stayed in the waiting_room.
-9 Sophia moved the orange to the green_treasure_chest.
-10 Sophia exited the den and stayed in the waiting_room.
-11 Jackson moved the orange to the blue_drawer.
-12 Jackson exited the den and stayed in the waiting_room.
-13 Emma moved the orange to the green_suitcase.
-14 Emma exited the den and stayed in the waiting_room.
-15 Jackson publicly claimed that orange is in the green_treasure_chest.
-16 Emma privately told Alexander that the orange is in the green_suitcase.
-17 Ava lost his phone.
-Question: Where does Ava think Emma thinks Alexander thinks Sophia thinks the orange is?
-Answer: None
+1 Isabella, Liam, Mia, Amelia and Emily entered the hall.
+2 The onion is in the green_drawer.
+3 Isabella moved the onion to the red_bucket.
+4 Isabella exited the hall and stayed in the waiting_room.
+5 Liam moved the onion to the blue_bottle.
+6 Liam exited the hall and stayed in the waiting_room.
+7 Mia made no movements and stayed in the hall for 10 minutes.
+8 Mia exited the hall and stayed in the waiting_room.
+9 Amelia moved the onion to the green_bathtub.
+10 Amelia exited the hall and stayed in the waiting_room.
+11 Emily moved the onion to the green_drawer.
+12 Emily exited the hall and stayed in the waiting_room.
+13 Mia publicly claimed that onion is in the green_bathtub.
+14 Emily privately told Mia that the onion is in the green_drawer.
+Question: Where does Mia think Emily thinks Amelia thinks Liam thinks the onion is?
+Answer: green_drawer
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

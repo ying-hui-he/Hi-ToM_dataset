@@ -1,27 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 James, Avery, Ava, Lily and William entered the pantry.
-2 The lettuce is in the green_suitcase.
-3 James moved the lettuce to the red_bathtub.
-4 James exited the pantry and stayed in the waiting_room.
-5 Avery made no movements and stayed in the pantry for 10 minutes.
-6 Avery exited the pantry and stayed in the waiting_room.
-7 Ava moved the lettuce to the red_pantry.
-8 Ava exited the pantry and stayed in the waiting_room.
-9 Lily moved the lettuce to the blue_bottle.
-10 Lily exited the pantry and stayed in the waiting_room.
-11 William made no movements and stayed in the pantry for 10 minutes.
-12 William exited the pantry and stayed in the waiting_room.
-13 Avery, William and Lily entered the pantry.
-14 The lettuce is in the blue_bottle.
-15 Avery moved the lettuce to the red_pantry.
-16 Avery exited the pantry and stayed in the waiting_room.
-17 William moved the lettuce to the red_bathtub.
-18 William exited the pantry and stayed in the waiting_room.
-19 Lily moved the lettuce to the red_envelope.
-20 James likes the red_crate.
-21 Lily exited the pantry and stayed in the waiting_room.
-23 James saw a monkey.
-Question: Where does Ava think James thinks Lily thinks the lettuce is?
-Answer: None
+1 Aiden, Alexander, Liam, Ethan and Charlotte entered the front_yard.
+2 The corn is in the blue_container.
+3 Aiden made no movements and stayed in the front_yard for 10 minutes.
+4 Aiden exited the front_yard and stayed in the waiting_room.
+5 Alexander moved the corn to the green_drawer.
+6 Liam lost his phone.
+7 Alexander exited the front_yard and stayed in the waiting_room.
+8 Liam made no movements and stayed in the front_yard for 10 minutes.
+9 Liam exited the front_yard and stayed in the waiting_room.
+10 Ethan moved the corn to the blue_basket.
+11 Ethan exited the front_yard and stayed in the waiting_room.
+12 Charlotte moved the corn to the blue_container.
+13 Charlotte exited the front_yard and stayed in the waiting_room.
+14 Liam lost his phone.
+15 Ethan, Liam and Alexander entered the front_yard.
+16 The pineapple is in the green_drawer.
+17 Ethan made no movements and stayed in the front_yard for 10 minutes.
+18 Ethan exited the front_yard and stayed in the waiting_room.
+19 Liam made no movements and stayed in the front_yard for 10 minutes.
+20 Liam exited the front_yard and stayed in the waiting_room.
+21 Liam lost his phone.
+22 Alexander moved the pineapple to the red_container.
+23 Ethan lost his phone.
+24 Alexander exited the front_yard and stayed in the waiting_room.
+Question: Where does Ethan think Aiden thinks Charlotte thinks the corn is?
+Answer: blue_container
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

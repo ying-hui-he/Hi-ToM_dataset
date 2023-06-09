@@ -1,48 +1,50 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Olivia, Lucas, Ella, Lily and Ava entered the staircase.
-2 The asparagus is in the blue_drawer.
-3 Olivia made no movements and stayed in the staircase for 10 minutes.
-4 Olivia exited the staircase and stayed in the waiting_room.
-5 Lucas made no movements and stayed in the staircase for 10 minutes.
-6 Lucas exited the staircase and stayed in the waiting_room.
-7 Ella made no movements and stayed in the staircase for 10 minutes.
-8 Ella exited the staircase and stayed in the waiting_room.
-9 Lily moved the asparagus to the blue_basket.
-10 Lily exited the staircase and stayed in the waiting_room.
-11 Ava made no movements and stayed in the staircase for 10 minutes.
-12 Ava exited the staircase and stayed in the waiting_room.
-13 Lily, Olivia and Ella entered the staircase.
-14 The asparagus is in the blue_basket.
-15 Lily moved the asparagus to the red_cupboard.
-16 Lily exited the staircase and stayed in the waiting_room.
-17 Olivia moved the asparagus to the blue_bottle.
-18 Olivia exited the staircase and stayed in the waiting_room.
-19 Ava lost his watch.
-20 Ella moved the asparagus to the red_pantry.
-21 Ella exited the staircase and stayed in the waiting_room.
-22 Olivia privately told Ella that the asparagus is in the red_cupboard.
-23 Ella privately told Ava that the asparagus is in the red_pantry.
-24 Lily, Ava, Olivia and Lucas entered the playroom.
-25 The pear is in the green_basket.
-26 Lily moved the pear to the green_crate.
-27 Lily exited the playroom and stayed in the waiting_room.
-28 Ava made no movements and stayed in the playroom for 10 minutes.
-29 Ava exited the playroom and stayed in the waiting_room.
-30 Olivia made no movements and stayed in the playroom for 10 minutes.
-31 Lily dislikes the asparagus.
-32 Olivia exited the playroom and stayed in the waiting_room.
-33 Lucas moved the pear to the blue_cupboard.
-34 Lucas exited the playroom and stayed in the waiting_room.
-35 Ella and Lucas entered the bedroom.
-36 The peach is in the red_envelope.
-37 Ella made no movements and stayed in the bedroom for 10 minutes.
-38 Ella exited the bedroom and stayed in the waiting_room.
-39 Lucas made no movements and stayed in the bedroom for 10 minutes.
-40 Ava dislikes the pear.
-41 Lucas exited the bedroom and stayed in the waiting_room.
-42 Ella privately told Ava that the peach is in the red_bottle.
-44 Ella dislikes the pear.
-Question: Where does Ella really think the asparagus is?
-Answer: red_pantry
+1 Logan, Alexander, Nathan, Amelia and Isabella entered the playroom.
+2 The celery is in the red_crate.
+3 Logan made no movements and stayed in the playroom for 10 minutes.
+4 Logan exited the playroom and stayed in the waiting_room.
+5 Alexander moved the celery to the green_crate.
+6 Alexander exited the playroom and stayed in the waiting_room.
+7 Nathan moved the celery to the blue_envelope.
+8 Logan dislikes the pear.
+9 Nathan exited the playroom and stayed in the waiting_room.
+10 Amelia moved the celery to the blue_crate.
+11 Amelia exited the playroom and stayed in the waiting_room.
+12 Isabella moved the celery to the red_crate.
+13 Isabella exited the playroom and stayed in the waiting_room.
+14 Logan, Isabella and Alexander entered the playroom.
+15 The celery is in the red_crate.
+16 Logan made no movements and stayed in the playroom for 10 minutes.
+17 Logan exited the playroom and stayed in the waiting_room.
+18 Nathan lost his phone.
+19 Isabella moved the celery to the blue_crate.
+20 Isabella exited the playroom and stayed in the waiting_room.
+21 Alexander made no movements and stayed in the playroom for 10 minutes.
+22 Alexander exited the playroom and stayed in the waiting_room.
+23 Isabella privately told Alexander that the celery is in the green_crate.
+24 Alexander privately told Amelia that the celery is in the blue_crate.
+25 Logan, Nathan, Alexander and Isabella entered the kitchen.
+26 The grapes is in the blue_pantry.
+27 Logan moved the grapes to the green_drawer.
+28 Logan likes the green_crate.
+29 Logan exited the kitchen and stayed in the waiting_room.
+30 Nathan made no movements and stayed in the kitchen for 10 minutes.
+31 Nathan exited the kitchen and stayed in the waiting_room.
+32 Alexander moved the grapes to the red_drawer.
+33 Alexander exited the kitchen and stayed in the waiting_room.
+34 Isabella made no movements and stayed in the kitchen for 10 minutes.
+35 Isabella exited the kitchen and stayed in the waiting_room.
+36 Logan lost his phone.
+37 Nathan and Logan entered the kitchen.
+38 The grapes is in the red_drawer.
+39 Nathan made no movements and stayed in the kitchen for 10 minutes.
+40 Amelia lost his phone.
+41 Nathan exited the kitchen and stayed in the waiting_room.
+42 Logan made no movements and stayed in the kitchen for 10 minutes.
+43 Logan exited the kitchen and stayed in the waiting_room.
+44 Logan publicly claimed that grapes is in the blue_box.
+45 Nathan privately told Logan that the grapes is in the red_drawer.
+Question: Where does Alexander really think the celery is?
+Answer: blue_crate
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

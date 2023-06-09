@@ -1,49 +1,48 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Elizabeth, Sophia, Nathan, Noah and William entered the porch.
-2 The onion is in the red_cupboard.
-3 Elizabeth moved the onion to the red_bucket.
-4 Elizabeth exited the porch and stayed in the waiting_room.
-5 Sophia moved the onion to the red_envelope.
-6 Sophia exited the porch and stayed in the waiting_room.
-7 Nathan made no movements and stayed in the porch for 10 minutes.
-8 Nathan exited the porch and stayed in the waiting_room.
-9 Noah made no movements and stayed in the porch for 10 minutes.
-10 Noah exited the porch and stayed in the waiting_room.
-11 William made no movements and stayed in the porch for 10 minutes.
-12 William exited the porch and stayed in the waiting_room.
-13 William, Noah and Sophia entered the garage.
-14 The tomato is in the green_bathtub.
-15 William moved the tomato to the red_basket.
-16 William exited the garage and stayed in the waiting_room.
-17 Noah made no movements and stayed in the garage for 10 minutes.
-18 Noah exited the garage and stayed in the waiting_room.
-19 Sophia moved the tomato to the red_drawer.
-20 Sophia exited the garage and stayed in the waiting_room.
-21 Sophia publicly claimed that tomato is in the red_drawer.
-22 William privately told Sophia that the tomato is in the green_bottle.
-23 William saw a dog.
-24 Sophia, Noah, Nathan and Elizabeth entered the playroom.
-25 The watermelon is in the blue_bathtub.
-26 Sophia moved the watermelon to the green_suitcase.
-27 Sophia exited the playroom and stayed in the waiting_room.
-28 Noah moved the watermelon to the green_crate.
-29 Noah exited the playroom and stayed in the waiting_room.
-30 Nathan moved the watermelon to the blue_container.
-31 Nathan exited the playroom and stayed in the waiting_room.
-32 William likes the red_drawer.
-33 Elizabeth moved the watermelon to the blue_bottle.
-34 Elizabeth exited the playroom and stayed in the waiting_room.
-35 Noah and Nathan entered the playroom.
-36 The watermelon is in the blue_bottle.
-37 Noah made no movements and stayed in the playroom for 10 minutes.
-38 Noah exited the playroom and stayed in the waiting_room.
-39 Noah saw a mouse.
-40 Nathan made no movements and stayed in the playroom for 10 minutes.
-41 Nathan exited the playroom and stayed in the waiting_room.
-42 William saw a monkey.
-43 Nathan publicly claimed that watermelon is in the blue_bathtub.
-44 Noah privately told Nathan that the watermelon is in the green_suitcase.
-Question: Where does William really think the onion is?
-Answer: red_envelope
+1 Nathan, Mia, Alexander, Chloe and Abigail entered the playroom.
+2 The celery is in the green_pantry.
+3 Nathan made no movements and stayed in the playroom for 10 minutes.
+4 Nathan exited the playroom and stayed in the waiting_room.
+5 Mia made no movements and stayed in the playroom for 10 minutes.
+6 Mia exited the playroom and stayed in the waiting_room.
+7 Alexander made no movements and stayed in the playroom for 10 minutes.
+8 Alexander exited the playroom and stayed in the waiting_room.
+9 Chloe made no movements and stayed in the playroom for 10 minutes.
+10 Chloe exited the playroom and stayed in the waiting_room.
+11 Abigail moved the celery to the green_pantry.
+12 Abigail exited the playroom and stayed in the waiting_room.
+13 Chloe, Mia and Nathan entered the playroom.
+14 The lettuce is in the blue_cupboard.
+15 Chloe moved the lettuce to the green_bottle.
+16 Chloe exited the playroom and stayed in the waiting_room.
+17 Mia moved the lettuce to the green_box.
+18 Mia exited the playroom and stayed in the waiting_room.
+19 Nathan made no movements and stayed in the playroom for 10 minutes.
+20 Mia saw a monkey.
+21 Nathan exited the playroom and stayed in the waiting_room.
+22 Mia privately told Nathan that the lettuce is in the green_pantry.
+23 Nathan privately told Alexander that the lettuce is in the green_box.
+24 Alexander, Nathan, Chloe and Mia entered the den.
+25 The pear is in the blue_treasure_chest.
+26 Alexander moved the pear to the blue_drawer.
+27 Chloe dislikes the broccoli.
+28 Alexander exited the den and stayed in the waiting_room.
+29 Nathan moved the pear to the green_container.
+30 Nathan exited the den and stayed in the waiting_room.
+31 Chloe moved the pear to the red_container.
+32 Chloe exited the den and stayed in the waiting_room.
+33 Mia made no movements and stayed in the den for 10 minutes.
+34 Mia exited the den and stayed in the waiting_room.
+35 Abigail and Chloe entered the attic.
+36 The broccoli is in the green_suitcase.
+37 Abigail made no movements and stayed in the attic for 10 minutes.
+38 Abigail exited the attic and stayed in the waiting_room.
+39 Chloe made no movements and stayed in the attic for 10 minutes.
+40 Chloe exited the attic and stayed in the waiting_room.
+41 Chloe publicly claimed that broccoli is in the green_bathtub.
+42 Abigail privately told Chloe that the broccoli is in the red_drawer.
+43 Chloe likes the green_box.
+Question: Where does Alexander really think the celery is?
+Answer: green_pantry
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

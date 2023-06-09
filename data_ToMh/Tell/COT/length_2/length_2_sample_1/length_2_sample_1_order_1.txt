@@ -1,28 +1,29 @@
 Read the following story and answer the multiple-choice question. Think step-by-step, and provide detailed explanations.
 Story:
-1 Ella, Evelyn, Oliver, Alexander and Jackson entered the sunroom.
-2 The plum is in the red_treasure_chest.
-3 Ella made no movements and stayed in the sunroom for 10 minutes.
-4 Ella exited the sunroom and stayed in the waiting_room.
-5 Evelyn made no movements and stayed in the sunroom for 10 minutes.
-6 Evelyn exited the sunroom and stayed in the waiting_room.
-7 Oliver made no movements and stayed in the sunroom for 10 minutes.
-8 Oliver exited the sunroom and stayed in the waiting_room.
-9 Alexander moved the plum to the blue_crate.
-10 Alexander exited the sunroom and stayed in the waiting_room.
-11 Ella saw a dog.
-12 Jackson moved the plum to the red_treasure_chest.
-13 Jackson exited the sunroom and stayed in the waiting_room.
-14 Alexander, Oliver and Evelyn entered the sunroom.
-15 The plum is in the red_treasure_chest.
-16 Alexander made no movements and stayed in the sunroom for 10 minutes.
-17 Alexander exited the sunroom and stayed in the waiting_room.
-18 Oliver moved the plum to the red_bucket.
-19 Oliver exited the sunroom and stayed in the waiting_room.
-20 Evelyn made no movements and stayed in the sunroom for 10 minutes.
-21 Evelyn exited the sunroom and stayed in the waiting_room.
-22 Oliver privately told Evelyn that the plum is in the blue_envelope.
-23 Evelyn privately told Jackson that the plum is in the red_bucket.
-Question: Where does Oliver really think the plum is?
-Answer: red_bucket
+1 Lucas, Aiden, Chloe, Mila and Elizabeth entered the hallway.
+2 The grapes is in the red_crate.
+3 Lucas made no movements and stayed in the hallway for 10 minutes.
+4 Lucas exited the hallway and stayed in the waiting_room.
+5 Aiden moved the grapes to the red_box.
+6 Aiden exited the hallway and stayed in the waiting_room.
+7 Chloe moved the grapes to the green_suitcase.
+8 Chloe exited the hallway and stayed in the waiting_room.
+9 Mila moved the grapes to the blue_basket.
+10 Mila exited the hallway and stayed in the waiting_room.
+11 Elizabeth moved the grapes to the red_crate.
+12 Elizabeth exited the hallway and stayed in the waiting_room.
+13 Chloe, Aiden and Elizabeth entered the hallway.
+14 The grapes is in the red_crate.
+15 Chloe made no movements and stayed in the hallway for 10 minutes.
+16 Lucas likes the red_crate.
+17 Chloe exited the hallway and stayed in the waiting_room.
+18 Aiden made no movements and stayed in the hallway for 10 minutes.
+19 Aiden exited the hallway and stayed in the waiting_room.
+20 Elizabeth made no movements and stayed in the hallway for 10 minutes.
+21 Elizabeth exited the hallway and stayed in the waiting_room.
+22 Aiden saw a cat.
+23 Elizabeth publicly claimed that grapes is in the red_box.
+24 Chloe privately told Elizabeth that the grapes is in the green_suitcase.
+Question: Where does Chloe really think the grapes is?
+Answer: red_box
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

@@ -1,20 +1,19 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Charlotte, Nathan, Jack, Jayden and Mila entered the cellar.
-2 The persimmon is in the red_envelope.
-3 Charlotte moved the persimmon to the red_pantry.
-4 Charlotte exited the cellar and stayed in the waiting_room.
-5 Nathan made no movements and stayed in the cellar for 10 minutes.
-6 Nathan exited the cellar and stayed in the waiting_room.
-7 Jack moved the persimmon to the green_cupboard.
-8 Jack exited the cellar and stayed in the waiting_room.
-9 Jack likes the green_suitcase.
-10 Jayden moved the persimmon to the blue_envelope.
-11 Jayden exited the cellar and stayed in the waiting_room.
-12 Mila moved the persimmon to the red_envelope.
-13 Mila exited the cellar and stayed in the waiting_room.
-14 Jayden publicly claimed that persimmon is in the green_suitcase.
-15 Mila privately told Charlotte that the persimmon is in the red_envelope.
-Question: Where does Jack really think the persimmon is?
-Answer: green_suitcase
+1 James, Nathan, Lily, Alexander and Liam entered the patio.
+2 The pineapple is in the green_drawer.
+3 James moved the pineapple to the green_box.
+4 James exited the patio and stayed in the waiting_room.
+5 Nathan moved the pineapple to the red_drawer.
+6 Nathan exited the patio and stayed in the waiting_room.
+7 Lily moved the pineapple to the green_basket.
+8 Lily exited the patio and stayed in the waiting_room.
+9 Alexander moved the pineapple to the red_envelope.
+10 Alexander exited the patio and stayed in the waiting_room.
+11 Liam moved the pineapple to the green_drawer.
+12 Liam exited the patio and stayed in the waiting_room.
+13 Lily publicly claimed that pineapple is in the red_envelope.
+14 Liam privately told Lily that the pineapple is in the green_basket.
+Question: Where does James really think the pineapple is?
+Answer: red_envelope
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

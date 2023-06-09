@@ -1,43 +1,43 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Avery, Aria, Emily, Abigail and Charlotte entered the garage.
-2 The apple is in the green_cupboard.
-3 Avery made no movements and stayed in the garage for 10 minutes.
-4 Avery exited the garage and stayed in the waiting_room.
-5 Aria made no movements and stayed in the garage for 10 minutes.
-6 Aria exited the garage and stayed in the waiting_room.
-7 Emily moved the apple to the green_bottle.
-8 Emily exited the garage and stayed in the waiting_room.
-9 Abigail made no movements and stayed in the garage for 10 minutes.
-10 Abigail exited the garage and stayed in the waiting_room.
-11 Charlotte moved the apple to the green_cupboard.
-12 Charlotte likes the red_cupboard.
-13 Charlotte exited the garage and stayed in the waiting_room.
-14 Abigail publicly claimed that apple is in the blue_bathtub.
-15 Charlotte privately told Avery that the apple is in the green_cupboard.
-16 Charlotte, Aria and Abigail entered the crawlspace.
-17 The onion is in the red_treasure_chest.
-18 Charlotte made no movements and stayed in the crawlspace for 10 minutes.
-19 Abigail dislikes the broccoli.
-20 Charlotte exited the crawlspace and stayed in the waiting_room.
-21 Aria moved the onion to the red_cupboard.
-22 Aria exited the crawlspace and stayed in the waiting_room.
-23 Abigail made no movements and stayed in the crawlspace for 10 minutes.
-24 Abigail exited the crawlspace and stayed in the waiting_room.
-25 Abigail, Charlotte, Aria and Emily entered the crawlspace.
-26 The onion is in the red_cupboard.
-27 Abigail moved the onion to the red_treasure_chest.
-28 Abigail exited the crawlspace and stayed in the waiting_room.
-29 Charlotte moved the onion to the blue_cupboard.
-30 Charlotte exited the crawlspace and stayed in the waiting_room.
-31 Aria moved the onion to the red_basket.
-32 Aria exited the crawlspace and stayed in the waiting_room.
-33 Emily moved the onion to the green_basket.
-34 Emily exited the crawlspace and stayed in the waiting_room.
-35 Charlotte publicly claimed that onion is in the blue_cupboard.
-36 Abigail likes the red_basket.
-37 Emily privately told Aria that the onion is in the red_basket.
-42 Abigail saw a mouse.
-Question: Where does Abigail think Charlotte thinks Aria thinks Avery thinks the apple is?
-Answer: None
+1 Mia, Sophia, Jayden, Nathan and Liam entered the hall.
+2 The celery is in the blue_box.
+3 Mia moved the celery to the red_crate.
+4 Mia lost his watch.
+5 Mia exited the hall and stayed in the waiting_room.
+6 Nathan likes the blue_envelope.
+7 Sophia made no movements and stayed in the hall for 10 minutes.
+8 Sophia exited the hall and stayed in the waiting_room.
+9 Jayden made no movements and stayed in the hall for 10 minutes.
+10 Jayden exited the hall and stayed in the waiting_room.
+11 Nathan made no movements and stayed in the hall for 10 minutes.
+12 Nathan exited the hall and stayed in the waiting_room.
+13 Liam moved the celery to the blue_box.
+14 Nathan lost his gloves.
+15 Liam exited the hall and stayed in the waiting_room.
+16 Nathan publicly claimed that celery is in the blue_basket.
+17 Liam privately told Mia that the celery is in the blue_box.
+18 Mia, Nathan and Liam entered the hall.
+19 The melon is in the blue_drawer.
+20 Mia moved the melon to the blue_box.
+21 Liam likes the blue_envelope.
+22 Mia exited the hall and stayed in the waiting_room.
+23 Nathan moved the melon to the red_crate.
+24 Nathan exited the hall and stayed in the waiting_room.
+25 Liam moved the melon to the blue_envelope.
+26 Liam exited the hall and stayed in the waiting_room.
+27 Jayden, Nathan, Mia and Liam entered the hallway.
+28 The green_pepper is in the red_treasure_chest.
+29 Jayden moved the green_pepper to the red_container.
+30 Jayden exited the hallway and stayed in the waiting_room.
+31 Nathan moved the green_pepper to the blue_crate.
+32 Nathan exited the hallway and stayed in the waiting_room.
+33 Mia made no movements and stayed in the hallway for 10 minutes.
+34 Mia exited the hallway and stayed in the waiting_room.
+35 Liam made no movements and stayed in the hallway for 10 minutes.
+36 Liam exited the hallway and stayed in the waiting_room.
+37 Mia publicly claimed that green_pepper is in the red_treasure_chest.
+38 Jayden privately told Liam that the green_pepper is in the blue_bottle.
+Question: Where does Nathan think Liam thinks Mia thinks Jayden thinks the celery is?
+Answer: blue_box
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.

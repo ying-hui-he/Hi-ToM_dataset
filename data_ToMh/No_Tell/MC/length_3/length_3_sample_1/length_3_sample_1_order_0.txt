@@ -1,37 +1,42 @@
 Read the following story and answer the multiple-choice question. Please provide answer without explanations.
 Story:
-1 Jackson, Elizabeth, Aria, Jack and Mason entered the study.
-2 The watermelon is in the green_pantry.
-3 Jackson moved the watermelon to the green_bathtub.
-4 Jackson exited the study and stayed in the waiting_room.
-5 Elizabeth made no movements and stayed in the study for 10 minutes.
-6 Elizabeth exited the study and stayed in the waiting_room.
-7 Aria moved the watermelon to the blue_bathtub.
-8 Aria exited the study and stayed in the waiting_room.
-9 Jack made no movements and stayed in the study for 10 minutes.
-10 Jack exited the study and stayed in the waiting_room.
-11 Mason made no movements and stayed in the study for 10 minutes.
-12 Mason exited the study and stayed in the waiting_room.
-13 Elizabeth dislikes the corn.
-14 Jack, Jackson and Mason entered the den.
-15 The pear is in the red_bathtub.
-16 Jack made no movements and stayed in the den for 10 minutes.
-17 Jack exited the den and stayed in the waiting_room.
-18 Jackson moved the pear to the green_bottle.
-19 Jackson exited the den and stayed in the waiting_room.
-20 Mason made no movements and stayed in the den for 10 minutes.
-21 Mason exited the den and stayed in the waiting_room.
-22 Jack, Mason, Jackson and Aria entered the kitchen.
-23 The lemon is in the green_suitcase.
-24 Jack moved the lemon to the blue_basket.
-25 Jack exited the kitchen and stayed in the waiting_room.
-26 Mason made no movements and stayed in the kitchen for 10 minutes.
-27 Mason exited the kitchen and stayed in the waiting_room.
-28 Jackson moved the lemon to the green_envelope.
-29 Jackson exited the kitchen and stayed in the waiting_room.
-30 Jack likes the green_basket.
-31 Aria moved the lemon to the blue_cupboard.
-32 Aria exited the kitchen and stayed in the waiting_room.
-Question: Where is the watermelon really?
-Answer: blue_bathtub
+1 Amelia, Jayden, Aiden, Mia and Lucas entered the basement.
+2 The spinach is in the red_treasure_chest.
+3 Amelia moved the spinach to the green_crate.
+4 Amelia exited the basement and stayed in the waiting_room.
+5 Jayden moved the spinach to the red_bathtub.
+6 Mia likes the blue_bottle.
+7 Jayden exited the basement and stayed in the waiting_room.
+8 Aiden lost his watch.
+9 Aiden moved the spinach to the blue_bottle.
+10 Aiden exited the basement and stayed in the waiting_room.
+11 Jayden saw a monkey.
+12 Mia moved the spinach to the blue_drawer.
+13 Mia exited the basement and stayed in the waiting_room.
+14 Lucas moved the spinach to the red_treasure_chest.
+15 Lucas exited the basement and stayed in the waiting_room.
+16 Mia, Lucas and Jayden entered the back_yard.
+17 The pumpkin is in the green_bottle.
+18 Mia moved the pumpkin to the red_container.
+19 Mia exited the back_yard and stayed in the waiting_room.
+20 Lucas moved the pumpkin to the red_suitcase.
+21 Lucas exited the back_yard and stayed in the waiting_room.
+22 Jayden moved the pumpkin to the red_bucket.
+23 Lucas saw a mouse.
+24 Jayden exited the back_yard and stayed in the waiting_room.
+25 Amelia, Mia, Lucas and Jayden entered the patio.
+26 The melon is in the blue_crate.
+27 Amelia made no movements and stayed in the patio for 10 minutes.
+28 Mia dislikes the spinach.
+29 Amelia exited the patio and stayed in the waiting_room.
+30 Mia made no movements and stayed in the patio for 10 minutes.
+31 Mia exited the patio and stayed in the waiting_room.
+32 Amelia saw a mouse.
+33 Lucas moved the melon to the green_bathtub.
+34 Lucas exited the patio and stayed in the waiting_room.
+35 Mia likes the red_suitcase.
+36 Jayden made no movements and stayed in the patio for 10 minutes.
+37 Jayden exited the patio and stayed in the waiting_room.
+Question: Where is the spinach really?
+Answer: red_treasure_chest
 Note: You should assume the following. (1) A character witnesses everything and every movements before exiting a location. (2) A character A can infer another character B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every character tend to lie. A character tend to trust a character that exited the room later than himself. (4) Agents in private communications know that others won't hear them, but anyone can hear any public claims.
