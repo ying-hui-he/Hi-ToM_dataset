@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Alexander, Lily, Lucas, Nathan and Oliver entered the porch.
+2 The radish is in the green_drawer.
+3 Alexander made no movements and stayed in the porch for 1 minute.
+4 Alexander exited the porch.
+5 Lily moved the radish to the blue_cupboard.
+6 Lily exited the porch.
+7 Lucas made no movements and stayed in the porch for 1 minute.
+8 Lucas exited the porch.
+9 Nathan made no movements and stayed in the porch for 1 minute.
+10 Nathan exited the porch.
+11 Oliver made no movements and stayed in the porch for 1 minute.
+12 Oliver exited the porch.
+13 Alexander, Lily, Lucas, Nathan and Oliver entered the waiting_room.
+Question: Where does Nathan think Oliver thinks the radish is?
+Answer: blue_cupboard
+Choices: A. green_drawer, B. blue_cupboard, C. red_bottle, D. blue_box, E. red_bucket, F. green_envelope, G. red_pantry, H. green_treasure_chest, I. red_envelope, J. blue_drawer, K. green_bottle, L. blue_suitcase, M. red_treasure_chest, N. blue_container, O. blue_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

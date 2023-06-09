@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Olivia, Nathan, Aria, Owen and Jack entered the TV_room.
+2 The corn is in the green_box.
+3 Olivia made no movements and stayed in the TV_room for 1 minute.
+4 Olivia exited the TV_room.
+5 Nathan moved the corn to the blue_drawer.
+6 Nathan exited the TV_room.
+7 Aria made no movements and stayed in the TV_room for 1 minute.
+8 Aria exited the TV_room.
+9 Owen made no movements and stayed in the TV_room for 1 minute.
+10 Owen exited the TV_room.
+11 Jack made no movements and stayed in the TV_room for 1 minute.
+12 Jack likes the green_bucket.
+13 Jack exited the TV_room.
+14 Olivia, Nathan, Aria, Owen and Jack entered the waiting_room.
+15 Olivia, Owen and Jack entered the TV_room.
+16 The green_pepper is in the blue_drawer.
+17 Olivia made no movements and stayed in the TV_room for 1 minute.
+18 Olivia exited the TV_room.
+19 Owen moved the green_pepper to the red_drawer.
+20 Olivia lost his watch.
+21 Owen exited the TV_room.
+22 Jack made no movements and stayed in the TV_room for 1 minute.
+23 Jack exited the TV_room.
+24 Olivia, Owen and Jack entered the waiting_room.
+25 Aria, Olivia, Owen and Jack entered the playroom.
+26 The lime is in the green_bucket.
+27 Aria made no movements and stayed in the playroom for 1 minute.
+28 Aria exited the playroom.
+29 Olivia made no movements and stayed in the playroom for 1 minute.
+30 Olivia exited the playroom.
+31 Owen made no movements and stayed in the playroom for 1 minute.
+32 Owen exited the playroom.
+33 Jack moved the lime to the red_envelope.
+34 Jack exited the playroom.
+35 Aria, Olivia, Owen and Jack entered the waiting_room.
+Question: Where is the corn really?
+Answer: blue_drawer
+Choices: A. blue_cupboard, B. blue_envelope, C. red_bottle, D. green_pantry, E. green_envelope, F. blue_drawer, G. green_box, H. red_pantry, I. red_drawer, J. red_container, K. green_bucket, L. red_envelope, M. blue_box, N. blue_container, O. blue_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

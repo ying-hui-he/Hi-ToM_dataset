@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Evelyn, Mia, Lucas, Lily and Jack entered the porch.
+2 The radish is in the blue_drawer.
+3 Evelyn moved the radish to the green_drawer.
+4 Evelyn exited the porch.
+5 Mia moved the radish to the red_envelope.
+6 Mia exited the porch.
+7 Lucas made no movements and stayed in the porch for 1 minute.
+8 Lucas exited the porch.
+9 Lily moved the radish to the blue_box.
+10 Lily exited the porch.
+11 Jack made no movements and stayed in the porch for 1 minute.
+12 Mia dislikes the radish.
+13 Jack exited the porch.
+14 Evelyn, Mia, Lucas, Lily and Jack entered the waiting_room.
+15 Lucas lost his watch.
+16 Jack, Lucas and Evelyn entered the porch.
+17 The radish is in the blue_box.
+18 Jack saw a mouse.
+19 Jack made no movements and stayed in the porch for 1 minute.
+20 Jack exited the porch.
+21 Lucas moved the radish to the red_treasure_chest.
+22 Lucas exited the porch.
+23 Evelyn moved the radish to the green_drawer.
+24 Evelyn exited the porch.
+25 Jack, Lucas and Evelyn entered the waiting_room.
+Question: Where does Lily think Jack thinks Evelyn thinks Lucas thinks the radish is?
+Choices: A. red_pantry, B. blue_suitcase, C. blue_bucket, D. blue_bottle, E. red_drawer, F. green_suitcase, G. red_bottle, H. green_bucket, I. green_treasure_chest, J. green_box, K. red_treasure_chest, L. blue_drawer, M. green_drawer, N. red_envelope, O. blue_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

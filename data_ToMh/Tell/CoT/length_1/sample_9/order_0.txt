@@ -1,0 +1,24 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Jacob, Chloe, Charlotte, Jackson and Hannah entered the attic.
+2 The orange is in the blue_suitcase.
+3 Jacob made no movements and stayed in the attic for 1 minute.
+4 Jacob exited the attic.
+5 Chloe moved the orange to the blue_pantry.
+6 Chloe exited the attic.
+7 Charlotte made no movements and stayed in the attic for 1 minute.
+8 Charlotte exited the attic.
+9 Chloe likes the green_envelope.
+10 Jackson moved the orange to the red_drawer.
+11 Jackson exited the attic.
+12 Hannah moved the orange to the blue_suitcase.
+13 Jacob saw a dog.
+14 Hannah exited the attic.
+15 Jacob, Chloe, Charlotte, Jackson and Hannah entered the waiting_room.
+16 Jackson publicly claimed that orange is in the green_crate.
+17 Hannah privately told Jacob that the orange is in the blue_suitcase.
+Question: Where is the orange really?
+Answer: blue_suitcase
+Choices: A. blue_envelope, B. green_bottle, C. red_bucket, D. green_envelope, E. blue_drawer, F. blue_suitcase, G. red_drawer, H. blue_pantry, I. blue_bathtub, J. green_crate, K. blue_cupboard, L. blue_bottle, M. red_bottle, N. green_pantry, O. green_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

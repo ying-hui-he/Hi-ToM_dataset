@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Liam, Mason, Jack, Olivia and Aria entered the hall.
+2 The orange is in the blue_cupboard.
+3 Liam made no movements and stayed in the hall for 1 minute.
+4 Liam exited the hall.
+5 Mason moved the orange to the green_treasure_chest.
+6 Mason exited the hall.
+7 Jack moved the orange to the red_bucket.
+8 Jack exited the hall.
+9 Olivia made no movements and stayed in the hall for 1 minute.
+10 Olivia exited the hall.
+11 Aria moved the orange to the blue_cupboard.
+12 Aria exited the hall.
+13 Liam, Mason, Jack, Olivia and Aria entered the waiting_room.
+Question: Where does Olivia think Liam thinks Jack thinks Aria thinks the orange is?
+Choices: A. green_pantry, B. blue_bottle, C. blue_pantry, D. green_crate, E. green_bucket, F. blue_cupboard, G. green_drawer, H. green_treasure_chest, I. red_bucket, J. red_bottle, K. red_cupboard, L. green_envelope, M. blue_bucket, N. red_envelope, O. green_bathtub
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

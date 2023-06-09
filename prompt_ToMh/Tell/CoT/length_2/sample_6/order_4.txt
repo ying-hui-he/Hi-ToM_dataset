@@ -1,0 +1,34 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ava, Isla, Oliver, Chloe and Olivia entered the sunroom.
+2 The plum is in the green_suitcase.
+3 Ava made no movements and stayed in the sunroom for 1 minute.
+4 Ava exited the sunroom.
+5 Isla made no movements and stayed in the sunroom for 1 minute.
+6 Isla exited the sunroom.
+7 Oliver made no movements and stayed in the sunroom for 1 minute.
+8 Oliver exited the sunroom.
+9 Chloe moved the plum to the green_drawer.
+10 Chloe exited the sunroom.
+11 Isla saw a mouse.
+12 Olivia made no movements and stayed in the sunroom for 1 minute.
+13 Olivia exited the sunroom.
+14 Ava, Isla, Oliver, Chloe and Olivia entered the waiting_room.
+15 Oliver, Ava and Isla entered the front_yard.
+16 The potato is in the blue_bathtub.
+17 Oliver made no movements and stayed in the front_yard for 1 minute.
+18 Oliver exited the front_yard.
+19 Ava moved the potato to the blue_envelope.
+20 Chloe likes the red_treasure_chest.
+21 Ava exited the front_yard.
+22 Isla moved the potato to the blue_box.
+23 Oliver dislikes the orange.
+24 Isla exited the front_yard.
+25 Oliver, Ava and Isla entered the waiting_room.
+26 Isla publicly claimed that potato is in the blue_envelope.
+27 Chloe likes the green_drawer.
+28 Oliver privately told Isla that the potato is in the blue_bathtub.
+Question: Where does Oliver think Ava thinks Chloe thinks Isla thinks the plum is?
+Choices: A. red_drawer, B. red_envelope, C. green_pantry, D. green_envelope, E. blue_cupboard, F. green_bucket, G. blue_bathtub, H. blue_pantry, I. blue_envelope, J. blue_box, K. red_treasure_chest, L. green_suitcase, M. green_bottle, N. red_bucket, O. green_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

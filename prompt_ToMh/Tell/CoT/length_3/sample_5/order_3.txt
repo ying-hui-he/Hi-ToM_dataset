@@ -1,0 +1,51 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Alexander, Oliver, Jacob, Hannah and Owen entered the hallway.
+2 The eggplant is in the blue_suitcase.
+3 Alexander made no movements and stayed in the hallway for 1 minute.
+4 Alexander exited the hallway.
+5 Oliver moved the eggplant to the red_bottle.
+6 Oliver exited the hallway.
+7 Jacob moved the eggplant to the green_bathtub.
+8 Jacob exited the hallway.
+9 Hannah lost his gloves.
+10 Hannah moved the eggplant to the blue_envelope.
+11 Hannah exited the hallway.
+12 Owen moved the eggplant to the blue_suitcase.
+13 Owen exited the hallway.
+14 Alexander, Oliver, Jacob, Hannah and Owen entered the waiting_room.
+15 Jacob privately told Alexander that the eggplant is in the red_bottle.
+16 Jacob saw a cat.
+17 Oliver privately told Hannah that the eggplant is in the green_bathtub.
+18 Jacob, Hannah and Oliver entered the hallway.
+19 The eggplant is in the blue_suitcase.
+20 Jacob moved the eggplant to the blue_bucket.
+21 Owen likes the green_bathtub.
+22 Jacob exited the hallway.
+23 Hannah moved the eggplant to the blue_envelope.
+24 Hannah exited the hallway.
+25 Oliver moved the eggplant to the red_bottle.
+26 Oliver exited the hallway.
+27 Jacob, Hannah and Oliver entered the waiting_room.
+28 Alexander, Hannah, Oliver and Owen entered the hallway.
+29 Jacob saw a cat.
+30 The eggplant is in the red_bottle.
+31 Alexander saw a mouse.
+32 Alexander made no movements and stayed in the hallway for 1 minute.
+33 Alexander exited the hallway.
+34 Owen dislikes the lemon.
+35 Hannah made no movements and stayed in the hallway for 1 minute.
+36 Oliver likes the green_drawer.
+37 Hannah exited the hallway.
+38 Oliver moved the eggplant to the green_bathtub.
+39 Oliver exited the hallway.
+40 Owen moved the eggplant to the blue_bucket.
+41 Owen exited the hallway.
+42 Alexander, Hannah, Oliver and Owen entered the waiting_room.
+43 Jacob lost his phone.
+44 Oliver publicly claimed that eggplant is in the blue_suitcase.
+45 Alexander privately told Owen that the eggplant is in the green_bathtub.
+Question: Where does Owen think Hannah thinks Oliver thinks the eggplant is?
+Choices: A. blue_bathtub, B. green_bucket, C. green_drawer, D. blue_cupboard, E. red_bucket, F. blue_suitcase, G. blue_envelope, H. red_bottle, I. green_bathtub, J. blue_bucket, K. blue_treasure_chest, L. green_crate, M. green_treasure_chest, N. green_bottle, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

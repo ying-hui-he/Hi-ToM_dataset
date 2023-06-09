@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Amelia, Liam, Oliver, Hannah and William entered the dining_room.
+2 The persimmon is in the blue_envelope.
+3 Amelia made no movements and stayed in the dining_room for 1 minute.
+4 Amelia exited the dining_room.
+5 Liam made no movements and stayed in the dining_room for 1 minute.
+6 Liam exited the dining_room.
+7 Oliver moved the persimmon to the blue_pantry.
+8 Oliver exited the dining_room.
+9 Hannah moved the persimmon to the green_bottle.
+10 Hannah exited the dining_room.
+11 William likes the green_basket.
+12 William made no movements and stayed in the dining_room for 1 minute.
+13 William exited the dining_room.
+14 Amelia, Liam, Oliver, Hannah and William entered the waiting_room.
+15 Oliver, Liam and Amelia entered the study.
+16 The turnip is in the red_cupboard.
+17 Oliver made no movements and stayed in the study for 1 minute.
+18 Oliver exited the study.
+19 Liam made no movements and stayed in the study for 1 minute.
+20 Liam exited the study.
+21 Amelia moved the turnip to the green_basket.
+22 William likes the blue_treasure_chest.
+23 Amelia exited the study.
+24 Oliver, Liam and Amelia entered the waiting_room.
+Question: Where does William think Hannah thinks Oliver thinks Amelia thinks the persimmon is?
+Answer: blue_envelope
+Choices: A. green_basket, B. red_cupboard, C. blue_drawer, D. green_bucket, E. blue_cupboard, F. blue_envelope, G. blue_pantry, H. red_container, I. green_bottle, J. green_treasure_chest, K. green_envelope, L. blue_treasure_chest, M. red_treasure_chest, N. blue_bathtub, O. blue_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

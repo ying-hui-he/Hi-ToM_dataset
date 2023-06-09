@@ -1,0 +1,24 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Lucas, Aiden, Aria, Mason and Olivia entered the playroom.
+2 The persimmon is in the green_pantry.
+3 Lucas moved the persimmon to the blue_treasure_chest.
+4 Lucas exited the playroom.
+5 Aiden made no movements and stayed in the playroom for 1 minute.
+6 Aiden exited the playroom.
+7 Aria made no movements and stayed in the playroom for 1 minute.
+8 Aria exited the playroom.
+9 Mason moved the persimmon to the green_crate.
+10 Mason exited the playroom.
+11 Olivia moved the persimmon to the green_pantry.
+12 Lucas dislikes the orange.
+13 Olivia exited the playroom.
+14 Mason lost his watch.
+15 Lucas, Aiden, Aria, Mason and Olivia entered the waiting_room.
+16 Aria privately told Lucas that the persimmon is in the red_drawer.
+17 Aiden privately told Mason that the persimmon is in the red_container.
+Question: Where does Aiden think Aria thinks Olivia thinks the persimmon is?
+Answer: blue_treasure_chest
+Choices: A. blue_envelope, B. red_treasure_chest, C. red_bottle, D. blue_pantry, E. blue_suitcase, F. red_drawer, G. green_pantry, H. green_crate, I. red_container, J. blue_treasure_chest, K. green_envelope, L. green_box, M. blue_container, N. green_basket, O. red_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Chloe, Liam, Aria, Ethan and Charlotte entered the porch.
+2 The peas is in the green_envelope.
+3 Chloe moved the peas to the blue_drawer.
+4 Chloe exited the porch.
+5 Liam moved the peas to the red_cupboard.
+6 Liam exited the porch.
+7 Aria moved the peas to the blue_bucket.
+8 Aria exited the porch.
+9 Ethan made no movements and stayed in the porch for 1 minute.
+10 Ethan exited the porch.
+11 Charlotte moved the peas to the green_envelope.
+12 Charlotte exited the porch.
+13 Chloe, Liam, Aria, Ethan and Charlotte entered the waiting_room.
+14 Aria publicly claimed that peas is in the green_envelope.
+15 Charlotte privately told Aria that the peas is in the blue_drawer.
+Question: Where does Ethan think Liam thinks Chloe thinks Aria thinks the peas is?
+Choices: A. blue_bathtub, B. blue_bottle, C. blue_pantry, D. green_basket, E. green_box, F. blue_envelope, G. red_pantry, H. blue_container, I. blue_box, J. green_bucket, K. blue_bucket, L. green_envelope, M. blue_drawer, N. red_cupboard, O. red_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

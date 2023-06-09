@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Jayden, Lily, Oliver, Jacob and Ava entered the pantry.
+2 The lime is in the green_suitcase.
+3 Jayden moved the lime to the green_drawer.
+4 Jayden exited the pantry.
+5 Lily made no movements and stayed in the pantry for 1 minute.
+6 Lily exited the pantry.
+7 Oliver moved the lime to the blue_container.
+8 Oliver exited the pantry.
+9 Jacob made no movements and stayed in the pantry for 1 minute.
+10 Jacob exited the pantry.
+11 Ava moved the lime to the green_suitcase.
+12 Ava exited the pantry.
+13 Jayden, Lily, Oliver, Jacob and Ava entered the waiting_room.
+14 Ava, Lily and Oliver entered the garage.
+15 Lily likes the green_box.
+16 The plum is in the red_pantry.
+17 Ava moved the plum to the green_treasure_chest.
+18 Ava exited the garage.
+19 Lily made no movements and stayed in the garage for 1 minute.
+20 Lily exited the garage.
+21 Oliver made no movements and stayed in the garage for 1 minute.
+22 Oliver exited the garage.
+23 Ava, Lily and Oliver entered the waiting_room.
+24 Lily privately told Oliver that the plum is in the green_box.
+25 Oliver privately told Jayden that the plum is in the green_treasure_chest.
+Question: Where does Oliver really think the lime is?
+Answer: blue_container
+Choices: A. green_crate, B. blue_bucket, C. green_pantry, D. blue_pantry, E. green_bucket, F. blue_envelope, G. red_pantry, H. green_box, I. blue_drawer, J. green_treasure_chest, K. blue_container, L. green_suitcase, M. green_drawer, N. green_envelope, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,34 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Oliver, Jacob, Liam, Ella and Elizabeth entered the bedroom.
+2 The broccoli is in the green_box.
+3 Oliver made no movements and stayed in the bedroom for 1 minute.
+4 Liam dislikes the persimmon.
+5 Oliver exited the bedroom.
+6 Jacob made no movements and stayed in the bedroom for 1 minute.
+7 Jacob exited the bedroom.
+8 Liam moved the broccoli to the green_treasure_chest.
+9 Liam exited the bedroom.
+10 Ella made no movements and stayed in the bedroom for 1 minute.
+11 Ella exited the bedroom.
+12 Elizabeth made no movements and stayed in the bedroom for 1 minute.
+13 Elizabeth exited the bedroom.
+14 Oliver, Jacob, Liam, Ella and Elizabeth entered the waiting_room.
+15 Oliver, Jacob and Ella entered the porch.
+16 The persimmon is in the red_cupboard.
+17 Oliver moved the persimmon to the red_envelope.
+18 Liam dislikes the broccoli.
+19 Oliver exited the porch.
+20 Jacob made no movements and stayed in the porch for 1 minute.
+21 Jacob exited the porch.
+22 Ella made no movements and stayed in the porch for 1 minute.
+23 Jacob dislikes the melon.
+24 Ella exited the porch.
+25 Jacob likes the green_bucket.
+26 Oliver, Jacob and Ella entered the waiting_room.
+27 Jacob publicly claimed that persimmon is in the red_envelope.
+28 Ella privately told Jacob that the persimmon is in the red_container.
+Question: Where is the broccoli really?
+Choices: A. blue_suitcase, B. red_cupboard, C. green_bucket, D. red_envelope, E. red_container, F. blue_bathtub, G. green_box, H. green_treasure_chest, I. green_drawer, J. blue_pantry, K. blue_container, L. green_pantry, M. blue_bucket, N. blue_envelope, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

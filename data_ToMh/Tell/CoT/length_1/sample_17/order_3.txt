@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Amelia, Hannah, Charlotte, Ethan and Isla entered the workshop.
+2 The green_pepper is in the blue_bathtub.
+3 Amelia moved the green_pepper to the green_drawer.
+4 Amelia exited the workshop.
+5 Hannah moved the green_pepper to the green_crate.
+6 Hannah exited the workshop.
+7 Charlotte moved the green_pepper to the red_bucket.
+8 Charlotte exited the workshop.
+9 Ethan moved the green_pepper to the green_suitcase.
+10 Ethan exited the workshop.
+11 Isla moved the green_pepper to the blue_bathtub.
+12 Isla exited the workshop.
+13 Amelia, Hannah, Charlotte, Ethan and Isla entered the waiting_room.
+14 Ethan publicly claimed that green_pepper is in the green_suitcase.
+15 Isla privately told Amelia that the green_pepper is in the blue_bathtub.
+Question: Where does Hannah think Charlotte thinks Ethan thinks the green_pepper is?
+Answer: green_drawer
+Choices: A. green_pantry, B. blue_container, C. red_bottle, D. green_bottle, E. green_bucket, F. red_cupboard, G. blue_treasure_chest, H. green_envelope, I. blue_box, J. green_box, K. green_suitcase, L. blue_bathtub, M. green_drawer, N. red_bucket, O. green_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

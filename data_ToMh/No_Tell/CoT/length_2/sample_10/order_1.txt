@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Chloe, Amelia, Jack, Owen and Aiden entered the study.
+2 The orange is in the red_cupboard.
+3 Chloe moved the orange to the blue_bucket.
+4 Aiden saw a mouse.
+5 Chloe exited the study.
+6 Amelia made no movements and stayed in the study for 1 minute.
+7 Amelia exited the study.
+8 Jack moved the orange to the green_bucket.
+9 Jack exited the study.
+10 Owen moved the orange to the blue_cupboard.
+11 Owen exited the study.
+12 Jack saw a cat.
+13 Aiden made no movements and stayed in the study for 1 minute.
+14 Aiden exited the study.
+15 Chloe, Amelia, Jack, Owen and Aiden entered the waiting_room.
+16 Aiden, Amelia and Owen entered the study.
+17 The orange is in the blue_cupboard.
+18 Aiden made no movements and stayed in the study for 1 minute.
+19 Aiden exited the study.
+20 Amelia moved the orange to the blue_bucket.
+21 Amelia exited the study.
+22 Owen made no movements and stayed in the study for 1 minute.
+23 Owen exited the study.
+24 Aiden, Amelia and Owen entered the waiting_room.
+Question: Where does Owen really think the orange is?
+Answer: blue_bucket
+Choices: A. red_cupboard, B. green_bucket, C. blue_cupboard, D. green_pantry, E. blue_bucket, F. blue_container, G. red_drawer, H. green_basket, I. green_drawer, J. blue_treasure_chest, K. blue_pantry, L. blue_suitcase, M. red_treasure_chest, N. red_bottle, O. red_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

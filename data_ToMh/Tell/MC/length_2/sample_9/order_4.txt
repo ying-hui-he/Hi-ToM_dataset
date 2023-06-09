@@ -1,0 +1,34 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Nathan, Jayden, Oliver, Sophia and Lucas entered the attic.
+2 The eggplant is in the blue_bucket.
+3 Nathan made no movements and stayed in the attic for 1 minute.
+4 Nathan exited the attic.
+5 Jayden moved the eggplant to the blue_suitcase.
+6 Jayden exited the attic.
+7 Oliver moved the eggplant to the red_envelope.
+8 Oliver exited the attic.
+9 Sophia moved the eggplant to the green_bathtub.
+10 Sophia saw a dog.
+11 Sophia exited the attic.
+12 Lucas moved the eggplant to the blue_bucket.
+13 Lucas exited the attic.
+14 Nathan, Jayden, Oliver, Sophia and Lucas entered the waiting_room.
+15 Nathan, Jayden and Oliver entered the workshop.
+16 The cherry is in the blue_container.
+17 Nathan moved the cherry to the red_container.
+18 Nathan exited the workshop.
+19 Jayden made no movements and stayed in the workshop for 1 minute.
+20 Lucas dislikes the lemon.
+21 Jayden exited the workshop.
+22 Oliver moved the cherry to the green_drawer.
+23 Oliver exited the workshop.
+24 Sophia dislikes the tangerine.
+25 Nathan, Jayden and Oliver entered the waiting_room.
+26 Oliver publicly claimed that cherry is in the red_bucket.
+27 Nathan privately told Oliver that the cherry is in the blue_box.
+Question: Where does Nathan think Sophia thinks Oliver thinks Lucas thinks the eggplant is?
+Answer: blue_bucket
+Choices: A. red_treasure_chest, B. blue_pantry, C. red_pantry, D. green_envelope, E. green_crate, F. red_bucket, G. blue_container, H. green_drawer, I. blue_box, J. red_container, K. blue_bucket, L. blue_suitcase, M. blue_cupboard, N. green_bathtub, O. red_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

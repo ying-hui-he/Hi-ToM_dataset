@@ -1,0 +1,29 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Charlotte, William, Olivia, Ella and Mason entered the den.
+2 The celery is in the green_envelope.
+3 Charlotte made no movements and stayed in the den for 1 minute.
+4 Charlotte exited the den.
+5 William moved the celery to the blue_treasure_chest.
+6 William exited the den.
+7 Olivia made no movements and stayed in the den for 1 minute.
+8 Ella likes the blue_treasure_chest.
+9 Olivia exited the den.
+10 Ella made no movements and stayed in the den for 1 minute.
+11 Ella exited the den.
+12 Mason made no movements and stayed in the den for 1 minute.
+13 Mason exited the den.
+14 Charlotte, William, Olivia, Ella and Mason entered the waiting_room.
+15 Olivia, Ella and Mason entered the den.
+16 The celery is in the blue_treasure_chest.
+17 Olivia moved the celery to the green_treasure_chest.
+18 Olivia exited the den.
+19 Ella made no movements and stayed in the den for 1 minute.
+20 Ella exited the den.
+21 Mason made no movements and stayed in the den for 1 minute.
+22 Mason exited the den.
+23 Olivia, Ella and Mason entered the waiting_room.
+Question: Where does William think Olivia thinks the celery is?
+Choices: A. blue_pantry, B. blue_suitcase, C. green_basket, D. blue_container, E. blue_cupboard, F. blue_treasure_chest, G. green_envelope, H. green_crate, I. blue_bottle, J. green_treasure_chest, K. red_bucket, L. blue_box, M. green_bottle, N. red_drawer, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

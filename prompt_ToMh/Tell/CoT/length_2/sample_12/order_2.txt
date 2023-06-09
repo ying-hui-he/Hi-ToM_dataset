@@ -1,0 +1,30 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Jackson, Owen, Isla, Aiden and Jacob entered the office.
+2 The potato is in the red_bucket.
+3 Jackson made no movements and stayed in the office for 1 minute.
+4 Jackson exited the office.
+5 Owen made no movements and stayed in the office for 1 minute.
+6 Owen exited the office.
+7 Isla made no movements and stayed in the office for 1 minute.
+8 Isla exited the office.
+9 Aiden moved the potato to the green_bucket.
+10 Aiden exited the office.
+11 Jacob made no movements and stayed in the office for 1 minute.
+12 Jacob exited the office.
+13 Jackson, Owen, Isla, Aiden and Jacob entered the waiting_room.
+14 Aiden, Jacob and Owen entered the lounge.
+15 The strawberry is in the green_box.
+16 Aiden moved the strawberry to the blue_drawer.
+17 Aiden exited the lounge.
+18 Jacob moved the strawberry to the green_treasure_chest.
+19 Jacob exited the lounge.
+20 Owen made no movements and stayed in the lounge for 1 minute.
+21 Owen exited the lounge.
+22 Aiden, Jacob and Owen entered the waiting_room.
+23 Aiden publicly claimed that strawberry is in the blue_bottle.
+24 Owen privately told Isla that the strawberry is in the green_treasure_chest.
+Question: Where does Isla think Owen thinks the potato is?
+Choices: A. red_bucket, B. green_basket, C. blue_treasure_chest, D. green_bathtub, E. green_bucket, F. blue_box, G. blue_envelope, H. blue_container, I. blue_bathtub, J. red_drawer, K. blue_cupboard, L. green_box, M. blue_bottle, N. blue_drawer, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

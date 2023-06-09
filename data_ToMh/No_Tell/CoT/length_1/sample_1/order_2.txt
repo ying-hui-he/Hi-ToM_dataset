@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 William, Evelyn, Nathan, Alexander and Charlotte entered the crawlspace.
+2 The peas is in the red_bucket.
+3 William moved the peas to the blue_envelope.
+4 William exited the crawlspace.
+5 Evelyn made no movements and stayed in the crawlspace for 1 minute.
+6 Evelyn exited the crawlspace.
+7 Nathan made no movements and stayed in the crawlspace for 1 minute.
+8 William lost his gloves.
+9 Nathan exited the crawlspace.
+10 Alexander made no movements and stayed in the crawlspace for 1 minute.
+11 Alexander exited the crawlspace.
+12 Charlotte moved the peas to the red_bucket.
+13 Charlotte exited the crawlspace.
+14 William, Evelyn, Nathan, Alexander and Charlotte entered the waiting_room.
+Question: Where does William think Charlotte thinks the peas is?
+Answer: red_bucket
+Choices: A. green_bathtub, B. red_drawer, C. blue_bottle, D. red_envelope, E. blue_container, F. blue_drawer, G. blue_treasure_chest, H. blue_cupboard, I. blue_bathtub, J. green_crate, K. red_bucket, L. red_treasure_chest, M. blue_envelope, N. green_pantry, O. blue_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

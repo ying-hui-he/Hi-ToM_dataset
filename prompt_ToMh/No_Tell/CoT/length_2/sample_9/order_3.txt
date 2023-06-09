@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Charlotte, Ava, Jack, Evelyn and Ethan entered the kitchen.
+2 The sweet_potato is in the green_drawer.
+3 Charlotte made no movements and stayed in the kitchen for 1 minute.
+4 Charlotte exited the kitchen.
+5 Ava moved the sweet_potato to the blue_box.
+6 Ava exited the kitchen.
+7 Jack moved the sweet_potato to the green_box.
+8 Jack exited the kitchen.
+9 Evelyn moved the sweet_potato to the red_bucket.
+10 Evelyn exited the kitchen.
+11 Ethan moved the sweet_potato to the green_drawer.
+12 Ethan exited the kitchen.
+13 Charlotte, Ava, Jack, Evelyn and Ethan entered the waiting_room.
+14 Charlotte lost his gloves.
+15 Evelyn, Charlotte and Ava entered the sunroom.
+16 The melon is in the red_envelope.
+17 Evelyn made no movements and stayed in the sunroom for 1 minute.
+18 Evelyn exited the sunroom.
+19 Charlotte moved the melon to the green_crate.
+20 Ethan lost his phone.
+21 Charlotte exited the sunroom.
+22 Ava made no movements and stayed in the sunroom for 1 minute.
+23 Ava exited the sunroom.
+24 Evelyn saw a dog.
+25 Evelyn, Charlotte and Ava entered the waiting_room.
+Question: Where does Ethan think Ava thinks Jack thinks the sweet_potato is?
+Choices: A. green_drawer, B. blue_envelope, C. green_box, D. blue_box, E. red_bucket, F. green_pantry, G. green_bucket, H. green_basket, I. blue_cupboard, J. blue_bucket, K. green_crate, L. red_envelope, M. red_treasure_chest, N. green_bathtub, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

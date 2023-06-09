@@ -1,0 +1,46 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ava, Aria, Evelyn, Lucas and Abigail entered the playroom.
+2 The cabbage is in the green_bathtub.
+3 Lucas saw a dog.
+4 Ava moved the cabbage to the green_bottle.
+5 Ava exited the playroom.
+6 Aria made no movements and stayed in the playroom for 1 minute.
+7 Aria exited the playroom.
+8 Evelyn moved the cabbage to the green_suitcase.
+9 Evelyn exited the playroom.
+10 Lucas moved the cabbage to the green_box.
+11 Lucas exited the playroom.
+12 Ava saw a dog.
+13 Abigail made no movements and stayed in the playroom for 1 minute.
+14 Abigail exited the playroom.
+15 Ava, Aria, Evelyn, Lucas and Abigail entered the waiting_room.
+16 Lucas publicly claimed that cabbage is in the green_bathtub.
+17 Abigail privately told Ava that the cabbage is in the green_box.
+18 Lucas, Abigail and Evelyn entered the hallway.
+19 The broccoli is in the red_bottle.
+20 Lucas made no movements and stayed in the hallway for 1 minute.
+21 Lucas exited the hallway.
+22 Abigail moved the broccoli to the red_treasure_chest.
+23 Abigail exited the hallway.
+24 Evelyn moved the broccoli to the red_container.
+25 Evelyn exited the hallway.
+26 Lucas, Abigail and Evelyn entered the waiting_room.
+27 Aria, Evelyn, Abigail and Ava entered the playroom.
+28 The cabbage is in the green_box.
+29 Aria made no movements and stayed in the playroom for 1 minute.
+30 Aria exited the playroom.
+31 Evelyn moved the cabbage to the green_bottle.
+32 Evelyn exited the playroom.
+33 Abigail made no movements and stayed in the playroom for 1 minute.
+34 Abigail exited the playroom.
+35 Ava moved the cabbage to the green_suitcase.
+36 Aria saw a monkey.
+37 Ava exited the playroom.
+38 Aria, Evelyn, Abigail and Ava entered the waiting_room.
+39 Evelyn publicly claimed that cabbage is in the green_drawer.
+40 Ava privately told Abigail that the cabbage is in the green_bottle.
+Question: Where does Ava think Lucas thinks the cabbage is?
+Choices: A. red_bottle, B. red_container, C. blue_container, D. red_treasure_chest, E. blue_cupboard, F. green_suitcase, G. green_bathtub, H. green_bottle, I. green_drawer, J. green_box, K. blue_bucket, L. blue_suitcase, M. green_bucket, N. red_drawer, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

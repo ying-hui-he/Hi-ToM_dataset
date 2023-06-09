@@ -1,0 +1,24 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 William likes the green_box.
+2 Lily, William, Owen, Mason and Charlotte entered the hallway.
+3 The green_pepper is in the blue_drawer.
+4 Lily moved the green_pepper to the blue_bathtub.
+5 Lily exited the hallway.
+6 William made no movements and stayed in the hallway for 1 minute.
+7 William exited the hallway.
+8 Owen made no movements and stayed in the hallway for 1 minute.
+9 Owen exited the hallway.
+10 Mason made no movements and stayed in the hallway for 1 minute.
+11 Mason exited the hallway.
+12 Charlotte moved the green_pepper to the blue_drawer.
+13 Charlotte exited the hallway.
+14 Lily, William, Owen, Mason and Charlotte entered the waiting_room.
+15 Owen privately told Lily that the green_pepper is in the green_treasure_chest.
+16 Lily lost his watch.
+17 William privately told Mason that the green_pepper is in the red_pantry.
+Question: Where is the green_pepper really?
+Answer: blue_drawer
+Choices: A. blue_drawer, B. red_pantry, C. blue_bathtub, D. green_treasure_chest, E. green_bottle, F. red_bucket, G. green_suitcase, H. blue_cupboard, I. blue_container, J. red_cupboard, K. green_pantry, L. red_envelope, M. green_crate, N. green_basket, O. green_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, James, Ethan, Mason and Oliver entered the crawlspace.
+2 The cherry is in the red_drawer.
+3 Ava moved the cherry to the green_bottle.
+4 Ava exited the crawlspace.
+5 James made no movements and stayed in the crawlspace for 1 minute.
+6 James exited the crawlspace.
+7 Ethan moved the cherry to the blue_bucket.
+8 Ethan exited the crawlspace.
+9 Mason made no movements and stayed in the crawlspace for 1 minute.
+10 Mason exited the crawlspace.
+11 Oliver made no movements and stayed in the crawlspace for 1 minute.
+12 Oliver exited the crawlspace.
+13 Ava, James, Ethan, Mason and Oliver entered the waiting_room.
+14 Mason, James and Oliver entered the living_room.
+15 Ava saw a dog.
+16 The broccoli is in the red_pantry.
+17 Ethan lost his phone.
+18 Mason moved the broccoli to the green_drawer.
+19 Mason exited the living_room.
+20 James made no movements and stayed in the living_room for 1 minute.
+21 James exited the living_room.
+22 Oliver moved the broccoli to the blue_bathtub.
+23 Oliver exited the living_room.
+24 Mason, James and Oliver entered the waiting_room.
+Question: Where does Mason think Ava thinks James thinks Oliver thinks the cherry is?
+Answer: red_drawer
+Choices: A. green_bathtub, B. blue_drawer, C. blue_container, D. green_treasure_chest, E. red_envelope, F. green_pantry, G. red_pantry, H. blue_bathtub, I. green_drawer, J. red_bottle, K. red_drawer, L. green_bottle, M. red_cupboard, N. green_bucket, O. blue_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

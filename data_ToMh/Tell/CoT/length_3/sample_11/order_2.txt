@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Lily, Elizabeth, Mason, Hannah and Nathan entered the TV_room.
+2 The peas is in the green_crate.
+3 Lily moved the peas to the blue_box.
+4 Lily exited the TV_room.
+5 Elizabeth moved the peas to the green_drawer.
+6 Elizabeth exited the TV_room.
+7 Mason made no movements and stayed in the TV_room for 1 minute.
+8 Mason exited the TV_room.
+9 Hannah made no movements and stayed in the TV_room for 1 minute.
+10 Hannah exited the TV_room.
+11 Nathan moved the peas to the green_crate.
+12 Nathan exited the TV_room.
+13 Lily, Elizabeth, Mason, Hannah and Nathan entered the waiting_room.
+14 Hannah publicly claimed that peas is in the green_drawer.
+15 Nathan privately told Lily that the peas is in the green_crate.
+16 Hannah, Nathan and Lily entered the TV_room.
+17 The peas is in the green_crate.
+18 Hannah made no movements and stayed in the TV_room for 1 minute.
+19 Hannah exited the TV_room.
+20 Nathan moved the peas to the blue_envelope.
+21 Nathan exited the TV_room.
+22 Lily made no movements and stayed in the TV_room for 1 minute.
+23 Lily exited the TV_room.
+24 Hannah, Nathan and Lily entered the waiting_room.
+25 Lily, Hannah, Nathan and Mason entered the office.
+26 The green_pepper is in the blue_pantry.
+27 Lily moved the green_pepper to the green_treasure_chest.
+28 Lily exited the office.
+29 Hannah moved the green_pepper to the blue_drawer.
+30 Hannah exited the office.
+31 Nathan made no movements and stayed in the office for 1 minute.
+32 Nathan exited the office.
+33 Mason made no movements and stayed in the office for 1 minute.
+34 Mason exited the office.
+35 Lily, Hannah, Nathan and Mason entered the waiting_room.
+36 Hannah publicly claimed that green_pepper is in the green_pantry.
+37 Mason privately told Nathan that the green_pepper is in the red_envelope.
+Question: Where does Mason think Nathan thinks the peas is?
+Answer: green_drawer
+Choices: A. blue_pantry, B. blue_drawer, C. green_pantry, D. red_envelope, E. green_treasure_chest, F. blue_bucket, G. green_basket, H. blue_bathtub, I. red_drawer, J. blue_suitcase, K. blue_box, L. green_crate, M. green_drawer, N. blue_treasure_chest, O. blue_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

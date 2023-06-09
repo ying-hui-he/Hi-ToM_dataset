@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Liam, Owen, Elizabeth, Jack and Alexander entered the crawlspace.
+2 The plum is in the blue_container.
+3 Liam made no movements and stayed in the crawlspace for 1 minute.
+4 Liam exited the crawlspace.
+5 Owen made no movements and stayed in the crawlspace for 1 minute.
+6 Owen exited the crawlspace.
+7 Elizabeth made no movements and stayed in the crawlspace for 1 minute.
+8 Elizabeth exited the crawlspace.
+9 Jack made no movements and stayed in the crawlspace for 1 minute.
+10 Jack exited the crawlspace.
+11 Alexander moved the plum to the blue_container.
+12 Owen dislikes the asparagus.
+13 Alexander exited the crawlspace.
+14 Liam, Owen, Elizabeth, Jack and Alexander entered the waiting_room.
+15 Jack publicly claimed that plum is in the red_envelope.
+16 Alexander privately told Liam that the plum is in the blue_container.
+Question: Where does Liam think Elizabeth thinks Alexander thinks the plum is?
+Choices: A. blue_suitcase, B. green_box, C. red_bottle, D. blue_bathtub, E. green_bottle, F. green_crate, G. blue_pantry, H. green_drawer, I. blue_envelope, J. green_bathtub, K. blue_container, L. green_bucket, M. green_pantry, N. red_envelope, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

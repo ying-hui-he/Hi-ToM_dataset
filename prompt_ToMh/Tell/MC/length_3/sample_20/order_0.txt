@@ -1,0 +1,50 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mia dislikes the beans.
+2 Oliver, Elizabeth, Mia, Jack and Jackson entered the garage.
+3 The potato is in the blue_container.
+4 Oliver moved the potato to the blue_suitcase.
+5 Oliver exited the garage.
+6 Elizabeth moved the potato to the red_bottle.
+7 Elizabeth exited the garage.
+8 Mia made no movements and stayed in the garage for 1 minute.
+9 Mia exited the garage.
+10 Jack moved the potato to the red_bucket.
+11 Jack exited the garage.
+12 Jackson made no movements and stayed in the garage for 1 minute.
+13 Jack saw a monkey.
+14 Jackson exited the garage.
+15 Jackson likes the red_envelope.
+16 Oliver, Elizabeth, Mia, Jack and Jackson entered the waiting_room.
+17 Mia privately told Oliver that the potato is in the red_bucket.
+18 Elizabeth privately told Jack that the potato is in the blue_container.
+19 Elizabeth dislikes the pumpkin.
+20 Jackson, Elizabeth and Jack entered the sunroom.
+21 Jackson lost his watch.
+22 The pumpkin is in the green_bottle.
+23 Mia saw a dog.
+24 Jackson made no movements and stayed in the sunroom for 1 minute.
+25 Jackson exited the sunroom.
+26 Elizabeth made no movements and stayed in the sunroom for 1 minute.
+27 Elizabeth exited the sunroom.
+28 Jack moved the pumpkin to the red_envelope.
+29 Jack exited the sunroom.
+30 Jackson, Elizabeth and Jack entered the waiting_room.
+31 Mia, Jack, Jackson and Oliver entered the sunroom.
+32 The pumpkin is in the red_envelope.
+33 Mia moved the pumpkin to the green_envelope.
+34 Mia exited the sunroom.
+35 Jack made no movements and stayed in the sunroom for 1 minute.
+36 Jackson dislikes the pumpkin.
+37 Jack exited the sunroom.
+38 Jackson moved the pumpkin to the green_bottle.
+39 Jackson exited the sunroom.
+40 Oliver made no movements and stayed in the sunroom for 1 minute.
+41 Oliver exited the sunroom.
+42 Mia, Jack, Jackson and Oliver entered the waiting_room.
+43 Jack privately told Jackson that the pumpkin is in the green_bottle.
+44 Oliver privately told Elizabeth that the pumpkin is in the green_bottle.
+Question: Where is the potato really?
+Choices: A. green_bottle, B. green_envelope, C. red_envelope, D. red_cupboard, E. green_bathtub, F. blue_pantry, G. green_crate, H. blue_bucket, I. green_suitcase, J. green_pantry, K. red_bottle, L. blue_container, M. red_bucket, N. blue_envelope, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

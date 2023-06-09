@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ava, Chloe, James, Alexander and Hannah entered the front_yard.
+2 The pineapple is in the red_cupboard.
+3 Ava moved the pineapple to the green_suitcase.
+4 Ava exited the front_yard.
+5 Chloe moved the pineapple to the blue_suitcase.
+6 Chloe exited the front_yard.
+7 James moved the pineapple to the green_crate.
+8 James exited the front_yard.
+9 Alexander made no movements and stayed in the front_yard for 1 minute.
+10 James dislikes the eggplant.
+11 Alexander exited the front_yard.
+12 Hannah moved the pineapple to the red_cupboard.
+13 Hannah exited the front_yard.
+14 Ava, Chloe, James, Alexander and Hannah entered the waiting_room.
+Question: Where does Chloe think James thinks Alexander thinks Hannah thinks the pineapple is?
+Choices: A. red_bucket, B. green_bathtub, C. blue_envelope, D. blue_bottle, E. red_drawer, F. red_pantry, G. blue_box, H. blue_drawer, I. green_bottle, J. blue_bucket, K. green_drawer, L. red_cupboard, M. green_suitcase, N. green_crate, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

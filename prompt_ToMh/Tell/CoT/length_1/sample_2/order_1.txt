@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Mia, Jayden, Ella, Liam and Olivia entered the hallway.
+2 The tangerine is in the red_container.
+3 Mia made no movements and stayed in the hallway for 1 minute.
+4 Mia exited the hallway.
+5 Jayden likes the red_treasure_chest.
+6 Jayden moved the tangerine to the blue_pantry.
+7 Jayden exited the hallway.
+8 Ella made no movements and stayed in the hallway for 1 minute.
+9 Ella exited the hallway.
+10 Liam moved the tangerine to the red_cupboard.
+11 Mia saw a monkey.
+12 Liam exited the hallway.
+13 Olivia made no movements and stayed in the hallway for 1 minute.
+14 Olivia exited the hallway.
+15 Mia, Jayden, Ella, Liam and Olivia entered the waiting_room.
+16 Ella publicly claimed that tangerine is in the blue_drawer.
+17 Olivia privately told Ella that the tangerine is in the blue_cupboard.
+Question: Where does Liam really think the tangerine is?
+Choices: A. green_treasure_chest, B. red_treasure_chest, C. blue_box, D. blue_bathtub, E. green_envelope, F. red_bucket, G. blue_container, H. red_envelope, I. red_bottle, J. blue_treasure_chest, K. red_cupboard, L. red_container, M. blue_pantry, N. blue_drawer, O. blue_cupboard
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

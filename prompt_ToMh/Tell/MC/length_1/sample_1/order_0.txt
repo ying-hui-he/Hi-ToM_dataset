@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Hannah, Isla, Abigail and Lily entered the lounge.
+2 The spinach is in the blue_box.
+3 Jack moved the spinach to the red_envelope.
+4 Lily likes the green_crate.
+5 Jack exited the lounge.
+6 Hannah made no movements and stayed in the lounge for 1 minute.
+7 Hannah exited the lounge.
+8 Isla moved the spinach to the green_treasure_chest.
+9 Isla exited the lounge.
+10 Abigail moved the spinach to the green_basket.
+11 Abigail exited the lounge.
+12 Lily made no movements and stayed in the lounge for 1 minute.
+13 Lily exited the lounge.
+14 Jack, Hannah, Isla, Abigail and Lily entered the waiting_room.
+15 Isla privately told Jack that the spinach is in the blue_pantry.
+16 Hannah privately told Abigail that the spinach is in the blue_box.
+Question: Where is the spinach really?
+Choices: A. green_pantry, B. blue_container, C. blue_cupboard, D. red_container, E. blue_bucket, F. blue_bathtub, G. green_crate, H. green_drawer, I. green_envelope, J. blue_drawer, K. blue_pantry, L. blue_box, M. green_basket, N. red_envelope, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

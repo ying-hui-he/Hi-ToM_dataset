@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Abigail lost his watch.
+2 Abigail, Evelyn, Chloe, Mia and Lucas entered the kitchen.
+3 The lettuce is in the green_pantry.
+4 Abigail made no movements and stayed in the kitchen for 1 minute.
+5 Abigail exited the kitchen.
+6 Mia lost his phone.
+7 Evelyn made no movements and stayed in the kitchen for 1 minute.
+8 Evelyn exited the kitchen.
+9 Chloe made no movements and stayed in the kitchen for 1 minute.
+10 Chloe exited the kitchen.
+11 Mia moved the lettuce to the red_drawer.
+12 Mia exited the kitchen.
+13 Lucas made no movements and stayed in the kitchen for 1 minute.
+14 Lucas exited the kitchen.
+15 Chloe likes the blue_bottle.
+16 Abigail, Evelyn, Chloe, Mia and Lucas entered the waiting_room.
+17 Lucas, Abigail and Mia entered the living_room.
+18 The pineapple is in the red_treasure_chest.
+19 Lucas moved the pineapple to the blue_pantry.
+20 Lucas exited the living_room.
+21 Abigail made no movements and stayed in the living_room for 1 minute.
+22 Abigail exited the living_room.
+23 Mia moved the pineapple to the green_bottle.
+24 Mia exited the living_room.
+25 Lucas, Abigail and Mia entered the waiting_room.
+Question: Where does Abigail think Chloe thinks Lucas thinks Evelyn thinks the lettuce is?
+Choices: A. green_envelope, B. green_box, C. green_bathtub, D. green_treasure_chest, E. blue_suitcase, F. red_treasure_chest, G. blue_bucket, H. blue_bottle, I. blue_pantry, J. green_bottle, K. red_cupboard, L. green_pantry, M. red_pantry, N. red_drawer, O. green_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

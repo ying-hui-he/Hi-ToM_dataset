@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Aria, Mason, Sophia, Ella and Mia entered the dining_room.
+2 The onion is in the green_pantry.
+3 Aria made no movements and stayed in the dining_room for 1 minute.
+4 Aria exited the dining_room.
+5 Mason made no movements and stayed in the dining_room for 1 minute.
+6 Mason exited the dining_room.
+7 Sophia made no movements and stayed in the dining_room for 1 minute.
+8 Sophia exited the dining_room.
+9 Ella made no movements and stayed in the dining_room for 1 minute.
+10 Ella exited the dining_room.
+11 Mia moved the onion to the green_pantry.
+12 Mia exited the dining_room.
+13 Aria, Mason, Sophia, Ella and Mia entered the waiting_room.
+Question: Where does Sophia think Mia thinks the onion is?
+Choices: A. green_crate, B. red_drawer, C. green_bucket, D. green_treasure_chest, E. blue_bucket, F. green_bottle, G. green_suitcase, H. green_bathtub, I. blue_container, J. green_envelope, K. green_pantry, L. blue_treasure_chest, M. red_container, N. green_basket, O. blue_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

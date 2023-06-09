@@ -1,0 +1,33 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella, Sophia, Chloe, Mason and Liam entered the living_room.
+2 The strawberry is in the blue_envelope.
+3 Ella moved the strawberry to the blue_pantry.
+4 Ella exited the living_room.
+5 Sophia made no movements and stayed in the living_room for 1 minute.
+6 Sophia exited the living_room.
+7 Chloe made no movements and stayed in the living_room for 1 minute.
+8 Chloe exited the living_room.
+9 Mason moved the strawberry to the green_bathtub.
+10 Mason likes the blue_cupboard.
+11 Mason exited the living_room.
+12 Liam moved the strawberry to the blue_envelope.
+13 Liam exited the living_room.
+14 Ella, Sophia, Chloe, Mason and Liam entered the waiting_room.
+15 Mason, Ella and Liam entered the living_room.
+16 The strawberry is in the blue_envelope.
+17 Mason made no movements and stayed in the living_room for 1 minute.
+18 Mason exited the living_room.
+19 Ella moved the strawberry to the green_treasure_chest.
+20 Ella exited the living_room.
+21 Mason dislikes the onion.
+22 Liam made no movements and stayed in the living_room for 1 minute.
+23 Liam exited the living_room.
+24 Mason, Ella and Liam entered the waiting_room.
+25 Mason publicly claimed that strawberry is in the green_treasure_chest.
+26 Sophia dislikes the onion.
+27 Liam privately told Sophia that the strawberry is in the green_treasure_chest.
+Question: Where is the strawberry really?
+Choices: A. blue_suitcase, B. red_envelope, C. green_envelope, D. blue_bucket, E. green_basket, F. green_treasure_chest, G. blue_envelope, H. blue_pantry, I. green_crate, J. green_bathtub, K. red_bucket, L. blue_cupboard, M. red_cupboard, N. green_bottle, O. blue_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

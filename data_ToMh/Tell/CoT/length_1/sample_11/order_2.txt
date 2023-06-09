@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Owen, Ethan, Evelyn, Chloe and Mason entered the front_yard.
+2 The tangerine is in the blue_envelope.
+3 Owen moved the tangerine to the green_basket.
+4 Owen exited the front_yard.
+5 Ethan moved the tangerine to the blue_suitcase.
+6 Ethan exited the front_yard.
+7 Evelyn made no movements and stayed in the front_yard for 1 minute.
+8 Evelyn exited the front_yard.
+9 Chloe made no movements and stayed in the front_yard for 1 minute.
+10 Chloe exited the front_yard.
+11 Mason made no movements and stayed in the front_yard for 1 minute.
+12 Mason exited the front_yard.
+13 Owen, Ethan, Evelyn, Chloe and Mason entered the waiting_room.
+14 Evelyn privately told Owen that the tangerine is in the blue_bathtub.
+15 Ethan privately told Chloe that the tangerine is in the green_basket.
+Question: Where does Ethan think Owen thinks the tangerine is?
+Answer: green_basket
+Choices: A. blue_envelope, B. blue_bathtub, C. blue_suitcase, D. green_basket, E. red_cupboard, F. blue_treasure_chest, G. blue_container, H. green_crate, I. green_drawer, J. green_bathtub, K. green_treasure_chest, L. green_envelope, M. red_pantry, N. red_bucket, O. green_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,44 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Lily, Hannah, Aria, Elizabeth and Evelyn entered the sunroom.
+2 The onion is in the red_bucket.
+3 Lily moved the onion to the blue_box.
+4 Lily exited the sunroom.
+5 Hannah moved the onion to the green_pantry.
+6 Hannah exited the sunroom.
+7 Aria moved the onion to the green_suitcase.
+8 Aria exited the sunroom.
+9 Elizabeth made no movements and stayed in the sunroom for 1 minute.
+10 Elizabeth exited the sunroom.
+11 Evelyn moved the onion to the red_bucket.
+12 Evelyn exited the sunroom.
+13 Lily, Hannah, Aria, Elizabeth and Evelyn entered the waiting_room.
+14 Aria publicly claimed that onion is in the green_pantry.
+15 Evelyn privately told Aria that the onion is in the red_bucket.
+16 Evelyn, Aria and Lily entered the study.
+17 The banana is in the blue_pantry.
+18 Evelyn made no movements and stayed in the study for 1 minute.
+19 Evelyn lost his watch.
+20 Evelyn exited the study.
+21 Aria moved the banana to the red_treasure_chest.
+22 Aria exited the study.
+23 Lily moved the banana to the blue_bottle.
+24 Lily exited the study.
+25 Evelyn, Aria and Lily entered the waiting_room.
+26 Evelyn, Elizabeth, Aria and Hannah entered the sunroom.
+27 The onion is in the red_bucket.
+28 Evelyn moved the onion to the green_pantry.
+29 Evelyn exited the sunroom.
+30 Elizabeth made no movements and stayed in the sunroom for 1 minute.
+31 Elizabeth exited the sunroom.
+32 Aria moved the onion to the green_bottle.
+33 Aria exited the sunroom.
+34 Hannah made no movements and stayed in the sunroom for 1 minute.
+35 Hannah exited the sunroom.
+36 Evelyn, Elizabeth, Aria and Hannah entered the waiting_room.
+37 Elizabeth privately told Aria that the onion is in the green_bottle.
+38 Hannah privately told Lily that the onion is in the green_bottle.
+Question: Where does Lily think Hannah thinks Aria thinks the onion is?
+Choices: A. green_pantry, B. red_bucket, C. blue_box, D. green_bottle, E. green_suitcase, F. red_treasure_chest, G. blue_pantry, H. blue_drawer, I. blue_bottle, J. green_treasure_chest, K. blue_bathtub, L. red_container, M. blue_suitcase, N. green_drawer, O. red_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

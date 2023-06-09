@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ava, Oliver, Charlotte, Alexander and Mason entered the sunroom.
+2 Ava likes the blue_treasure_chest.
+3 The corn is in the red_pantry.
+4 Ava moved the corn to the green_basket.
+5 Ava exited the sunroom.
+6 Oliver made no movements and stayed in the sunroom for 1 minute.
+7 Oliver exited the sunroom.
+8 Charlotte moved the corn to the green_bucket.
+9 Charlotte exited the sunroom.
+10 Alexander moved the corn to the green_box.
+11 Alexander exited the sunroom.
+12 Mason made no movements and stayed in the sunroom for 1 minute.
+13 Mason exited the sunroom.
+14 Ava, Oliver, Charlotte, Alexander and Mason entered the waiting_room.
+15 Mason, Alexander and Charlotte entered the front_yard.
+16 The onion is in the green_pantry.
+17 Mason moved the onion to the red_bottle.
+18 Mason exited the front_yard.
+19 Alexander moved the onion to the green_treasure_chest.
+20 Alexander exited the front_yard.
+21 Charlotte moved the onion to the blue_bottle.
+22 Charlotte exited the front_yard.
+23 Mason, Alexander and Charlotte entered the waiting_room.
+24 Oliver, Ava, Alexander and Charlotte entered the front_yard.
+25 The spinach is in the red_bottle.
+26 Oliver made no movements and stayed in the front_yard for 1 minute.
+27 Oliver exited the front_yard.
+28 Ava made no movements and stayed in the front_yard for 1 minute.
+29 Ava exited the front_yard.
+30 Ava saw a mouse.
+31 Alexander made no movements and stayed in the front_yard for 1 minute.
+32 Alexander exited the front_yard.
+33 Charlotte made no movements and stayed in the front_yard for 1 minute.
+34 Charlotte exited the front_yard.
+35 Oliver, Ava, Alexander and Charlotte entered the waiting_room.
+Question: Where does Charlotte think Ava thinks Alexander thinks Oliver thinks the corn is?
+Answer: red_pantry
+Choices: A. blue_container, B. green_crate, C. blue_envelope, D. blue_treasure_chest, E. red_bucket, F. red_bottle, G. green_pantry, H. green_treasure_chest, I. blue_bottle, J. blue_drawer, K. red_pantry, L. green_bucket, M. green_basket, N. green_suitcase, O. green_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

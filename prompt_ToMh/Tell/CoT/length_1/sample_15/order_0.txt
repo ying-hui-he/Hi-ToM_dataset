@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Liam, Evelyn, Charlotte, Ella and Jackson entered the hallway.
+2 The banana is in the red_pantry.
+3 Liam made no movements and stayed in the hallway for 1 minute.
+4 Liam exited the hallway.
+5 Evelyn moved the banana to the green_bucket.
+6 Evelyn exited the hallway.
+7 Charlotte moved the banana to the green_bottle.
+8 Charlotte exited the hallway.
+9 Ella moved the banana to the blue_bucket.
+10 Ella exited the hallway.
+11 Jackson made no movements and stayed in the hallway for 1 minute.
+12 Jackson exited the hallway.
+13 Liam, Evelyn, Charlotte, Ella and Jackson entered the waiting_room.
+14 Charlotte privately told Liam that the banana is in the red_pantry.
+15 Evelyn privately told Ella that the banana is in the green_bottle.
+Question: Where is the banana really?
+Choices: A. green_envelope, B. green_box, C. red_container, D. green_crate, E. blue_drawer, F. green_treasure_chest, G. blue_envelope, H. green_basket, I. green_drawer, J. blue_bottle, K. green_suitcase, L. red_pantry, M. green_bottle, N. blue_bucket, O. green_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

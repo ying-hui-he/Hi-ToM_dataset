@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Abigail dislikes the spinach.
+2 Hannah, Abigail, Owen, Evelyn and Charlotte entered the crawlspace.
+3 The lettuce is in the blue_pantry.
+4 Hannah moved the lettuce to the blue_bucket.
+5 Hannah exited the crawlspace.
+6 Abigail moved the lettuce to the blue_envelope.
+7 Abigail exited the crawlspace.
+8 Owen moved the lettuce to the red_treasure_chest.
+9 Hannah saw a dog.
+10 Owen exited the crawlspace.
+11 Evelyn made no movements and stayed in the crawlspace for 1 minute.
+12 Owen likes the green_suitcase.
+13 Evelyn exited the crawlspace.
+14 Charlotte moved the lettuce to the blue_pantry.
+15 Charlotte exited the crawlspace.
+16 Hannah, Abigail, Owen, Evelyn and Charlotte entered the waiting_room.
+Question: Where does Charlotte really think the lettuce is?
+Choices: A. green_crate, B. blue_container, C. red_bucket, D. green_bottle, E. blue_box, F. red_container, G. green_treasure_chest, H. green_drawer, I. blue_drawer, J. green_suitcase, K. red_treasure_chest, L. blue_pantry, M. blue_envelope, N. blue_bottle, O. blue_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

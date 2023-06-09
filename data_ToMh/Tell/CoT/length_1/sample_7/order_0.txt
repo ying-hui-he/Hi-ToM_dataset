@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 William, Ethan, Aiden, Jacob and Jackson entered the workshop.
+2 The lime is in the red_container.
+3 Ethan dislikes the cabbage.
+4 William made no movements and stayed in the workshop for 1 minute.
+5 William exited the workshop.
+6 Ethan made no movements and stayed in the workshop for 1 minute.
+7 Ethan exited the workshop.
+8 Aiden moved the lime to the red_treasure_chest.
+9 Aiden exited the workshop.
+10 Jacob moved the lime to the green_pantry.
+11 Jacob exited the workshop.
+12 Jackson made no movements and stayed in the workshop for 1 minute.
+13 Jackson exited the workshop.
+14 William, Ethan, Aiden, Jacob and Jackson entered the waiting_room.
+15 Jacob publicly claimed that lime is in the green_basket.
+16 Jackson privately told William that the lime is in the green_pantry.
+Question: Where is the lime really?
+Answer: green_pantry
+Choices: A. red_bucket, B. red_pantry, C. green_bucket, D. blue_cupboard, E. blue_bucket, F. red_container, G. green_box, H. red_treasure_chest, I. green_pantry, J. green_basket, K. blue_suitcase, L. green_envelope, M. green_crate, N. blue_drawer, O. green_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

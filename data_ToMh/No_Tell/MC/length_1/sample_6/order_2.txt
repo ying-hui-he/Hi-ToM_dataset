@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Ella, Amelia, Lucas, Jacob and Liam entered the bedroom.
+2 Liam likes the blue_pantry.
+3 The orange is in the green_treasure_chest.
+4 Ella moved the orange to the blue_cupboard.
+5 Ella exited the bedroom.
+6 Amelia made no movements and stayed in the bedroom for 1 minute.
+7 Amelia exited the bedroom.
+8 Lucas made no movements and stayed in the bedroom for 1 minute.
+9 Lucas exited the bedroom.
+10 Jacob made no movements and stayed in the bedroom for 1 minute.
+11 Jacob exited the bedroom.
+12 Liam made no movements and stayed in the bedroom for 1 minute.
+13 Liam exited the bedroom.
+14 Ella, Amelia, Lucas, Jacob and Liam entered the waiting_room.
+Question: Where does Lucas think Amelia thinks the orange is?
+Answer: green_treasure_chest
+Choices: A. green_treasure_chest, B. blue_envelope, C. blue_cupboard, D. blue_box, E. red_pantry, F. red_drawer, G. red_envelope, H. green_bathtub, I. green_suitcase, J. red_container, K. blue_pantry, L. blue_bucket, M. red_treasure_chest, N. green_box, O. green_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

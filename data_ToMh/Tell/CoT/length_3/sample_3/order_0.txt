@@ -1,0 +1,51 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Oliver, Abigail, William, Chloe and Aria entered the pantry.
+2 Oliver lost his gloves.
+3 The carrot is in the green_crate.
+4 Oliver moved the carrot to the blue_bottle.
+5 Abigail saw a dog.
+6 Oliver exited the pantry.
+7 Abigail moved the carrot to the red_drawer.
+8 Abigail exited the pantry.
+9 William made no movements and stayed in the pantry for 1 minute.
+10 William exited the pantry.
+11 Chloe moved the carrot to the red_envelope.
+12 Chloe exited the pantry.
+13 Aria made no movements and stayed in the pantry for 1 minute.
+14 Aria exited the pantry.
+15 Oliver, Abigail, William, Chloe and Aria entered the waiting_room.
+16 William publicly claimed that carrot is in the red_envelope.
+17 Aria privately told William that the carrot is in the green_treasure_chest.
+18 William, Aria and Abigail entered the master_bedroom.
+19 Aria lost his gloves.
+20 The tangerine is in the red_container.
+21 William moved the tangerine to the green_bottle.
+22 Aria likes the red_envelope.
+23 William exited the master_bedroom.
+24 Aria moved the tangerine to the blue_envelope.
+25 Aria exited the master_bedroom.
+26 Abigail made no movements and stayed in the master_bedroom for 1 minute.
+27 Abigail exited the master_bedroom.
+28 William, Aria and Abigail entered the waiting_room.
+29 Aria, Abigail, Chloe and William entered the master_bedroom.
+30 William dislikes the turnip.
+31 The turnip is in the blue_container.
+32 Aria moved the turnip to the red_bucket.
+33 Aria exited the master_bedroom.
+34 Abigail moved the turnip to the red_container.
+35 Abigail exited the master_bedroom.
+36 Chloe moved the turnip to the blue_envelope.
+37 Chloe exited the master_bedroom.
+38 William made no movements and stayed in the master_bedroom for 1 minute.
+39 William exited the master_bedroom.
+40 Aria, Abigail, Chloe and William entered the waiting_room.
+41 Aria likes the red_container.
+42 Abigail privately told Chloe that the turnip is in the green_bottle.
+43 William saw a monkey.
+44 William privately told Oliver that the turnip is in the blue_envelope.
+Question: Where is the carrot really?
+Answer: red_envelope
+Choices: A. green_treasure_chest, B. green_crate, C. red_drawer, D. blue_bottle, E. red_envelope, F. blue_treasure_chest, G. green_suitcase, H. blue_bucket, I. blue_box, J. green_bathtub, K. red_container, L. blue_container, M. green_bottle, N. blue_envelope, O. red_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

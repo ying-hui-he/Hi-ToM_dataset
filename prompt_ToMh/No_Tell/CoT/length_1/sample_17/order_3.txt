@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ethan, Evelyn, Jackson, Ava and Elizabeth entered the lounge.
+2 The plum is in the red_cupboard.
+3 Ava saw a cat.
+4 Ethan moved the plum to the green_bathtub.
+5 Ethan exited the lounge.
+6 Evelyn made no movements and stayed in the lounge for 1 minute.
+7 Evelyn exited the lounge.
+8 Jackson made no movements and stayed in the lounge for 1 minute.
+9 Jackson exited the lounge.
+10 Ava moved the plum to the blue_suitcase.
+11 Ava exited the lounge.
+12 Elizabeth made no movements and stayed in the lounge for 1 minute.
+13 Elizabeth exited the lounge.
+14 Jackson lost his gloves.
+15 Ethan, Evelyn, Jackson, Ava and Elizabeth entered the waiting_room.
+Question: Where does Evelyn think Elizabeth thinks Ava thinks the plum is?
+Choices: A. blue_drawer, B. green_envelope, C. red_pantry, D. green_bottle, E. green_drawer, F. green_bucket, G. red_cupboard, H. red_drawer, I. green_bathtub, J. blue_suitcase, K. green_basket, L. green_suitcase, M. green_box, N. red_treasure_chest, O. blue_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

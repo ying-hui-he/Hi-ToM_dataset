@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Charlotte dislikes the cabbage.
+2 Nathan, Owen, Charlotte, Abigail and Mia entered the attic.
+3 The beans is in the blue_bathtub.
+4 Nathan moved the beans to the red_bottle.
+5 Nathan exited the attic.
+6 Owen made no movements and stayed in the attic for 1 minute.
+7 Owen exited the attic.
+8 Charlotte made no movements and stayed in the attic for 1 minute.
+9 Charlotte exited the attic.
+10 Abigail made no movements and stayed in the attic for 1 minute.
+11 Abigail exited the attic.
+12 Mia made no movements and stayed in the attic for 1 minute.
+13 Mia exited the attic.
+14 Nathan, Owen, Charlotte, Abigail and Mia entered the waiting_room.
+15 Abigail, Owen and Nathan entered the attic.
+16 The beans is in the red_bottle.
+17 Abigail moved the beans to the green_drawer.
+18 Abigail exited the attic.
+19 Owen made no movements and stayed in the attic for 1 minute.
+20 Owen exited the attic.
+21 Nathan made no movements and stayed in the attic for 1 minute.
+22 Nathan exited the attic.
+23 Abigail, Owen and Nathan entered the waiting_room.
+24 Owen, Abigail, Mia and Charlotte entered the patio.
+25 The pumpkin is in the blue_suitcase.
+26 Owen made no movements and stayed in the patio for 1 minute.
+27 Owen exited the patio.
+28 Abigail made no movements and stayed in the patio for 1 minute.
+29 Abigail exited the patio.
+30 Mia dislikes the pumpkin.
+31 Mia moved the pumpkin to the blue_box.
+32 Mia exited the patio.
+33 Charlotte made no movements and stayed in the patio for 1 minute.
+34 Charlotte exited the patio.
+35 Abigail saw a mouse.
+36 Owen, Abigail, Mia and Charlotte entered the waiting_room.
+Question: Where does Owen think Abigail thinks Nathan thinks the beans is?
+Choices: A. blue_suitcase, B. green_basket, C. blue_box, D. red_pantry, E. red_bucket, F. blue_container, G. blue_bathtub, H. red_cupboard, I. green_drawer, J. red_bottle, K. red_treasure_chest, L. red_envelope, M. green_treasure_chest, N. blue_cupboard, O. blue_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

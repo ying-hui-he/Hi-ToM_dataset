@@ -1,0 +1,43 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Amelia, Isla, Ethan, Jack and Alexander entered the porch.
+2 The turnip is in the blue_bottle.
+3 Amelia moved the turnip to the green_bottle.
+4 Amelia exited the porch.
+5 Isla made no movements and stayed in the porch for 1 minute.
+6 Isla exited the porch.
+7 Ethan made no movements and stayed in the porch for 1 minute.
+8 Ethan exited the porch.
+9 Jack made no movements and stayed in the porch for 1 minute.
+10 Jack exited the porch.
+11 Alexander made no movements and stayed in the porch for 1 minute.
+12 Alexander exited the porch.
+13 Amelia, Isla, Ethan, Jack and Alexander entered the waiting_room.
+14 Alexander, Isla and Amelia entered the attic.
+15 The corn is in the green_drawer.
+16 Alexander moved the corn to the red_treasure_chest.
+17 Isla likes the blue_bottle.
+18 Alexander exited the attic.
+19 Isla moved the corn to the red_bucket.
+20 Isla exited the attic.
+21 Amelia made no movements and stayed in the attic for 1 minute.
+22 Amelia lost his gloves.
+23 Amelia exited the attic.
+24 Alexander, Isla and Amelia entered the waiting_room.
+25 Amelia, Ethan, Isla and Alexander entered the attic.
+26 The corn is in the red_bucket.
+27 Amelia made no movements and stayed in the attic for 1 minute.
+28 Amelia exited the attic.
+29 Ethan moved the corn to the green_drawer.
+30 Alexander saw a dog.
+31 Ethan exited the attic.
+32 Isla made no movements and stayed in the attic for 1 minute.
+33 Isla exited the attic.
+34 Alexander made no movements and stayed in the attic for 1 minute.
+35 Jack likes the red_cupboard.
+36 Alexander exited the attic.
+37 Amelia, Ethan, Isla and Alexander entered the waiting_room.
+Question: Where does Amelia think Ethan thinks Alexander thinks the turnip is?
+Choices: A. red_cupboard, B. blue_bottle, C. green_bottle, D. blue_drawer, E. green_suitcase, F. red_envelope, G. green_pantry, H. red_drawer, I. green_bathtub, J. green_box, K. blue_pantry, L. green_drawer, M. blue_bucket, N. red_bucket, O. red_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

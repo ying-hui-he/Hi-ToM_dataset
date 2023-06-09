@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jacob, William, Abigail, Lucas and Owen entered the lounge.
+2 The persimmon is in the blue_bucket.
+3 Jacob made no movements and stayed in the lounge for 1 minute.
+4 Jacob exited the lounge.
+5 William made no movements and stayed in the lounge for 1 minute.
+6 William exited the lounge.
+7 Lucas saw a cat.
+8 Abigail made no movements and stayed in the lounge for 1 minute.
+9 Abigail exited the lounge.
+10 Lucas made no movements and stayed in the lounge for 1 minute.
+11 Lucas exited the lounge.
+12 Owen moved the persimmon to the blue_bucket.
+13 Lucas lost his watch.
+14 Owen exited the lounge.
+15 Jacob, William, Abigail, Lucas and Owen entered the waiting_room.
+16 Jacob, Owen and Abigail entered the lounge.
+17 Owen likes the blue_bucket.
+18 The persimmon is in the blue_bucket.
+19 Jacob moved the persimmon to the red_envelope.
+20 Jacob exited the lounge.
+21 Owen made no movements and stayed in the lounge for 1 minute.
+22 Owen exited the lounge.
+23 Abigail moved the persimmon to the green_bathtub.
+24 Abigail exited the lounge.
+25 Jacob, Owen and Abigail entered the waiting_room.
+Question: Where does Owen really think the persimmon is?
+Answer: red_envelope
+Choices: A. red_envelope, B. blue_bucket, C. green_bathtub, D. red_treasure_chest, E. green_box, F. blue_box, G. red_pantry, H. blue_container, I. red_bottle, J. green_drawer, K. blue_bathtub, L. red_bucket, M. green_bottle, N. blue_envelope, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Alexander, Nathan, Aiden, Oliver and Amelia entered the den.
+2 The plum is in the red_pantry.
+3 Alexander moved the plum to the red_envelope.
+4 Alexander exited the den.
+5 Nathan moved the plum to the green_suitcase.
+6 Nathan exited the den.
+7 Aiden made no movements and stayed in the den for 1 minute.
+8 Aiden exited the den.
+9 Oliver moved the plum to the blue_bathtub.
+10 Oliver exited the den.
+11 Amelia made no movements and stayed in the den for 1 minute.
+12 Oliver saw a monkey.
+13 Amelia exited the den.
+14 Oliver saw a mouse.
+15 Alexander, Nathan, Aiden, Oliver and Amelia entered the waiting_room.
+16 Aiden privately told Alexander that the plum is in the blue_box.
+17 Nathan privately told Oliver that the plum is in the red_pantry.
+Question: Where is the plum really?
+Choices: A. blue_envelope, B. green_pantry, C. blue_container, D. red_cupboard, E. blue_pantry, F. red_pantry, G. red_envelope, H. green_suitcase, I. blue_bathtub, J. blue_box, K. blue_drawer, L. red_container, M. blue_treasure_chest, N. blue_bottle, O. green_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Olivia, Liam, Charlotte, James and Owen entered the dining_room.
+2 James lost his watch.
+3 The banana is in the green_bathtub.
+4 Olivia moved the banana to the green_box.
+5 Olivia exited the dining_room.
+6 Liam moved the banana to the blue_box.
+7 Owen saw a mouse.
+8 Liam exited the dining_room.
+9 Charlotte moved the banana to the red_cupboard.
+10 Charlotte exited the dining_room.
+11 James moved the banana to the green_basket.
+12 James exited the dining_room.
+13 Owen made no movements and stayed in the dining_room for 1 minute.
+14 Owen exited the dining_room.
+15 Olivia, Liam, Charlotte, James and Owen entered the waiting_room.
+16 Olivia, Charlotte and James entered the dining_room.
+17 The broccoli is in the green_basket.
+18 Olivia made no movements and stayed in the dining_room for 1 minute.
+19 Olivia exited the dining_room.
+20 Charlotte moved the broccoli to the green_box.
+21 Charlotte exited the dining_room.
+22 James made no movements and stayed in the dining_room for 1 minute.
+23 James exited the dining_room.
+24 Olivia, Charlotte and James entered the waiting_room.
+25 Charlotte privately told James that the broccoli is in the red_cupboard.
+26 James privately told Liam that the broccoli is in the green_box.
+Question: Where does Charlotte think Liam thinks Owen thinks Olivia thinks the banana is?
+Choices: A. blue_suitcase, B. green_suitcase, C. green_bucket, D. blue_treasure_chest, E. red_drawer, F. red_container, G. green_drawer, H. blue_bottle, I. blue_envelope, J. blue_bathtub, K. green_bathtub, L. green_basket, M. blue_box, N. green_box, O. red_cupboard
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

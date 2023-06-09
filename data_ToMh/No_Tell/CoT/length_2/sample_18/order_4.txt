@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 James, Amelia, Ella, Jack and Liam entered the lounge.
+2 The tangerine is in the green_envelope.
+3 James moved the tangerine to the blue_bathtub.
+4 James exited the lounge.
+5 Amelia moved the tangerine to the red_cupboard.
+6 James lost his watch.
+7 Amelia exited the lounge.
+8 Ella moved the tangerine to the green_bathtub.
+9 Ella exited the lounge.
+10 Jack moved the tangerine to the blue_bucket.
+11 Jack exited the lounge.
+12 Liam made no movements and stayed in the lounge for 1 minute.
+13 Liam exited the lounge.
+14 James, Amelia, Ella, Jack and Liam entered the waiting_room.
+15 Liam, Jack and Ella entered the lounge.
+16 The tangerine is in the blue_bucket.
+17 Ella likes the green_crate.
+18 Liam moved the tangerine to the green_envelope.
+19 Liam exited the lounge.
+20 James likes the green_bathtub.
+21 Jack made no movements and stayed in the lounge for 1 minute.
+22 Jack exited the lounge.
+23 Ella made no movements and stayed in the lounge for 1 minute.
+24 Ella exited the lounge.
+25 Liam, Jack and Ella entered the waiting_room.
+Question: Where does Jack think Ella thinks Amelia thinks James thinks the tangerine is?
+Answer: green_envelope
+Choices: A. green_crate, B. blue_suitcase, C. blue_container, D. green_treasure_chest, E. green_bucket, F. red_container, G. green_pantry, H. red_pantry, I. red_bottle, J. red_drawer, K. green_envelope, L. red_cupboard, M. green_bathtub, N. blue_bucket, O. blue_bathtub
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

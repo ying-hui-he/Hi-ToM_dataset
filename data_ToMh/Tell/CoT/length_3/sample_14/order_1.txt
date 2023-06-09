@@ -1,0 +1,49 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Mia, Ella, William, Evelyn and Ethan entered the den.
+2 The onion is in the green_envelope.
+3 Mia made no movements and stayed in the den for 1 minute.
+4 William likes the green_basket.
+5 Mia exited the den.
+6 Ella moved the onion to the green_crate.
+7 Ella exited the den.
+8 Evelyn lost his gloves.
+9 William made no movements and stayed in the den for 1 minute.
+10 William exited the den.
+11 Evelyn moved the onion to the green_basket.
+12 Evelyn exited the den.
+13 Ethan made no movements and stayed in the den for 1 minute.
+14 Ethan exited the den.
+15 Mia, Ella, William, Evelyn and Ethan entered the waiting_room.
+16 William publicly claimed that onion is in the blue_drawer.
+17 Ethan privately told William that the onion is in the red_drawer.
+18 Mia, William and Ethan entered the cellar.
+19 The grapefruit is in the blue_bathtub.
+20 Mia made no movements and stayed in the cellar for 1 minute.
+21 Mia exited the cellar.
+22 William made no movements and stayed in the cellar for 1 minute.
+23 William exited the cellar.
+24 Ethan made no movements and stayed in the cellar for 1 minute.
+25 Ethan exited the cellar.
+26 Mia, William and Ethan entered the waiting_room.
+27 Ella, Evelyn, William and Mia entered the cellar.
+28 The grapefruit is in the blue_bathtub.
+29 Ethan lost his phone.
+30 Ella made no movements and stayed in the cellar for 1 minute.
+31 Ella dislikes the lettuce.
+32 Ella exited the cellar.
+33 Evelyn made no movements and stayed in the cellar for 1 minute.
+34 Evelyn exited the cellar.
+35 William made no movements and stayed in the cellar for 1 minute.
+36 William exited the cellar.
+37 Ella likes the blue_bathtub.
+38 Mia made no movements and stayed in the cellar for 1 minute.
+39 Mia exited the cellar.
+40 Ella, Evelyn, William and Mia entered the waiting_room.
+41 William publicly claimed that grapefruit is in the blue_bottle.
+42 Ella privately told Mia that the grapefruit is in the red_bucket.
+Question: Where does William really think the onion is?
+Answer: red_drawer
+Choices: A. blue_suitcase, B. red_bottle, C. blue_pantry, D. green_bucket, E. blue_cupboard, F. blue_bathtub, G. blue_bottle, H. red_bucket, I. green_suitcase, J. green_box, K. red_drawer, L. green_envelope, M. green_basket, N. green_crate, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

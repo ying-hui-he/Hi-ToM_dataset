@@ -1,0 +1,29 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Oliver saw a dog.
+2 Mia, Elizabeth, Oliver, William and Hannah entered the hallway.
+3 The orange is in the blue_bathtub.
+4 Mia made no movements and stayed in the hallway for 1 minute.
+5 Mia exited the hallway.
+6 Elizabeth moved the orange to the blue_pantry.
+7 Elizabeth exited the hallway.
+8 Oliver moved the orange to the green_treasure_chest.
+9 Oliver exited the hallway.
+10 William moved the orange to the green_bottle.
+11 William exited the hallway.
+12 Hannah moved the orange to the blue_bathtub.
+13 Hannah exited the hallway.
+14 Mia, Elizabeth, Oliver, William and Hannah entered the waiting_room.
+15 Hannah, William and Mia entered the lounge.
+16 The celery is in the green_bucket.
+17 Hannah moved the celery to the green_drawer.
+18 Hannah exited the lounge.
+19 William made no movements and stayed in the lounge for 1 minute.
+20 William exited the lounge.
+21 Mia moved the celery to the red_pantry.
+22 Mia exited the lounge.
+23 Hannah, William and Mia entered the waiting_room.
+Question: Where does Hannah think William thinks Oliver thinks the orange is?
+Choices: A. green_envelope, B. blue_envelope, C. red_treasure_chest, D. blue_cupboard, E. blue_drawer, F. green_bucket, G. red_cupboard, H. blue_container, I. green_drawer, J. red_pantry, K. blue_bathtub, L. green_bottle, M. blue_pantry, N. green_treasure_chest, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

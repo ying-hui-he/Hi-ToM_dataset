@@ -1,0 +1,25 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Chloe, Owen, Isla, Evelyn and Jack entered the workshop.
+2 The persimmon is in the blue_container.
+3 Chloe moved the persimmon to the green_pantry.
+4 Chloe exited the workshop.
+5 Owen moved the persimmon to the blue_cupboard.
+6 Owen exited the workshop.
+7 Isla made no movements and stayed in the workshop for 1 minute.
+8 Isla exited the workshop.
+9 Chloe dislikes the cherry.
+10 Evelyn moved the persimmon to the red_pantry.
+11 Chloe dislikes the cherry.
+12 Evelyn exited the workshop.
+13 Jack moved the persimmon to the blue_container.
+14 Jack exited the workshop.
+15 Chloe lost his gloves.
+16 Chloe, Owen, Isla, Evelyn and Jack entered the waiting_room.
+17 Jack dislikes the cherry.
+18 Isla publicly claimed that persimmon is in the green_pantry.
+19 Jack privately told Isla that the persimmon is in the red_pantry.
+Question: Where does Jack really think the persimmon is?
+Choices: A. blue_envelope, B. green_suitcase, C. red_drawer, D. blue_box, E. blue_treasure_chest, F. green_bathtub, G. green_envelope, H. red_bottle, I. red_treasure_chest, J. blue_drawer, K. red_pantry, L. blue_container, M. blue_cupboard, N. green_pantry, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

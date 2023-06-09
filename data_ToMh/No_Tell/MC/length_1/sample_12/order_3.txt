@@ -1,0 +1,21 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Elizabeth, Charlotte, William, Jacob and Evelyn entered the bedroom.
+2 The carrot is in the blue_envelope.
+3 Elizabeth made no movements and stayed in the bedroom for 1 minute.
+4 Elizabeth exited the bedroom.
+5 Charlotte made no movements and stayed in the bedroom for 1 minute.
+6 Charlotte exited the bedroom.
+7 William moved the carrot to the blue_suitcase.
+8 William exited the bedroom.
+9 Jacob made no movements and stayed in the bedroom for 1 minute.
+10 Jacob exited the bedroom.
+11 Evelyn made no movements and stayed in the bedroom for 1 minute.
+12 Elizabeth likes the red_drawer.
+13 Evelyn exited the bedroom.
+14 Elizabeth, Charlotte, William, Jacob and Evelyn entered the waiting_room.
+Question: Where does William think Elizabeth thinks Jacob thinks the carrot is?
+Answer: blue_envelope
+Choices: A. green_bucket, B. blue_drawer, C. red_bottle, D. green_basket, E. green_suitcase, F. green_bottle, G. red_envelope, H. red_bucket, I. blue_pantry, J. green_crate, K. green_drawer, L. blue_envelope, M. red_drawer, N. blue_suitcase, O. green_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

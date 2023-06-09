@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Jacob, Sophia, Owen, William and Aria entered the hall.
+2 The cherry is in the blue_pantry.
+3 Aria likes the green_bucket.
+4 Jacob moved the cherry to the red_envelope.
+5 Jacob exited the hall.
+6 Sophia made no movements and stayed in the hall for 1 minute.
+7 Sophia exited the hall.
+8 Owen made no movements and stayed in the hall for 1 minute.
+9 Owen exited the hall.
+10 William made no movements and stayed in the hall for 1 minute.
+11 William exited the hall.
+12 Aria moved the cherry to the blue_pantry.
+13 Aria exited the hall.
+14 Jacob, Sophia, Owen, William and Aria entered the waiting_room.
+15 Owen saw a dog.
+16 William publicly claimed that cherry is in the blue_pantry.
+17 Aria privately told Jacob that the cherry is in the blue_pantry.
+Question: Where does William think Owen thinks the cherry is?
+Choices: A. blue_pantry, B. red_container, C. blue_bottle, D. blue_bucket, E. red_envelope, F. green_bucket, G. blue_drawer, H. green_pantry, I. blue_cupboard, J. green_envelope, K. green_bottle, L. green_basket, M. green_crate, N. red_bottle, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

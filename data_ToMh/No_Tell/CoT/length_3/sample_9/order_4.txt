@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Charlotte, Amelia, Alexander, Aria and Isla entered the patio.
+2 Aria dislikes the potato.
+3 The pumpkin is in the green_basket.
+4 Charlotte moved the pumpkin to the red_cupboard.
+5 Charlotte exited the patio.
+6 Amelia moved the pumpkin to the red_bottle.
+7 Amelia exited the patio.
+8 Alexander made no movements and stayed in the patio for 1 minute.
+9 Isla likes the red_bottle.
+10 Alexander exited the patio.
+11 Aria moved the pumpkin to the blue_pantry.
+12 Aria exited the patio.
+13 Isla made no movements and stayed in the patio for 1 minute.
+14 Isla saw a dog.
+15 Isla exited the patio.
+16 Charlotte, Amelia, Alexander, Aria and Isla entered the waiting_room.
+17 Amelia, Alexander and Aria entered the hall.
+18 The potato is in the red_container.
+19 Amelia moved the potato to the red_drawer.
+20 Amelia exited the hall.
+21 Alexander made no movements and stayed in the hall for 1 minute.
+22 Alexander exited the hall.
+23 Aria moved the potato to the blue_cupboard.
+24 Aria exited the hall.
+25 Amelia, Alexander and Aria entered the waiting_room.
+26 Alexander, Charlotte, Aria and Isla entered the hall.
+27 The potato is in the blue_cupboard.
+28 Isla saw a dog.
+29 Alexander made no movements and stayed in the hall for 1 minute.
+30 Alexander exited the hall.
+31 Charlotte moved the potato to the red_drawer.
+32 Charlotte exited the hall.
+33 Aria made no movements and stayed in the hall for 1 minute.
+34 Aria exited the hall.
+35 Isla lost his gloves.
+36 Isla made no movements and stayed in the hall for 1 minute.
+37 Isla exited the hall.
+38 Alexander, Charlotte, Aria and Isla entered the waiting_room.
+Question: Where does Charlotte think Amelia thinks Aria thinks Alexander thinks the pumpkin is?
+Answer: green_basket
+Choices: A. blue_pantry, B. green_basket, C. red_bottle, D. red_cupboard, E. red_bucket, F. blue_envelope, G. green_crate, H. green_bottle, I. red_pantry, J. green_drawer, K. red_container, L. blue_cupboard, M. green_envelope, N. blue_treasure_chest, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,48 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jacob, Mason, William, Isla and Liam entered the dining_room.
+2 The celery is in the red_treasure_chest.
+3 Jacob made no movements and stayed in the dining_room for 1 minute.
+4 Jacob exited the dining_room.
+5 Mason made no movements and stayed in the dining_room for 1 minute.
+6 Mason exited the dining_room.
+7 William dislikes the persimmon.
+8 William moved the celery to the red_bucket.
+9 William exited the dining_room.
+10 Isla made no movements and stayed in the dining_room for 1 minute.
+11 Isla exited the dining_room.
+12 Liam made no movements and stayed in the dining_room for 1 minute.
+13 Mason lost his gloves.
+14 Liam exited the dining_room.
+15 Jacob, Mason, William, Isla and Liam entered the waiting_room.
+16 William privately told Jacob that the celery is in the red_pantry.
+17 Mason privately told Isla that the celery is in the blue_cupboard.
+18 Isla, Liam and Mason entered the dining_room.
+19 Mason likes the red_envelope.
+20 The sweet_potato is in the blue_container.
+21 Isla moved the sweet_potato to the red_bucket.
+22 Isla exited the dining_room.
+23 Liam made no movements and stayed in the dining_room for 1 minute.
+24 Liam exited the dining_room.
+25 Mason moved the sweet_potato to the red_treasure_chest.
+26 Mason saw a dog.
+27 Mason exited the dining_room.
+28 Isla, Liam and Mason entered the waiting_room.
+29 Liam, Isla, Jacob and William entered the dining_room.
+30 The sweet_potato is in the red_treasure_chest.
+31 Liam moved the sweet_potato to the red_bucket.
+32 Liam exited the dining_room.
+33 Mason likes the red_envelope.
+34 Isla made no movements and stayed in the dining_room for 1 minute.
+35 Isla exited the dining_room.
+36 Jacob moved the sweet_potato to the red_pantry.
+37 Jacob exited the dining_room.
+38 William moved the sweet_potato to the blue_cupboard.
+39 William exited the dining_room.
+40 Liam, Isla, Jacob and William entered the waiting_room.
+41 Liam publicly claimed that sweet_potato is in the blue_cupboard.
+42 William privately told Mason that the sweet_potato is in the blue_cupboard.
+Question: Where does Isla think Mason thinks the celery is?
+Choices: A. blue_bottle, B. green_bathtub, C. blue_pantry, D. red_drawer, E. blue_treasure_chest, F. red_envelope, G. green_bottle, H. blue_suitcase, I. red_container, J. blue_envelope, K. blue_container, L. red_treasure_chest, M. red_pantry, N. blue_cupboard, O. red_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,47 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Lucas, Aria, Oliver, Ella and James entered the master_bedroom.
+2 The corn is in the blue_container.
+3 Lucas moved the corn to the red_pantry.
+4 Lucas exited the master_bedroom.
+5 Aria moved the corn to the green_drawer.
+6 Aria exited the master_bedroom.
+7 Oliver made no movements and stayed in the master_bedroom for 1 minute.
+8 Oliver exited the master_bedroom.
+9 Ella moved the corn to the green_pantry.
+10 Ella exited the master_bedroom.
+11 Ella likes the red_bucket.
+12 James moved the corn to the blue_container.
+13 James exited the master_bedroom.
+14 Lucas, Aria, Oliver, Ella and James entered the waiting_room.
+15 Oliver privately told Lucas that the corn is in the red_pantry.
+16 Aria privately told Ella that the corn is in the green_pantry.
+17 Lucas, Ella and Oliver entered the master_bedroom.
+18 The corn is in the blue_container.
+19 Lucas moved the corn to the green_treasure_chest.
+20 Lucas exited the master_bedroom.
+21 Ella moved the corn to the red_pantry.
+22 Ella exited the master_bedroom.
+23 Oliver made no movements and stayed in the master_bedroom for 1 minute.
+24 Oliver lost his watch.
+25 Oliver exited the master_bedroom.
+26 Lucas, Ella and Oliver entered the waiting_room.
+27 Aria, Oliver, Lucas and Ella entered the hall.
+28 Oliver saw a dog.
+29 The lemon is in the red_treasure_chest.
+30 Aria moved the lemon to the blue_drawer.
+31 Aria exited the hall.
+32 Oliver moved the lemon to the red_container.
+33 Oliver exited the hall.
+34 Lucas made no movements and stayed in the hall for 1 minute.
+35 Lucas exited the hall.
+36 Ella made no movements and stayed in the hall for 1 minute.
+37 Ella exited the hall.
+38 Aria, Oliver, Lucas and Ella entered the waiting_room.
+39 Oliver publicly claimed that lemon is in the red_container.
+40 Ella privately told Lucas that the lemon is in the blue_treasure_chest.
+Question: Where does Oliver think Aria thinks Ella thinks the corn is?
+Answer: blue_container
+Choices: A. red_envelope, B. green_box, C. green_bathtub, D. red_bucket, E. green_suitcase, F. blue_container, G. green_drawer, H. green_pantry, I. green_treasure_chest, J. red_pantry, K. red_treasure_chest, L. red_container, M. blue_box, N. blue_treasure_chest, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

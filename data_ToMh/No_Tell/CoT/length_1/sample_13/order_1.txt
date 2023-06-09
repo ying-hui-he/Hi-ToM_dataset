@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Olivia, Amelia, Oliver, Chloe and Lucas entered the closet.
+2 The plum is in the green_crate.
+3 Olivia made no movements and stayed in the closet for 1 minute.
+4 Olivia exited the closet.
+5 Amelia moved the plum to the blue_suitcase.
+6 Amelia exited the closet.
+7 Oliver made no movements and stayed in the closet for 1 minute.
+8 Oliver exited the closet.
+9 Chloe made no movements and stayed in the closet for 1 minute.
+10 Chloe exited the closet.
+11 Lucas moved the plum to the green_crate.
+12 Lucas exited the closet.
+13 Olivia, Amelia, Oliver, Chloe and Lucas entered the waiting_room.
+Question: Where does Oliver really think the plum is?
+Answer: blue_suitcase
+Choices: A. green_crate, B. blue_treasure_chest, C. blue_bucket, D. blue_suitcase, E. green_treasure_chest, F. green_bottle, G. green_pantry, H. blue_bottle, I. green_envelope, J. green_bucket, K. red_drawer, L. red_cupboard, M. green_box, N. green_bathtub, O. blue_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

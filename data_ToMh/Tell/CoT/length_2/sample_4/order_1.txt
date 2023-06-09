@@ -1,0 +1,36 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Charlotte, Ethan, William, Owen and Mia entered the dining_room.
+2 Owen lost his phone.
+3 The beans is in the green_suitcase.
+4 Charlotte made no movements and stayed in the dining_room for 1 minute.
+5 Charlotte likes the red_container.
+6 Charlotte exited the dining_room.
+7 Ethan made no movements and stayed in the dining_room for 1 minute.
+8 Ethan exited the dining_room.
+9 Mia dislikes the cherry.
+10 William moved the beans to the blue_suitcase.
+11 William exited the dining_room.
+12 Owen made no movements and stayed in the dining_room for 1 minute.
+13 Owen exited the dining_room.
+14 Mia moved the beans to the green_suitcase.
+15 Mia exited the dining_room.
+16 Charlotte, Ethan, William, Owen and Mia entered the waiting_room.
+17 Charlotte, Ethan and Mia entered the kitchen.
+18 Charlotte saw a cat.
+19 The grapefruit is in the green_basket.
+20 Charlotte moved the grapefruit to the blue_container.
+21 Charlotte exited the kitchen.
+22 Ethan made no movements and stayed in the kitchen for 1 minute.
+23 Ethan exited the kitchen.
+24 Mia lost his phone.
+25 Mia moved the grapefruit to the green_treasure_chest.
+26 Mia exited the kitchen.
+27 Charlotte, Ethan and Mia entered the waiting_room.
+28 Charlotte publicly claimed that grapefruit is in the green_treasure_chest.
+29 Mia privately told William that the grapefruit is in the green_treasure_chest.
+Question: Where does Owen really think the beans is?
+Answer: blue_suitcase
+Choices: A. red_bucket, B. green_basket, C. blue_container, D. red_pantry, E. green_treasure_chest, F. red_container, G. green_drawer, H. red_cupboard, I. blue_bathtub, J. blue_cupboard, K. green_suitcase, L. blue_suitcase, M. blue_box, N. blue_bottle, O. green_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

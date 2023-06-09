@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jacob, Amelia, William, Hannah and Abigail entered the garage.
+2 The persimmon is in the red_bucket.
+3 Jacob moved the persimmon to the green_suitcase.
+4 Jacob exited the garage.
+5 Amelia moved the persimmon to the blue_bathtub.
+6 Amelia exited the garage.
+7 William made no movements and stayed in the garage for 1 minute.
+8 Abigail saw a mouse.
+9 William exited the garage.
+10 Hannah moved the persimmon to the green_box.
+11 Hannah exited the garage.
+12 Abigail moved the persimmon to the red_bucket.
+13 Abigail exited the garage.
+14 Jacob, Amelia, William, Hannah and Abigail entered the waiting_room.
+15 William publicly claimed that persimmon is in the green_suitcase.
+16 Abigail privately told William that the persimmon is in the blue_bathtub.
+17 Abigail, Hannah and William entered the garage.
+18 The lime is in the green_suitcase.
+19 Abigail moved the lime to the green_box.
+20 Abigail exited the garage.
+21 Hannah moved the lime to the red_bucket.
+22 Hannah exited the garage.
+23 William made no movements and stayed in the garage for 1 minute.
+24 William exited the garage.
+25 Abigail, Hannah and William entered the waiting_room.
+26 Abigail, Hannah, William and Jacob entered the garage.
+27 The persimmon is in the red_bucket.
+28 Abigail made no movements and stayed in the garage for 1 minute.
+29 Abigail exited the garage.
+30 Hannah made no movements and stayed in the garage for 1 minute.
+31 Hannah exited the garage.
+32 William made no movements and stayed in the garage for 1 minute.
+33 William exited the garage.
+34 Jacob moved the persimmon to the red_treasure_chest.
+35 Jacob exited the garage.
+36 Abigail, Hannah, William and Jacob entered the waiting_room.
+37 Abigail publicly claimed that persimmon is in the green_suitcase.
+38 Jacob privately told Amelia that the persimmon is in the red_treasure_chest.
+Question: Where does William think Hannah thinks the persimmon is?
+Answer: red_bucket
+Choices: A. green_suitcase, B. red_bucket, C. blue_bathtub, D. green_box, E. red_treasure_chest, F. green_bathtub, G. blue_suitcase, H. red_envelope, I. green_drawer, J. green_bottle, K. green_pantry, L. blue_pantry, M. blue_bucket, N. green_envelope, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

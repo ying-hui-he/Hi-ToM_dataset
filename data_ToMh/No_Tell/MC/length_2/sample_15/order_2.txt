@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Nathan, Owen, James, Jacob and Ethan entered the pantry.
+2 The plum is in the red_bucket.
+3 Nathan made no movements and stayed in the pantry for 1 minute.
+4 Nathan exited the pantry.
+5 Ethan likes the red_drawer.
+6 Owen moved the plum to the red_pantry.
+7 Owen exited the pantry.
+8 James made no movements and stayed in the pantry for 1 minute.
+9 James exited the pantry.
+10 Jacob moved the plum to the blue_treasure_chest.
+11 Jacob exited the pantry.
+12 Ethan moved the plum to the red_bucket.
+13 Ethan exited the pantry.
+14 James saw a monkey.
+15 Nathan, Owen, James, Jacob and Ethan entered the waiting_room.
+16 James, Ethan and Jacob entered the pantry.
+17 The melon is in the green_envelope.
+18 James made no movements and stayed in the pantry for 1 minute.
+19 James exited the pantry.
+20 Ethan moved the melon to the green_box.
+21 Ethan exited the pantry.
+22 James likes the green_drawer.
+23 Jacob made no movements and stayed in the pantry for 1 minute.
+24 Jacob exited the pantry.
+25 James, Ethan and Jacob entered the waiting_room.
+Question: Where does James think Owen thinks the plum is?
+Answer: red_pantry
+Choices: A. red_treasure_chest, B. green_drawer, C. blue_box, D. green_basket, E. blue_bottle, F. green_suitcase, G. blue_bathtub, H. red_container, I. red_cupboard, J. red_drawer, K. red_bucket, L. green_envelope, M. red_pantry, N. green_box, O. blue_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

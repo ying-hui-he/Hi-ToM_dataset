@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aria, Sophia, Mason, Charlotte and Owen entered the garage.
+2 The radish is in the green_bathtub.
+3 Aria moved the radish to the blue_pantry.
+4 Aria exited the garage.
+5 Sophia moved the radish to the blue_bucket.
+6 Sophia exited the garage.
+7 Mason made no movements and stayed in the garage for 1 minute.
+8 Mason exited the garage.
+9 Charlotte moved the radish to the blue_bathtub.
+10 Charlotte exited the garage.
+11 Owen moved the radish to the green_bathtub.
+12 Owen exited the garage.
+13 Aria, Sophia, Mason, Charlotte and Owen entered the waiting_room.
+14 Sophia likes the green_drawer.
+15 Owen, Sophia and Charlotte entered the garage.
+16 Owen dislikes the plum.
+17 The spinach is in the blue_pantry.
+18 Owen lost his gloves.
+19 Owen made no movements and stayed in the garage for 1 minute.
+20 Charlotte dislikes the radish.
+21 Owen exited the garage.
+22 Sophia moved the spinach to the blue_bucket.
+23 Sophia exited the garage.
+24 Charlotte moved the spinach to the green_bathtub.
+25 Charlotte exited the garage.
+26 Owen, Sophia and Charlotte entered the waiting_room.
+27 Charlotte, Owen, Sophia and Aria entered the playroom.
+28 The melon is in the blue_box.
+29 Charlotte made no movements and stayed in the playroom for 1 minute.
+30 Mason saw a mouse.
+31 Charlotte exited the playroom.
+32 Aria dislikes the melon.
+33 Owen moved the melon to the red_container.
+34 Owen exited the playroom.
+35 Sophia moved the melon to the green_crate.
+36 Sophia exited the playroom.
+37 Aria made no movements and stayed in the playroom for 1 minute.
+38 Aria exited the playroom.
+39 Charlotte, Owen, Sophia and Aria entered the waiting_room.
+Question: Where does Mason think Owen thinks Sophia thinks the radish is?
+Choices: A. green_bathtub, B. blue_pantry, C. blue_bathtub, D. green_basket, E. blue_bucket, F. green_crate, G. blue_box, H. blue_envelope, I. blue_bottle, J. red_container, K. blue_suitcase, L. green_bucket, M. blue_treasure_chest, N. green_envelope, O. green_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

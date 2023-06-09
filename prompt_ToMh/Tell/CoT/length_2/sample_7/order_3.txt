@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Jayden, James, Mia, Liam and Owen entered the pantry.
+2 The beans is in the blue_suitcase.
+3 Mia dislikes the sweet_potato.
+4 Jayden made no movements and stayed in the pantry for 1 minute.
+5 Jayden exited the pantry.
+6 James made no movements and stayed in the pantry for 1 minute.
+7 James exited the pantry.
+8 Mia moved the beans to the green_basket.
+9 Mia exited the pantry.
+10 Liam made no movements and stayed in the pantry for 1 minute.
+11 Liam exited the pantry.
+12 Owen moved the beans to the blue_suitcase.
+13 Owen exited the pantry.
+14 Jayden, James, Mia, Liam and Owen entered the waiting_room.
+15 Liam, James and Owen entered the playroom.
+16 The sweet_potato is in the green_envelope.
+17 Liam moved the sweet_potato to the green_suitcase.
+18 Liam exited the playroom.
+19 James made no movements and stayed in the playroom for 1 minute.
+20 James exited the playroom.
+21 Owen moved the sweet_potato to the blue_drawer.
+22 Owen exited the playroom.
+23 Liam, James and Owen entered the waiting_room.
+24 James privately told Owen that the sweet_potato is in the green_envelope.
+25 Owen privately told Jayden that the sweet_potato is in the blue_drawer.
+Question: Where does Mia think Jayden thinks James thinks the beans is?
+Choices: A. blue_envelope, B. blue_bathtub, C. blue_bottle, D. blue_bucket, E. blue_box, F. green_envelope, G. green_crate, H. blue_drawer, I. green_suitcase, J. green_box, K. red_cupboard, L. blue_suitcase, M. green_basket, N. red_envelope, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

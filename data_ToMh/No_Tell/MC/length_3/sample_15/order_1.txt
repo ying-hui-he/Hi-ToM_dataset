@@ -1,0 +1,43 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Charlotte, Hannah, Ava, Ella and Aiden entered the back_yard.
+2 The cherry is in the green_drawer.
+3 Charlotte made no movements and stayed in the back_yard for 1 minute.
+4 Charlotte exited the back_yard.
+5 Hannah moved the cherry to the green_suitcase.
+6 Hannah exited the back_yard.
+7 Ava made no movements and stayed in the back_yard for 1 minute.
+8 Ava exited the back_yard.
+9 Ella moved the cherry to the red_bucket.
+10 Ella exited the back_yard.
+11 Aiden made no movements and stayed in the back_yard for 1 minute.
+12 Aiden exited the back_yard.
+13 Charlotte, Hannah, Ava, Ella and Aiden entered the waiting_room.
+14 Hannah, Charlotte and Ella entered the master_bedroom.
+15 The pumpkin is in the red_drawer.
+16 Hannah moved the pumpkin to the blue_envelope.
+17 Hannah exited the master_bedroom.
+18 Charlotte made no movements and stayed in the master_bedroom for 1 minute.
+19 Charlotte exited the master_bedroom.
+20 Ella made no movements and stayed in the master_bedroom for 1 minute.
+21 Ella exited the master_bedroom.
+22 Hannah, Charlotte and Ella entered the waiting_room.
+23 Aiden, Hannah, Charlotte and Ava entered the playroom.
+24 The corn is in the green_box.
+25 Aiden moved the corn to the blue_pantry.
+26 Aiden exited the playroom.
+27 Aiden saw a dog.
+28 Hannah made no movements and stayed in the playroom for 1 minute.
+29 Hannah lost his gloves.
+30 Hannah exited the playroom.
+31 Charlotte moved the corn to the blue_box.
+32 Charlotte exited the playroom.
+33 Ava made no movements and stayed in the playroom for 1 minute.
+34 Aiden dislikes the corn.
+35 Ava exited the playroom.
+36 Aiden, Hannah, Charlotte and Ava entered the waiting_room.
+Question: Where does Hannah really think the cherry is?
+Answer: green_suitcase
+Choices: A. red_envelope, B. red_drawer, C. green_treasure_chest, D. blue_envelope, E. blue_bathtub, F. green_drawer, G. green_pantry, H. red_bucket, I. green_suitcase, J. green_basket, K. blue_container, L. green_box, M. blue_treasure_chest, N. blue_box, O. blue_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Owen, Elizabeth, Oliver, Mason and Liam entered the hall.
+2 The beans is in the green_bottle.
+3 Owen made no movements and stayed in the hall for 1 minute.
+4 Owen exited the hall.
+5 Elizabeth moved the beans to the blue_drawer.
+6 Elizabeth exited the hall.
+7 Oliver made no movements and stayed in the hall for 1 minute.
+8 Oliver exited the hall.
+9 Mason made no movements and stayed in the hall for 1 minute.
+10 Mason exited the hall.
+11 Liam made no movements and stayed in the hall for 1 minute.
+12 Oliver likes the red_envelope.
+13 Liam exited the hall.
+14 Owen, Elizabeth, Oliver, Mason and Liam entered the waiting_room.
+15 Oliver saw a mouse.
+16 Oliver, Owen and Elizabeth entered the playroom.
+17 The banana is in the red_bucket.
+18 Oliver moved the banana to the green_box.
+19 Oliver exited the playroom.
+20 Owen made no movements and stayed in the playroom for 1 minute.
+21 Owen exited the playroom.
+22 Elizabeth moved the banana to the blue_bathtub.
+23 Elizabeth exited the playroom.
+24 Oliver, Owen and Elizabeth entered the waiting_room.
+25 Elizabeth, Liam, Owen and Oliver entered the playroom.
+26 The banana is in the blue_bathtub.
+27 Elizabeth made no movements and stayed in the playroom for 1 minute.
+28 Elizabeth exited the playroom.
+29 Liam moved the banana to the red_bucket.
+30 Liam exited the playroom.
+31 Owen made no movements and stayed in the playroom for 1 minute.
+32 Elizabeth likes the red_drawer.
+33 Owen exited the playroom.
+34 Oliver made no movements and stayed in the playroom for 1 minute.
+35 Oliver exited the playroom.
+36 Elizabeth, Liam, Owen and Oliver entered the waiting_room.
+Question: Where is the beans really?
+Choices: A. blue_bottle, B. green_basket, C. red_drawer, D. green_treasure_chest, E. blue_suitcase, F. green_envelope, G. green_bottle, H. blue_pantry, I. blue_drawer, J. green_bathtub, K. red_bucket, L. red_envelope, M. blue_box, N. blue_bathtub, O. green_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

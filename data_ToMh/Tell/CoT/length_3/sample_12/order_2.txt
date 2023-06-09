@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Lucas, James, Mia, Mason and Aria entered the bedroom.
+2 The persimmon is in the green_basket.
+3 Lucas moved the persimmon to the blue_suitcase.
+4 Lucas exited the bedroom.
+5 James made no movements and stayed in the bedroom for 1 minute.
+6 James exited the bedroom.
+7 Mia made no movements and stayed in the bedroom for 1 minute.
+8 Mia exited the bedroom.
+9 Mason moved the persimmon to the blue_bottle.
+10 Mason exited the bedroom.
+11 Aria moved the persimmon to the green_basket.
+12 Aria exited the bedroom.
+13 Lucas, James, Mia, Mason and Aria entered the waiting_room.
+14 Mia privately told Lucas that the persimmon is in the blue_suitcase.
+15 James privately told Mason that the persimmon is in the blue_bottle.
+16 Aria, James and Mia entered the study.
+17 The cabbage is in the blue_box.
+18 Aria made no movements and stayed in the study for 1 minute.
+19 Aria exited the study.
+20 James made no movements and stayed in the study for 1 minute.
+21 Lucas lost his phone.
+22 James exited the study.
+23 Mia moved the cabbage to the green_envelope.
+24 Mia exited the study.
+25 Aria, James and Mia entered the waiting_room.
+26 Mason, Mia, Aria and James entered the porch.
+27 The cherry is in the blue_bathtub.
+28 Mason moved the cherry to the green_pantry.
+29 Mason exited the porch.
+30 Mia made no movements and stayed in the porch for 1 minute.
+31 Mia exited the porch.
+32 Aria made no movements and stayed in the porch for 1 minute.
+33 Aria exited the porch.
+34 James made no movements and stayed in the porch for 1 minute.
+35 James exited the porch.
+36 Mason, Mia, Aria and James entered the waiting_room.
+37 Mia privately told Aria that the cherry is in the red_bottle.
+38 James privately told Lucas that the cherry is in the green_pantry.
+Question: Where does Aria think Mason thinks the persimmon is?
+Answer: blue_bottle
+Choices: A. blue_bathtub, B. green_bottle, C. green_pantry, D. red_bottle, E. red_bucket, F. green_envelope, G. blue_box, H. blue_envelope, I. blue_treasure_chest, J. blue_drawer, K. green_basket, L. blue_bottle, M. green_crate, N. blue_suitcase, O. blue_cupboard
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

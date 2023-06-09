@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Aiden, Isla, Alexander, Mia and Oliver entered the lounge.
+2 The onion is in the blue_pantry.
+3 Aiden made no movements and stayed in the lounge for 1 minute.
+4 Aiden exited the lounge.
+5 Isla made no movements and stayed in the lounge for 1 minute.
+6 Isla exited the lounge.
+7 Alexander moved the onion to the red_bucket.
+8 Alexander likes the green_suitcase.
+9 Alexander exited the lounge.
+10 Mia moved the onion to the blue_bucket.
+11 Isla lost his phone.
+12 Mia exited the lounge.
+13 Oliver made no movements and stayed in the lounge for 1 minute.
+14 Oliver exited the lounge.
+15 Aiden, Isla, Alexander, Mia and Oliver entered the waiting_room.
+16 Isla, Alexander and Mia entered the lounge.
+17 The turnip is in the blue_suitcase.
+18 Isla moved the turnip to the blue_bathtub.
+19 Isla exited the lounge.
+20 Alexander moved the turnip to the blue_pantry.
+21 Alexander exited the lounge.
+22 Mia made no movements and stayed in the lounge for 1 minute.
+23 Mia exited the lounge.
+24 Isla, Alexander and Mia entered the waiting_room.
+25 Isla, Alexander, Aiden and Mia entered the lounge.
+26 The onion is in the blue_bucket.
+27 Isla made no movements and stayed in the lounge for 1 minute.
+28 Isla exited the lounge.
+29 Alexander made no movements and stayed in the lounge for 1 minute.
+30 Alexander exited the lounge.
+31 Aiden moved the onion to the blue_bathtub.
+32 Oliver dislikes the broccoli.
+33 Aiden exited the lounge.
+34 Mia made no movements and stayed in the lounge for 1 minute.
+35 Mia exited the lounge.
+36 Isla, Alexander, Aiden and Mia entered the waiting_room.
+Question: Where does Alexander think Oliver thinks Aiden thinks Mia thinks the onion is?
+Choices: A. green_suitcase, B. green_box, C. red_drawer, D. red_bottle, E. green_bathtub, F. blue_pantry, G. blue_suitcase, H. blue_bathtub, I. blue_bucket, J. red_bucket, K. blue_container, L. blue_envelope, M. green_basket, N. green_drawer, O. green_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

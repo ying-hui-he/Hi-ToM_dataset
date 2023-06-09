@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Chloe, Evelyn, Ella, Alexander and Ava entered the TV_room.
+2 The spinach is in the green_treasure_chest.
+3 Chloe made no movements and stayed in the TV_room for 1 minute.
+4 Chloe exited the TV_room.
+5 Evelyn made no movements and stayed in the TV_room for 1 minute.
+6 Evelyn exited the TV_room.
+7 Ella moved the spinach to the green_pantry.
+8 Ella exited the TV_room.
+9 Alexander made no movements and stayed in the TV_room for 1 minute.
+10 Alexander exited the TV_room.
+11 Ava made no movements and stayed in the TV_room for 1 minute.
+12 Ava exited the TV_room.
+13 Chloe, Evelyn, Ella, Alexander and Ava entered the waiting_room.
+Question: Where does Evelyn think Chloe thinks Ella thinks Ava thinks the spinach is?
+Answer: green_treasure_chest
+Choices: A. red_drawer, B. green_suitcase, C. blue_treasure_chest, D. blue_drawer, E. green_envelope, F. green_treasure_chest, G. blue_bottle, H. blue_container, I. green_bottle, J. green_pantry, K. blue_bucket, L. green_bucket, M. blue_bathtub, N. green_box, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

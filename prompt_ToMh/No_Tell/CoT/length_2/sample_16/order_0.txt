@@ -1,0 +1,30 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Sophia, Hannah, Isla, Owen and Chloe entered the bedroom.
+2 The radish is in the blue_treasure_chest.
+3 Sophia made no movements and stayed in the bedroom for 1 minute.
+4 Sophia exited the bedroom.
+5 Hannah moved the radish to the blue_container.
+6 Hannah exited the bedroom.
+7 Isla moved the radish to the blue_envelope.
+8 Isla exited the bedroom.
+9 Owen made no movements and stayed in the bedroom for 1 minute.
+10 Owen exited the bedroom.
+11 Sophia likes the red_bottle.
+12 Chloe moved the radish to the blue_treasure_chest.
+13 Chloe exited the bedroom.
+14 Sophia, Hannah, Isla, Owen and Chloe entered the waiting_room.
+15 Owen, Hannah and Sophia entered the garden.
+16 The onion is in the green_basket.
+17 Owen moved the onion to the green_crate.
+18 Owen exited the garden.
+19 Hannah made no movements and stayed in the garden for 1 minute.
+20 Hannah exited the garden.
+21 Hannah lost his watch.
+22 Sophia moved the onion to the blue_drawer.
+23 Sophia exited the garden.
+24 Owen, Hannah and Sophia entered the waiting_room.
+Question: Where is the radish really?
+Choices: A. green_basket, B. green_box, C. green_crate, D. blue_box, E. blue_drawer, F. blue_treasure_chest, G. blue_container, H. blue_envelope, I. red_envelope, J. blue_cupboard, K. green_bucket, L. red_bucket, M. blue_suitcase, N. red_bottle, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ethan, Lucas, Owen, Abigail and Oliver entered the sunroom.
+2 The peas is in the red_container.
+3 Ethan moved the peas to the green_basket.
+4 Ethan exited the sunroom.
+5 Lucas made no movements and stayed in the sunroom for 1 minute.
+6 Lucas exited the sunroom.
+7 Owen made no movements and stayed in the sunroom for 1 minute.
+8 Owen exited the sunroom.
+9 Abigail made no movements and stayed in the sunroom for 1 minute.
+10 Abigail exited the sunroom.
+11 Oliver moved the peas to the red_container.
+12 Oliver exited the sunroom.
+13 Ethan, Lucas, Owen, Abigail and Oliver entered the waiting_room.
+Question: Where does Ethan think Lucas thinks Owen thinks Oliver thinks the peas is?
+Answer: red_container
+Choices: A. blue_bathtub, B. red_pantry, C. red_bottle, D. red_envelope, E. green_drawer, F. blue_envelope, G. red_container, H. green_basket, I. blue_pantry, J. green_bathtub, K. green_pantry, L. blue_cupboard, M. blue_treasure_chest, N. blue_bucket, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

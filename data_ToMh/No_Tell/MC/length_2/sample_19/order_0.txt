@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Abigail, Liam, Ava, Evelyn and Jayden entered the kitchen.
+2 The corn is in the blue_pantry.
+3 Abigail moved the corn to the red_envelope.
+4 Abigail exited the kitchen.
+5 Liam made no movements and stayed in the kitchen for 1 minute.
+6 Liam exited the kitchen.
+7 Ava made no movements and stayed in the kitchen for 1 minute.
+8 Ava exited the kitchen.
+9 Evelyn moved the corn to the red_bottle.
+10 Evelyn exited the kitchen.
+11 Jayden made no movements and stayed in the kitchen for 1 minute.
+12 Abigail likes the green_suitcase.
+13 Jayden exited the kitchen.
+14 Evelyn dislikes the eggplant.
+15 Abigail, Liam, Ava, Evelyn and Jayden entered the waiting_room.
+16 Evelyn, Jayden and Ava entered the kitchen.
+17 The pineapple is in the red_bottle.
+18 Evelyn made no movements and stayed in the kitchen for 1 minute.
+19 Evelyn exited the kitchen.
+20 Jayden made no movements and stayed in the kitchen for 1 minute.
+21 Jayden exited the kitchen.
+22 Ava moved the pineapple to the green_suitcase.
+23 Ava exited the kitchen.
+24 Jayden lost his gloves.
+25 Evelyn, Jayden and Ava entered the waiting_room.
+Question: Where is the corn really?
+Answer: red_bottle
+Choices: A. blue_bucket, B. blue_bottle, C. red_container, D. green_box, E. red_pantry, F. blue_container, G. red_cupboard, H. blue_bathtub, I. green_bottle, J. green_crate, K. red_bottle, L. blue_pantry, M. green_treasure_chest, N. green_suitcase, O. red_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

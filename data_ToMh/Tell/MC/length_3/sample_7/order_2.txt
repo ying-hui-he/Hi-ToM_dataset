@@ -1,0 +1,49 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Liam, Abigail, Ella, Ethan and James entered the closet.
+2 The spinach is in the blue_bottle.
+3 Liam made no movements and stayed in the closet for 1 minute.
+4 Liam exited the closet.
+5 Abigail moved the spinach to the green_box.
+6 Abigail lost his watch.
+7 Abigail exited the closet.
+8 Ella moved the spinach to the red_envelope.
+9 Ella exited the closet.
+10 Ethan made no movements and stayed in the closet for 1 minute.
+11 Ella lost his watch.
+12 Ethan exited the closet.
+13 James made no movements and stayed in the closet for 1 minute.
+14 James exited the closet.
+15 Liam, Abigail, Ella, Ethan and James entered the waiting_room.
+16 Ethan publicly claimed that spinach is in the blue_suitcase.
+17 James privately told Liam that the spinach is in the red_envelope.
+18 Liam, Ella and James entered the hall.
+19 Abigail lost his phone.
+20 The turnip is in the green_suitcase.
+21 Liam made no movements and stayed in the hall for 1 minute.
+22 Liam exited the hall.
+23 Ella moved the turnip to the blue_cupboard.
+24 Ella exited the hall.
+25 James made no movements and stayed in the hall for 1 minute.
+26 James exited the hall.
+27 Liam, Ella and James entered the waiting_room.
+28 Ella, Liam, Ethan and James entered the closet.
+29 Ethan lost his gloves.
+30 The lemon is in the green_box.
+31 Ella moved the lemon to the red_envelope.
+32 Ella exited the closet.
+33 Liam lost his gloves.
+34 Liam made no movements and stayed in the closet for 1 minute.
+35 Liam exited the closet.
+36 Ethan moved the lemon to the blue_bottle.
+37 Ethan exited the closet.
+38 James moved the lemon to the green_treasure_chest.
+39 James exited the closet.
+40 Ella, Liam, Ethan and James entered the waiting_room.
+41 Liam privately told Ethan that the lemon is in the green_box.
+42 James privately told Abigail that the lemon is in the green_treasure_chest.
+Question: Where does Ethan think Abigail thinks the spinach is?
+Answer: blue_suitcase
+Choices: A. green_suitcase, B. blue_cupboard, C. red_pantry, D. green_bathtub, E. green_bucket, F. blue_envelope, G. green_pantry, H. blue_container, I. red_bucket, J. blue_bucket, K. green_box, L. blue_bottle, M. blue_suitcase, N. red_envelope, O. green_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

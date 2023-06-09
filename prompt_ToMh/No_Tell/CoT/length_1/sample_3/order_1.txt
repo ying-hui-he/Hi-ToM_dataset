@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ava, Ella, Jayden, Chloe and Lily entered the staircase.
+2 The turnip is in the blue_pantry.
+3 Ella saw a cat.
+4 Ava moved the turnip to the green_envelope.
+5 Ava exited the staircase.
+6 Ella made no movements and stayed in the staircase for 1 minute.
+7 Ella exited the staircase.
+8 Jayden made no movements and stayed in the staircase for 1 minute.
+9 Jayden exited the staircase.
+10 Chloe made no movements and stayed in the staircase for 1 minute.
+11 Chloe exited the staircase.
+12 Lily made no movements and stayed in the staircase for 1 minute.
+13 Lily exited the staircase.
+14 Ava, Ella, Jayden, Chloe and Lily entered the waiting_room.
+Question: Where does Jayden really think the turnip is?
+Choices: A. blue_pantry, B. green_envelope, C. green_treasure_chest, D. red_cupboard, E. blue_box, F. red_treasure_chest, G. green_suitcase, H. green_crate, I. red_drawer, J. blue_drawer, K. red_pantry, L. green_bucket, M. blue_suitcase, N. red_bottle, O. blue_treasure_chest
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

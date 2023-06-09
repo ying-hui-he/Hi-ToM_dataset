@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aria, Evelyn, Olivia, Lucas and Lily entered the kitchen.
+2 The cabbage is in the red_treasure_chest.
+3 Aria moved the cabbage to the blue_cupboard.
+4 Aria exited the kitchen.
+5 Evelyn moved the cabbage to the blue_drawer.
+6 Aria lost his gloves.
+7 Evelyn exited the kitchen.
+8 Olivia moved the cabbage to the red_cupboard.
+9 Olivia exited the kitchen.
+10 Olivia lost his phone.
+11 Lucas moved the cabbage to the green_basket.
+12 Lucas exited the kitchen.
+13 Lily made no movements and stayed in the kitchen for 1 minute.
+14 Lily exited the kitchen.
+15 Aria, Evelyn, Olivia, Lucas and Lily entered the waiting_room.
+16 Lily, Lucas and Evelyn entered the garage.
+17 The pineapple is in the red_pantry.
+18 Lily moved the pineapple to the red_bottle.
+19 Lily exited the garage.
+20 Lucas made no movements and stayed in the garage for 1 minute.
+21 Lucas exited the garage.
+22 Evelyn made no movements and stayed in the garage for 1 minute.
+23 Evelyn exited the garage.
+24 Lily saw a monkey.
+25 Lily, Lucas and Evelyn entered the waiting_room.
+26 Olivia, Lily, Lucas and Evelyn entered the garage.
+27 The pineapple is in the red_bottle.
+28 Olivia made no movements and stayed in the garage for 1 minute.
+29 Olivia exited the garage.
+30 Lily made no movements and stayed in the garage for 1 minute.
+31 Lily exited the garage.
+32 Lucas made no movements and stayed in the garage for 1 minute.
+33 Lucas exited the garage.
+34 Evelyn made no movements and stayed in the garage for 1 minute.
+35 Evelyn exited the garage.
+36 Olivia, Lily, Lucas and Evelyn entered the waiting_room.
+Question: Where does Lucas think Evelyn thinks Olivia thinks the cabbage is?
+Choices: A. red_treasure_chest, B. red_cupboard, C. blue_drawer, D. blue_cupboard, E. green_basket, F. red_pantry, G. blue_envelope, H. green_bottle, I. red_envelope, J. red_bottle, K. green_bucket, L. blue_pantry, M. blue_bucket, N. green_envelope, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isla, Oliver, Aiden, Hannah and Charlotte entered the bedroom.
+2 The broccoli is in the green_bucket.
+3 Aiden lost his watch.
+4 Isla moved the broccoli to the green_bathtub.
+5 Isla exited the bedroom.
+6 Oliver moved the broccoli to the green_bottle.
+7 Oliver exited the bedroom.
+8 Aiden made no movements and stayed in the bedroom for 1 minute.
+9 Aiden exited the bedroom.
+10 Oliver saw a dog.
+11 Hannah made no movements and stayed in the bedroom for 1 minute.
+12 Hannah exited the bedroom.
+13 Charlotte moved the broccoli to the green_bucket.
+14 Charlotte exited the bedroom.
+15 Isla, Oliver, Aiden, Hannah and Charlotte entered the waiting_room.
+16 Charlotte, Hannah and Oliver entered the pantry.
+17 The potato is in the red_cupboard.
+18 Oliver lost his gloves.
+19 Charlotte made no movements and stayed in the pantry for 1 minute.
+20 Charlotte exited the pantry.
+21 Hannah made no movements and stayed in the pantry for 1 minute.
+22 Hannah exited the pantry.
+23 Oliver made no movements and stayed in the pantry for 1 minute.
+24 Oliver exited the pantry.
+25 Charlotte, Hannah and Oliver entered the waiting_room.
+Question: Where does Isla think Hannah thinks Aiden thinks Charlotte thinks the broccoli is?
+Answer: green_bucket
+Choices: A. red_pantry, B. red_cupboard, C. blue_cupboard, D. blue_container, E. blue_pantry, F. green_bathtub, G. green_bucket, H. green_bottle, I. green_envelope, J. red_drawer, K. red_bottle, L. red_treasure_chest, M. green_suitcase, N. green_box, O. blue_bathtub
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

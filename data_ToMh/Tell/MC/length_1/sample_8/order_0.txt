@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Nathan, Aiden, Amelia, Ella and Aria entered the back_yard.
+2 The beans is in the red_bucket.
+3 Nathan made no movements and stayed in the back_yard for 1 minute.
+4 Nathan exited the back_yard.
+5 Aiden made no movements and stayed in the back_yard for 1 minute.
+6 Aiden exited the back_yard.
+7 Amelia moved the beans to the blue_envelope.
+8 Ella dislikes the lime.
+9 Amelia exited the back_yard.
+10 Ella moved the beans to the green_drawer.
+11 Ella exited the back_yard.
+12 Aria made no movements and stayed in the back_yard for 1 minute.
+13 Aria exited the back_yard.
+14 Nathan, Aiden, Amelia, Ella and Aria entered the waiting_room.
+15 Ella publicly claimed that beans is in the blue_bottle.
+16 Aria privately told Nathan that the beans is in the green_drawer.
+Question: Where is the beans really?
+Answer: green_drawer
+Choices: A. blue_pantry, B. blue_container, C. green_bottle, D. green_envelope, E. blue_suitcase, F. green_bathtub, G. blue_drawer, H. blue_bucket, I. green_crate, J. blue_cupboard, K. blue_bottle, L. red_bucket, M. green_drawer, N. green_box, O. blue_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

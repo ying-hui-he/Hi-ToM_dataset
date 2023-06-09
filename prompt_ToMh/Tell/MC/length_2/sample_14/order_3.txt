@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Sophia, Jayden, Aiden, Ella and Mason entered the back_yard.
+2 The beans is in the red_treasure_chest.
+3 Sophia made no movements and stayed in the back_yard for 1 minute.
+4 Sophia exited the back_yard.
+5 Jayden moved the beans to the red_bucket.
+6 Jayden exited the back_yard.
+7 Aiden likes the blue_bathtub.
+8 Aiden moved the beans to the green_bottle.
+9 Aiden exited the back_yard.
+10 Ella made no movements and stayed in the back_yard for 1 minute.
+11 Ella exited the back_yard.
+12 Mason made no movements and stayed in the back_yard for 1 minute.
+13 Aiden likes the red_treasure_chest.
+14 Mason exited the back_yard.
+15 Sophia, Jayden, Aiden, Ella and Mason entered the waiting_room.
+16 Ella, Aiden and Mason entered the master_bedroom.
+17 The persimmon is in the blue_envelope.
+18 Ella moved the persimmon to the blue_drawer.
+19 Ella exited the master_bedroom.
+20 Aiden moved the persimmon to the blue_treasure_chest.
+21 Aiden exited the master_bedroom.
+22 Mason moved the persimmon to the green_bathtub.
+23 Mason exited the master_bedroom.
+24 Ella, Aiden and Mason entered the waiting_room.
+25 Aiden privately told Mason that the persimmon is in the green_bathtub.
+26 Mason privately told Jayden that the persimmon is in the green_bathtub.
+Question: Where does Ella think Sophia thinks Jayden thinks the beans is?
+Choices: A. blue_envelope, B. blue_treasure_chest, C. green_bathtub, D. blue_bathtub, E. blue_drawer, F. red_bucket, G. red_treasure_chest, H. blue_cupboard, I. blue_bucket, J. green_bottle, K. green_envelope, L. green_basket, M. blue_suitcase, N. green_crate, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,45 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Owen, Aria, James, Nathan and Hannah entered the dining_room.
+2 The peas is in the blue_suitcase.
+3 Owen made no movements and stayed in the dining_room for 1 minute.
+4 Owen exited the dining_room.
+5 Aria made no movements and stayed in the dining_room for 1 minute.
+6 Aria exited the dining_room.
+7 James made no movements and stayed in the dining_room for 1 minute.
+8 James exited the dining_room.
+9 Nathan moved the peas to the blue_bucket.
+10 Nathan exited the dining_room.
+11 Hannah moved the peas to the blue_suitcase.
+12 Hannah exited the dining_room.
+13 Owen, Aria, James, Nathan and Hannah entered the waiting_room.
+14 Nathan publicly claimed that peas is in the blue_suitcase.
+15 Hannah privately told Owen that the peas is in the blue_suitcase.
+16 Owen, Nathan and Aria entered the bedroom.
+17 The radish is in the blue_treasure_chest.
+18 Owen moved the radish to the green_drawer.
+19 Owen exited the bedroom.
+20 Aria lost his phone.
+21 Nathan made no movements and stayed in the bedroom for 1 minute.
+22 Nathan exited the bedroom.
+23 Aria made no movements and stayed in the bedroom for 1 minute.
+24 Aria exited the bedroom.
+25 Owen, Nathan and Aria entered the waiting_room.
+26 Nathan, Owen, Hannah and James entered the porch.
+27 The persimmon is in the green_bottle.
+28 Nathan moved the persimmon to the green_basket.
+29 Nathan exited the porch.
+30 Owen made no movements and stayed in the porch for 1 minute.
+31 Owen exited the porch.
+32 Hannah moved the persimmon to the green_treasure_chest.
+33 Hannah exited the porch.
+34 James moved the persimmon to the green_pantry.
+35 James exited the porch.
+36 Nathan, Owen, Hannah and James entered the waiting_room.
+37 Hannah publicly claimed that persimmon is in the green_treasure_chest.
+38 Nathan privately told James that the persimmon is in the red_envelope.
+Question: Where does Hannah think Nathan thinks Owen thinks the peas is?
+Answer: blue_suitcase
+Choices: A. green_bottle, B. green_pantry, C. red_envelope, D. green_basket, E. green_treasure_chest, F. blue_pantry, G. blue_treasure_chest, H. blue_envelope, I. green_drawer, J. blue_drawer, K. blue_suitcase, L. green_envelope, M. green_suitcase, N. blue_bucket, O. green_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

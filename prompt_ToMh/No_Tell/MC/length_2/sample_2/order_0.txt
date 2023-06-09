@@ -1,0 +1,29 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Abigail, Alexander, Lucas, Oliver and Aiden entered the office.
+2 The corn is in the green_drawer.
+3 Abigail moved the corn to the blue_cupboard.
+4 Abigail exited the office.
+5 Alexander made no movements and stayed in the office for 1 minute.
+6 Alexander exited the office.
+7 Lucas moved the corn to the red_pantry.
+8 Lucas exited the office.
+9 Oliver moved the corn to the blue_suitcase.
+10 Oliver exited the office.
+11 Aiden moved the corn to the green_drawer.
+12 Aiden exited the office.
+13 Abigail, Alexander, Lucas, Oliver and Aiden entered the waiting_room.
+14 Aiden, Alexander and Oliver entered the sunroom.
+15 The persimmon is in the green_treasure_chest.
+16 Lucas dislikes the pineapple.
+17 Aiden moved the persimmon to the green_crate.
+18 Aiden exited the sunroom.
+19 Alexander made no movements and stayed in the sunroom for 1 minute.
+20 Alexander exited the sunroom.
+21 Oliver moved the persimmon to the green_envelope.
+22 Oliver exited the sunroom.
+23 Aiden, Alexander and Oliver entered the waiting_room.
+Question: Where is the corn really?
+Choices: A. blue_suitcase, B. green_drawer, C. red_pantry, D. green_pantry, E. blue_cupboard, F. green_bucket, G. green_basket, H. green_suitcase, I. blue_pantry, J. red_treasure_chest, K. red_drawer, L. green_treasure_chest, M. green_crate, N. blue_bucket, O. green_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

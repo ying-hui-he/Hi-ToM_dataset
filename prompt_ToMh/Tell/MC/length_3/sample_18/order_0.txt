@@ -1,0 +1,50 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Jack, Lucas, Abigail, Elizabeth and Mia entered the closet.
+2 Lucas likes the green_drawer.
+3 The corn is in the blue_bottle.
+4 Jack made no movements and stayed in the closet for 1 minute.
+5 Jack exited the closet.
+6 Lucas made no movements and stayed in the closet for 1 minute.
+7 Lucas exited the closet.
+8 Mia lost his watch.
+9 Abigail moved the corn to the blue_treasure_chest.
+10 Abigail exited the closet.
+11 Elizabeth moved the corn to the blue_bucket.
+12 Lucas lost his gloves.
+13 Elizabeth exited the closet.
+14 Lucas lost his watch.
+15 Mia made no movements and stayed in the closet for 1 minute.
+16 Mia exited the closet.
+17 Mia likes the red_bottle.
+18 Jack, Lucas, Abigail, Elizabeth and Mia entered the waiting_room.
+19 Abigail privately told Jack that the corn is in the blue_bottle.
+20 Lucas privately told Elizabeth that the corn is in the blue_bucket.
+21 Abigail, Elizabeth and Jack entered the staircase.
+22 The asparagus is in the blue_drawer.
+23 Abigail made no movements and stayed in the staircase for 1 minute.
+24 Abigail exited the staircase.
+25 Elizabeth dislikes the spinach.
+26 Elizabeth moved the asparagus to the blue_envelope.
+27 Elizabeth exited the staircase.
+28 Jack moved the asparagus to the blue_bathtub.
+29 Jack exited the staircase.
+30 Abigail, Elizabeth and Jack entered the waiting_room.
+31 Abigail, Mia, Jack and Elizabeth entered the staircase.
+32 The lettuce is in the blue_bathtub.
+33 Abigail moved the lettuce to the red_drawer.
+34 Abigail exited the staircase.
+35 Mia moved the lettuce to the blue_drawer.
+36 Mia exited the staircase.
+37 Jack moved the lettuce to the red_bottle.
+38 Jack exited the staircase.
+39 Elizabeth moved the lettuce to the blue_envelope.
+40 Elizabeth exited the staircase.
+41 Lucas likes the red_bottle.
+42 Abigail, Mia, Jack and Elizabeth entered the waiting_room.
+43 Mia privately told Jack that the lettuce is in the blue_drawer.
+44 Elizabeth privately told Lucas that the lettuce is in the blue_envelope.
+Question: Where is the corn really?
+Choices: A. blue_bottle, B. blue_treasure_chest, C. blue_box, D. blue_bucket, E. green_basket, F. green_suitcase, G. green_bathtub, H. green_drawer, I. green_envelope, J. green_box, K. blue_bathtub, L. blue_drawer, M. red_bottle, N. blue_envelope, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

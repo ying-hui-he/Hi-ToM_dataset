@@ -1,0 +1,33 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Olivia, Isla, Elizabeth, Charlotte and Jackson entered the dining_room.
+2 The carrot is in the green_bottle.
+3 Olivia moved the carrot to the red_pantry.
+4 Olivia exited the dining_room.
+5 Isla moved the carrot to the green_bathtub.
+6 Isla exited the dining_room.
+7 Elizabeth made no movements and stayed in the dining_room for 1 minute.
+8 Elizabeth exited the dining_room.
+9 Charlotte moved the carrot to the red_cupboard.
+10 Charlotte dislikes the orange.
+11 Charlotte exited the dining_room.
+12 Jackson made no movements and stayed in the dining_room for 1 minute.
+13 Jackson exited the dining_room.
+14 Olivia, Isla, Elizabeth, Charlotte and Jackson entered the waiting_room.
+15 Isla, Jackson and Charlotte entered the dining_room.
+16 The carrot is in the red_cupboard.
+17 Isla moved the carrot to the red_pantry.
+18 Olivia lost his watch.
+19 Isla exited the dining_room.
+20 Jackson made no movements and stayed in the dining_room for 1 minute.
+21 Jackson exited the dining_room.
+22 Charlotte moved the carrot to the green_bottle.
+23 Charlotte exited the dining_room.
+24 Isla, Jackson and Charlotte entered the waiting_room.
+25 Isla publicly claimed that carrot is in the green_bottle.
+26 Charlotte saw a dog.
+27 Charlotte privately told Elizabeth that the carrot is in the green_bottle.
+Question: Where does Elizabeth think Olivia thinks Charlotte thinks Jackson thinks the carrot is?
+Choices: A. green_bucket, B. blue_drawer, C. green_crate, D. blue_cupboard, E. red_drawer, F. blue_bathtub, G. green_bottle, H. red_cupboard, I. green_bathtub, J. red_pantry, K. green_envelope, L. blue_container, M. green_treasure_chest, N. red_envelope, O. blue_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

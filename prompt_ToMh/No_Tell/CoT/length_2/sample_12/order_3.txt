@@ -1,0 +1,29 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Nathan, Olivia, Jayden, Mia and Aiden entered the back_yard.
+2 The eggplant is in the red_cupboard.
+3 Nathan moved the eggplant to the green_bathtub.
+4 Nathan exited the back_yard.
+5 Olivia moved the eggplant to the red_bucket.
+6 Olivia exited the back_yard.
+7 Olivia lost his watch.
+8 Jayden made no movements and stayed in the back_yard for 1 minute.
+9 Jayden exited the back_yard.
+10 Mia moved the eggplant to the green_box.
+11 Mia exited the back_yard.
+12 Aiden moved the eggplant to the red_cupboard.
+13 Aiden exited the back_yard.
+14 Nathan, Olivia, Jayden, Mia and Aiden entered the waiting_room.
+15 Jayden, Mia and Nathan entered the living_room.
+16 The pineapple is in the green_bottle.
+17 Jayden moved the pineapple to the red_container.
+18 Jayden exited the living_room.
+19 Mia moved the pineapple to the green_pantry.
+20 Mia exited the living_room.
+21 Nathan moved the pineapple to the red_pantry.
+22 Nathan exited the living_room.
+23 Jayden, Mia and Nathan entered the waiting_room.
+Question: Where does Jayden think Aiden thinks Olivia thinks the eggplant is?
+Choices: A. green_bottle, B. red_container, C. green_pantry, D. green_envelope, E. red_pantry, F. blue_treasure_chest, G. blue_drawer, H. blue_bathtub, I. blue_bottle, J. green_treasure_chest, K. red_cupboard, L. green_box, M. red_bucket, N. blue_cupboard, O. green_bathtub
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

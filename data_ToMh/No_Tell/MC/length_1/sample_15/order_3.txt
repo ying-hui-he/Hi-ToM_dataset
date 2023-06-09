@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Charlotte, Hannah, Ava, Mason and Evelyn entered the bedroom.
+2 The lime is in the red_bucket.
+3 Charlotte moved the lime to the green_bottle.
+4 Charlotte exited the bedroom.
+5 Hannah made no movements and stayed in the bedroom for 1 minute.
+6 Hannah exited the bedroom.
+7 Ava made no movements and stayed in the bedroom for 1 minute.
+8 Ava exited the bedroom.
+9 Mason moved the lime to the green_bucket.
+10 Mason exited the bedroom.
+11 Evelyn moved the lime to the red_bucket.
+12 Evelyn exited the bedroom.
+13 Charlotte, Hannah, Ava, Mason and Evelyn entered the waiting_room.
+Question: Where does Evelyn think Mason thinks Hannah thinks the lime is?
+Answer: red_bucket
+Choices: A. red_bucket, B. green_bucket, C. green_bottle, D. red_cupboard, E. green_drawer, F. blue_pantry, G. blue_cupboard, H. blue_container, I. green_envelope, J. red_drawer, K. red_envelope, L. blue_drawer, M. green_box, N. green_crate, O. green_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Aiden, Jack, James, Lucas and Jacob entered the living_room.
+2 The carrot is in the blue_drawer.
+3 Aiden moved the carrot to the red_envelope.
+4 Aiden exited the living_room.
+5 Jack moved the carrot to the blue_envelope.
+6 Jack exited the living_room.
+7 Lucas saw a mouse.
+8 James made no movements and stayed in the living_room for 1 minute.
+9 Jack lost his phone.
+10 James exited the living_room.
+11 Lucas moved the carrot to the red_cupboard.
+12 Lucas exited the living_room.
+13 Jacob made no movements and stayed in the living_room for 1 minute.
+14 Jacob exited the living_room.
+15 Aiden, Jack, James, Lucas and Jacob entered the waiting_room.
+Question: Where does Jacob really think the carrot is?
+Answer: red_cupboard
+Choices: A. blue_bathtub, B. blue_pantry, C. green_suitcase, D. red_container, E. blue_box, F. blue_drawer, G. red_cupboard, H. red_envelope, I. red_pantry, J. blue_envelope, K. red_treasure_chest, L. green_bucket, M. green_box, N. green_treasure_chest, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

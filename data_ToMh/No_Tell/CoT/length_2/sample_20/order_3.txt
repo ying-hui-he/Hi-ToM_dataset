@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Oliver, Charlotte, Ethan, Abigail and Isla entered the TV_room.
+2 The celery is in the green_suitcase.
+3 Oliver made no movements and stayed in the TV_room for 1 minute.
+4 Oliver exited the TV_room.
+5 Abigail dislikes the cabbage.
+6 Charlotte made no movements and stayed in the TV_room for 1 minute.
+7 Charlotte exited the TV_room.
+8 Oliver dislikes the turnip.
+9 Ethan moved the celery to the red_pantry.
+10 Ethan exited the TV_room.
+11 Ethan dislikes the cabbage.
+12 Abigail made no movements and stayed in the TV_room for 1 minute.
+13 Abigail exited the TV_room.
+14 Isla made no movements and stayed in the TV_room for 1 minute.
+15 Isla exited the TV_room.
+16 Oliver, Charlotte, Ethan, Abigail and Isla entered the waiting_room.
+17 Oliver, Ethan and Charlotte entered the cellar.
+18 The cabbage is in the blue_bottle.
+19 Oliver moved the cabbage to the red_treasure_chest.
+20 Oliver exited the cellar.
+21 Ethan moved the cabbage to the red_cupboard.
+22 Ethan exited the cellar.
+23 Charlotte made no movements and stayed in the cellar for 1 minute.
+24 Charlotte exited the cellar.
+25 Oliver, Ethan and Charlotte entered the waiting_room.
+Question: Where does Abigail think Oliver thinks Isla thinks the celery is?
+Answer: green_suitcase
+Choices: A. blue_bottle, B. green_treasure_chest, C. red_cupboard, D. blue_pantry, E. red_treasure_chest, F. blue_container, G. green_suitcase, H. blue_box, I. blue_bathtub, J. red_pantry, K. blue_envelope, L. blue_bucket, M. blue_drawer, N. red_container, O. red_envelope
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
