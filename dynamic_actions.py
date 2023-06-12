@@ -150,18 +150,24 @@ class ObjectLocAction(Action):
             oracle.set_first_belief(observer, obj, container)
 
         # set second beliefs
-        for observer1, observer2 in combinations(observers, 2):
-            oracle.set_second_belief(observer1, observer2, obj, container)
+        if len(observers) >= 2:
+            for observer1, observer2 in combinations(observers, 2):
+                oracle.set_second_belief(observer1, observer2, obj, container)
+                oracle.set_second_belief(observer2, observer1, obj, container)
 
         # set third beliefs
-        for observer1, observer2, observer3 in combinations(observers, 3):
-            oracle.set_third_belief(
-                observer1, observer2, observer3, obj, container)
+        if len(observers) >= 3:
+            for chosen_observers in combinations(observers, 3):
+                for observer1, observer2, observer3 in permutations(chosen_observers):
+                    oracle.set_third_belief(
+                        observer1, observer2, observer3, obj, container)
 
         # set fourth beliefs
-        for observer1, observer2, observer3, observer4 in combinations(observers, 4):
-            oracle.set_fourth_belief(
-                observer1, observer2, observer3, observer4, obj, container)
+        if len(observers) >= 4:
+            for chosen_observers in combinations(observers, 4):
+                for observer1, observer2, observer3, observer4 in permutations(chosen_observers):
+                        oracle.set_fourth_belief(
+                            observer1, observer2, observer3, observer4, obj, container)
         super().__init__(templates)
 
 
@@ -209,18 +215,24 @@ class MoveAction(Action):
                 oracle.set_first_belief(observer, obj, container)
 
             # set second beliefs
-            for observer1, observer2 in combinations(observers, 2):
-                oracle.set_second_belief(observer1, observer2, obj, container)
+            if len(observers) >= 2:
+                for observer1, observer2 in combinations(observers, 2):
+                    oracle.set_second_belief(observer1, observer2, obj, container)
+                    oracle.set_second_belief(observer2, observer1, obj, container)
 
             # set third beliefs
-            for observer1, observer2, observer3 in combinations(observers, 3):
-                oracle.set_third_belief(
-                    observer1, observer2, observer3, obj, container)
+            if len(observers) >= 3:
+                for chosen_observers in combinations(observers, 3):
+                    for observer1, observer2, observer3 in permutations(chosen_observers):
+                        oracle.set_third_belief(
+                            observer1, observer2, observer3, obj, container)
 
             # set fourth beliefs
-            for observer1, observer2, observer3, observer4 in combinations(observers, 4):
-                oracle.set_fourth_belief(
-                    observer1, observer2, observer3, observer4, obj, container)
+            if len(observers) >= 4:
+                for chosen_observers in combinations(observers, 4):
+                    for observer1, observer2, observer3, observer4 in permutations(chosen_observers):
+                            oracle.set_fourth_belief(
+                                observer1, observer2, observer3, observer4, obj, container)
 
         super().__init__(templates)
 

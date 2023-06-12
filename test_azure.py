@@ -10,9 +10,14 @@ def record_progress(filename):
 
 
 def is_processed(filename):
-    with open('progress.txt', 'r') as f:
-        processed_files = f.read().splitlines()
-    return filename in processed_files
+    try:
+        with open('progress.txt', 'r') as f:
+            processed_files = f.read().splitlines()
+        return filename in processed_files
+    except FileNotFoundError:
+        with open('progress.txt', 'w') as f:  # Creates the file if it doesn't exist
+            pass
+        return False
 
 
 openai.api_type = "azure"
@@ -53,6 +58,8 @@ for tell, prompt, length, order, sample_num in itertools.product(tells, prompts,
         presence_penalty=0,
         stop=None)
     print(response)
+    if not os.path.exists(os.path.join(output_folder, tell, prompt, f'length_{length}', f'sample_{sample_num}')):
+        os.makedirs(os.path.join(output_folder, tell, prompt, f'length_{length}', f'sample_{sample_num}'))
     with open(output_fn, 'w') as f:
         f.writelines(response)
     record_progress(input_fn)
