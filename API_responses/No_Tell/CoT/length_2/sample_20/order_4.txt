@@ -1,0 +1,7 @@
+Answer: C. blue_cupboard
+
+Explanation: 
+1. Nathan thinks the peas are in the blue_suitcase (step 12).
+2. Evelyn saw Avery move the peas to the blue_cupboard (step 8) and exited the bathroom after Avery, so she thinks Nathan thinks the peas are in the blue_cupboard.
+3. Ella saw Emily move the peas to the red_basket (step 4) and exited the bathroom after Emily, so she thinks Emily thinks the peas are in the red_basket. However, Ella moved the peas to the red_envelope (step 6) and exited the bathroom after Emily, so she thinks Emily thinks Nathan thinks the peas are in the blue_cupboard (since Evelyn exited the bathroom after Avery).
+4. Finally, Evelyn saw Ella move the peas to the red_envelope (step 6) and exited the bathroom after Ella, so she thinks Ella thinks Emily thinks Nathan thinks the peas are in the blue_cupboard.

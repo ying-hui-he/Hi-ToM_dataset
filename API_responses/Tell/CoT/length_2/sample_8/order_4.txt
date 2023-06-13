@@ -1,0 +1,7 @@
+A. green_pantry
+
+Explanation:
+1. Aiden thinks Isla thinks the lettuce is in the green_pantry because that's where Isla moved it (step 11).
+2. Charlotte thinks Isla thinks the lettuce is in the green_pantry because she exited the living_room before Isla moved the lettuce (step 8).
+3. Amelia thinks Charlotte thinks Isla thinks the lettuce is in the green_pantry because she exited the sunroom before Charlotte (step 23) and has no reason to doubt Charlotte's knowledge.
+4. Aiden thinks Amelia thinks Charlotte thinks Isla thinks the lettuce is in the green_pantry because he exited the living_room before Amelia (step 10) and has no reason to doubt Amelia's knowledge.

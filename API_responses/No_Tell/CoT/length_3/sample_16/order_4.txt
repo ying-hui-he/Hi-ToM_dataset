@@ -1,0 +1,11 @@
+Answer: J. green_basket
+
+Explanation: 
+1. William thinks the persimmon is in the red_basket (line 11).
+2. Hannah exited the bedroom before William moved the persimmon, so she thinks it is in the blue_crate (line 3).
+3. Avery exited the bedroom before Carter moved the persimmon, so she thinks it is in the blue_crate (line 3).
+4. Alexander exited the bedroom before Carter moved the persimmon, so he thinks it is in the blue_crate (line 3).
+5. Alexander knows that Avery exited the bedroom before Carter moved the persimmon, so he thinks Avery thinks the persimmon is in the blue_crate (line 3).
+6. Alexander knows that Hannah exited the bedroom before William moved the persimmon, so he thinks Hannah thinks the persimmon is in the blue_crate (line 3).
+7. Alexander knows that Avery trusts Carter more than herself because Carter exited the bedroom later, so he thinks Avery thinks Hannah thinks the persimmon is in the green_basket (line 7).
+8. Finally, Alexander knows that Hannah trusts William more than herself because William exited the bedroom later, so he thinks Avery thinks Hannah thinks William thinks the persimmon is in the green_basket (line 11). However, since every agent tends to lie, Alexander believes that Avery thinks Hannah thinks William thinks the persimmon is in the green_basket (line 7).

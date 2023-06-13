@@ -1,0 +1,8 @@
+O. blue_bathtub
+
+Explanation:
+1. Hannah moved the peas to the blue_bathtub (step 10).
+2. Amelia exited the patio after Hannah (step 6 and 11), so Amelia knows that Hannah moved the peas to the blue_bathtub.
+3. Jackson exited the patio before Hannah moved the peas (step 8), so he doesn't know about the peas' new location.
+4. Jackson and Amelia entered the waiting_room together (step 14), so Jackson can infer Amelia's knowledge about the peas' location.
+5. Therefore, Jackson thinks Amelia thinks Hannah thinks the peas are in the blue_bathtub.

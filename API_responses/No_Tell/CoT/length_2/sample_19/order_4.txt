@@ -1,0 +1,7 @@
+Answer: L. blue_crate
+
+Explanation: 
+1. Sophia thinks the tomato is in the blue_cupboard because she moved it there and then exited the laundry.
+2. Amelia entered the waiting_room with Sophia, so Sophia knows Amelia's mental state. Amelia saw Jackson move the tomato to the blue_crate, so Sophia thinks Amelia thinks the tomato is in the blue_crate.
+3. Nathan entered the waiting_room with Amelia and Sophia, so Amelia can infer Nathan's mental state. Nathan moved the tomato to the blue_container, but Amelia saw it in the blue_crate, so Sophia thinks Amelia thinks Nathan thinks the tomato is in the blue_crate.
+4. Jackson entered the waiting_room with Nathan, so Nathan can infer Jackson's mental state. Jackson moved the tomato to the blue_crate, so Sophia thinks Amelia thinks Nathan thinks Jackson thinks the tomato is in the blue_crate.

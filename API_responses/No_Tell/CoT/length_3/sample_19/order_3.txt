@@ -1,0 +1,7 @@
+Answer: K. blue_suitcase
+
+Explanation: 
+1. Noah moved the pear to the blue_suitcase (step 11) and then exited the playroom (step 12).
+2. William exited the playroom before Noah moved the pear (step 10), so William thinks the pear is in the green_crate (step 9).
+3. Isabella entered the playroom with Noah, Jack, and Aiden (step 26), so she knows that Noah thinks the pear is in the blue_suitcase (step 11).
+4. Since Isabella knows that William exited the playroom before Noah, she can infer that William thinks Noah thinks the pear is in the blue_suitcase (step 11).

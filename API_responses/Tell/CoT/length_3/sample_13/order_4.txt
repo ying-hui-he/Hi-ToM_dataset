@@ -1,0 +1,7 @@
+D. blue_bucket
+
+Explanation:
+1. Mila thinks the onion is in the blue_bucket (line 17).
+2. Abigail thinks Mila thinks the onion is in the blue_bucket because Mila privately told Jack this information (line 17), and Abigail was in the same location as Mila and Jack (line 15).
+3. Jack thinks Abigail thinks Mila thinks the onion is in the blue_bucket because he was in the same location as Abigail and Mila (line 15) and he heard Mila's private communication (line 17).
+4. Emily thinks Jack thinks Abigail thinks Mila thinks the onion is in the blue_bucket because she was in the same location as Jack, Abigail, and Mila (line 15) and she knows the exit order (rule 3).

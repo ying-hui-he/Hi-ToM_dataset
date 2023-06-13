@@ -1,0 +1,10 @@
+Answer: L. green_envelope
+
+Explanation: 
+1. Isabella thinks Jackson thinks Avery thinks the spinach is in the green_envelope because of the following reasons:
+2. Jackson moved the spinach to the green_envelope (step 12) before exiting the kitchen.
+3. Avery did not witness Jackson's action (step 12) because she had already exited the kitchen (step 9).
+4. Therefore, Avery's last known location of the spinach is in the blue_container (step 4).
+5. Jackson witnessed Avery's exit (step 9) and knows that she did not see him move the spinach to the green_envelope (step 12).
+6. Isabella knows that Jackson exited the kitchen after Avery (step 13) and can infer that Jackson knows what Avery thinks about the spinach's location.
+7. Since Isabella trusts Jackson more than Avery (due to exit order), she believes that Jackson thinks Avery thinks the spinach is in the green_envelope.

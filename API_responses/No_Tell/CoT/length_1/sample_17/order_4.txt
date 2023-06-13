@@ -1,0 +1,7 @@
+F. blue_crate
+
+Explanation:
+1. Liam exited the patio after Mila and before Emma, so he didn't see the lettuce being moved. He thinks the lettuce is in the blue_crate.
+2. Emma exited the patio after Liam and before Alexander, so she also didn't see the lettuce being moved. She thinks Liam thinks the lettuce is in the blue_crate.
+3. Mila exited the patio before Liam and Emma, so she thinks Emma thinks Liam thinks the lettuce is in the blue_crate.
+4. Avery exited the patio after everyone else, but since agents tend to trust agents that exited the room later than themselves, Avery thinks Mila thinks Emma thinks Liam thinks the lettuce is in the blue_crate.

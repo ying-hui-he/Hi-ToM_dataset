@@ -1,0 +1,4 @@
+L. green_drawer
+
+Explanation:
+Jackson last saw the spinach in the green_drawer when Noah moved it there (line 12) before he exited the living_room. Since Jackson and Evelyn were both in the living_room together before that (lines 1-9), Jackson would think that Evelyn still believes the spinach is in the last place she saw it, which is the red_container (line 7). However, since agents tend to trust agents that exited the room later than themselves, Jackson would trust Noah's action of moving the spinach to the green_drawer (line 12). Therefore, Jackson thinks Evelyn thinks the spinach is in the green_drawer.

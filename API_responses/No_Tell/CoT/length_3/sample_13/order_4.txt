@@ -1,0 +1,7 @@
+Answer: M. green_cupboard
+
+Explanation:
+1. When William exits the pantry the first time, the corn is in the red_envelope (step 7).
+2. Emily moves the corn to the blue_crate (step 32) and exits the pantry. She thinks William thinks the corn is in the red_envelope.
+3. Emma moves the corn to the green_bottle (step 35) and exits the pantry. She thinks Emily thinks William thinks the corn is in the blue_crate.
+4. Jackson enters the pantry after Emma exits and moves the corn to the green_bathtub (step 13). He thinks Emma thinks Emily thinks William thinks the corn is in the green_cupboard because Isla moved it there (step 30) before Emily moved it to the blue_crate.

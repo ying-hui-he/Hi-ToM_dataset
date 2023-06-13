@@ -1,0 +1,3 @@
+C. red_container
+
+Explanation: In step 3, Liam moved the corn to the red_container. In step 11, Amelia moved the corn to the red_basket. However, since agents tend to lie, we should trust the agent who exited the room later. In this case, Carter exited the hallway later than Amelia (step 10 vs step 21). Since Carter did not move the corn, we can assume it is still in the red_container.

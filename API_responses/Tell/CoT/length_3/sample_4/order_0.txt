@@ -1,0 +1,12 @@
+F. green_bottle
+
+Explanation:
+Following the story, we can track the movements of the corn:
+2. The corn starts in the green_bottle.
+3. Nathan moves the corn to the red_envelope.
+6. Lily moves the corn to the green_envelope.
+8. Amelia moves the corn to the green_drawer.
+10. Alexander moves the corn to the green_box.
+12. Abigail moves the corn back to the green_bottle.
+
+Since there are no more movements of the corn after step 12, the corn is really in the green_bottle.

@@ -1,0 +1,8 @@
+F. red_basket
+
+Explanation:
+1-6: Hannah moves the persimmon to the blue_crate, and Alexander sees this before leaving the bedroom.
+7: Carter moves the persimmon to the green_basket, but no one sees this.
+11: William moves the persimmon to the red_basket, but no one sees this.
+
+Since the agents tend to trust those who exited the room later than themselves, Alexander would trust Hannah's action (moving the persimmon to the blue_crate). However, since William exited the bedroom last and moved the persimmon to the red_basket, the persimmon is really in the red_basket.

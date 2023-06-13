@@ -1,0 +1,7 @@
+Answer: L. blue_crate
+
+Explanation:
+1. Noah thinks the pear is in the blue_suitcase (line 11).
+2. William exited the playroom after Noah, so William thinks Noah thinks the pear is in the green_crate (line 9).
+3. Isabella exited the playroom after William, so Isabella thinks William thinks Noah thinks the pear is in the blue_crate (line 14).
+4. Aiden exited the playroom after Isabella, so Aiden thinks Isabella thinks William thinks Noah thinks the pear is in the blue_crate (line 15).

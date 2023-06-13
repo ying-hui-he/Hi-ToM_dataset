@@ -1,0 +1,11 @@
+L. green_drawer
+
+Explanation:
+Following the story, we can track the movements of the lemon:
+1. The lemon starts in the green_drawer (line 2).
+2. Jack moves it to the blue_pantry (line 3).
+3. Liam moves it to the blue_crate (line 5).
+4. Aiden moves it to the green_basket (line 7).
+5. Nathan moves it back to the green_drawer (line 11).
+
+Since there are no more movements of the lemon mentioned after line 11, the lemon is really in the green_drawer.

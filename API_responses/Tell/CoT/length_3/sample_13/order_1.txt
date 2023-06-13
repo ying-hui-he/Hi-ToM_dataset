@@ -1,0 +1,3 @@
+D. blue_bucket
+
+Explanation: Mila initially saw Lily move the onion to the blue_bucket (step 11). Later, Lily publicly claimed that the onion is in the blue_bucket (step 16), and Mila privately told Jack the same (step 17). Although Lily privately told Mila that the onion is in the green_crate (step 38), Mila tends to trust agents who exited the room later than herself. Since Mila exited the master_bedroom before Lily (step 14 vs. step 12), she is more likely to trust her own observation and believe that the onion is in the blue_bucket.

@@ -1,0 +1,10 @@
+Answer: H. blue_suitcase
+
+Explanation: 
+1. Emily moved the cherry to the red_container and exited the pantry.
+2. Lily didn't move the cherry and exited the pantry, so she thinks the cherry is in the red_container.
+3. Emma moved the cherry to the green_envelope and exited the pantry.
+4. Avery moved the cherry to the blue_suitcase and exited the pantry.
+5. Ella didn't move the cherry and exited the pantry, so she thinks the cherry is in the green_envelope.
+
+Since Ella exited the pantry after Lily, she knows that Lily thinks the cherry is in the red_container. However, Ella also knows that Avery exited the pantry after Lily, so she would trust Avery's knowledge more. Therefore, Ella thinks that Lily thinks Avery thinks the cherry is in the blue_suitcase.

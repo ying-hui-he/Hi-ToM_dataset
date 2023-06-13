@@ -1,0 +1,7 @@
+L. blue_container
+
+Explanation:
+1. Avery exits the back_yard before any movements are made with the watermelon, so Avery thinks the watermelon is in the blue_container.
+2. Owen also exits the back_yard before any movements are made with the watermelon, so Owen thinks Avery thinks the watermelon is in the blue_container.
+3. Ella moves the watermelon to the red_pantry, but since she knows Owen exited before her, she knows Owen thinks Avery thinks the watermelon is in the blue_container.
+4. Amelia moves the watermelon back to the blue_container, and since she exited last, she knows Ella thinks Owen thinks Avery thinks the watermelon is in the blue_container.

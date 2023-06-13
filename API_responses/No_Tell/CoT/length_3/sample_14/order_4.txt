@@ -1,0 +1,9 @@
+Answer: O. blue_container
+
+Explanation: 
+1. Avery exited the basement after Owen moved the cucumber to the red_pantry (step 14), so Avery thinks the cucumber is in the red_pantry.
+2. Abigail exited the basement after Hannah moved the cucumber to the blue_bathtub (step 21), so Abigail thinks the cucumber is in the blue_bathtub.
+3. Jackson exited the basement after Abigail (step 19), so Jackson thinks Abigail thinks the cucumber is in the blue_bathtub.
+4. Hannah exited the basement after Jackson moved the carrot to the green_basket (step 23), so Hannah thinks Jackson thinks Abigail thinks the cucumber is in the blue_bathtub.
+5. Owen exited the basement after Hannah moved the carrot to the blue_bathtub (step 29), so Owen thinks Hannah thinks Jackson thinks Abigail thinks the cucumber is in the blue_bathtub.
+6. However, since agents tend to lie, Owen would trust the agent who exited the room later than himself. In this case, Owen would trust Hannah's action of moving the carrot to the blue_bathtub (step 30) as an indication of where she thinks the cucumber is. Therefore, Owen thinks Hannah thinks Abigail thinks Avery thinks the cucumber is in the blue_container (where the carrot was moved from).

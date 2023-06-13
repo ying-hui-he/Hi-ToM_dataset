@@ -1,0 +1,8 @@
+Answer: F. blue_bottle
+
+Explanation:
+1. Abigail moved the banana to the blue_bottle (line 8) and exited the bedroom (line 9).
+2. Ella entered the bedroom after Abigail and made no movements (line 11). She exited the bedroom (line 12). Ella thinks Abigail thinks the banana is in the blue_bottle.
+3. Owen entered the bedroom after Ella and moved the banana to the green_envelope (line 13). He exited the bedroom (line 14). Owen thinks Ella thinks Abigail thinks the banana is in the blue_bottle.
+4. Elizabeth and Ava exited the bedroom before Abigail, Ella, and Owen, so they don't have any information about the banana's location after their exit.
+5. Owen thinks Elizabeth thinks Ella thinks Abigail thinks the banana is in the blue_bottle because Elizabeth has no information about the banana's location after her exit, and Owen knows that Ella thinks Abigail thinks the banana is in the blue_bottle.

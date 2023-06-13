@@ -1,0 +1,7 @@
+Answer: O. green_cupboard
+
+Explanation:
+1. Evelyn thinks the spinach is in the red_container (line 7).
+2. Jackson thinks Evelyn thinks the spinach is in the red_container (line 22).
+3. Liam thinks Jackson thinks Evelyn thinks the spinach is in the red_container (line 29).
+4. Elizabeth thinks Liam thinks Jackson thinks Evelyn thinks the spinach is in the green_cupboard (line 34), because she moved the spinach to the blue_treasure_chest (line 33) and tends to lie.

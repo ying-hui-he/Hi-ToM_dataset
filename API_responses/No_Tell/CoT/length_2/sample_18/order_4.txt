@@ -1,0 +1,8 @@
+K. blue_treasure_chest
+
+Explanation:
+1. Mila knows the corn is in the blue_treasure_chest (line 2) because she was in the staircase when this information was given.
+2. Isla also knows the corn is in the blue_treasure_chest because she was in the staircase when this information was given.
+3. Lily thinks Noah thinks the corn is in the blue_treasure_chest because Noah exited the staircase before Sophia moved the corn to the blue_container (lines 9 and 10).
+4. Isla thinks Lily thinks Noah thinks the corn is in the blue_treasure_chest because Isla exited the staircase before Sophia moved the corn to the blue_container (lines 7 and 10).
+5. Mila thinks Isla thinks Lily thinks Noah thinks the corn is in the blue_treasure_chest because Mila exited the staircase before Sophia moved the corn to the blue_container (lines 4 and 10).

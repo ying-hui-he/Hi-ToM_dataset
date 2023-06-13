@@ -1,0 +1,3 @@
+Answer: G. red_pantry
+
+Explanation: William entered the pantry after Nathan and Evelyn had exited. When William entered, the plum was in the green_bucket (as per line 7). However, he made no movements and stayed in the pantry for 1 minute. During this time, Emily entered and also made no movements. After William exited the pantry, Jacob entered and moved the plum back to the red_pantry (as per line 14). Since William did not witness Jacob's action, he would still believe the plum is in its last known location before he exited, which is the red_pantry.

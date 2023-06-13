@@ -1,0 +1,7 @@
+M. green_basket
+
+Explanation:
+1. Elizabeth moved the lime to the green_pantry (step 4) and then exited the cellar (step 5).
+2. Alexander stayed in the cellar and saw Nathan move the lime to the green_basket (step 9) before exiting the cellar (step 8).
+3. Alexander has not been in the same location as Elizabeth since she exited the cellar, so he has no reason to believe her knowledge has changed.
+4. Therefore, Alexander thinks Elizabeth thinks the lime is in the green_basket (M).

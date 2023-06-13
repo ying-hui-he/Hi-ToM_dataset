@@ -1,0 +1,4 @@
+K. blue_suitcase
+
+Explanation:
+William was last in the playroom at step 10, after moving the pear to the green_crate. Noah entered the playroom after William left and moved the pear to the blue_suitcase at step 11. Since William was not in the playroom when Noah moved the pear, he would not know about this change. Therefore, William would think that Noah thinks the pear is in the blue_suitcase, where he last saw it.

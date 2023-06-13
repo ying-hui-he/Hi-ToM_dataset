@@ -1,0 +1,8 @@
+A. green_pantry
+
+Explanation:
+Step 1: Isla moved the lettuce to the green_pantry (line 11) and then exited the living_room (line 12).
+Step 2: Charlotte entered the waiting_room with Isla (line 13), so she knows that Isla moved the lettuce to the green_pantry.
+Step 3: Amelia entered the waiting_room with Charlotte (line 24), so she knows that Charlotte knows Isla moved the lettuce to the green_pantry.
+
+Therefore, Amelia thinks Charlotte thinks Isla thinks the lettuce is in the green_pantry.

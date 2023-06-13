@@ -1,0 +1,8 @@
+Answer: K. green_bucket
+
+Explanation: 
+1. Owen moved the cherry to the green_bucket (step 5) and then exited the staircase.
+2. Emma, Ella, and Abigail entered the staircase after Owen, but they made no movements (steps 7, 9, and 11). Therefore, they all know that Owen moved the cherry to the green_bucket.
+3. Ella thinks Owen thinks the cherry is in the green_bucket because she was in the staircase after Owen moved it.
+4. Abigail thinks Ella thinks Owen thinks the cherry is in the green_bucket because she was in the staircase after both Owen and Ella.
+5. Emma thinks Abigail thinks Ella thinks Owen thinks the cherry is in the green_bucket because she was in the staircase after both Owen and Abigail.

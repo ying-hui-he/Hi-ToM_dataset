@@ -1,0 +1,7 @@
+M. blue_suitcase
+
+Explanation:
+1. Jack moved the lime to the blue_suitcase and then exited the playroom (step 5 and 6).
+2. Avery entered the playroom after Jack, but Avery made no movements (step 7 and 8). So, Jack would think that Avery believes the lime is still in the blue_suitcase.
+3. Abigail moved the lime to the green_envelope after Avery exited the playroom (step 13). Since Avery exited before Abigail, Avery would not know about this change.
+4. Therefore, Jack thinks Avery thinks Abigail thinks the lime is in the blue_suitcase.
