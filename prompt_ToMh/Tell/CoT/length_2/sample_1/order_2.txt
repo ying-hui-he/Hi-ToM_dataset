@@ -1,33 +1,35 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Sophia, Owen, Aiden, Ella and Amelia entered the closet.
-2 The persimmon is in the blue_pantry.
-3 Sophia made no movements and stayed in the closet for 1 minute.
-4 Sophia exited the closet.
-5 Owen made no movements and stayed in the closet for 1 minute.
-6 Owen exited the closet.
-7 Aiden moved the persimmon to the green_treasure_chest.
-8 Aiden exited the closet.
-9 Ella made no movements and stayed in the closet for 1 minute.
-10 Ella exited the closet.
-11 Amelia moved the persimmon to the blue_pantry.
-12 Amelia exited the closet.
-13 Aiden saw a monkey.
-14 Sophia, Owen, Aiden, Ella and Amelia entered the waiting_room.
-15 Amelia, Aiden and Ella entered the closet.
-16 Ella saw a mouse.
-17 The persimmon is in the blue_pantry.
-18 Amelia moved the persimmon to the green_drawer.
-19 Amelia exited the closet.
-20 Aiden made no movements and stayed in the closet for 1 minute.
-21 Aiden exited the closet.
-22 Ella made no movements and stayed in the closet for 1 minute.
-23 Ella exited the closet.
-24 Amelia, Aiden and Ella entered the waiting_room.
-25 Sophia likes the red_drawer.
-26 Ella publicly claimed that persimmon is in the blue_bottle.
-27 Amelia privately told Ella that the persimmon is in the red_box.
-Question: Where does Amelia think Owen thinks the persimmon is?
-Choices: A. green_bathtub, B. red_drawer, C. green_basket, D. red_bottle, E. red_container, F. green_drawer, G. blue_pantry, H. red_box, I. green_treasure_chest, J. blue_bottle, K. red_bucket, L. green_pantry, M. red_crate, N. blue_cupboard, O. green_bucket
+1 Ella, Jayden, Hannah, Ava and Liam entered the kitchen.
+2 Ella lost his phone.
+3 The strawberry is in the blue_suitcase.
+4 Ella made no movements and stayed in the kitchen for 1 minute.
+5 Ella exited the kitchen.
+6 Jayden made no movements and stayed in the kitchen for 1 minute.
+7 Jayden exited the kitchen.
+8 Hannah moved the strawberry to the red_bathtub.
+9 Hannah exited the kitchen.
+10 Ava moved the strawberry to the green_pantry.
+11 Ava likes the red_bottle.
+12 Ava exited the kitchen.
+13 Liam moved the strawberry to the blue_suitcase.
+14 Liam exited the kitchen.
+15 Ella, Jayden, Hannah, Ava and Liam entered the waiting_room.
+16 Jayden, Ava and Hannah entered the kitchen.
+17 The banana is in the red_crate.
+18 Jayden made no movements and stayed in the kitchen for 1 minute.
+19 Jayden exited the kitchen.
+20 Ella saw a mouse.
+21 Ava made no movements and stayed in the kitchen for 1 minute.
+22 Ava likes the green_crate.
+23 Ava exited the kitchen.
+24 Hannah made no movements and stayed in the kitchen for 1 minute.
+25 Ella lost his watch.
+26 Hannah exited the kitchen.
+27 Jayden, Ava and Hannah entered the waiting_room.
+28 Ava publicly claimed that banana is in the red_crate now.
+29 Hannah privately told Ava that the banana is in the blue_drawer now.
+Question: Where does Liam think Jayden thinks the strawberry is?
+Choices: A. red_crate, B. blue_suitcase, C. green_pantry, D. red_bathtub, E. blue_drawer, F. green_suitcase, G. red_treasure_chest, H. blue_bucket, I. red_envelope, J. red_basket, K. blue_bathtub, L. red_bottle, M. blue_container, N. blue_treasure_chest, O. green_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

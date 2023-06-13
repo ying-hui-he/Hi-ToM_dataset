@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Sophia, Isla, Benjamin, Alexander and Emily entered the living_room.
+2 The lettuce is in the red_bucket.
+3 Sophia moved the lettuce to the red_box.
+4 Sophia exited the living_room.
+5 Isla made no movements and stayed in the living_room for 1 minute.
+6 Isla exited the living_room.
+7 Benjamin made no movements and stayed in the living_room for 1 minute.
+8 Benjamin exited the living_room.
+9 Alexander moved the lettuce to the red_pantry.
+10 Alexander exited the living_room.
+11 Emily moved the lettuce to the red_bucket.
+12 Emily exited the living_room.
+13 Sophia, Isla, Benjamin, Alexander and Emily entered the waiting_room.
+14 Benjamin privately told Sophia that the lettuce is in the red_bucket.
+15 Isla lost his phone.
+16 Isla privately told Alexander that the lettuce is in the red_pantry.
+Question: Where does Isla really think the lettuce is?
+Answer: red_box
+Choices: A. blue_bathtub, B. red_crate, C. red_bottle, D. green_envelope, E. green_treasure_chest, F. blue_bottle, G. blue_treasure_chest, H. green_cupboard, I. blue_container, J. green_basket, K. red_bucket, L. red_pantry, M. blue_cupboard, N. blue_suitcase, O. red_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

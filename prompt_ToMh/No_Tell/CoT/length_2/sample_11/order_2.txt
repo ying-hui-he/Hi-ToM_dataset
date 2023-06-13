@@ -1,29 +1,31 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Emily, Lily, Emma, Avery and Ella entered the pantry.
-2 The cherry is in the red_drawer.
-3 Emily moved the cherry to the red_container.
-4 Emily exited the pantry.
-5 Lily made no movements and stayed in the pantry for 1 minute.
-6 Lily exited the pantry.
-7 Emma moved the cherry to the green_envelope.
-8 Emma exited the pantry.
-9 Avery moved the cherry to the blue_suitcase.
-10 Avery exited the pantry.
-11 Ella made no movements and stayed in the pantry for 1 minute.
-12 Ella exited the pantry.
-13 Emily, Lily, Emma, Avery and Ella entered the waiting_room.
-14 Lily, Avery and Ella entered the cellar.
-15 The tomato is in the blue_container.
-16 Lily made no movements and stayed in the cellar for 1 minute.
-17 Lily exited the cellar.
-18 Avery moved the tomato to the red_bucket.
-19 Lily likes the red_drawer.
-20 Avery exited the cellar.
-21 Ella made no movements and stayed in the cellar for 1 minute.
-22 Ella exited the cellar.
-23 Lily, Avery and Ella entered the waiting_room.
-Question: Where does Lily think Avery thinks the cherry is?
-Choices: A. green_bucket, B. red_crate, C. green_bathtub, D. blue_treasure_chest, E. blue_pantry, F. red_container, G. red_drawer, H. blue_suitcase, I. green_envelope, J. green_treasure_chest, K. red_basket, L. blue_container, M. blue_crate, N. red_bucket, O. blue_cupboard
+1 Liam, Mason, Mila, Emma and Nathan entered the garden.
+2 The cherry is in the blue_bucket.
+3 Liam moved the cherry to the green_envelope.
+4 Liam exited the garden.
+5 Mason moved the cherry to the blue_crate.
+6 Mason exited the garden.
+7 Mila made no movements and stayed in the garden for 1 minute.
+8 Mila exited the garden.
+9 Emma moved the cherry to the blue_drawer.
+10 Emma exited the garden.
+11 Nathan moved the cherry to the blue_bucket.
+12 Nathan exited the garden.
+13 Liam, Mason, Mila, Emma and Nathan entered the waiting_room.
+14 Mason, Liam and Mila entered the garden.
+15 The cherry is in the blue_bucket.
+16 Liam saw a monkey.
+17 Mason made no movements and stayed in the garden for 1 minute.
+18 Nathan lost his phone.
+19 Mason exited the garden.
+20 Emma likes the red_pantry.
+21 Liam made no movements and stayed in the garden for 1 minute.
+22 Liam exited the garden.
+23 Mila made no movements and stayed in the garden for 1 minute.
+24 Mila exited the garden.
+25 Mason, Liam and Mila entered the waiting_room.
+Question: Where does Nathan think Mason thinks the cherry is?
+Choices: A. blue_crate, B. blue_bucket, C. green_basket, D. green_envelope, E. blue_drawer, F. blue_treasure_chest, G. red_pantry, H. green_pantry, I. red_bottle, J. green_bottle, K. red_treasure_chest, L. red_basket, M. green_crate, N. blue_bathtub, O. blue_pantry
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

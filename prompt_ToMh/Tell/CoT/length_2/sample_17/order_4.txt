@@ -1,31 +1,32 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Chloe, Owen, Emma, Ella and Abigail entered the staircase.
-2 The cherry is in the red_drawer.
-3 Chloe moved the cherry to the green_pantry.
-4 Chloe exited the staircase.
-5 Owen moved the cherry to the green_bucket.
-6 Owen exited the staircase.
-7 Emma made no movements and stayed in the staircase for 1 minute.
-8 Emma exited the staircase.
-9 Ella made no movements and stayed in the staircase for 1 minute.
-10 Ella exited the staircase.
-11 Abigail made no movements and stayed in the staircase for 1 minute.
-12 Abigail exited the staircase.
-13 Chloe, Owen, Emma, Ella and Abigail entered the waiting_room.
-14 Ella, Emma and Chloe entered the patio.
-15 The apple is in the blue_drawer.
-16 Ella moved the apple to the green_bathtub.
-17 Ella exited the patio.
-18 Emma moved the apple to the red_crate.
-19 Emma exited the patio.
-20 Chloe moved the apple to the green_crate.
-21 Chloe exited the patio.
-22 Ella, Emma and Chloe entered the waiting_room.
-23 Owen lost his watch.
-24 Ella publicly claimed that apple is in the blue_container.
-25 Chloe privately told Owen that the apple is in the green_crate.
-Question: Where does Emma think Abigail thinks Ella thinks Owen thinks the cherry is?
-Choices: A. blue_treasure_chest, B. green_basket, C. blue_crate, D. red_pantry, E. red_box, F. blue_drawer, G. blue_container, H. red_crate, I. green_bathtub, J. green_crate, K. green_bucket, L. red_drawer, M. blue_cupboard, N. green_pantry, O. blue_bottle
+1 Abigail, Nathan, Lucas, Aria and Carter entered the front_yard.
+2 The carrot is in the green_container.
+3 Abigail made no movements and stayed in the front_yard for 1 minute.
+4 Abigail exited the front_yard.
+5 Nathan made no movements and stayed in the front_yard for 1 minute.
+6 Nathan exited the front_yard.
+7 Nathan dislikes the apple.
+8 Lucas made no movements and stayed in the front_yard for 1 minute.
+9 Lucas exited the front_yard.
+10 Aria made no movements and stayed in the front_yard for 1 minute.
+11 Aria exited the front_yard.
+12 Abigail lost his watch.
+13 Carter made no movements and stayed in the front_yard for 1 minute.
+14 Carter exited the front_yard.
+15 Abigail, Nathan, Lucas, Aria and Carter entered the waiting_room.
+16 Lucas, Abigail and Aria entered the TV_room.
+17 The pear is in the blue_cupboard.
+18 Lucas made no movements and stayed in the TV_room for 1 minute.
+19 Lucas exited the TV_room.
+20 Abigail moved the pear to the green_bucket.
+21 Abigail exited the TV_room.
+22 Aria made no movements and stayed in the TV_room for 1 minute.
+23 Aria exited the TV_room.
+24 Lucas, Abigail and Aria entered the waiting_room.
+25 Abigail privately told Aria that the pear is in the green_bucket now.
+26 Aria privately told Carter that the pear is in the green_bucket now.
+Question: Where does Lucas think Aria thinks Carter thinks Abigail thinks the carrot is?
+Choices: A. green_container, B. red_crate, C. red_basket, D. blue_box, E. red_box, F. green_bottle, G. red_suitcase, H. red_treasure_chest, I. blue_bathtub, J. red_pantry, K. blue_cupboard, L. green_suitcase, M. green_crate, N. green_bucket, O. blue_pantry
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

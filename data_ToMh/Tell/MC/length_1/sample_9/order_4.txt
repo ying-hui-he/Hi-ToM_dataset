@@ -1,23 +1,23 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Abigail, Owen, Amelia, Jack and Aiden entered the laundry.
-2 The spinach is in the blue_suitcase.
-3 Abigail made no movements and stayed in the laundry for 1 minute.
-4 Abigail exited the laundry.
-5 Owen moved the spinach to the red_basket.
-6 Owen exited the laundry.
-7 Amelia made no movements and stayed in the laundry for 1 minute.
-8 Amelia exited the laundry.
-9 Jack moved the spinach to the green_pantry.
-10 Abigail dislikes the lemon.
-11 Jack exited the laundry.
-12 Aiden moved the spinach to the blue_suitcase.
-13 Aiden exited the laundry.
-14 Abigail, Owen, Amelia, Jack and Aiden entered the waiting_room.
-15 Amelia publicly claimed that spinach is in the red_container.
-16 Aiden privately told Amelia that the spinach is in the blue_suitcase.
-Question: Where does Jack think Aiden thinks Owen thinks Abigail thinks the spinach is?
-Answer: blue_suitcase
-Choices: A. red_envelope, B. blue_bottle, C. green_crate, D. red_pantry, E. blue_treasure_chest, F. blue_suitcase, G. red_basket, H. red_container, I. green_pantry, J. green_bathtub, K. blue_bucket, L. green_bucket, M. red_drawer, N. blue_pantry, O. blue_crate
+1 Carter dislikes the asparagus.
+2 Carter, Charlotte, Elizabeth, Nathan and Jackson entered the attic.
+3 The turnip is in the blue_drawer.
+4 Carter moved the turnip to the red_suitcase.
+5 Carter exited the attic.
+6 Charlotte moved the turnip to the red_pantry.
+7 Charlotte exited the attic.
+8 Elizabeth moved the turnip to the blue_treasure_chest.
+9 Elizabeth exited the attic.
+10 Nathan moved the turnip to the blue_bucket.
+11 Nathan exited the attic.
+12 Jackson moved the turnip to the blue_drawer.
+13 Jackson exited the attic.
+14 Carter, Charlotte, Elizabeth, Nathan and Jackson entered the waiting_room.
+15 Nathan publicly claimed that turnip is in the blue_bucket now.
+16 Jackson privately told Carter that the turnip is in the blue_drawer now.
+Question: Where does Nathan think Charlotte thinks Elizabeth thinks Jackson thinks the turnip is?
+Answer: red_pantry
+Choices: A. red_box, B. green_envelope, C. green_treasure_chest, D. red_bathtub, E. blue_bathtub, F. red_basket, G. red_envelope, H. green_bottle, I. blue_cupboard, J. red_crate, K. blue_drawer, L. blue_bucket, M. red_pantry, N. blue_treasure_chest, O. red_suitcase
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

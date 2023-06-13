@@ -1,22 +1,19 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Avery, Charlotte, Isabella, Elizabeth and Owen entered the living_room.
-2 The lettuce is in the green_drawer.
-3 Avery moved the lettuce to the green_bathtub.
-4 Elizabeth dislikes the tangerine.
-5 Avery exited the living_room.
-6 Charlotte moved the lettuce to the blue_pantry.
-7 Owen likes the green_envelope.
-8 Charlotte exited the living_room.
-9 Isabella made no movements and stayed in the living_room for 1 minute.
-10 Isabella exited the living_room.
-11 Owen dislikes the green_pepper.
-12 Elizabeth made no movements and stayed in the living_room for 1 minute.
-13 Elizabeth exited the living_room.
-14 Owen moved the lettuce to the green_drawer.
-15 Owen exited the living_room.
-16 Avery, Charlotte, Isabella, Elizabeth and Owen entered the waiting_room.
-Question: Where does Avery really think the lettuce is?
-Choices: A. blue_drawer, B. green_crate, C. red_bucket, D. green_bottle, E. red_basket, F. blue_suitcase, G. green_treasure_chest, H. green_box, I. red_envelope, J. red_pantry, K. green_drawer, L. blue_pantry, M. green_envelope, N. blue_crate, O. green_bathtub
+1 Carter, Ava, Isla, Hannah and Alexander entered the sunroom.
+2 The apple is in the red_bathtub.
+3 Carter moved the apple to the green_treasure_chest.
+4 Carter exited the sunroom.
+5 Ava made no movements and stayed in the sunroom for 1 minute.
+6 Ava exited the sunroom.
+7 Isla moved the apple to the red_box.
+8 Isla exited the sunroom.
+9 Hannah made no movements and stayed in the sunroom for 1 minute.
+10 Hannah exited the sunroom.
+11 Alexander made no movements and stayed in the sunroom for 1 minute.
+12 Alexander exited the sunroom.
+13 Carter, Ava, Isla, Hannah and Alexander entered the waiting_room.
+Question: Where does Hannah really think the apple is?
+Choices: A. blue_container, B. green_bottle, C. blue_drawer, D. blue_bathtub, E. green_envelope, F. red_envelope, G. blue_box, H. red_basket, I. green_bucket, J. blue_cupboard, K. red_bathtub, L. green_crate, M. green_basket, N. red_box, O. green_treasure_chest
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

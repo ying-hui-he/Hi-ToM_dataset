@@ -1,21 +1,23 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Isabella, Carter, Elizabeth, Hannah and Jacob entered the bedroom.
-2 The tomato is in the green_bottle.
-3 Isabella moved the tomato to the green_box.
-4 Isabella exited the bedroom.
-5 Carter made no movements and stayed in the bedroom for 1 minute.
-6 Carter exited the bedroom.
-7 Elizabeth moved the tomato to the blue_container.
-8 Elizabeth exited the bedroom.
-9 Hannah made no movements and stayed in the bedroom for 1 minute.
-10 Jacob lost his watch.
-11 Hannah exited the bedroom.
-12 Jacob made no movements and stayed in the bedroom for 1 minute.
-13 Jacob exited the bedroom.
-14 Isabella, Carter, Elizabeth, Hannah and Jacob entered the waiting_room.
-Question: Where does Jacob really think the tomato is?
-Answer: blue_container
-Choices: A. green_bottle, B. red_basket, C. green_bucket, D. green_box, E. blue_container, F. red_drawer, G. blue_bucket, H. green_envelope, I. blue_bathtub, J. blue_crate, K. red_envelope, L. red_box, M. green_crate, N. green_basket, O. red_bucket
+1 Mason saw a mouse.
+2 Mason, Gracie, Jack, Ethan and Lucas entered the workshop.
+3 Ethan likes the red_bathtub.
+4 The cabbage is in the blue_crate.
+5 Mason moved the cabbage to the red_box.
+6 Mason exited the workshop.
+7 Gracie made no movements and stayed in the workshop for 1 minute.
+8 Jack likes the green_bucket.
+9 Gracie exited the workshop.
+10 Jack moved the cabbage to the blue_bucket.
+11 Jack exited the workshop.
+12 Ethan moved the cabbage to the blue_cupboard.
+13 Ethan exited the workshop.
+14 Lucas moved the cabbage to the blue_crate.
+15 Lucas exited the workshop.
+16 Mason, Gracie, Jack, Ethan and Lucas entered the waiting_room.
+Question: Where does Lucas really think the cabbage is?
+Answer: blue_crate
+Choices: A. green_envelope, B. blue_drawer, C. blue_container, D. blue_treasure_chest, E. green_container, F. blue_cupboard, G. blue_crate, H. red_envelope, I. blue_bucket, J. red_box, K. blue_suitcase, L. green_bucket, M. red_crate, N. red_basket, O. red_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

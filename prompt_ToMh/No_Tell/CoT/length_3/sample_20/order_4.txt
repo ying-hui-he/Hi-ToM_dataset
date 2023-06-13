@@ -1,44 +1,40 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Jackson, Elizabeth, Evelyn, Liam and Noah entered the living_room.
-2 The spinach is in the green_drawer.
-3 Jackson made no movements and stayed in the living_room for 1 minute.
-4 Jackson exited the living_room.
-5 Elizabeth moved the spinach to the green_pantry.
-6 Elizabeth exited the living_room.
-7 Evelyn moved the spinach to the red_container.
-8 Evelyn lost his phone.
-9 Evelyn exited the living_room.
-10 Liam made no movements and stayed in the living_room for 1 minute.
-11 Liam exited the living_room.
-12 Noah moved the spinach to the green_drawer.
-13 Noah exited the living_room.
-14 Elizabeth lost his watch.
-15 Jackson, Elizabeth, Evelyn, Liam and Noah entered the waiting_room.
-16 Liam, Jackson and Evelyn entered the dining_room.
-17 The sweet_potato is in the red_crate.
-18 Liam moved the sweet_potato to the blue_bucket.
-19 Evelyn saw a cat.
-20 Liam exited the dining_room.
-21 Jackson moved the sweet_potato to the blue_container.
-22 Jackson exited the dining_room.
-23 Evelyn made no movements and stayed in the dining_room for 1 minute.
-24 Evelyn exited the dining_room.
-25 Liam, Jackson and Evelyn entered the waiting_room.
-26 Liam, Jackson, Elizabeth and Evelyn entered the living_room.
-27 The spinach is in the green_drawer.
-28 Liam made no movements and stayed in the living_room for 1 minute.
-29 Liam exited the living_room.
-30 Jackson moved the spinach to the green_cupboard.
-31 Jackson likes the blue_bathtub.
-32 Jackson exited the living_room.
-33 Elizabeth moved the spinach to the blue_treasure_chest.
-34 Elizabeth exited the living_room.
-35 Evelyn made no movements and stayed in the living_room for 1 minute.
-36 Evelyn exited the living_room.
-37 Evelyn likes the green_pantry.
-38 Liam, Jackson, Elizabeth and Evelyn entered the waiting_room.
-Question: Where does Elizabeth think Liam thinks Jackson thinks Evelyn thinks the spinach is?
-Choices: A. green_envelope, B. red_pantry, C. blue_bathtub, D. green_crate, E. blue_drawer, F. red_crate, G. red_bottle, H. green_treasure_chest, I. blue_container, J. blue_bucket, K. blue_treasure_chest, L. green_drawer, M. green_pantry, N. red_container, O. green_cupboard
+1 Benjamin, Lily, Isla, Sophia and Alexander entered the front_yard.
+2 The cherry is in the blue_bathtub.
+3 Benjamin moved the cherry to the blue_bucket.
+4 Benjamin exited the front_yard.
+5 Lily made no movements and stayed in the front_yard for 1 minute.
+6 Lily exited the front_yard.
+7 Isla moved the cherry to the red_pantry.
+8 Isla exited the front_yard.
+9 Lily dislikes the sweet_potato.
+10 Sophia moved the cherry to the green_treasure_chest.
+11 Sophia exited the front_yard.
+12 Alexander moved the cherry to the blue_bathtub.
+13 Alexander exited the front_yard.
+14 Benjamin, Lily, Isla, Sophia and Alexander entered the waiting_room.
+15 Lily, Benjamin and Isla entered the TV_room.
+16 The broccoli is in the blue_container.
+17 Lily made no movements and stayed in the TV_room for 1 minute.
+18 Lily exited the TV_room.
+19 Benjamin moved the broccoli to the green_crate.
+20 Benjamin exited the TV_room.
+21 Isla made no movements and stayed in the TV_room for 1 minute.
+22 Isla exited the TV_room.
+23 Lily, Benjamin and Isla entered the waiting_room.
+24 Isla, Alexander, Lily and Sophia entered the front_yard.
+25 The strawberry is in the blue_bucket.
+26 Isla made no movements and stayed in the front_yard for 1 minute.
+27 Isla exited the front_yard.
+28 Alexander made no movements and stayed in the front_yard for 1 minute.
+29 Alexander exited the front_yard.
+30 Lily moved the strawberry to the red_pantry.
+31 Lily exited the front_yard.
+32 Sophia moved the strawberry to the green_basket.
+33 Sophia exited the front_yard.
+34 Isla, Alexander, Lily and Sophia entered the waiting_room.
+Question: Where does Isla think Sophia thinks Benjamin thinks Lily thinks the cherry is?
+Choices: A. blue_bucket, B. blue_bathtub, C. green_treasure_chest, D. green_basket, E. red_pantry, F. green_pantry, G. blue_container, H. blue_drawer, I. blue_suitcase, J. green_crate, K. red_envelope, L. red_suitcase, M. green_bucket, N. green_bathtub, O. green_envelope
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

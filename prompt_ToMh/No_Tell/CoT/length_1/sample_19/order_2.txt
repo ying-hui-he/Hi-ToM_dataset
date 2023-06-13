@@ -1,19 +1,23 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Emily, Abigail, Amelia, Elizabeth and Hannah entered the staircase.
-2 The asparagus is in the green_bottle.
-3 Emily made no movements and stayed in the staircase for 1 minute.
-4 Emily exited the staircase.
-5 Abigail made no movements and stayed in the staircase for 1 minute.
-6 Abigail exited the staircase.
-7 Amelia made no movements and stayed in the staircase for 1 minute.
-8 Amelia exited the staircase.
-9 Elizabeth made no movements and stayed in the staircase for 1 minute.
-10 Elizabeth exited the staircase.
-11 Hannah made no movements and stayed in the staircase for 1 minute.
-12 Hannah exited the staircase.
-13 Emily, Abigail, Amelia, Elizabeth and Hannah entered the waiting_room.
-Question: Where does Hannah think Emily thinks the asparagus is?
-Choices: A. green_basket, B. green_envelope, C. red_container, D. red_basket, E. blue_bucket, F. red_crate, G. blue_cupboard, H. green_cupboard, I. blue_bathtub, J. red_bottle, K. blue_bottle, L. green_bottle, M. green_box, N. red_box, O. green_bucket
+1 Carter, Lily, Ava, Emily and Ella entered the pantry.
+2 The watermelon is in the red_treasure_chest.
+3 Carter saw a mouse.
+4 Carter moved the watermelon to the blue_pantry.
+5 Carter exited the pantry.
+6 Lily moved the watermelon to the blue_cupboard.
+7 Ella likes the red_treasure_chest.
+8 Lily exited the pantry.
+9 Ava made no movements and stayed in the pantry for 1 minute.
+10 Ava likes the red_basket.
+11 Ava exited the pantry.
+12 Carter dislikes the potato.
+13 Emily moved the watermelon to the red_crate.
+14 Emily exited the pantry.
+15 Ella made no movements and stayed in the pantry for 1 minute.
+16 Ella exited the pantry.
+17 Carter, Lily, Ava, Emily and Ella entered the waiting_room.
+Question: Where does Ella think Emily thinks the watermelon is?
+Choices: A. green_pantry, B. green_bottle, C. blue_treasure_chest, D. blue_crate, E. blue_container, F. blue_envelope, G. red_basket, H. blue_bucket, I. blue_drawer, J. green_suitcase, K. blue_cupboard, L. red_treasure_chest, M. blue_pantry, N. red_box, O. red_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

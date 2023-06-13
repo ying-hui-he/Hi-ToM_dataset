@@ -1,34 +1,32 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Isabella, Owen, Amelia, Aiden and Nathan entered the sunroom.
-2 The pear is in the blue_pantry.
-3 Isabella made no movements and stayed in the sunroom for 1 minute.
-4 Isabella exited the sunroom.
-5 Owen made no movements and stayed in the sunroom for 1 minute.
-6 Owen exited the sunroom.
-7 Isabella saw a mouse.
-8 Amelia moved the pear to the green_bucket.
-9 Amelia exited the sunroom.
-10 Aiden moved the pear to the blue_suitcase.
-11 Isabella lost his gloves.
-12 Aiden exited the sunroom.
-13 Nathan moved the pear to the blue_pantry.
-14 Owen likes the green_cupboard.
-15 Nathan exited the sunroom.
-16 Isabella, Owen, Amelia, Aiden and Nathan entered the waiting_room.
-17 Nathan, Amelia and Isabella entered the study.
-18 The cherry is in the red_basket.
-19 Nathan moved the cherry to the red_container.
-20 Nathan exited the study.
-21 Amelia moved the cherry to the red_envelope.
-22 Amelia exited the study.
-23 Isabella made no movements and stayed in the study for 1 minute.
-24 Isabella exited the study.
-25 Nathan, Amelia and Isabella entered the waiting_room.
-26 Amelia publicly claimed that cherry is in the red_envelope.
-27 Isabella privately told Amelia that the cherry is in the blue_crate.
-Question: Where does Isabella think Amelia thinks Nathan thinks the pear is?
-Answer: blue_pantry
-Choices: A. red_basket, B. blue_crate, C. green_bathtub, D. red_envelope, E. red_container, F. blue_drawer, G. green_cupboard, H. blue_container, I. green_envelope, J. red_box, K. green_bucket, L. blue_pantry, M. blue_cupboard, N. red_bottle, O. blue_suitcase
+1 Mila, Emma, Elizabeth, Jack and Isla entered the cellar.
+2 The eggplant is in the green_bucket.
+3 Mila moved the eggplant to the green_container.
+4 Mila exited the cellar.
+5 Emma made no movements and stayed in the cellar for 1 minute.
+6 Emma exited the cellar.
+7 Elizabeth made no movements and stayed in the cellar for 1 minute.
+8 Elizabeth exited the cellar.
+9 Jack made no movements and stayed in the cellar for 1 minute.
+10 Jack exited the cellar.
+11 Isla moved the eggplant to the green_bucket.
+12 Isla exited the cellar.
+13 Mila, Emma, Elizabeth, Jack and Isla entered the waiting_room.
+14 Elizabeth, Emma and Mila entered the porch.
+15 The radish is in the green_basket.
+16 Elizabeth made no movements and stayed in the porch for 1 minute.
+17 Jack saw a mouse.
+18 Elizabeth exited the porch.
+19 Emma moved the radish to the red_pantry.
+20 Emma exited the porch.
+21 Mila moved the radish to the green_pantry.
+22 Mila exited the porch.
+23 Elizabeth, Emma and Mila entered the waiting_room.
+24 Emma publicly claimed that radish is in the green_bottle now.
+25 Mila privately told Emma that the radish is in the green_basket now.
+Question: Where does Emma think Mila thinks Elizabeth thinks the eggplant is?
+Answer: green_container
+Choices: A. red_pantry, B. green_basket, C. green_bottle, D. red_basket, E. green_pantry, F. blue_pantry, G. red_envelope, H. blue_bathtub, I. blue_envelope, J. red_bathtub, K. green_bucket, L. green_container, M. blue_suitcase, N. green_suitcase, O. red_suitcase
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

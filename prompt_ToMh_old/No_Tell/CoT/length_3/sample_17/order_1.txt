@@ -1,0 +1,41 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Emily, Avery, Emma, Jack and Jackson entered the garage.
+2 The eggplant is in the green_pantry.
+3 Emily moved the eggplant to the blue_drawer.
+4 Emily exited the garage.
+5 Avery made no movements and stayed in the garage for 1 minute.
+6 Avery exited the garage.
+7 Emma moved the eggplant to the green_box.
+8 Emma exited the garage.
+9 Jack made no movements and stayed in the garage for 1 minute.
+10 Jack exited the garage.
+11 Jackson made no movements and stayed in the garage for 1 minute.
+12 Jackson exited the garage.
+13 Emily, Avery, Emma, Jack and Jackson entered the waiting_room.
+14 Emma, Emily and Jack entered the garage.
+15 The eggplant is in the green_box.
+16 Emma made no movements and stayed in the garage for 1 minute.
+17 Emma exited the garage.
+18 Emily moved the eggplant to the green_bottle.
+19 Emily exited the garage.
+20 Jack moved the eggplant to the green_pantry.
+21 Jack exited the garage.
+22 Emma, Emily and Jack entered the waiting_room.
+23 Emily, Avery, Jack and Emma entered the garage.
+24 The cherry is in the blue_drawer.
+25 Emily moved the cherry to the green_box.
+26 Jack likes the green_envelope.
+27 Emily exited the garage.
+28 Avery moved the cherry to the green_pantry.
+29 Avery exited the garage.
+30 Jack moved the cherry to the blue_cupboard.
+31 Emily saw a monkey.
+32 Jack exited the garage.
+33 Emma moved the cherry to the green_bottle.
+34 Emma exited the garage.
+35 Emily, Avery, Jack and Emma entered the waiting_room.
+Question: Where does Emma really think the eggplant is?
+Choices: A. green_basket, B. blue_container, C. green_envelope, D. blue_suitcase, E. blue_bathtub, F. blue_drawer, G. green_pantry, H. green_box, I. blue_cupboard, J. green_bottle, K. green_drawer, L. red_crate, M. blue_crate, N. red_bottle, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

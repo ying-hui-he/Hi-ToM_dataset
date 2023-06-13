@@ -1,46 +1,49 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Avery, Ava, William, Logan and Amelia entered the cellar.
-2 The cherry is in the blue_container.
-3 Avery made no movements and stayed in the cellar for 1 minute.
-4 Avery exited the cellar.
-5 Ava made no movements and stayed in the cellar for 1 minute.
-6 Ava exited the cellar.
-7 William made no movements and stayed in the cellar for 1 minute.
-8 Ava dislikes the beans.
-9 William exited the cellar.
-10 Logan moved the cherry to the green_bucket.
-11 Logan exited the cellar.
-12 William likes the green_bucket.
-13 Amelia made no movements and stayed in the cellar for 1 minute.
-14 Amelia exited the cellar.
-15 Avery, Ava, William, Logan and Amelia entered the waiting_room.
-16 William publicly claimed that cherry is in the blue_container.
-17 Amelia privately told William that the cherry is in the green_pantry.
-18 Logan, Amelia and William entered the cellar.
-19 The cherry is in the green_bucket.
-20 Logan moved the cherry to the green_pantry.
-21 Logan exited the cellar.
-22 Amelia moved the cherry to the green_basket.
-23 Amelia exited the cellar.
-24 William made no movements and stayed in the cellar for 1 minute.
-25 William exited the cellar.
-26 Logan, Amelia and William entered the waiting_room.
-27 Logan, Avery, Ava and Amelia entered the cellar.
-28 The cherry is in the green_basket.
-29 Logan made no movements and stayed in the cellar for 1 minute.
-30 Logan exited the cellar.
-31 Avery made no movements and stayed in the cellar for 1 minute.
-32 Avery exited the cellar.
-33 Ava moved the cherry to the green_bucket.
-34 Ava exited the cellar.
-35 Amelia moved the cherry to the blue_container.
-36 Amelia exited the cellar.
-37 Logan, Avery, Ava and Amelia entered the waiting_room.
-38 Ava publicly claimed that cherry is in the green_basket.
-39 Logan privately told Amelia that the cherry is in the blue_container.
-Question: Where does William really think the cherry is?
-Answer: green_basket
-Choices: A. green_envelope, B. blue_bathtub, C. red_pantry, D. red_crate, E. green_crate, F. red_basket, G. blue_treasure_chest, H. green_box, I. blue_cupboard, J. red_bottle, K. green_pantry, L. blue_container, M. red_bucket, N. green_basket, O. green_bucket
+1 Evelyn saw a monkey.
+2 Ethan, Jayden, Evelyn, Nathan and Elizabeth entered the hallway.
+3 The persimmon is in the green_pantry.
+4 Ethan made no movements and stayed in the hallway for 1 minute.
+5 Ethan exited the hallway.
+6 Jayden moved the persimmon to the green_basket.
+7 Evelyn lost his phone.
+8 Jayden exited the hallway.
+9 Evelyn moved the persimmon to the red_crate.
+10 Evelyn exited the hallway.
+11 Nathan moved the persimmon to the blue_container.
+12 Evelyn likes the blue_container.
+13 Nathan exited the hallway.
+14 Elizabeth made no movements and stayed in the hallway for 1 minute.
+15 Elizabeth exited the hallway.
+16 Ethan, Jayden, Evelyn, Nathan and Elizabeth entered the waiting_room.
+17 Evelyn publicly claimed that persimmon is in the green_basket now.
+18 Elizabeth privately told Evelyn that the persimmon is in the blue_container now.
+19 Nathan dislikes the pear.
+20 Elizabeth, Ethan and Nathan entered the hall.
+21 The tomato is in the blue_bucket.
+22 Elizabeth moved the tomato to the red_box.
+23 Elizabeth exited the hall.
+24 Ethan made no movements and stayed in the hall for 1 minute.
+25 Ethan exited the hall.
+26 Nathan moved the tomato to the blue_drawer.
+27 Nathan exited the hall.
+28 Jayden saw a cat.
+29 Elizabeth, Ethan and Nathan entered the waiting_room.
+30 Evelyn, Ethan, Jayden and Nathan entered the master_bedroom.
+31 The pumpkin is in the red_bottle.
+32 Evelyn made no movements and stayed in the master_bedroom for 1 minute.
+33 Evelyn exited the master_bedroom.
+34 Ethan moved the pumpkin to the red_basket.
+35 Ethan exited the master_bedroom.
+36 Jayden moved the pumpkin to the green_crate.
+37 Jayden exited the master_bedroom.
+38 Nathan moved the pumpkin to the blue_envelope.
+39 Nathan exited the master_bedroom.
+40 Evelyn, Ethan, Jayden and Nathan entered the waiting_room.
+41 Ethan privately told Jayden that the pumpkin is in the green_crate now.
+42 Nathan privately told Elizabeth that the pumpkin is in the blue_envelope now.
+Question: Where does Nathan really think the persimmon is?
+Answer: blue_container
+Choices: A. red_bottle, B. green_crate, C. red_basket, D. blue_envelope, E. blue_cupboard, F. green_pantry, G. red_crate, H. green_bucket, I. blue_container, J. green_basket, K. blue_bucket, L. blue_pantry, M. red_box, N. green_treasure_chest, O. blue_drawer
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

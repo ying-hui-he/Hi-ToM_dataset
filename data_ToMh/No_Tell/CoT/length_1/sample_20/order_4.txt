@@ -1,20 +1,22 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Mila, Ava, Emily, Evelyn and Jacob entered the front_yard.
-2 The watermelon is in the blue_cupboard.
-3 Mila moved the watermelon to the red_box.
-4 Mila exited the front_yard.
-5 Ava moved the watermelon to the green_bottle.
-6 Ava exited the front_yard.
-7 Emily moved the watermelon to the blue_bathtub.
-8 Emily exited the front_yard.
-9 Evelyn made no movements and stayed in the front_yard for 1 minute.
-10 Evelyn exited the front_yard.
-11 Jacob made no movements and stayed in the front_yard for 1 minute.
-12 Jacob exited the front_yard.
-13 Mila, Ava, Emily, Evelyn and Jacob entered the waiting_room.
-Question: Where does Evelyn think Emily thinks Jacob thinks Ava thinks the watermelon is?
-Answer: blue_cupboard
-Choices: A. blue_bathtub, B. blue_cupboard, C. blue_pantry, D. green_bottle, E. red_box, F. red_drawer, G. red_bucket, H. blue_suitcase, I. blue_bottle, J. green_treasure_chest, K. blue_drawer, L. green_basket, M. red_envelope, N. green_envelope, O. green_pantry
+1 Ella, Mila, Isla, Jayden and Emily entered the pantry.
+2 The spinach is in the blue_pantry.
+3 Ella moved the spinach to the red_envelope.
+4 Ella exited the pantry.
+5 Mila made no movements and stayed in the pantry for 1 minute.
+6 Mila exited the pantry.
+7 Isla moved the spinach to the red_bathtub.
+8 Isla exited the pantry.
+9 Jayden moved the spinach to the blue_drawer.
+10 Jayden saw a dog.
+11 Jayden exited the pantry.
+12 Emily moved the spinach to the blue_pantry.
+13 Emily exited the pantry.
+14 Emily likes the green_suitcase.
+15 Ella, Mila, Isla, Jayden and Emily entered the waiting_room.
+Question: Where does Ella think Jayden thinks Mila thinks Emily thinks the spinach is?
+Answer: red_envelope
+Choices: A. green_envelope, B. green_crate, C. blue_bathtub, D. green_pantry, E. blue_suitcase, F. red_bathtub, G. blue_pantry, H. red_pantry, I. red_envelope, J. blue_drawer, K. green_bathtub, L. green_basket, M. red_box, N. red_basket, O. green_suitcase
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

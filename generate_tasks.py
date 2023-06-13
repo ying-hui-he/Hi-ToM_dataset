@@ -64,15 +64,15 @@ def generate_story_with_specified_chapters(
                         with open(path, 'w', encoding='utf-8') as f:
                             if mode == 'MC':
                                 f.write(
-                                    'Read the following story and answer the multiple-choice question. Please provide answer without explanations.\n')
+                                    'The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.\n')
                             else:
                                 f.write(
-                                    'Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.\n')
+                                    'The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.\n')
                             f.write('Story:\n')
                             # exist_answer is dummy
                             f.write(
                                 '\n'.join(stringify(story, exist_answer=exist_answer, order=order_of_story)))
-                            f.write('\nNote: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B\'s mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn\'t affect his actual belief. An agent tend to trust an agent that exited the room later than himself. The full exit order is known to all agents. (4) Agents in private communications know that others won\'t hear them, but they know that anyone can hear any public claims.\n')
+                            f.write('\nNote: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B\'s mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn\'t affect A\'s actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won\'t hear them, but they know that anyone can hear any public claims.\n')
 
 
 def parse_args(args):

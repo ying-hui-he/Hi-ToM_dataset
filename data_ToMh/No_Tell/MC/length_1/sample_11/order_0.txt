@@ -1,22 +1,21 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Chloe, Benjamin, Alexander, Ella and Elizabeth entered the study.
-2 The orange is in the red_box.
-3 Chloe made no movements and stayed in the study for 1 minute.
-4 Alexander lost his phone.
-5 Chloe exited the study.
-6 Benjamin moved the orange to the red_envelope.
-7 Benjamin exited the study.
-8 Alexander made no movements and stayed in the study for 1 minute.
-9 Alexander exited the study.
-10 Ella made no movements and stayed in the study for 1 minute.
-11 Benjamin saw a cat.
-12 Ella exited the study.
-13 Elizabeth moved the orange to the red_box.
-14 Elizabeth exited the study.
-15 Chloe, Benjamin, Alexander, Ella and Elizabeth entered the waiting_room.
-Question: Where is the orange really?
+1 Benjamin, Emily, Lily, Isabella and Mila entered the TV_room.
+2 The corn is in the green_pantry.
+3 Benjamin made no movements and stayed in the TV_room for 1 minute.
+4 Benjamin exited the TV_room.
+5 Emily made no movements and stayed in the TV_room for 1 minute.
+6 Emily dislikes the pear.
+7 Emily exited the TV_room.
+8 Lily moved the corn to the green_basket.
+9 Lily exited the TV_room.
+10 Isabella moved the corn to the red_box.
+11 Isabella exited the TV_room.
+12 Mila made no movements and stayed in the TV_room for 1 minute.
+13 Mila exited the TV_room.
+14 Benjamin, Emily, Lily, Isabella and Mila entered the waiting_room.
+Question: Where is the corn really?
 Answer: red_box
-Choices: A. red_bottle, B. blue_suitcase, C. red_basket, D. blue_bathtub, E. blue_cupboard, F. red_box, G. green_envelope, H. red_envelope, I. blue_bucket, J. green_box, K. green_bottle, L. green_basket, M. blue_drawer, N. blue_bottle, O. blue_container
+Choices: A. green_pantry, B. blue_bucket, C. red_crate, D. red_box, E. green_basket, F. red_bathtub, G. blue_bathtub, H. green_envelope, I. red_bottle, J. blue_crate, K. green_bucket, L. red_basket, M. green_treasure_chest, N. red_pantry, O. green_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,42 +1,42 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Jacob, Mila, Elizabeth, Aiden and Amelia entered the master_bedroom.
-2 The sweet_potato is in the green_bottle.
-3 Jacob made no movements and stayed in the master_bedroom for 1 minute.
-4 Jacob exited the master_bedroom.
-5 Mila made no movements and stayed in the master_bedroom for 1 minute.
-6 Mila exited the master_bedroom.
-7 Elizabeth made no movements and stayed in the master_bedroom for 1 minute.
-8 Elizabeth exited the master_bedroom.
-9 Aiden moved the sweet_potato to the blue_bucket.
-10 Aiden exited the master_bedroom.
-11 Amelia moved the sweet_potato to the green_bottle.
-12 Amelia exited the master_bedroom.
-13 Jacob, Mila, Elizabeth, Aiden and Amelia entered the waiting_room.
-14 Amelia, Mila and Elizabeth entered the crawlspace.
-15 The carrot is in the red_pantry.
-16 Amelia made no movements and stayed in the crawlspace for 1 minute.
-17 Amelia exited the crawlspace.
-18 Mila moved the carrot to the green_treasure_chest.
-19 Mila exited the crawlspace.
-20 Amelia lost his watch.
-21 Elizabeth moved the carrot to the blue_pantry.
-22 Elizabeth exited the crawlspace.
-23 Amelia likes the blue_pantry.
-24 Amelia, Mila and Elizabeth entered the waiting_room.
-25 Amelia, Jacob, Aiden and Mila entered the office.
-26 The peach is in the green_bathtub.
-27 Amelia moved the peach to the green_bucket.
-28 Amelia exited the office.
-29 Jacob moved the peach to the green_drawer.
-30 Jacob exited the office.
-31 Aiden made no movements and stayed in the office for 1 minute.
-32 Aiden exited the office.
-33 Mila made no movements and stayed in the office for 1 minute.
-34 Mila exited the office.
-35 Amelia, Jacob, Aiden and Mila entered the waiting_room.
-Question: Where does Aiden think Jacob thinks the sweet_potato is?
-Answer: green_bottle
-Choices: A. green_crate, B. green_bottle, C. blue_bucket, D. red_drawer, E. blue_container, F. blue_pantry, G. red_pantry, H. green_treasure_chest, I. red_bucket, J. blue_treasure_chest, K. blue_crate, L. green_bathtub, M. blue_cupboard, N. green_bucket, O. green_drawer
+1 Lucas, Charlotte, Ella, Isla and Elizabeth entered the study.
+2 Isla dislikes the turnip.
+3 The turnip is in the blue_suitcase.
+4 Lucas made no movements and stayed in the study for 1 minute.
+5 Lucas exited the study.
+6 Charlotte made no movements and stayed in the study for 1 minute.
+7 Charlotte exited the study.
+8 Ella moved the turnip to the red_treasure_chest.
+9 Ella exited the study.
+10 Isla made no movements and stayed in the study for 1 minute.
+11 Isla exited the study.
+12 Elizabeth made no movements and stayed in the study for 1 minute.
+13 Elizabeth exited the study.
+14 Lucas, Charlotte, Ella, Isla and Elizabeth entered the waiting_room.
+15 Charlotte, Isla and Ella entered the patio.
+16 The eggplant is in the blue_box.
+17 Charlotte made no movements and stayed in the patio for 1 minute.
+18 Charlotte exited the patio.
+19 Isla moved the eggplant to the green_bottle.
+20 Isla exited the patio.
+21 Ella moved the eggplant to the blue_cupboard.
+22 Lucas lost his phone.
+23 Ella exited the patio.
+24 Charlotte, Isla and Ella entered the waiting_room.
+25 Ella, Elizabeth, Isla and Charlotte entered the laundry.
+26 The broccoli is in the blue_drawer.
+27 Ella moved the broccoli to the blue_container.
+28 Ella exited the laundry.
+29 Elizabeth moved the broccoli to the green_suitcase.
+30 Elizabeth exited the laundry.
+31 Isla moved the broccoli to the red_pantry.
+32 Isla exited the laundry.
+33 Charlotte moved the broccoli to the red_crate.
+34 Charlotte exited the laundry.
+35 Ella, Elizabeth, Isla and Charlotte entered the waiting_room.
+Question: Where does Lucas think Isla thinks the turnip is?
+Answer: blue_suitcase
+Choices: A. red_box, B. blue_suitcase, C. red_treasure_chest, D. blue_crate, E. red_bottle, F. red_suitcase, G. blue_box, H. green_bottle, I. blue_cupboard, J. green_bathtub, K. blue_drawer, L. blue_container, M. red_pantry, N. green_suitcase, O. red_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

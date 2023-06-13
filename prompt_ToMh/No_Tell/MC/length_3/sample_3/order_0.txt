@@ -1,41 +1,44 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Mila, Carter, Isla, Amelia and Emma entered the staircase.
-2 The peas is in the green_treasure_chest.
-3 Mila moved the peas to the blue_bucket.
-4 Mila exited the staircase.
-5 Carter moved the peas to the green_bucket.
-6 Carter exited the staircase.
-7 Isla made no movements and stayed in the staircase for 1 minute.
-8 Isla exited the staircase.
-9 Amelia dislikes the spinach.
-10 Amelia moved the peas to the blue_cupboard.
-11 Amelia exited the staircase.
-12 Emma made no movements and stayed in the staircase for 1 minute.
-13 Emma exited the staircase.
-14 Mila, Carter, Isla, Amelia and Emma entered the waiting_room.
-15 Amelia, Carter and Isla entered the staircase.
-16 Mila likes the red_basket.
-17 The watermelon is in the blue_bucket.
-18 Amelia made no movements and stayed in the staircase for 1 minute.
-19 Amelia exited the staircase.
-20 Carter moved the watermelon to the green_bucket.
-21 Carter exited the staircase.
-22 Isla made no movements and stayed in the staircase for 1 minute.
-23 Isla exited the staircase.
-24 Amelia, Carter and Isla entered the waiting_room.
-25 Emma, Amelia, Isla and Carter entered the study.
-26 The lemon is in the red_basket.
-27 Emma made no movements and stayed in the study for 1 minute.
-28 Emma exited the study.
-29 Amelia made no movements and stayed in the study for 1 minute.
-30 Amelia exited the study.
-31 Isla moved the lemon to the green_cupboard.
-32 Isla exited the study.
-33 Carter made no movements and stayed in the study for 1 minute.
-34 Carter exited the study.
-35 Emma, Amelia, Isla and Carter entered the waiting_room.
-Question: Where is the peas really?
-Choices: A. green_treasure_chest, B. blue_bucket, C. green_bucket, D. red_envelope, E. blue_cupboard, F. red_basket, G. green_crate, H. green_pantry, I. green_bathtub, J. green_cupboard, K. red_drawer, L. green_envelope, M. blue_treasure_chest, N. red_bucket, O. blue_drawer
+1 Amelia, Benjamin, Gracie, Evelyn and Isabella entered the patio.
+2 The plum is in the green_bathtub.
+3 Isabella saw a dog.
+4 Amelia moved the plum to the blue_pantry.
+5 Amelia exited the patio.
+6 Benjamin moved the plum to the green_basket.
+7 Benjamin exited the patio.
+8 Gracie moved the plum to the green_envelope.
+9 Gracie exited the patio.
+10 Evelyn made no movements and stayed in the patio for 1 minute.
+11 Evelyn exited the patio.
+12 Isabella dislikes the green_pepper.
+13 Isabella moved the plum to the green_bathtub.
+14 Isabella exited the patio.
+15 Amelia, Benjamin, Gracie, Evelyn and Isabella entered the waiting_room.
+16 Gracie, Evelyn and Isabella entered the patio.
+17 The spinach is in the red_box.
+18 Gracie moved the spinach to the green_basket.
+19 Gracie exited the patio.
+20 Evelyn moved the spinach to the green_envelope.
+21 Benjamin dislikes the potato.
+22 Evelyn exited the patio.
+23 Isabella moved the spinach to the blue_pantry.
+24 Isabella exited the patio.
+25 Evelyn lost his watch.
+26 Gracie, Evelyn and Isabella entered the waiting_room.
+27 Evelyn, Gracie, Benjamin and Amelia entered the office.
+28 The green_pepper is in the red_bathtub.
+29 Evelyn made no movements and stayed in the office for 1 minute.
+30 Evelyn exited the office.
+31 Gracie made no movements and stayed in the office for 1 minute.
+32 Gracie exited the office.
+33 Benjamin moved the green_pepper to the green_crate.
+34 Benjamin exited the office.
+35 Amelia moved the green_pepper to the red_envelope.
+36 Amelia exited the office.
+37 Amelia likes the green_basket.
+38 Evelyn, Gracie, Benjamin and Amelia entered the waiting_room.
+Question: Where is the plum really?
+Choices: A. red_box, B. green_bathtub, C. green_basket, D. blue_pantry, E. green_envelope, F. green_pantry, G. green_suitcase, H. red_treasure_chest, I. blue_envelope, J. green_bucket, K. red_bathtub, L. red_envelope, M. green_bottle, N. red_basket, O. green_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

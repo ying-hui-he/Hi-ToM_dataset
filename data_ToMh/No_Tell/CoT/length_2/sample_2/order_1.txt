@@ -1,30 +1,29 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Liam, Sophia, Lily, Carter and Amelia entered the hallway.
-2 The corn is in the red_basket.
-3 Liam moved the corn to the red_container.
-4 Liam exited the hallway.
-5 Sophia made no movements and stayed in the hallway for 1 minute.
-6 Sophia exited the hallway.
-7 Lily made no movements and stayed in the hallway for 1 minute.
-8 Lily exited the hallway.
-9 Carter made no movements and stayed in the hallway for 1 minute.
-10 Carter exited the hallway.
-11 Amelia moved the corn to the red_basket.
-12 Amelia exited the hallway.
-13 Liam, Sophia, Lily, Carter and Amelia entered the waiting_room.
-14 Liam, Lily and Carter entered the hallway.
-15 The melon is in the blue_bucket.
-16 Liam moved the melon to the red_basket.
-17 Liam exited the hallway.
-18 Lily moved the melon to the green_pantry.
-19 Lily exited the hallway.
-20 Carter moved the melon to the red_container.
-21 Carter exited the hallway.
-22 Sophia dislikes the corn.
-23 Liam, Lily and Carter entered the waiting_room.
-Question: Where does Amelia really think the corn is?
-Answer: red_basket
-Choices: A. blue_bucket, B. red_basket, C. red_container, D. blue_bathtub, E. green_pantry, F. red_envelope, G. blue_bottle, H. red_box, I. blue_cupboard, J. green_bathtub, K. red_drawer, L. red_bottle, M. blue_drawer, N. green_crate, O. green_treasure_chest
+1 Aria, Jayden, Ava, Ella and Lucas entered the study.
+2 The broccoli is in the green_bathtub.
+3 Aria made no movements and stayed in the study for 1 minute.
+4 Aria exited the study.
+5 Jayden moved the broccoli to the red_box.
+6 Jayden exited the study.
+7 Ava moved the broccoli to the green_suitcase.
+8 Ava exited the study.
+9 Ella moved the broccoli to the blue_bucket.
+10 Ella exited the study.
+11 Lucas made no movements and stayed in the study for 1 minute.
+12 Lucas exited the study.
+13 Aria, Jayden, Ava, Ella and Lucas entered the waiting_room.
+14 Aria, Ella and Ava entered the cellar.
+15 The pineapple is in the red_pantry.
+16 Aria moved the pineapple to the blue_bathtub.
+17 Aria exited the cellar.
+18 Ella made no movements and stayed in the cellar for 1 minute.
+19 Ella exited the cellar.
+20 Ava moved the pineapple to the red_envelope.
+21 Ava exited the cellar.
+22 Aria, Ella and Ava entered the waiting_room.
+Question: Where does Lucas really think the broccoli is?
+Answer: blue_bucket
+Choices: A. red_suitcase, B. blue_envelope, C. blue_treasure_chest, D. red_crate, E. green_envelope, F. blue_bathtub, G. red_pantry, H. green_bucket, I. red_bottle, J. red_envelope, K. green_suitcase, L. green_bathtub, M. blue_crate, N. red_box, O. blue_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

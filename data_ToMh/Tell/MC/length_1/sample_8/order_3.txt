@@ -1,23 +1,24 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Sophia, Isla, Benjamin, Alexander and Emily entered the living_room.
-2 The lettuce is in the red_bucket.
-3 Sophia moved the lettuce to the red_box.
-4 Sophia exited the living_room.
-5 Isla made no movements and stayed in the living_room for 1 minute.
-6 Isla exited the living_room.
-7 Benjamin made no movements and stayed in the living_room for 1 minute.
-8 Benjamin exited the living_room.
-9 Alexander moved the lettuce to the red_pantry.
-10 Alexander exited the living_room.
-11 Emily moved the lettuce to the red_bucket.
-12 Emily exited the living_room.
-13 Sophia, Isla, Benjamin, Alexander and Emily entered the waiting_room.
-14 Benjamin privately told Sophia that the lettuce is in the red_bucket.
-15 Isla lost his phone.
-16 Isla privately told Alexander that the lettuce is in the red_pantry.
-Question: Where does Sophia think Benjamin thinks Isla thinks the lettuce is?
-Answer: red_bucket
-Choices: A. blue_bathtub, B. red_crate, C. red_bottle, D. green_envelope, E. green_treasure_chest, F. blue_bottle, G. blue_treasure_chest, H. green_cupboard, I. blue_container, J. green_basket, K. red_bucket, L. red_pantry, M. blue_cupboard, N. blue_suitcase, O. red_box
+1 Aria, Benjamin, Sophia, Alexander and Hannah entered the study.
+2 The asparagus is in the blue_crate.
+3 Aria moved the asparagus to the red_crate.
+4 Aria exited the study.
+5 Hannah saw a cat.
+6 Benjamin made no movements and stayed in the study for 1 minute.
+7 Benjamin exited the study.
+8 Sophia moved the asparagus to the green_treasure_chest.
+9 Sophia exited the study.
+10 Alexander made no movements and stayed in the study for 1 minute.
+11 Alexander exited the study.
+12 Hannah moved the asparagus to the blue_crate.
+13 Aria likes the blue_envelope.
+14 Hannah exited the study.
+15 Aria, Benjamin, Sophia, Alexander and Hannah entered the waiting_room.
+16 Sophia publicly claimed that asparagus is in the blue_crate now.
+17 Hannah privately told Sophia that the asparagus is in the red_crate now.
+Question: Where does Sophia think Alexander thinks Benjamin thinks the asparagus is?
+Answer: red_crate
+Choices: A. blue_crate, B. green_crate, C. green_bathtub, D. red_crate, E. green_treasure_chest, F. green_bottle, G. green_bucket, H. red_box, I. red_envelope, J. red_suitcase, K. blue_bucket, L. blue_envelope, M. blue_box, N. blue_treasure_chest, O. blue_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

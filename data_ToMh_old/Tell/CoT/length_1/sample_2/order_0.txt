@@ -1,0 +1,24 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Abigail, Liam, Avery, Noah and Lily entered the garage.
+2 The lemon is in the blue_bathtub.
+3 Abigail moved the lemon to the blue_treasure_chest.
+4 Lily dislikes the cabbage.
+5 Abigail exited the garage.
+6 Liam made no movements and stayed in the garage for 1 minute.
+7 Liam exited the garage.
+8 Avery moved the lemon to the blue_pantry.
+9 Avery exited the garage.
+10 Noah made no movements and stayed in the garage for 1 minute.
+11 Noah exited the garage.
+12 Lily moved the lemon to the blue_bathtub.
+13 Lily exited the garage.
+14 Abigail, Liam, Avery, Noah and Lily entered the waiting_room.
+15 Abigail lost his watch.
+16 Avery privately told Abigail that the lemon is in the green_drawer.
+17 Liam privately told Noah that the lemon is in the blue_treasure_chest.
+Question: Where is the lemon really?
+Answer: blue_bathtub
+Choices: A. blue_bathtub, B. red_envelope, C. blue_pantry, D. green_drawer, E. blue_treasure_chest, F. blue_crate, G. blue_cupboard, H. green_pantry, I. blue_drawer, J. green_envelope, K. red_drawer, L. red_bucket, M. green_box, N. red_container, O. red_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,30 +1,29 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Sophia, Jackson, Amelia, Charlotte and Nathan entered the laundry.
-2 The tomato is in the blue_container.
-3 Sophia moved the tomato to the blue_cupboard.
-4 Sophia exited the laundry.
-5 Jackson moved the tomato to the blue_crate.
-6 Jackson exited the laundry.
-7 Amelia made no movements and stayed in the laundry for 1 minute.
-8 Amelia exited the laundry.
-9 Charlotte made no movements and stayed in the laundry for 1 minute.
-10 Charlotte exited the laundry.
-11 Nathan moved the tomato to the blue_container.
-12 Nathan exited the laundry.
-13 Sophia, Jackson, Amelia, Charlotte and Nathan entered the waiting_room.
-14 Nathan, Jackson and Amelia entered the hall.
-15 The onion is in the blue_treasure_chest.
-16 Nathan made no movements and stayed in the hall for 1 minute.
-17 Nathan exited the hall.
-18 Jackson moved the onion to the red_envelope.
-19 Jackson exited the hall.
-20 Amelia moved the onion to the green_cupboard.
-21 Jackson saw a mouse.
-22 Amelia exited the hall.
-23 Jackson lost his phone.
-24 Nathan, Jackson and Amelia entered the waiting_room.
-Question: Where does Jackson really think the tomato is?
-Choices: A. green_bottle, B. green_pantry, C. blue_suitcase, D. red_bucket, E. green_box, F. green_cupboard, G. blue_treasure_chest, H. red_bottle, I. green_drawer, J. red_envelope, K. blue_container, L. blue_crate, M. blue_cupboard, N. red_pantry, O. blue_bathtub
+1 Jack, Sophia, Liam, Jayden and Ella entered the patio.
+2 The green_pepper is in the blue_bathtub.
+3 Jack made no movements and stayed in the patio for 1 minute.
+4 Jack exited the patio.
+5 Sophia moved the green_pepper to the blue_pantry.
+6 Sophia exited the patio.
+7 Liam made no movements and stayed in the patio for 1 minute.
+8 Liam exited the patio.
+9 Jayden moved the green_pepper to the green_container.
+10 Jayden exited the patio.
+11 Ella made no movements and stayed in the patio for 1 minute.
+12 Ella exited the patio.
+13 Jack, Sophia, Liam, Jayden and Ella entered the waiting_room.
+14 Jack, Liam and Ella entered the patio.
+15 Liam lost his gloves.
+16 The green_pepper is in the green_container.
+17 Jack made no movements and stayed in the patio for 1 minute.
+18 Jack exited the patio.
+19 Liam made no movements and stayed in the patio for 1 minute.
+20 Liam exited the patio.
+21 Ella moved the green_pepper to the red_bottle.
+22 Ella exited the patio.
+23 Jack, Liam and Ella entered the waiting_room.
+Question: Where does Jayden really think the green_pepper is?
+Choices: A. blue_bathtub, B. red_bottle, C. blue_pantry, D. green_container, E. red_suitcase, F. red_basket, G. green_suitcase, H. blue_treasure_chest, I. blue_crate, J. green_crate, K. blue_container, L. red_bathtub, M. blue_drawer, N. red_box, O. green_pantry
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

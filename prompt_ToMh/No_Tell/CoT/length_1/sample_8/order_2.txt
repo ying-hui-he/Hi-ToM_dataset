@@ -1,20 +1,20 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Owen, Ella, Chloe, Sophia and Noah entered the crawlspace.
-2 The corn is in the green_crate.
-3 Owen made no movements and stayed in the crawlspace for 1 minute.
-4 Owen exited the crawlspace.
-5 Ella made no movements and stayed in the crawlspace for 1 minute.
-6 Ella exited the crawlspace.
-7 Chloe made no movements and stayed in the crawlspace for 1 minute.
-8 Ella dislikes the corn.
-9 Chloe exited the crawlspace.
-10 Sophia moved the corn to the blue_suitcase.
-11 Sophia exited the crawlspace.
-12 Noah made no movements and stayed in the crawlspace for 1 minute.
-13 Noah exited the crawlspace.
-14 Owen, Ella, Chloe, Sophia and Noah entered the waiting_room.
-Question: Where does Chloe think Sophia thinks the corn is?
-Choices: A. red_crate, B. red_box, C. green_envelope, D. green_drawer, E. red_pantry, F. green_crate, G. blue_pantry, H. blue_bucket, I. red_drawer, J. blue_suitcase, K. blue_bathtub, L. red_container, M. green_box, N. green_bathtub, O. blue_crate
+1 Ella, Isabella, Emma, Charlotte and Aria entered the front_yard.
+2 The cherry is in the blue_envelope.
+3 Ella made no movements and stayed in the front_yard for 1 minute.
+4 Ella exited the front_yard.
+5 Aria dislikes the pumpkin.
+6 Isabella made no movements and stayed in the front_yard for 1 minute.
+7 Isabella exited the front_yard.
+8 Emma moved the cherry to the red_suitcase.
+9 Emma exited the front_yard.
+10 Charlotte made no movements and stayed in the front_yard for 1 minute.
+11 Charlotte exited the front_yard.
+12 Aria made no movements and stayed in the front_yard for 1 minute.
+13 Aria exited the front_yard.
+14 Ella, Isabella, Emma, Charlotte and Aria entered the waiting_room.
+Question: Where does Isabella think Ella thinks the cherry is?
+Choices: A. red_crate, B. blue_envelope, C. blue_cupboard, D. red_suitcase, E. green_bottle, F. red_box, G. green_treasure_chest, H. green_pantry, I. blue_crate, J. blue_bathtub, K. green_envelope, L. green_container, M. green_bucket, N. blue_bucket, O. red_envelope
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Isla, Noah, Sophia and Lily entered the staircase.
+2 The corn is in the blue_treasure_chest.
+3 Mila made no movements and stayed in the staircase for 1 minute.
+4 Mila exited the staircase.
+5 Isla made no movements and stayed in the staircase for 1 minute.
+6 Noah dislikes the green_pepper.
+7 Isla exited the staircase.
+8 Noah made no movements and stayed in the staircase for 1 minute.
+9 Noah exited the staircase.
+10 Sophia moved the corn to the blue_container.
+11 Sophia exited the staircase.
+12 Lily made no movements and stayed in the staircase for 1 minute.
+13 Sophia dislikes the tomato.
+14 Lily exited the staircase.
+15 Mila, Isla, Noah, Sophia and Lily entered the waiting_room.
+16 Isla, Sophia and Lily entered the front_yard.
+17 The tomato is in the red_box.
+18 Isla made no movements and stayed in the front_yard for 1 minute.
+19 Isla exited the front_yard.
+20 Sophia made no movements and stayed in the front_yard for 1 minute.
+21 Sophia exited the front_yard.
+22 Lily moved the tomato to the green_drawer.
+23 Lily exited the front_yard.
+24 Isla, Sophia and Lily entered the waiting_room.
+Question: Where does Isla think Lily thinks Noah thinks the corn is?
+Answer: blue_treasure_chest
+Choices: A. green_pantry, B. red_envelope, C. green_bathtub, D. red_basket, E. blue_suitcase, F. red_box, G. blue_bottle, H. blue_drawer, I. green_drawer, J. red_container, K. blue_treasure_chest, L. red_bottle, M. blue_container, N. green_envelope, O. green_box
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

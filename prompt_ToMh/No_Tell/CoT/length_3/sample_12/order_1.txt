@@ -1,40 +1,42 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Owen, Liam, Jack, Jackson and Benjamin entered the hall.
-2 The beans is in the blue_suitcase.
-3 Owen made no movements and stayed in the hall for 1 minute.
-4 Owen exited the hall.
-5 Liam made no movements and stayed in the hall for 1 minute.
-6 Liam exited the hall.
-7 Jack moved the beans to the green_treasure_chest.
-8 Jack exited the hall.
-9 Jackson made no movements and stayed in the hall for 1 minute.
-10 Jackson exited the hall.
-11 Benjamin moved the beans to the blue_suitcase.
-12 Benjamin exited the hall.
-13 Owen, Liam, Jack, Jackson and Benjamin entered the waiting_room.
-14 Owen, Jack and Jackson entered the workshop.
-15 The cherry is in the red_basket.
-16 Owen made no movements and stayed in the workshop for 1 minute.
-17 Owen exited the workshop.
-18 Jack made no movements and stayed in the workshop for 1 minute.
-19 Jack exited the workshop.
-20 Jackson made no movements and stayed in the workshop for 1 minute.
-21 Jackson exited the workshop.
-22 Owen, Jack and Jackson entered the waiting_room.
-23 Owen, Jack, Benjamin and Jackson entered the hall.
-24 The beans is in the blue_suitcase.
-25 Owen made no movements and stayed in the hall for 1 minute.
-26 Owen likes the blue_bathtub.
-27 Owen exited the hall.
-28 Jack made no movements and stayed in the hall for 1 minute.
-29 Jack exited the hall.
-30 Benjamin made no movements and stayed in the hall for 1 minute.
-31 Benjamin exited the hall.
-32 Jackson made no movements and stayed in the hall for 1 minute.
-33 Jackson exited the hall.
-34 Owen, Jack, Benjamin and Jackson entered the waiting_room.
-Question: Where does Jack really think the beans is?
-Choices: A. blue_suitcase, B. green_bathtub, C. blue_bathtub, D. green_envelope, E. green_treasure_chest, F. red_basket, G. blue_bottle, H. blue_cupboard, I. blue_bucket, J. green_bottle, K. red_box, L. red_container, M. green_pantry, N. green_cupboard, O. red_bottle
+1 Hannah, Ella, Jackson, Jack and Lucas entered the den.
+2 The tangerine is in the green_bucket.
+3 Hannah made no movements and stayed in the den for 1 minute.
+4 Hannah exited the den.
+5 Jackson likes the blue_bucket.
+6 Ella moved the tangerine to the red_suitcase.
+7 Ella exited the den.
+8 Jackson moved the tangerine to the green_pantry.
+9 Jackson exited the den.
+10 Jack moved the tangerine to the blue_bucket.
+11 Jack exited the den.
+12 Lucas moved the tangerine to the green_bucket.
+13 Lucas exited the den.
+14 Hannah, Ella, Jackson, Jack and Lucas entered the waiting_room.
+15 Hannah, Jack and Jackson entered the bathroom.
+16 The carrot is in the green_suitcase.
+17 Hannah moved the carrot to the red_bathtub.
+18 Hannah exited the bathroom.
+19 Jack made no movements and stayed in the bathroom for 1 minute.
+20 Jack exited the bathroom.
+21 Jackson moved the carrot to the green_basket.
+22 Jackson exited the bathroom.
+23 Hannah, Jack and Jackson entered the waiting_room.
+24 Jack, Lucas, Hannah and Ella entered the bathroom.
+25 The broccoli is in the blue_cupboard.
+26 Hannah saw a monkey.
+27 Jack moved the broccoli to the red_bathtub.
+28 Jack exited the bathroom.
+29 Lucas moved the broccoli to the green_basket.
+30 Lucas exited the bathroom.
+31 Hannah moved the broccoli to the blue_pantry.
+32 Hannah exited the bathroom.
+33 Ella moved the broccoli to the green_suitcase.
+34 Ella exited the bathroom.
+35 Hannah likes the green_suitcase.
+36 Jack, Lucas, Hannah and Ella entered the waiting_room.
+Question: Where does Lucas really think the tangerine is?
+Choices: A. green_envelope, B. green_bucket, C. green_pantry, D. red_suitcase, E. blue_bucket, F. red_treasure_chest, G. red_envelope, H. red_crate, I. red_basket, J. blue_treasure_chest, K. blue_cupboard, L. green_suitcase, M. green_basket, N. blue_pantry, O. red_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

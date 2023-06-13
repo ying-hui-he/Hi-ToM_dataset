@@ -1,46 +1,46 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Aiden saw a cat.
-2 Owen, Avery, Noah, Aiden and Ella entered the front_yard.
-3 The cherry is in the green_envelope.
-4 Noah likes the green_envelope.
-5 Owen moved the cherry to the blue_bucket.
-6 Owen exited the front_yard.
-7 Avery lost his phone.
-8 Avery made no movements and stayed in the front_yard for 1 minute.
-9 Avery exited the front_yard.
-10 Noah made no movements and stayed in the front_yard for 1 minute.
-11 Noah exited the front_yard.
-12 Aiden moved the cherry to the blue_cupboard.
-13 Aiden exited the front_yard.
-14 Ella made no movements and stayed in the front_yard for 1 minute.
-15 Ella exited the front_yard.
-16 Owen, Avery, Noah, Aiden and Ella entered the waiting_room.
-17 Noah publicly claimed that cherry is in the green_envelope.
-18 Ella privately told Noah that the cherry is in the blue_bottle.
-19 Aiden, Avery and Owen entered the bedroom.
-20 The lettuce is in the green_box.
-21 Aiden made no movements and stayed in the bedroom for 1 minute.
-22 Aiden exited the bedroom.
-23 Avery moved the lettuce to the red_envelope.
-24 Avery exited the bedroom.
-25 Owen made no movements and stayed in the bedroom for 1 minute.
-26 Owen exited the bedroom.
-27 Aiden, Avery and Owen entered the waiting_room.
-28 Owen, Ella, Aiden and Avery entered the bedroom.
-29 The lettuce is in the red_envelope.
-30 Owen made no movements and stayed in the bedroom for 1 minute.
-31 Owen exited the bedroom.
-32 Ella made no movements and stayed in the bedroom for 1 minute.
-33 Ella exited the bedroom.
-34 Aiden made no movements and stayed in the bedroom for 1 minute.
-35 Aiden exited the bedroom.
-36 Avery moved the lettuce to the blue_treasure_chest.
-37 Avery exited the bedroom.
-38 Owen, Ella, Aiden and Avery entered the waiting_room.
-39 Ella privately told Aiden that the lettuce is in the red_box.
-40 Avery privately told Noah that the lettuce is in the blue_treasure_chest.
-Question: Where does Noah think Aiden thinks the cherry is?
-Choices: A. blue_container, B. green_crate, C. green_bottle, D. green_basket, E. red_crate, F. green_envelope, G. blue_bottle, H. red_container, I. blue_bucket, J. blue_cupboard, K. red_envelope, L. green_box, M. red_box, N. green_drawer, O. blue_treasure_chest
+1 Nathan, Elizabeth, Sophia, Jackson and Isla entered the sunroom.
+2 Elizabeth lost his gloves.
+3 The pumpkin is in the green_bathtub.
+4 Nathan made no movements and stayed in the sunroom for 1 minute.
+5 Nathan exited the sunroom.
+6 Elizabeth made no movements and stayed in the sunroom for 1 minute.
+7 Elizabeth exited the sunroom.
+8 Sophia made no movements and stayed in the sunroom for 1 minute.
+9 Sophia exited the sunroom.
+10 Isla dislikes the celery.
+11 Jackson made no movements and stayed in the sunroom for 1 minute.
+12 Jackson exited the sunroom.
+13 Isla moved the pumpkin to the green_bathtub.
+14 Isla exited the sunroom.
+15 Nathan, Elizabeth, Sophia, Jackson and Isla entered the waiting_room.
+16 Sophia privately told Nathan that the pumpkin is in the green_bathtub now.
+17 Elizabeth privately told Jackson that the pumpkin is in the green_suitcase now.
+18 Elizabeth, Isla and Sophia entered the sunroom.
+19 The pumpkin is in the green_bathtub.
+20 Elizabeth moved the pumpkin to the red_suitcase.
+21 Elizabeth exited the sunroom.
+22 Isla made no movements and stayed in the sunroom for 1 minute.
+23 Isla exited the sunroom.
+24 Sophia made no movements and stayed in the sunroom for 1 minute.
+25 Sophia exited the sunroom.
+26 Elizabeth, Isla and Sophia entered the waiting_room.
+27 Nathan lost his phone.
+28 Nathan, Elizabeth, Jackson and Sophia entered the den.
+29 The radish is in the red_treasure_chest.
+30 Nathan made no movements and stayed in the den for 1 minute.
+31 Nathan exited the den.
+32 Elizabeth made no movements and stayed in the den for 1 minute.
+33 Elizabeth exited the den.
+34 Jackson moved the radish to the green_container.
+35 Jackson exited the den.
+36 Sophia moved the radish to the red_envelope.
+37 Sophia exited the den.
+38 Nathan, Elizabeth, Jackson and Sophia entered the waiting_room.
+39 Elizabeth privately told Jackson that the radish is in the blue_cupboard now.
+40 Sophia privately told Isla that the radish is in the red_envelope now.
+Question: Where does Jackson think Isla thinks the pumpkin is?
+Choices: A. green_envelope, B. green_basket, C. red_box, D. green_treasure_chest, E. blue_pantry, F. red_treasure_chest, G. blue_cupboard, H. blue_envelope, I. green_container, J. red_envelope, K. green_pantry, L. green_bathtub, M. red_suitcase, N. blue_crate, O. green_suitcase
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

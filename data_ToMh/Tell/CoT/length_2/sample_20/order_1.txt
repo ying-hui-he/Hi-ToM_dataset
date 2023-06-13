@@ -1,32 +1,31 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Lily, Amelia, Jacob, Evelyn and Ava entered the garden.
-2 The melon is in the blue_treasure_chest.
-3 Lily made no movements and stayed in the garden for 1 minute.
-4 Lily exited the garden.
-5 Amelia moved the melon to the green_bucket.
-6 Amelia exited the garden.
-7 Jacob moved the melon to the green_drawer.
-8 Jacob exited the garden.
-9 Evelyn moved the melon to the green_bottle.
-10 Evelyn exited the garden.
-11 Ava moved the melon to the blue_treasure_chest.
-12 Ava exited the garden.
-13 Lily, Amelia, Jacob, Evelyn and Ava entered the waiting_room.
-14 Jacob saw a cat.
-15 Lily, Jacob and Amelia entered the dining_room.
-16 The cherry is in the green_treasure_chest.
-17 Lily moved the cherry to the red_box.
-18 Lily exited the dining_room.
-19 Jacob moved the cherry to the blue_bottle.
-20 Jacob exited the dining_room.
-21 Amelia moved the cherry to the red_envelope.
-22 Amelia exited the dining_room.
-23 Lily, Jacob and Amelia entered the waiting_room.
-24 Jacob publicly claimed that cherry is in the red_box.
-25 Amelia privately told Jacob that the cherry is in the red_envelope.
-Question: Where does Jacob really think the melon is?
-Answer: green_drawer
-Choices: A. green_bottle, B. blue_treasure_chest, C. blue_bucket, D. green_bucket, E. green_drawer, F. green_envelope, G. red_basket, H. green_crate, I. green_bathtub, J. blue_suitcase, K. red_box, L. green_treasure_chest, M. red_envelope, N. blue_container, O. blue_bottle
+1 Hannah, William, Aiden, Lily and Alexander entered the hallway.
+2 The plum is in the blue_cupboard.
+3 Hannah moved the plum to the red_basket.
+4 Hannah exited the hallway.
+5 William made no movements and stayed in the hallway for 1 minute.
+6 William exited the hallway.
+7 Aiden made no movements and stayed in the hallway for 1 minute.
+8 Aiden exited the hallway.
+9 Lily moved the plum to the blue_treasure_chest.
+10 Lily exited the hallway.
+11 Alexander moved the plum to the blue_cupboard.
+12 Alexander exited the hallway.
+13 Hannah, William, Aiden, Lily and Alexander entered the waiting_room.
+14 Hannah, Aiden and Alexander entered the garage.
+15 The spinach is in the red_envelope.
+16 Hannah moved the spinach to the green_basket.
+17 Hannah exited the garage.
+18 Aiden made no movements and stayed in the garage for 1 minute.
+19 Aiden exited the garage.
+20 Alexander moved the spinach to the blue_crate.
+21 Alexander exited the garage.
+22 Hannah, Aiden and Alexander entered the waiting_room.
+23 Alexander publicly claimed that spinach is in the red_envelope now.
+24 Hannah privately told Alexander that the spinach is in the green_bathtub now.
+Question: Where does Aiden really think the plum is?
+Answer: red_basket
+Choices: A. blue_crate, B. red_envelope, C. green_bathtub, D. blue_container, E. green_basket, F. red_basket, G. blue_cupboard, H. blue_treasure_chest, I. green_suitcase, J. red_pantry, K. green_bucket, L. blue_bucket, M. blue_suitcase, N. blue_pantry, O. blue_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

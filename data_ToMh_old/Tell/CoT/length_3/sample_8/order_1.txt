@@ -1,0 +1,50 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Avery, Amelia, Jack, Chloe and Sophia entered the garage.
+2 The carrot is in the red_pantry.
+3 Avery moved the carrot to the red_bucket.
+4 Amelia lost his phone.
+5 Avery exited the garage.
+6 Amelia made no movements and stayed in the garage for 1 minute.
+7 Jack lost his phone.
+8 Amelia exited the garage.
+9 Jack moved the carrot to the blue_crate.
+10 Jack exited the garage.
+11 Chloe moved the carrot to the green_box.
+12 Chloe exited the garage.
+13 Avery dislikes the cherry.
+14 Sophia moved the carrot to the red_pantry.
+15 Sophia exited the garage.
+16 Avery, Amelia, Jack, Chloe and Sophia entered the waiting_room.
+17 Amelia saw a cat.
+18 Jack publicly claimed that carrot is in the green_treasure_chest.
+19 Sophia privately told Jack that the carrot is in the green_box.
+20 Chloe, Sophia and Amelia entered the closet.
+21 The lettuce is in the red_box.
+22 Chloe made no movements and stayed in the closet for 1 minute.
+23 Chloe exited the closet.
+24 Sophia made no movements and stayed in the closet for 1 minute.
+25 Sophia exited the closet.
+26 Amelia made no movements and stayed in the closet for 1 minute.
+27 Amelia exited the closet.
+28 Chloe, Sophia and Amelia entered the waiting_room.
+29 Chloe, Sophia, Avery and Jack entered the closet.
+30 The watermelon is in the blue_pantry.
+31 Chloe made no movements and stayed in the closet for 1 minute.
+32 Chloe exited the closet.
+33 Sophia made no movements and stayed in the closet for 1 minute.
+34 Sophia exited the closet.
+35 Avery likes the red_pantry.
+36 Avery made no movements and stayed in the closet for 1 minute.
+37 Avery exited the closet.
+38 Jack made no movements and stayed in the closet for 1 minute.
+39 Jack exited the closet.
+40 Jack dislikes the watermelon.
+41 Chloe, Sophia, Avery and Jack entered the waiting_room.
+42 Sophia publicly claimed that watermelon is in the red_envelope.
+43 Jack privately told Avery that the watermelon is in the blue_pantry.
+Question: Where does Chloe really think the carrot is?
+Answer: green_box
+Choices: A. blue_pantry, B. red_box, C. red_envelope, D. green_envelope, E. green_drawer, F. blue_treasure_chest, G. blue_container, H. green_bucket, I. green_basket, J. red_drawer, K. red_pantry, L. green_treasure_chest, M. red_bucket, N. green_box, O. blue_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

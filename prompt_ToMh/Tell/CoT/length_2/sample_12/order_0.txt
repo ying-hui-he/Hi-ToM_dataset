@@ -1,32 +1,32 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Isabella saw a monkey.
-2 Mila, Nathan, Avery, Isabella and Jackson entered the kitchen.
-3 The spinach is in the green_envelope.
-4 Mila moved the spinach to the blue_container.
-5 Mila exited the kitchen.
-6 Nathan made no movements and stayed in the kitchen for 1 minute.
-7 Nathan exited the kitchen.
-8 Avery made no movements and stayed in the kitchen for 1 minute.
-9 Avery exited the kitchen.
-10 Isabella made no movements and stayed in the kitchen for 1 minute.
-11 Isabella exited the kitchen.
-12 Jackson moved the spinach to the green_envelope.
-13 Jackson exited the kitchen.
-14 Mila, Nathan, Avery, Isabella and Jackson entered the waiting_room.
-15 Jackson, Avery and Mila entered the pantry.
-16 The pear is in the green_bottle.
-17 Jackson made no movements and stayed in the pantry for 1 minute.
-18 Isabella likes the blue_container.
-19 Jackson exited the pantry.
-20 Avery moved the pear to the green_bucket.
-21 Avery exited the pantry.
-22 Mila moved the pear to the blue_crate.
-23 Mila exited the pantry.
-24 Jackson, Avery and Mila entered the waiting_room.
-25 Avery privately told Mila that the pear is in the green_bottle.
-26 Mila privately told Isabella that the pear is in the blue_crate.
-Question: Where is the spinach really?
-Choices: A. green_bottle, B. blue_crate, C. blue_pantry, D. green_bucket, E. blue_bucket, F. green_pantry, G. red_drawer, H. red_container, I. red_crate, J. blue_treasure_chest, K. blue_drawer, L. green_envelope, M. blue_bottle, N. green_basket, O. blue_container
+1 Isla, Alexander, Isabella, Lily and Aria entered the back_yard.
+2 The celery is in the green_treasure_chest.
+3 Isla dislikes the cabbage.
+4 Isla moved the celery to the blue_bucket.
+5 Isla exited the back_yard.
+6 Alexander moved the celery to the red_suitcase.
+7 Alexander exited the back_yard.
+8 Isabella made no movements and stayed in the back_yard for 1 minute.
+9 Isabella exited the back_yard.
+10 Lily made no movements and stayed in the back_yard for 1 minute.
+11 Lily exited the back_yard.
+12 Aria moved the celery to the green_treasure_chest.
+13 Aria exited the back_yard.
+14 Isla, Alexander, Isabella, Lily and Aria entered the waiting_room.
+15 Aria, Alexander and Lily entered the back_yard.
+16 The apple is in the blue_treasure_chest.
+17 Aria moved the apple to the green_envelope.
+18 Aria exited the back_yard.
+19 Alexander made no movements and stayed in the back_yard for 1 minute.
+20 Alexander exited the back_yard.
+21 Lily moved the apple to the green_treasure_chest.
+22 Lily exited the back_yard.
+23 Isabella likes the green_bottle.
+24 Aria, Alexander and Lily entered the waiting_room.
+25 Lily publicly claimed that apple is in the blue_treasure_chest now.
+26 Aria privately told Lily that the apple is in the blue_bucket now.
+Question: Where is the celery really?
+Choices: A. green_treasure_chest, B. blue_treasure_chest, C. blue_bucket, D. red_suitcase, E. green_envelope, F. red_basket, G. blue_container, H. green_suitcase, I. red_pantry, J. green_container, K. red_box, L. blue_cupboard, M. green_bottle, N. green_bathtub, O. green_basket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

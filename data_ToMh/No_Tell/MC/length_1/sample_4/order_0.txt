@@ -1,22 +1,21 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Evelyn saw a dog.
-2 Noah, Emily, Avery, Evelyn and Mila entered the front_yard.
-3 The spinach is in the green_bucket.
-4 Noah made no movements and stayed in the front_yard for 1 minute.
-5 Noah exited the front_yard.
-6 Emily made no movements and stayed in the front_yard for 1 minute.
-7 Emily exited the front_yard.
-8 Avery made no movements and stayed in the front_yard for 1 minute.
-9 Avery exited the front_yard.
-10 Evelyn made no movements and stayed in the front_yard for 1 minute.
-11 Evelyn exited the front_yard.
-12 Avery saw a cat.
-13 Mila moved the spinach to the green_bucket.
-14 Mila exited the front_yard.
-15 Noah, Emily, Avery, Evelyn and Mila entered the waiting_room.
-Question: Where is the spinach really?
-Answer: green_bucket
-Choices: A. blue_treasure_chest, B. blue_bottle, C. blue_drawer, D. blue_suitcase, E. green_basket, F. blue_cupboard, G. green_bottle, H. green_treasure_chest, I. green_cupboard, J. red_pantry, K. green_bucket, L. blue_bucket, M. green_box, N. red_crate, O. blue_crate
+1 Nathan, Evelyn, Alexander, Sophia and Carter entered the front_yard.
+2 The sweet_potato is in the blue_cupboard.
+3 Nathan moved the sweet_potato to the green_crate.
+4 Evelyn lost his watch.
+5 Nathan exited the front_yard.
+6 Evelyn moved the sweet_potato to the red_bathtub.
+7 Evelyn exited the front_yard.
+8 Alexander made no movements and stayed in the front_yard for 1 minute.
+9 Alexander exited the front_yard.
+10 Sophia made no movements and stayed in the front_yard for 1 minute.
+11 Sophia exited the front_yard.
+12 Carter made no movements and stayed in the front_yard for 1 minute.
+13 Carter exited the front_yard.
+14 Nathan, Evelyn, Alexander, Sophia and Carter entered the waiting_room.
+Question: Where is the sweet_potato really?
+Answer: red_bathtub
+Choices: A. blue_cupboard, B. red_bathtub, C. green_crate, D. red_pantry, E. red_envelope, F. blue_treasure_chest, G. red_basket, H. red_crate, I. blue_box, J. blue_pantry, K. red_box, L. blue_envelope, M. blue_crate, N. green_bucket, O. green_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,28 +1,29 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Ava, Evelyn, Charlotte, William and Jacob entered the dining_room.
-2 The cucumber is in the green_treasure_chest.
-3 Ava made no movements and stayed in the dining_room for 1 minute.
-4 Ava exited the dining_room.
-5 Evelyn moved the cucumber to the red_envelope.
-6 Evelyn exited the dining_room.
-7 Charlotte moved the cucumber to the red_crate.
-8 Charlotte exited the dining_room.
-9 William made no movements and stayed in the dining_room for 1 minute.
-10 William exited the dining_room.
-11 Jacob moved the cucumber to the green_treasure_chest.
-12 Jacob exited the dining_room.
-13 Ava, Evelyn, Charlotte, William and Jacob entered the waiting_room.
-14 Evelyn, Jacob and Charlotte entered the pantry.
-15 The watermelon is in the green_basket.
-16 Evelyn moved the watermelon to the blue_cupboard.
-17 Evelyn exited the pantry.
-18 Jacob moved the watermelon to the red_pantry.
-19 Jacob exited the pantry.
-20 Charlotte made no movements and stayed in the pantry for 1 minute.
-21 Charlotte exited the pantry.
-22 Evelyn, Jacob and Charlotte entered the waiting_room.
-Question: Where does Evelyn really think the cucumber is?
-Choices: A. green_pantry, B. red_drawer, C. green_cupboard, D. green_envelope, E. blue_treasure_chest, F. red_envelope, G. green_treasure_chest, H. blue_drawer, I. red_crate, J. green_bottle, K. green_basket, L. red_pantry, M. blue_cupboard, N. green_box, O. red_bottle
+1 Lily, Jayden, Sophia, Gracie and Isla entered the laundry.
+2 The broccoli is in the blue_drawer.
+3 Lily made no movements and stayed in the laundry for 1 minute.
+4 Lily exited the laundry.
+5 Jayden moved the broccoli to the red_crate.
+6 Jayden saw a mouse.
+7 Jayden exited the laundry.
+8 Sophia made no movements and stayed in the laundry for 1 minute.
+9 Sophia exited the laundry.
+10 Gracie moved the broccoli to the blue_suitcase.
+11 Gracie exited the laundry.
+12 Isla made no movements and stayed in the laundry for 1 minute.
+13 Isla exited the laundry.
+14 Lily, Jayden, Sophia, Gracie and Isla entered the waiting_room.
+15 Sophia, Isla and Jayden entered the living_room.
+16 The strawberry is in the red_box.
+17 Sophia made no movements and stayed in the living_room for 1 minute.
+18 Sophia exited the living_room.
+19 Isla moved the strawberry to the green_envelope.
+20 Isla exited the living_room.
+21 Jayden moved the strawberry to the red_envelope.
+22 Jayden exited the living_room.
+23 Sophia, Isla and Jayden entered the waiting_room.
+Question: Where does Gracie really think the broccoli is?
+Choices: A. red_box, B. green_envelope, C. red_bathtub, D. blue_pantry, E. red_envelope, F. red_crate, G. blue_drawer, H. green_bathtub, I. blue_suitcase, J. red_suitcase, K. blue_box, L. red_basket, M. blue_bucket, N. green_suitcase, O. blue_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

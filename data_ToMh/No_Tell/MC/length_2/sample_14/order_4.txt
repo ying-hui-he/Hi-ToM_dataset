@@ -1,30 +1,30 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Evelyn, Isla, Alexander, Emma and Sophia entered the hall.
-2 The lemon is in the red_box.
-3 Evelyn moved the lemon to the red_container.
-4 Evelyn exited the hall.
-5 Isla made no movements and stayed in the hall for 1 minute.
-6 Isla exited the hall.
-7 Alexander moved the lemon to the green_treasure_chest.
-8 Alexander exited the hall.
-9 Emma moved the lemon to the green_bottle.
-10 Emma exited the hall.
-11 Sophia made no movements and stayed in the hall for 1 minute.
-12 Sophia exited the hall.
-13 Evelyn, Isla, Alexander, Emma and Sophia entered the waiting_room.
-14 Alexander, Emma and Evelyn entered the TV_room.
-15 The pear is in the red_basket.
-16 Alexander made no movements and stayed in the TV_room for 1 minute.
-17 Alexander exited the TV_room.
-18 Emma moved the pear to the blue_treasure_chest.
-19 Emma exited the TV_room.
-20 Emma dislikes the eggplant.
-21 Evelyn made no movements and stayed in the TV_room for 1 minute.
-22 Evelyn exited the TV_room.
-23 Alexander, Emma and Evelyn entered the waiting_room.
-Question: Where does Alexander think Evelyn thinks Sophia thinks Isla thinks the lemon is?
-Answer: red_box
-Choices: A. red_basket, B. blue_treasure_chest, C. green_crate, D. blue_cupboard, E. red_bottle, F. blue_crate, G. green_pantry, H. green_bucket, I. green_box, J. blue_drawer, K. green_bottle, L. red_box, M. green_treasure_chest, N. blue_bathtub, O. red_container
+1 Gracie likes the green_crate.
+2 Jayden, Elizabeth, Gracie, Aria and Isla entered the study.
+3 The peach is in the green_container.
+4 Jayden made no movements and stayed in the study for 1 minute.
+5 Jayden exited the study.
+6 Elizabeth made no movements and stayed in the study for 1 minute.
+7 Elizabeth exited the study.
+8 Gracie made no movements and stayed in the study for 1 minute.
+9 Gracie exited the study.
+10 Aria made no movements and stayed in the study for 1 minute.
+11 Aria exited the study.
+12 Isla made no movements and stayed in the study for 1 minute.
+13 Isla exited the study.
+14 Jayden, Elizabeth, Gracie, Aria and Isla entered the waiting_room.
+15 Isla, Jayden and Elizabeth entered the staircase.
+16 The potato is in the red_suitcase.
+17 Isla moved the potato to the blue_box.
+18 Isla exited the staircase.
+19 Jayden made no movements and stayed in the staircase for 1 minute.
+20 Jayden exited the staircase.
+21 Elizabeth made no movements and stayed in the staircase for 1 minute.
+22 Elizabeth exited the staircase.
+23 Isla, Jayden and Elizabeth entered the waiting_room.
+Question: Where does Elizabeth think Jayden thinks Aria thinks Gracie thinks the peach is?
+Answer: green_container
+Choices: A. red_suitcase, B. green_crate, C. red_bathtub, D. blue_box, E. green_bathtub, F. blue_container, G. red_treasure_chest, H. green_pantry, I. green_suitcase, J. blue_bathtub, K. green_container, L. blue_pantry, M. blue_suitcase, N. red_bottle, O. blue_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

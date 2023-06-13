@@ -1,48 +1,46 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Ella saw a mouse.
-2 Jackson, Jack, Ella, Jacob and Amelia entered the laundry.
-3 The spinach is in the red_container.
-4 Jackson moved the spinach to the green_crate.
-5 Jackson exited the laundry.
-6 Jack moved the spinach to the blue_drawer.
-7 Jack exited the laundry.
-8 Ella moved the spinach to the red_drawer.
-9 Ella exited the laundry.
-10 Jacob made no movements and stayed in the laundry for 1 minute.
-11 Jacob exited the laundry.
-12 Amelia made no movements and stayed in the laundry for 1 minute.
-13 Amelia exited the laundry.
-14 Jackson, Jack, Ella, Jacob and Amelia entered the waiting_room.
-15 Ella privately told Jackson that the spinach is in the red_crate.
-16 Jack privately told Jacob that the spinach is in the red_drawer.
-17 Jackson, Jacob and Ella entered the laundry.
-18 The spinach is in the red_drawer.
-19 Jackson moved the spinach to the green_crate.
-20 Jackson exited the laundry.
-21 Jacob made no movements and stayed in the laundry for 1 minute.
-22 Jacob exited the laundry.
-23 Amelia dislikes the tomato.
-24 Ella made no movements and stayed in the laundry for 1 minute.
-25 Ella exited the laundry.
-26 Amelia likes the red_crate.
-27 Jackson, Jacob and Ella entered the waiting_room.
-28 Jacob likes the red_pantry.
-29 Amelia, Jacob, Ella and Jack entered the patio.
-30 The tomato is in the green_drawer.
-31 Amelia moved the tomato to the green_bottle.
-32 Amelia exited the patio.
-33 Jacob made no movements and stayed in the patio for 1 minute.
-34 Jacob exited the patio.
-35 Ella moved the tomato to the green_bucket.
-36 Ella exited the patio.
-37 Jack made no movements and stayed in the patio for 1 minute.
-38 Jack exited the patio.
-39 Amelia, Jacob, Ella and Jack entered the waiting_room.
-40 Amelia publicly claimed that tomato is in the green_box.
-41 Jack privately told Jackson that the tomato is in the green_bucket.
-Question: Where does Jacob really think the spinach is?
-Answer: green_crate
-Choices: A. green_bottle, B. green_drawer, C. green_box, D. green_bucket, E. blue_crate, F. green_bathtub, G. blue_suitcase, H. red_pantry, I. blue_bucket, J. blue_bathtub, K. red_container, L. blue_drawer, M. red_drawer, N. red_crate, O. green_crate
+1 Lucas, Amelia, Emma, Gracie and Benjamin entered the hallway.
+2 The strawberry is in the red_envelope.
+3 Lucas moved the strawberry to the blue_drawer.
+4 Lucas exited the hallway.
+5 Amelia moved the strawberry to the blue_crate.
+6 Amelia exited the hallway.
+7 Emma moved the strawberry to the red_bottle.
+8 Emma exited the hallway.
+9 Gracie made no movements and stayed in the hallway for 1 minute.
+10 Gracie exited the hallway.
+11 Benjamin made no movements and stayed in the hallway for 1 minute.
+12 Benjamin exited the hallway.
+13 Lucas, Amelia, Emma, Gracie and Benjamin entered the waiting_room.
+14 Emma publicly claimed that strawberry is in the blue_crate now.
+15 Benjamin privately told Emma that the strawberry is in the red_bottle now.
+16 Benjamin, Emma and Amelia entered the hallway.
+17 The strawberry is in the red_bottle.
+18 Benjamin moved the strawberry to the blue_treasure_chest.
+19 Benjamin exited the hallway.
+20 Emma moved the strawberry to the blue_crate.
+21 Emma exited the hallway.
+22 Amelia moved the strawberry to the red_envelope.
+23 Amelia exited the hallway.
+24 Benjamin, Emma and Amelia entered the waiting_room.
+25 Emma, Gracie, Lucas and Benjamin entered the sunroom.
+26 The onion is in the blue_bucket.
+27 Emma made no movements and stayed in the sunroom for 1 minute.
+28 Emma exited the sunroom.
+29 Gracie moved the onion to the blue_cupboard.
+30 Gracie exited the sunroom.
+31 Lucas moved the onion to the blue_container.
+32 Lucas exited the sunroom.
+33 Benjamin made no movements and stayed in the sunroom for 1 minute.
+34 Gracie lost his phone.
+35 Benjamin exited the sunroom.
+36 Emma, Gracie, Lucas and Benjamin entered the waiting_room.
+37 Lucas publicly claimed that onion is in the red_basket now.
+38 Lucas likes the red_envelope.
+39 Emma privately told Benjamin that the onion is in the blue_bucket now.
+Question: Where does Gracie really think the strawberry is?
+Answer: red_bottle
+Choices: A. blue_bucket, B. red_basket, C. blue_container, D. red_bathtub, E. blue_cupboard, F. green_envelope, G. blue_envelope, H. red_box, I. green_bottle, J. red_suitcase, K. blue_crate, L. red_envelope, M. blue_treasure_chest, N. red_bottle, O. blue_drawer
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

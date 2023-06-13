@@ -1,50 +1,46 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Hannah, Jacob, Jackson, Isabella and Owen entered the laundry.
-2 The orange is in the green_box.
-3 Hannah made no movements and stayed in the laundry for 1 minute.
-4 Hannah exited the laundry.
-5 Hannah saw a monkey.
-6 Jacob moved the orange to the blue_bottle.
-7 Jackson saw a dog.
-8 Jacob exited the laundry.
-9 Jackson moved the orange to the red_container.
-10 Jackson exited the laundry.
-11 Isabella made no movements and stayed in the laundry for 1 minute.
-12 Isabella exited the laundry.
-13 Owen made no movements and stayed in the laundry for 1 minute.
-14 Owen exited the laundry.
-15 Hannah, Jacob, Jackson, Isabella and Owen entered the waiting_room.
-16 Isabella publicly claimed that orange is in the blue_bucket.
-17 Owen privately told Hannah that the orange is in the red_container.
-18 Isabella, Jackson and Owen entered the lounge.
-19 The green_pepper is in the green_envelope.
-20 Isabella made no movements and stayed in the lounge for 1 minute.
-21 Isabella exited the lounge.
-22 Jackson made no movements and stayed in the lounge for 1 minute.
-23 Jackson exited the lounge.
-24 Owen made no movements and stayed in the lounge for 1 minute.
-25 Hannah lost his watch.
-26 Owen exited the lounge.
-27 Isabella, Jackson and Owen entered the waiting_room.
-28 Owen, Jackson, Isabella and Hannah entered the laundry.
-29 The orange is in the red_container.
-30 Owen made no movements and stayed in the laundry for 1 minute.
-31 Owen exited the laundry.
-32 Jackson made no movements and stayed in the laundry for 1 minute.
-33 Jackson exited the laundry.
-34 Isabella moved the orange to the blue_bucket.
-35 Isabella exited the laundry.
-36 Hannah made no movements and stayed in the laundry for 1 minute.
-37 Jacob saw a dog.
-38 Hannah exited the laundry.
-39 Isabella lost his watch.
-40 Owen, Jackson, Isabella and Hannah entered the waiting_room.
-41 Jackson publicly claimed that orange is in the red_container.
-42 Owen lost his watch.
-43 Hannah privately told Isabella that the orange is in the blue_bottle.
-Question: Where does Jacob think Isabella thinks Owen thinks the orange is?
-Answer: green_box
-Choices: A. green_box, B. red_container, C. blue_bucket, D. blue_bottle, E. blue_container, F. blue_cupboard, G. blue_treasure_chest, H. blue_suitcase, I. red_bucket, J. blue_crate, K. green_envelope, L. red_crate, M. green_cupboard, N. blue_bathtub, O. green_bucket
+1 Emma, Liam, Ella, Ethan and Mila entered the garage.
+2 The carrot is in the green_suitcase.
+3 Emma moved the carrot to the blue_bathtub.
+4 Emma exited the garage.
+5 Ethan likes the blue_bathtub.
+6 Liam made no movements and stayed in the garage for 1 minute.
+7 Liam exited the garage.
+8 Ella made no movements and stayed in the garage for 1 minute.
+9 Ella exited the garage.
+10 Ethan made no movements and stayed in the garage for 1 minute.
+11 Ethan exited the garage.
+12 Mila made no movements and stayed in the garage for 1 minute.
+13 Mila exited the garage.
+14 Emma, Liam, Ella, Ethan and Mila entered the waiting_room.
+15 Ella privately told Emma that the carrot is in the blue_bathtub now.
+16 Liam privately told Ethan that the carrot is in the blue_bucket now.
+17 Ella saw a monkey.
+18 Mila, Ella and Emma entered the garage.
+19 The carrot is in the blue_bathtub.
+20 Mila moved the carrot to the green_suitcase.
+21 Mila exited the garage.
+22 Ella made no movements and stayed in the garage for 1 minute.
+23 Ella exited the garage.
+24 Emma made no movements and stayed in the garage for 1 minute.
+25 Emma exited the garage.
+26 Mila, Ella and Emma entered the waiting_room.
+27 Mila, Liam, Emma and Ella entered the garage.
+28 The plum is in the blue_bathtub.
+29 Mila moved the plum to the green_suitcase.
+30 Mila exited the garage.
+31 Liam made no movements and stayed in the garage for 1 minute.
+32 Liam exited the garage.
+33 Emma moved the plum to the red_bathtub.
+34 Emma exited the garage.
+35 Ella made no movements and stayed in the garage for 1 minute.
+36 Ella exited the garage.
+37 Mila, Liam, Emma and Ella entered the waiting_room.
+38 Emma publicly claimed that plum is in the green_suitcase now.
+39 Mila privately told Ella that the plum is in the red_bathtub now.
+Question: Where does Ella think Liam thinks Mila thinks the carrot is?
+Answer: green_suitcase
+Choices: A. green_suitcase, B. blue_bathtub, C. red_bathtub, D. blue_box, E. blue_bucket, F. blue_container, G. green_bucket, H. red_bottle, I. red_pantry, J. green_crate, K. red_treasure_chest, L. red_basket, M. blue_pantry, N. blue_crate, O. red_suitcase
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

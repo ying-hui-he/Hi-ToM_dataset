@@ -1,43 +1,44 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Jackson, Emma, Abigail, Logan and Benjamin entered the living_room.
-2 The green_pepper is in the red_basket.
-3 Jackson moved the green_pepper to the blue_container.
-4 Jackson exited the living_room.
-5 Benjamin saw a cat.
-6 Emma made no movements and stayed in the living_room for 1 minute.
-7 Emma exited the living_room.
-8 Abigail made no movements and stayed in the living_room for 1 minute.
-9 Abigail exited the living_room.
-10 Logan made no movements and stayed in the living_room for 1 minute.
-11 Abigail dislikes the grapes.
-12 Logan exited the living_room.
-13 Benjamin made no movements and stayed in the living_room for 1 minute.
-14 Benjamin exited the living_room.
-15 Jackson, Emma, Abigail, Logan and Benjamin entered the waiting_room.
-16 Emma likes the blue_bottle.
-17 Benjamin, Emma and Abigail entered the bedroom.
-18 The grapes is in the red_bottle.
-19 Benjamin moved the grapes to the green_bathtub.
-20 Benjamin exited the bedroom.
-21 Emma made no movements and stayed in the bedroom for 1 minute.
-22 Logan dislikes the green_pepper.
-23 Emma exited the bedroom.
-24 Abigail made no movements and stayed in the bedroom for 1 minute.
-25 Abigail exited the bedroom.
-26 Benjamin, Emma and Abigail entered the waiting_room.
-27 Abigail, Emma, Jackson and Logan entered the dining_room.
-28 The watermelon is in the blue_drawer.
-29 Abigail made no movements and stayed in the dining_room for 1 minute.
-30 Abigail exited the dining_room.
-31 Emma made no movements and stayed in the dining_room for 1 minute.
-32 Emma exited the dining_room.
-33 Jackson moved the watermelon to the green_cupboard.
-34 Jackson exited the dining_room.
-35 Logan moved the watermelon to the red_container.
-36 Logan exited the dining_room.
-37 Abigail, Emma, Jackson and Logan entered the waiting_room.
-Question: Where does Emma really think the green_pepper is?
-Choices: A. blue_bottle, B. blue_drawer, C. green_cupboard, D. red_container, E. blue_treasure_chest, F. red_basket, G. blue_container, H. red_box, I. blue_cupboard, J. red_crate, K. red_bottle, L. green_basket, M. green_bottle, N. green_bucket, O. green_bathtub
+1 Hannah, Evelyn, Amelia, Mason and Elizabeth entered the TV_room.
+2 The strawberry is in the blue_cupboard.
+3 Hannah made no movements and stayed in the TV_room for 1 minute.
+4 Hannah saw a mouse.
+5 Hannah exited the TV_room.
+6 Evelyn made no movements and stayed in the TV_room for 1 minute.
+7 Evelyn exited the TV_room.
+8 Amelia made no movements and stayed in the TV_room for 1 minute.
+9 Amelia exited the TV_room.
+10 Mason moved the strawberry to the blue_container.
+11 Mason exited the TV_room.
+12 Elizabeth made no movements and stayed in the TV_room for 1 minute.
+13 Elizabeth exited the TV_room.
+14 Mason lost his phone.
+15 Hannah, Evelyn, Amelia, Mason and Elizabeth entered the waiting_room.
+16 Elizabeth, Amelia and Evelyn entered the TV_room.
+17 Hannah saw a monkey.
+18 The strawberry is in the blue_container.
+19 Elizabeth made no movements and stayed in the TV_room for 1 minute.
+20 Elizabeth exited the TV_room.
+21 Amelia moved the strawberry to the red_basket.
+22 Amelia exited the TV_room.
+23 Evelyn made no movements and stayed in the TV_room for 1 minute.
+24 Evelyn exited the TV_room.
+25 Elizabeth, Amelia and Evelyn entered the waiting_room.
+26 Elizabeth saw a monkey.
+27 Amelia, Elizabeth, Hannah and Mason entered the kitchen.
+28 The spinach is in the red_bathtub.
+29 Amelia moved the spinach to the blue_box.
+30 Amelia exited the kitchen.
+31 Elizabeth made no movements and stayed in the kitchen for 1 minute.
+32 Elizabeth exited the kitchen.
+33 Hannah moved the spinach to the green_bathtub.
+34 Hannah exited the kitchen.
+35 Mason made no movements and stayed in the kitchen for 1 minute.
+36 Evelyn lost his gloves.
+37 Mason exited the kitchen.
+38 Amelia, Elizabeth, Hannah and Mason entered the waiting_room.
+Question: Where does Hannah really think the strawberry is?
+Choices: A. red_bathtub, B. red_bottle, C. blue_box, D. blue_envelope, E. green_bathtub, F. green_treasure_chest, G. red_pantry, H. red_crate, I. green_bottle, J. blue_treasure_chest, K. blue_cupboard, L. green_envelope, M. blue_container, N. green_basket, O. red_basket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

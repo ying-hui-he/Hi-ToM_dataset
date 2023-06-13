@@ -1,42 +1,44 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Nathan, Logan, Jackson, Abigail and Isabella entered the back_yard.
-2 The lettuce is in the blue_container.
-3 Nathan moved the lettuce to the green_cupboard.
-4 Nathan exited the back_yard.
-5 Logan moved the lettuce to the blue_treasure_chest.
-6 Logan exited the back_yard.
-7 Jackson made no movements and stayed in the back_yard for 1 minute.
-8 Jackson exited the back_yard.
-9 Abigail moved the lettuce to the red_basket.
-10 Abigail exited the back_yard.
-11 Isabella moved the lettuce to the blue_container.
-12 Logan dislikes the corn.
-13 Isabella exited the back_yard.
-14 Nathan, Logan, Jackson, Abigail and Isabella entered the waiting_room.
-15 Jackson, Nathan and Logan entered the playroom.
-16 The melon is in the green_box.
-17 Jackson made no movements and stayed in the playroom for 1 minute.
-18 Nathan dislikes the lettuce.
-19 Jackson exited the playroom.
-20 Nathan made no movements and stayed in the playroom for 1 minute.
-21 Nathan exited the playroom.
-22 Logan moved the melon to the red_crate.
-23 Logan exited the playroom.
-24 Jackson, Nathan and Logan entered the waiting_room.
-25 Isabella, Jackson, Abigail and Nathan entered the hallway.
-26 The tangerine is in the blue_bottle.
-27 Isabella moved the tangerine to the red_box.
-28 Isabella exited the hallway.
-29 Jackson made no movements and stayed in the hallway for 1 minute.
-30 Jackson exited the hallway.
-31 Abigail moved the tangerine to the blue_bathtub.
-32 Abigail exited the hallway.
-33 Logan dislikes the lettuce.
-34 Nathan moved the tangerine to the red_container.
-35 Nathan exited the hallway.
-36 Isabella, Jackson, Abigail and Nathan entered the waiting_room.
-Question: Where does Logan think Nathan thinks Abigail thinks Isabella thinks the lettuce is?
-Choices: A. red_crate, B. green_box, C. green_bathtub, D. red_drawer, E. blue_cupboard, F. blue_bottle, G. blue_bathtub, H. red_box, I. blue_crate, J. red_container, K. blue_container, L. red_basket, M. red_bucket, N. blue_treasure_chest, O. green_cupboard
+1 Mason, Elizabeth, Charlotte, Isabella and Carter entered the laundry.
+2 The broccoli is in the green_suitcase.
+3 Mason moved the broccoli to the green_container.
+4 Mason exited the laundry.
+5 Elizabeth made no movements and stayed in the laundry for 1 minute.
+6 Elizabeth exited the laundry.
+7 Charlotte moved the broccoli to the green_bucket.
+8 Charlotte exited the laundry.
+9 Isabella made no movements and stayed in the laundry for 1 minute.
+10 Carter saw a monkey.
+11 Isabella exited the laundry.
+12 Carter moved the broccoli to the green_suitcase.
+13 Carter exited the laundry.
+14 Mason, Elizabeth, Charlotte, Isabella and Carter entered the waiting_room.
+15 Carter, Charlotte and Isabella entered the pantry.
+16 Charlotte dislikes the radish.
+17 The pumpkin is in the red_crate.
+18 Carter moved the pumpkin to the blue_bathtub.
+19 Carter exited the pantry.
+20 Mason likes the green_basket.
+21 Charlotte made no movements and stayed in the pantry for 1 minute.
+22 Charlotte exited the pantry.
+23 Isabella made no movements and stayed in the pantry for 1 minute.
+24 Isabella lost his watch.
+25 Isabella exited the pantry.
+26 Carter, Charlotte and Isabella entered the waiting_room.
+27 Isabella, Elizabeth, Charlotte and Mason entered the pantry.
+28 The pumpkin is in the blue_bathtub.
+29 Isabella made no movements and stayed in the pantry for 1 minute.
+30 Isabella exited the pantry.
+31 Elizabeth moved the pumpkin to the blue_crate.
+32 Elizabeth exited the pantry.
+33 Charlotte moved the pumpkin to the blue_cupboard.
+34 Charlotte exited the pantry.
+35 Isabella saw a monkey.
+36 Mason moved the pumpkin to the green_basket.
+37 Mason exited the pantry.
+38 Isabella, Elizabeth, Charlotte and Mason entered the waiting_room.
+Question: Where does Charlotte think Elizabeth thinks Isabella thinks Carter thinks the broccoli is?
+Choices: A. red_suitcase, B. green_treasure_chest, C. green_envelope, D. blue_treasure_chest, E. green_crate, F. blue_bathtub, G. red_crate, H. blue_cupboard, I. green_basket, J. blue_crate, K. green_suitcase, L. green_container, M. green_bucket, N. red_envelope, O. red_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

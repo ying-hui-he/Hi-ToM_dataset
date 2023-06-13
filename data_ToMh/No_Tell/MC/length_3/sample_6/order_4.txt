@@ -1,43 +1,43 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Hannah, Lily, Logan, Elizabeth and Noah entered the study.
-2 The turnip is in the red_basket.
-3 Hannah made no movements and stayed in the study for 1 minute.
-4 Hannah exited the study.
-5 Lily made no movements and stayed in the study for 1 minute.
-6 Lily exited the study.
-7 Logan made no movements and stayed in the study for 1 minute.
-8 Lily dislikes the onion.
-9 Logan exited the study.
-10 Elizabeth moved the turnip to the green_pantry.
-11 Elizabeth exited the study.
-12 Noah moved the turnip to the red_basket.
-13 Noah exited the study.
-14 Logan lost his watch.
-15 Hannah, Lily, Logan, Elizabeth and Noah entered the waiting_room.
-16 Noah, Logan and Hannah entered the dining_room.
-17 The sweet_potato is in the blue_suitcase.
-18 Noah moved the sweet_potato to the red_envelope.
-19 Noah exited the dining_room.
-20 Logan moved the sweet_potato to the green_drawer.
-21 Logan exited the dining_room.
-22 Hannah made no movements and stayed in the dining_room for 1 minute.
-23 Hannah exited the dining_room.
-24 Noah, Logan and Hannah entered the waiting_room.
-25 Noah, Lily, Hannah and Elizabeth entered the study.
-26 The turnip is in the red_basket.
-27 Noah dislikes the cabbage.
-28 Noah made no movements and stayed in the study for 1 minute.
-29 Noah exited the study.
-30 Lily made no movements and stayed in the study for 1 minute.
-31 Lily exited the study.
-32 Hannah moved the turnip to the blue_pantry.
-33 Hannah exited the study.
-34 Elizabeth made no movements and stayed in the study for 1 minute.
-35 Elizabeth exited the study.
-36 Noah, Lily, Hannah and Elizabeth entered the waiting_room.
-Question: Where does Logan think Noah thinks Lily thinks Hannah thinks the turnip is?
-Answer: red_basket
-Choices: A. red_basket, B. green_crate, C. blue_pantry, D. green_pantry, E. red_bucket, F. green_box, G. green_basket, H. blue_drawer, I. blue_bucket, J. red_drawer, K. blue_suitcase, L. red_envelope, M. green_drawer, N. red_crate, O. red_bottle
+1 Alexander, Emma, Abigail, Benjamin and Isla entered the patio.
+2 The green_pepper is in the red_treasure_chest.
+3 Alexander made no movements and stayed in the patio for 1 minute.
+4 Alexander exited the patio.
+5 Emma moved the green_pepper to the blue_cupboard.
+6 Emma exited the patio.
+7 Abigail made no movements and stayed in the patio for 1 minute.
+8 Abigail saw a dog.
+9 Abigail exited the patio.
+10 Benjamin moved the green_pepper to the red_basket.
+11 Benjamin exited the patio.
+12 Isla moved the green_pepper to the red_treasure_chest.
+13 Isla exited the patio.
+14 Alexander, Emma, Abigail, Benjamin and Isla entered the waiting_room.
+15 Benjamin, Abigail and Emma entered the lounge.
+16 The spinach is in the blue_crate.
+17 Benjamin made no movements and stayed in the lounge for 1 minute.
+18 Benjamin exited the lounge.
+19 Abigail made no movements and stayed in the lounge for 1 minute.
+20 Abigail exited the lounge.
+21 Emma moved the spinach to the blue_container.
+22 Emma exited the lounge.
+23 Benjamin, Abigail and Emma entered the waiting_room.
+24 Isla, Alexander, Abigail and Emma entered the TV_room.
+25 The asparagus is in the green_envelope.
+26 Isla made no movements and stayed in the TV_room for 1 minute.
+27 Isla exited the TV_room.
+28 Abigail saw a monkey.
+29 Alexander made no movements and stayed in the TV_room for 1 minute.
+30 Alexander exited the TV_room.
+31 Abigail made no movements and stayed in the TV_room for 1 minute.
+32 Abigail exited the TV_room.
+33 Alexander saw a cat.
+34 Emma made no movements and stayed in the TV_room for 1 minute.
+35 Emma exited the TV_room.
+36 Isla, Alexander, Abigail and Emma entered the waiting_room.
+Question: Where does Emma think Benjamin thinks Isla thinks Alexander thinks the green_pepper is?
+Answer: red_treasure_chest
+Choices: A. red_bathtub, B. green_envelope, C. red_pantry, D. green_treasure_chest, E. green_bucket, F. blue_crate, G. blue_bucket, H. blue_pantry, I. red_suitcase, J. blue_container, K. blue_bathtub, L. red_treasure_chest, M. blue_cupboard, N. red_basket, O. red_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

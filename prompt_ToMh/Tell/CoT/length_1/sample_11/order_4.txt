@@ -1,22 +1,24 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Ava, Avery, Isabella, Mila and Sophia entered the lounge.
-2 The pear is in the blue_crate.
-3 Ava moved the pear to the green_envelope.
-4 Ava exited the lounge.
-5 Avery moved the pear to the red_pantry.
-6 Avery exited the lounge.
-7 Isabella made no movements and stayed in the lounge for 1 minute.
-8 Isabella exited the lounge.
-9 Mila made no movements and stayed in the lounge for 1 minute.
-10 Mila exited the lounge.
-11 Sophia made no movements and stayed in the lounge for 1 minute.
-12 Sophia exited the lounge.
-13 Mila dislikes the pear.
-14 Ava, Avery, Isabella, Mila and Sophia entered the waiting_room.
-15 Isabella publicly claimed that pear is in the green_envelope.
-16 Sophia privately told Isabella that the pear is in the blue_crate.
-Question: Where does Mila think Avery thinks Ava thinks Sophia thinks the pear is?
-Choices: A. blue_drawer, B. green_bucket, C. red_box, D. green_basket, E. red_container, F. blue_crate, G. blue_cupboard, H. red_pantry, I. green_envelope, J. red_crate, K. red_basket, L. green_treasure_chest, M. red_drawer, N. green_bathtub, O. red_envelope
+1 Carter, William, Lily, Mason and Emily entered the closet.
+2 The radish is in the green_suitcase.
+3 Carter made no movements and stayed in the closet for 1 minute.
+4 Emily likes the green_crate.
+5 Carter exited the closet.
+6 William moved the radish to the red_box.
+7 William exited the closet.
+8 Lily moved the radish to the green_crate.
+9 Lily exited the closet.
+10 William likes the red_box.
+11 Mason moved the radish to the blue_cupboard.
+12 Mason exited the closet.
+13 Emily moved the radish to the green_suitcase.
+14 Emily exited the closet.
+15 Lily likes the green_suitcase.
+16 Carter, William, Lily, Mason and Emily entered the waiting_room.
+17 Lily publicly claimed that radish is in the green_bottle now.
+18 Emily privately told Lily that the radish is in the green_suitcase now.
+Question: Where does Emily think William thinks Carter thinks Lily thinks the radish is?
+Choices: A. red_box, B. green_suitcase, C. green_crate, D. green_bottle, E. blue_cupboard, F. red_basket, G. red_crate, H. red_pantry, I. blue_drawer, J. blue_container, K. green_bucket, L. blue_crate, M. blue_envelope, N. green_container, O. red_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

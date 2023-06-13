@@ -1,0 +1,33 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Isabella, Owen, Amelia, Aiden and Nathan entered the sunroom.
+2 The pear is in the blue_pantry.
+3 Isabella made no movements and stayed in the sunroom for 1 minute.
+4 Isabella exited the sunroom.
+5 Owen made no movements and stayed in the sunroom for 1 minute.
+6 Owen exited the sunroom.
+7 Isabella saw a mouse.
+8 Amelia moved the pear to the green_bucket.
+9 Amelia exited the sunroom.
+10 Aiden moved the pear to the blue_suitcase.
+11 Isabella lost his gloves.
+12 Aiden exited the sunroom.
+13 Nathan moved the pear to the blue_pantry.
+14 Owen likes the green_cupboard.
+15 Nathan exited the sunroom.
+16 Isabella, Owen, Amelia, Aiden and Nathan entered the waiting_room.
+17 Nathan, Amelia and Isabella entered the study.
+18 The cherry is in the red_basket.
+19 Nathan moved the cherry to the red_container.
+20 Nathan exited the study.
+21 Amelia moved the cherry to the red_envelope.
+22 Amelia exited the study.
+23 Isabella made no movements and stayed in the study for 1 minute.
+24 Isabella exited the study.
+25 Nathan, Amelia and Isabella entered the waiting_room.
+26 Amelia publicly claimed that cherry is in the red_envelope.
+27 Isabella privately told Amelia that the cherry is in the blue_crate.
+Question: Where does Owen think Isabella thinks Amelia thinks Nathan thinks the pear is?
+Choices: A. red_basket, B. blue_crate, C. green_bathtub, D. red_envelope, E. red_container, F. blue_drawer, G. green_cupboard, H. blue_container, I. green_envelope, J. red_box, K. green_bucket, L. blue_pantry, M. blue_cupboard, N. red_bottle, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

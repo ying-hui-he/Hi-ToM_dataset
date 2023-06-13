@@ -1,43 +1,42 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Elizabeth, Alexander, Nathan, Owen and Jackson entered the cellar.
-2 Jackson lost his watch.
-3 The lime is in the blue_crate.
-4 Elizabeth moved the lime to the green_pantry.
-5 Elizabeth exited the cellar.
-6 Nathan saw a monkey.
-7 Alexander made no movements and stayed in the cellar for 1 minute.
-8 Alexander exited the cellar.
-9 Nathan moved the lime to the green_basket.
-10 Nathan exited the cellar.
-11 Owen moved the lime to the red_box.
-12 Owen exited the cellar.
-13 Jackson moved the lime to the blue_crate.
-14 Jackson exited the cellar.
-15 Elizabeth, Alexander, Nathan, Owen and Jackson entered the waiting_room.
-16 Nathan, Jackson and Elizabeth entered the workshop.
-17 The sweet_potato is in the blue_suitcase.
-18 Nathan made no movements and stayed in the workshop for 1 minute.
-19 Nathan exited the workshop.
-20 Jackson made no movements and stayed in the workshop for 1 minute.
-21 Jackson exited the workshop.
-22 Elizabeth made no movements and stayed in the workshop for 1 minute.
-23 Elizabeth exited the workshop.
-24 Nathan, Jackson and Elizabeth entered the waiting_room.
-25 Elizabeth, Owen, Alexander and Nathan entered the workshop.
-26 The plum is in the green_box.
-27 Elizabeth made no movements and stayed in the workshop for 1 minute.
-28 Elizabeth exited the workshop.
-29 Owen moved the plum to the red_basket.
-30 Jackson likes the blue_suitcase.
-31 Owen exited the workshop.
-32 Alexander lost his phone.
-33 Alexander moved the plum to the red_drawer.
-34 Alexander exited the workshop.
-35 Nathan moved the plum to the green_cupboard.
-36 Nathan exited the workshop.
-37 Elizabeth, Owen, Alexander and Nathan entered the waiting_room.
-Question: Where does Owen think Alexander thinks Elizabeth thinks the lime is?
-Choices: A. green_box, B. blue_suitcase, C. red_drawer, D. red_basket, E. green_cupboard, F. red_crate, G. blue_pantry, H. green_crate, I. green_bathtub, J. blue_drawer, K. blue_bucket, L. blue_crate, M. green_basket, N. green_pantry, O. red_box
+1 Nathan, Ava, Carter, Jackson and Emily entered the office.
+2 The broccoli is in the blue_treasure_chest.
+3 Nathan moved the broccoli to the red_bathtub.
+4 Nathan exited the office.
+5 Ava made no movements and stayed in the office for 1 minute.
+6 Ava exited the office.
+7 Jackson lost his gloves.
+8 Carter moved the broccoli to the red_treasure_chest.
+9 Carter exited the office.
+10 Jackson made no movements and stayed in the office for 1 minute.
+11 Jackson exited the office.
+12 Emily moved the broccoli to the blue_treasure_chest.
+13 Emily exited the office.
+14 Nathan, Ava, Carter, Jackson and Emily entered the waiting_room.
+15 Ava, Jackson and Emily entered the office.
+16 The broccoli is in the blue_treasure_chest.
+17 Ava moved the broccoli to the green_treasure_chest.
+18 Ava exited the office.
+19 Jackson made no movements and stayed in the office for 1 minute.
+20 Jackson exited the office.
+21 Emily moved the broccoli to the red_bathtub.
+22 Carter likes the red_basket.
+23 Emily exited the office.
+24 Ava, Jackson and Emily entered the waiting_room.
+25 Carter, Ava, Emily and Nathan entered the office.
+26 Emily lost his gloves.
+27 The corn is in the red_treasure_chest.
+28 Carter moved the corn to the blue_treasure_chest.
+29 Carter exited the office.
+30 Ava moved the corn to the blue_envelope.
+31 Ava exited the office.
+32 Emily moved the corn to the green_treasure_chest.
+33 Emily exited the office.
+34 Nathan made no movements and stayed in the office for 1 minute.
+35 Nathan exited the office.
+36 Carter, Ava, Emily and Nathan entered the waiting_room.
+Question: Where does Jackson think Carter thinks Nathan thinks the broccoli is?
+Choices: A. green_bucket, B. red_suitcase, C. blue_suitcase, D. blue_box, E. green_basket, F. blue_pantry, G. red_basket, H. blue_crate, I. blue_drawer, J. green_pantry, K. red_treasure_chest, L. blue_treasure_chest, M. green_treasure_chest, N. blue_envelope, O. red_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

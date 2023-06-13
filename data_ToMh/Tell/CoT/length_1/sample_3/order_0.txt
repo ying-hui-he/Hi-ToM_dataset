@@ -1,22 +1,23 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Emily, Liam, Avery, Elizabeth and Lily entered the hallway.
-2 The onion is in the green_crate.
-3 Emily moved the onion to the blue_pantry.
-4 Emily exited the hallway.
-5 Liam moved the onion to the red_drawer.
-6 Liam exited the hallway.
-7 Avery made no movements and stayed in the hallway for 1 minute.
-8 Avery exited the hallway.
-9 Elizabeth made no movements and stayed in the hallway for 1 minute.
-10 Elizabeth exited the hallway.
-11 Lily made no movements and stayed in the hallway for 1 minute.
-12 Lily exited the hallway.
-13 Emily, Liam, Avery, Elizabeth and Lily entered the waiting_room.
-14 Avery privately told Emily that the onion is in the blue_bottle.
-15 Liam privately told Elizabeth that the onion is in the blue_treasure_chest.
-Question: Where is the onion really?
-Answer: red_drawer
-Choices: A. green_crate, B. blue_bottle, C. blue_treasure_chest, D. blue_pantry, E. red_drawer, F. red_container, G. green_envelope, H. green_drawer, I. red_basket, J. green_basket, K. red_envelope, L. green_bathtub, M. blue_crate, N. green_pantry, O. green_box
+1 Amelia, Lucas, Lily, Liam and Elizabeth entered the garden.
+2 The asparagus is in the blue_drawer.
+3 Amelia moved the asparagus to the red_pantry.
+4 Amelia saw a cat.
+5 Amelia exited the garden.
+6 Lucas made no movements and stayed in the garden for 1 minute.
+7 Lucas exited the garden.
+8 Lily made no movements and stayed in the garden for 1 minute.
+9 Lily exited the garden.
+10 Liam moved the asparagus to the green_bottle.
+11 Liam exited the garden.
+12 Elizabeth moved the asparagus to the blue_drawer.
+13 Elizabeth exited the garden.
+14 Amelia, Lucas, Lily, Liam and Elizabeth entered the waiting_room.
+15 Lily privately told Amelia that the asparagus is in the green_bucket now.
+16 Lucas privately told Liam that the asparagus is in the blue_drawer now.
+Question: Where is the asparagus really?
+Answer: blue_drawer
+Choices: A. red_envelope, B. green_pantry, C. blue_container, D. green_envelope, E. green_basket, F. green_bucket, G. blue_drawer, H. red_bottle, I. red_pantry, J. green_bottle, K. blue_crate, L. green_bathtub, M. blue_pantry, N. green_suitcase, O. green_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

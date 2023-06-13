@@ -1,0 +1,23 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Alexander, Evelyn, Hannah, Abigail and Noah entered the den.
+2 The green_pepper is in the blue_crate.
+3 Alexander moved the green_pepper to the blue_suitcase.
+4 Alexander exited the den.
+5 Evelyn moved the green_pepper to the blue_treasure_chest.
+6 Evelyn exited the den.
+7 Hannah made no movements and stayed in the den for 1 minute.
+8 Hannah exited the den.
+9 Abigail made no movements and stayed in the den for 1 minute.
+10 Abigail exited the den.
+11 Noah made no movements and stayed in the den for 1 minute.
+12 Noah exited the den.
+13 Alexander, Evelyn, Hannah, Abigail and Noah entered the waiting_room.
+14 Evelyn likes the green_cupboard.
+15 Hannah privately told Alexander that the green_pepper is in the blue_crate.
+16 Evelyn privately told Abigail that the green_pepper is in the green_envelope.
+Question: Where is the green_pepper really?
+Answer: blue_treasure_chest
+Choices: A. blue_bathtub, B. blue_bucket, C. green_treasure_chest, D. red_basket, E. green_bathtub, F. green_envelope, G. blue_crate, H. red_crate, I. blue_suitcase, J. blue_treasure_chest, K. blue_pantry, L. green_bucket, M. green_cupboard, N. green_bottle, O. red_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

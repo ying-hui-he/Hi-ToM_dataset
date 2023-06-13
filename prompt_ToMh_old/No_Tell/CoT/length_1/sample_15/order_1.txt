@@ -1,0 +1,19 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Avery, Owen, Ella, Ava and Amelia entered the back_yard.
+2 The watermelon is in the blue_container.
+3 Avery made no movements and stayed in the back_yard for 1 minute.
+4 Avery exited the back_yard.
+5 Owen made no movements and stayed in the back_yard for 1 minute.
+6 Owen exited the back_yard.
+7 Ella moved the watermelon to the red_pantry.
+8 Ella exited the back_yard.
+9 Ava made no movements and stayed in the back_yard for 1 minute.
+10 Ava exited the back_yard.
+11 Amelia moved the watermelon to the blue_container.
+12 Amelia exited the back_yard.
+13 Avery, Owen, Ella, Ava and Amelia entered the waiting_room.
+Question: Where does Avery really think the watermelon is?
+Choices: A. red_crate, B. green_crate, C. blue_suitcase, D. red_bottle, E. green_basket, F. green_box, G. red_container, H. blue_crate, I. red_bucket, J. green_cupboard, K. green_bucket, L. blue_container, M. green_drawer, N. red_pantry, O. red_basket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

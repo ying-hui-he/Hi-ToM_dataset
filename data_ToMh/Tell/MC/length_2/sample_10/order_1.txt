@@ -1,31 +1,35 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Ava, Charlotte, Evelyn, Amelia and Benjamin entered the bathroom.
-2 The persimmon is in the blue_crate.
-3 Ava made no movements and stayed in the bathroom for 1 minute.
-4 Ava exited the bathroom.
-5 Charlotte moved the persimmon to the red_crate.
-6 Charlotte exited the bathroom.
-7 Evelyn moved the persimmon to the blue_cupboard.
-8 Evelyn exited the bathroom.
-9 Amelia moved the persimmon to the green_pantry.
-10 Amelia exited the bathroom.
-11 Benjamin made no movements and stayed in the bathroom for 1 minute.
-12 Benjamin exited the bathroom.
-13 Ava, Charlotte, Evelyn, Amelia and Benjamin entered the waiting_room.
-14 Ava, Benjamin and Evelyn entered the office.
-15 The onion is in the blue_bathtub.
-16 Ava moved the onion to the green_box.
-17 Ava exited the office.
-18 Benjamin made no movements and stayed in the office for 1 minute.
-19 Benjamin exited the office.
-20 Evelyn made no movements and stayed in the office for 1 minute.
-21 Evelyn exited the office.
-22 Ava, Benjamin and Evelyn entered the waiting_room.
-23 Benjamin privately told Evelyn that the onion is in the red_container.
-24 Evelyn privately told Amelia that the onion is in the green_box.
-Question: Where does Ava really think the persimmon is?
-Answer: blue_crate
-Choices: A. green_box, B. blue_bathtub, C. green_bucket, D. green_cupboard, E. red_container, F. red_envelope, G. red_pantry, H. blue_suitcase, I. green_crate, J. green_drawer, K. green_pantry, L. blue_crate, M. blue_cupboard, N. red_crate, O. blue_drawer
+1 Emily, Jayden, William, Ethan and Elizabeth entered the lounge.
+2 The grapes is in the red_pantry.
+3 Emily made no movements and stayed in the lounge for 1 minute.
+4 Emily exited the lounge.
+5 Jayden made no movements and stayed in the lounge for 1 minute.
+6 Jayden exited the lounge.
+7 William made no movements and stayed in the lounge for 1 minute.
+8 William exited the lounge.
+9 Ethan moved the grapes to the green_pantry.
+10 Ethan exited the lounge.
+11 William dislikes the cabbage.
+12 Elizabeth moved the grapes to the red_pantry.
+13 Elizabeth exited the lounge.
+14 Emily, Jayden, William, Ethan and Elizabeth entered the waiting_room.
+15 Jayden, Emily and Elizabeth entered the crawlspace.
+16 Ethan likes the blue_bucket.
+17 The cabbage is in the blue_crate.
+18 Jayden moved the cabbage to the green_suitcase.
+19 Jayden exited the crawlspace.
+20 Emily moved the cabbage to the blue_treasure_chest.
+21 Emily exited the crawlspace.
+22 Elizabeth moved the cabbage to the red_envelope.
+23 Jayden saw a monkey.
+24 Elizabeth exited the crawlspace.
+25 Emily lost his watch.
+26 Jayden, Emily and Elizabeth entered the waiting_room.
+27 Emily publicly claimed that cabbage is in the red_basket now.
+28 Elizabeth privately told Emily that the cabbage is in the green_suitcase now.
+Question: Where does Emily really think the grapes is?
+Answer: red_pantry
+Choices: A. blue_crate, B. red_envelope, C. green_suitcase, D. blue_treasure_chest, E. red_basket, F. red_pantry, G. green_pantry, H. blue_bathtub, I. red_box, J. red_treasure_chest, K. green_crate, L. green_bucket, M. green_envelope, N. green_bottle, O. blue_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

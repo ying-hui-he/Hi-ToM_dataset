@@ -1,33 +1,35 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Noah, Jack, Benjamin, Emily and Sophia entered the pantry.
-2 The carrot is in the green_treasure_chest.
-3 Noah moved the carrot to the blue_suitcase.
-4 Noah exited the pantry.
-5 Jack made no movements and stayed in the pantry for 1 minute.
-6 Jack exited the pantry.
-7 Benjamin made no movements and stayed in the pantry for 1 minute.
-8 Benjamin exited the pantry.
-9 Emily moved the carrot to the blue_drawer.
-10 Noah dislikes the corn.
-11 Emily exited the pantry.
-12 Sophia made no movements and stayed in the pantry for 1 minute.
-13 Sophia exited the pantry.
-14 Noah, Jack, Benjamin, Emily and Sophia entered the waiting_room.
-15 Benjamin, Noah and Emily entered the pantry.
-16 The beans is in the blue_bottle.
-17 Benjamin moved the beans to the blue_drawer.
-18 Benjamin exited the pantry.
-19 Noah made no movements and stayed in the pantry for 1 minute.
-20 Jack likes the red_basket.
-21 Noah exited the pantry.
-22 Emily made no movements and stayed in the pantry for 1 minute.
-23 Emily exited the pantry.
-24 Benjamin, Noah and Emily entered the waiting_room.
-25 Benjamin publicly claimed that beans is in the blue_bottle.
-26 Emily privately told Sophia that the beans is in the blue_drawer.
-Question: Where does Noah think Benjamin thinks the carrot is?
-Answer: blue_drawer
-Choices: A. blue_crate, B. green_drawer, C. blue_cupboard, D. red_container, E. red_basket, F. blue_bottle, G. green_treasure_chest, H. blue_treasure_chest, I. blue_drawer, J. blue_suitcase, K. green_bathtub, L. blue_bathtub, M. green_envelope, N. red_bottle, O. red_pantry
+1 Carter, Isla, Lucas, Ava and Aiden entered the master_bedroom.
+2 The banana is in the red_pantry.
+3 Carter made no movements and stayed in the master_bedroom for 1 minute.
+4 Carter exited the master_bedroom.
+5 Isla moved the banana to the blue_suitcase.
+6 Isla exited the master_bedroom.
+7 Lucas made no movements and stayed in the master_bedroom for 1 minute.
+8 Lucas exited the master_bedroom.
+9 Ava made no movements and stayed in the master_bedroom for 1 minute.
+10 Aiden dislikes the green_pepper.
+11 Ava exited the master_bedroom.
+12 Aiden moved the banana to the red_pantry.
+13 Aiden exited the master_bedroom.
+14 Carter, Isla, Lucas, Ava and Aiden entered the waiting_room.
+15 Lucas dislikes the green_pepper.
+16 Isla, Lucas and Aiden entered the playroom.
+17 The pineapple is in the blue_box.
+18 Isla made no movements and stayed in the playroom for 1 minute.
+19 Isla exited the playroom.
+20 Lucas made no movements and stayed in the playroom for 1 minute.
+21 Carter saw a dog.
+22 Lucas exited the playroom.
+23 Aiden moved the pineapple to the green_treasure_chest.
+24 Aiden exited the playroom.
+25 Isla, Lucas and Aiden entered the waiting_room.
+26 Ava likes the red_treasure_chest.
+27 Isla publicly claimed that pineapple is in the green_crate now.
+28 Aiden privately told Carter that the pineapple is in the green_treasure_chest now.
+Question: Where does Isla think Carter thinks the banana is?
+Answer: red_pantry
+Choices: A. blue_box, B. blue_treasure_chest, C. green_treasure_chest, D. blue_cupboard, E. green_crate, F. green_envelope, G. red_pantry, H. red_bathtub, I. red_treasure_chest, J. blue_suitcase, K. red_suitcase, L. green_suitcase, M. red_bottle, N. blue_drawer, O. red_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

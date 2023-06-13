@@ -1,35 +1,36 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Logan, William, Jacob, Sophia and Isla entered the front_yard.
-2 The watermelon is in the red_container.
-3 Logan made no movements and stayed in the front_yard for 1 minute.
-4 Sophia lost his phone.
-5 Logan exited the front_yard.
-6 Isla saw a dog.
-7 William made no movements and stayed in the front_yard for 1 minute.
-8 William exited the front_yard.
-9 Jacob moved the watermelon to the red_basket.
-10 Jacob exited the front_yard.
-11 Sophia made no movements and stayed in the front_yard for 1 minute.
-12 Sophia exited the front_yard.
-13 Isla moved the watermelon to the red_container.
-14 Isla exited the front_yard.
-15 Logan, William, Jacob, Sophia and Isla entered the waiting_room.
-16 Logan, William and Jacob entered the hall.
-17 The eggplant is in the blue_container.
-18 Logan made no movements and stayed in the hall for 1 minute.
-19 Logan exited the hall.
-20 Sophia dislikes the potato.
-21 William moved the eggplant to the red_pantry.
-22 William exited the hall.
-23 Jacob made no movements and stayed in the hall for 1 minute.
-24 Jacob exited the hall.
-25 Logan, William and Jacob entered the waiting_room.
-26 Logan saw a monkey.
-27 Logan publicly claimed that eggplant is in the red_box.
-28 Jacob privately told Isla that the eggplant is in the red_pantry.
-Question: Where does Logan think Isla thinks Jacob thinks the watermelon is?
-Answer: red_container
-Choices: A. red_container, B. blue_pantry, C. blue_bathtub, D. red_basket, E. green_box, F. green_treasure_chest, G. red_envelope, H. red_bucket, I. green_pantry, J. green_bottle, K. blue_container, L. red_box, M. red_pantry, N. green_cupboard, O. blue_suitcase
+1 Nathan, Benjamin, Evelyn, Aria and Gracie entered the porch.
+2 Evelyn likes the green_container.
+3 The onion is in the blue_envelope.
+4 Nathan moved the onion to the green_bathtub.
+5 Nathan exited the porch.
+6 Benjamin moved the onion to the blue_bucket.
+7 Benjamin exited the porch.
+8 Evelyn moved the onion to the green_container.
+9 Evelyn exited the porch.
+10 Aria made no movements and stayed in the porch for 1 minute.
+11 Aria exited the porch.
+12 Gracie moved the onion to the blue_envelope.
+13 Gracie exited the porch.
+14 Benjamin saw a dog.
+15 Nathan, Benjamin, Evelyn, Aria and Gracie entered the waiting_room.
+16 Evelyn dislikes the peach.
+17 Benjamin, Nathan and Evelyn entered the porch.
+18 The corn is in the green_bathtub.
+19 Benjamin made no movements and stayed in the porch for 1 minute.
+20 Benjamin exited the porch.
+21 Nathan moved the corn to the green_container.
+22 Nathan likes the green_container.
+23 Nathan exited the porch.
+24 Evelyn made no movements and stayed in the porch for 1 minute.
+25 Benjamin saw a mouse.
+26 Evelyn exited the porch.
+27 Benjamin, Nathan and Evelyn entered the waiting_room.
+28 Nathan publicly claimed that corn is in the green_bathtub now.
+29 Evelyn privately told Nathan that the corn is in the green_envelope now.
+Question: Where does Evelyn think Gracie thinks Nathan thinks the onion is?
+Answer: green_bathtub
+Choices: A. green_bucket, B. green_bottle, C. red_treasure_chest, D. red_crate, E. red_suitcase, F. blue_envelope, G. green_bathtub, H. green_envelope, I. blue_bucket, J. green_container, K. red_pantry, L. blue_pantry, M. red_bathtub, N. blue_treasure_chest, O. red_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

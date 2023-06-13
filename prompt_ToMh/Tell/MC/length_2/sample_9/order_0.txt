@@ -1,31 +1,31 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Ella, Amelia, Jack, Evelyn and Hannah entered the den.
-2 The apple is in the green_pantry.
-3 Ella made no movements and stayed in the den for 1 minute.
-4 Ella exited the den.
-5 Amelia made no movements and stayed in the den for 1 minute.
-6 Amelia exited the den.
-7 Jack moved the apple to the green_bottle.
-8 Jack exited the den.
-9 Evelyn made no movements and stayed in the den for 1 minute.
-10 Evelyn exited the den.
-11 Hannah made no movements and stayed in the den for 1 minute.
-12 Hannah exited the den.
-13 Ella, Amelia, Jack, Evelyn and Hannah entered the waiting_room.
-14 Amelia, Ella and Evelyn entered the sunroom.
-15 The onion is in the red_drawer.
-16 Amelia made no movements and stayed in the sunroom for 1 minute.
-17 Amelia exited the sunroom.
-18 Ella moved the onion to the red_pantry.
-19 Ella likes the green_bucket.
-20 Ella exited the sunroom.
-21 Evelyn made no movements and stayed in the sunroom for 1 minute.
-22 Evelyn exited the sunroom.
-23 Amelia, Ella and Evelyn entered the waiting_room.
-24 Ella publicly claimed that onion is in the green_treasure_chest.
-25 Evelyn privately told Ella that the onion is in the red_pantry.
-Question: Where is the apple really?
-Choices: A. green_pantry, B. red_bottle, C. red_box, D. green_bottle, E. green_crate, F. red_container, G. blue_suitcase, H. blue_cupboard, I. blue_container, J. green_box, K. green_bucket, L. red_drawer, M. green_envelope, N. green_treasure_chest, O. red_pantry
+1 Emma, Jack, Elizabeth, William and Hannah entered the sunroom.
+2 The strawberry is in the red_bathtub.
+3 Emma moved the strawberry to the green_pantry.
+4 Emma exited the sunroom.
+5 Jack moved the strawberry to the green_envelope.
+6 Jack exited the sunroom.
+7 Elizabeth moved the strawberry to the red_box.
+8 William lost his gloves.
+9 Elizabeth exited the sunroom.
+10 William made no movements and stayed in the sunroom for 1 minute.
+11 William exited the sunroom.
+12 Hannah made no movements and stayed in the sunroom for 1 minute.
+13 Hannah exited the sunroom.
+14 Emma, Jack, Elizabeth, William and Hannah entered the waiting_room.
+15 William, Jack and Elizabeth entered the bedroom.
+16 The carrot is in the blue_suitcase.
+17 William moved the carrot to the blue_cupboard.
+18 William exited the bedroom.
+19 Jack moved the carrot to the blue_pantry.
+20 Jack exited the bedroom.
+21 Elizabeth made no movements and stayed in the bedroom for 1 minute.
+22 Elizabeth exited the bedroom.
+23 William, Jack and Elizabeth entered the waiting_room.
+24 Jack publicly claimed that carrot is in the red_pantry now.
+25 Elizabeth privately told Jack that the carrot is in the blue_suitcase now.
+Question: Where is the strawberry really?
+Choices: A. blue_suitcase, B. blue_pantry, C. blue_treasure_chest, D. blue_cupboard, E. red_pantry, F. blue_crate, G. green_crate, H. blue_drawer, I. red_envelope, J. red_suitcase, K. red_crate, L. red_bathtub, M. green_pantry, N. green_envelope, O. red_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

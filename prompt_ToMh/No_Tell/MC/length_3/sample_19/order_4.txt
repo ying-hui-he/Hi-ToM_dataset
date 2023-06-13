@@ -1,43 +1,43 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Isabella, Jack, William, Noah and Aiden entered the playroom.
-2 The pear is in the blue_crate.
-3 Isabella made no movements and stayed in the playroom for 1 minute.
-4 Isabella exited the playroom.
-5 William dislikes the peas.
-6 Jack moved the pear to the blue_drawer.
-7 Aiden lost his watch.
-8 Jack exited the playroom.
-9 William moved the pear to the green_crate.
-10 William exited the playroom.
-11 Noah moved the pear to the blue_suitcase.
-12 Noah exited the playroom.
-13 Noah saw a mouse.
-14 Aiden moved the pear to the blue_crate.
-15 Aiden exited the playroom.
-16 Isabella, Jack, William, Noah and Aiden entered the waiting_room.
-17 Noah, Jack and William entered the dining_room.
-18 The peas is in the green_drawer.
-19 Noah moved the peas to the blue_pantry.
-20 Noah exited the dining_room.
-21 Jack moved the peas to the red_pantry.
-22 Jack exited the dining_room.
-23 William made no movements and stayed in the dining_room for 1 minute.
-24 William exited the dining_room.
-25 Noah, Jack and William entered the waiting_room.
-26 Isabella, Noah, Jack and Aiden entered the playroom.
-27 The lemon is in the blue_suitcase.
-28 Isabella moved the lemon to the green_basket.
-29 Isabella exited the playroom.
-30 Noah made no movements and stayed in the playroom for 1 minute.
-31 Noah exited the playroom.
-32 Jack moved the lemon to the blue_crate.
-33 Jack exited the playroom.
-34 Aiden made no movements and stayed in the playroom for 1 minute.
-35 Noah lost his phone.
-36 Aiden exited the playroom.
-37 Isabella, Noah, Jack and Aiden entered the waiting_room.
-Question: Where does Aiden think Isabella thinks William thinks Noah thinks the pear is?
-Choices: A. red_pantry, B. green_drawer, C. blue_pantry, D. blue_bucket, E. green_box, F. green_bathtub, G. red_bottle, H. red_crate, I. red_envelope, J. blue_cupboard, K. blue_suitcase, L. blue_crate, M. green_crate, N. blue_drawer, O. green_basket
+1 Emily, Carter, Isla, Aiden and Liam entered the office.
+2 The cucumber is in the red_suitcase.
+3 Emily made no movements and stayed in the office for 1 minute.
+4 Emily exited the office.
+5 Carter moved the cucumber to the blue_crate.
+6 Carter exited the office.
+7 Isla moved the cucumber to the blue_pantry.
+8 Isla exited the office.
+9 Aiden made no movements and stayed in the office for 1 minute.
+10 Aiden exited the office.
+11 Liam moved the cucumber to the red_suitcase.
+12 Emily likes the green_envelope.
+13 Liam exited the office.
+14 Emily, Carter, Isla, Aiden and Liam entered the waiting_room.
+15 Liam, Aiden and Isla entered the crawlspace.
+16 The corn is in the red_bathtub.
+17 Emily likes the blue_pantry.
+18 Liam moved the corn to the green_pantry.
+19 Liam exited the crawlspace.
+20 Aiden moved the corn to the red_treasure_chest.
+21 Aiden exited the crawlspace.
+22 Aiden saw a mouse.
+23 Isla made no movements and stayed in the crawlspace for 1 minute.
+24 Isla exited the crawlspace.
+25 Liam, Aiden and Isla entered the waiting_room.
+26 Aiden, Carter, Isla and Emily entered the sunroom.
+27 The apple is in the blue_suitcase.
+28 Aiden made no movements and stayed in the sunroom for 1 minute.
+29 Aiden exited the sunroom.
+30 Carter moved the apple to the blue_bucket.
+31 Emily likes the red_bathtub.
+32 Carter exited the sunroom.
+33 Isla moved the apple to the blue_box.
+34 Isla exited the sunroom.
+35 Emily moved the apple to the green_envelope.
+36 Emily exited the sunroom.
+37 Aiden, Carter, Isla and Emily entered the waiting_room.
+Question: Where does Liam think Aiden thinks Emily thinks Carter thinks the cucumber is?
+Choices: A. blue_cupboard, B. red_bathtub, C. green_suitcase, D. green_pantry, E. red_treasure_chest, F. red_suitcase, G. red_envelope, H. green_bathtub, I. blue_crate, J. blue_pantry, K. blue_suitcase, L. blue_bucket, M. green_envelope, N. blue_container, O. blue_box
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,32 +1,30 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Lily, Ella, Owen, Evelyn and Emily entered the front_yard.
-2 Ella likes the red_bottle.
-3 The lime is in the red_bottle.
-4 Lily moved the lime to the blue_drawer.
-5 Lily exited the front_yard.
-6 Ella made no movements and stayed in the front_yard for 1 minute.
-7 Ella exited the front_yard.
-8 Owen made no movements and stayed in the front_yard for 1 minute.
-9 Owen exited the front_yard.
-10 Evelyn moved the lime to the green_pantry.
-11 Evelyn dislikes the asparagus.
-12 Evelyn exited the front_yard.
-13 Emily made no movements and stayed in the front_yard for 1 minute.
-14 Emily exited the front_yard.
-15 Lily, Ella, Owen, Evelyn and Emily entered the waiting_room.
-16 Lily, Emily and Ella entered the attic.
-17 The lettuce is in the green_basket.
-18 Owen likes the blue_drawer.
-19 Lily made no movements and stayed in the attic for 1 minute.
-20 Lily exited the attic.
-21 Emily made no movements and stayed in the attic for 1 minute.
-22 Lily lost his phone.
-23 Emily exited the attic.
-24 Ella moved the lettuce to the green_cupboard.
-25 Ella exited the attic.
-26 Lily, Emily and Ella entered the waiting_room.
-Question: Where is the lime really?
-Choices: A. red_bottle, B. green_pantry, C. blue_drawer, D. green_bathtub, E. blue_container, F. blue_crate, G. red_drawer, H. blue_bathtub, I. red_envelope, J. red_basket, K. green_bucket, L. green_basket, M. red_bucket, N. green_bottle, O. green_cupboard
+1 Ella, Mason, Aiden, Emily and Isla entered the lounge.
+2 The pear is in the green_bottle.
+3 Emily saw a mouse.
+4 Ella made no movements and stayed in the lounge for 1 minute.
+5 Ella exited the lounge.
+6 Emily saw a cat.
+7 Mason made no movements and stayed in the lounge for 1 minute.
+8 Mason exited the lounge.
+9 Aiden made no movements and stayed in the lounge for 1 minute.
+10 Aiden exited the lounge.
+11 Emily moved the pear to the blue_treasure_chest.
+12 Emily exited the lounge.
+13 Isla moved the pear to the green_bottle.
+14 Isla exited the lounge.
+15 Ella, Mason, Aiden, Emily and Isla entered the waiting_room.
+16 Emily, Ella and Mason entered the garage.
+17 The pineapple is in the red_suitcase.
+18 Emily moved the pineapple to the green_pantry.
+19 Emily exited the garage.
+20 Ella moved the pineapple to the blue_crate.
+21 Ella exited the garage.
+22 Mason moved the pineapple to the green_suitcase.
+23 Mason exited the garage.
+24 Emily, Ella and Mason entered the waiting_room.
+Question: Where is the pear really?
+Choices: A. blue_container, B. red_bottle, C. red_bathtub, D. red_pantry, E. red_crate, F. red_basket, G. green_bottle, H. blue_pantry, I. blue_treasure_chest, J. blue_bucket, K. red_box, L. red_suitcase, M. green_pantry, N. green_suitcase, O. blue_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

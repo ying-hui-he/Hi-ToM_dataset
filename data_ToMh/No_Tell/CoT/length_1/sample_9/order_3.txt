@@ -1,22 +1,20 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Elizabeth, Ava, Abigail, Ella and Owen entered the bedroom.
-2 The banana is in the green_envelope.
-3 Elizabeth made no movements and stayed in the bedroom for 1 minute.
-4 Elizabeth exited the bedroom.
-5 Owen saw a cat.
-6 Ava made no movements and stayed in the bedroom for 1 minute.
-7 Ava exited the bedroom.
-8 Abigail moved the banana to the blue_bottle.
-9 Abigail exited the bedroom.
-10 Abigail likes the red_pantry.
-11 Ella made no movements and stayed in the bedroom for 1 minute.
-12 Ella exited the bedroom.
-13 Owen moved the banana to the green_envelope.
-14 Owen exited the bedroom.
-15 Elizabeth, Ava, Abigail, Ella and Owen entered the waiting_room.
-Question: Where does Elizabeth think Ella thinks Abigail thinks the banana is?
-Answer: green_envelope
-Choices: A. green_cupboard, B. blue_bathtub, C. red_box, D. green_bucket, E. red_pantry, F. blue_bottle, G. green_envelope, H. green_basket, I. blue_cupboard, J. green_drawer, K. blue_bucket, L. red_basket, M. green_crate, N. blue_suitcase, O. green_bottle
+1 Amelia, Mason, Ella, Hannah and Benjamin entered the hall.
+2 The carrot is in the red_bottle.
+3 Amelia made no movements and stayed in the hall for 1 minute.
+4 Amelia exited the hall.
+5 Mason moved the carrot to the red_bathtub.
+6 Mason exited the hall.
+7 Ella made no movements and stayed in the hall for 1 minute.
+8 Ella exited the hall.
+9 Hannah moved the carrot to the green_pantry.
+10 Hannah exited the hall.
+11 Benjamin moved the carrot to the red_bottle.
+12 Benjamin exited the hall.
+13 Amelia, Mason, Ella, Hannah and Benjamin entered the waiting_room.
+Question: Where does Benjamin think Amelia thinks Ella thinks the carrot is?
+Answer: red_bottle
+Choices: A. blue_drawer, B. red_suitcase, C. green_bathtub, D. red_crate, E. green_treasure_chest, F. blue_envelope, G. green_envelope, H. blue_container, I. green_crate, J. red_treasure_chest, K. red_bottle, L. blue_treasure_chest, M. red_envelope, N. green_pantry, O. red_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

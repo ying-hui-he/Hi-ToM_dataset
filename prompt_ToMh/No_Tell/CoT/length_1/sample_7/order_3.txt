@@ -1,20 +1,22 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Ella, Aiden, Jack, Benjamin and Emma entered the attic.
-2 The spinach is in the red_bottle.
-3 Ella moved the spinach to the green_basket.
-4 Ella exited the attic.
-5 Aiden made no movements and stayed in the attic for 1 minute.
-6 Aiden exited the attic.
-7 Jack made no movements and stayed in the attic for 1 minute.
-8 Jack exited the attic.
-9 Benjamin moved the spinach to the green_envelope.
-10 Aiden dislikes the turnip.
-11 Benjamin exited the attic.
-12 Emma made no movements and stayed in the attic for 1 minute.
-13 Emma exited the attic.
-14 Ella, Aiden, Jack, Benjamin and Emma entered the waiting_room.
-Question: Where does Aiden think Ella thinks Emma thinks the spinach is?
-Choices: A. red_crate, B. red_drawer, C. green_drawer, D. green_treasure_chest, E. green_bathtub, F. green_envelope, G. red_bottle, H. green_basket, I. blue_bucket, J. green_cupboard, K. blue_bottle, L. blue_cupboard, M. red_pantry, N. red_envelope, O. green_box
+1 Charlotte dislikes the spinach.
+2 Isla, Charlotte, Abigail, Lucas and Aria entered the bathroom.
+3 Lucas dislikes the grapes.
+4 The spinach is in the green_bathtub.
+5 Isla moved the spinach to the green_container.
+6 Isla exited the bathroom.
+7 Charlotte made no movements and stayed in the bathroom for 1 minute.
+8 Charlotte exited the bathroom.
+9 Abigail made no movements and stayed in the bathroom for 1 minute.
+10 Abigail exited the bathroom.
+11 Lucas moved the spinach to the green_pantry.
+12 Lucas exited the bathroom.
+13 Abigail lost his phone.
+14 Aria made no movements and stayed in the bathroom for 1 minute.
+15 Aria exited the bathroom.
+16 Isla, Charlotte, Abigail, Lucas and Aria entered the waiting_room.
+Question: Where does Lucas think Aria thinks Charlotte thinks the spinach is?
+Choices: A. red_box, B. blue_cupboard, C. red_pantry, D. green_basket, E. blue_drawer, F. red_crate, G. blue_bucket, H. blue_box, I. blue_suitcase, J. green_envelope, K. green_bathtub, L. red_basket, M. green_pantry, N. red_treasure_chest, O. green_container
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

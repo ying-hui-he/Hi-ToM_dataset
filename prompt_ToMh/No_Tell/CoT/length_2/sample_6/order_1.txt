@@ -1,31 +1,28 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Owen, Avery, Benjamin, Mila and Noah entered the bedroom.
-2 The melon is in the red_pantry.
-3 Owen moved the melon to the green_basket.
-4 Owen exited the bedroom.
-5 Avery saw a monkey.
-6 Avery made no movements and stayed in the bedroom for 1 minute.
-7 Avery exited the bedroom.
-8 Owen likes the red_basket.
-9 Benjamin made no movements and stayed in the bedroom for 1 minute.
-10 Benjamin exited the bedroom.
-11 Mila moved the melon to the green_box.
-12 Mila exited the bedroom.
-13 Noah moved the melon to the red_pantry.
-14 Noah exited the bedroom.
-15 Owen, Avery, Benjamin, Mila and Noah entered the waiting_room.
-16 Noah, Avery and Mila entered the dining_room.
-17 The sweet_potato is in the red_basket.
-18 Noah moved the sweet_potato to the green_bucket.
-19 Noah exited the dining_room.
-20 Avery moved the sweet_potato to the blue_container.
-21 Avery exited the dining_room.
-22 Owen saw a dog.
-23 Mila made no movements and stayed in the dining_room for 1 minute.
-24 Mila exited the dining_room.
-25 Noah, Avery and Mila entered the waiting_room.
-Question: Where does Owen really think the melon is?
-Choices: A. red_basket, B. green_crate, C. green_bucket, D. blue_container, E. red_crate, F. red_pantry, G. green_basket, H. green_pantry, I. blue_bucket, J. green_box, K. red_drawer, L. red_box, M. blue_cupboard, N. green_envelope, O. green_drawer
+1 Lily, Nathan, Evelyn, Mila and Benjamin entered the back_yard.
+2 The eggplant is in the red_treasure_chest.
+3 Lily made no movements and stayed in the back_yard for 1 minute.
+4 Lily exited the back_yard.
+5 Nathan made no movements and stayed in the back_yard for 1 minute.
+6 Nathan exited the back_yard.
+7 Evelyn moved the eggplant to the green_treasure_chest.
+8 Evelyn exited the back_yard.
+9 Mila made no movements and stayed in the back_yard for 1 minute.
+10 Mila exited the back_yard.
+11 Benjamin moved the eggplant to the red_treasure_chest.
+12 Benjamin exited the back_yard.
+13 Lily, Nathan, Evelyn, Mila and Benjamin entered the waiting_room.
+14 Nathan, Lily and Benjamin entered the master_bedroom.
+15 The asparagus is in the red_pantry.
+16 Nathan made no movements and stayed in the master_bedroom for 1 minute.
+17 Nathan exited the master_bedroom.
+18 Lily made no movements and stayed in the master_bedroom for 1 minute.
+19 Lily exited the master_bedroom.
+20 Benjamin made no movements and stayed in the master_bedroom for 1 minute.
+21 Benjamin exited the master_bedroom.
+22 Nathan, Lily and Benjamin entered the waiting_room.
+Question: Where does Lily really think the eggplant is?
+Choices: A. blue_treasure_chest, B. red_pantry, C. red_bathtub, D. blue_bucket, E. blue_bathtub, F. blue_box, G. red_treasure_chest, H. green_suitcase, I. green_treasure_chest, J. green_envelope, K. green_bathtub, L. blue_suitcase, M. green_bucket, N. blue_drawer, O. red_basket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

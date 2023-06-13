@@ -1,0 +1,29 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Evelyn, Isla, Alexander, Emma and Sophia entered the hall.
+2 The lemon is in the red_box.
+3 Evelyn moved the lemon to the red_container.
+4 Evelyn exited the hall.
+5 Isla made no movements and stayed in the hall for 1 minute.
+6 Isla exited the hall.
+7 Alexander moved the lemon to the green_treasure_chest.
+8 Alexander exited the hall.
+9 Emma moved the lemon to the green_bottle.
+10 Emma exited the hall.
+11 Sophia made no movements and stayed in the hall for 1 minute.
+12 Sophia exited the hall.
+13 Evelyn, Isla, Alexander, Emma and Sophia entered the waiting_room.
+14 Alexander, Emma and Evelyn entered the TV_room.
+15 The pear is in the red_basket.
+16 Alexander made no movements and stayed in the TV_room for 1 minute.
+17 Alexander exited the TV_room.
+18 Emma moved the pear to the blue_treasure_chest.
+19 Emma exited the TV_room.
+20 Emma dislikes the eggplant.
+21 Evelyn made no movements and stayed in the TV_room for 1 minute.
+22 Evelyn exited the TV_room.
+23 Alexander, Emma and Evelyn entered the waiting_room.
+Question: Where does Alexander think Evelyn thinks Sophia thinks Isla thinks the lemon is?
+Choices: A. red_basket, B. blue_treasure_chest, C. green_crate, D. blue_cupboard, E. red_bottle, F. blue_crate, G. green_pantry, H. green_bucket, I. green_box, J. blue_drawer, K. green_bottle, L. red_box, M. green_treasure_chest, N. blue_bathtub, O. red_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

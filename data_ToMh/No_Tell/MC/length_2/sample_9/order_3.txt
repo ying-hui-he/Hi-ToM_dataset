@@ -1,35 +1,32 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Evelyn, Mila, Owen, Lily and Noah entered the hall.
-2 The carrot is in the red_basket.
-3 Evelyn moved the carrot to the red_pantry.
-4 Evelyn exited the hall.
-5 Mila made no movements and stayed in the hall for 1 minute.
-6 Mila exited the hall.
-7 Owen moved the carrot to the green_drawer.
-8 Mila saw a cat.
-9 Owen exited the hall.
-10 Lily moved the carrot to the red_envelope.
-11 Lily exited the hall.
-12 Noah moved the carrot to the red_basket.
-13 Owen lost his watch.
-14 Noah exited the hall.
-15 Owen likes the red_basket.
-16 Evelyn, Mila, Owen, Lily and Noah entered the waiting_room.
-17 Owen dislikes the spinach.
-18 Noah, Mila and Owen entered the sunroom.
-19 The cherry is in the blue_crate.
-20 Mila dislikes the spinach.
-21 Noah made no movements and stayed in the sunroom for 1 minute.
-22 Owen likes the green_treasure_chest.
-23 Noah exited the sunroom.
-24 Mila moved the cherry to the green_bucket.
-25 Mila exited the sunroom.
-26 Owen made no movements and stayed in the sunroom for 1 minute.
-27 Owen exited the sunroom.
-28 Noah, Mila and Owen entered the waiting_room.
-Question: Where does Mila think Owen thinks Noah thinks the carrot is?
-Answer: red_pantry
-Choices: A. red_basket, B. green_drawer, C. red_pantry, D. red_envelope, E. blue_drawer, F. green_cupboard, G. green_bathtub, H. red_box, I. red_drawer, J. green_treasure_chest, K. blue_crate, L. green_basket, M. blue_bathtub, N. green_bottle, O. green_bucket
+1 Liam, Ethan, Ella, Abigail and Aiden entered the den.
+2 The cucumber is in the blue_suitcase.
+3 Ella dislikes the potato.
+4 Liam made no movements and stayed in the den for 1 minute.
+5 Liam exited the den.
+6 Ethan moved the cucumber to the green_bathtub.
+7 Ethan exited the den.
+8 Ethan likes the blue_box.
+9 Ella moved the cucumber to the blue_cupboard.
+10 Ella exited the den.
+11 Abigail moved the cucumber to the green_pantry.
+12 Abigail exited the den.
+13 Aiden moved the cucumber to the blue_suitcase.
+14 Aiden exited the den.
+15 Liam saw a cat.
+16 Liam, Ethan, Ella, Abigail and Aiden entered the waiting_room.
+17 Abigail, Ella and Liam entered the basement.
+18 The watermelon is in the red_basket.
+19 Abigail moved the watermelon to the red_pantry.
+20 Abigail exited the basement.
+21 Ella moved the watermelon to the green_suitcase.
+22 Ella exited the basement.
+23 Liam moved the watermelon to the blue_treasure_chest.
+24 Liam exited the basement.
+25 Abigail, Ella and Liam entered the waiting_room.
+Question: Where does Ethan think Abigail thinks Aiden thinks the cucumber is?
+Answer: green_bathtub
+Choices: A. red_basket, B. blue_treasure_chest, C. red_pantry, D. blue_drawer, E. green_suitcase, F. blue_box, G. green_treasure_chest, H. blue_bucket, I. blue_crate, J. green_bucket, K. blue_suitcase, L. blue_cupboard, M. green_pantry, N. green_bathtub, O. green_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

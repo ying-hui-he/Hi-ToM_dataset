@@ -1,0 +1,20 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Ava, Liam, Ella and William entered the garden.
+2 The melon is in the green_box.
+3 Mila made no movements and stayed in the garden for 1 minute.
+4 Mila exited the garden.
+5 Ava moved the melon to the green_basket.
+6 Ava exited the garden.
+7 Liam made no movements and stayed in the garden for 1 minute.
+8 Liam exited the garden.
+9 Ella moved the melon to the red_bottle.
+10 Liam saw a mouse.
+11 Ella exited the garden.
+12 William made no movements and stayed in the garden for 1 minute.
+13 William exited the garden.
+14 Mila, Ava, Liam, Ella and William entered the waiting_room.
+Question: Where does Ella think Mila thinks William thinks the melon is?
+Choices: A. green_cupboard, B. blue_bottle, C. green_pantry, D. red_crate, E. red_box, F. green_basket, G. green_box, H. blue_cupboard, I. red_bottle, J. blue_drawer, K. green_treasure_chest, L. green_bottle, M. green_bathtub, N. green_drawer, O. green_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

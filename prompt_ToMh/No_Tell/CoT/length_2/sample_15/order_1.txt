@@ -1,31 +1,28 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Hannah, William, Abigail, Nathan and Avery entered the basement.
-2 The corn is in the red_basket.
-3 Hannah moved the corn to the green_bathtub.
-4 Hannah exited the basement.
-5 Avery likes the green_crate.
-6 William made no movements and stayed in the basement for 1 minute.
-7 William exited the basement.
-8 Abigail made no movements and stayed in the basement for 1 minute.
-9 Abigail exited the basement.
-10 Nathan made no movements and stayed in the basement for 1 minute.
-11 Hannah dislikes the corn.
-12 Nathan exited the basement.
-13 Avery moved the corn to the red_basket.
-14 Avery exited the basement.
-15 Hannah, William, Abigail, Nathan and Avery entered the waiting_room.
-16 Nathan lost his watch.
-17 Hannah, Abigail and William entered the basement.
-18 The corn is in the red_basket.
-19 Hannah made no movements and stayed in the basement for 1 minute.
-20 Hannah exited the basement.
-21 Abigail moved the corn to the green_bucket.
-22 Abigail exited the basement.
-23 William made no movements and stayed in the basement for 1 minute.
-24 William exited the basement.
-25 Hannah, Abigail and William entered the waiting_room.
-Question: Where does Abigail really think the corn is?
-Choices: A. red_basket, B. red_bucket, C. green_bathtub, D. blue_suitcase, E. green_bucket, F. blue_bathtub, G. green_cupboard, H. red_pantry, I. red_bottle, J. blue_treasure_chest, K. green_box, L. green_envelope, M. green_crate, N. green_treasure_chest, O. blue_crate
+1 Abigail, Liam, Evelyn, Mila and Jackson entered the lounge.
+2 The sweet_potato is in the green_envelope.
+3 Abigail made no movements and stayed in the lounge for 1 minute.
+4 Abigail exited the lounge.
+5 Liam moved the sweet_potato to the blue_box.
+6 Liam exited the lounge.
+7 Evelyn made no movements and stayed in the lounge for 1 minute.
+8 Evelyn exited the lounge.
+9 Mila moved the sweet_potato to the green_pantry.
+10 Mila exited the lounge.
+11 Jackson moved the sweet_potato to the green_envelope.
+12 Jackson exited the lounge.
+13 Abigail, Liam, Evelyn, Mila and Jackson entered the waiting_room.
+14 Evelyn, Liam and Mila entered the lounge.
+15 The broccoli is in the green_pantry.
+16 Evelyn made no movements and stayed in the lounge for 1 minute.
+17 Evelyn exited the lounge.
+18 Liam moved the broccoli to the blue_box.
+19 Liam exited the lounge.
+20 Mila made no movements and stayed in the lounge for 1 minute.
+21 Mila exited the lounge.
+22 Evelyn, Liam and Mila entered the waiting_room.
+Question: Where does Jackson really think the sweet_potato is?
+Choices: A. green_envelope, B. green_pantry, C. blue_crate, D. green_bucket, E. blue_box, F. blue_suitcase, G. red_box, H. blue_treasure_chest, I. blue_bathtub, J. green_bottle, K. blue_drawer, L. red_bathtub, M. green_suitcase, N. green_container, O. blue_pantry
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

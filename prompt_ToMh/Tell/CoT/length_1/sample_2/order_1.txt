@@ -1,23 +1,23 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Abigail, Liam, Avery, Noah and Lily entered the garage.
-2 The lemon is in the blue_bathtub.
-3 Abigail moved the lemon to the blue_treasure_chest.
-4 Lily dislikes the cabbage.
-5 Abigail exited the garage.
-6 Liam made no movements and stayed in the garage for 1 minute.
-7 Liam exited the garage.
-8 Avery moved the lemon to the blue_pantry.
-9 Avery exited the garage.
-10 Noah made no movements and stayed in the garage for 1 minute.
-11 Noah exited the garage.
-12 Lily moved the lemon to the blue_bathtub.
-13 Lily exited the garage.
-14 Abigail, Liam, Avery, Noah and Lily entered the waiting_room.
-15 Abigail lost his watch.
-16 Avery privately told Abigail that the lemon is in the green_drawer.
-17 Liam privately told Noah that the lemon is in the blue_treasure_chest.
-Question: Where does Lily really think the lemon is?
-Choices: A. blue_bathtub, B. red_envelope, C. blue_pantry, D. green_drawer, E. blue_treasure_chest, F. blue_crate, G. blue_cupboard, H. green_pantry, I. blue_drawer, J. green_envelope, K. red_drawer, L. red_bucket, M. green_box, N. red_container, O. red_box
+1 Alexander saw a monkey.
+2 Aria, Lily, Alexander, Lucas and Aiden entered the front_yard.
+3 The corn is in the blue_bucket.
+4 Aria moved the corn to the blue_box.
+5 Aria exited the front_yard.
+6 Lily made no movements and stayed in the front_yard for 1 minute.
+7 Lily exited the front_yard.
+8 Alexander made no movements and stayed in the front_yard for 1 minute.
+9 Alexander exited the front_yard.
+10 Lucas moved the corn to the blue_pantry.
+11 Lucas exited the front_yard.
+12 Aiden made no movements and stayed in the front_yard for 1 minute.
+13 Aiden exited the front_yard.
+14 Aria, Lily, Alexander, Lucas and Aiden entered the waiting_room.
+15 Alexander saw a mouse.
+16 Lucas publicly claimed that corn is in the blue_bucket now.
+17 Aiden privately told Aria that the corn is in the blue_pantry now.
+Question: Where does Lily really think the corn is?
+Choices: A. red_treasure_chest, B. green_basket, C. blue_crate, D. blue_treasure_chest, E. blue_bathtub, F. blue_box, G. blue_bucket, H. blue_pantry, I. blue_envelope, J. red_basket, K. blue_container, L. blue_cupboard, M. green_bottle, N. green_crate, O. green_treasure_chest
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

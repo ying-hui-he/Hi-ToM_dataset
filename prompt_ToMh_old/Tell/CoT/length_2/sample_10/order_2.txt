@@ -1,0 +1,30 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ava, Charlotte, Evelyn, Amelia and Benjamin entered the bathroom.
+2 The persimmon is in the blue_crate.
+3 Ava made no movements and stayed in the bathroom for 1 minute.
+4 Ava exited the bathroom.
+5 Charlotte moved the persimmon to the red_crate.
+6 Charlotte exited the bathroom.
+7 Evelyn moved the persimmon to the blue_cupboard.
+8 Evelyn exited the bathroom.
+9 Amelia moved the persimmon to the green_pantry.
+10 Amelia exited the bathroom.
+11 Benjamin made no movements and stayed in the bathroom for 1 minute.
+12 Benjamin exited the bathroom.
+13 Ava, Charlotte, Evelyn, Amelia and Benjamin entered the waiting_room.
+14 Ava, Benjamin and Evelyn entered the office.
+15 The onion is in the blue_bathtub.
+16 Ava moved the onion to the green_box.
+17 Ava exited the office.
+18 Benjamin made no movements and stayed in the office for 1 minute.
+19 Benjamin exited the office.
+20 Evelyn made no movements and stayed in the office for 1 minute.
+21 Evelyn exited the office.
+22 Ava, Benjamin and Evelyn entered the waiting_room.
+23 Benjamin privately told Evelyn that the onion is in the red_container.
+24 Evelyn privately told Amelia that the onion is in the green_box.
+Question: Where does Evelyn think Ava thinks the persimmon is?
+Choices: A. green_box, B. blue_bathtub, C. green_bucket, D. green_cupboard, E. red_container, F. red_envelope, G. red_pantry, H. blue_suitcase, I. green_crate, J. green_drawer, K. green_pantry, L. blue_crate, M. blue_cupboard, N. red_crate, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

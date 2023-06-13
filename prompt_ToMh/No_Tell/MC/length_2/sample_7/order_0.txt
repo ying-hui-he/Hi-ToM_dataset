@@ -1,31 +1,31 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Evelyn, Isabella, Nathan, Ava and Lily entered the hallway.
-2 The melon is in the blue_container.
-3 Evelyn moved the melon to the green_treasure_chest.
-4 Evelyn exited the hallway.
-5 Lily dislikes the cucumber.
-6 Isabella made no movements and stayed in the hallway for 1 minute.
-7 Isabella exited the hallway.
-8 Nathan moved the melon to the blue_treasure_chest.
-9 Nathan exited the hallway.
-10 Ava made no movements and stayed in the hallway for 1 minute.
-11 Ava exited the hallway.
-12 Lily made no movements and stayed in the hallway for 1 minute.
-13 Ava dislikes the spinach.
-14 Lily exited the hallway.
-15 Evelyn, Isabella, Nathan, Ava and Lily entered the waiting_room.
-16 Nathan, Isabella and Evelyn entered the cellar.
-17 The spinach is in the red_crate.
-18 Nathan moved the spinach to the blue_bottle.
-19 Nathan exited the cellar.
-20 Isabella moved the spinach to the red_bottle.
-21 Isabella exited the cellar.
-22 Nathan lost his phone.
-23 Evelyn made no movements and stayed in the cellar for 1 minute.
-24 Evelyn exited the cellar.
-25 Nathan, Isabella and Evelyn entered the waiting_room.
-Question: Where is the melon really?
-Choices: A. blue_pantry, B. green_bottle, C. red_envelope, D. green_cupboard, E. green_crate, F. green_box, G. red_crate, H. red_bottle, I. blue_cupboard, J. blue_bottle, K. blue_container, L. blue_bathtub, M. red_bucket, N. blue_treasure_chest, O. green_treasure_chest
+1 Jackson, Mila, Liam, Jack and Amelia entered the workshop.
+2 The asparagus is in the green_container.
+3 Jackson made no movements and stayed in the workshop for 1 minute.
+4 Jackson exited the workshop.
+5 Mila moved the asparagus to the green_bathtub.
+6 Jack likes the red_bathtub.
+7 Mila exited the workshop.
+8 Liam made no movements and stayed in the workshop for 1 minute.
+9 Liam exited the workshop.
+10 Jack made no movements and stayed in the workshop for 1 minute.
+11 Jack exited the workshop.
+12 Amelia made no movements and stayed in the workshop for 1 minute.
+13 Amelia exited the workshop.
+14 Jack likes the red_bathtub.
+15 Jackson, Mila, Liam, Jack and Amelia entered the waiting_room.
+16 Liam, Amelia and Mila entered the bathroom.
+17 Mila likes the red_crate.
+18 The turnip is in the blue_cupboard.
+19 Liam moved the turnip to the red_envelope.
+20 Liam exited the bathroom.
+21 Amelia made no movements and stayed in the bathroom for 1 minute.
+22 Amelia exited the bathroom.
+23 Mila made no movements and stayed in the bathroom for 1 minute.
+24 Mila exited the bathroom.
+25 Liam, Amelia and Mila entered the waiting_room.
+Question: Where is the asparagus really?
+Choices: A. blue_bathtub, B. blue_cupboard, C. red_envelope, D. red_bottle, E. red_box, F. green_bottle, G. green_bucket, H. red_pantry, I. blue_box, J. blue_treasure_chest, K. red_bathtub, L. green_container, M. blue_drawer, N. red_crate, O. green_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,32 +1,32 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Logan, Emma, Isabella, Hannah and Chloe entered the hallway.
-2 The peas is in the red_bottle.
-3 Logan made no movements and stayed in the hallway for 1 minute.
-4 Logan exited the hallway.
-5 Emma made no movements and stayed in the hallway for 1 minute.
-6 Emma exited the hallway.
-7 Isabella moved the peas to the green_bottle.
-8 Isabella exited the hallway.
-9 Hannah moved the peas to the blue_treasure_chest.
-10 Isabella dislikes the tangerine.
-11 Hannah exited the hallway.
-12 Chloe moved the peas to the red_bottle.
-13 Chloe lost his phone.
-14 Chloe exited the hallway.
-15 Logan, Emma, Isabella, Hannah and Chloe entered the waiting_room.
-16 Isabella, Logan and Emma entered the hallway.
-17 The peas is in the red_bottle.
-18 Isabella moved the peas to the blue_treasure_chest.
-19 Isabella exited the hallway.
-20 Logan moved the peas to the blue_bathtub.
-21 Logan exited the hallway.
-22 Emma moved the peas to the red_pantry.
-23 Emma exited the hallway.
-24 Isabella, Logan and Emma entered the waiting_room.
-25 Logan publicly claimed that peas is in the green_bottle.
-26 Emma privately told Logan that the peas is in the red_bottle.
-Question: Where does Chloe think Hannah thinks Emma thinks the peas is?
-Choices: A. red_bottle, B. red_pantry, C. green_bottle, D. blue_bathtub, E. blue_treasure_chest, F. green_box, G. green_cupboard, H. green_crate, I. green_drawer, J. red_drawer, K. green_treasure_chest, L. blue_drawer, M. blue_cupboard, N. blue_container, O. green_envelope
+1 Benjamin, Evelyn, Isabella, Alexander and Hannah entered the bedroom.
+2 The corn is in the red_bathtub.
+3 Benjamin moved the corn to the green_pantry.
+4 Benjamin exited the bedroom.
+5 Evelyn moved the corn to the red_crate.
+6 Evelyn exited the bedroom.
+7 Isabella moved the corn to the blue_bathtub.
+8 Isabella exited the bedroom.
+9 Alexander likes the green_basket.
+10 Alexander made no movements and stayed in the bedroom for 1 minute.
+11 Alexander exited the bedroom.
+12 Hannah moved the corn to the red_bathtub.
+13 Hannah exited the bedroom.
+14 Benjamin, Evelyn, Isabella, Alexander and Hannah entered the waiting_room.
+15 Evelyn, Benjamin and Hannah entered the bedroom.
+16 The corn is in the red_bathtub.
+17 Evelyn moved the corn to the red_crate.
+18 Isabella dislikes the tangerine.
+19 Evelyn exited the bedroom.
+20 Benjamin made no movements and stayed in the bedroom for 1 minute.
+21 Benjamin exited the bedroom.
+22 Hannah made no movements and stayed in the bedroom for 1 minute.
+23 Hannah exited the bedroom.
+24 Evelyn, Benjamin and Hannah entered the waiting_room.
+25 Evelyn publicly claimed that corn is in the green_pantry now.
+26 Hannah privately told Alexander that the corn is in the red_crate now.
+Question: Where does Isabella think Evelyn thinks Benjamin thinks the corn is?
+Choices: A. red_bottle, B. green_bucket, C. blue_envelope, D. green_basket, E. green_envelope, F. blue_treasure_chest, G. green_bottle, H. blue_crate, I. blue_drawer, J. blue_bucket, K. red_bathtub, L. green_pantry, M. red_crate, N. green_treasure_chest, O. blue_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

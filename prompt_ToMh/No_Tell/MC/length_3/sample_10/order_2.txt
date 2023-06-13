@@ -1,42 +1,39 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Logan, Ava, Evelyn, Charlotte and William entered the kitchen.
-2 The sweet_potato is in the red_container.
-3 Ava saw a mouse.
-4 Logan made no movements and stayed in the kitchen for 1 minute.
-5 Logan exited the kitchen.
-6 Ava moved the sweet_potato to the blue_cupboard.
-7 Ava exited the kitchen.
-8 Evelyn made no movements and stayed in the kitchen for 1 minute.
-9 Evelyn exited the kitchen.
-10 Charlotte moved the sweet_potato to the green_drawer.
-11 Charlotte exited the kitchen.
-12 William moved the sweet_potato to the red_container.
-13 William exited the kitchen.
-14 Logan, Ava, Evelyn, Charlotte and William entered the waiting_room.
-15 Ava, Logan and Evelyn entered the hallway.
-16 The peas is in the red_basket.
-17 Ava made no movements and stayed in the hallway for 1 minute.
-18 Ava exited the hallway.
-19 Logan made no movements and stayed in the hallway for 1 minute.
-20 Logan exited the hallway.
-21 Evelyn moved the peas to the green_bathtub.
-22 Evelyn exited the hallway.
-23 Ava, Logan and Evelyn entered the waiting_room.
-24 Logan lost his phone.
-25 William, Logan, Evelyn and Charlotte entered the bedroom.
-26 Charlotte likes the green_bathtub.
-27 The banana is in the green_cupboard.
-28 William moved the banana to the green_bottle.
-29 William exited the bedroom.
-30 Logan moved the banana to the green_envelope.
-31 Logan exited the bedroom.
-32 Evelyn moved the banana to the red_crate.
-33 Evelyn exited the bedroom.
-34 Charlotte moved the banana to the green_pantry.
-35 Charlotte exited the bedroom.
-36 William, Logan, Evelyn and Charlotte entered the waiting_room.
-Question: Where does Logan think Evelyn thinks the sweet_potato is?
-Choices: A. blue_pantry, B. red_basket, C. green_bathtub, D. blue_drawer, E. blue_bottle, F. red_container, G. blue_cupboard, H. green_basket, I. green_box, J. green_drawer, K. green_cupboard, L. green_pantry, M. green_envelope, N. green_bottle, O. red_crate
+1 Mila, Lily, Hannah, Ethan and Alexander entered the pantry.
+2 The carrot is in the red_bathtub.
+3 Mila made no movements and stayed in the pantry for 1 minute.
+4 Mila exited the pantry.
+5 Lily made no movements and stayed in the pantry for 1 minute.
+6 Lily exited the pantry.
+7 Hannah moved the carrot to the blue_box.
+8 Hannah exited the pantry.
+9 Ethan moved the carrot to the blue_container.
+10 Ethan exited the pantry.
+11 Alexander moved the carrot to the red_bathtub.
+12 Alexander exited the pantry.
+13 Mila, Lily, Hannah, Ethan and Alexander entered the waiting_room.
+14 Mila, Hannah and Ethan entered the garage.
+15 The persimmon is in the green_treasure_chest.
+16 Mila moved the persimmon to the green_pantry.
+17 Mila exited the garage.
+18 Hannah made no movements and stayed in the garage for 1 minute.
+19 Hannah exited the garage.
+20 Ethan moved the persimmon to the green_bottle.
+21 Ethan exited the garage.
+22 Mila, Hannah and Ethan entered the waiting_room.
+23 Ethan, Lily, Mila and Hannah entered the garage.
+24 The persimmon is in the green_bottle.
+25 Ethan moved the persimmon to the green_treasure_chest.
+26 Ethan exited the garage.
+27 Lily made no movements and stayed in the garage for 1 minute.
+28 Lily exited the garage.
+29 Mila moved the persimmon to the green_pantry.
+30 Mila exited the garage.
+31 Hannah moved the persimmon to the red_crate.
+32 Hannah exited the garage.
+33 Ethan, Lily, Mila and Hannah entered the waiting_room.
+Question: Where does Hannah think Alexander thinks the carrot is?
+Choices: A. green_treasure_chest, B. green_bottle, C. red_crate, D. green_pantry, E. red_envelope, F. green_envelope, G. red_bottle, H. blue_bucket, I. blue_suitcase, J. green_basket, K. blue_drawer, L. red_bathtub, M. blue_container, N. blue_box, O. blue_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

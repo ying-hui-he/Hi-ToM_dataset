@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Hannah, William, Abigail, Nathan and Avery entered the basement.
+2 The corn is in the red_basket.
+3 Hannah moved the corn to the green_bathtub.
+4 Hannah exited the basement.
+5 Avery likes the green_crate.
+6 William made no movements and stayed in the basement for 1 minute.
+7 William exited the basement.
+8 Abigail made no movements and stayed in the basement for 1 minute.
+9 Abigail exited the basement.
+10 Nathan made no movements and stayed in the basement for 1 minute.
+11 Hannah dislikes the corn.
+12 Nathan exited the basement.
+13 Avery moved the corn to the red_basket.
+14 Avery exited the basement.
+15 Hannah, William, Abigail, Nathan and Avery entered the waiting_room.
+16 Nathan lost his watch.
+17 Hannah, Abigail and William entered the basement.
+18 The corn is in the red_basket.
+19 Hannah made no movements and stayed in the basement for 1 minute.
+20 Hannah exited the basement.
+21 Abigail moved the corn to the green_bucket.
+22 Abigail exited the basement.
+23 William made no movements and stayed in the basement for 1 minute.
+24 William exited the basement.
+25 Hannah, Abigail and William entered the waiting_room.
+Question: Where is the corn really?
+Choices: A. red_basket, B. red_bucket, C. green_bathtub, D. blue_suitcase, E. green_bucket, F. blue_bathtub, G. green_cupboard, H. red_pantry, I. red_bottle, J. blue_treasure_chest, K. green_box, L. green_envelope, M. green_crate, N. green_treasure_chest, O. blue_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,47 +1,44 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Logan, Jackson, Jack, Emily and Isabella entered the hallway.
-2 The peas is in the blue_suitcase.
-3 Logan made no movements and stayed in the hallway for 1 minute.
-4 Logan exited the hallway.
-5 Jackson made no movements and stayed in the hallway for 1 minute.
-6 Jack likes the blue_crate.
-7 Jackson exited the hallway.
-8 Jack moved the peas to the red_crate.
-9 Jack exited the hallway.
-10 Emily moved the peas to the green_bottle.
-11 Emily exited the hallway.
-12 Isabella made no movements and stayed in the hallway for 1 minute.
-13 Jackson dislikes the turnip.
-14 Isabella exited the hallway.
-15 Logan, Jackson, Jack, Emily and Isabella entered the waiting_room.
-16 Emily publicly claimed that peas is in the blue_suitcase.
-17 Isabella privately told Logan that the peas is in the green_bottle.
-18 Isabella, Emily and Logan entered the attic.
-19 The potato is in the green_drawer.
-20 Isabella moved the potato to the red_basket.
-21 Isabella exited the attic.
-22 Jackson dislikes the cucumber.
-23 Emily moved the potato to the green_bathtub.
-24 Emily exited the attic.
-25 Logan moved the potato to the blue_crate.
-26 Logan exited the attic.
-27 Isabella, Emily and Logan entered the waiting_room.
-28 Jack, Isabella, Emily and Logan entered the patio.
-29 The cherry is in the blue_bottle.
-30 Jack made no movements and stayed in the patio for 1 minute.
-31 Jack exited the patio.
-32 Isabella moved the cherry to the green_envelope.
-33 Isabella exited the patio.
-34 Emily made no movements and stayed in the patio for 1 minute.
-35 Emily exited the patio.
-36 Logan moved the cherry to the blue_cupboard.
-37 Logan exited the patio.
-38 Emily dislikes the peas.
-39 Jack, Isabella, Emily and Logan entered the waiting_room.
-40 Isabella privately told Emily that the cherry is in the blue_cupboard.
-41 Logan privately told Jackson that the cherry is in the blue_cupboard.
-Question: Where does Jack really think the peas is?
-Choices: A. blue_crate, B. green_drawer, C. red_basket, D. blue_drawer, E. green_bathtub, F. blue_bottle, G. green_pantry, H. red_envelope, I. blue_cupboard, J. green_envelope, K. red_crate, L. blue_suitcase, M. green_bottle, N. red_bucket, O. red_pantry
+1 Jack, Sophia, Abigail, Mason and Evelyn entered the garden.
+2 The watermelon is in the green_bucket.
+3 Jack moved the watermelon to the green_suitcase.
+4 Jack exited the garden.
+5 Sophia moved the watermelon to the blue_pantry.
+6 Sophia exited the garden.
+7 Abigail moved the watermelon to the red_suitcase.
+8 Abigail exited the garden.
+9 Mason moved the watermelon to the blue_drawer.
+10 Mason exited the garden.
+11 Evelyn made no movements and stayed in the garden for 1 minute.
+12 Evelyn exited the garden.
+13 Jack, Sophia, Abigail, Mason and Evelyn entered the waiting_room.
+14 Abigail privately told Jack that the watermelon is in the green_suitcase now.
+15 Sophia privately told Mason that the watermelon is in the blue_pantry now.
+16 Evelyn, Abigail and Jack entered the garden.
+17 The watermelon is in the blue_drawer.
+18 Evelyn moved the watermelon to the blue_pantry.
+19 Evelyn exited the garden.
+20 Abigail made no movements and stayed in the garden for 1 minute.
+21 Abigail exited the garden.
+22 Abigail likes the green_bottle.
+23 Jack made no movements and stayed in the garden for 1 minute.
+24 Jack exited the garden.
+25 Evelyn, Abigail and Jack entered the waiting_room.
+26 Mason, Abigail, Sophia and Jack entered the garden.
+27 The pineapple is in the blue_drawer.
+28 Mason made no movements and stayed in the garden for 1 minute.
+29 Mason exited the garden.
+30 Abigail made no movements and stayed in the garden for 1 minute.
+31 Abigail exited the garden.
+32 Sophia moved the pineapple to the blue_pantry.
+33 Sophia exited the garden.
+34 Jack made no movements and stayed in the garden for 1 minute.
+35 Jack exited the garden.
+36 Mason, Abigail, Sophia and Jack entered the waiting_room.
+37 Abigail publicly claimed that pineapple is in the blue_drawer now.
+38 Jack privately told Sophia that the pineapple is in the blue_pantry now.
+Question: Where does Abigail really think the watermelon is?
+Choices: A. green_treasure_chest, B. green_envelope, C. green_bottle, D. blue_container, E. blue_bucket, F. blue_drawer, G. green_bucket, H. blue_pantry, I. green_suitcase, J. red_suitcase, K. blue_box, L. blue_crate, M. red_box, N. red_crate, O. green_pantry
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

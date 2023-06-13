@@ -1,22 +1,23 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Aiden, Isla, Carter, Jack and Evelyn entered the closet.
-2 The tomato is in the red_crate.
-3 Aiden made no movements and stayed in the closet for 1 minute.
-4 Aiden exited the closet.
-5 Isla made no movements and stayed in the closet for 1 minute.
-6 Isla exited the closet.
-7 Carter moved the tomato to the blue_container.
-8 Carter exited the closet.
-9 Jack moved the tomato to the green_box.
-10 Jack exited the closet.
-11 Evelyn moved the tomato to the red_crate.
-12 Evelyn exited the closet.
-13 Aiden, Isla, Carter, Jack and Evelyn entered the waiting_room.
-14 Carter privately told Aiden that the tomato is in the green_box.
-15 Isla privately told Jack that the tomato is in the green_basket.
-Question: Where does Aiden think Carter thinks Isla thinks Jack thinks the tomato is?
-Answer: red_crate
-Choices: A. red_basket, B. green_pantry, C. blue_suitcase, D. green_bucket, E. red_envelope, F. green_drawer, G. green_bathtub, H. green_cupboard, I. blue_treasure_chest, J. red_drawer, K. blue_bottle, L. red_crate, M. green_box, N. blue_container, O. green_basket
+1 Lily, Evelyn, Isabella, Carter and Liam entered the playroom.
+2 The grapefruit is in the blue_bucket.
+3 Lily moved the grapefruit to the blue_bathtub.
+4 Lily exited the playroom.
+5 Evelyn made no movements and stayed in the playroom for 1 minute.
+6 Evelyn exited the playroom.
+7 Isabella moved the grapefruit to the green_envelope.
+8 Isabella exited the playroom.
+9 Carter moved the grapefruit to the green_treasure_chest.
+10 Carter exited the playroom.
+11 Liam moved the grapefruit to the blue_bucket.
+12 Liam exited the playroom.
+13 Lily, Evelyn, Isabella, Carter and Liam entered the waiting_room.
+14 Isabella privately told Lily that the grapefruit is in the green_envelope now.
+15 Carter lost his phone.
+16 Evelyn privately told Carter that the grapefruit is in the blue_bucket now.
+Question: Where does Evelyn think Lily thinks Isabella thinks Liam thinks the grapefruit is?
+Answer: blue_bathtub
+Choices: A. red_bottle, B. red_basket, C. blue_box, D. blue_suitcase, E. green_suitcase, F. blue_drawer, G. blue_bucket, H. blue_bathtub, I. green_treasure_chest, J. green_envelope, K. green_basket, L. blue_container, M. red_bathtub, N. red_pantry, O. red_envelope
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

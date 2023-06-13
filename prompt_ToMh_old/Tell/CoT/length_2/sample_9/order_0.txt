@@ -1,0 +1,31 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Ella, Amelia, Jack, Evelyn and Hannah entered the den.
+2 The apple is in the green_pantry.
+3 Ella made no movements and stayed in the den for 1 minute.
+4 Ella exited the den.
+5 Amelia made no movements and stayed in the den for 1 minute.
+6 Amelia exited the den.
+7 Jack moved the apple to the green_bottle.
+8 Jack exited the den.
+9 Evelyn made no movements and stayed in the den for 1 minute.
+10 Evelyn exited the den.
+11 Hannah made no movements and stayed in the den for 1 minute.
+12 Hannah exited the den.
+13 Ella, Amelia, Jack, Evelyn and Hannah entered the waiting_room.
+14 Amelia, Ella and Evelyn entered the sunroom.
+15 The onion is in the red_drawer.
+16 Amelia made no movements and stayed in the sunroom for 1 minute.
+17 Amelia exited the sunroom.
+18 Ella moved the onion to the red_pantry.
+19 Ella likes the green_bucket.
+20 Ella exited the sunroom.
+21 Evelyn made no movements and stayed in the sunroom for 1 minute.
+22 Evelyn exited the sunroom.
+23 Amelia, Ella and Evelyn entered the waiting_room.
+24 Ella publicly claimed that onion is in the green_treasure_chest.
+25 Evelyn privately told Ella that the onion is in the red_pantry.
+Question: Where is the apple really?
+Choices: A. green_pantry, B. red_bottle, C. red_box, D. green_bottle, E. green_crate, F. red_container, G. blue_suitcase, H. blue_cupboard, I. blue_container, J. green_box, K. green_bucket, L. red_drawer, M. green_envelope, N. green_treasure_chest, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

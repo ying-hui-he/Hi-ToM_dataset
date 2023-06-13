@@ -1,24 +1,23 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Noah, Jack, Liam, Elizabeth and Owen entered the cellar.
-2 Jack dislikes the tomato.
-3 The onion is in the red_crate.
-4 Noah made no movements and stayed in the cellar for 1 minute.
-5 Noah exited the cellar.
-6 Jack made no movements and stayed in the cellar for 1 minute.
-7 Jack exited the cellar.
-8 Liam made no movements and stayed in the cellar for 1 minute.
-9 Liam exited the cellar.
-10 Jack saw a dog.
-11 Elizabeth moved the onion to the green_bucket.
-12 Elizabeth exited the cellar.
-13 Owen moved the onion to the red_crate.
-14 Owen exited the cellar.
-15 Noah, Jack, Liam, Elizabeth and Owen entered the waiting_room.
-16 Liam privately told Noah that the onion is in the green_bucket.
-17 Jack privately told Elizabeth that the onion is in the red_crate.
-Question: Where does Noah think Liam thinks Elizabeth thinks Owen thinks the onion is?
-Answer: red_crate
-Choices: A. red_crate, B. blue_bucket, C. red_envelope, D. red_bottle, E. green_bucket, F. green_bottle, G. blue_bathtub, H. blue_suitcase, I. blue_crate, J. blue_container, K. green_drawer, L. blue_treasure_chest, M. red_pantry, N. red_box, O. red_drawer
+1 Ethan likes the blue_bathtub.
+2 Benjamin, Ethan, Isla, Lily and Ava entered the cellar.
+3 The persimmon is in the red_pantry.
+4 Benjamin made no movements and stayed in the cellar for 1 minute.
+5 Benjamin exited the cellar.
+6 Ethan moved the persimmon to the red_bottle.
+7 Ethan exited the cellar.
+8 Isla made no movements and stayed in the cellar for 1 minute.
+9 Isla exited the cellar.
+10 Lily made no movements and stayed in the cellar for 1 minute.
+11 Lily exited the cellar.
+12 Ava moved the persimmon to the red_pantry.
+13 Ava exited the cellar.
+14 Benjamin, Ethan, Isla, Lily and Ava entered the waiting_room.
+15 Isla privately told Benjamin that the persimmon is in the blue_cupboard now.
+16 Ethan privately told Lily that the persimmon is in the red_bottle now.
+Question: Where does Ethan think Isla thinks Lily thinks Ava thinks the persimmon is?
+Answer: red_bottle
+Choices: A. blue_bucket, B. red_box, C. green_bucket, D. blue_envelope, E. red_crate, F. red_bottle, G. red_pantry, H. blue_bathtub, I. blue_cupboard, J. blue_drawer, K. green_container, L. red_bathtub, M. blue_container, N. blue_treasure_chest, O. blue_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

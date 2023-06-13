@@ -1,28 +1,29 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Hannah, Jack, Alexander, Chloe and Aiden entered the master_bedroom.
-2 The orange is in the red_pantry.
-3 Hannah made no movements and stayed in the master_bedroom for 1 minute.
-4 Hannah exited the master_bedroom.
-5 Jack moved the orange to the blue_treasure_chest.
-6 Jack exited the master_bedroom.
-7 Alexander made no movements and stayed in the master_bedroom for 1 minute.
-8 Alexander exited the master_bedroom.
-9 Chloe moved the orange to the red_container.
-10 Chloe exited the master_bedroom.
-11 Aiden made no movements and stayed in the master_bedroom for 1 minute.
-12 Aiden exited the master_bedroom.
-13 Hannah, Jack, Alexander, Chloe and Aiden entered the waiting_room.
-14 Aiden, Hannah and Jack entered the front_yard.
-15 The pear is in the red_box.
-16 Aiden moved the pear to the green_pantry.
-17 Aiden exited the front_yard.
-18 Hannah moved the pear to the green_envelope.
-19 Hannah exited the front_yard.
-20 Jack made no movements and stayed in the front_yard for 1 minute.
-21 Jack exited the front_yard.
-22 Aiden, Hannah and Jack entered the waiting_room.
-Question: Where does Jack think Aiden thinks Hannah thinks the orange is?
-Choices: A. red_container, B. red_pantry, C. blue_treasure_chest, D. blue_pantry, E. blue_crate, F. blue_drawer, G. red_box, H. red_crate, I. green_envelope, J. green_pantry, K. green_bottle, L. red_envelope, M. green_drawer, N. blue_bathtub, O. green_basket
+1 Elizabeth, Hannah, Ella, Aria and Charlotte entered the garage.
+2 Charlotte saw a dog.
+3 The celery is in the blue_container.
+4 Elizabeth moved the celery to the red_suitcase.
+5 Elizabeth exited the garage.
+6 Hannah made no movements and stayed in the garage for 1 minute.
+7 Hannah exited the garage.
+8 Ella made no movements and stayed in the garage for 1 minute.
+9 Ella exited the garage.
+10 Aria made no movements and stayed in the garage for 1 minute.
+11 Aria exited the garage.
+12 Charlotte made no movements and stayed in the garage for 1 minute.
+13 Charlotte exited the garage.
+14 Elizabeth, Hannah, Ella, Aria and Charlotte entered the waiting_room.
+15 Charlotte, Aria and Elizabeth entered the garage.
+16 The celery is in the red_suitcase.
+17 Charlotte moved the celery to the blue_container.
+18 Charlotte exited the garage.
+19 Aria moved the celery to the red_treasure_chest.
+20 Aria exited the garage.
+21 Elizabeth moved the celery to the red_envelope.
+22 Elizabeth exited the garage.
+23 Charlotte, Aria and Elizabeth entered the waiting_room.
+Question: Where does Aria think Ella thinks Elizabeth thinks the celery is?
+Choices: A. red_suitcase, B. blue_container, C. red_treasure_chest, D. red_envelope, E. green_treasure_chest, F. red_pantry, G. blue_drawer, H. red_box, I. green_bottle, J. blue_envelope, K. blue_pantry, L. green_suitcase, M. blue_bathtub, N. green_container, O. green_crate
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

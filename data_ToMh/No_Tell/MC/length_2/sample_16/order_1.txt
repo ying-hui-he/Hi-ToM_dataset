@@ -1,32 +1,31 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Liam, Jackson, Carter, Benjamin and Sophia entered the den.
-2 The tangerine is in the green_bottle.
-3 Liam moved the tangerine to the blue_treasure_chest.
-4 Sophia dislikes the banana.
-5 Liam exited the den.
-6 Jackson moved the tangerine to the green_bathtub.
-7 Jackson exited the den.
-8 Carter made no movements and stayed in the den for 1 minute.
-9 Carter exited the den.
-10 Benjamin moved the tangerine to the red_bucket.
-11 Benjamin exited the den.
-12 Sophia moved the tangerine to the green_bottle.
-13 Sophia exited the den.
-14 Liam, Jackson, Carter, Benjamin and Sophia entered the waiting_room.
-15 Benjamin, Liam and Carter entered the bathroom.
-16 The plum is in the blue_suitcase.
-17 Benjamin moved the plum to the green_crate.
-18 Benjamin exited the bathroom.
-19 Liam moved the plum to the red_drawer.
-20 Liam exited the bathroom.
-21 Jackson dislikes the tangerine.
-22 Carter made no movements and stayed in the bathroom for 1 minute.
-23 Benjamin lost his phone.
-24 Carter exited the bathroom.
-25 Benjamin, Liam and Carter entered the waiting_room.
-Question: Where does Benjamin really think the tangerine is?
-Answer: red_bucket
-Choices: A. red_pantry, B. blue_bottle, C. red_basket, D. green_box, E. red_bottle, F. blue_suitcase, G. blue_crate, H. green_bucket, I. green_crate, J. red_drawer, K. red_bucket, L. green_bottle, M. blue_treasure_chest, N. green_bathtub, O. green_envelope
+1 Evelyn, Benjamin, Nathan, Alexander and Isla entered the bathroom.
+2 The broccoli is in the green_crate.
+3 Evelyn made no movements and stayed in the bathroom for 1 minute.
+4 Evelyn exited the bathroom.
+5 Nathan lost his watch.
+6 Benjamin made no movements and stayed in the bathroom for 1 minute.
+7 Benjamin exited the bathroom.
+8 Nathan moved the broccoli to the blue_treasure_chest.
+9 Nathan exited the bathroom.
+10 Alexander moved the broccoli to the green_treasure_chest.
+11 Alexander exited the bathroom.
+12 Isla made no movements and stayed in the bathroom for 1 minute.
+13 Isla dislikes the broccoli.
+14 Isla exited the bathroom.
+15 Evelyn, Benjamin, Nathan, Alexander and Isla entered the waiting_room.
+16 Benjamin, Evelyn and Alexander entered the master_bedroom.
+17 The cucumber is in the green_basket.
+18 Benjamin moved the cucumber to the green_envelope.
+19 Benjamin exited the master_bedroom.
+20 Evelyn moved the cucumber to the green_pantry.
+21 Evelyn exited the master_bedroom.
+22 Alexander moved the cucumber to the blue_bathtub.
+23 Alexander exited the master_bedroom.
+24 Benjamin, Evelyn and Alexander entered the waiting_room.
+Question: Where does Benjamin really think the broccoli is?
+Answer: green_crate
+Choices: A. green_basket, B. green_pantry, C. green_envelope, D. red_basket, E. blue_bathtub, F. green_bucket, G. green_bottle, H. blue_drawer, I. red_treasure_chest, J. red_pantry, K. green_crate, L. red_envelope, M. green_treasure_chest, N. blue_treasure_chest, O. green_suitcase
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

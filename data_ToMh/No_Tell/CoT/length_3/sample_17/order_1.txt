@@ -1,42 +1,44 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Emily, Avery, Emma, Jack and Jackson entered the garage.
-2 The eggplant is in the green_pantry.
-3 Emily moved the eggplant to the blue_drawer.
-4 Emily exited the garage.
-5 Avery made no movements and stayed in the garage for 1 minute.
-6 Avery exited the garage.
-7 Emma moved the eggplant to the green_box.
-8 Emma exited the garage.
-9 Jack made no movements and stayed in the garage for 1 minute.
-10 Jack exited the garage.
-11 Jackson made no movements and stayed in the garage for 1 minute.
-12 Jackson exited the garage.
-13 Emily, Avery, Emma, Jack and Jackson entered the waiting_room.
-14 Emma, Emily and Jack entered the garage.
-15 The eggplant is in the green_box.
-16 Emma made no movements and stayed in the garage for 1 minute.
-17 Emma exited the garage.
-18 Emily moved the eggplant to the green_bottle.
-19 Emily exited the garage.
-20 Jack moved the eggplant to the green_pantry.
-21 Jack exited the garage.
-22 Emma, Emily and Jack entered the waiting_room.
-23 Emily, Avery, Jack and Emma entered the garage.
-24 The cherry is in the blue_drawer.
-25 Emily moved the cherry to the green_box.
-26 Jack likes the green_envelope.
-27 Emily exited the garage.
-28 Avery moved the cherry to the green_pantry.
-29 Avery exited the garage.
-30 Jack moved the cherry to the blue_cupboard.
-31 Emily saw a monkey.
-32 Jack exited the garage.
-33 Emma moved the cherry to the green_bottle.
-34 Emma exited the garage.
-35 Emily, Avery, Jack and Emma entered the waiting_room.
-Question: Where does Emma really think the eggplant is?
-Answer: green_pantry
-Choices: A. green_basket, B. blue_container, C. green_envelope, D. blue_suitcase, E. blue_bathtub, F. blue_drawer, G. green_pantry, H. green_box, I. blue_cupboard, J. green_bottle, K. green_drawer, L. red_crate, M. blue_crate, N. red_bottle, O. red_drawer
+1 Charlotte lost his gloves.
+2 Gracie, Charlotte, Jackson, Jack and Aiden entered the dining_room.
+3 Jackson likes the blue_cupboard.
+4 The asparagus is in the blue_suitcase.
+5 Gracie moved the asparagus to the blue_crate.
+6 Gracie exited the dining_room.
+7 Charlotte moved the asparagus to the red_bathtub.
+8 Charlotte exited the dining_room.
+9 Jackson made no movements and stayed in the dining_room for 1 minute.
+10 Aiden saw a monkey.
+11 Jackson exited the dining_room.
+12 Jack moved the asparagus to the green_bathtub.
+13 Jack exited the dining_room.
+14 Aiden moved the asparagus to the blue_suitcase.
+15 Aiden exited the dining_room.
+16 Gracie, Charlotte, Jackson, Jack and Aiden entered the waiting_room.
+17 Jack, Jackson and Gracie entered the study.
+18 The radish is in the red_bottle.
+19 Jack made no movements and stayed in the study for 1 minute.
+20 Jack exited the study.
+21 Jackson made no movements and stayed in the study for 1 minute.
+22 Jackson exited the study.
+23 Gracie moved the radish to the red_envelope.
+24 Gracie exited the study.
+25 Jack, Jackson and Gracie entered the waiting_room.
+26 Gracie, Aiden, Jackson and Charlotte entered the staircase.
+27 The carrot is in the blue_pantry.
+28 Gracie made no movements and stayed in the staircase for 1 minute.
+29 Gracie exited the staircase.
+30 Aiden made no movements and stayed in the staircase for 1 minute.
+31 Jackson lost his gloves.
+32 Aiden exited the staircase.
+33 Jackson made no movements and stayed in the staircase for 1 minute.
+34 Jackson exited the staircase.
+35 Charlotte moved the carrot to the green_bottle.
+36 Charlotte exited the staircase.
+37 Gracie, Aiden, Jackson and Charlotte entered the waiting_room.
+Question: Where does Jackson really think the asparagus is?
+Answer: red_bathtub
+Choices: A. blue_suitcase, B. green_bathtub, C. red_bathtub, D. green_container, E. blue_crate, F. red_box, G. red_bottle, H. red_envelope, I. green_pantry, J. green_crate, K. blue_cupboard, L. blue_pantry, M. green_envelope, N. blue_bathtub, O. green_bottle
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

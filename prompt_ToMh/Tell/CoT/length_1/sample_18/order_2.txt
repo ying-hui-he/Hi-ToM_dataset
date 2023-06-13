@@ -1,23 +1,24 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Logan, Nathan, Isabella, Aiden and William entered the master_bedroom.
-2 William lost his gloves.
-3 The cabbage is in the red_bucket.
-4 Logan moved the cabbage to the green_pantry.
-5 Aiden lost his gloves.
-6 Logan exited the master_bedroom.
-7 Nathan moved the cabbage to the red_box.
-8 Nathan exited the master_bedroom.
-9 Isabella made no movements and stayed in the master_bedroom for 1 minute.
-10 Isabella exited the master_bedroom.
-11 Aiden made no movements and stayed in the master_bedroom for 1 minute.
-12 Aiden exited the master_bedroom.
-13 William made no movements and stayed in the master_bedroom for 1 minute.
-14 William exited the master_bedroom.
-15 Logan, Nathan, Isabella, Aiden and William entered the waiting_room.
-16 Isabella publicly claimed that cabbage is in the red_box.
-17 William privately told Isabella that the cabbage is in the green_cupboard.
-Question: Where does Nathan think William thinks the cabbage is?
-Choices: A. blue_treasure_chest, B. red_bucket, C. green_pantry, D. red_box, E. green_cupboard, F. blue_pantry, G. green_treasure_chest, H. red_crate, I. green_basket, J. blue_suitcase, K. blue_container, L. blue_drawer, M. red_drawer, N. red_pantry, O. green_crate
+1 Aria, Lucas, Ava, Ella and Evelyn entered the living_room.
+2 The pumpkin is in the red_bottle.
+3 Aria made no movements and stayed in the living_room for 1 minute.
+4 Aria exited the living_room.
+5 Lucas moved the pumpkin to the blue_cupboard.
+6 Lucas exited the living_room.
+7 Ava moved the pumpkin to the green_pantry.
+8 Ava exited the living_room.
+9 Ella lost his gloves.
+10 Ella made no movements and stayed in the living_room for 1 minute.
+11 Ella exited the living_room.
+12 Aria dislikes the pumpkin.
+13 Evelyn made no movements and stayed in the living_room for 1 minute.
+14 Evelyn exited the living_room.
+15 Aria, Lucas, Ava, Ella and Evelyn entered the waiting_room.
+16 Aria dislikes the pumpkin.
+17 Ava privately told Aria that the pumpkin is in the blue_container now.
+18 Lucas privately told Ella that the pumpkin is in the blue_cupboard now.
+Question: Where does Evelyn think Ella thinks the pumpkin is?
+Choices: A. blue_drawer, B. green_bathtub, C. blue_pantry, D. red_crate, E. green_container, F. red_bottle, G. blue_cupboard, H. blue_container, I. green_pantry, J. red_basket, K. blue_suitcase, L. red_suitcase, M. green_treasure_chest, N. green_suitcase, O. green_bucket
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,22 +1,21 @@
-Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. Directly output the answer without explanation.
 Story:
-1 Emily, Jack, Avery, Aiden and Abigail entered the playroom.
-2 The lime is in the green_envelope.
-3 Emily moved the lime to the blue_pantry.
-4 Emily exited the playroom.
-5 Jack moved the lime to the blue_suitcase.
-6 Jack exited the playroom.
-7 Avery made no movements and stayed in the playroom for 1 minute.
-8 Avery exited the playroom.
-9 Emily likes the green_crate.
-10 Aiden made no movements and stayed in the playroom for 1 minute.
-11 Aiden exited the playroom.
-12 Avery likes the red_basket.
-13 Abigail moved the lime to the green_envelope.
-14 Abigail exited the playroom.
-15 Emily, Jack, Avery, Aiden and Abigail entered the waiting_room.
-Question: Where does Jack think Avery thinks Abigail thinks the lime is?
-Answer: blue_pantry
-Choices: A. blue_bathtub, B. blue_crate, C. blue_treasure_chest, D. red_box, E. red_basket, F. green_crate, G. blue_drawer, H. red_bucket, I. green_basket, J. green_bathtub, K. green_envelope, L. green_bottle, M. blue_suitcase, N. blue_pantry, O. green_drawer
+1 Isla, Charlotte, Gracie, Ethan and Alexander entered the bathroom.
+2 The potato is in the blue_drawer.
+3 Isla moved the potato to the red_pantry.
+4 Isla exited the bathroom.
+5 Charlotte made no movements and stayed in the bathroom for 1 minute.
+6 Charlotte exited the bathroom.
+7 Gracie moved the potato to the blue_bucket.
+8 Gracie exited the bathroom.
+9 Ethan made no movements and stayed in the bathroom for 1 minute.
+10 Isla lost his phone.
+11 Ethan exited the bathroom.
+12 Alexander moved the potato to the blue_drawer.
+13 Alexander exited the bathroom.
+14 Isla, Charlotte, Gracie, Ethan and Alexander entered the waiting_room.
+Question: Where does Ethan think Isla thinks Charlotte thinks the potato is?
+Answer: red_pantry
+Choices: A. red_bottle, B. blue_drawer, C. blue_bucket, D. red_pantry, E. red_box, F. blue_treasure_chest, G. blue_box, H. blue_pantry, I. red_suitcase, J. green_basket, K. blue_envelope, L. blue_suitcase, M. green_envelope, N. green_suitcase, O. red_envelope
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -1,31 +1,34 @@
-Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+The following story happens in chronological order. You will be given a multiple-choice question and a note at the end. First give step-by-step analysis about the question. Then output the answer.
 Story:
-1 Liam, Hannah, Emma, Mila and Evelyn entered the cellar.
-2 The sweet_potato is in the red_drawer.
-3 Liam made no movements and stayed in the cellar for 1 minute.
-4 Liam exited the cellar.
-5 Hannah made no movements and stayed in the cellar for 1 minute.
-6 Hannah exited the cellar.
-7 Emma made no movements and stayed in the cellar for 1 minute.
-8 Emma exited the cellar.
-9 Mila moved the sweet_potato to the red_crate.
-10 Mila exited the cellar.
-11 Evelyn made no movements and stayed in the cellar for 1 minute.
-12 Evelyn exited the cellar.
-13 Liam, Hannah, Emma, Mila and Evelyn entered the waiting_room.
-14 Liam, Mila and Evelyn entered the cellar.
-15 The sweet_potato is in the red_crate.
-16 Liam made no movements and stayed in the cellar for 1 minute.
-17 Liam exited the cellar.
-18 Mila moved the sweet_potato to the red_container.
-19 Mila exited the cellar.
-20 Evelyn made no movements and stayed in the cellar for 1 minute.
-21 Evelyn exited the cellar.
-22 Liam, Mila and Evelyn entered the waiting_room.
-23 Mila publicly claimed that sweet_potato is in the blue_container.
-24 Evelyn privately told Mila that the sweet_potato is in the blue_suitcase.
-Question: Where does Liam really think the sweet_potato is?
-Answer: blue_container
-Choices: A. green_bottle, B. blue_treasure_chest, C. green_drawer, D. red_basket, E. blue_crate, F. green_treasure_chest, G. blue_cupboard, H. green_pantry, I. green_cupboard, J. red_bucket, K. blue_container, L. red_drawer, M. red_container, N. blue_suitcase, O. red_crate
+1 Charlotte, Lucas, Jayden, Hannah and Amelia entered the closet.
+2 The pear is in the green_crate.
+3 Charlotte made no movements and stayed in the closet for 1 minute.
+4 Charlotte exited the closet.
+5 Lucas moved the pear to the blue_container.
+6 Lucas exited the closet.
+7 Jayden made no movements and stayed in the closet for 1 minute.
+8 Jayden exited the closet.
+9 Hannah moved the pear to the green_bucket.
+10 Charlotte saw a monkey.
+11 Hannah exited the closet.
+12 Amelia moved the pear to the green_crate.
+13 Amelia exited the closet.
+14 Charlotte, Lucas, Jayden, Hannah and Amelia entered the waiting_room.
+15 Charlotte saw a mouse.
+16 Hannah, Amelia and Charlotte entered the garden.
+17 The spinach is in the green_treasure_chest.
+18 Hannah made no movements and stayed in the garden for 1 minute.
+19 Hannah exited the garden.
+20 Amelia moved the spinach to the green_bathtub.
+21 Amelia exited the garden.
+22 Charlotte moved the spinach to the blue_treasure_chest.
+23 Charlotte exited the garden.
+24 Hannah, Amelia and Charlotte entered the waiting_room.
+25 Charlotte publicly claimed that spinach is in the blue_box now.
+26 Jayden likes the red_suitcase.
+27 Hannah privately told Charlotte that the spinach is in the green_bathtub now.
+Question: Where does Charlotte really think the pear is?
+Answer: green_crate
+Choices: A. blue_suitcase, B. green_crate, C. blue_bathtub, D. green_bucket, E. blue_container, F. red_bathtub, G. red_treasure_chest, H. red_suitcase, I. blue_pantry, J. green_envelope, K. green_treasure_chest, L. blue_box, M. blue_drawer, N. blue_treasure_chest, O. green_bathtub
 
-Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Note: You should assume the following. (1) An agent witnesses everything and every movement before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tends to lie. What an agent A tells others doesn't affect A's actual belief. An agent tends to trust an agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

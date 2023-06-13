@@ -3,6 +3,7 @@ import random
 from itertools import combinations
 from itertools import permutations
 
+
 class Action(object):
 
     def __init__(self, templates):
@@ -166,8 +167,8 @@ class ObjectLocAction(Action):
         if len(observers) >= 4:
             for chosen_observers in combinations(observers, 4):
                 for observer1, observer2, observer3, observer4 in permutations(chosen_observers):
-                        oracle.set_fourth_belief(
-                            observer1, observer2, observer3, observer4, obj, container)
+                    oracle.set_fourth_belief(
+                        observer1, observer2, observer3, observer4, obj, container)
         super().__init__(templates)
 
 
@@ -217,8 +218,10 @@ class MoveAction(Action):
             # set second beliefs
             if len(observers) >= 2:
                 for observer1, observer2 in combinations(observers, 2):
-                    oracle.set_second_belief(observer1, observer2, obj, container)
-                    oracle.set_second_belief(observer2, observer1, obj, container)
+                    oracle.set_second_belief(
+                        observer1, observer2, obj, container)
+                    oracle.set_second_belief(
+                        observer2, observer1, obj, container)
 
             # set third beliefs
             if len(observers) >= 3:
@@ -231,8 +234,8 @@ class MoveAction(Action):
             if len(observers) >= 4:
                 for chosen_observers in combinations(observers, 4):
                     for observer1, observer2, observer3, observer4 in permutations(chosen_observers):
-                            oracle.set_fourth_belief(
-                                observer1, observer2, observer3, observer4, obj, container)
+                        oracle.set_fourth_belief(
+                            observer1, observer2, observer3, observer4, obj, container)
 
         super().__init__(templates)
 
@@ -242,18 +245,19 @@ class PublicTellAction(Action):
     def __init__(self, oracle, speaker, obj, container, listeners=None, believers=None):
         templates = {
             'declarative': [
-                '%s publicly claimed that %s is in the %s.' % (
+                '%s publicly claimed that %s is in the %s now.' % (
                     speaker, obj, container),
             ]
         }
-        disbelievers = [listener for listener in listeners if listener not in believers]
+        disbelievers = [
+            listener for listener in listeners if listener not in believers]
 
         # All listeners would think others believe the claim
         # for believer in believers:
         #     for disbeliever in disbelievers:
         #         oracle.set_second_belief(believer, disbeliever, obj, container)
         #         oracle.set_second_belief(disbeliever, believer, obj, container)
-        
+
         # A believer would think speaker also believes the obj is in container, speaker would think his words are trusted
         for believer in believers:
             oracle.set_first_belief(believer, obj, container)
@@ -262,7 +266,6 @@ class PublicTellAction(Action):
 
         for disbeliever in disbelievers:
             oracle.set_second_belief(speaker, disbeliever, obj, container)
-            
 
         # for listener in listeners:
         #     # the speaker believes that all the listeners believe him
@@ -279,7 +282,7 @@ class PrivateTellAction(Action):
     def __init__(self, oracle, speaker, listener, obj, container, trust=True):
         templates = {
             'declarative': [
-                '%s privately told %s that the %s is in the %s.' % (
+                '%s privately told %s that the %s is in the %s now.' % (
                     speaker, listener, obj, container),
             ]
         }
@@ -341,8 +344,8 @@ class EnterAction(Action):
                 if len(observers) >= 4:
                     for chosen_observers in combinations(observers, 4):
                         for observer1, observer2, observer3, observer4 in permutations(chosen_observers):
-                                oracle.set_fourth_belief(
-                                    observer1, observer2, observer3, observer4, obj, container)
+                            oracle.set_fourth_belief(
+                                observer1, observer2, observer3, observer4, obj, container)
 
         super().__init__(templates)
 
