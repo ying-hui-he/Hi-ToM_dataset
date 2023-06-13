@@ -17,7 +17,7 @@ Story:
 15 Isabella publicly claimed that pear is in the green_envelope.
 16 Sophia privately told Isabella that the pear is in the blue_crate.
 Question: Where does Ava think Sophia thinks the pear is?
-Answer: blue_crate
+Answer: green_envelope
 Choices: A. blue_drawer, B. green_bucket, C. red_box, D. green_basket, E. red_container, F. blue_crate, G. blue_cupboard, H. red_pantry, I. green_envelope, J. red_crate, K. red_basket, L. green_treasure_chest, M. red_drawer, N. green_bathtub, O. red_envelope
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

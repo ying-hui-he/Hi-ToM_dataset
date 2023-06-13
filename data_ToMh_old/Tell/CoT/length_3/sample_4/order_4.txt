@@ -39,7 +39,7 @@ Story:
 37 Lily publicly claimed that green_pepper is in the green_basket.
 38 Amelia privately told Nathan that the green_pepper is in the green_cupboard.
 Question: Where does Alexander think Lily thinks Nathan thinks Amelia thinks the corn is?
-Answer: green_bottle
+Answer: red_envelope
 Choices: A. green_basket, B. red_container, C. red_bottle, D. green_cupboard, E. blue_bucket, F. green_bottle, G. green_envelope, H. green_box, I. red_envelope, J. green_drawer, K. red_drawer, L. blue_container, M. blue_bottle, N. green_treasure_chest, O. blue_pantry
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

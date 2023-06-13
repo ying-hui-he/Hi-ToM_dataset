@@ -18,7 +18,7 @@ Story:
 16 Benjamin privately told Hannah that the peach is in the red_envelope.
 17 Liam privately told Avery that the peach is in the red_bottle.
 Question: Where does Benjamin think Liam thinks Avery thinks the peach is?
-Answer: red_basket
+Answer: blue_treasure_chest
 Choices: A. blue_bucket, B. blue_drawer, C. red_container, D. green_basket, E. blue_bathtub, F. red_drawer, G. green_bathtub, H. green_crate, I. green_envelope, J. green_drawer, K. red_pantry, L. red_basket, M. red_envelope, N. red_bottle, O. blue_treasure_chest
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -36,7 +36,7 @@ Story:
 34 Carter exited the study.
 35 Emma, Amelia, Isla and Carter entered the waiting_room.
 Question: Where does Mila think Carter thinks Amelia thinks Isla thinks the peas is?
-Answer: green_treasure_chest
+Answer: blue_bucket
 Choices: A. green_treasure_chest, B. blue_bucket, C. green_bucket, D. red_envelope, E. blue_cupboard, F. red_basket, G. green_crate, H. green_pantry, I. green_bathtub, J. green_cupboard, K. red_drawer, L. green_envelope, M. blue_treasure_chest, N. red_bucket, O. blue_drawer
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

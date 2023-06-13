@@ -1,0 +1,43 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Hannah, Lily, Logan, Elizabeth and Noah entered the study.
+2 The turnip is in the red_basket.
+3 Hannah made no movements and stayed in the study for 1 minute.
+4 Hannah exited the study.
+5 Lily made no movements and stayed in the study for 1 minute.
+6 Lily exited the study.
+7 Logan made no movements and stayed in the study for 1 minute.
+8 Lily dislikes the onion.
+9 Logan exited the study.
+10 Elizabeth moved the turnip to the green_pantry.
+11 Elizabeth exited the study.
+12 Noah moved the turnip to the red_basket.
+13 Noah exited the study.
+14 Logan lost his watch.
+15 Hannah, Lily, Logan, Elizabeth and Noah entered the waiting_room.
+16 Noah, Logan and Hannah entered the dining_room.
+17 The sweet_potato is in the blue_suitcase.
+18 Noah moved the sweet_potato to the red_envelope.
+19 Noah exited the dining_room.
+20 Logan moved the sweet_potato to the green_drawer.
+21 Logan exited the dining_room.
+22 Hannah made no movements and stayed in the dining_room for 1 minute.
+23 Hannah exited the dining_room.
+24 Noah, Logan and Hannah entered the waiting_room.
+25 Noah, Lily, Hannah and Elizabeth entered the study.
+26 The turnip is in the red_basket.
+27 Noah dislikes the cabbage.
+28 Noah made no movements and stayed in the study for 1 minute.
+29 Noah exited the study.
+30 Lily made no movements and stayed in the study for 1 minute.
+31 Lily exited the study.
+32 Hannah moved the turnip to the blue_pantry.
+33 Hannah exited the study.
+34 Elizabeth made no movements and stayed in the study for 1 minute.
+35 Elizabeth exited the study.
+36 Noah, Lily, Hannah and Elizabeth entered the waiting_room.
+Question: Where does Noah think Lily thinks Hannah thinks the turnip is?
+Answer: red_basket
+Choices: A. red_basket, B. green_crate, C. blue_pantry, D. green_pantry, E. red_bucket, F. green_box, G. green_basket, H. blue_drawer, I. blue_bucket, J. red_drawer, K. blue_suitcase, L. red_envelope, M. green_drawer, N. red_crate, O. red_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

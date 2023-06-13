@@ -24,7 +24,7 @@ Story:
 22 Evelyn exited the TV_room.
 23 Alexander, Emma and Evelyn entered the waiting_room.
 Question: Where does Evelyn think Sophia thinks Isla thinks the lemon is?
-Answer: red_box
+Answer: red_container
 Choices: A. red_basket, B. blue_treasure_chest, C. green_crate, D. blue_cupboard, E. red_bottle, F. blue_crate, G. green_pantry, H. green_bucket, I. green_box, J. blue_drawer, K. green_bottle, L. red_box, M. green_treasure_chest, N. blue_bathtub, O. red_container
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

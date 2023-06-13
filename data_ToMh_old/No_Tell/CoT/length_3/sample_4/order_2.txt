@@ -38,7 +38,7 @@ Story:
 36 Logan exited the dining_room.
 37 Abigail, Emma, Jackson and Logan entered the waiting_room.
 Question: Where does Benjamin think Emma thinks the green_pepper is?
-Answer: red_basket
+Answer: blue_container
 Choices: A. blue_bottle, B. blue_drawer, C. green_cupboard, D. red_container, E. blue_treasure_chest, F. red_basket, G. blue_container, H. red_box, I. blue_cupboard, J. red_crate, K. red_bottle, L. green_basket, M. green_bottle, N. green_bucket, O. green_bathtub
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

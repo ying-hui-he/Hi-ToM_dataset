@@ -29,7 +29,7 @@ Story:
 27 Owen exited the sunroom.
 28 Noah, Mila and Owen entered the waiting_room.
 Question: Where does Owen think Noah thinks the carrot is?
-Answer: red_pantry
+Answer: green_drawer
 Choices: A. red_basket, B. green_drawer, C. red_pantry, D. red_envelope, E. blue_drawer, F. green_cupboard, G. green_bathtub, H. red_box, I. red_drawer, J. green_treasure_chest, K. blue_crate, L. green_basket, M. blue_bathtub, N. green_bottle, O. green_bucket
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

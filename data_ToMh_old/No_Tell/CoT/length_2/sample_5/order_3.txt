@@ -25,7 +25,7 @@ Story:
 23 Jackson exited the staircase.
 24 Aiden, Avery and Jackson entered the waiting_room.
 Question: Where does Emma think Aiden thinks Avery thinks the cabbage is?
-Answer: green_envelope
+Answer: green_box
 Choices: A. red_envelope, B. green_envelope, C. green_box, D. blue_bucket, E. blue_pantry, F. green_basket, G. blue_drawer, H. red_container, I. green_bucket, J. green_bathtub, K. red_box, L. green_crate, M. blue_container, N. green_drawer, O. red_bottle
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

@@ -14,7 +14,7 @@ Story:
 12 Nathan exited the laundry.
 13 Amelia, Abigail, Charlotte, Carter and Nathan entered the waiting_room.
 Question: Where does Amelia think Nathan thinks Abigail thinks the cabbage is?
-Answer: red_container
+Answer: green_envelope
 Choices: A. blue_bathtub, B. green_box, C. green_drawer, D. red_bucket, E. green_treasure_chest, F. blue_crate, G. red_container, H. green_crate, I. green_envelope, J. green_pantry, K. red_crate, L. red_envelope, M. green_bucket, N. blue_pantry, O. blue_container
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

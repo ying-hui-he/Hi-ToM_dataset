@@ -15,7 +15,7 @@ Story:
 13 Emma exited the attic.
 14 Ella, Aiden, Jack, Benjamin and Emma entered the waiting_room.
 Question: Where does Ella think Emma thinks the spinach is?
-Answer: red_bottle
+Answer: green_basket
 Choices: A. red_crate, B. red_drawer, C. green_drawer, D. green_treasure_chest, E. green_bathtub, F. green_envelope, G. red_bottle, H. green_basket, I. blue_bucket, J. green_cupboard, K. blue_bottle, L. blue_cupboard, M. red_pantry, N. red_envelope, O. green_box
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

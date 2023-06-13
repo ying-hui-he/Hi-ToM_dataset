@@ -46,7 +46,7 @@ Story:
 44 Emma saw a monkey.
 45 Emily privately told Benjamin that the apple is in the green_bottle.
 Question: Where does Emily think Mila thinks the persimmon is?
-Answer: green_bathtub
+Answer: red_envelope
 Choices: A. green_bathtub, B. green_bucket, C. green_box, D. red_pantry, E. red_envelope, F. green_cupboard, G. green_envelope, H. blue_bottle, I. green_treasure_chest, J. blue_container, K. green_bottle, L. green_crate, M. red_crate, N. blue_cupboard, O. red_box
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

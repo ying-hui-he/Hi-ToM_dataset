@@ -42,7 +42,7 @@ Story:
 40 Amelia publicly claimed that tomato is in the green_box.
 41 Jack privately told Jackson that the tomato is in the green_bucket.
 Question: Where does Ella think Jack thinks Jackson thinks Jacob thinks the spinach is?
-Answer: red_container
+Answer: green_crate
 Choices: A. green_bottle, B. green_drawer, C. green_box, D. green_bucket, E. blue_crate, F. green_bathtub, G. blue_suitcase, H. red_pantry, I. blue_bucket, J. blue_bathtub, K. red_container, L. blue_drawer, M. red_drawer, N. red_crate, O. green_crate
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

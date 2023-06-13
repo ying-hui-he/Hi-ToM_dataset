@@ -1,0 +1,42 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Mila, Carter, Isla, Amelia and Emma entered the staircase.
+2 The peas is in the green_treasure_chest.
+3 Mila moved the peas to the blue_bucket.
+4 Mila exited the staircase.
+5 Carter moved the peas to the green_bucket.
+6 Carter exited the staircase.
+7 Isla made no movements and stayed in the staircase for 1 minute.
+8 Isla exited the staircase.
+9 Amelia dislikes the spinach.
+10 Amelia moved the peas to the blue_cupboard.
+11 Amelia exited the staircase.
+12 Emma made no movements and stayed in the staircase for 1 minute.
+13 Emma exited the staircase.
+14 Mila, Carter, Isla, Amelia and Emma entered the waiting_room.
+15 Amelia, Carter and Isla entered the staircase.
+16 Mila likes the red_basket.
+17 The watermelon is in the blue_bucket.
+18 Amelia made no movements and stayed in the staircase for 1 minute.
+19 Amelia exited the staircase.
+20 Carter moved the watermelon to the green_bucket.
+21 Carter exited the staircase.
+22 Isla made no movements and stayed in the staircase for 1 minute.
+23 Isla exited the staircase.
+24 Amelia, Carter and Isla entered the waiting_room.
+25 Emma, Amelia, Isla and Carter entered the study.
+26 The lemon is in the red_basket.
+27 Emma made no movements and stayed in the study for 1 minute.
+28 Emma exited the study.
+29 Amelia made no movements and stayed in the study for 1 minute.
+30 Amelia exited the study.
+31 Isla moved the lemon to the green_cupboard.
+32 Isla exited the study.
+33 Carter made no movements and stayed in the study for 1 minute.
+34 Carter exited the study.
+35 Emma, Amelia, Isla and Carter entered the waiting_room.
+Question: Where does Amelia think Isla thinks the peas is?
+Answer: blue_cupboard
+Choices: A. green_treasure_chest, B. blue_bucket, C. green_bucket, D. red_envelope, E. blue_cupboard, F. red_basket, G. green_crate, H. green_pantry, I. green_bathtub, J. green_cupboard, K. red_drawer, L. green_envelope, M. blue_treasure_chest, N. red_bucket, O. blue_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

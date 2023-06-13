@@ -18,7 +18,7 @@ Story:
 16 Liam privately told Noah that the onion is in the green_bucket.
 17 Jack privately told Elizabeth that the onion is in the red_crate.
 Question: Where does Elizabeth think Owen thinks the onion is?
-Answer: red_crate
+Answer: green_bucket
 Choices: A. red_crate, B. blue_bucket, C. red_envelope, D. red_bottle, E. green_bucket, F. green_bottle, G. blue_bathtub, H. blue_suitcase, I. blue_crate, J. blue_container, K. green_drawer, L. blue_treasure_chest, M. red_pantry, N. red_box, O. red_drawer
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

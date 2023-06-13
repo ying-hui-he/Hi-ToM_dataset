@@ -36,7 +36,7 @@ Story:
 34 Emma exited the garage.
 35 Emily, Avery, Jack and Emma entered the waiting_room.
 Question: Where does Emily think Jack thinks Jackson thinks Emma thinks the eggplant is?
-Answer: green_pantry
+Answer: green_box
 Choices: A. green_basket, B. blue_container, C. green_envelope, D. blue_suitcase, E. blue_bathtub, F. blue_drawer, G. green_pantry, H. green_box, I. blue_cupboard, J. green_bottle, K. green_drawer, L. red_crate, M. blue_crate, N. red_bottle, O. red_drawer
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

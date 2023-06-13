@@ -1,0 +1,47 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 William, Emily, Emma, Isla and Jackson entered the pantry.
+2 The corn is in the green_bathtub.
+3 William moved the corn to the green_cupboard.
+4 Emma likes the blue_crate.
+5 William exited the pantry.
+6 William dislikes the corn.
+7 Emily moved the corn to the red_envelope.
+8 Emily exited the pantry.
+9 Emma made no movements and stayed in the pantry for 1 minute.
+10 Emma exited the pantry.
+11 Isla moved the corn to the green_bottle.
+12 Isla exited the pantry.
+13 Jackson moved the corn to the green_bathtub.
+14 Jackson exited the pantry.
+15 William, Emily, Emma, Isla and Jackson entered the waiting_room.
+16 William, Emily and Isla entered the crawlspace.
+17 The asparagus is in the green_bucket.
+18 William moved the asparagus to the green_drawer.
+19 William lost his watch.
+20 William exited the crawlspace.
+21 Emily made no movements and stayed in the crawlspace for 1 minute.
+22 Emily exited the crawlspace.
+23 Isla made no movements and stayed in the crawlspace for 1 minute.
+24 Isla exited the crawlspace.
+25 William, Emily and Isla entered the waiting_room.
+26 William, Isla, Emily and Emma entered the pantry.
+27 The corn is in the green_bathtub.
+28 William made no movements and stayed in the pantry for 1 minute.
+29 William exited the pantry.
+30 Isla moved the corn to the green_cupboard.
+31 Isla exited the pantry.
+32 Emily moved the corn to the blue_crate.
+33 Emily saw a mouse.
+34 Emily exited the pantry.
+35 Emma moved the corn to the green_bottle.
+36 Emma exited the pantry.
+37 William, Isla, Emily and Emma entered the waiting_room.
+Question: Where is the corn really?
+Answer: green_bottle
+Choices: A. blue_bottle, B. red_drawer, C. red_bottle, D. blue_container, E. red_bucket, F. green_bucket, G. red_pantry, H. green_drawer, I. blue_treasure_chest, J. green_envelope, K. green_bathtub, L. red_envelope, M. green_cupboard, N. green_bottle, O. blue_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: green_bottle
+GPT-4 Answer: green_bottle
+GPT-4 Explain: N. green_bottle

@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Logan, William, Jacob, Sophia and Isla entered the front_yard.
+2 The watermelon is in the red_container.
+3 Logan made no movements and stayed in the front_yard for 1 minute.
+4 Sophia lost his phone.
+5 Logan exited the front_yard.
+6 Isla saw a dog.
+7 William made no movements and stayed in the front_yard for 1 minute.
+8 William exited the front_yard.
+9 Jacob moved the watermelon to the red_basket.
+10 Jacob exited the front_yard.
+11 Sophia made no movements and stayed in the front_yard for 1 minute.
+12 Sophia exited the front_yard.
+13 Isla moved the watermelon to the red_container.
+14 Isla exited the front_yard.
+15 Logan, William, Jacob, Sophia and Isla entered the waiting_room.
+16 Logan, William and Jacob entered the hall.
+17 The eggplant is in the blue_container.
+18 Logan made no movements and stayed in the hall for 1 minute.
+19 Logan exited the hall.
+20 Sophia dislikes the potato.
+21 William moved the eggplant to the red_pantry.
+22 William exited the hall.
+23 Jacob made no movements and stayed in the hall for 1 minute.
+24 Jacob exited the hall.
+25 Logan, William and Jacob entered the waiting_room.
+26 Logan saw a monkey.
+27 Logan publicly claimed that eggplant is in the red_box.
+28 Jacob privately told Isla that the eggplant is in the red_pantry.
+Question: Where does Sophia think Logan thinks Isla thinks Jacob thinks the watermelon is?
+Answer: red_container
+Choices: A. red_container, B. blue_pantry, C. blue_bathtub, D. red_basket, E. green_box, F. green_treasure_chest, G. red_envelope, H. red_bucket, I. green_pantry, J. green_bottle, K. blue_container, L. red_box, M. red_pantry, N. green_cupboard, O. blue_suitcase
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

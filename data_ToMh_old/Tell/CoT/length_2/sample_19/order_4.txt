@@ -27,7 +27,7 @@ Story:
 25 Benjamin publicly claimed that beans is in the blue_bottle.
 26 Emily privately told Sophia that the beans is in the blue_drawer.
 Question: Where does Sophia think Emily thinks Noah thinks Benjamin thinks the carrot is?
-Answer: green_treasure_chest
+Answer: blue_suitcase
 Choices: A. blue_crate, B. green_drawer, C. blue_cupboard, D. red_container, E. red_basket, F. blue_bottle, G. green_treasure_chest, H. blue_treasure_chest, I. blue_drawer, J. blue_suitcase, K. green_bathtub, L. blue_bathtub, M. green_envelope, N. red_bottle, O. red_pantry
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

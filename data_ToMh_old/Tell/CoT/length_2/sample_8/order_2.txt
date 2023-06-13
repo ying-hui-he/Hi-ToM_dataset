@@ -28,7 +28,7 @@ Story:
 26 William dislikes the apple.
 27 Amelia privately told William that the apple is in the blue_suitcase.
 Question: Where does Charlotte think Isla thinks the lettuce is?
-Answer: blue_cupboard
+Answer: blue_bathtub
 Choices: A. green_pantry, B. red_basket, C. blue_cupboard, D. red_box, E. blue_bathtub, F. red_bucket, G. red_envelope, H. red_bottle, I. blue_suitcase, J. blue_container, K. red_pantry, L. green_cupboard, M. red_crate, N. blue_drawer, O. blue_crate
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

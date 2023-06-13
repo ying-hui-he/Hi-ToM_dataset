@@ -24,7 +24,7 @@ Story:
 22 Sophia dislikes the corn.
 23 Liam, Lily and Carter entered the waiting_room.
 Question: Where does Liam think Sophia thinks Lily thinks Amelia thinks the corn is?
-Answer: red_basket
+Answer: red_container
 Choices: A. blue_bucket, B. red_basket, C. red_container, D. blue_bathtub, E. green_pantry, F. red_envelope, G. blue_bottle, H. red_box, I. blue_cupboard, J. green_bathtub, K. red_drawer, L. red_bottle, M. blue_drawer, N. green_crate, O. green_treasure_chest
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

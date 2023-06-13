@@ -37,7 +37,7 @@ Story:
 35 Elizabeth exited the study.
 36 Noah, Lily, Hannah and Elizabeth entered the waiting_room.
 Question: Where does Logan think Noah thinks Lily thinks Hannah thinks the turnip is?
-Answer: red_basket
+Answer: green_drawer
 Choices: A. red_basket, B. green_crate, C. blue_pantry, D. green_pantry, E. red_bucket, F. green_box, G. green_basket, H. blue_drawer, I. blue_bucket, J. red_drawer, K. blue_suitcase, L. red_envelope, M. green_drawer, N. red_crate, O. red_bottle
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

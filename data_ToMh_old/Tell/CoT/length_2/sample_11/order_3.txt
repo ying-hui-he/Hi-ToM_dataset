@@ -30,7 +30,7 @@ Story:
 28 Owen saw a monkey.
 29 Owen privately told Benjamin that the watermelon is in the red_pantry.
 Question: Where does Elizabeth think Liam thinks Benjamin thinks the grapes is?
-Answer: blue_pantry
+Answer: blue_suitcase
 Choices: A. blue_pantry, B. red_crate, C. green_bottle, D. red_bucket, E. blue_suitcase, F. blue_bottle, G. green_basket, H. green_bathtub, I. blue_crate, J. red_bottle, K. green_pantry, L. green_envelope, M. green_drawer, N. red_drawer, O. red_pantry
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

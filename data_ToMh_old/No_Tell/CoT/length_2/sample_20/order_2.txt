@@ -24,7 +24,7 @@ Story:
 22 Nathan exited the kitchen.
 23 Evelyn, Avery and Nathan entered the waiting_room.
 Question: Where does Emily think Nathan thinks the peas is?
-Answer: blue_suitcase
+Answer: red_basket
 Choices: A. blue_suitcase, B. green_envelope, C. blue_cupboard, D. red_basket, E. red_envelope, F. red_box, G. blue_bathtub, H. green_basket, I. red_crate, J. blue_container, K. blue_bucket, L. green_bottle, M. blue_treasure_chest, N. red_bucket, O. green_box
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

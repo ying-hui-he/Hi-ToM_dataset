@@ -38,7 +38,7 @@ Story:
 36 Jackson exited the basement.
 37 Owen, Hannah, Avery and Jackson entered the waiting_room.
 Question: Where does Hannah think Abigail thinks Avery thinks the cucumber is?
-Answer: blue_drawer
+Answer: blue_container
 Choices: A. blue_bottle, B. green_box, C. green_cupboard, D. green_bucket, E. red_box, F. green_bottle, G. red_envelope, H. blue_bucket, I. red_crate, J. blue_pantry, K. blue_bathtub, L. blue_drawer, M. red_pantry, N. green_basket, O. blue_container
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

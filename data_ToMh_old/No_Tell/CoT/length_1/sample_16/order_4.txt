@@ -16,7 +16,7 @@ Story:
 14 Logan exited the cellar.
 15 Isabella, Evelyn, William, Alexander and Logan entered the waiting_room.
 Question: Where does Alexander think Logan thinks Evelyn thinks William thinks the carrot is?
-Answer: red_container
+Answer: blue_container
 Choices: A. green_cupboard, B. red_container, C. green_bathtub, D. blue_suitcase, E. blue_container, F. green_box, G. green_envelope, H. red_basket, I. red_envelope, J. blue_crate, K. green_drawer, L. green_bucket, M. red_crate, N. blue_bottle, O. blue_bathtub
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

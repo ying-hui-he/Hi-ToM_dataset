@@ -44,7 +44,7 @@ Story:
 42 Owen lost his watch.
 43 Hannah privately told Isabella that the orange is in the blue_bottle.
 Question: Where does Jacob think Isabella thinks Owen thinks the orange is?
-Answer: green_box
+Answer: blue_bottle
 Choices: A. green_box, B. red_container, C. blue_bucket, D. blue_bottle, E. blue_container, F. blue_cupboard, G. blue_treasure_chest, H. blue_suitcase, I. red_bucket, J. blue_crate, K. green_envelope, L. red_crate, M. green_cupboard, N. blue_bathtub, O. green_bucket
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

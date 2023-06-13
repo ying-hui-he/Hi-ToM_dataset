@@ -44,7 +44,7 @@ Story:
 42 Sophia publicly claimed that watermelon is in the red_envelope.
 43 Jack privately told Avery that the watermelon is in the blue_pantry.
 Question: Where does Avery think Amelia thinks Chloe thinks the carrot is?
-Answer: red_pantry
+Answer: red_bucket
 Choices: A. blue_pantry, B. red_box, C. red_envelope, D. green_envelope, E. green_drawer, F. blue_treasure_chest, G. blue_container, H. green_bucket, I. green_basket, J. red_drawer, K. red_pantry, L. green_treasure_chest, M. red_bucket, N. green_box, O. blue_crate
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

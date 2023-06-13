@@ -26,7 +26,7 @@ Story:
 24 Mila exited the dining_room.
 25 Noah, Avery and Mila entered the waiting_room.
 Question: Where does Noah think Benjamin thinks Avery thinks Owen thinks the melon is?
-Answer: red_pantry
+Answer: green_basket
 Choices: A. red_basket, B. green_crate, C. green_bucket, D. blue_container, E. red_crate, F. red_pantry, G. green_basket, H. green_pantry, I. blue_bucket, J. green_box, K. red_drawer, L. red_box, M. blue_cupboard, N. green_envelope, O. green_drawer
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

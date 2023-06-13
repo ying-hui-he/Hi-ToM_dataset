@@ -26,7 +26,7 @@ Story:
 24 Evelyn exited the cellar.
 25 Nathan, Isabella and Evelyn entered the waiting_room.
 Question: Where does Ava think Isabella thinks Lily thinks Nathan thinks the melon is?
-Answer: blue_container
+Answer: green_treasure_chest
 Choices: A. blue_pantry, B. green_bottle, C. red_envelope, D. green_cupboard, E. green_crate, F. green_box, G. red_crate, H. red_bottle, I. blue_cupboard, J. blue_bottle, K. blue_container, L. blue_bathtub, M. red_bucket, N. blue_treasure_chest, O. green_treasure_chest
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

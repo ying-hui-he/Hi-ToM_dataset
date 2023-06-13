@@ -17,7 +17,8 @@ Story:
 15 Owen exited the living_room.
 16 Avery, Charlotte, Isabella, Elizabeth and Owen entered the waiting_room.
 Question: Where does Isabella think Owen thinks Charlotte thinks Avery thinks the lettuce is?
-Answer: green_drawer
+Answer: green_bathtub
 Choices: A. blue_drawer, B. green_crate, C. red_bucket, D. green_bottle, E. red_basket, F. blue_suitcase, G. green_treasure_chest, H. green_box, I. red_envelope, J. red_pantry, K. green_drawer, L. blue_pantry, M. green_envelope, N. blue_crate, O. green_bathtub
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+***
