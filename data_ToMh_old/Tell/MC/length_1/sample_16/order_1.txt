@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Aiden, Isla, Carter, Jack and Evelyn entered the closet.
+2 The tomato is in the red_crate.
+3 Aiden made no movements and stayed in the closet for 1 minute.
+4 Aiden exited the closet.
+5 Isla made no movements and stayed in the closet for 1 minute.
+6 Isla exited the closet.
+7 Carter moved the tomato to the blue_container.
+8 Carter exited the closet.
+9 Jack moved the tomato to the green_box.
+10 Jack exited the closet.
+11 Evelyn moved the tomato to the red_crate.
+12 Evelyn exited the closet.
+13 Aiden, Isla, Carter, Jack and Evelyn entered the waiting_room.
+14 Carter privately told Aiden that the tomato is in the green_box.
+15 Isla privately told Jack that the tomato is in the green_basket.
+Question: Where does Jack really think the tomato is?
+Answer: green_box
+Choices: A. red_basket, B. green_pantry, C. blue_suitcase, D. green_bucket, E. red_envelope, F. green_drawer, G. green_bathtub, H. green_cupboard, I. blue_treasure_chest, J. red_drawer, K. blue_bottle, L. red_crate, M. green_box, N. blue_container, O. green_basket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

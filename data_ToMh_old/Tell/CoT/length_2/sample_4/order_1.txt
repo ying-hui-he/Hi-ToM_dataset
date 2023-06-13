@@ -1,0 +1,32 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Emma, William, Isla, Ava and Nathan entered the sunroom.
+2 The cherry is in the blue_suitcase.
+3 Emma made no movements and stayed in the sunroom for 1 minute.
+4 Emma exited the sunroom.
+5 William made no movements and stayed in the sunroom for 1 minute.
+6 William exited the sunroom.
+7 Isla moved the cherry to the red_bottle.
+8 Isla exited the sunroom.
+9 Ava moved the cherry to the green_basket.
+10 Ava exited the sunroom.
+11 Nathan moved the cherry to the blue_suitcase.
+12 William saw a cat.
+13 Nathan exited the sunroom.
+14 Emma, William, Isla, Ava and Nathan entered the waiting_room.
+15 Emma, Ava and Isla entered the laundry.
+16 The sweet_potato is in the green_drawer.
+17 Emma moved the sweet_potato to the green_cupboard.
+18 Emma exited the laundry.
+19 Ava moved the sweet_potato to the blue_cupboard.
+20 Ava exited the laundry.
+21 Isla moved the sweet_potato to the green_bathtub.
+22 Isla exited the laundry.
+23 Emma, Ava and Isla entered the waiting_room.
+24 Ava privately told Isla that the sweet_potato is in the green_drawer.
+25 Isla privately told William that the sweet_potato is in the green_bathtub.
+Question: Where does Nathan really think the cherry is?
+Answer: blue_suitcase
+Choices: A. green_drawer, B. green_treasure_chest, C. blue_cupboard, D. green_bathtub, E. green_cupboard, F. red_envelope, G. blue_suitcase, H. green_bottle, I. red_bottle, J. green_basket, K. red_container, L. green_crate, M. blue_drawer, N. red_drawer, O. red_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

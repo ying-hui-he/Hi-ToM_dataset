@@ -1,0 +1,48 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Logan, Jackson, Jack, Emily and Isabella entered the hallway.
+2 The peas is in the blue_suitcase.
+3 Logan made no movements and stayed in the hallway for 1 minute.
+4 Logan exited the hallway.
+5 Jackson made no movements and stayed in the hallway for 1 minute.
+6 Jack likes the blue_crate.
+7 Jackson exited the hallway.
+8 Jack moved the peas to the red_crate.
+9 Jack exited the hallway.
+10 Emily moved the peas to the green_bottle.
+11 Emily exited the hallway.
+12 Isabella made no movements and stayed in the hallway for 1 minute.
+13 Jackson dislikes the turnip.
+14 Isabella exited the hallway.
+15 Logan, Jackson, Jack, Emily and Isabella entered the waiting_room.
+16 Emily publicly claimed that peas is in the blue_suitcase.
+17 Isabella privately told Logan that the peas is in the green_bottle.
+18 Isabella, Emily and Logan entered the attic.
+19 The potato is in the green_drawer.
+20 Isabella moved the potato to the red_basket.
+21 Isabella exited the attic.
+22 Jackson dislikes the cucumber.
+23 Emily moved the potato to the green_bathtub.
+24 Emily exited the attic.
+25 Logan moved the potato to the blue_crate.
+26 Logan exited the attic.
+27 Isabella, Emily and Logan entered the waiting_room.
+28 Jack, Isabella, Emily and Logan entered the patio.
+29 The cherry is in the blue_bottle.
+30 Jack made no movements and stayed in the patio for 1 minute.
+31 Jack exited the patio.
+32 Isabella moved the cherry to the green_envelope.
+33 Isabella exited the patio.
+34 Emily made no movements and stayed in the patio for 1 minute.
+35 Emily exited the patio.
+36 Logan moved the cherry to the blue_cupboard.
+37 Logan exited the patio.
+38 Emily dislikes the peas.
+39 Jack, Isabella, Emily and Logan entered the waiting_room.
+40 Isabella privately told Emily that the cherry is in the blue_cupboard.
+41 Logan privately told Jackson that the cherry is in the blue_cupboard.
+Question: Where does Logan think Jackson thinks Jack thinks the peas is?
+Answer: blue_suitcase
+Choices: A. blue_crate, B. green_drawer, C. red_basket, D. blue_drawer, E. green_bathtub, F. blue_bottle, G. green_pantry, H. red_envelope, I. blue_cupboard, J. green_envelope, K. red_crate, L. blue_suitcase, M. green_bottle, N. red_bucket, O. red_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.

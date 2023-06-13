@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Please provide answer without explanations.
+Story:
+1 Elizabeth, Ava, Abigail, Ella and Owen entered the bedroom.
+2 The banana is in the green_envelope.
+3 Elizabeth made no movements and stayed in the bedroom for 1 minute.
+4 Elizabeth exited the bedroom.
+5 Owen saw a cat.
+6 Ava made no movements and stayed in the bedroom for 1 minute.
+7 Ava exited the bedroom.
+8 Abigail moved the banana to the blue_bottle.
+9 Abigail exited the bedroom.
+10 Abigail likes the red_pantry.
+11 Ella made no movements and stayed in the bedroom for 1 minute.
+12 Ella exited the bedroom.
+13 Owen moved the banana to the green_envelope.
+14 Owen exited the bedroom.
+15 Elizabeth, Ava, Abigail, Ella and Owen entered the waiting_room.
+Question: Where does Owen think Elizabeth thinks Ella thinks Abigail thinks the banana is?
+Answer: green_envelope
+Choices: A. green_cupboard, B. blue_bathtub, C. red_box, D. green_bucket, E. red_pantry, F. blue_bottle, G. green_envelope, H. green_basket, I. blue_cupboard, J. green_drawer, K. blue_bucket, L. red_basket, M. green_crate, N. blue_suitcase, O. green_bottle
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
