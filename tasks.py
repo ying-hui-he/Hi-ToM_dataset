@@ -359,9 +359,7 @@ def write_A5_chapter(
                 # a3 lies a1, and a2 lies to a4
                 chapter.extend([
                     Clause(PrivateTellAction(oracle, a3, a1,
-                           obj, tell_containers[0], trust=True)),
-                    Clause(PrivateTellAction(oracle, a2, a4,
-                           obj, tell_containers[1], trust=False))
+                           obj, tell_containers[0], trust=True))
                 ])
     return chapter
 
