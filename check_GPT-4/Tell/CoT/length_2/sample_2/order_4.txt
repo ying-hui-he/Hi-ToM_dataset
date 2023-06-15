@@ -27,11 +27,11 @@ Story:
 25 Isabella publicly claimed that onion is in the green_cupboard.
 26 Owen privately told Emily that the onion is in the blue_crate.
 Question: Where does Sophia think Isabella thinks Emily thinks Owen thinks the onion is?
-Answer: red_bottle
+Answer: red_crate
 Choices: A. green_bathtub, B. red_bucket, C. green_drawer, D. blue_bottle, E. green_treasure_chest, F. green_box, G. green_basket, H. blue_suitcase, I. green_envelope, J. red_basket, K. green_cupboard, L. red_crate, M. red_bottle, N. red_drawer, O. blue_crate
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
-Correct answer: red_bottle
+Correct answer: red_crate
 GPT-4 Answer: blue_crate
 GPT-4 Explain: O. blue_crate
 
