@@ -20,7 +20,7 @@ Choices: A. green_treasure_chest, B. blue_treasure_chest, C. red_crate, D. blue_
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
 ***Correct answer: blue_cupboard
-GPT-4 Answer: green_basket
+GPT-4 Answer: blue_cupboard
 GPT-4 Explain: Answer: J. green_basket
 
 Explanation: Hannah moved the eggplant to the blue_cupboard (step 8) and then exited the pantry (step 9). Owen moved the eggplant to the green_basket (step 10) and exited the pantry (step 11). Since Hannah exited the pantry before Owen, she would trust Owen's knowledge of the eggplant's location. Therefore, Hannah thinks Noah thinks the eggplant is in the green_basket.

@@ -22,7 +22,7 @@ Choices: A. red_drawer, B. green_bottle, C. blue_bathtub, D. blue_treasure_chest
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
 Correct answer: red_pantry
-GPT-4 Answer: green_bucket
+GPT-4 Answer: red_pantry
 GPT-4 Explain: Answer: I. green_bucket
 
 Explanation: When Nathan exited the pantry, the plum was still in the red_pantry (step 6). However, Evelyn moved the plum to the green_bucket after Nathan left (step 7). Since William entered the pantry after Nathan and stayed there for 1 minute (step 9), he would have witnessed Evelyn moving the plum to the green_bucket. Therefore, Nathan would think that William thinks the plum is in the green_bucket.

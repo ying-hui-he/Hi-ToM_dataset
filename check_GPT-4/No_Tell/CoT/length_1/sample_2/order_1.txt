@@ -20,7 +20,7 @@ Choices: A. green_bottle, B. red_basket, C. green_bucket, D. green_box, E. blue_
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
 Correct answer: blue_container
-GPT-4 Answer: green_box
+GPT-4 Answer: blue_container
 GPT-4 Explain: Answer: D. green_box
 
 Explanation: Jacob entered the bedroom with Isabella, Carter, Elizabeth, and Hannah. He witnessed Isabella moving the tomato to the green_box (step 3) and then exiting the bedroom (step 4). Carter and Hannah made no movements, so they didn't change the location of the tomato. Elizabeth moved the tomato to the blue_container (step 7) and then exited the bedroom (step 8). However, since Jacob tends to trust agents who exited the room later than himself, he would trust Elizabeth's action and believe the tomato is in the green_box.

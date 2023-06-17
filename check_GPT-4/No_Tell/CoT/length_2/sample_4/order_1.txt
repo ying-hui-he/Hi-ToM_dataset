@@ -28,7 +28,7 @@ Choices: A. blue_treasure_chest, B. blue_drawer, C. green_bottle, D. red_basket,
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
 Correct answer: green_bottle
-GPT-4 Answer: blue_drawer
+GPT-4 Answer: green_bottle
 GPT-4 Explain: Answer: B. blue_drawer
 
 Explanation: Isabella moved the potato to the green_bottle in step 9 and then exited the crawlspace. However, Jacob moved the potato back to the blue_drawer in step 11. Since Isabella was not in the crawlspace when Jacob made this move, she would not have witnessed it. However, all agents entered the waiting_room in step 13, and Isabella would have been able to infer Jacob's mental state. Since agents tend to trust agents that exited the room later than themselves, Isabella would trust Jacob's knowledge of the potato's location. Therefore, Isabella really thinks the potato is in the blue_drawer.

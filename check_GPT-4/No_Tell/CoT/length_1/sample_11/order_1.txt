@@ -21,7 +21,7 @@ Choices: A. red_bottle, B. blue_suitcase, C. red_basket, D. blue_bathtub, E. blu
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
 Correct answer: red_envelope
-GPT-4 Answer: red_box
+GPT-4 Answer: red_envelope
 GPT-4 Explain: Answer: F. red_box
 
 Explanation: Ella entered the study after Benjamin had moved the orange to the red_envelope and exited the study. However, she stayed in the study and witnessed Elizabeth moving the orange back to the red_box. Since Ella has no reason to doubt what she saw, she would believe that the orange is in the red_box.

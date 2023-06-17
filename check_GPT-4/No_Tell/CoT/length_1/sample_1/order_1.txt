@@ -22,7 +22,7 @@ Choices: A. blue_drawer, B. green_crate, C. red_bucket, D. green_bottle, E. red_
 
 Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
 Correct answer: green_bathtub
-GPT-4 Answer: blue_pantry
+GPT-4 Answer: green_bathtub
 GPT-4 Explain: Answer: L. blue_pantry
 
 Explanation: Avery moved the lettuce to the green_bathtub in step 3. However, Avery exited the living_room in step 5, and after that, Charlotte moved the lettuce to the blue_pantry in step 6. Since Avery was not in the living_room when Charlotte moved the lettuce, Avery would not have witnessed this action. However, the exit order is known to all agents, and Avery would trust Charlotte's action since Charlotte exited the room later than Avery. Therefore, Avery would believe that the lettuce is in the blue_pantry.
