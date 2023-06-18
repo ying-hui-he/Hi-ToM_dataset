@@ -55,3 +55,5 @@ Explanation:
 2. Logan privately told Jackson that the cherry is in the blue_cupboard (step 41). Since they had a private interaction, Logan can infer Jackson's mental state. Logan knows that Jackson exited the hallway after Jack, so Logan thinks Jackson thinks Jack thinks the peas are in the red_crate.
 3. Isabella privately told Logan that the peas are in the green_bottle (step 17). Since they had a private interaction, Isabella can infer Logan's mental state. Isabella knows that Logan exited the hallway after Jackson, so Isabella thinks Logan thinks Jackson thinks Jack thinks the peas are in the red_crate.
 4. However, since every agent tends to lie, Isabella would not trust Logan's claim about the peas being in the green_bottle. Instead, she would trust the last person who exited the hallway before her, which is Jack. Jack likes the blue_crate (step 6), so Isabella would think that Logan thinks Jackson thinks Jack thinks the peas are in the blue_crate.
+
+a: 1 5 4 2 6 7
