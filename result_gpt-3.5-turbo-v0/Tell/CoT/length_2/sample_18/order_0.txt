@@ -1,0 +1,9 @@
+To solve this question, we need to track the movements of the sweet_potato and the agents. According to the story, the sweet_potato was initially in the red_drawer, then moved to the red_crate by Mila, and finally moved to the red_container by Mila again. 
+
+We also know that Liam, Hannah, Emma, Mila, and Evelyn entered the cellar together, but only Liam, Hannah, and Emma exited before Mila moved the sweet_potato to the red_crate. This means that only Mila and Evelyn were in the cellar when the sweet_potato was moved to the red_crate. 
+
+Later, Liam, Mila, and Evelyn entered the cellar together, and Liam stayed in the cellar for a minute before Mila moved the sweet_potato to the red_container. This means that only Mila and Evelyn knew the true location of the sweet_potato when they exited the cellar together. 
+
+In the waiting_room, Mila publicly claimed that the sweet_potato was in the blue_container, but Evelyn privately told Mila that the sweet_potato was in the blue_suitcase. However, we know that Mila was the last to exit the cellar with the sweet_potato in the red_container, and agents tend to trust those who exit later than themselves. Therefore, it is likely that Mila is telling the truth about the sweet_potato being in the blue_container, and Evelyn is lying about its true location in the blue_suitcase. 
+
+Therefore, the answer to the question is K. blue_container.
