@@ -1,0 +1,26 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Owen, Ella, Chloe, Sophia and Noah entered the crawlspace.
+2 The corn is in the green_crate.
+3 Owen made no movements and stayed in the crawlspace for 1 minute.
+4 Owen exited the crawlspace.
+5 Ella made no movements and stayed in the crawlspace for 1 minute.
+6 Ella exited the crawlspace.
+7 Chloe made no movements and stayed in the crawlspace for 1 minute.
+8 Ella dislikes the corn.
+9 Chloe exited the crawlspace.
+10 Sophia moved the corn to the blue_suitcase.
+11 Sophia exited the crawlspace.
+12 Noah made no movements and stayed in the crawlspace for 1 minute.
+13 Noah exited the crawlspace.
+14 Owen, Ella, Chloe, Sophia and Noah entered the waiting_room.
+Question: Where does Chloe think Sophia thinks the corn is?
+Answer: green_crate
+Choices: A. red_crate, B. red_box, C. green_envelope, D. green_drawer, E. red_pantry, F. green_crate, G. blue_pantry, H. blue_bucket, I. red_drawer, J. blue_suitcase, K. blue_bathtub, L. red_container, M. green_box, N. green_bathtub, O. blue_crate
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: green_crate
+GPT-4 Answer: blue_suitcase
+GPT-4 Explain: J. blue_suitcase
+
+Chloe thinks Sophia thinks the corn is in the blue_suitcase because Chloe was in the crawlspace and witnessed Sophia moving the corn to the blue_suitcase before exiting.
