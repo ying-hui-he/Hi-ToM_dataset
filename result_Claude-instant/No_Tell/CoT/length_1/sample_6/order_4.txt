@@ -1,0 +1,16 @@
+ Here are the step by step thoughts:
+
+1) Lily actually moved the apple to the red_box. (Line 7)
+
+2) Hannah exited before Lily, so she last saw the apple in the blue_cupboard. (Lines 3 and 4) 
+
+3) Jack exited before Lily, so he last saw the apple in the green_drawer. (Lines 5 and 6)
+
+4) Aiden exited after everyone. He witnessed no one's movements. (Line 13 and 14)
+
+5) Aiden can only infer Jack's thoughts through Hannah, and Hannah's thoughts through Lily. (Assumption 2)  
+
+6) So Aiden would think that Jack thinks Hannah thinks Lily moved the apple to the green_drawer. (Combining points 2, 3, and 5)
+
+Therefore, the answer is:  M. green_drawer  
+This is where Aiden thinks Jack thinks Hannah thinks Lily thinks the apple is, based on the information Aiden has and the exit order.

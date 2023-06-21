@@ -1,0 +1,16 @@
+ Okay, here is my step-by-step reasoning:
+
+1) Noah moved the eggplant to the green_envelope (line 12). So Noah thinks the eggplant is in the green_envelope.
+
+2) Hannah exited before Owen (line 9 vs line 10). So by Assumption 4, Owen trusts Hannah more than Noah.
+
+3) Hannah moved the eggplant to the blue_cupboard (line 8). So Hannah thinks the eggplant is in the blue_cupboard.
+
+4) Jack exited before Hannah (line 7 vs line 8). So Hannah trusts Jack more than Noah.  
+
+5) Jack moved the eggplant to the green_bathtub (line 6). So Jack thinks the eggplant is in the green_bathtub.
+
+Putting it all together:
+Owen thinks Jack thinks Hannah thinks Noah thinks the eggplant is in the green_envelope.
+
+So the answer is: F. green_envelope

@@ -1,0 +1,14 @@
+ Solution:
+
+Step 1) Logan moved the green_pepper to the blue_crate (line 9). So Logan thinks green_pepper is in blue_crate.
+
+Step 2) Ella exited the den before Logan (line 8 vs line 10). So Ella did not witness Logan's action and does not know where Logan thinks green_pepper is. So Ella thinks green_pepper is in red_pantry (line 14, Ella's public claim).
+
+Step 3) Lily exited the den before Ella (line 6 vs line 8). So Lily does not know what Ella publicly claimed and thinks green_pepper is still in red_drawer (its original location, line 2).
+
+Step 4) Abigail exited the den before Lily (line 4 vs line 6). So Abigail does not know where Lily thinks green_pepper is.
+
+Therefore, Elizabeth (who exited last) thinks:
+Ella thinks Lily thinks green_pepper is in red_drawer.
+
+So the answer is B: red_drawer

@@ -1,0 +1,19 @@
+ Okay, here are my step by step thoughts:
+
+1. The peas started in the green_treasure_chest (line 2)
+2. Mila moved the peas to the blue_bucket (line 3) and exited (line 4)
+3. Carter moved the peas to the green_bucket (line 5) and exited (line 6)
+4. Isla stayed in the staircase for 1 minute but made no movements (line 7) and exited (line 8)
+
+So at this point, Isla thinks the peas is in the green_bucket, since that was the last place it was moved to before she exited.
+
+5. Amelia dislikes spinach (line 9) and moved the peas to the blue_cupboard (line 10) and exited (line 11)
+6. Emma stayed in the staircase for 1 minute but made no movements (line 12) and exited (line 13)
+
+So Isla's thought of where the peas is has not changed, she still thinks it is in the green_bucket.
+
+7. Then Amelia, Carter and Isla re-enter the staircase (line 15) 
+
+Since Carter was not present for the earlier events, he does not yet have a thought of where Isla thinks the peas is.
+
+The answer is C: green_bucket, based on the assumption that Isla thinks the peas is in the last place she witnessed it being moved to before she exited the staircase.

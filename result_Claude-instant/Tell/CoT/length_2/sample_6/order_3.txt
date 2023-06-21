@@ -1,0 +1,27 @@
+ Story:
+Nathan, Isabella, William, Chloe and Elizabeth entered the basement. 
+2 The peach is in the red_basket.
+3 Nathan made no movements and stayed in the basement for 1 minute.  
+4 Nathan exited the basement.
+5 Isabella made no movements and stayed in the basement for 1 minute.
+6 Isabella exited the basement.
+7 William moved the peach to the green_bathtub.  
+8 William exited the basement.
+9 Chloe made no movements and stayed in the basement for 1 minute.
+10 Chloe exited the basement.
+11 Elizabeth moved the peach to the red_basket.
+12 Elizabeth exited the basement.
+
+Assumptions:
+1) Agents witness everything before exiting a place.
+2) Agents can infer others' thoughts if in same place or had private/public interactions.  
+3) Agents tend to lie; what they say does not reflect their actual thought.
+4) Agents tend to trust those who exited later.
+5) Private communication cannot be overheard; public claims can be heard by anyone in same place.
+
+Since Nathan was the first to exit the basement, he only saw:
+- The peach in the red_basket (statement 2)
+- No movements by Isabella (statement 5)
+
+Nathan has no information on what Chloe or the others think.
+Therefore, the answer is B. blue_bottle

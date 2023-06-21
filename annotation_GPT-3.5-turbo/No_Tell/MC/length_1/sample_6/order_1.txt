@@ -1,0 +1,24 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Hannah, Jack, Lily, Logan and Aiden entered the closet.
+2 The apple is in the green_bathtub.
+3 Hannah moved the apple to the blue_cupboard.
+4 Hannah exited the closet.
+5 Jack moved the apple to the green_drawer.
+6 Jack exited the closet.
+7 Lily moved the apple to the red_box.
+8 Hannah likes the blue_drawer.
+9 Lily exited the closet.
+10 Logan made no movements and stayed in the closet for 1 minute.
+11 Logan exited the closet.
+12 Logan likes the green_pantry.
+13 Aiden made no movements and stayed in the closet for 1 minute.
+14 Aiden exited the closet.
+15 Hannah, Jack, Lily, Logan and Aiden entered the waiting_room.
+Question: Where does Lily really think the apple is?
+Answer: red_box
+Choices: A. green_pantry, B. blue_bottle, C. blue_treasure_chest, D. blue_drawer, E. red_crate, F. green_bucket, G. green_basket, H. red_basket, I. green_box, J. green_cupboard, K. green_bathtub, L. green_crate, M. green_drawer, N. red_box, O. blue_cupboard
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: red_box
+GPT-4 Explain: N. red_box

@@ -1,0 +1,23 @@
+  Here is my step by step analysis of where Ava thinks Ella thinks Mila thinks William thinks the melon is:
+
+1. William actually thinks the melon is in the green_box. We determined this in the previous question.
+
+2. Mila witnessed everything before exiting. Based on Assumption 2, Mila can infer that William thinks the melon is in green_box.
+
+3. Ella witnessed everything before she exited. Based on Assumption 2, Ella can infer:
+
+- William thinks the melon is in green_box
+
+- Mila knows this
+
+4. Ava witnessed everything before exiting. Based on Assumption 2, Ava can infer that:
+
+- William thinks the melon is in green_box
+
+- Mila knows this 
+
+- Ella knows that Mila knows this
+
+5. Therefore, Ava thinks Ella thinks Mila thinks William thinks the melon is in:
+
+G. green_box

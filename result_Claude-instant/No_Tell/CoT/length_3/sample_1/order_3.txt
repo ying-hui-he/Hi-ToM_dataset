@@ -1,0 +1,19 @@
+ Okay, here is my step-by-step analysis:
+
+1) Nathan and Abigail were both in the back_yard when the lettuce was initially in the blue_container (lines 1-2, 9). 
+
+2) Nathan moved the lettuce to the green_cupboard (line 3).
+
+3) Abigail then moved the lettuce to the red_basket (line 9).
+
+4) Isabella then moved the lettuce back to the blue_container (line 11).
+
+5) When Nathan exited the back_yard, he would have witnessed Abigail move the lettuce to the red_basket and Isabella move it back to the blue_container (Assumption 1).
+
+6) Therefore, Nathan would think Abigail thinks the lettuce is in the red_basket (from her last action in the back_yard).
+
+7) However, Abigail would not know where Isabella thinks the lettuce is because they never interacted (Assumption 2).
+
+8) Therefore, Nathan would think Abigail thinks Isabella thinks the lettuce is in the red_basket, even though that is incorrect.
+
+The answer is D. red_drawer.

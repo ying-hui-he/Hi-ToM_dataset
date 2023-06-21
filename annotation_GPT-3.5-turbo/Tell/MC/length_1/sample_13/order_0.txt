@@ -1,0 +1,26 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Noah, Jack, Liam, Elizabeth and Owen entered the cellar.
+2 Jack dislikes the tomato.
+3 The onion is in the red_crate.
+4 Noah made no movements and stayed in the cellar for 1 minute.
+5 Noah exited the cellar.
+6 Jack made no movements and stayed in the cellar for 1 minute.
+7 Jack exited the cellar.
+8 Liam made no movements and stayed in the cellar for 1 minute.
+9 Liam exited the cellar.
+10 Jack saw a dog.
+11 Elizabeth moved the onion to the green_bucket.
+12 Elizabeth exited the cellar.
+13 Owen moved the onion to the red_crate.
+14 Owen exited the cellar.
+15 Noah, Jack, Liam, Elizabeth and Owen entered the waiting_room.
+16 Liam privately told Noah that the onion is in the green_bucket.
+17 Jack privately told Elizabeth that the onion is in the red_crate.
+Question: Where is the onion really?
+Answer: red_crate
+Choices: A. red_crate, B. blue_bucket, C. red_envelope, D. red_bottle, E. green_bucket, F. green_bottle, G. blue_bathtub, H. blue_suitcase, I. blue_crate, J. blue_container, K. green_drawer, L. blue_treasure_chest, M. red_pantry, N. red_box, O. red_drawer
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: red_crate
+GPT-4 Explain: E. green_bucket

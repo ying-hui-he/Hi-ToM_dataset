@@ -1,0 +1,16 @@
+ Here is my step by step analysis:
+
+1) The lemon started in the green_drawer (fact)
+2) Jack moved the lemon to the blue_pantry and exited (fact)
+3) Liam moved the lemon to the blue_crate and exited (fact)
+4) Aiden moved the lemon to the green_basket and exited (fact)
+5) Sophia made no movements and stayed for 1 minute then exited (fact) 
+6) Nathan moved the lemon to the green_drawer and exited (fact)
+
+This means the last known location of the lemon was the green_drawer, after Nathan moved and exited the garage.
+
+Assuming agents witness everything before exiting (Assumption 1) and agents tend to trust agents that exited later (Assumption 4), then later exiting agents have more credence.
+
+So according to facts and assumptions, the most likely answer would be:
+
+L. green_drawer

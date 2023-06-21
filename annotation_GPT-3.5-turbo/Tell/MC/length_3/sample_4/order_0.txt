@@ -1,0 +1,47 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Nathan, Lily, Amelia, Alexander and Abigail entered the hallway.
+2 The corn is in the green_bottle.
+3 Nathan moved the corn to the red_envelope.
+4 Abigail saw a cat.
+5 Nathan exited the hallway.
+6 Lily moved the corn to the green_envelope.
+7 Lily exited the hallway.
+8 Amelia moved the corn to the green_drawer.
+9 Amelia exited the hallway.
+10 Alexander moved the corn to the green_box.
+11 Alexander exited the hallway.
+12 Abigail moved the corn to the green_bottle.
+13 Abigail exited the hallway.
+14 Nathan, Lily, Amelia, Alexander and Abigail entered the waiting_room.
+15 Amelia publicly claimed that corn is in the green_bottle.
+16 Abigail privately told Amelia that the corn is in the green_envelope.
+17 Nathan, Abigail and Amelia entered the lounge.
+18 The tangerine is in the red_drawer.
+19 Nathan moved the tangerine to the blue_pantry.
+20 Nathan exited the lounge.
+21 Abigail moved the tangerine to the green_treasure_chest.
+22 Abigail exited the lounge.
+23 Amelia made no movements and stayed in the lounge for 1 minute.
+24 Amelia exited the lounge.
+25 Nathan, Abigail and Amelia entered the waiting_room.
+26 Amelia, Alexander, Lily and Nathan entered the bedroom.
+27 The green_pepper is in the green_basket.
+28 Amelia moved the green_pepper to the green_cupboard.
+29 Amelia exited the bedroom.
+30 Alexander made no movements and stayed in the bedroom for 1 minute.
+31 Alexander exited the bedroom.
+32 Lily moved the green_pepper to the red_container.
+33 Lily exited the bedroom.
+34 Nathan made no movements and stayed in the bedroom for 1 minute.
+35 Nathan exited the bedroom.
+36 Amelia, Alexander, Lily and Nathan entered the waiting_room.
+37 Lily publicly claimed that green_pepper is in the green_basket.
+38 Amelia privately told Nathan that the green_pepper is in the green_cupboard.
+Question: Where is the corn really?
+Answer: green_bottle
+Choices: A. green_basket, B. red_container, C. red_bottle, D. green_cupboard, E. blue_bucket, F. green_bottle, G. green_envelope, H. green_box, I. red_envelope, J. green_drawer, K. red_drawer, L. blue_container, M. blue_bottle, N. green_treasure_chest, O. blue_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: green_bottle
+GPT-4 Explain: G. green_envelope

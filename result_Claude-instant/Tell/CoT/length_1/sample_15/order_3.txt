@@ -1,0 +1,15 @@
+ Alright, here is my step by step thought process to solve the question:
+
+1) Carter told Ava privately that the tangerine is in the red_basket. So Carter thinks the tangerine is in the red_basket.
+
+2) Ava witnessed everything before she exited the cellar. So Ava knows that Carter moved the tangerine to the red_basket. 
+
+3) Amelia made no movements and stayed in the cellar for 1 minute after Ava exited. So Ava has no information about what Amelia thinks.
+
+4) According to assumption 2, Ava can only infer another agent's thought if they have been in the same place or had private/public interactions. Ava and Amelia had neither.
+
+5) Therefore, Ava has no information to conclude where Amelia thinks the tangerine is. The most rational assumption is that Ava thinks Amelia has no idea where the tangerine is.
+
+In summary, Carter thinks Ava thinks Amelia thinks the tangerine is: nowhere (i.e. has no idea where it is).
+
+So the answer should be B. green_drawer, as that is the only option that indicates Amelia has no knowledge of the tangerine's location.

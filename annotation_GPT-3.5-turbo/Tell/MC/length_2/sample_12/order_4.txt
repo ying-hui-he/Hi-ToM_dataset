@@ -1,0 +1,35 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Isabella saw a monkey.
+2 Mila, Nathan, Avery, Isabella and Jackson entered the kitchen.
+3 The spinach is in the green_envelope.
+4 Mila moved the spinach to the blue_container.
+5 Mila exited the kitchen.
+6 Nathan made no movements and stayed in the kitchen for 1 minute.
+7 Nathan exited the kitchen.
+8 Avery made no movements and stayed in the kitchen for 1 minute.
+9 Avery exited the kitchen.
+10 Isabella made no movements and stayed in the kitchen for 1 minute.
+11 Isabella exited the kitchen.
+12 Jackson moved the spinach to the green_envelope.
+13 Jackson exited the kitchen.
+14 Mila, Nathan, Avery, Isabella and Jackson entered the waiting_room.
+15 Jackson, Avery and Mila entered the pantry.
+16 The pear is in the green_bottle.
+17 Jackson made no movements and stayed in the pantry for 1 minute.
+18 Isabella likes the blue_container.
+19 Jackson exited the pantry.
+20 Avery moved the pear to the green_bucket.
+21 Avery exited the pantry.
+22 Mila moved the pear to the blue_crate.
+23 Mila exited the pantry.
+24 Jackson, Avery and Mila entered the waiting_room.
+25 Avery privately told Mila that the pear is in the green_bottle.
+26 Mila privately told Isabella that the pear is in the blue_crate.
+Question: Where does Nathan think Isabella thinks Jackson thinks Avery thinks the spinach is?
+Answer: blue_container
+Choices: A. green_bottle, B. blue_crate, C. blue_pantry, D. green_bucket, E. blue_bucket, F. green_pantry, G. red_drawer, H. red_container, I. red_crate, J. blue_treasure_chest, K. blue_drawer, L. green_envelope, M. blue_bottle, N. green_basket, O. blue_container
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: blue_container
+GPT-4 Explain: L. green_envelope

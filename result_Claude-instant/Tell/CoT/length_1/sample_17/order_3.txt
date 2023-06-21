@@ -1,0 +1,15 @@
+ OK, here is my step by step reasoning:
+
+1) Hannah privately told Alexander that the green_pepper is in the blue_crate (fact from story). This suggests Hannah thinks the green_pepper is in the blue_crate. 
+
+2) Alexander exited the den before Evelyn (fact from story). Since Evelyn exited later, she may distrust Alexander and think differently from him.
+
+3) Evelyn moved the green_pepper to the blue_treasure_chest after Alexander exited (fact from story). This suggests Evelyn thinks the green_pepper is in the blue_treasure_chest.
+
+4) Hannah was not present when Evelyn moved the green_pepper. So Hannah would not know that Evelyn's actual thought is that the green_pepper is in the blue_treasure_chest.
+
+5) Based on the assumption that agents can only infer others' thoughts if they were in the same place, and the fact that Hannah privately told Alexander but not Evelyn, Hannah can only know Alexander's original thought that the green_pepper is in the blue_crate.
+
+Therefore, the answer is:
+
+Hannah thinks Evelyn thinks Alexander thinks the green_pepper is in the **G. blue_crate.**

@@ -1,0 +1,27 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 William, Jack, Charlotte, Noah and Hannah entered the hall.
+2 Noah saw a monkey.
+3 The carrot is in the red_basket.
+4 William made no movements and stayed in the hall for 1 minute.
+5 William exited the hall.
+6 Hannah saw a mouse.
+7 Jack made no movements and stayed in the hall for 1 minute.
+8 Jack exited the hall.
+9 Charlotte made no movements and stayed in the hall for 1 minute.
+10 Charlotte exited the hall.
+11 Charlotte dislikes the tomato.
+12 Noah moved the carrot to the green_envelope.
+13 Noah exited the hall.
+14 Hannah moved the carrot to the red_basket.
+15 Hannah exited the hall.
+16 William, Jack, Charlotte, Noah and Hannah entered the waiting_room.
+17 Charlotte publicly claimed that carrot is in the green_envelope.
+18 Hannah privately told Charlotte that the carrot is in the blue_container.
+Question: Where does Hannah think William thinks the carrot is?
+Answer: red_basket
+Choices: A. green_envelope, B. red_basket, C. blue_container, D. red_crate, E. green_drawer, F. blue_bucket, G. green_cupboard, H. red_bottle, I. green_treasure_chest, J. blue_cupboard, K. red_pantry, L. red_container, M. blue_bathtub, N. red_envelope, O. blue_pantry
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: red_basket
+GPT-4 Explain: Hannah thinks William thinks the carrot is in the red_basket. (Option B)

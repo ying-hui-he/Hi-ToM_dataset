@@ -1,0 +1,27 @@
+ My analysis is as follows:
+
+1. Avery entered and exited first. However, she did not see the watermelon moved.
+2. Owen entered and exited after Avery. Amelia would think Avery trusts Owen more than herself, since he exited later.
+3. Ella moved the watermelon after Avery and Owen exited. 
+4. Amelia would think that Avery thinks the watermelon is where it was when she entered, which was the blue_container.
+5. Ella exited after Avery and Owen. 
+6. Amelia would think that Owen thinks the watermelon is in the blue_container, where Avery last saw it.
+7. Therefore, Amelia would think that Ella thinks that Owen thinks Avery thinks the watermelon is in:
+
+H. blue_crate
+
+My reasoning:
+
+Avery last saw the watermelon in the blue_container when she entered. 
+Owen exited after Avery, so Amelia thinks Owen believes what Avery believes - that the watermelon is in the blue_container.
+Ella exited after both Avery and Owen, so Amelia thinks Ella believes what Owen believes.
+Therefore, Amelia thinks Ella thinks Owen thinks Avery thinks the watermelon is in the blue_container.
+
+The key points I considered:
+
+- The exit order of the agents
+- What each agent likely witnessed 
+- Who each agent is likely to trust based on exit order
+- Applying the assumptions about how the agents think
+
+Let me know if you have any other questions!

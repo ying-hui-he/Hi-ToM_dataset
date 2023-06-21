@@ -1,0 +1,22 @@
+Read the following story and answer the multiple-choice question. Think step-by-step. Provide the answer first, and then explain it.
+Story:
+1 Emily, Abigail, Amelia, Elizabeth and Hannah entered the staircase.
+2 The asparagus is in the green_bottle.
+3 Emily made no movements and stayed in the staircase for 1 minute.
+4 Emily exited the staircase.
+5 Abigail made no movements and stayed in the staircase for 1 minute.
+6 Abigail exited the staircase.
+7 Amelia made no movements and stayed in the staircase for 1 minute.
+8 Amelia exited the staircase.
+9 Elizabeth made no movements and stayed in the staircase for 1 minute.
+10 Elizabeth exited the staircase.
+11 Hannah made no movements and stayed in the staircase for 1 minute.
+12 Hannah exited the staircase.
+13 Emily, Abigail, Amelia, Elizabeth and Hannah entered the waiting_room.
+Question: Where does Amelia think Hannah thinks Emily thinks the asparagus is?
+Answer: green_bottle
+Choices: A. green_basket, B. green_envelope, C. red_container, D. red_basket, E. blue_bucket, F. red_crate, G. blue_cupboard, H. green_cupboard, I. blue_bathtub, J. red_bottle, K. blue_bottle, L. green_bottle, M. green_box, N. red_box, O. green_bucket
+
+Note: You should assume the following. (1) An agent witnesses everything and every movements before exiting a location. (2) An agent A can infer another agent B's mental state only if A and B have been in the same location, or have private or public interactions. (3) Note that every agent tend to lie. What a character tells others doesn't affect his actual belief. An agent tend to trust a agent that exited the room later than himself. The exit order is known to all agents. (4) Agents in private communications know that others won't hear them, but they know that anyone can hear any public claims.
+Correct answer: green_bottle
+GPT-4 Explain: L. green_bottle

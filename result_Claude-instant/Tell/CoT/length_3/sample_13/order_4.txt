@@ -1,0 +1,25 @@
+ Step by step thought process:
+
+1) Mila saw the onion in the green_crate (fact)
+
+2) Mila, Abigail, Emily and Lily entered the master_bedroom together (fact)  
+
+3) Mila made no movements and stayed in the master_bedroom for 1 minute before exiting (fact)
+
+4) Abigail moved the onion to the red_bucket, however this does not change Mila's belief that the onion is in the green_crate since she had already exited the room (facts)  
+
+5) Lily and Emily also moved the onion after Mila had exited, so as far as Mila knows, the onion is still  in the green_crate (facts and Assumption 1)
+
+6) Therefore, Mila thinks the onion is in the green_crate (inferred)
+
+7) Abigail thinks Mila thinks the onion is in the green_crate because they were in the master_bedroom together when Mila saw the onion's original location (Assumption 2)
+
+8) Jack was not with Mila, Abigail and Emily when Mila saw the onion, so he has no information about Mila's thoughts (fact and Assumption 2)
+
+9) Therefore, Abigail thinks Mila thinks the onion is in the green_crate, but Jack has no basis to think anything about Mila's thoughts (inferred)
+
+10) According to Assumption 3, the characters tend to lie, so their claims do not reflect their actual thoughts
+
+11) Therefore, Emily thinks Jack thinks Abigail thinks Mila thinks the onion is in the green_crate (inferred from all previous steps)
+
+So the answer is B: green_crate
