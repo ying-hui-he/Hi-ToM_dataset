@@ -1,0 +1,19 @@
+1. Nathan, Logan, Jackson, Abigail and Isabella entered the back_yard.
+2. The lettuce is in the blue_container.
+3. Nathan moved the lettuce to the green_cupboard.
+4. Nathan exited the back_yard.
+5. Logan moved the lettuce to the blue_treasure_chest.
+6. Logan exited the back_yard.
+7. Jackson made no movements and stayed in the back_yard for 1 minute.
+8. Jackson exited the back_yard.
+9. Abigail moved the lettuce to the red_basket.
+10. Abigail exited the back_yard.
+11. Isabella moved the lettuce to the blue_container.
+
+Based on assumption (3), we know that what Isabella tells others doesn't affect her actual thought. Therefore, we cannot trust that Isabella really thinks the lettuce is in the blue_container just because she moved it there. 
+
+However, based on assumption (4), we know that Isabella tends to trust a agent that exited the room later than herself. Since Nathan exited the hallway after Isabella, she may trust his claim about the location of the lettuce. 
+
+Looking at the story, we see that Nathan moved the lettuce to the green_cupboard in the back_yard, and then later moved the tangerine to the red_container in the hallway. Therefore, Isabella may really think that the lettuce is in the green_cupboard, not the blue_container. 
+
+The answer is O. green_cupboard.

@@ -1,0 +1,20 @@
+1. Logan, Ava, Evelyn, Charlotte and William entered the kitchen.
+2. The sweet_potato is in the red_container.
+3. Ava saw a mouse.
+4. Logan made no movements and stayed in the kitchen for 1 minute.
+5. Logan exited the kitchen.
+6. Ava moved the sweet_potato to the blue_cupboard.
+7. Ava exited the kitchen.
+8. Evelyn made no movements and stayed in the kitchen for 1 minute.
+9. Evelyn exited the kitchen.
+10. Charlotte moved the sweet_potato to the green_drawer.
+11. Charlotte exited the kitchen.
+12. William moved the sweet_potato to the red_container.
+
+Based on assumption (1), we know that Evelyn witnessed all the movements related to the sweet_potato. However, we don't know if she had any private or public interactions with any of the other agents. 
+
+Based on assumption (3), we know that what a character tells others doesn't affect their actual thought. Therefore, we cannot rely on what any of the agents said about the sweet_potato's location.
+
+Based on assumption (4), we know that an agent tends to trust another agent that exited the room later than themselves. Therefore, we can assume that Evelyn trusts William's claim that the sweet_potato is in the red_container.
+
+Therefore, the answer is F. red_container.

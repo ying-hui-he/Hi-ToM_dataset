@@ -1,0 +1,11 @@
+1. Elizabeth, Alexander, Nathan, Owen and Jackson entered the cellar.
+2. Jackson lost his watch.
+3. The lime is in the blue_crate.
+4. Elizabeth moved the lime to the green_pantry.
+5. Elizabeth exited the cellar.
+
+Based on assumption (1), we know that Elizabeth witnessed the lime being in the blue crate and then moved it to the green pantry. However, based on assumption (3), we cannot trust what Elizabeth tells others about the lime's location. 
+
+We also know that Nathan saw a monkey and Alexander made no movements in the cellar before exiting. This information is not relevant to the location of the lime.
+
+Therefore, the answer to the question is N. green_pantry, as that is where Elizabeth actually moved the lime to.

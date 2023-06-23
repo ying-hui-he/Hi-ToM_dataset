@@ -1,0 +1,11 @@
+1. Logan and Emma entered the hallway, but made no movements and exited after 1 minute. This information doesn't give us any clue about the location of the peas.
+2. The peas is in the red_bottle. This information tells us that the peas is in the red_bottle.
+3. Isabella moved the peas to the green_bottle, but later moved it to the blue_treasure_chest. This information tells us that the peas is not in the green_bottle anymore, but in the blue_treasure_chest.
+4. Hannah moved the peas to the blue_treasure_chest. This information confirms that the peas is in the blue_treasure_chest.
+5. Chloe moved the peas to the red_bottle, but later lost his phone and exited the hallway. This information doesn't give us any clue about the location of the peas.
+6. Isabella moved the peas to the blue_treasure_chest again, after Logan and Emma entered the hallway. This information confirms that the peas is still in the blue_treasure_chest.
+7. Logan moved the peas to the blue_bathtub, after Isabella exited the hallway. This information tells us that the peas is not in the blue_treasure_chest anymore, but in the blue_bathtub.
+8. Emma moved the peas to the red_pantry, after Logan exited the hallway. This information tells us that the peas is not in the blue_bathtub anymore, but in the red_pantry.
+9. Logan publicly claimed that the peas is in the green_bottle, but Emma privately told him that the peas is in the red_bottle. This information tells us that Logan is lying about the location of the peas, and Emma is telling the truth. Therefore, the peas is in the red_bottle.
+
+Answer: A. red_bottle
