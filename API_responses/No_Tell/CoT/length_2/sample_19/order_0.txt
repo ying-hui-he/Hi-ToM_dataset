@@ -1,9 +1,0 @@
-K. blue_container
-
-Explanation: The tomato's location changes as follows:
-1. Initially, it is in the blue_container (line 2).
-2. Sophia moves it to the blue_cupboard (line 3).
-3. Jackson moves it to the blue_crate (line 5).
-4. Nathan moves it back to the blue_container (line 11).
-
-Since there are no more movements involving the tomato after line 11, its final location is the blue_container.

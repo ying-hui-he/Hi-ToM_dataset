@@ -1,9 +1,0 @@
-Answer: M. blue_crate
-
-Explanation: 
-1. Aiden moved the lemon to the green_basket (step 7) and then exited the garage (step 8).
-2. Nathan moved the lemon to the green_drawer (step 11) and then exited the garage (step 12).
-3. Nathan thinks Aiden thinks the lemon is in the green_basket because Aiden moved it there and exited before Nathan.
-4. Liam moved the lemon to the blue_crate (step 5) and then exited the garage (step 6). He knows Nathan moved the lemon after Aiden, so he thinks Nathan thinks Aiden thinks the lemon is in the green_drawer.
-5. Jack exited the garage before Liam (step 4), so he doesn't know about Liam's movement. Therefore, Jack thinks Liam thinks Nathan thinks Aiden thinks the lemon is in the green_basket.
-6. However, Liam knows that he moved the lemon to the blue_crate after Jack exited the garage. So, Liam thinks Jack thinks Nathan thinks Aiden thinks the lemon is in the blue_crate (M).

@@ -1,7 +1,0 @@
-Answer: I. green_bucket
-
-Explanation: 
-1. William thinks the plum is in the red_pantry because he didn't see Evelyn move it to the green_bucket (step 7) and exited before Jacob moved it back to the red_pantry (step 14).
-2. Nathan thinks William thinks the plum is in the red_pantry because he exited before William (step 6) and didn't see Jacob move it back to the red_pantry (step 14).
-3. Evelyn knows Nathan thinks William thinks the plum is in the red_pantry, but she moved it to the green_bucket (step 7) and exited after Nathan (step 8), so she thinks Nathan thinks William thinks the plum is in the green_bucket.
-4. Jacob thinks Evelyn thinks Nathan thinks William thinks the plum is in the green_bucket because he saw her move it there (step 7) and exited after her (step 15).

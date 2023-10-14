@@ -89,8 +89,5 @@ ENV/
 .ropeproject
 
 # Project-specific directories
-data
-worlds
-models/
-data_figs/
-*.zip
+*_responses/
+Analyze_script/

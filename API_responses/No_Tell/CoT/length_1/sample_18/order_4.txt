@@ -1,7 +1,0 @@
-A. blue_treasure_chest
-
-Explanation:
-1. Charlotte moved the corn to the green_crate, so she knows the corn is in the green_crate.
-2. Liam entered the cellar after Charlotte, so Charlotte thinks Liam knows she moved the corn to the green_crate.
-3. Jackson exited the cellar before Charlotte moved the corn, so Charlotte thinks Liam thinks Jackson believes the corn is still in the blue_treasure_chest.
-4. Benjamin entered the cellar after Jackson but before Charlotte moved the corn, so Charlotte thinks Liam thinks Jackson thinks Benjamin believes the corn is in the blue_treasure_chest.

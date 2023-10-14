@@ -1,5 +1,0 @@
-To answer this question, we need to track the movements of William and the corn. William initially moved the corn from the green_bathtub to the green_cupboard, but later made no movements and stayed in the pantry for a minute before exiting. Emily then moved the corn from the green_cupboard to the red_envelope before exiting the pantry. Isla then moved the corn from the red_envelope to the green_bottle before exiting the pantry. Jackson then moved the corn from the green_bottle back to the green_bathtub before exiting the pantry. 
-
-Based on these movements, Emily would know that William moved the corn from the green_bathtub to the green_cupboard, but she would not know that he later made no movements and stayed in the pantry for a minute. Therefore, she would think that William still believes the corn is in the green_cupboard. 
-
-The answer is M. green_cupboard.

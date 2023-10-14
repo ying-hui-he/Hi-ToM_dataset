@@ -1,7 +1,0 @@
-Answer: M. green_drawer
-
-Explanation: 
-1. Lily thinks the apple is in the red_box because she moved it there (step 7).
-2. Hannah exited the closet before Lily (step 4), so she thinks the apple is in the blue_cupboard (step 3).
-3. Jack exited the closet after Hannah but before Lily (step 6), so he thinks the apple is in the green_drawer (step 5).
-4. Aiden exited the closet after everyone else (step 14), so he knows the latest information about the apple's location. He thinks Jack thinks Hannah thinks Lily thinks the apple is in the green_drawer (step 5).

@@ -1,8 +1,0 @@
-Answer: L. green_drawer
-
-Explanation: 
-1. Evelyn thinks the spinach is in the red_container (line 7).
-2. Jackson exited the living_room after Evelyn (line 4 and 9), so he knows Evelyn moved the spinach to the red_container.
-3. Liam exited the living_room after Jackson (line 11), so he knows Jackson saw Evelyn move the spinach to the red_container.
-4. Noah moved the spinach to the green_drawer (line 12), but Liam doesn't know this because he exited the living_room before Noah.
-5. Therefore, Liam thinks Jackson thinks Evelyn thinks the spinach is in the green_drawer.

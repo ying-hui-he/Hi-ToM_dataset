@@ -1,8 +1,0 @@
-A. blue_crate
-
-Explanation:
-Step 1: Jack moved the peas to the red_crate (line 8).
-Step 2: Emily moved the peas to the green_bottle (line 10).
-Step 3: Emily publicly claimed that peas are in the blue_suitcase (line 16), but this doesn't affect Jack's belief since he moved the peas to the red_crate.
-Step 4: Logan knows that Jack likes the blue_crate (line 6) and that Jack moved the peas to the red_crate (line 8). Since Logan and Jackson have been in the same location and had private interactions (line 41), Logan can infer Jackson's mental state.
-Step 5: Logan thinks Jackson thinks Jack thinks the peas are in the blue_crate because Jack likes the blue_crate and moved the peas to the red_crate. However, agents tend to lie, so Logan believes Jackson thinks Jack lied about the peas' location and put them in the blue_crate instead.

@@ -1,7 +1,0 @@
-Answer: C. green_bathtub
-
-Explanation: 
-1. William exited the cellar after Evelyn, so he saw Alexander move the carrot to the green_bathtub (step 11). Evelyn didn't see this, so she thinks the carrot is still in the blue_container (step 3).
-2. Evelyn exited the cellar after Isabella, so Isabella doesn't know what Evelyn thinks. However, William knows that Evelyn thinks the carrot is in the blue_container.
-3. Logan exited the cellar last, so he saw all the movements, including Alexander moving the carrot to the green_bathtub and himself moving it to the red_container (steps 11 and 13). However, Logan knows that William thinks Evelyn thinks the carrot is in the blue_container.
-4. Since Logan knows that William saw Alexander move the carrot to the green_bathtub, Logan thinks Evelyn thinks William thinks the carrot is in the green_bathtub.

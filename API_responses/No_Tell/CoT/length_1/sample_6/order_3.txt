@@ -1,9 +1,0 @@
-Answer: O. blue_cupboard
-
-Explanation: 
-1. Hannah moved the apple to the blue_cupboard and then exited the closet.
-2. Jack entered the closet and moved the apple to the green_drawer, so he knows that Hannah last saw the apple in the blue_cupboard.
-3. Lily entered the closet and moved the apple to the red_box. Jack knows that Lily last saw the apple in the red_box.
-4. Since Jack exited the closet after Hannah, he knows that Hannah thinks the apple is in the blue_cupboard.
-5. Jack also knows that Lily thinks the apple is in the red_box, but since he exited the closet after Lily, he trusts his own knowledge more.
-6. Therefore, Jack thinks Hannah thinks Lily thinks the apple is in the blue_cupboard.
