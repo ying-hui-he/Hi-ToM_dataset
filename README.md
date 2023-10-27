@@ -1,6 +1,6 @@
 # Hi-ToM Dataset
 
-This is the dataset for the paper "Hi-ToM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models".
+This is the dataset for the paper ["Hi-ToM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models"](https://arxiv.org/abs/2310.16755).
 
 <img src=media/Picture1.png height=430>
 
